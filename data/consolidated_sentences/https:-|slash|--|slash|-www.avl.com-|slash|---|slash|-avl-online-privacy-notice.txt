@@ -1,0 +1,720 @@
+AVL Online Privacy Notice - AVL Online Privacy Notice - Content - avl.com
+This website uses cookiesWe use cookies to help improve your experience with our website
+They help us better understand how our website is used, so we can deliver tailored content based on your interests
+You can change your cookie settings any time
+For more information, see our AVL Online Privacy Notice
+Accept all cookies  Learn more and manage cookies Cookie declaration  About Necessary (14)Preferences (2)Statistics (11)Marketing (19)Unclassified (1) Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+The website cannot function properly without these cookies
+NameProviderPurposeExpiryTypeAVL_REGION_COOKIE_V1www.avl.comkeeps the selected region for avl.com
+1 yearHTTPCOOKIE_SUPPORTwww.avl.comThis cookie determines whether the browser accepts cookies.1 yearHTTPCookieConsentCookiebotStores the user's cookie consent state for the current domain1 yearHTTPGUEST_LANGUAGE_IDwww.avl.comDetermines the preferred language of the visitor
+Allows the website to set the preferred language upon the visitor's re-entry
+1 yearHTTPhex (32)www.avl.comUsed to manage server calls to the website's backend systems
+1 dayHTTPJSESSIONIDwww.avl.comPreserves users states across page requests.SessionHTTPLFR_SESSION_STATE_#www.avl.comPreserves the visitor's session state across page requests.SessionHTTPR8_THEME_COLORwww.avl.comPending1 dayHTTPtest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPli_gcLinkedInStores the user's cookie consent state for the current domain179 daysHTTP_GRECAPTCHAwww.recaptcha.netThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.179 daysHTTPrc::arecaptcha.netThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.PersistentHTMLrc::brecaptcha.netThis cookie is used to distinguish between humans and bots
+SessionHTMLrc::crecaptcha.netThis cookie is used to distinguish between humans and bots
+SessionHTML  Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+NameProviderPurposeExpiryTypelang [x2]LinkedInRemembers the user's selected language version of a websiteSessionHTTP  Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+NameProviderPurposeExpiryType_gaGoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.2 yearsHTTP_ga_#www.avl.comUsed by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit
+2 yearsHTTP_gatGoogleUsed by Google Analytics to throttle request rate1 dayHTTP_gidGoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTP_hjAbsoluteSessionInProgresswww.avl.comThis cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.1 dayHTTP_hjFirstSeenwww.avl.comThis cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.1 dayHTTP_hjSession_#www.avl.comCollects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.1 dayHTTP_hjSessionUser_#www.avl.comCollects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.1 yearHTTPHistory.storewww.avl.comContains an visitor ID - This is used to track visitors' navigation and interaction on the website for internal website-optimization
+SessionHTMLcollectGoogleUsed to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.SessionPixelAnalyticsSyncHistoryLinkedInUsed in connection with data-synchronization with third-party analysis service
+29 daysHTTP  Marketing cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+NameProviderPurposeExpiryType_gcl_auGoogleUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services
+3 monthsHTTPIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPpagead/landing [x2]GoogleCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+SessionPixelads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelbcookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 yearHTTPbscookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 yearHTTPlidcLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 dayHTTPUserMatchHistoryLinkedInUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+29 daysHTTPVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPytidb::LAST_RESULT_ENTRY_KEYYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-cast-availableYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-cast-installedYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-connected-devicesYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-idYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-fast-check-periodYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-appYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-nameYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTML  Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies
+NameProviderPurposeExpiryType./pubData/source/images/www.avl.comPendingPersistentHTML Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+For all other types of cookies we need your permission.This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy
+Allow selection
+Navigation
+Skip to Content
+AVL Global
+AVL Global
+AVL China
+AVL Deutschland
+AVL France
+AVL Hungary
+AVL España
+AVL Italy
+AVL Japan
+AVL Korea
+AVL México
+AVL North America
+AVL Scandinavia
+AVL UK
+More Locations
+Sign In
+AVL Global
+AVL Global
+AVL China
+AVL Deutschland
+AVL France
+AVL Hungary
+AVL España
+AVL Italy
+AVL Japan
+AVL Korea
+AVL México
+AVL North America
+AVL Scandinavia
+AVL UK
+More Locations
+Sign In
+Solutions
+Powertrain Elements
+Industries
+Topics
+About AVL
+Events and Webinars
+Downloads and Publications
+Customer Services
+Experience Cloud
+Career
+Solutions
+Engineering
+Testing Solutions
+Simulation Technologies
+Development Speed and Methodology
+Manufacturing
+Battery
+Controls and Electronics
+E-Drive
+Engine
+Transmission
+Complete Vehicle
+2 Wheelers
+Aviation
+Commercial On Road
+Construction Equipment
+Large Engines
+Passenger Cars
+Tractors
+AVL RACETECH
+Electrification
+Data Intelligence
+ADAS and Autonomous Driving
+Emission
+Calibration
+Vehicle
+Company
+Executive Board
+Press and News
+AVL Global
+Supplier Portal
+Events
+AVL Webinar Series
+Download Center
+AVL Focus Magazine
+Testing Solutions
+Simulation Technologies
+Working at AVL
+Fields of Interest
+Next Generation
+Career Development
+AVL Inside
+Engineering
+ADAS and Autonomous Driving
+Battery
+Calibration
+Controls and Electronics
+E-Drive
+Engine
+Engineering Services
+Fuel Cell Engineering
+Transmission
+Vehicle
+Consulting Services
+Support and Manage
+Evaluate and Calibrate
+Integrate and Simulate
+Test and Validate
+Measure and Control
+Customer Services
+Testing Focus
+AVL Tech Center Solutions
+AVL Stingray
+Consulting Services
+Simulation Solutions
+Simulation Tools
+Customer Services
+News and Highlights
+Consulting Services
+Process Innovation Services
+MOBEO – AVL’s Virtualization Approach
+AVL Lab Management™ Software Solutions
+Software Solutions and Tools for In-Vehicle Testing
+Connecting Solutions
+Consulting Services
+Prototypes
+Racing
+Industrial
+Tuning
+Engineering Solutions for Batteries
+Testing Solutions for Batteries
+Simulation Solutions for Batteries
+Engineering Solutions for Controls and Electronics
+Testing Solutions for Controls and Electronics
+Simulation Solutions for Controls and Electronics
+Engineering Solutions for E-Drive
+Testing Solutions for E-Drive
+Simulation Solutions for E-Drive
+Engineering Solutions for Engines
+Testing Solutions for Engines
+Simulation Solutions for Engines
+Engineering Solutions for Transmissions
+Testing Solutions for Transmissions
+Simulation Solutions for Transmissions
+Engineering Solutions for Vehicle Systems
+Testing Solutions for Vehicle Systems
+Simulation Solutions for Vehicle Systems
+Engineering Solutions for Commercial On Road
+Testing Solutions for Commercial On Road
+Simulation Solutions for Commercial On Road
+Engineering Solutions for Construction Equipment
+Testing Solutions for Construction Equipment
+Simulation Solutions for Construction Equipment
+Engineering Solutions for Large Engines
+Testing Solutions for Large Engines
+Simulation Solutions for Large Engines
+Engineering Solutions for Passenger Cars
+Testing Solutions for Passenger Cars
+Simulation Solutions for Passenger Cars
+Engineering Solutions for Tractors
+Testing Solutions for Tractors
+Simulation Solutions for Tractors
+System Design, Calibration and Testing Services
+Tailored Software and Controls Development
+Tools and Methods for Development and Testing
+Pollutant Emission
+CO₂ Reduction
+ICE based Powertrains
+Hybrid based Powertrains
+RDE / ISC & WLTP
+Alternative Fuels
+Emission Legislation Expertise
+Calibration Tools
+Engineering Services
+Testing Facilities
+Development
+Systems
+Functions
+Targets
+Press Releases
+Picture Gallery
+Fact Sheet
+Contact
+Mission and Vision
+AVL Supplier
+Material Groups
+eProcurement
+SRM Portal
+AVL Supplier Day
+Upcoming Events
+Past Events
+Upcoming
+On demand
+AVL Focus 2022
+AVL Focus 2021
+AVL Focus 2020
+AVL Focus 2019
+AVL Focus 2018
+AVL Focus 2017
+AVL Focus 2016
+AVL Focus 2015
+AVL Focus 2014
+AVL Focus 2013
+AVL Focus 2012
+AVL Focus 2011
+AVL Focus 2010
+AVL Focus 2009
+AVL Focus 2008
+Service Modules
+AVL Digital Services
+Managed Service Contracts
+AVL Skills Center
+AVL eShop™
+Hotline Support
+Electrified Services
+Social Media
+LinkedIn
+Facebook
+Twitter
+YouTube
+Contact
+Get in touch with us
+Hotline Support
+Contact Us
+Solutions
+Powertrain Elements
+Industries
+Topics
+About AVL
+Events and Webinars
+Downloads and Publications
+Customer Services
+Experience Cloud
+Career
+Contact
+Get in touch with us
+Hotline Support
+Contact Us
+Social Media
+Go back
+Engineering
+Testing Solutions
+Simulation Technologies
+Development Speed and Methodology
+Manufacturing
+Battery
+Controls and Electronics
+E-Drive
+Engine
+Transmission
+Complete Vehicle
+2 Wheelers
+Aviation
+Commercial On Road
+Construction Equipment
+Large Engines
+Passenger Cars
+Tractors
+AVL RACETECH
+Electrification
+Data Intelligence
+ADAS and Autonomous Driving
+Emission
+Calibration
+Vehicle
+Company
+Executive Board
+Press and News
+AVL Global
+Supplier Portal
+Events
+AVL Webinar Series
+Download Center
+AVL Focus Magazine
+Testing Solutions
+Simulation Technologies
+Working at AVL
+Fields of Interest
+Next Generation
+Career Development
+AVL Inside
+Contact
+Get in touch with us
+Hotline Support
+Contact Us
+Social Media
+Go back
+ADAS and Autonomous Driving
+Battery
+Calibration
+Controls and Electronics
+E-Drive
+Engine
+Engineering Services
+Fuel Cell Engineering
+Transmission
+Vehicle
+Consulting Services
+Support and Manage
+Evaluate and Calibrate
+Integrate and Simulate
+Test and Validate
+Measure and Control
+Customer Services
+Testing Focus
+AVL Tech Center Solutions
+AVL Stingray
+Consulting Services
+Simulation Solutions
+Simulation Tools
+Customer Services
+News and Highlights
+Consulting Services
+Process Innovation Services
+MOBEO – AVL’s Virtualization Approach
+AVL Lab Management™ Software Solutions
+Software Solutions and Tools for In-Vehicle Testing
+Connecting Solutions
+Consulting Services
+Prototypes
+Racing
+Industrial
+Tuning
+Engineering Solutions for Batteries
+Testing Solutions for Batteries
+Simulation Solutions for Batteries
+Engineering Solutions for Controls and Electronics
+Testing Solutions for Controls and Electronics
+Simulation Solutions for Controls and Electronics
+Engineering Solutions for E-Drive
+Testing Solutions for E-Drive
+Simulation Solutions for E-Drive
+Engineering Solutions for Engines
+Testing Solutions for Engines
+Simulation Solutions for Engines
+Engineering Solutions for Transmissions
+Testing Solutions for Transmissions
+Simulation Solutions for Transmissions
+Engineering Solutions for Vehicle Systems
+Testing Solutions for Vehicle Systems
+Simulation Solutions for Vehicle Systems
+Engineering Solutions for Commercial On Road
+Testing Solutions for Commercial On Road
+Simulation Solutions for Commercial On Road
+Engineering Solutions for Construction Equipment
+Testing Solutions for Construction Equipment
+Simulation Solutions for Construction Equipment
+Engineering Solutions for Large Engines
+Testing Solutions for Large Engines
+Simulation Solutions for Large Engines
+Engineering Solutions for Passenger Cars
+Testing Solutions for Passenger Cars
+Simulation Solutions for Passenger Cars
+Engineering Solutions for Tractors
+Testing Solutions for Tractors
+Simulation Solutions for Tractors
+System Design, Calibration and Testing Services
+Tailored Software and Controls Development
+Tools and Methods for Development and Testing
+Pollutant Emission
+CO₂ Reduction
+ICE based Powertrains
+Hybrid based Powertrains
+RDE / ISC & WLTP
+Alternative Fuels
+Emission Legislation Expertise
+Calibration Tools
+Engineering Services
+Testing Facilities
+Development
+Systems
+Functions
+Targets
+Press Releases
+Picture Gallery
+Fact Sheet
+Contact
+Mission and Vision
+AVL Supplier
+Material Groups
+eProcurement
+SRM Portal
+AVL Supplier Day
+Upcoming Events
+Past Events
+Upcoming
+On demand
+AVL Focus 2022
+AVL Focus 2021
+AVL Focus 2020
+AVL Focus 2019
+AVL Focus 2018
+AVL Focus 2017
+AVL Focus 2016
+AVL Focus 2015
+AVL Focus 2014
+AVL Focus 2013
+AVL Focus 2012
+AVL Focus 2011
+AVL Focus 2010
+AVL Focus 2009
+AVL Focus 2008
+Service Modules
+AVL Digital Services
+Managed Service Contracts
+AVL Skills Center
+AVL eShop™
+Hotline Support
+Electrified Services
+Contact
+Get in touch with us
+Hotline Support
+Contact Us
+Social Media
+AVL Online Privacy Notice - AVL Online Privacy Notice - Content
+AVL Online Privacy Notice
+Lesen Sie unsere AVL Online Datenschutzerklärung hier
+The protection of your privacy is important to AVL.
+This AVL Online Privacy Notice applies to data we collect from users when visiting and operating our online channels like websites, apps, etc
+For any other processing of Personal Data of the AVL group of companies, please find here our general AVL Transparency Statement according to Art
+13 and 14 EU General Data Protection Regulation (GDPR).
+We know that you care about which information about you is used and stored
+We strictly observe the legal provisions and regulations applicable to us when processing your Personal Data and we are committed to maintaining robust privacy protections for all our users.
+This AVL Privacy Notice is designed to help you understand how we collect, use and safeguard the in-formation you provide
+It explains how we handle your personal information and how you can access and update your preferences
+The AVL Privacy Notice applies to all of your interactions with AVL through:
+AVL.com
+subsites to AVL.com
+sister sites, apps etc
+if these include this Privacy Notice by reference
+Personal data you share with us through these sites will be processed by AVL and the AVL group of companies according to the principles set out below:
+Contents
+GENERAL INFORMATION ABOUT DATA WE COLLECT
+AREAS OF THE AVL WEBSITE
+Information about the collection of Personal Data when you visit our website
+Information about the collection of Personal Data when you register on our website
+Information about the collection of Personal Data when you email us or fill in a form
+Information about the Collection of Personal Data when you Refer a Friend, or receive a Respective Message (Forward to a Friend)
+Information about the Collection of Personal Data when you use other areas (e.g
+our Shop)
+PRIVACY AND TRUST GO HAND-IN-HAND
+BOTH ARE VALUABLE TO US.
+Responsible Body ("Controller")
+Your Rights as a Data Subject
+STORAGE OF YOUR PERSONAL DATA
+Retention of Your Personal Data
+Deletion of Your Personal Data
+Updating or Changing your AVL.com Account
+Security Measures we Apply When Holding Your Data
+ARE YOUR DATA BEING SHOWN TO OTHERS?
+Sharing your Personal Data within the AVL group of companies
+Sharing your personal data with payment service providers
+Use of other Service Providers
+Secure Transmission
+YOUR PERSONAL DATA IN AVL MARKETING AND PROMOTION ACTIVITIES
+General
+Opting-out from Our Communications
+Newsletter Tracking
+Customized Ads on Facebook and LinkedIn
+COOKIES
+ANALYTICS
+GENERAL INFORMATION ABOUT DATA WE COLLECT
+We collect “Non-Personal Data” but also “Personal Data”.
+Personal Data include, for example, your email, contact and company address information etc
+that you provide us (e.g
+through a registration process on www.avl.com or through other channels).
+Non-Personal Data include all information that cannot be used to identify you as a person, such as usage data, generic demographic information, landing page hit rates referring to our website pages or URLs
+When Non-Personal Data is being linked to Personal Data it becomes Personal Data.
+AREAS OF THE AVL WEBSITE
+Information about the collection of Personal Data when you visit our website
+Anyone may visit the public areas of the AVL website www.avl.com without disclosing his or her name, address, etc
+Such information is only requested by AVL if needed to provide services to you or to fulfill requests you may have (such as registering, ordering documents, subscribing to a newsletter, registering for an event, etc.).
+If you use our website for informational purposes only and for as long as you do not provide us with any information about you, we only collect data that is technically necessary for us to display our website and to ensure its stability and security (legal basis is Art
+6 (1) (f) GDPR)
+Such data are:
+IP address of the accessing computer
+Date and time of retrieval
+URL of the retrieved page
+Status message as to whether the retrieval was successful
+Transmitted amount of data
+The referrer URL from which the user came to the retrieved page
+HTTP user agent information (i.e
+information about the accessing device, its operating system, and its browser)
+information stored in Cookies we have set
+log files we have created to be able to describe an event that has occurred during your visit (e.g
+acceptance of Terms of Use).
+Information about the collection of Personal Data when you register on our website
+If you want to enjoy content on our website in a user-targeted manner, you are required to register for our closed user area, made available as part of our website (e.g
+on "my AVL")
+The content and applications in such closed user areas are selected according to your account settings and access rights.
+The Personal Data we collect within such closed user areas may include the following, depending on what you have provided:
+Name and Contact Details (first name, last name, email address, postal address)
+Registration Information (preferences, participation details of an event, food requests, special assistance requests for an event, event ticket prices and payment methods)
+Geographical Data (information about where you are located, such as country, city, postal code)
+Payment Data (payment details such as billing address, payment method and payment status)
+Interests and Preferences (your interests and preferences related to our products and solutions and what you have downloaded from AVL.com)
+The purpose of collecting Personal Data in such closed user areas, is to make it possible for you, as an AVL website user, to influence the content we will serve you with (by reflecting your own personal needs and preferences)
+Also, you enable us to provide you with information on specific topics via your preferred channel (website, email, postal, phone), if you have chosen to receive such information
+Further, the objective is to make it easier for you to engage and interact with our products and solution portfolios, receive offerings, and purchase products via the AVL website.
+According to Art
+6(1)(b) GDPR the processing of your data is necessary when fulfilling a contract with us or when carrying out pre-contractual measures, since without this we cannot conclude the contract or take pre-contractual measures.
+Information about the collection of Personal Data when you email us or fill in a form
+When you contact us by email, through a form on our website (such as the registration form for the participation to an event, or to download a publication), or through other areas on the website made available to you to fill information, the information you provide (your email address and, if applicable, your first name and last name, plus information explicitly asked for, or further information you provide us with) will be stored by us to answer your questions, to process transactions that you have requested and to pass on information about AVL products and solutions (legal basis is Art
+6(1)(b) GDPR).
+Information about the Collection of Personal Data when you Refer a Friend, or receive a Respective Message (Forward to a Friend)
+Sometimes, you have the possibility to point a friend to a section on our website if you believe this is useful to that friend
+In that context you may enter another person's email address as the recipient of a message generated within our systems
+The message will contain the link to the section of our website you deem to be useful, your email address (as the sender), your name, all of which will be visible to the recipient together with the other information you entered into the subject line and the body section of the respective message.
+When you receive such a message you see all of the information that has been entered into the "Forward to a friend"-form
+It may be the following: email address, first name, last name, any other information about you, which the website user has entered into the form.
+Such information will only temporarily be stored and processed for the time needed to have an email being sent on behalf of the website user
+While we may keep logs to protect ourselves, we do not otherwise use the information provided to us via the corresponding form
+Further processing does not take place in relation to information provided in this way, nor do we pass on such information to third parties
+It is our legitimate interest to offer such functionality to keep up a conversation about our offerings that are, upon corroboration from a website user, of interest to the recipient (legal basis is Art
+6(1)(f) GDPR).
+Information about the Collection of Personal Data when you use other areas (e.g
+our Shop)
+When you register for and use our shop or other areas of the website additional privacy statements apply.
+PRIVACY AND TRUST GO HAND-IN-HAND
+BOTH ARE VALUABLE TO US.
+Responsible Body ("Controller")
+The body responsible for the website you are visiting and for the privacy aspects of this website (collection, processing and use of your Personal Data) in accordance with Art
+4 para
+7 GDPR and its contact details are mentioned in the imprint (individually designated for country pages).
+Our Data Protection Officer / Privacy Office can be reached by email at: privacy@avl.com
+Your Rights as a Data Subject
+You have the right to access according to Art
+15 GDPR, rectification according to Art
+16 GDPR, erasure according to Art
+17 GDPR, restriction of processing according to Art
+18 GDPR, and - if applicable - data portability according to Art
+20 GDPR.
+Where we use your Personal Data based on Art
+6(1)(f) GDPR you further have the right to object against our use of your Personal Data
+We then shall no longer process such Personal Data unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms
+If you want to exercise your right to object in such a scenario, please contact us at: privacy@avl.com.
+Where we process your Personal Data on the basis of your consent, you can revoke that consent at any time
+The revocation does not affect the legality of the processing carried out on the basis of the con-sent prior to the revocation
+If you want to withdraw your consent, please contact us at: privacy@avl.com.
+For your safety and ours, we may need to authenticate your identity before fulfilling your request.
+Furthermore, if applicable on you, there is also a right to lodge a complaint with an appropriate data privacy regulatory authority (Article 77 GDPR).
+To What Extent Is There Automated Decision-Making?
+We generally do not use any automated decision-making pursuant to Article 22 GDPR
+If we use this procedure in individual cases, we will inform you of this separately, as long as this is a legal requirement.
+STORAGE OF YOUR PERSONAL DATA
+Retention of Your Personal Data
+In order to offer you the best customer experience, we are storing the Personal Data that have been pro-vided by you during your interactions with AVL.
+We delete data after the storage is no longer required
+For tracking information acquired through our Newsletters see below ("Newsletter Tracking")
+We may need to keep data on file beyond that period if statutory retention rules require us to do so
+In such scenarios, we will restrict the processing to what is needed to fulfill the statutory retention rules.
+Personal Data provided to AVL by you online may be linked to information passed on to AVL when services or products are ordered.
+Deletion of Your Personal Data
+AVL will provide you with information about what Personal Data of yours we store
+You can get information about your stored data at any time and you may assert your right to correct information, or to delete your data
+If you wish to do so, please contact our Data Protection Officer / Privacy Office at privacy@avl.com.
+Updating or Changing your AVL.com Account
+The stored Personal Data relates to the information you provided to us, including your personal preferences, all of which you can change, update or erase as follows:
+You can always make changes through your AVL.com account
+Simply log in and follow the instructions to edit your profile information in “My Data”.
+Additionally, you can select your topic preferences and sign up for our newsletter in “My News”.
+If you want to delete your AVL.com account, please contact us at marketing@avl.com.
+If you have any other questions, contact our Data Protection Officer / Privacy Office at privacy@avl.com.
+Security Measures we Apply When Holding Your Data
+Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, AVL makes appropriate effort to protect Personal Data against accidental and illegal destruction and loss
+AVL endeavors to ensure that Personal Data is used in a proper manner and to protect it from unauthorized access, use, or disclosure
+We use a combination of process, technology and physical security controls to help protect personal information from unauthorized access, use, or disclosure.
+Further, access to personal information is restricted to those employees, contractors, and agents of AVL who need to know such data to perform their assigned functions and develop or improve our products and services.
+ARE YOUR PERSONAL DATA BEING SHOWN TO OTHERS?
+Sharing your Personal Data within the AVL group of companies
+Any Personal Data that you provide through AVL’s online channels may be passed on to entities of the AVL group of companies
+We will do so only if deemed appropriate
+All entities of the AVL group of companies are bound by a groupwide Data Protection Policy.
+Sometimes, and least partially, your Personal Data will be processed outside the EU or the EEA, namely in the following countries: Brazil, China, India, Japan, South Korea, Russia, Thailand, Turkey, and the United States
+Other destinations may be added over time
+Please refer to the current list of all AVL group entities at https://www.avl.com/avl-worldwide
+Transfers of Personal Data will be made on the basis of declarations of adequacy or other accepted safeguards according to the Articles 44 et seq
+of the GDPR, in particular standard data protection clauses adopted by the European Commission, which can be accessed here.
+Sharing your personal data with payment service providers
+If you make payments to us through the methods anticipated on the AVL Website, your payment details will be transmitted to chosen payment service providers depending on the payment method you have selected.
+The payment service provider bears the responsibility for your payment data
+AVL uses the services of QENTA Payment CEE GmbH, Reininghausstraße 10, AT – 8020 Graz
+The contact de-tails of QENTA Payment, of its Data Protection Officer (if any) and the categories of Personal Data processed by the payment service providers are available at https://qenta-cee.at/datenschutz/.
+Use of other Service Providers
+We use service providers for a range of services
+If we do so, we ensure to be in compliance with the requirements under Art
+28 GDPR (provision describing the safeguards to apply when data processors are being used).
+Secure Transmission
+When special categories of Personal Data are transferred over the Internet, we encrypt it using Transport Layer Security (TLS) encryption technology or similar technologies.
+Your Personal Data in AVL Marketing and Promotion Activities
+General
+In addition to the processing of your Personal Data for purchasing reasons, we may use your information for the following marketing purposes (legal basis is Art
+6(1)(f) GDPR):
+Sending interest-related newsletters
+Inviting you to events and webinars
+Informing you about the latest product and software releases, product recommendations, market trends/insights and promotions
+Inviting you to participate in surveys in order to help us to improve our communication and communication platforms
+Provide you with emails containing updates about technical developments and similar information.
+Sometimes, we may ask you for your consent with respect to our marketing and promotional endeavors (legal basis then is Art
+6(1)(a) GDPR).
+Opting-out from Our Communications
+You can always unsubscribe from AVL marketing communication by logging-in to AVL My Cockpit and unsubscribing from marketing and promotional messages by clicking the unsubscribe tick box in “My News”
+Your request will be processed immediately
+You then will automatically be unsubscribed from all further information such as event, webinar, product and solutions, product release highlights etc
+(except if you limit your opting-out to specific categories of messages)
+You can also object against such use of your Personal Data by contacting us at: privacy@avl.com.
+Where we process your Personal Data on the basis of your consent you can revoke that consent at any time
+The revocation does not affect the legality of the processing carried out on the basis of the con-sent prior to the revocation
+If you want to withdraw your consent, please contact us at: privacy@avl.com.
+You can always change your preferences in the AVL My Cockpit (“My News”).
+Newsletter Tracking
+When sending out newsletters we use so-called web beacons or tracking pixels
+A web beacon or a tracking pixel is a one-pixel image file embedded within the newsletter message, served to you from a remote server when you open the newsletter message
+We use these to evaluate your user behavior
+For this, the data mentioned in the section "Areas of the AVL Website" and the following information are linked to your email address and an individual ID:
+(i) email delivered or not
+(ii) email opened or not
+(iii) timestamps
+(iv) links clicked
+(v) content viewed.
+This data is used to create a user profile to better align the newsletter with your interests
+In this way, AVL can better understand the extent to which our offers are of interest to you
+We record when you read our newsletter and on which links you click
+This data is also linked to your activities on our website.
+Customized Ads on Facebook and LinkedIn
+We use LinkedIn’s “Insight Tag”, Facebook’s “Pixel”, or technically similar services to deliver customized advertisements to you on 3rd-party sites
+These services use information about visited AVL sites
+You can opt-out of these ads and learn more about customized advertisements on https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out, https://www.facebook.com/settings?tab=ads and/or http://www.youronlinechoices.com (legal basis is Art
+6(1)(f) GDPR, our legitimate interest is direct marketing in accordance with recital 47 of the GDPR).
+COOKIES
+We are using cookies on our website.
+We use cookies, tags and similar technologies on the Website to provide you with the best possible user experience and to help us improve the Website
+Cookies are text files that are downloaded to your computer or mobile device when you visit a website or use an app
+(see http://www.whatarecookies.com/).
+Some of the cookies we use are necessary in order to make available certain features of the Website
+Furthermore, we use cookies to analyze the use of the website with Google Analytics and to obtain information for the optimization of the website
+Lastly, we use marketing cookies to deliver customized ads on some sites (e.g
+Facebook and LinkedIn)
+More about Google Analytics and your choices in this regard can be found below
+Also, you will find out more about our use of cookies if you interact with our cookie preferences tool implemented on the Website (legal basis is Art
+6(1)(f) GDPR)
+A large part of the AVL websites may also be viewed without cookies.
+You can set your browser not to accept cookies or to ask each time before storing a cookie
+You can also delete cookies on your device by using the corresponding function of your browser
+In addition, you have the option to inform us of your preferences regarding the acceptance of cookies via the cookie preference tool used on the website.
+Analytics
+We may use Google Analytics or similar services on our website
+These are services provided by third parties, which may be located in any country worldwide (in the case of Google Analytics Google LLC is in the U.S., www.google.com) and which allow us to measure and evaluate the use of our website (on an anonymized basis)
+For this purpose, permanent cookies are used, which are set by the service provider
+The service provider does not receive your personal data from us (and does not retain IP addresses), but the service provider may track your use of our website, combine this information with data from other websites you have visited, which are also tracked by the respective service provider and may use this information for its own purposes (e.g
+for targeting advertisements)
+If you have registered with the ser-vice provider, the service provider will also know your identity, based on the information you provided to it
+In this case, the processing of your personal data by the service provider will be conducted in accordance with its data protection regulations
+The service provider only provides us with data on the use of our website (but not any personal information of you).
+twitter
+social-facebook
+social-linkedin
+shareGoogle+
+AVL List GmbH
+Hans-List-Platz 1, 8020 Graz
+Areas of Expertise
+Solutions
+Powertrain Elements
+Industries
+Topics
+Customer Services
+Linkedin
+Facebook
+Twitter
+YouTube
+Other
+Press
+Career
+AVL Worldwide
+Hotlines
+Supplier Portal
+Back to the top
+Legal Information |
+Privacy Policy |
+Website Owner |
+Contact AVL |
+Hotlines |
+Manage cookies |
+Copyright © AVL 2022
+All rights reserved.
+Back to the top
+Legal Information |
+Privacy Policy |
+Website Owner |
+Contact AVL |
+Hotlines |
+Manage cookies |
+Copyright © AVL 2022
+All rights reserved.

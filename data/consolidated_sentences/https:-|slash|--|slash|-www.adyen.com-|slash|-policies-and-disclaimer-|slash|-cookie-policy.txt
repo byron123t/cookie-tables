@@ -1,0 +1,132 @@
+Cookie policy - Adyen
+If we place cookies, we are able to offer you an optimally functioning website, more personalized content and advertisements and social media functionalities, as you can read on our Cookie Policy
+I agree Change settings      Products  Businesses we serve  About  Documentation & resources  Pricing
+Search  Log in Contact us
+On this page
+On this page
+Cookie policy
+What are cookies?
+What type of cookies do we use?
+Essential and functional cookies
+Analytics cookies
+Advertising, marketing and social media cookies
+Withdrawing your consent
+Managing your cookie settings and deleting cookies
+Further information about our use of data
+Questions, comments or in need of help?
+Policies and disclaimer
+Cookie policy
+Analytics cookies  Essential and functional cookies  Advertising, marketing and social media cookies Save
+Cookie policy
+Adyen NV (“Adyen” or “we”) wants to ensure that your visit to our website is smooth, reliable and as useful to you as possible
+To help us do this, we use cookies to make our website relevant to your interests and needs.
+What are cookies?
+Cookies are small text files that are automatically placed on your computer, tablet, mobile phone or other device (“device”) when you visit our website
+They are stored by your internet browser and may contain basic information about your device or internet use
+Your browser sends these cookies back to our website every time you revisit it, so we can recognize your computer or mobile device and personalize and improve your browsing experience.
+What type of cookies do we use?
+The cookies we use fall into 3 categories
+These categories are described below:
+Essential and functional cookies
+Essential cookies are necessary for the proper functioning of our website and to help you access and move around our site and use all its features
+We also use functional cookies, for example to remember your language preferences to save you the trouble of having to change these every time you enter our website
+Without these cookies, our website would not work properly and you would not be able to use certain important features.
+Name
+Domain
+Purpose
+Lifetime
+Technique
+_ALGOLIAwww.adyen.comThis cookie provides the search feature for the website and provides you with relevant real-time results.1 yearCookie__cf_bmCloudflareBot management for our content delivery networkDuration of browsing sessionCookieJSESSIONIDwww.adyen.comThis cookie is used to track logged in users and allows us to, for example, prevent that you would have to re-enter your log-in details if a page is reloaded.Duration of browsing sessionCookie__cfduidwww.adyen.comThis cookie is used to identify trusted web traffic.1 dayCookieconsent_usedwww.adyen.comThis cookie is used to keep track of your consent to cookies.1 dayCookiedocument_querywww.adyen.comThis cookie keeps track of search queries.1 dayCookiegdprwww.adyen.comThis cookie is used to keep track of your consent to cookies.1 yearCookielastUpdatedGdprwww.adyen.comThis cookie is used to keep track of your consent to cookies.1 yearCookielang_CNTRYwww.adyen.comThis cookie remembers your language choice.1 yearCookieRSMKT01Adobe (Marketo)This cookie enables web forms to displaySession lengthCookie
+Analytics cookies
+We use cookies to help us understand how visitors arrived at our website, how and how long they use it and how we can improve their experience
+This type of so-called "analytics" cookies can provide us with information to help us understand which parts of our website interest our visitors and if they experience any errors
+We use these cookies to test different designs and features for our sites and we also use them to help us monitor how our visitors reach our sites.We use Google Analytics to place and read cookies for the above mentioned use
+We have changed our Google Analytics settings to further protect your privacy
+For example, we have made sure that the last octet of your IP-address is invisible and have turned off the setting which allows sharing data with Google
+We are also not using any other Google Analytics related cookie services which are offered by Google.
+Name
+Domain
+Purpose
+Lifetime
+Technique
+_gaexpwww.adyen.comThis cookie is used while running experiments on the website (such as A/B-testing) to identity which version of the website the visitor is seeing.90 daysCookie_gawww.adyen.comThis cookie is used to distinguish between visitors and how they use the website, which we use in order to improve our website.2 yearsCookie_gat_UA-3072609-19www.adyen.comThis cookie is used to distinguish between visitors and how they use the website, which we use in order to improve our website.1 dayCookie_gidwww.adyen.comThis cookie is used to distinguish between visitors and how they use the website, which we use in order to improve our website.1 dayCookiefirst_hitwww.adyen.comThis cookie is placed upon the first visit to the website, which we use to identify, and distinguish between, first time visitors and returning visitors.1 dayCookiedocument_referrerwww.adyen.comThis cookie is used to see if visitors utilise our different websites (adyen.com, docs.adyen.com and support.adyen.com), with the purpose to track if visitors travel between these domains.1 dayCookiereferer_usedwww.adyen.comThis cookie is used to see how a visitor has reached our website (for example whether they have clicked on a link or advertisement).1 dayCookie_cfduid.pingdom.netThis cookie is used to identify individual clients behind a shared IP-address.1 yearCookie
+Advertising, marketing and social media cookies
+We only place advertising, marketing and social media cookies if you have given us your permission to do this.Advertisement and marketing cookies collect information about your browsing habits in order to make our content and advertising as relevant to you and your interests as possible
+These cookies are also used to help us measure the effectiveness of our advertising campaigns by tracking the number of clicks
+The cookies are usually placed by third party advertising networks
+They remember the websites you visit and use this information to give you access to interesting and exciting content on our website and to show you more personalized adverts when you visit other websites
+These cookies also help improve your browsing experience, for example by helping to prevent the same advertisement from reappearing to you.Additionally, social media platforms such as Facebook and Twitter can use cookies to see if you are logged in and allow you to "like" content or forward it to your friends
+Depending on your settings, these third parties may use your information for their own purposes, such as advertising
+If you would like to know more how these social media platforms use data, please refer to the privacy notices of these platforms.
+Name
+Domain
+Purpose
+Lifetime
+Technique
+_fbpwww.adyen.comThis cookie is used by Facebook to deliver a series of advertisement products, such as real time bidding by third party advertisers.90 daysCookie_gcl_auGoogleThis cookie is used by
+Google to deliver a series of advertisement products, such as real time bidding by third party advertisers.90 daysCookieMUID.bing.comThis cookie is used to retarget website visitors on Bing.1 yearCookie_EDGE_S.bing.comThis cookie is used to retarget website visitors via Bing.Duration of the browsing sessionCookieMUIDB.bing.comThis cookie is used to retarget website visitors via Bing.1 yearCookieIDE.doubleclick.netCookies used for our campaign manager.1 yearCookiebcookie.linkedin.comThis cookie is used to retarget website visitors via LinkedIn.2 yearsCookieUserMatchhistory.linkedin.comThis cookie is used to retarget website visitors via LinkedIn.1 monthCookielidc.linkedin.comThis cookie is used to retarget website visitors via LinkedIn.1 dayCookielang.linkedin.comThis cookie is used to retarget website visitors via LinkedIn.For the duration of the browsing sessionCookiefr.facebook.comThis cookie is used to retarget website visitors via Facebook.3 monthsCookieBizoID.ads.linkedin.comThis cookie is used to retarget website visitors via LinkedIn.1 monthCookielang.ads.linkedin.comThis cookie is used to retarget website visitors via LinkedIn.For the duration of the browsing sessionCookie_mkto_trk.marketo.comThis cookie is used to track website visitors’ behavior and to link a visitor to the recipient of an email marketing campaign, to measure campaign effectiveness
+Tracking is performed anonymously until a user identifies himself by submitting a form.2 yearsCookie_utm_stampwww.adyen.comThis cookie is used to record which marketing channels visitors have come to the website through, and passing these values on to Marketo after a form submission.5 years_hjDonePollsHotjarThis cookie is placed to keep track of visitors that have previously completed a poll, to exclude these visitors from the same poll.1 yearCookieCookie_hjIncludedInSampleHotjarThis cookie is used to analyze user experience on our website.Duration of the browsing sessionCookie_hjidHotjarThis cookie is used to analyze user experience on our website.1 yearCookie_hjIncludedInSessionSampleHotjarThis cookie is used to analyze user experience on our website.Duration of sessionCookie_hjAbsoluteSessionInProgressHotjarThis cookie is used to analyze user experience on our website.Duration of sessionCookie_hjFirstSeenHotjarThis cookie is used to analyze user experience on our website.Duration of sessionCookie_hjTLDTestHotjarTo analyze user in-page behavior - insures uniqueness of sessionDuration of sessionCookie_uetsidBingTo store and track visits across websites for Bing Ad Platform1 dayCookie_uetvidBingTo store and tack visits across website and share with Bing Advertising platform30 daysCookie
+Withdrawing your consent
+You can withdraw your consent to advertising, marketing and social media cookies by using our consent management tool, which you can find here.
+Managing your cookie settings and deleting cookies
+As explained above, we only place advertising and targeting cookies (including tracking cookies) if you have given us your consent for doing this
+If you have given us your consent but would like the cookies that we have placed to be removed, you can do this by deleting them via your browser
+Search for "cookies" under your web browser's “Help menu” or visit www.allaboutcookies.org for more information on how to do this
+You can also enable or disable (types of) cookies via your browsing settings
+For example, you can have the browser notify you when you receive a new cookie, delete individual cookies or delete all cookies
+Most advertising networks offer you a way to opt out of advertising cookies
+See the Digital Advertising Alliance Consumer Choice and Your Online Choices pages for useful information on how to do this.Please note that, if you choose to delete Adyen cookies, your access to some functionality and areas of our website may be degraded or restricted.
+Further information about our use of data
+You can find more information about the way we handle personal data in our Privacy Policy.
+Questions, comments or in need of help?
+If you have any questions or if we can help you with something, we would be happy to assist if you contact us at: https://support.adyen.com/hc/en-us/requests/new.
+About
+Our story
+Careers
+Press & media
+Investor Relations
+Partner with us
+Contact us
+Products
+Payments
+Risk management
+Authentication
+Issuing
+Pricing
+Resources
+Documentation
+Support
+Blog
+Knowledge Hub
+Newsletter
+Platform
+Infrastructure
+Licenses
+Terms & Conditions
+Legal
+Privacy
+·
+Cookies
+·
+Disclaimer
+·
+© 2022 Adyen
+Language switcher
+Global (English)
+Global (English)
+Brasil (Português)
+中国 (简体中文)
+Česká republika (Čeština)
+Danmark (Dansk)
+Deutschland (Deutsch)
+España (Español)
+France (Français)
+Italia (Italiano)
+日本 (日本語)
+México (Español)
+Nederland (Nederlands)
+Norge (Norsk)
+Polska (Polski)
+Portugal (Português)
+Sverige (Svenska)
+United Kingdom (English)

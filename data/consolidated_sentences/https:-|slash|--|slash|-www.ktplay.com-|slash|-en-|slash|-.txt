@@ -1,0 +1,160 @@
+游道易 | KTplay: Your Instant In-App Community
+This website uses cookiesWe use cookies to personalise content and ads, to provide social media features and to analyse our traffic
+We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services
+[#OOI_PERSONAL_INFORMATION#] Use necessary cookies only  Allow all cookies  Show details  OK  Use necessary cookies only  Allow selection  Allow all cookies NecessaryPreferencesStatisticsMarketing Show details  Cookie declaration  [#IABSETTINGS#]  About cookies  Necessary (2) Preferences (0) Statistics (6) Marketing (8) Unclassified (0)Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+The website cannot function properly without these cookies
+NameProviderPurposeExpiryTypeCookieConsentwww.ktplay.comStores the user's cookie consent state for the current domain1 yearHTTPPHPSESSIDwww.ktplay.comPreserves user session state across page requests.SessionHTTP Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+NameProviderPurposeExpiryTypecollectGoogleUsed to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.SessionPixel_gaGoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.2 yearsHTTP_gatGoogleUsed by Google Analytics to throttle request rate1 dayHTTP_gidGoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTPHm_ck_#BaiduPendingSessionHTTPHm_unsent_3ce7b0a26140e834b2e03cd3ac219beaBaiduPendingSessionHTML Marketing cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+NameProviderPurposeExpiryTypeIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPtest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPhm.gifBaiduUsed to send data to Baidu about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.SessionPixelHMACCOUNTBaiduUsed to send data to Baidu about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.6516 daysHTTPpagead/1p-conversion/#GooglePendingSessionPixelpagead/conversion/#GooglePendingSessionPixelHm_lpvt_#BaiduPendingSessionHTMLHm_lvt_#BaiduPending1 yearHTML Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies
+We do not use cookies of this type
+[#COOKIESIABCONTENT#]  Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+For all other types of cookies we need your permission.This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.Please state your consent ID and date when you contact us regarding your consent
+Cookie declaration last updated on 3/16/20
+FEATURES
+PRICING
+Docs
+Welcome to KTplay, if you need to publish your apps only for the China market, please visit
+our China website:China
+Publishing
+Log In
+Sign Up
+REQUEST A DEMO
+KTplay: Your Instant In-App Community
+Developers realize the importance of building communities around their apps
+Instead of managing
+dispersed communities on multiple external platforms, KTplay aggregates 100% of your users -
+right inside your app.
+REQUEST A DEMO
+Trusted Worldwide
+Maximize Core Metrics with In-App Community Management
+Aggregate
+|
+Interact
+|
+Influence
+Influence
+KTplay's robust back end empowers you to curate, manage, and create content
+real-time
+Our easy-to-use in-app messaging and reward system turns your in-app
+community into a fully equipped live ops platform, enabling your live ops team
+to run events, influence user behaviour, and ultimately increase your app's
+retention and revenue.
+Learn More
+Sign Up
+Aggregate
+With 100% of your engaged users already spending time inside your app, it only
+makes sense to start building your community from your app up
+KTplay helps to
+aggregate all your passionate users into your own, manageable in-app community
+that looks and feels like a part of your app!
+Learn More
+Sign Up
+Interact
+Give your users more reasons to stay inside your app
+While recharging energy or
+waiting for cooldowns, give your users a fun space to hang out where they can
+answer each other's questions, share their using experience, or pass along
+strategies via screenshots and video sharing
+KTplay's in-app community gives
+your users more to do inside your app - and more reasons to stay in your app for
+longer!
+Learn More
+Sign Up
+Influence
+KTplay's robust back end empowers you to curate, manage, and create content
+real-time
+Our easy-to-use in-app messaging and reward system turns your in-app
+community into a fully equipped live ops platform, enabling your live ops team
+to run events, influence user behaviour, and ultimately increase your app's
+retention and revenue.
+Learn More
+Sign Up
+Aggregate
+With 100% of your engaged users already spending time inside your app, it only
+makes sense to start building your community from your app up
+KTplay helps to
+aggregate all your passionate users into your own, manageable in-app community
+that looks and feels like a part of your app!
+Learn More
+Sign Up
+10 Minutes
+Easy three-steps integration process to get your  in-app community up and running.
+1
+CREATE
+Create App Get App Keys
+2
+SET UP
+Dev Enviroment Initiation
+3
+SHOW
+KTplay Community In Your App!
+The 10 minutes integration time excludes the time you may want to invest on
+the designing and integrating customizable community UI, and LiveOps features such as rewards,deep linking and more.
+SDKs
+C++
+Tara J
+BranniganHead of Community and Customer ServiceFlare Games
+KTplay has played a big role in the success of our community for Zombie Gunship Survival
+The integrated nature of the KTplay platform ensures that anyone can participate, substantially increasing the number of players that interact with the community
+Within just days of launch we had player guides, tutorial videos, and fan fiction pouring in from the community, all without prompting!
+Martin KwasnicaCEO & Co-Founder Cherrypick
+Games
+Simply by providing a centralized and focused place (in-game community) to chat and talk,
+players jumped at the chance to share their gameplay experiences with one another, we also
+like to use KTplay management tools to express ourselves to the players (such as KTplay
+in-game messaging and reward sending)
+Anton BelovCEO Mobirate
+Talking to our players is very important
+We tried web forums but didn’t work well because of
+the huge gap between a mobile game and it's web page
+With KTplay gives us a forum right
+inside the game and players can enjoy each other's gaming experiences without any friction.
+This means a big number of players participating in the community and interacting with each
+other
+And the community contents generated and consume by players are ultra fun and
+rich.
+SJ KimCEO Avocado Entertainment
+Before we integrated KTplay, We realized that KTplay is the most convenient and effective
+community for the mobile gaming users in Korea.
+Eric TanFounder and CEO Fifth Journey
+As Fifth Journey is committed in developing great Hollywood games and mobile entertainment
+experiences, we wanted to have a platform that will allow loyal fans to seamlessly
+communicate with each other and sharing their proudest moments together – KTPlay was a clear
+solution to that
+As we launched our game, Kubo: A Samurai Quest, it was a great opportunity
+to hear what our players were excited about and what aspects of the game they enjoyed the
+most
+KTPlay helped foster this communication and provided Fifth Journey the opportunity to
+engage with our players in the most effective way.
+Wesley BaoCEO Coconut Island
+Compared to Wechat, Weibo and other major social networks in China, KTplay is by far the most
+effective when it comes to building a community full of our passionate players and
+enthusiastic follwers.
+Oliver MiaoCEO Pixelberry Studios
+Our player communities are a super important part of Pixelberry’s success
+We had been
+planning to build our own in-game forums when we discovered KTplay
+KTplay is the in-game
+community solution we’ve been wanting for years
+Before our players would be split between
+our Facebook group and website forums
+Now there is one place in our game where they can
+discuss our game
+It’s a no brainer.
+Henry FongCEO Yodo1 Games
+KTplay now sits on our must-have SDK integration list for each and every one of our games.
+KTplay powers all of our games because we know that our players will benefit from the
+experience of being able to chat with passionate, like-minded fellow players
+With the
+launch of our latest game, Rodeo Stampede, we're excited to see the content our players
+create and share with the greater community.
+Developer Support
+Cookies Policy
+Copyright © 2014-2022 KTplay, All rights reserved.

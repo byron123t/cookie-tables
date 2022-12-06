@@ -1,0 +1,1439 @@
+<!DOCTYPE html><html class="js placeholder no-touchevents" lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+		<meta charset="UTF-8"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MKCV6V9"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WGRVWW"></script><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1068cf12f6",applicationID:"31362394"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(9),c=t(10),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(11);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(8),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],7:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],8:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],9:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],10:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],11:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(9),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!M++){var t=T.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+T.offset],null,"api"),c("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===m.readyState&&o()}function o(){c("mark",["domContent",a()+T.offset],null,"api")}var a=t(5),c=t("handle"),f=t(9),u=t("ee"),s=t(7),d=t(2),p=t(3),l=d.getConfiguration("ssl")===!1?"http":"https",v=window,m=v.document,g="addEventListener",y="attachEvent",h=v.XMLHttpRequest,w=h&&h.prototype,b=!1;NREUM.o={ST:setTimeout,SI:v.setImmediate,CT:clearTimeout,XHR:h,REQ:v.Request,EV:v.Event,PR:v.Promise,MO:v.MutationObserver};var E=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1216.min.js"},O=h&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),T=e.exports={offset:a.getLastTimestamp(),now:a,origin:E,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(6),m[g]?(m[g]("DOMContentLoaded",o,p(!1)),v[g]("load",r,p(!1))):(m[y]("onreadystatechange",i),v[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var M=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(10),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Google Tag Manager -->
+		<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-MKCV6V9');</script>
+		<!-- End Google Tag Manager -->
+		<script type="text/javascript">
+			var $user_agent = navigator.appVersion,
+				doc_html    = document.getElementsByTagName('html');
+
+			if ( $user_agent.indexOf('MSIE') >= 0 || $user_agent.indexOf('Trident/7') >= 0 ) {
+				doc_html[0].classList.add('browser-internet-explorer');
+			}
+		</script>
+
+		<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;700&amp;display=swap" rel="stylesheet">
+
+		<title>Cookie Policy - TechTarget</title>
+<meta name="robots" content="max-image-preview:large">
+<!-- Grow Social by Mediavine v.1.20.2 https://marketplace.mediavine.com/grow-social-pro/ -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Cookie Policy">
+<meta property="og:description" content="This Cookie Policy (“Policy”) explains how TechTarget, Inc. and its subsidiaries (collectively “TechTarget,” “we,” “us,” and “our”) use cookies and similar technologies to recognize individuals who access our websites and sub-domains (“users” or “you”) when">
+<meta property="og:url" content="https://www.techtarget.com/cookie-policy/">
+<meta property="og:site_name" content="TechTarget">
+<meta property="og:updated_time" content="2019-11-07T18:43:42+00:00">
+<meta property="article:published_time" content="2016-03-15T17:27:01+00:00">
+<meta property="article:modified_time" content="2019-11-07T18:43:42+00:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Cookie Policy">
+<meta name="twitter:description" content="This Cookie Policy (“Policy”) explains how TechTarget, Inc. and its subsidiaries (collectively “TechTarget,” “we,” “us,” and “our”) use cookies and similar technologies to recognize individuals who access our websites and sub-domains (“users” or “you”) when">
+<!-- Grow Social by Mediavine v.1.20.2 https://marketplace.mediavine.com/grow-social-pro/ -->
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- This site is optimized with the Yoast SEO Premium plugin v8.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.techtarget.com/cookie-policy/">
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//app-sjf.marketo.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.techtarget.com/wp-includes/css/dist/block-library/style.min.css?ver=ae40088053c371200ff08b3d2b8cd64e" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="stylesheet" id="dpsp-frontend-style-pro-css" href="https://www.techtarget.com/wp-content/plugins/social-pug/assets/dist/style-frontend-pro.1.20.2.css?ver=1.20.2" type="text/css" media="all">
+<link rel="stylesheet" id="mesh-grid-foundation-css" href="https://www.techtarget.com/wp-content/plugins/mesh/assets/css/mesh-grid-foundation.css?ver=1.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="techtarget-css-css" href="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/stylesheets/techtarget.css?ver=ae40088053c371200ff08b3d2b8cd64e" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="https://www.techtarget.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.11" type="text/css" media="all">
+<style id="tablepress-default-inline-css" type="text/css">
+.dataTables_wrapper{margin-top:50px}thead th{background-color:#f5f5f5!important}label{display:block;margin-bottom:30px;font-size:.875rem;line-height:1.8;color:#212121}
+</style>
+<script type="text/javascript" src="https://www.techtarget.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.techtarget.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.techtarget.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-contact-form-7-tracker.js?ver=1.11.6" id="gtm4wp-contact-form-7-tracker-js"></script>
+<script type="text/javascript" src="https://www.techtarget.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.6" id="gtm4wp-form-move-tracker-js"></script>
+<script type="text/javascript" src="https://www.techtarget.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-social-tracker.js?ver=1.11.6" id="gtm4wp-social-actions-js"></script>
+<script type="text/javascript" src="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/modernizr.js?ver=ae40088053c371200ff08b3d2b8cd64e" id="modernizr-js"></script>
+<script type="text/javascript" src="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.inview.js?ver=ae40088053c371200ff08b3d2b8cd64e" id="inview-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/vivus/latest/vivus.min.js?ver=0.3.1" id="vivus-js"></script>
+<script type="text/javascript" src="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.vide.js?ver=ae40088053c371200ff08b3d2b8cd64e" id="vide-js-js"></script>
+<script type="text/javascript" src="//app-sjf.marketo.com/js/forms2/js/forms2.min.js?ver=ae40088053c371200ff08b3d2b8cd64e" id="marketo-form-js-js"></script>
+<script type="text/javascript" src="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/techtarget-marketo.js?ver=ae40088053c371200ff08b3d2b8cd64e" id="tt-marketo-js-js"></script><!--<script type="text/javascript" src="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/techtarget-marketo.js?ver=ae40088053c371200ff08b3d2b8cd64e" id="tt-marketo-js-js"></script>-->
+<link rel="https://api.w.org/" href="https://www.techtarget.com/wp-json/"><link rel="alternate" type="application/json" href="https://www.techtarget.com/wp-json/wp/v2/pages/6321"><link rel="alternate" type="application/json+oembed" href="https://www.techtarget.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.techtarget.com%2Fcookie-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.techtarget.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.techtarget.com%2Fcookie-policy%2F&amp;format=xml">
+<style type="text/css" data-source="Grow Social by Mediavine">
+			@media screen and ( max-width : 720px ) {
+				#dpsp-floating-sidebar.dpsp-hide-on-mobile.opened {
+					display: none;
+				}
+			}
+			
+					.dpsp-button-style-1 .dpsp-networks-btns-sidebar .dpsp-network-btn {
+					--customNetworkColor: #004a60;
+					--customNetworkHoverColor: ;
+					background: #004a60;
+					border-color: #004a60;
+					}</style><!-- Start Drift By WP-Plugin: Drift -->
+<!-- Start of Async Drift Code -->
+<!--<script type="text/javascript">
+"use strict";
+
+!function() {
+  var t = window.driftt = window.drift = window.driftt || [];
+  if (!t.init) {
+    if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+    t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+    t.factory = function(e) {
+      return function() {
+        var n = Array.prototype.slice.call(arguments);
+        return n.unshift(e), t.push(n), t;
+      };
+    }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+      o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+      var i = document.getElementsByTagName("script")[0];
+      i.parentNode.insertBefore(o, i);
+    };
+  }
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('rg5w64chs6ee');
+</script>-->
+<!-- End of Async Drift Code --><!-- end: Drift Code. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="preload" as="script" href="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/custom/techtarget.ada.js?ver=ae40088053c371200ff08b3d2b8cd64e"><link rel="preload" as="script" href="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.infinitescroll.min.js?ver=3.0.6"><link rel="preload" as="script" href="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/techtarget.js?ver=ae40088053c371200ff08b3d2b8cd64e"><link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js?ver=2.2.0"><link rel="preload" as="script" href="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.slick.js?ver=ae40088053c371200ff08b3d2b8cd64e"><link rel="preload" as="script" href="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.autocomplete.js?ver=ae40088053c371200ff08b3d2b8cd64e"><link rel="preload" as="script" href="https://www.techtarget.com/wp-content/plugins/mesh/js/mesh.js?ver=1.4.0"><link rel="preload" as="script" href="https://www.techtarget.com/wp-content/plugins/social-pug/assets/dist/front-end-free.1.20.2.js?ver=1.20.2"><link rel="preload" as="script" href="https://www.googletagmanager.com/gtag/js?id=AW-1068931085"><link rel="preload" as="script" href="//fast.fonts.net/jsapi/124d48dd-e515-4302-8bfb-1d5c1e3da916.js"><link rel="preload" as="script" href="https://cdn.ttgtmedia.com/cmp/sourcepoint/gdprTCFv2-config.min.js"><link rel="preload" as="script" href="https://cdn.ttgtmedia.com/cmp/sourcepoint/ccpa-config.min.js"><link rel="preload" as="script" href="https://cdn.ttgtmedia.com/cmp/ttCmpApi.min.js"><link rel="preload" as="script" href="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/techtarget-marketo.js?ver=ae40088053c371200ff08b3d2b8cd64e"><link rel="preload" as="script" href="//app-sjf.marketo.com/js/forms2/js/forms2.min.js?ver=ae40088053c371200ff08b3d2b8cd64e"><link rel="preload" as="script" href="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.vide.js?ver=ae40088053c371200ff08b3d2b8cd64e"><link rel="preload" as="script" href="https://cdn.jsdelivr.net/vivus/latest/vivus.min.js?ver=0.3.1"><link rel="preload" as="script" href="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.inview.js?ver=ae40088053c371200ff08b3d2b8cd64e"><link rel="preload" as="script" href="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/modernizr.js?ver=ae40088053c371200ff08b3d2b8cd64e"><link rel="preload" as="script" href="https://www.techtarget.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-social-tracker.js?ver=1.11.6"><link rel="preload" as="script" href="https://www.techtarget.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.6"><link rel="preload" as="script" href="https://www.techtarget.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-contact-form-7-tracker.js?ver=1.11.6"><link rel="preload" as="script" href="https://www.techtarget.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2"><link rel="preload" as="script" href="https://www.techtarget.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0"></head><body class="page-template-default page page-id-6321 hide-courier  has-grow-sidebar has-grow-sidebar-mobile offcanvas has-supermenu"><div id="cmp-banner"></div>
+<!--CMP start-->
+<!--<script src="https://cdn.ttgtmedia.com/cmp/ttCmpApi.min.js" type="text/javascript"></script>-->
+<!--<script src="https://cdn.ttgtmedia.com/cmp/sourcepoint/ccpa-config.min.js" type="text/javascript"></script>-->
+<!--<script src="https://cdn.ttgtmedia.com/cmp/sourcepoint/gdprTCFv2-config.min.js" type="text/javascript"></script>-->
+<!--CMP end-->
+<!-- tt -->
+<!--<script type="text/javascript" src="//fast.fonts.net/jsapi/124d48dd-e515-4302-8bfb-1d5c1e3da916.js"></script>-->
+
+<!-- Spoke pixel GDPR -->
+<!--<script type="text/javascript">
+
+                var cmpApi;
+                cmpApi = new ttCmpApi();
+
+                /*
+                * Check for debug mode for url param debug_gdpr
+                */
+                this.debug = (function() {
+                  var sParam = 'debug_gdpr';
+                  var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+                    sURLVariables = sPageURL.split('&'),sParameterName,i;
+                  for (i = 0; i < sURLVariables.length; i++) {
+                    sParameterName = sURLVariables[i].split('=');
+                    if (sParameterName[0] === sParam) {
+                      return sParameterName[1] === undefined ? true : sParameterName[1];
+                    }
+                  }
+                  return false;
+                })();
+
+                var dpmSpVendorInternalId = '5f19fbbb772c4f2f5f99fcc0';
+                var spPuropseId = ['5ebec2c47b021339dc19dc02', '5ebec2c47b021339dc19dc04','5ebec2c47b021339dc19dc07','5ebec2c47b021339dc19dc09','5ebec2c47b021339dc19dc11'];
+
+                if(this.debug) console.log("Inside dpm execution");
+                window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                    if ((typeof (tcData) !== 'undefined') && (tcData !== null)) {
+                        if(this.debug) console.log("DPM ADDING EVENT LISTENER");
+                        if(this.debug) console.log("DPM LISTENDER ID " + tcData.listenerId);
+                        if (listenerSuccess && tcData.eventStatus === 'cmpuishown') {
+                            if(this.debug) console.log("DPM CMPUISSHOWN");
+                        }
+                        if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                            var gdprApplies = tcData.gdprApplies;
+                            if(this.debug) console.log("DPM tcloaded eventstatus");
+                            if(this.debug) console.log("DPM logging out gdprapplies " + gdprApplies);
+                            if (gdprApplies && !(cmpApi.getCustomVendorGrantConsent(dpmSpVendorInternalId))) {
+                                if(this.debug) console.log("DPM GDPR IS APPLICABLE AND CONTEXT DOES NOT HAVE CONSENT");
+                                //remove the listener ourself to not get called more than once
+                                window.__tcfapi('removeEventListener', 2, function (success) {
+                                    if(this.debug) console.log('DPM Inside remove event listener ' + success);
+                                    if (success) {
+                                        if(this.debug) console.log('removed: listener for DPM LOADING ' + tcData.listenerId);
+                                        window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                            if(this.debug) console.log("DPM AddEventUserAction " + tcData);
+                                            if(this.debug) console.log('DPM Event listener has been registered due to no consent being set');
+                                            if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                                if(this.debug) console.log("DPM useractioniscomplete");
+
+                                                window.__tcfapi('getCustomVendorConsents', 2, function (customVendorConsentData, nonIabSuccess) {
+                                                    if(this.debug) console.log("DPM getting custom vendor consent by command ");
+
+                                                    if (customVendorConsentData != null) {
+                                                        console.log('DPM COMMAND customvendorconsent grant = ' + customVendorConsentData.grants);
+                                                        for (var key in customVendorConsentData.grants) {
+                                                            var obj = customVendorConsentData.grants[key];
+                                                            if (key === dpmSpVendorInternalId) {
+                                                                console.log("DPM returning vendor grant for " + dpmSpVendorInternalId + " = " + obj.vendorGrant);
+                                                                if (obj.vendorGrant) {
+                                                                  (function() {
+                                                                  var d=document,h=d.getElementsByTagName('head')[0],s=d.createElement('script'),sc = 'https:' == document.location.protocol ? 'https://' : 'http://';
+                                                                  s.type='text/javascript';
+                                                                  s.async=true;
+                                                                  s.src=sc+'s.dpmsrv.com/dpm_b4c96d80854dd27e76d8cc9e21960eebda52e962.min.js';
+                                                                  h.appendChild(s);
+                                                                  })();
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                });
+
+                                                window.__tcfapi('removeEventListener', 2, function (success) {
+                                                    if (success) {
+                                                        //listener Removed
+                                                        if(this.debug) console.log('removed: ' + tcData.listenerId);
+                                                    }
+                                                }, tcData.listenerId);
+
+                                            }
+                                        });
+                                    }
+                                }, tcData.listenerId);
+                            } else {
+                            window.__tcfapi('removeEventListener', 2, function (success) {
+                                  if (success) {
+                                    console.log("Executing DPM because Either gdpr does not apply or user has given consent");
+                                    (function() {
+                                    var d=document,h=d.getElementsByTagName('head')[0],s=d.createElement('script'),sc = 'https:' == document.location.protocol ? 'https://' : 'http://';
+                                    s.type='text/javascript';
+                                    s.async=true;
+                                    s.src=sc+'s.dpmsrv.com/dpm_b4c96d80854dd27e76d8cc9e21960eebda52e962.min.js';
+                                    h.appendChild(s);
+                                    })();
+                                  }
+                              }, tcData.listenerId);
+                            }
+                        }
+                    }
+                });
+</script>-->
+
+
+<!--Google analytics START-->
+<!--<script type="text/javascript">
+            var googleAnalyticsPurposes = [1,8];
+            var vendorName = "GoogleAnalytics";
+            var isGaEnabled = true;
+            window['gtag_enable_tcf_support'] = true
+            window.dataLayer = window.dataLayer || [];
+            dataLayer = window.dataLayer;
+
+            if(this.debug) console.log("Inside Google Analytics execution");
+            window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+                    if(this.debug) console.log("GA ADDING EVENT LISTENER");
+                    if(this.debug) console.log("GA LISTENDER ID " + tcData.listenerId);
+                    if (listenerSuccess && tcData.eventStatus === 'cmpuishown') {
+                        if(this.debug) console.log("GA CMPUISSHOWN");
+                    }
+                    if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                        var gdprApplies = tcData.gdprApplies;
+                        if(this.debug) console.log("tcloaded eventstatus");
+                        if(this.debug) console.log("logging out gdprapplies " + gdprApplies);
+                        if (gdprApplies && !(cmpApi.getConsentforVendorV2(googleAnalyticsPurposes))) {
+                            if(this.debug) console.log("GDPR IS APPLICABLE AND CONTEXT DOES NOT HAVE CONSENT");
+                            //remove the listener ourself to not get called more than once
+                            window.__tcfapi('removeEventListener', 2, function (success) {
+                                if(this.debug) console.log('Inside remove event listener ' + success);
+                                if (success) {
+                                    if(this.debug) console.log('removed: listener for GA LOADING ' + tcData.listenerId);
+                                    window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                        if(this.debug) console.log("AddEventUserAction " + tcData);
+                                        if(this.debug) console.log('Event listener for Google Analytics has been registered due to no consent being set');
+                                        if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                            if(this.debug) console.log("useractioniscomplete inside GA");
+
+                                            window.__tcfapi('getTCData', 2, function (tcData, success) {
+                                                if(this.debug) console.log("Event GAD useractioncomplete is running, getting vendor consent");
+                                                if (success) {
+                                                    if (Object.keys(tcData.purpose.consents).length === 0 && tcData.purpose.consents.constructor === Object) {
+                                                        if(this.debug) console.log("GA does not have consent due to No consents ");
+                                                        isGaEnabled = false;
+                                                    } else {
+                                                        for (var purposeid in googleAnalyticsPurposes) {
+                                                            if (tcData.purpose.consents[googleAnalyticsPurposes[purposeid]] === null || tcData.purpose.consents[googleAnalyticsPurposes[purposeid]] === undefined || tcData.purpose.consents[googleAnalyticsPurposes[purposeid]] === false){
+                                                                isGaEnabled = false;
+                                                            }
+                                                        }
+                                                    }
+
+                                                    if(this.debug) console.log("isGAEnabled = " + isGaEnabled);
+                                                    if (isGaEnabled){
+                                                        var eventAction = 'GaEnabled';
+                                                        var eventCategory = 'GA';
+                                                        var eventLabel = 'GaEnabled';
+                                                        if (typeof window.dataLayer !== 'undefined') {
+                                                            args=[eventCategory,eventAction,eventLabel];
+                                                            dataLayer.push({eventCategory:args[0],eventAction:args[1], eventLabel:args[2]});
+                                                            dataLayer.push({'event': 'GaEnabled'});
+                                                        }
+                                                    }
+
+                                                }
+                                            });
+
+                                            window.__tcfapi('removeEventListener', 2, function (success) {
+                                                if (success) {
+                                                    //listener Removed
+                                                    if(this.debug) console.log('removed: ' + tcData.listenerId);
+                                                }
+                                            }, tcData.listenerId);
+
+                                        }
+                                    });
+                                }
+                            }, tcData.listenerId);
+                        } else {
+                            window.__tcfapi('removeEventListener', 2, function (success) {
+                                if(this.debug) console.log("CONTEXT HAS CONSENT OR GDPR IS NOT APPLICABLE");
+                                if (success) {
+                                    var eventAction = 'GaEnabled';
+                                    var eventCategory = 'GA';
+                                    var eventLabel = 'GaEnabled';
+                                    if (typeof window.dataLayer !== 'undefined') {
+                                        args=[eventCategory,eventAction,eventLabel];
+                                        dataLayer.push({eventCategory:args[0],eventAction:args[1], eventLabel:args[2]});
+                                        dataLayer.push({'event': 'GaEnabled'});
+                                    }
+                                }
+                            }, tcData.listenerId);
+                        }
+
+                    }
+                }
+            });
+</script>-->
+<!--Google analytics END-->
+
+<meta name="google-site-verification" content="rZaq1jkHspRZlqJRwuEdqAuVm5wiEXePze_foZRIYqc">
+
+<!-- Marketo munchkin -->
+<!--<script type="text/javascript">
+function getMarketoJs() {
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('095-PCN-759');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+}
+</script>-->
+
+<!-- End Marketo munchkin -->
+
+<!--<script type="text/javascript">
+var marketoSpVendorInternalId = '5f295fa4b8e05c76a44c3147';
+
+window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+    if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+        if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+            var gdprApplies = tcData.gdprApplies;
+            if (gdprApplies && !(cmpApi.getCustomVendorGrantConsent(marketoSpVendorInternalId))) {
+                //remove the listener ourself to not get called more than once
+                window.__tcfapi('removeEventListener', 2, function (success) {
+                    if (success) {
+                        window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                            if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                window.__tcfapi('getCustomVendorConsents', 2, function (customVendorConsentData, nonIabSuccess) {
+                                    console.log(" getting custom vendor consent by command inside cb");
+                                    if (customVendorConsentData != null) {
+                                        for (var key in customVendorConsentData.grants) {
+                                            var obj = customVendorConsentData.grants[key];
+                                            if (key === marketoSpVendorInternalId) {
+                                                if (obj.vendorGrant) {
+                                                    getMarketoJs();
+                                                }
+                                            }
+                                        }
+                                    }
+                                });
+
+                                window.__tcfapi('removeEventListener', 2, function (success) {
+                                    if (success) {
+                                        //listener Removed
+                                    }
+                                }, tcData.listenerId);
+
+                            }
+                        });
+                    }
+                }, tcData.listenerId);
+            } else {
+                window.__tcfapi('removeEventListener', 2, function (success) {
+                    console.log("CONTEXT HAS CONSENT OR GDPR IS NOT APPLICABLE");
+                    if (success) {
+                        getMarketoJs();
+                    }
+                }, tcData.listenerId);
+            }
+
+        }
+    }
+});
+</script>-->
+
+<!-- Global site tag (gtag.js) - Google Ads: 1068931085 -->
+
+<!--<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-1068931085" type="text/javascript"></script>-->
+
+<!--<script type="text/javascript">
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1068931085');
+
+</script>-->
+
+<!-- KickFire script -->
+
+<!--<script type="text/javascript">(function(w, d, c) {w['techtargetic'] = w['techtargetic'] || {};w['techtargetic'].client = c;var s = d.createElement("script");s.type = "text/javascript";s.async = !0;s.crossorigin = "anonymous";var rd = new Date();rd=rd.getFullYear()+''+rd.getMonth()+rd.getDate();s.src = "https://trk.techtarget.com/tracking.js";var n = d.getElementsByTagName("script")[0];n.parentNode.insertBefore(s, n);})(window, document, '1277768');</script>-->
+
+<!--<script type="text/javascript"> _linkedin_partner_id = "4287932"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script>--><!--<script type="text/javascript"> (function(l) { if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])}; window.lintrk.q=[]} var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(window.lintrk); </script>--> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4287932&fmt=gif" /> </noscript>
+
+
+
+
+
+
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
+	var dataLayer_content = {"siteID":"1","siteName":"TechTarget","visitorLoginState":"logged-out","pageTitle":"Cookie Policy - TechTarget","pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Edizkan Ata, Senior Manager, User Experience","pagePostDate":"March 15, 2016","pagePostDateYear":"2016","pagePostDateMonth":"03","pagePostDateDay":"15","postCountOnPage":1,"postCountTotal":1,"postID":6321,"postFormat":"standard"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WGRVWW');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+        		            <!--<script type="text/javascript">
+                                var hotjarSpVendorInternalId = '5ee7add94c24944fdb5c5ac6';
+                                var spPuropseId = "5ebec2c47b021339dc19dc0c";
+
+                                function getHotjarJs() {
+                                  if(this.debug) console.log("EXECUTING HOTJAR JS");
+                                  if(this.debug) console.log("EXECUTING LOAD HOTJAR JS");
+                                  (function (h, o, t, j, a, r) {
+                                      h.hj = h.hj || function () {
+                                          (h.hj.q = h.hj.q || []).push(arguments)
+                                      };
+                                      h._hjSettings = {hjid: 22351, hjsv: 6};
+                                      a = o.getElementsByTagName('head')[0];
+                                      r = o.createElement('script');
+                                      r.async = 1;
+                                      r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+                                      a.appendChild(r);
+                                  })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+                                }
+
+
+                                if(this.debug) console.log("Inside hotjar execution");
+                                window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                    if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+                                        if(this.debug) console.log("HJ ADDING EVENT LISTENER");
+                                        if(this.debug) console.log("HJ LISTENDER ID " + tcData.listenerId);
+                                        if (listenerSuccess && tcData.eventStatus === 'cmpuishown') {
+                                            if(this.debug) console.log("HJ CMPUISSHOWN");
+                                        }
+                                        if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                                            var gdprApplies = tcData.gdprApplies;
+                                            if(this.debug) console.log("HJ tcloaded eventstatus");
+                                            if(this.debug) console.log("HJ logging out gdprapplies " + gdprApplies);
+                                            if (gdprApplies && !(cmpApi.getCustomVendorGrantConsent(hotjarSpVendorInternalId))) {
+                                                if(this.debug) console.log("HJ GDPR IS APPLICABLE AND CONTEXT DOES NOT HAVE CONSENT");
+                                                //remove the listener ourself to not get called more than once
+                                                window.__tcfapi('removeEventListener', 2, function (success) {
+                                                    if(this.debug) console.log('HJ Inside remove event listener ' + success);
+                                                    if (success) {
+                                                        if(this.debug) console.log('removed: listener for HJ LOADING ' + tcData.listenerId);
+                                                        window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                                            if(this.debug) console.log("HJ AddEventUserAction " + tcData);
+                                                            if(this.debug) console.log('HJ Event listener has been registered due to no consent being set');
+                                                            if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                                                if(this.debug) console.log("HJ useractioniscomplete");
+
+                                                                window.__tcfapi('getCustomVendorConsents', 2, function (customVendorConsentData, nonIabSuccess) {
+                                                                    console.log("HJ getting custom vendor consent by command ");
+
+                                                                    if (customVendorConsentData != null) {
+                                                                        console.log('HJ COMMAND customvendorconsent grant = ' + customVendorConsentData.grants);
+                                                                        for (var key in customVendorConsentData.grants) {
+                                                                            var obj = customVendorConsentData.grants[key];
+                                                                            if (key === hotjarSpVendorInternalId) {
+                                                                                console.log("HJ returning vendor grant for " + hotjarSpVendorInternalId + " = " + obj.vendorGrant);
+                                                                                if (obj.vendorGrant) {
+                                                                                    getHotjarJs();
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                });
+
+                                                                window.__tcfapi('removeEventListener', 2, function (success) {
+                                                                    if (success) {
+                                                                        //listener Removed
+                                                                        if(this.debug) console.log('removed: ' + tcData.listenerId);
+                                                                    }
+                                                                }, tcData.listenerId);
+
+                                                            }
+                                                        });
+                                                    }
+                                                }, tcData.listenerId);
+                                            } else {
+                                            window.__tcfapi('removeEventListener', 2, function (success) {
+                                                if(this.debug) console.log('HJ CONTEXT HAS CONSENT OR GDPR IS NOT APPLICABLE');
+                                                if(this.debug) console.log('Listener for loading HJ' + success);
+                                                if (success) {
+                                                    getHotjarJs();
+                                                }
+                                            }, tcData.listenerId);
+                                            }
+
+                                        }
+                                    }
+                                });
+        		        </script>-->
+        		
+			<style>
+				@media only screen and ( min-width: 1270px ) {
+					.hide-for-desktop {
+						display: none !important;
+					}
+				}
+				@media only screen and ( max-width: 1269px ) {
+					.show-for-desktop {
+						display: none !important;
+					}
+				}
+			</style>
+
+			<!--<script type="text/javascript">var dataLayer = dataLayer || [];dataLayer.push({'trackType':'ERROR 404','topicId':'0','topicName':'','siteName':'TechTarget','uidType':'page','publicationDate':'','appCode':'0','is404':'false'});</script>--><link rel="icon" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-32x32.png" sizes="32x32">
+<link rel="icon" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-180x180.png">
+<meta name="msapplication-TileImage" content="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-270x270.png">
+<link rel="apple-touch-icon" sizes="57x57" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-180x180.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-32x32.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-114x114.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://cdn.ttgtmedia.com/wp-content/uploads/2016/08/cropped-tt-favicon-2-192x192.png">
+		<style type="text/css" id="wp-custom-css">
+			.blocky-text .large {
+font-size: 4.25rem;
+}
+body.page-id-99819 #mesh-sections-container {
+    position: relative;
+    z-index: 22;
+}
+@media only screen and (min-width: 1243px) {
+     body.single-campaign .top-bar-hamburger {
+          display: none;
+     }
+}
+/* #1 Burst */
+body.page-id-4602 #mesh-sections-container {
+    position: relative;
+    z-index: 1050;
+}
+body.page-id-130158 #mesh-sections-container {
+    position: relative;
+    z-index: 1050;
+}
+/* #1 Burst on capabilities*/
+body.page-id-80346 #mesh-sections-container {
+    position: relative;
+    z-index: 50;
+}
+body.page-id-80346 #mesh-sections-container {
+    position: relative;
+    z-index: 50;
+}
+body.page-id-109484 #mesh-sections-container {
+    position: relative;
+    z-index: 1050;
+}
+body.page-id-109952 #mesh-sections-container {
+    position: relative;
+    z-index: 22;
+}
+#cmp-banner {
+  position: fixed;
+bottom: 0;
+left: 0;
+z-index: 1200; }
+  @media (min-width: 960px) {
+    #cmp-banner {
+      bottom: 20px; 
+			left: 20px;} 
+}
+#cmp-banner,
+#cmp-banner > div,
+#cmp-banner iframe {
+      width: 300px;
+      height: 275px;
+}
+#cmp-banner:empty 			{display:none;
+}
+.search-csv .csv-search,
+.search-vendors .csv-search {
+ height:60px;
+ font-size:1.2rem;
+ font-weight: 400;
+}
+.search-csv button:before,
+.search-vendors button:before {
+ content:"\e900";
+ font-size:20px;
+ font-family:techtarget!important;
+ speak:none;
+ font-style:normal;
+ font-weight:400;
+ font-variant:normal;
+ text-transform:none;
+ line-height:1;
+ -webkit-font-smoothing:antialiased
+}
+.filter_event_category option:nth-of-type(2) {
+    display: none;
+}
+#searchsubmit-header {
+    display: none;
+}
+.tt-share {
+    display: none;
+}
+@font-face {
+  font-family: 'techtarget';
+  src:  url('https://www.techtarget.com/wp-content/themes/tech-target/assets/fonts/techtarget.eot?5sqxeh');
+  src:  url('https://www.techtarget.com/wp-content/themes/tech-target/assets/fonts/techtarget.eot?5sqxeh#iefix') format('embedded-opentype'), url('http://www.techtarget.com/corp/techtarget.ttf?5sqxeh') format('truetype'),
+  url('https://www.techtarget.com/wp-content/themes/tech-target/assets/fonts/techtarget.woff?5sqxeh') format('woff'),
+  url('https://www.techtarget.com/wp-content/themes/tech-target/assets/fonts/techtarget.svg?5sqxeh#techtarget') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+#menu-footer {
+    font-size: .64rem;
+}
+/* Gravity form styles */
+.gform_wrapper form input:not(.button), .gform_wrapper form select, .gform_wrapper form textarea {
+    background: #fff;
+    border: 1px solid #ccc;
+}
+.gform_wrapper form li, .gform_wrapper li {
+    margin-top: 10px!important;
+}
+body .gform_wrapper h3.gform_title {
+    display: none !important;
+}
+.gform_wrapper form li.gfield.gfield_error .validation_message {
+  color: #b74732;
+}
+/* Marketo form styles adj*/
+.mktoForm .mktoButtonWrap.mktoSimple button.mktoButton {
+    background: #00a69f;
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+    position: relative;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1;
+    text-shadow: 0 -1px 1px rgb(0 0 0 / 25%);
+}
+  .mktoForm fieldset {
+    /* padding: 0 10px; */
+    padding: 0 0px;
+  }
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px), only screen and (max-device-height: 480px) {
+  .mktoMobileShow .mktoForm, .mktoForm * {
+    padding: 0px;
+  }
+}
+
+form[data-form-id="2124"] .mktoFormCol .mktoHasWidth {
+   width: 100% !important;
+   padding-top: .5rem;
+   padding-bottom: .5rem;
+   line-height: 1.2em;
+} 
+.mktoForm .mktoFormCol {
+    float: none;
+    padding-right: 0px !important;
+}
+form[data-form-id="3140"] .mktoFormCol .mktoHasWidth {
+   width: 100% !important;
+   padding-top: .5rem;
+   padding-bottom: .5rem;
+  line-height: 1.2em;
+}
+form[data-form-id="3864"] .mktoFormCol .mktoHasWidth {
+   width: 100% !important;
+   padding-top: .5rem;
+   padding-bottom: .5rem;
+  line-height: 1.2em;
+}
+form.mktoForm select.mktoField {
+color: grey;
+}
+.mktoForm * {
+  font-family: inherit;
+  font-size: 1rem;
+	font-weight: 700;
+	color: #002a3f;
+}	
+#random-header .header-text, #random-header .video-header-text, #story-header .header-text, #story-header .video-header-text {
+    text-shadow: 0 0 12px rgba(33,33,33,0);
+}
+
+/* Blog cat marketing item hidden */
+li.cat-item.cat-item-4500 {
+    display: none;
+}
+
+h2.entry-title {
+	font-size: 2.375rem; 
+}
+.compact-header:not(.page-template-page-mesh-delayed-header) #s-header {
+    color: white;
+}	
+
+/* Summit speakers outline */
+.summit-speakers img {
+        border: 3px solid lightgray !important;
+}
+.top-bar-search {
+    position: relative;
+}
+@media screen and (max-width: 768px) {
+.summit-speakers img {
+        border: 0px solid lightgray !important;
+}
+		</style>
+			
+	
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKCV6V9"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGRVWW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	<div class="off-canvas-wrapper">
+		<div class="off-canvas-wrapper-inner " data-off-canvas-wrapper="">
+		
+<nav class="off-canvas position-right" id="offCanvasRight" data-off-canvas="" data-position="right" role="navigation" aria-hidden="true" data-options="force-top: false">
+  <button class="close-button" aria-label="Close menu" type="button" data-close="">
+    <span aria-hidden="true" class="icon-close"></span>
+  </button>
+
+	
+			
+  <ul id="menu-small-off-canvas-v2-demo-button" class="vertical menu" data-accordion-menu=""><li id="menu-item-86489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-86489"><a href="https://www.techtarget.com/capabilities-old/">Why TechTarget</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-86490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86490"><a href="https://www.techtarget.com/capabilities-old/">Overview</a></li>
+	<li id="menu-item-86491" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86491"><a href="/capability/audience-development/">Audiences</a></li>
+	<li id="menu-item-86492" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86492"><a href="/capability/data-insights/">Purchase Intent</a></li>
+	<li id="menu-item-86493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86493"><a href="https://www.techtarget.com/solutions/strategy-planning/">Strategy &amp; Planning</a></li>
+</ul>
+</li>
+<li id="menu-item-86494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-86494"><a href="https://www.techtarget.com/solutions/">Solutions</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-86500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86500"><a href="https://www.techtarget.com/solutions/">Overview</a></li>
+	<li id="menu-item-86496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86496"><a href="/solutions/tech-marketing/">Tech Marketing</a></li>
+	<li id="menu-item-86497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86497"><a href="/solutions/account-based-marketing/">ABM</a></li>
+	<li id="menu-item-124008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124008"><a href="/solutions/partner-marketing/">Partner Marketing</a></li>
+	<li id="menu-item-86498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86498"><a href="/solutions/tech-sales/">Tech Sales</a></li>
+	<li id="menu-item-86499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86499"><a href="/solutions/strategy-planning/">Strategy &amp; Planning</a></li>
+</ul>
+</li>
+<li id="menu-item-86501" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86501"><a href="/products/">Products</a></li>
+<li id="menu-item-86502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86502"><a href="/case-studies/">Customers</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-86503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86503"><a href="/case-studies/">Case Studies</a></li>
+	<li id="menu-item-100704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100704"><a href="https://www.techtarget.com/reviews/">Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-86505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86505"><a href="/resources/">Resources</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-86620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86620"><a href="/resources/">Resource Library</a></li>
+	<li id="menu-item-86526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86526"><a href="/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-86506" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86506"><a href="/about-us/">Company</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-86507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86507"><a href="/about-us/">Overview</a></li>
+	<li id="menu-item-86508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86508"><a href="https://www.techtarget.com/resources/?resource_category=&amp;resource_type=webinar-events">Events</a></li>
+	<li id="menu-item-86509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86509"><a href="/press-release/">Press Room</a></li>
+	<li id="menu-item-86510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86510"><a href="https://www.techtarget.com/about-us/careers/">Careers</a></li>
+	<li id="menu-item-86518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86518"><a target="_blank" rel="noopener" href="https://www.techtarget.com/editorial/">Editorial</a></li>
+	<li id="menu-item-86511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86511"><a href="/contact-us/">Contact Us</a></li>
+	<li id="menu-item-86512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86512"><a href="https://investor.techtarget.com/corporate-profile/default.aspx">Investor Relations</a></li>
+</ul>
+</li>
+<li id="menu-item-86513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86513"><a href="#">Global</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-86514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86514"><a href="https://www.techtarget.fr/">Français</a></li>
+	<li id="menu-item-86515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86515"><a href="https://www.techtarget.de/">Deutsch</a></li>
+	<li id="menu-item-86516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86516"><a href="/global-markets/">Global Markets</a></li>
+</ul>
+</li>
+			<li class="hide-for-desktop">
+				<a href="https://reg.techtarget.com/general-product-walkthrough.html" class="button fill-button light" data-text="Product Demo" aria-label="Product Demo">Product Demo</a>
+			</li>
+			</ul></nav>
+
+<div class="off-canvas-content" data-off-canvas-content="">
+
+		
+        		<header id="masthead" class="site-header" role="banner">
+						<nav id="site-navigation" class="main-navigation top-bar tb-opacity-80" role="navigation">
+									<div class="top-bar-utility">
+						<ul id="menu-utility-top-bar" class="dropdown menu traditional-menu utility-menu" data-dropdown-menu=""><li id="menu-item-134409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134409"><a href="/editorial/">Editorial</a></li>
+<li id="menu-item-117756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117756"><a target="_blank" rel="noopener" href="https://itda2.techtarget.com/itda/pe/home">Priority Engine Login</a></li>
+<li id="menu-item-117757" class="menu-icon-globe stacked show-for-desktop menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-117757"><a href="#">Languages</a>
+<ul class="dropdown menu vertical" data-toggle="">
+	<li id="menu-item-117758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117758"><a href="https://www.techtarget.fr/">Français</a></li>
+	<li id="menu-item-117759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117759"><a href="https://www.techtarget.de/">Deutsch</a></li>
+	<li id="menu-item-117760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117760"><a href="https://www.techtarget.com/global-markets/">Global Markets</a></li>
+</ul>
+</li>
+<li class="search-trigger"><span class="icon-search"></span></li></ul>					</div>
+								<div class="top-bar-left">
+					<ul class="menu">
+						<li class="home">
+							<a href="https://www.techtarget.com/" rel="home" class="header-logo-container">
+								<svg id="techtarget-logo" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 390 210"><defs><style>.cls-1,.cls-4{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{clip-path:url(#clip-path-2);}.cls-4{stroke:#a6a5a5;stroke-miterlimit:10;stroke-width:0.75px;}.cls-5{fill:#008681;}</style><clipPath id="clip-path"><rect class="cls-1" x="59" y="228.81" width="792" height="612"></rect></clipPath><clipPath id="clip-path-2"><rect class="cls-1" x="815" y="228.81" width="36" height="612"></rect></clipPath></defs><title>Artboard 2</title> <path class="cls-5" d="M308,63a34.14,34.14,0,1,1-34.15-34.15A34.18,34.18,0,0,1,308,63m76.54-12.54C384.2,50.52,340.43,5,274.26,5S164,50.49,164,50.49l.05,6.84S199,27.68,253.26,21a46.89,46.89,0,1,0,40.94-.14c55,6.44,90.36,36.51,90.36,36.51Z"></path> <path class="cls-5" d="M273.86,71.49A8.17,8.17,0,1,1,282,63.32a8.18,8.18,0,0,1-8.16,8.17m0-28.87a20.71,20.71,0,1,0,20.7,20.69,20.72,20.72,0,0,0-20.7-20.69"></path> <path class="cls-5" d="M80.32,178.36,76.25,170c-4,2.5-5.64,3.33-8.23,4.07a16.54,16.54,0,0,1-5.09.74,11.14,11.14,0,0,1-9.62-5.18c-1-1.75-1.3-3.24-1.48-6.84H80.32V158c0-11.65-7.4-19.69-18-19.69-12.3,0-21.55,10.27-21.55,23.86,0,13.14,8,21.56,20.8,21.56a33.94,33.94,0,0,0,14.16-3.05c1-.47,2.59-1.21,4.62-2.33m-11.1-22.54H52.39c.93-5.84,4.25-9.18,9.16-9.18,5.18,0,7.4,2.59,7.68,9.18"></path> <path class="cls-5" d="M120.47,181.23a32.92,32.92,0,0,1-12.58,2.51c-13.32,0-21.93-8.8-21.93-22.3,0-13.87,9.16-23.22,22.85-23.22a35,35,0,0,1,7,.74,24.47,24.47,0,0,1,8.24,3.52l-5.27,8.41c-3.23-2.49-5.36-3.32-8.7-3.32-7.31,0-12.48,5.72-12.48,13.78,0,7.68,4.62,12.95,11.27,12.95,3.7,0,6.39-.94,11.11-3.7l4.07,9c-1.58.75-2.78,1.29-3.61,1.67"></path> <path class="cls-5" d="M156.08,182.53V154.87c0-5.37-.94-7.3-3.61-7.3-2.31,0-5.54,2.3-10.35,7.48l-1.49,1.58v25.89H129.53V115.11h11.09v31.53c5.19-5.64,9.44-8,14.9-8q11.64,0,11.66,12.21v31.64Z"></path><polygon class="cls-5" points="33.83 131.5 33.83 182.56 22.19 182.56 22.19 131.5 3.91 131.5 3.91 121.62 52.11 121.62 52.11 131.5 33.83 131.5"></polygon> <path class="cls-5" d="M236.7,174.76c-3-.28-3.43-.93-3.43-4.8V152c0-9.43-4.61-13.68-14.89-13.68-11.66,0-18.31,4.34-18.31,11.91a7.05,7.05,0,0,0,.55,3l10.54-2.32a3.26,3.26,0,0,1-.28-1.11c0-2.12,2.69-3.88,6-3.88,3.61,0,5.26,2.13,5.26,6.75v3.61L210,159.77c-6.29,1.86-8.87,3.89-10.35,7.86a13.94,13.94,0,0,0-.74,4.35c0,6.84,5.18,11.66,12.49,11.66,4.35,0,8-1.59,12-5.28,1.93,3.8,3.7,4.72,9.23,4.72h2.33Zm-14.53-3a16.08,16.08,0,0,1-2.86,1.94,9.56,9.56,0,0,1-4.53,1.29,4.08,4.08,0,0,1-4.44-4.44,9,9,0,0,1,.83-3.61l11-3.61Z"></path> <path class="cls-5" d="M264.26,152.65a5.05,5.05,0,0,0-3.32-1.29c-1.75,0-3.7,1.2-5.37,3.24a12.2,12.2,0,0,0-3,8.22v19.72h-11v-43h9.53l.47,9.42c4.15-7.31,6.84-10.08,10.16-10.08a7.76,7.76,0,0,1,6,3Z"></path> <path class="cls-5" d="M301.45,187.8c0,1.67-1.21,3.61-3.24,5.18a15.46,15.46,0,0,1-9.53,3.34c-5.09,0-9.07-2.14-9.07-4.82,0-1.11.73-2.79,2-4.89a9.8,9.8,0,0,0,.93-1.48H296c3.71,0,5.46.91,5.46,2.68m11.93-40v-8.33l-8.7.55h-6.39c-4.06-1.39-5.81-1.76-9-1.76-11.39,0-18.42,6.29-18.42,16.55a15.92,15.92,0,0,0,3.79,10.55,20.63,20.63,0,0,0,3.79,3.31c-1.19.94-2.12,1.5-2.68,2-4.17,2.77-5.64,4.71-5.64,7.21s1.77,4.26,6,5.83c-5,4.24-6.85,7.12-6.85,10.44,0,6.48,7.11,10.82,17.66,10.82,14.45,0,24.8-7.76,24.8-18.49,0-6.95-4-10.36-12.39-10.36H284.34c-2.13,0-2.88-.28-2.88-1.2,0-1.12,1.38-2.49,4.26-4.62a13.31,13.31,0,0,0,3.15.27c11.28,0,18.88-6.57,18.88-16.37a9.47,9.47,0,0,0-2-6.38Zm-16.93,6.46c0,4.45-3.13,7.94-7.12,7.94s-7.13-3.5-7.13-7.85,3.14-8.13,7-8.13,7.21,3.6,7.21,8"></path> <path class="cls-5" d="M354.83,178.36,350.74,170c-4,2.5-5.64,3.33-8.23,4.07a16.51,16.51,0,0,1-5.09.74,11.17,11.17,0,0,1-9.62-5.18c-1-1.75-1.29-3.24-1.48-6.84h28.51V158c0-11.65-7.41-19.69-18-19.69-12.29,0-21.55,10.27-21.55,23.86,0,13.14,8,21.56,20.8,21.56a33.94,33.94,0,0,0,14.16-3.05c1-.47,2.6-1.21,4.64-2.33m-11.1-22.54H326.88c.93-5.84,4.25-9.18,9.15-9.18,5.19,0,7.42,2.59,7.69,9.18"></path> <path class="cls-5" d="M382,180.86a19.69,19.69,0,0,1-9.61,2.88c-5.74,0-8.42-3-8.42-9.34V147.66h-6.38v-7l6.38-1.11V126.66h10.44v12.87h9.35v8.14h-9.35V166.8c0,4.8.48,6.2,2.22,6.2,1.3,0,2.87-.66,5.94-2.69l3.52,8.05c-1.49.93-2.88,1.75-4.09,2.49"></path><polygon class="cls-5" points="192.31 131.5 192.31 182.56 180.67 182.56 180.67 131.5 162.4 131.5 162.4 121.62 210.59 121.62 210.59 131.5 192.31 131.5"></polygon> <path class="cls-5" d="M377.88,19h-1.42v3.19h1.6c1.42,0,2.16-.54,2.16-1.72S379,19,377.88,19m2.43,7.41-2.56-3.51h-1.29v3.51h-.85V18.25h2.48c2.06,0,3.05.74,3.05,2.21a2.51,2.51,0,0,1-2.35,2.4l2.66,3.57Zm-2-10.61a6.35,6.35,0,0,0-6.3,6.49,6.29,6.29,0,1,0,12.57,0,6.35,6.35,0,0,0-6.27-6.49m0,13.78a7.28,7.28,0,1,1,7.19-7.29,7.31,7.31,0,0,1-7.19,7.29"></path></svg>							</a>
+						</li>
+
+																								</ul>
+				</div>
+
+				<div class="top-bar-right utility-search">
+					
+						<ul id="menu-supermenu-v2-demo-button" class="dropdown menu supermenu-menu desktop-menu" data-dropdown-menu=""><li id="menu-item-111669" class="show-for-desktop stacked menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111669"><a href="https://www.techtarget.com/capabilities/">Why TechTarget</a>
+<ul class="dropdown menu vertical" data-toggle="">
+	<li id="menu-item-89970" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-89970"><a href="/capabilities/">Overview</a>
+	<ul class="dropdown menu vertical" data-toggle="">
+		<li id="menu-item-86418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86418"><a href="/capability/audience-development/">Audiences</a></li>
+		<li id="menu-item-86421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86421"><a href="/capability/data-insights/">Purchase Intent</a></li>
+		<li id="menu-item-86422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86422"><a href="https://www.techtarget.com/solutions/end-to-end-support/">End-to-end Support</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-86423" class="show-for-desktop full menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-86423"><a href="https://www.techtarget.com/solutions/">Solutions</a>
+<ul class="dropdown menu vertical" data-toggle="">
+	<li id="menu-item-86424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86424"><a href="/solutions/tech-marketing/">Tech Marketing</a>
+	<ul class="dropdown menu vertical" data-toggle="">
+		<li id="menu-item-116624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116624"><a href="/solutions/tech-marketing/#enhance">Enhance Your Contact Database</a></li>
+		<li id="menu-item-86426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86426"><a href="/solutions/build-awareness/">Build Awareness</a></li>
+		<li id="menu-item-86427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86427"><a href="/solutions/generate-better-leads/">Generate Better Leads</a></li>
+		<li id="menu-item-86428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86428"><a href="/solutions/drive-event-attendance/">Drive In-person Event Attendance</a></li>
+		<li id="menu-item-89491" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89491"><a href="/solutions/deliver-virtual-events/">Deliver Virtual Events</a></li>
+		<li id="menu-item-86429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86429"><a href="/solutions/convert-website-visitors/">Convert Website Visitors</a></li>
+		<li id="menu-item-86430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86430"><a href="/solutions/tech-marketing/#enable">Enable Sales/Channel</a></li>
+	</ul>
+</li>
+	<li id="menu-item-86431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86431"><a href="/solutions/account-based-marketing/">ABM</a>
+	<ul class="dropdown menu vertical" data-toggle="">
+		<li id="menu-item-86432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86432"><a href="/solutions/account-based-marketing/#enhance">Enhance Target Account Lists</a></li>
+		<li id="menu-item-86433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86433"><a href="/solutions/account-based-marketing/#prioritize">Prioritize Target Accounts</a></li>
+		<li id="menu-item-86434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86434"><a href="/solutions/account-based-marketing/#engage">Engage Target Accounts</a></li>
+		<li id="menu-item-86435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86435"><a href="/solutions/account-based-marketing/#uncover">Uncover Buying Team Contacts</a></li>
+		<li id="menu-item-86436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86436"><a href="/solutions/account-based-marketing/#measure">Measure Success</a></li>
+	</ul>
+</li>
+	<li id="menu-item-116749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-116749"><a href="/solutions/partner-marketing/">Partner Marketing</a>
+	<ul class="dropdown menu vertical" data-toggle="">
+		<li id="menu-item-116750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116750"><a href="/solutions/partner-marketing/#tech">Technology Alliance Partner Marketing</a></li>
+		<li id="menu-item-116751" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116751"><a href="/solutions/partner-marketing/#strategy">Channel Strategy &amp; Partner Go-to-Market</a></li>
+		<li id="menu-item-116752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116752"><a href="/solutions/partner-marketing/#sales">Channel Partner Sales Enablement</a></li>
+		<li id="menu-item-116753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116753"><a href="/solutions/partner-marketing/#recruit">Channel Partner Recruitment</a></li>
+	</ul>
+</li>
+	<li id="menu-item-86437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86437"><a href="/solutions/tech-sales/">Tech Sales</a>
+	<ul class="dropdown menu vertical" data-toggle="">
+		<li id="menu-item-86438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86438"><a href="/solutions/tech-sales/#prioritize">Prioritize Outreach</a></li>
+		<li id="menu-item-86439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86439"><a href="/solutions/tech-sales/#reach">Reach the Right Prospects</a></li>
+		<li id="menu-item-86440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86440"><a href="/solutions/tech-sales/#improve">Improve Response Rates</a></li>
+		<li id="menu-item-86441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86441"><a href="/solutions/tech-sales/#access">Access Live Projects</a></li>
+		<li id="menu-item-86442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86442"><a href="/solutions/tech-sales/#generate">Generate Meetings &amp; Opps</a></li>
+	</ul>
+</li>
+	<li id="menu-item-86446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86446"><a href="/solutions/strategy-planning/">Strategy &amp; Planning</a>
+	<ul class="dropdown menu vertical" data-toggle="">
+		<li id="menu-item-86448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86448"><a href="/solutions/improve-gtm-strategy-optimize-execution/">Improve Strategy &amp; Execution</a></li>
+		<li id="menu-item-134985" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134985"><a href="https://www.techtarget.com/solutions/Market-Intelligence/">Market Intelligence</a></li>
+		<li id="menu-item-86447" class="hide menu-item menu-item-type-custom menu-item-object-custom menu-item-86447"><a href="/solutions/marketing-enablement-sales-acceleration/">Marketing Enablement</a></li>
+		<li id="menu-item-117576" class="hide menu-item menu-item-type-custom menu-item-object-custom menu-item-117576"><a href="/solutions/marketing-enablement-sales-acceleration/">Sales Acceleration</a></li>
+	</ul>
+</li>
+	<li id="menu-item-86531" class="menu-item menu-item-type-yawp_wim menu-item-object-yawp_wim menu-item-86531">				<div class="yawp_wim_wrap">
+					<div class="widget-area">
+						
+        <div class="super-menu-widget" style="max-width: 360px; background-color: #004661" data-bg="#004661" data-breakpoint="20000">
+            <div class="sm-widget-text"><div class="image-wrap"><a href="https://www.techtarget.com/resources/how-does-your-sales-development-program-measure-up/" target="_blank" rel="noopener"><img class="alignnone wp-image-129544" src="https://cdn.ttgtmedia.com/wp-content/uploads/2021/12/Tenbound-RevOps-Research-Report-Resource.jpg" alt="" width="362" height="302"></a></div>
+<div class="text-wrap">
+<h5><strong>How Does Your Sales Development Program Measure Up?</strong></h5>
+<div style="line-height: normal;">
+
+In recent years, B2B organizations have added more and more XDRs – but outcomes haven’t kept up with expectations. In this white paper, we look at findings from recent Tenbound/RevOps Squared/TechTarget research to identify where major chronic breakdowns are still occurring in many Sales Development programs.
+<br>
+
+		
+			<a href="https://www.techtarget.com/resources/how-does-your-sales-development-program-measure-up/" class="button fill-button" data-text="Learn more" target="&quot;_blank&quot;" aria-label="Learn more">Learn more</a>
+
+				
+
+</div>
+</div></div>
+        </div>
+
+        					</div>
+				</div>
+				</li>
+</ul>
+</li>
+<li id="menu-item-86453" class="show-for-desktop full menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-86453"><a href="https://www.techtarget.com/products/">Products</a>
+<ul class="dropdown menu vertical" data-toggle="">
+	<li id="menu-item-86452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86452"><a href="#">Demand Gen &amp; ABM</a>
+	<ul class="dropdown menu vertical" data-toggle="">
+		<li id="menu-item-86454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86454"><a href="/products/priority-engine/">Priority Engine</a></li>
+		<li id="menu-item-86455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86455"><a href="/products/content-marketing-lead-generation/">Lead Generation</a></li>
+		<li id="menu-item-134438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134438"><a href="/products/custom-content/">Custom Content</a></li>
+		<li id="menu-item-86456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86456"><a href="/products/contact-data-services/">Contact Data Services</a></li>
+	</ul>
+</li>
+	<li id="menu-item-86457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86457"><a href="/products/data-driven-display/">Brand Consideration</a>
+	<ul class="dropdown menu vertical" data-toggle="">
+		<li id="menu-item-86458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86458"><a href="/products/data-driven-display/">Data-Driven Display</a></li>
+		<li id="menu-item-86459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86459"><a href="/products/custom-websites/">Custom &amp; Native Web Sites</a></li>
+	</ul>
+</li>
+	<li id="menu-item-86460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86460"><a href="#">Sales Enablement</a>
+	<ul class="dropdown menu vertical" data-toggle="">
+		<li id="menu-item-86461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86461"><a href="/products/sales-quality-leads/">Sales-Quality Leads</a></li>
+		<li id="menu-item-86462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86462"><a href="/products/priority-engine/">Priority Engine</a></li>
+		<li id="menu-item-134439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134439"><a href="https://www.techtarget.com/products/custom-content/">Custom Content</a></li>
+	</ul>
+</li>
+	<li id="menu-item-86463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86463"><a href="#">Strategic Services</a>
+	<ul class="dropdown menu vertical" data-toggle="">
+		<li id="menu-item-86464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86464"><a href="/products/research-advisory-consulting/">Market Research &amp; Advisory</a></li>
+		<li id="menu-item-134687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134687"><a href="/products/research-advisory-consulting/#custom">Custom Research &amp; Consulting</a></li>
+	</ul>
+</li>
+	<li id="menu-item-86443" class="menu-item menu-item-type-yawp_wim menu-item-object-yawp_wim menu-item-86443">				<div class="yawp_wim_wrap">
+					<div class="widget-area">
+						
+        <div class="super-menu-widget" style="max-width: 360px; background-color: #002a3f" data-bg="#002a3f" data-breakpoint="20000">
+            <div class="sm-widget-text"><div class="image-wrap"><a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__bit.ly_2Pq0wr0&amp;d=DwMFaQ&amp;c=tEbGsWWjqkBSpaWdXc_mdMSanI1bDu-FKXiKGCfVmPM&amp;r=Ivan890UA48Fb7vHxwDhxn875h22uO1YeCMgsxdvaPI&amp;m=w5wgb5Q9sVy5fATc9mBuXVwBlexkGrfAHmfByZa8jcs&amp;s=sIba4gs3rG4RzNsUFeZ3xoaxzO5-xBcPtOXYvruQNb8&amp;e="><img class="align-justify wp-image-57821 alignnone" src="https://cdn.ttgtmedia.com/wp-content/uploads/2019/11/TTGT_Activity-Matters_Resource_Icon-384x320.png" alt="" width="340" height="285"></a></div>
+<div class="text-wrap">
+<h5>Activity Matters: Identify and Engage the Most Active Buyers in B2B Tech</h5>
+<div style="line-height: normal;">If you want to reach prospects who’ll actually respond, Activity Matters. That’s why TechTarget’s Active Prospects are 7X more likely to click on your emails, 75% more likely to accept a meeting, and 2X more likely to turn into pipeline. Watch this video to learn how TechTarget can help you identify and engage the most active buyers in B2B tech.</div>
+
+		
+			<a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__bit.ly_2Pq0wr0&amp;d=DwMFaQ&amp;c=tEbGsWWjqkBSpaWdXc_mdMSanI1bDu-FKXiKGCfVmPM&amp;r=Ivan890UA48Fb7vHxwDhxn875h22uO1YeCMgsxdvaPI&amp;m=w5wgb5Q9sVy5fATc9mBuXVwBlexkGrfAHmfByZa8jcs&amp;s=sIba4gs3rG4RzNsUFeZ3xoaxzO5-xBcPtOXYvruQNb8&amp;e=" class="button fill-button" data-text="Watch Now" aria-label="Watch Now">Watch Now</a>
+
+				
+
+</div></div>
+        </div>
+
+        					</div>
+				</div>
+				</li>
+</ul>
+</li>
+<li id="menu-item-86466" class="show-for-desktop stacked menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86466"><a href="/case-studies/">Customers</a>
+<ul class="dropdown menu vertical" data-toggle="">
+	<li id="menu-item-86469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86469"><a href="/case-studies/">Case Studies</a></li>
+	<li id="menu-item-100705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100705"><a href="https://www.techtarget.com/reviews/">Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-86474" class="show-for-desktop stacked menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86474"><a href="/resources/">Resources</a>
+<ul class="dropdown menu vertical" data-toggle="">
+	<li id="menu-item-86476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86476"><a href="/resources/?resource_category=&amp;resource_type=article">Articles</a></li>
+	<li id="menu-item-86475" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86475"><a href="/blog/">Blog</a></li>
+	<li id="menu-item-88587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88587"><a href="/resources/?resource_category=&amp;resource_type=case-study">Case Studies</a></li>
+	<li id="menu-item-86477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86477"><a href="/resources/?resource_category=&amp;resource_type=white-paper-ebooks">E-books</a></li>
+	<li id="menu-item-86478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86478"><a href="/resources/?resource_category=&amp;resource_type=infographics">Infographics</a></li>
+	<li id="menu-item-122253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122253"><a href="/resources/?resource_category=&amp;resource_type=knowledge-sharing">Knowledge Sharing</a></li>
+	<li id="menu-item-88716" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88716"><a href="/resources/?resource_category=&amp;resource_type=presentations">Presentations</a></li>
+	<li id="menu-item-86479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86479"><a href="/resources/?resource_category=&amp;resource_type=product-sheet">Product Sheets</a></li>
+	<li id="menu-item-117833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117833"><a href="/resources/?resource_category=&amp;resource_type=research-analysis">Research/Analysis</a></li>
+	<li id="menu-item-86480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86480"><a href="/resources/?resource_category=&amp;resource_type=video">Videos</a></li>
+	<li id="menu-item-86481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86481"><a href="/resources/?resource_category=&amp;resource_type=webinars-events">Webinars/Events</a></li>
+</ul>
+</li>
+<li id="menu-item-86482" class="show-for-desktop stacked menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86482"><a href="/about-us/">Company</a>
+<ul class="dropdown menu vertical" data-toggle="">
+	<li id="menu-item-86483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86483"><a href="/about-us/">Overview</a>
+	<ul class="dropdown menu vertical" data-toggle="">
+		<li id="menu-item-86485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86485"><a href="/press-release/">Press Room</a></li>
+		<li id="menu-item-86486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86486"><a href="https://www.techtarget.com/about-us/careers/">Careers</a></li>
+		<li id="menu-item-86517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86517"><a href="/editorial/">Editorial</a></li>
+		<li id="menu-item-86487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86487"><a href="/contact-us/">Contact Us</a></li>
+		<li id="menu-item-86488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86488"><a href="https://investor.techtarget.com/corporate-profile/default.aspx">Investor Relations</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-86470" class="menu-icon-globe stacked show-for-desktop hide menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86470"><a href="#">Languages</a>
+<ul class="dropdown menu vertical" data-toggle="">
+	<li id="menu-item-86471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86471"><a href="https://www.techtarget.fr/">Français</a></li>
+	<li id="menu-item-86472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86472"><a href="https://www.techtarget.de/">Deutsch</a></li>
+	<li id="menu-item-86473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86473"><a href="/global-markets/">Global Markets</a></li>
+</ul>
+</li>
+<li class="top-bar-search"><form role="search" method="get" id="searchform-header" action="https://www.techtarget.com/">
+		<div class="input-group">
+		<span id="searchform-close-header" class="icon-close"></span>
+		<input type="text" class="input-group-field" value="" name="s" id="s-header" placeholder="Search">
+				<div class="input-group-button">
+			<button type="submit" id="searchsubmit-header" value="Search" class="button">
+				<span class="icon-search"></span>
+			</button>
+		</div>
+	</div>
+	</form>
+</li><li class="top-bar-hamburger hide-for-desktop"><a data-toggle="offCanvasRight" aria-expanded="false" aria-controls="offCanvasRight" data-force-top="false"><span class="icon-menu"></span></a></li>						<li class="top-bar-cta show-for-desktop">
+							<a href="https://reg.techtarget.com/general-product-walkthrough.html" class="button fill-button header-fill-button" data-text="Product Demo" aria-label="Product Demo">Product Demo</a>
+						</li>
+						</ul><div class="supermenu-bg"><div class="sm-arrow"></div><div class="sm-widget-bg"></div></div>				</div>
+			</nav>
+
+					</header>
+
+        
+		<section class="container">
+			
+	<div id="page" role="main">
+		<div class="row extend banded">
+			
+<div class="page-header-container">
+	<header class="small-12 columns page-header background-medium-blue color-light-gray">
+		
+							                    <div class="small-12">
+                                                    <h1 class="entry-title">Cookie Policy</h1>
+                                            </div>
+							
+			</header>
+</div>
+		</div>
+
+		<div class="row extend">
+			
+													<article class="main-content columns small-12 post-6321 page type-page status-publish hentry grow-content-body" id="post-6321">
+										<div class="entry-content">
+						<div style="margin-top: 20px;">
+<p>This Cookie Policy (“Policy”) explains how TechTarget, Inc. and its subsidiaries (collectively “TechTarget,” “we,” “us,” and “our”) use cookies and similar technologies to recognize individuals who access our websites and sub-domains (“users” or “you”) when they visit our website and interact with the content and ads that are posted on these websites. This Policy outlines the types of cookies and other similar technologies used on our websites, why we use them, and what your rights are to control the use of them. For a comprehensive understanding of the types of information that we collect, how we use the information that we collect, and why we collect certain types of information, please read our Privacy Policy, which is incorporated herein by reference.&nbsp;Capitalized terms not defined in this Policy have the meanings set forth in our Privacy Policy.</p>
+<p><strong>By continuing to visit our websites or use our services, you are agreeing to the use of cookies and other similar technologies for the purposes we describe in this Policy.</strong></p>
+<h3>I. What are Cookies?</h3>
+<p>Cookies are small data files which are placed on your computer or mobile device when you visit a website or use an online service. For example, cookies enable us to identify you andremember your preferences so we can enhance your experience on our websites. They also help us serve you ads relevant to your professional interests.</p>
+<h3>II. Why Do We Use Cookies?</h3>
+<p>We use cookies for a variety of reasons. These cookies may be first party cookies (meaning that they are supported by TechTarget) or third party cookies (meaning that they are hosted by a party other than TechTarget, such as TechTarget service providers and Partners). Cookies can be used to recognize you when you visit our websites or use our services and they allow us to bring you relevant advertising both on and off our websites,</p>
+<p>We use several different types of cookies on our websites, including the following.</p>
+<ul>
+<li><strong>Essential Cookies:</strong> Essential cookies facilitate the operation of our websites. Without the use of these cookies, portions of our websites would not function properly. For example, we use essential cookies to help us identify which of our visitors have previously registered in order to access our premium content.</li>
+<li><strong>Analytical Performance Cookies: </strong>Analytical performance cookies help us monitor the performance of our websites and how users interact with it. These cookies provide us with information that allows us to improve our websites and services.</li>
+<li><strong>Functional Cookies:</strong>Functional cookies are used to remember your preferences on our websites and to authenticate your identity. For example, we use functional cookies to recognize and save your name and password on our websites.</li>
+<li><strong>Flash Cookies:</strong> When you use one of our websites that employs Macromedia Flash Player, a small Flash Cookie may be used. The purpose of using these cookies is to store your flash player preferences and enhance your browsing experience.</li>
+<li><strong>Behavioral Advertising Cookies:</strong>TechTarget and its Partners use behavioral advertising cookies in order to provide you with advertising which is tailored to your interests when you visit websites on and off our network. Behavioral advertising cookies analyze information about your interests and your browsing history, and provide you with advertisements on and off our network which matches these interests. Behavioral advertising is based upon your web browsing activity over a period of time – so it’s different than advertising you may see when you’re looking for something online using a search engine (e.g., Google, Yahoo, or Bing) or on the website you may be visiting at a particular time. As an example, you may be doing research on products and services related to data center virtualization. If a data center virtualization provider is conducting an advertising campaign on our network, as you browse the relevant portions of our sites, we may serve you with one of the advertisements of one of their solutions.</li>
+</ul>
+<h3>III. What is Do Not Track (“DNT”)</h3>
+<p>DNT is a concept that has been promoted by regulatory agencies such as the U.S. Federal Trade Commission for the internet industry to enable internet users to control the tracking of their online activities across websites by using browser settings. The World Wide Web Consortium has been working with industry groups, Internet browsers, technology companies, and regulators to develop a DNT technology standard. To date, no standard has been adopted. As such, TechTarget does not generally respond to “do not track” signals.</p>
+<h3>IV. How are Cookies used for Advertising Purposes?</h3>
+<p>Cookies and other ad technology such as beacons, pixels, and tags help us to serve you ads relevant to your professional interests. They also help us to provide aggregated auditing, research, and reporting for advertisers, understand and improve our service, and know when content has been shown to you. Because your web browser may request advertisements and beacons directly from third party ad network servers, these networks can view, edit, or set third party cookies, just as if you had requested a web page from their site. Ads served by TechTarget may also set third party cookies.</p>
+<p>If you are logged in to our services and one of our cookies on your device identifies you, your usage (such as your browsing behavior) and log data (such as your IP address), will be associated by us with your Membership Information as discussed in Section V of our Privacy Policy. We also use aggregate data from third parties and data from your activity on our websites. Unless you clear these cookies from your browser, we may use this information to:</p>
+<ul>
+<li>provide you with services, publications, and information that may be of interest to you;</li>
+<li>deliver or display content or interest-based advertising that matches your professional interests and responsibilities;</li>
+<li>offer you opportunities to connect directly with your peers and with providers of technologies, goods, and services that may be of interest to you; or</li>
+<li>detect and defend against fraud and other risks to protect our members and partners.</li>
+</ul>
+<p>For further information regarding our use of cookies and other similar technologies for advertising purposes, and the controls available, please see Section XII of our Privacy Policy.</p>
+<h3>V. How Can You Control the Use of Cookies?</h3>
+<p>You have the power to control the use of cookies on your devices. You may modify your browser settings to accept or reject all cookies, or to prevent it from accepting certain cookies or certain types of cookies.&nbsp; It may be possible to set your browser to not accept cookies and ask for your consent before each cookie is set on your device. If you modify your browser settings to prevent it from accepting all cookies, please be aware that the functionality of many of our websites will be impaired.</p>
+<p>Please note that, although Flash cookies are stored on your devices in a similar fashion to standard cookies, they are stored in a different location. As such, you cannot manage these cookies directly from your browser. For information about how you can manage Flash cookies, please visit <a href="https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html" target="_blank" rel="noopener noreferrer"><strong>Adobe’s website</strong></a><strong>.</strong></p>
+<p>For more information about how you can exercise your rights with regard to cookies, please select your browser or device from the list below and follow the instructions:</p>
+<ul>
+<li><strong>Browsers: </strong><a href="https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank" rel="noopener noreferrer"><strong>Internet Explorer</strong></a><strong>&nbsp; |&nbsp; </strong><a href="http://www.google.com/support/chrome/bin/answer.py?answer=95647" target="_blank" rel="noopener noreferrer"><strong>Chrome</strong></a><strong>&nbsp; |&nbsp; </strong><a href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac" target="_blank" rel="noopener noreferrer"><strong>Safari</strong></a><strong>&nbsp; |&nbsp; </strong><a href="http://support.mozilla.com/en-US/kb/Enabling%20and%20disabling%20cookies" target="_blank" rel="noopener noreferrer"><strong>Firefox</strong></a><strong>&nbsp; |&nbsp; </strong><a href="http://www.opera.com/browser/tutorials/security/privacy/" target="_blank" rel="noopener noreferrer"><strong>Opera</strong></a></li>
+<li><strong>Mobile Devices:</strong> <a href="https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&amp;hl=en" target="_blank" rel="noopener noreferrer"><strong>Android</strong></a><strong>&nbsp; |&nbsp; </strong><a href="http://support.apple.com/kb/HT1677" target="_blank" rel="noopener noreferrer"><strong>Safari</strong></a><strong>&nbsp; |&nbsp; </strong><a href="https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank" rel="noopener noreferrer"><strong>Windows Phone</strong></a><strong>&nbsp; |&nbsp; </strong><a href="https://help.blackberry.com/en/blackberry-classic/10.3.1/help/mwa1334238823957.html" target="_blank" rel="noopener noreferrer"><strong>Blackberry</strong></a></li>
+</ul>
+<h3>VI. How Can I Prevent Cookies or Other Tracking Technologies and Uses of My Information?</h3>
+<p>You can view and manage the cookies we set on this website <a href="https://consent.techtarget.com/cmp/privacy_manager?privacy_manager_id=5b5a0f6571642f4d806d35ae&amp;site_id=1100" target="_blank" rel="noopener noreferrer">via our consent manager here</a>. You will continue to be served with advertisements; however, they will not be tailored to your web preferences, usage patterns and professional interests. If you do not want to receive cookies, you can also change your browser settings on your computer or other device. If you use our websites and services without changing your browser settings, then we will assume that you have agreed to receive all cookies on our websites.</p>
+<ul>
+<li><strong>Online Behavioral Advertising: </strong>You can prevent online behavioral advertising by modifying your browser settings. The “Your Online Choices” page provided by the&nbsp;<a href="http://www.youronlinechoices.com/uk/your-ad-choices" target="_blank" rel="noopener noreferrer">Internet Advertising Bureau</a>(IAB), provides an easy way to opt out of behavioral advertising from each (or all) of the networks represented by the IAB.</li>
+<li><strong>Privacy Policy</strong>: For additional information about how we collect and use your information and how you may exercise your rights, please read our <a href="https://www.techtarget.com/wp-content/uploads/2016/03/TTGT_Privacy-Policy_English-11-08-17.pdf" target="_blank" rel="noopener noreferrer"><strong>Privacy Policy</strong></a>.</li>
+</ul>
+<h3>VII. Helpful Resources</h3>
+<p>Additional information about cookies can be found on the following websites:</p>
+<ul>
+<li><a href="http://www.allaboutcookies.org/" target="_blank" rel="noopener noreferrer"><strong>All About Cookies</strong></a></li>
+<li><a href="http://www.youronlinechoices.com/uk/your-ad-choices" target="_blank" rel="noopener noreferrer"><strong>Your Online Choices</strong></a></li>
+<li><a href="http://www.ico.gov.uk/" target="_blank" rel="noopener noreferrer"><strong>Information Commissioner’s Office</strong></a></li>
+<li><a href="http://www.dma.org.uk/" target="_blank" rel="noopener noreferrer"><strong>Direct Marketing Association</strong></a></li>
+<li><a href="https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank" rel="noopener noreferrer"><strong>Microsoft Cookies Guide</strong></a></li>
+</ul>
+<h3>VIII. Changes to this Policy</h3>
+<p>We may update this Policy from time to time to reflect changes, for example to the cookies that we use or for other legal, operational or legitimate business purposes.&nbsp; If we make any material changes in the way in which we use cookies, we will provide you with appropriate notice.</p>
+<h3>IX. Questions</h3>
+<p>If you have any questions about the use of cookies on our websites or about this Policy in general, please email&nbsp;<a href="mailto:webmaster@techtarget.com"><strong>webmaster@techtarget.com</strong></a><strong>.</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+											</div>
+
+					<footer>
+												<p></p>
+					</footer>
+				</article>
+			
+			<!-- TT Generated: 2022-11-13 13:02:26 -->
+					</div>
+        <div id="mesh-sections-container" class="row extend">
+			        </div>
+	</div>
+
+	
+	
+    
+
+        <div class="slide-out-nav-trigger mobile-son-trigger show-for-small-only icon-close"></div>
+        <div class="slide-out-nav-trigger desktop-son-trigger show-for-medium">
+
+                            <img src="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/images/img-email.png" alt="Contact Us">
+                        <strong>Contact Sales</strong>
+        </div>
+
+        <div class="slide-out-nav ">
+
+            <div class="son-content">
+
+                <div class="close-nav-trigger">×<span>Close</span></div>
+
+                
+                                            <div class="son-block son-first-block">
+
+                        <a target="_blank" href="http://reg.techtarget.com/contact-us.html">
+                                                            <img class="desktop-image" src="https://cdn.ttgtmedia.com/wp-content/uploads/2018/05/sticky-menu-icon-contact-r1.png" alt="Contact Us">
+                            
+                                                            <strong>Connect with an Expert</strong>
+                            
+	                                                        <img class="mobile-image" src="https://cdn.ttgtmedia.com/wp-content/uploads/2018/05/sticky-menu-icon-contact-r1.png" alt="Contact Us">
+	                        
+                            </a>
+                        
+                        </div>
+                    
+                
+                                            <div class="son-block son-first-block">
+
+                        <a target="_blank" href="https://reg.techtarget.com/general-product-walkthrough.html">
+                                                            <img class="desktop-image" src="https://cdn.ttgtmedia.com/wp-content/uploads/2018/05/sticky-menu-icon-Product-walkthrough.png" alt="Contact Us">
+                            
+                                                            <strong>Product Demo</strong>
+                            
+	                                                        <img class="mobile-image" src="https://cdn.ttgtmedia.com/wp-content/uploads/2018/05/sticky-menu-icon-Product-walkthrough.png" alt="Contact Us">
+	                        
+                            </a>
+                        
+                        </div>
+                    
+                
+                    
+                
+            </div>
+        </div>
+    
+
+</section>
+
+<div id="footer-container" class="background-dark padded">
+
+	
+		<div class="row extend">
+			<div class="small-12 columns" id="footer-links-menu">
+				<ul id="menu-footer-nav" class="menu"><li id="menu-item-58585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-58585"><a href="#">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-58586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58586"><a href="/about-us/">About Us</a></li>
+	<li id="menu-item-96415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96415"><a href="https://www.techtarget.com/about-us/leadership/">Leadership</a></li>
+	<li id="menu-item-58587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58587"><a href="/about-us/careers/">Careers</a></li>
+	<li id="menu-item-58588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58588"><a href="/press-release/">Press Room</a></li>
+	<li id="menu-item-58589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58589"><a href="/contact-us/">Contact Us</a></li>
+	<li id="menu-item-58590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58590"><a href="https://investor.techtarget.com/overview/default.aspx">Investor Relations</a></li>
+	<li id="menu-item-58591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58591"><a href="/customers/">Customer Success</a></li>
+</ul>
+</li>
+<li id="menu-item-58592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-58592"><a href="#">Why TechTarget</a>
+<ul class="sub-menu">
+	<li id="menu-item-58593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58593"><a href="/why-techtarget/">Overview</a></li>
+	<li id="menu-item-58594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58594"><a href="/capability/audience-development/">Audiences</a></li>
+	<li id="menu-item-58595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58595"><a href="/capability/data-insights/">Purchase Intent</a></li>
+	<li id="menu-item-58596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58596"><a href="https://www.techtarget.com/solutions/end-to-end-support/">End-to-end Support</a></li>
+</ul>
+</li>
+<li id="menu-item-58597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-58597"><a href="#">Solutions</a>
+<ul class="sub-menu">
+	<li id="menu-item-58598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58598"><a href="/solutions/">Overview</a></li>
+	<li id="menu-item-58599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58599"><a href="/solutions/tech-marketing/">Tech Marketing</a></li>
+	<li id="menu-item-58600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58600"><a href="/solutions/account-based-marketing/">ABM</a></li>
+	<li id="menu-item-134986" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134986"><a href="https://www.techtarget.com/solutions/partner-marketing/">Partner Marketing</a></li>
+	<li id="menu-item-58601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58601"><a href="/solutions/tech-sales/">Tech Sales</a></li>
+	<li id="menu-item-58602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58602"><a href="https://www.techtarget.com/solutions/strategy-planning/">Strategy &amp; Planning</a></li>
+</ul>
+</li>
+<li id="menu-item-58604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-58604"><a href="#">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-58605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58605"><a href="/products/">Overview</a></li>
+	<li id="menu-item-58606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58606"><a href="/products/data-driven-display/">Data-Driven Display</a></li>
+	<li id="menu-item-58607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58607"><a href="/products/priority-engine/">Priority Engine</a></li>
+	<li id="menu-item-58608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58608"><a href="/products/sales-quality-leads/">Sales-Quality Leads</a></li>
+	<li id="menu-item-62655" class="menu-item menu-item-type-post_type menu-item-object-tt_product menu-item-62655"><a href="https://www.techtarget.com/products/lead-generation/">Lead Generation</a></li>
+	<li id="menu-item-58609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58609"><a href="/products/custom-content/">Custom Content</a></li>
+	<li id="menu-item-134688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134688"><a href="https://www.techtarget.com/products/research-advisory-consulting/">Research, Advisory &amp; Consulting</a></li>
+</ul>
+</li>
+<li id="menu-item-58610" class="footer-global menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-58610"><a href="#">Global</a>
+<ul class="sub-menu">
+	<li id="menu-item-58611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58611"><a href="https://www.techtarget.fr/">Français</a></li>
+	<li id="menu-item-58612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58612"><a href="https://www.techtarget.de/">Deutsch</a></li>
+</ul>
+</li>
+</ul>			</div>
+		</div>
+
+	
+
+	<div class="row extend">
+		
+				<div class="small-12 medium-4 medium-push-8 columns medium-padding-left-none">
+			<ul class="menu social-menu medium-up-text-right inline-block-list">
+									<li><a href="https://www.facebook.com/techtargetinc/" target="_blank" class="icon-facebook"></a></li>
+									<li><a href="https://twitter.com/techtarget" target="_blank" class="icon-twitter"></a></li>
+									<li><a href="https://www.linkedin.com/company/techtarget" target="_blank" class="icon-linkedin"></a></li>
+							</ul>
+		</div>
+
+		<div class="small-12 medium-8 medium-pull-4 columns">
+							<ul id="menu-footer" class="menu"><li id="menu-item-6847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6847"><a href="https://www.techtarget.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-50553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50553"><a href="/terms-and-conditions/">Legal</a></li>
+<li id="menu-item-134661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134661"><a target="_blank" rel="noopener" href="https://techtarget.zendesk.com/hc/en-us/requests/new?ticket_form_id=360004852434">DO NOT SELL MY PERSONAL INFO</a></li>
+<li id="menu-item-114417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-114417"><a href="#">Cookie Preferences</a></li>
+<li>© 2022 TechTarget</li></ul>			</div>
+		</div>
+	</div>
+
+	
+</div><!-- Close footer-container -->
+</div><!-- Close off-canvas wrapper -->
+</div><!-- Close off-canvas content wrapper -->
+
+<div id="mv-grow-data" data-settings="{&quot;floatingSidebar&quot;:{&quot;stopSelector&quot;:&quot;#resource-campaign-content&quot;},&quot;general&quot;:{&quot;contentSelector&quot;:false,&quot;show_count&quot;:{&quot;content&quot;:false,&quot;sidebar&quot;:false},&quot;isTrellis&quot;:false},&quot;post&quot;:null,&quot;shareCounts&quot;:[],&quot;shouldRun&quot;:true}"></div>		<img src="https://go.techtarget.com/clicktrack-r/activity/activity.gif?activityTypeId=27&amp;bid=1&amp;r=411130880" id="activity-url" style="position: absolute; visibility: hidden; height: 0;">
+		
+
+
+
+
+
+
+
+
+
+
+<!--<script type="text/javascript">
+jQuery.noConflict();
+jQuery(document).ready(function(){
+  var aEle = jQuery('a:contains(Cookie Preferences)');
+
+  aEle.click(function(event){
+    window._sp_.loadPrivacyManagerModal(395507);
+  });
+});
+
+window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+    if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+        if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+            window.__tcfapi('removeEventListener', 2, function (success) {
+                if (success) {
+  window.__tcfapi('ping', 2, function (pingReturn) {
+    if (!(pingReturn.gdprApplies)) {
+      jQuery('#menu-item-114417').hide();
+    }
+                    });
+                }
+            }, tcData.listenerId);
+        }
+    }
+});
+</script>-->
+
+<!-- Salesloft start -->
+<!--<script type="text/javascript">
+function getSalesLoftJs() {
+    (function(i,s,o,g,r,a,m){i['SLScoutObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://scout-cdn.salesloft.com/sl.js','slscout');
+    slscout(["init", "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0IjoxMDU1N30.y9cUNGNXTx9cmwfpn67s17KYkyUQcnEJy4FBCmvbUyI"]);
+}
+var slIabPurposeList = [1];
+var isSlEnabled = true;
+
+window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+    if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+        if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+            var gdprApplies = tcData.gdprApplies;
+            if (gdprApplies && !(cmpApi.getConsentforVendorV2(slIabPurposeList))) {
+                window.__tcfapi('removeEventListener', 2, function (success) {
+                    if (success) {
+                        window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                            if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                window.__tcfapi('getTCData', 2, function (tcData, success) {
+                                    if (success) {
+                                        if (Object.keys(tcData.purpose.consents).length === 0 && tcData.purpose.consents.constructor === Object) {
+                                            isSlEnabled = false;
+                                        } else {
+                                            for (var purposeid in slIabPurposeList) {
+                                                if (tcData.purpose.consents[slIabPurposeList[purposeid]] === null || tcData.purpose.consents[slIabPurposeList[purposeid]] === undefined || tcData.purpose.consents[slIabPurposeList[purposeid]] === false) {
+                                                    isSlEnabled = false;
+                                                }
+                                            }
+                                        }
+                                        if (isSlEnabled) {
+                                          console.log("Making the call after consent");
+                                          getSalesLoftJs();
+                                        }
+                                      }
+                                });
+                                window.__tcfapi('removeEventListener', 2, function (success) {
+                                    if (success) {
+                                    }
+                                }, tcData.listenerId);
+                            }
+                        });
+                    }
+                }, tcData.listenerId);
+
+} else {
+    window.__tcfapi('removeEventListener', 2, function (success) {
+        if (success) {
+          console.log("Making the call without asking for consent");
+          getSalesLoftJs();
+        }
+    }, tcData.listenerId);
+}
+}
+}
+});
+</script>-->
+<!-- Salesloft end -->
+<!-- Conversion Pixel - TTGT_Corporate_SPOKE-Engagement - DO NOT MODIFY -->
+<img src="https://secure.adnxs.com/px?id=871732&amp;t=2" width="1" height="1" alt="Conversion Pixel">
+<!-- End of Conversion Pixel -->
+<footer>
+<!--<script type="text/javascript">
+RingLeadIntelligentForm.init('19014d9f-9947-4679-8dad-f950fb24b10a');
+</script>-->
+</footer>
+
+<!--<script type="text/javascript" async="" data-noptimize="" src="https://www.techtarget.com/wp-content/plugins/social-pug/assets/dist/front-end-free.1.20.2.js?ver=1.20.2" id="dpsp-frontend-js-pro-js"></script>-->
+<!--<script type="text/javascript" src="https://www.techtarget.com/wp-content/plugins/mesh/js/mesh.js?ver=1.4.0" id="mesh-frontend-js"></script>-->
+<!--<script type="text/javascript" src="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.autocomplete.js?ver=ae40088053c371200ff08b3d2b8cd64e" id="autocomplete-js"></script>-->
+<!--<script type="text/javascript" src="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.slick.js?ver=ae40088053c371200ff08b3d2b8cd64e" id="slick-js"></script>-->
+<!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js?ver=2.2.0" id="anime-js"></script>-->
+<!--<script type="text/javascript" src="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/techtarget.js?ver=ae40088053c371200ff08b3d2b8cd64e" id="techtarget-js-js"></script>-->
+<!--<script type="text/javascript" src="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.infinitescroll.min.js?ver=3.0.6" id="infinitescroll-js"></script>-->
+<!--<script type="text/javascript" src="https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/custom/techtarget.ada.js?ver=ae40088053c371200ff08b3d2b8cd64e" id="ada-js"></script>-->
+
+<!--<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1068cf12f6","applicationID":"31362394","transactionName":"ZQMAYxdYXUBSAkFbClxJI1QRUFxdHBFUVQA=","queueTime":0,"applicationTime":369,"atts":"SUQDFV9CTk4=","errorBeacon":"bam.nr-data.net","agent":""}</script>--><script>(function(){var js = "window['__CF$cv$params']={r:'7697b3aba94af275',m:'ClOyfJZbZ0GuyBzRJz7sh_jDfZOQTG9eGNkwbA7oj_M-1668344547-0-ASgM7hSt+OIQT7c9IiPdWNS2qEx01zcSzsp3ywaoHnHpP2oFdZxNcSpw2EOB8ki2VfFDBarijJloKWmP0HpoPi80zMc16CCE58Y5rkiGHlceKHUjtv64eZ1F6nIU9XpMUvOhMtTpKhlSd5ZoU7vq36trY8vMoJ963aUHT0VgUTUkfTtj/zFBzYv5JMqaUR+uLG2sRAQwNJvrVK8lJRMPrOxR+o5QBqubfQRwrhE2SA5+9YGCvEiExE+ayuFgcRqS2wnDerBn1mjiUTl0i3lbMlFAjMAR5GJiiwlSeOKjfdHbeYJIaMRNtWFzKKZEvCk4Uf2pWpQObCr+xgwH2mnG4LSUStIC5VdeX4OOBKxCI6R+',s:[0x36f73a83ec,0x8cf5edd7d7],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon="{&quot;rayId&quot;:&quot;7697b3aba94af275&quot;,&quot;token&quot;:&quot;9a304ef27e94431ca1278b62c9487931&quot;,&quot;version&quot;:&quot;2022.11.0&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 245/247 objects using disk
+Page Caching using disk: enhanced (Requested URI contains query) 
+Content Delivery Network via cdn.ttgtmedia.com
+
+Served from: www.techtarget.com @ 2022-11-13 13:02:26 by W3 Total Cache
+--><script type="text/javascript" id="">function getCookie(b){if(~document.cookie.indexOf(b+"\x3d"))return b=new RegExp(b+"\x3d([^;]+)"),b=b.exec(document.cookie),b=null!=b?unescape(b[1]):null}
+function signUpErrorEvent(){$("#inlineRegistration .sign-up-error-msg:not(.hidden)").each(function(){var b=$(this).attr("id"),a=b.split(".")[0].replace("/","\\/");b=b.substring(b.indexOf(".")+1);$("#"+a).attr("name");a=a.includes("Opt")?$('input[type\x3d"checkbox"][id*\x3d"'+a+'"]').attr("name"):$("#"+a).attr("name");a=a+"."+b;a=a.replace("address","add");a=a.replace("blank","bl");a=a.replace("co_emp_count","empCt");a=a.replace("company","co");a=a.replace("country","ctry");a=a.replace("domain","dom");
+a=a.replace("dummy_","");a=a.replace("dgUser#","");a=a.replace("firstName","fNam");a=a.replace("industry","ind");a=a.replace("inlineRegistration_","");a=a.replace("invalid","inv");a=a.replace("lastName","lNam");a=a.replace("optIn","");a=a.replace("phone","pho");a=a.replace("provinceCd","prov");a=a.replace("maxlength","maxLen");a=a.replace("seniority","senior");a=a.replace("title","jobFun");a=a.replace("specificTitle","title");if(a.includes("email.inv.dom")){b=$("#inlineRegistration_Email").val();
+b=b.split("@")[1].toLowerCase();domainsChecked="gmail. hotmail. live. msn. outlook. yahoo. abc.net mailinator. mail.com mail.org mail.net mail.co.uk mail.uk mail.ru aol. comcast.net verizon.net earthlink.net rediffmail. cox.net gmx. ymail. qq. 126. 163. sbcglobal.net rocketmail. indiatimes. sina. bellsouth.net btinternet.".split(" ");appendText="";for(var c=0;c<domainsChecked.length;c++)0<=b.indexOf(domainsChecked[0])?appendText="-"+b.split(".")[0]:0<c&&6>c&&0<=b.indexOf(domainsChecked[c])?appendText=
+"-ofInterest":5<c&&0<=b.indexOf(domainsChecked[c])&&(appendText="-other");a+=appendText}sign_up_epErrors=""===sign_up_epErrors?a:sign_up_epErrors+","+a});0<sign_up_epErrors.length&&(window.getParams(),dataLayer.push({event:"sign_up_error"},{errors:sign_up_epErrors}))}
+var getParams=function(){for(var b="",a="",c=[{appCode:"112",method:"Marketing",formTarget:"#marketing_offer #inlineRegistration .sign-up-form.cascading-reg-form",version:""},{appCode:"150",method:"Lead-in",formTarget:"#inlineRegistration .login-register.inline-reg",version:""},{appCode:"151",method:"Metering",formTarget:"#inlineRegistration .login-register.inline-reg",version:""},{appCode:"0",method:"Registration",formTarget:"#UpdateUser",version:"Full"}],d=0;d<c.length;d++)google_tag_manager["GTM-MKCV6V9"].macro(5)===
+c[d].appCode&&(b=c[d].method,"Registration"!==c[d].method?$(c[d].formTarget).hasClass("page1")?a="Email":$(c[d].formTarget).hasClass("page2")&&(a=0<$("#firmographics:visible").length?"Long":"Short"):a=c[d].version);window.sign_up_epMethod=b;window.sign_up_epVersion=a},inlineFullRegSubmittedCookieOE="tt.gtm.oe.inlinereg.fullReg.submitted",inlineFullRegSubmitSourceOE="tt.gtm.oe.inlinereg.submit.source",inlineFullRegSubmitMethodOE="tt.gtm.oe.inlinereg.submit.method",inlineFullRegSubmitVersionOE="tt.gtm.oe.inlinereg.submit.version",
+sign_up_epErrors="";~document.cookie.indexOf(inlineFullRegSubmittedCookieOE+"\x3d")&&(window.sign_up_epMethod=getCookie(inlineFullRegSubmitMethodOE),window.sign_up_epVersion=getCookie(inlineFullRegSubmitVersionOE),window.appCodePostSubmit=getCookie(inlineFullRegSubmitSourceOE),dataLayer.push({event:"sign_up_complete"}));
+if(0<$("#inlineRegistration").length||0<$("#UpdateUser").length)window.getParams(),dataLayer.push({event:"sign_up_form"}),$("#inlineRegistration").on("tt.inlinereg.fullReg.load",function(){window.getParams();dataLayer.push({event:"sign_up_form"})}),$("#inlineRegistration").on("tt.inlinereg.emailOnly.error tt.inlinereg.fullReg.error",function(){sign_up_epErrors="";signUpErrorEvent()}),$("#inlineRegistration").on("tt.inlinereg.emailOnly.submit",function(){window.getParams();dataLayer.push({event:"sign_up"})}),
+$("#inlineRegistration").on("tt.inlinereg.fullReg.submit",function(){window.getParams();document.cookie=inlineFullRegSubmittedCookieOE+"\x3d1; path\x3d/";document.cookie=inlineFullRegSubmitSourceOE+"\x3d"+google_tag_manager["GTM-MKCV6V9"].macro(6)+"; path\x3d/";document.cookie=inlineFullRegSubmitMethodOE+"\x3d"+window.sign_up_epMethod+"; path\x3d/";document.cookie=inlineFullRegSubmitVersionOE+"\x3d"+window.sign_up_epVersion+"; path\x3d/"});</script></body></html>

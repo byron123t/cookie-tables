@@ -1,0 +1,382 @@
+
+
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookie PolicyReflected Network's website uses cookies. By proceeding, you consent to our cookie usage. Please see our Privacy Policy and Cookie Policy for cookie usage details and instructions on how to disable cookies. Privacy and Cookie PolicyI Consent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Managed Hosting
+Hosting Solutions
+Cloud Storage
+Global CDN
+Our Company
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy and Cookie Policy
+
+Reflected Networks, LLC. Privacy Policy
+Last modified July 17, 2020
+We at Reflected Networks, LLC and our affiliated entities (collectively “Reflected”) respect your privacy. The website and the data processor of Reflected comply notably with European provisions on the protection of privacy and personal data, including the 2016/679 European Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data.
+We are publishing this version of the Reflected Privacy and Cookie Policy (the “Policy”) to disclose our practices and approach to cookies, data privacy and data protection.
+This Policy describes notably how we collect, use, transfer, and safeguard information about you and your right regarding such information.
+Throughout this Policy we use the terms “Personal Information” to describe information that can be associated with a specific natural person and can be used to identify that person. We do not consider Personal Information to include information that has been anonymized or aggregated so that it does not identify a specific natural person. If you give us Personal Information on behalf of someone else (or someone else gives us Personal information on your behalf), the person providing the Personal Information must have consent to do so from the person whose information is being provided to Reflected.
+DATA CONTROLLER
+The controller of Personal Information is Reflected Networks, a Limited liability company located 738 Main Street # 195 Waltham MA 02451, United States.
+CONSENT
+You are informed regarding the Policy during the collection of your Personal Information.
+
+By ticking the box: “I have read the privacy policy and agree that my data are collected in accordance with this privacy policy and that I am legally capable of disclosing my personal information” you agree that your Personal Information is retained and processed by Reflected.
+HOW WE COLLECT PERSONAL INFORMATION
+We may collect Personal Information from you, or someone acting on your behalf, when you interact with the services proposed by Reflected. For example, you may provide Personal Information to us when you:
+
+Create an account on our online portal;
+Initiate or complete a transaction;
+Click on our advertising;
+Elect to receive marketing or technical communications;
+Complete a survey;
+Receive customer support;
+Purchase our products and/or services;
+Engage in any form of interactive chat;
+Apply for a job;
+Meet us in trade shows; and
+Contact our sales or support staff.
+
+We, including our third party service providers, use certain tools to collect information and Personal Information about you while browsing our website. These tools use cookies which are small text files that are stored on your hard drive. The cookies are used, among other things, to improve website performance, to provide you with customized viewing options, to compile statistical reports on website activity, or for security purposes. We also use cookies to recognize you as a previous visitor of our website, or to pre-populate website forms. Such information may be disclosed to third parties to provide any of the activities mentioned above on behalf of us.
+To find out more about cookies, including browser-specific instructions on how to restrict or block cookies, go to www.allaboutcookies.org. Remember, though, without cookies, you may not be able to take full advantage of all of our website features.
+To the extent permitted by applicable law, we reserve the right to combine other information as defined above with Personal Information that you submit.
+PERSONAL INFORMATION COLLECTED
+Personal Information provided to us directly
+You, or others acting on your behalf, may provide us with the following information:
+
+Your name, age, gender, physical address, email address, and phone number;
+User preferences, product interests, communication choices and other customer profile information;
+Responses to survey and marketing questions; and
+Your resume or CV, references and background check information.
+
+Personal Information collected automatically
+We use cookies, anonymous identifiers, log files and other means to automatically collect certain Personal Information and other types of information about your use of our services which may include your:
+
+IP address;
+Internet Service Provider;
+Browser type,
+Browser language,
+Operating system (of computer and mobile devices),
+User preferences,
+Screen resolution,
+Application identifiers,
+Traffic identifiers,
+Device type, identifiers or capabilities,
+Reflected Account,
+Referring site (site you visited before coming to our site),
+Date and time of your visits to our website,
+URL and content of pages visited or requested,
+Other browsing behavior, such as products and white papers downloaded,
+Domains, and
+User Agents.
+
+We may use location detection technology to determine your approximate location.
+As of the date of publication of this Policy, we use Google Analytics and Hubspot to collect and process certain analytics data, although we may switch analytics providers in the future.  Google provides some additional privacy options described at http://www.google.com/policies/privacy/ . You may contact us at privacy@reflected.net with questions regarding privacy options available with our current analytics providers.
+When you use our services we may automatically collect and store certain information in activity logs such as:
+
+Details of how you used our services,
+Internet protocol address,
+Content on the website viewed by you, and
+Page views within our services.
+
+Many internet browsers allow users to send a “Do Not Track” signal to websites they visit. Currently, there is no consensus on the meaning of “Do Not Track” or similar signals, and the Services have no mechanism to respond to such a signal.
+As part of its proprietary security platform, Reflected renders certain security services for customers’ websites which includes, among other things, a reverse proxy. As such, Reflected’s IP addresses may appear in WHOIS and DNS records for customers’ websites which use these services.
+Reflected also renders managed and unmanaged hosting, cloud storage, web optimization and content delivery network services. As such, Reflected provides hardware, software and bandwidth to facilitate transmission of information which is controlled by its customers and their end-users. It is these customers and their end-users who are responsible for the content transmitted by and through Reflected’s network.
+Reflected also collects its customers’ end-users’ information when they use Reflected’s customers’ websites, applications, and APIs. Such information may include but is not limited to IP addresses, device information, system configuration information, and other information about traffic to and from customers’ websites (“Log Files”). Reflected collects and uses such Log Files for customer support, security services (threat detection and mitigation) and to operate and maintain its services generally.
+HOW WE USE YOUR PERSONAL INFORMATION
+We use your Personal Information to conduct our business and improve our services. For example, we may use your information to:
+
+Contact you;
+Communicate to you the latest product announcements, special offers, and events that you might like to hear about;
+  Customize the content, products and services that are offered to you;
+Create and maintain your account on our online portal;
+Consider your employment application;
+Comply with legal requirements;
+Enforce our agreements, or;
+Deter, detect, and prevent fraud and other prohibited or illegal activities.
+
+Reflected may take the personal information we receive from individuals responding to our customer surveys or other information gathering efforts in connection with our customer support, online portals and other services and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions or otherwise use such information to improve the quality of its services to our customer, and to modify or develop new services and products.
+HOW WE SHARE AND DISCLOSE YOUR PERSONAL INFORMATION
+We may share or disclose your Personal Information as follows: 
+
+To corporate affiliates including any corporate entity controlling, controlled by, or under common control with Reflected Networks, LLC;
+To our partners, agents, service providers, and suppliers who are using your information on our behalf and/or in connection with an actual or potential transaction;
+Based on a good faith belief that such disclosure is necessary to protect the rights or safety of any person or entity;
+Based on a good faith belief that such disclosure is necessary to respond to judicial process, valid government inquiry, or is otherwise required by law;
+If it is necessary to identify, contact, or bring legal action against someone who may be violating our security, contracts, policies and procedures;
+If it is necessary for national security, law enforcement or other issues of public importance;
+To other third parties for purposes to which you have allowed or consented.
+
+This list can be provided at any time on request of the users.
+INTERNATIONAL TRANSFERS
+Reflected is a US-based, global Company. Reflected stores data and information primarily in the US and the European Economic Area (“EEA”). In connection with Reflected’s cloud storage and other services, we (and our affiliated entities and third-party service providers) may transfer, store and access such data and information in various data centers around the world. As such, your Personal Information may potentially be transferred to other countries whose data protection laws may not be as protective as those in your country of residence. Also, if you are using our services from outside the United States (US), including in the EEA, please be aware that your personal information may be transferred to the US. Reflected is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) and is committed to comply with GDPR, notably through model contractual clauses and applicable Privacy Shield data protection principles, including accountability in cases of onward transfer to third parties.
+By accessing or otherwise using Reflected’s website and/or services (including through Reflected’s affiliated entities and/or third-party service providers) or if you otherwise provide data or information to Reflected, you agree to the transfer of Personal Information to the US and/or other countries.
+CHILDREN’S PRIVACY
+Use of our services is only available to individuals who are of legal age to contract in their applicable jurisdiction. Services are not directed to children under 16 years of age. If that policy changes, we will obtain consent from a parent or guardian before we knowingly collect Personal Information from anyone under the age of 16.
+NOTICE OF COMPLIANCE TO CALIFORNIA RESIDENTS
+California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (“California Act”) and the California Business and Professions Code. As required by the California Act, this privacy policy identifies the categories of personally identifiable information that we collect through our web site about individual consumers who use or visit our web site and the categories of third-party persons or entities with whom such personally identifiable information may be shared.
+Depending on the visitor’s activity at our web site, certain “personally identifiable information” (as that term is defined in the California Act) may be collected, in addition to information set forth in other sections of this document. For purposes of the California Act, the term “personally identifiable information” means individually identifiable information about an individual consumer collected online by us from an individual and maintained by us in an accessible form, and may include any of the following:
+
+A first and last name;
+A home or other physical address, including street name and name of a city or town;
+An email address;
+A telephone number;
+A social security number;
+Any other identifier that permits the physical or online contacting of a specific individual;
+Information concerning a user that the web site collects online from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
+
+See the Section entitled “Your Rights” below for a description of the process maintained by Reflected for an individual consumer who uses or visits our web site to review and request changes to any of his or her personally identifiable information that is collected through our web site.
+See the Section entitled “Changes to This Policy” below for a description of the process by which the Reflected notifies consumers who use or visit our web site of material changes to Reflected’s privacy policy. The effective date of this privacy policy is also included in the “Last Modified” Section at the top of this Policy.
+CALIFORNIA SHINE THE LIGHT LAW (SB 27) COMPLIANCE STATEMENT
+Under California S.B. 27 (“Shine the Light” Law), California residents have the right under certain circumstances to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to privacy@Reflected.net and please include the phrase “California Privacy Request” in the subject line, the domain name of the web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+Your Rights Under California CCPA. You have the right under the California Consumer Privacy Act of 2018 (CCPA) and certain other privacy and data protection laws, as applicable, to exercise free of charge:
+Disclosure of Personal Information We Collect About You
+You have the right to know:
+
+The categories of personal information we have collected about you;
+The categories of sources from which the personal information is collected;
+Our business or commercial purpose for collecting or selling personal information;
+The categories of third parties with whom we share personal information, if any; and
+The specific pieces of personal information we have collected about you.
+Please note that we are not required to:
+Retain any personal information about you that was collected for a single one-time transaction if, in the ordinary course of business, that information about you is not retained;
+Reidentify or otherwise link any data that, in the ordinary course of business, is not maintained in a manner that would be considered personal information; or
+Provide the personal information to you more than twice in a 12-month period.
+
+Personal Information Sold or Used for a Business Purpose
+In connection with any personal information we may sell or disclose to a third party for a business purpose, you have the right to know:
+Reflected does not sell any personal information to any third parties.
+The categories of personal information that we disclosed about you for a business purpose.
+You have the right under the California Consumer Privacy Act of 2018 (CCPA) and certain other privacy and data protection laws, as applicable, to opt-out of the sale or disclosure of your personal information. As stated above, Reflected does not sell personal information. If you exercise your right to opt-out of the disclosure of your personal information, we will refrain from disclosing your personal information, unless you subsequently provide express authorization for the disclosure of your personal information. To opt-out of the disclosure of your personal information, visit our homepage and click on the Do Not Sell My Personal Information link here: DO NOT SELL MY PERSONAL INFORMATION
+Right to Deletion
+Subject to certain exceptions set out below, on receipt of a verifiable request from you, we will:
+
+Delete your personal information from our records; and
+Direct any service providers to delete your personal information from their records.
+Please note that we may not delete your personal information if it is necessary to:
+  
+Complete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;
+Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;
+Debug to identify and repair errors that impair existing intended functionality;
+Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;
+Comply with the California Electronic Communications Privacy Act;
+    Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;
+    Enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;
+    Comply with an existing legal obligation; or
+    Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+
+
+
+Protection Against Discrimination
+You have the right to not be discriminated against by us because you exercised any of your rights under the CCPA. This means we cannot, among other things:
+
+Deny goods or services to you;
+Charge different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties;
+Provide a different level or quality of goods or services to you; or
+Suggest that you will receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+Please note that we may charge a different price or rate or provide a different level or quality of goods and/or services to you, if that difference is reasonably related to the value provided to our business by your personal information.
+How to Exercise Your CCPA Rights.
+If you would like to exercise any of your rights as described in this Privacy Policy, including CCPA, please:
+
+Email us at privacy@reflected.net
+
+Please note that you may only make a CCPA-related data access or data portability disclosure request twice within a 12-month period.
+If you choose to contact directly by website/email/phone, you will need to provide us with:
+
+Enough information to identify you (e.g., your full name, address and customer or matter reference number));
+A description of what right you want to exercise and the information to which your request relates.
+
+We may request proof of your identity and address (e.g., a copy of your driver’s license or passport and a recent utility or credit card bill).We are not obligated to make a data access or data portability disclosure if we cannot verify that the person making the request is the person about whom we collected information, or is someone authorized to act on such person’s behalf.
+Any personal information we collect from you to verify your identity in connection with you request will be used solely for the purposes of verification.
+CONSERVATION TERM
+We will retain your Personal Information for the term necessary to fulfill the purposes outlined in this Policy and for a maximum period of 2 years after the collecting of your Personal Information, unless a longer retention period is required or permitted by law, for legal, tax or regulatory reasons, or other legitimate and lawful business purposes.
+YOUR RIGHTS
+Reflected has no privity or relationship with its customers’ end-users. In the event that Reflected’s IP addresses appear in WHOIS and DNS records for customers’ websites and/or where Reflected appears as the name server for a customer’s domain, Reflected has no control over such domain’s/customer’s/end-users’ content. Reflected relies upon its customers to comply with applicable law and related access requests. If any customer end-user requests that Reflected access, correct, amend, export or delete data or information or no longer be contacted by such customer, Reflected will instruct such end-user to contact such customer and/or customer’s website directly. Reflected’s customers, as a part of Reflected’s acceptable use policy, are solely and exclusively responsible for complying with all applicable foreign, federal, state and local laws, rules and regulations, including with respect to customers’ end-users.
+If you would like to request access to, correction, amendment, exporting or deletion of your Personal Information, you can submit a written request to the contact information provided below. We may request specific information from you to confirm your identity. If your request involves Personal Information of another person, Reflected will balance such request against the risk of violating another person’s privacy rights.
+If you are from certain territories (such as the European Union) you may have certain rights in relation to your Personal Information, such as:
+
+the right to access to your Personal Information;
+The right to correct your Personal Information;
+The right to obtain the deletion of your Personal Information;
+The right to oppose use of or object to/restrict processing your Personal Information;
+The right to withdraw your consent after you initially gave Reflected consent to collect and process your Personal Information (though such withdrawal will not negate lawfulness of collection and/or processing either conducted prior to withdrawal or conducted in reliance upon other lawful grounds for collection and processing);
+The right to lodge a complaint with a supervisory authority;
+A portability right on your Personal Information.
+
+Upon exercise of any of these rights, you must send to Reflected all elements necessary to your identification: name and possibly mailing address.
+If you want to exercise of any of your rights, please contact us at the contact details provided below. Reflected then agrees to answer within a maximum period of one (1) month following receipt of the complete application. Considering the complexity and number of the requests, this period may be extended by two (2) further months subject to Reflected to inform you within one month of receipt of the requests of the reasons for the delay.
+If Reflected does not any take action following a request, Reflected will inform you without delay and at the latest within one (1) month of receipt of the request of the reasons for not taking action.
+INDEPENDENT RECOURSE MECHANISM
+In compliance with the Privacy Shield Principles, Reflected commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Reflected at:
+Privacy Manager:
+Reflected Networks, LLC
+738 Main Street # 195 Waltham MA 02451, United States
+privacy@reflected.net
+Reflected has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit: https://www.jamsadr.com/eu-us-privacy-shield for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+Furthermore, an individual may have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For additional information, please visit: https://www.privacyshield.gov/article?id=ANNEX-I-introduction
+CHANGES TO THIS POLICY
+Please note that this Policy may change from time to time. We will post any Policy changes on this page and, if the changes are significant or reduce your rights in any material manner, we will provide a more prominent notice. We will also keep prior versions of this Policy in an archive for your review.
+APPLICABLE LAW
+The validity, performance and interpretation of the Privacy applicable are subject to the US law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Managed Hosting
+
+
+Custom Solutions
+
+
+Our Company
+
+
+
+
+
+
+
+
+
+
+Dedicated Servers
+Managed Database
+Load Balancing
+Managed Storage
+Managed Backups
+
+
+
+
+Server Clustering
+Video Streaming
+Managed Security
+Site Optimization
+
+
+
+
+About Us
+Contact Us
+
+
+
+
+
+
+Acceptable Use Policy (AUP) | MSA | CDN Terms Managed Hosting Terms | DMCA Policy and Contact | Do Not Sell My Personal Information Privacy Policy | Subpoena Response PolicyADN Terms
+
+
+© Copyright 2022
+                Reflected Networks, LLC 
+                All rights reserved.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

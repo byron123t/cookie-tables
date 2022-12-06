@@ -1,0 +1,952 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Krisp | Cookie Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+
+Solutions
+
+
+
+
+
+Teams
+
+
+
+
+
+Enterprise
+
+
+
+
+
+Contact Centers
+
+
+
+
+
+Developers
+
+
+
+
+
+Pricing
+Blog
+
+
+
+
+Get a demo
+
+Sign in
+
+Get Krisp for Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+
+
+
+
+
+Solutions
+
+
+
+
+
+Contact Centers
+
+
+
+
+
+Enterprise
+
+
+
+
+
+Developers
+
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+Blog
+
+
+
+
+
+Get Krisp for free
+
+
+Sign in
+
+Get a demo
+
+
+
+
+
+Cookie Policy 
+
+
+
+Cookie List
+A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set by us and called first-party cookies. We also use third-party cookies – which are cookies from a domain different than the domain of the website you are visiting – for our advertising and marketing efforts. More specifically, we use cookies and other tracking technologies for the following purposes:
+
+Strictly necessary cookies
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Strictly necessary cookies
+
+
+Cookie Subgroup
+Cookies
+Cookies used
+Lifespan
+
+
+
+account.krisp.ai
+
+
+G_ENABLED_IDPS
+
+
+
+First Party
+
+
+
+2913887 Days
+
+
+help.krisp.ai
+
+
+cf_chl_cc_xxxxxxxxxxxxxxxxxxxxx, __cfruid, __cf_bm
+
+
+
+First Party
+
+
+
+Session, Session, A few seconds
+
+
+krisp.ai
+
+
+OptanonConsent, _tldtest_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx, amp_cookie_test, OptanonAlertBoxClosed
+
+
+
+First Party
+
+
+
+361 Days, Session, 364 Days, 361 Days
+
+
+
+
+Targeting cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Targeting cookies
+
+
+Cookie Subgroup
+Cookies
+Cookies used
+Lifespan
+
+
+
+account.krisp.ai
+
+
+tap_vid
+
+
+
+First Party
+
+
+
+364 Days
+
+
+krisp.ai
+
+
+ajs_user_id, drift_aid, _gat_gtag_xxxxxxxxxxxxxxxxxxxxxxxxxxx, driftt_aid, amp_, drift_campaign_refresh, _fbp, pt_
+
+
+
+First Party
+
+
+
+A few seconds, 729 Days, A few seconds, 729 Days, 364 Days, A few seconds, 89 Days, A few seconds
+
+
+help.krisp.ai
+
+
+cf_chl_seq_xxxxxxxxxxxxxx, cf_chl_2, cf_chl_prog
+
+
+
+First Party
+
+
+
+Session, A few seconds, A few seconds
+
+
+linkedin.com
+
+
+bcookie, lang, li_gc, AnalyticsSyncHistory, lidc, UserMatchHistory
+
+
+
+Third Party
+
+
+
+730 Days, Session, 725 Days, 29 Days, A few seconds, 29 Days
+
+
+twitter.com
+
+
+personalization_id
+
+
+
+Third Party
+
+
+
+A few seconds
+
+
+hubspot.com
+
+
+__cf_bm
+
+
+
+Third Party
+
+
+
+A few seconds
+
+
+google.com
+
+
+NID
+
+
+
+Third Party
+
+
+
+182 Days
+
+
+youtube.com
+
+
+CONSENT, VISITOR_INFO1_LIVE, YSC
+
+
+
+Third Party
+
+
+
+729 Days, 179 Days, Session
+
+
+doubleclick.net
+
+
+test_cookie
+
+
+
+Third Party
+
+
+
+A few seconds
+
+
+www.linkedin.com
+
+
+bscookie
+
+
+
+Third Party
+
+
+
+730 Days
+
+
+giphy.com
+
+
+_ga
+
+
+
+Third Party
+
+
+
+729 Days
+
+
+ads.linkedin.com
+
+
+lang
+
+
+
+Third Party
+
+
+
+Session
+
+
+js.driftt.com
+
+
+drift_campaign_refresh
+
+
+
+Third Party
+
+
+
+A few seconds
+
+
+www.facebook.com
+
+
+
+
+
+
+Third Party
+
+
+
+Session
+
+
+
+
+Functional cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Functional cookies
+
+
+Cookie Subgroup
+Cookies
+Cookies used
+Lifespan
+
+
+
+krisp.ai
+
+
+tap_vid, refSource, ajs_anonymous_id, hubspotutk, CJEVENT, __tld__
+
+
+
+First Party
+
+
+
+364 Days, 29 Days, 361 Days, 176 Days, 89 Days, Session
+
+
+help.krisp.ai
+
+
+_zendesk_session, _zendesk_authenticated, _help_center_session, _zendesk_shared_session
+
+
+
+First Party
+
+
+
+Session, A few seconds, Session, Session
+
+
+airtable.com
+
+
+AWSELBCORS, __Host-airtable-session.sig, AWSELB, __Host-airtable-session
+
+
+
+Third Party
+
+
+
+Session, 364 Days, Session, 364 Days
+
+
+hackerone.com
+
+
+__Host-session, h1_device_id
+
+
+
+Third Party
+
+
+
+13 Days, 7304 Days
+
+
+www.recaptcha.net
+
+
+_GRECAPTCHA
+
+
+
+Third Party
+
+
+
+179 Days
+
+
+krispai.zendesk.com
+
+
+__cfruid
+
+
+
+Third Party
+
+
+
+Session
+
+
+js.driftt.com
+
+
+driftt_aid, drift_aid
+
+
+
+Third Party
+
+
+
+729 Days, 729 Days
+
+
+
+
+Performance cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Performance cookies
+
+
+Cookie Subgroup
+Cookies
+Cookies used
+Lifespan
+
+
+
+krisp.ai
+
+
+__hssc, _ga, _gid, krispSessionId, __hstc, __hssrc, anonymousId, s_xxxx, userId, _gat_UA-, amplitude_testkrisp.ai, _gclxxxx
+
+
+
+First Party
+
+
+
+A few seconds, 729 Days, A few seconds, Session, 176 Days, Session, 1999 Days, 364 Days, 364 Days, A few seconds, 364 Days, 89 Days
+
+
+nr-data.net
+
+
+JSESSIONID
+
+
+
+Third Party
+
+
+
+Session
+
+
+cdn.amplitude.com
+
+
+amp_cookie_test
+
+
+
+Third Party
+
+
+
+Session
+
+
+giphy.com
+
+
+_gid
+
+
+
+Third Party
+
+
+
+A few seconds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+Pricing and plans
+What's new
+
+
+
+
+Solutions
+
+
+Enterprise
+Teams
+Contact centers
+Developers
+
+
+
+
+Company
+
+
+About us
+Careers
+Brand guidelines
+Blog
+Video tutorials
+
+
+
+
+Trust
+
+
+Security
+Terms of use
+Privacy policy
+Accessibility
+Cookie policy
+
+
+
+
+Help & Connect
+
+
+Help center
+Contact support
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+Linkedin
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+© 2022 Krisp Technologies, Inc. All rights reserved.
+
+
+
+
+Request a demo
+
+
+
+
+Download app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi there
+
+
+looks like you’re trying to register to Krisp on
+Linux or Chrome OS.
+
+
+Unfortunately, currently our app is only
+available for Mac and Windows.
+
+
+Drop your email & we’ll let you know when we have updates!
+
+
+
+Enter email
+
+
+
+
+
+
+
+By clicking the “Subscribe” button, you agree to our Privacy Policy.
+
+
+This site is protected by reCAPTCHA and the Google
+Privacy Policy and
+Terms of Service apply.
+
+
+
+
+
+
+
+
+Contact our account team
+
+
+We're happy to answer questions and get you
+acquainted with Krisp
+
+
+
+
+
+
+
+Named a Gartner Cool Vendor
+
+
+
+
+
+Among the Most Promising AI companies
+in Forbes’ AI 50 list
+
+
+
+Trusted by professionals from
+
+ 
+
+
+
+
+
+Contact our account team
+
+
+We're happy to answer questions and get you
+acquainted with Krisp
+
+
+
+
+
+
+
+First name *
+
+
+
+
+
+Last name *
+
+
+
+
+
+
+
+Email *
+
+
+
+
+
+Company *
+
+
+
+
+
+
+
+Please select
+1-10
+11-50
+51-200
+201-500
+501-1,000
+1,001-5,000
+5,001-10,000
+10,001+
+
+
+Company size
+
+
+
+
+Job title *
+
+
+
+
+
+
+
+
+Please Select
+
+I want to learn about Krisp's plan types.
+
+I want to learn about Krisp's security.
+
+
+I want to discuss Krisp's pricing.
+
+
+I have another question (use comment box).
+
+
+
+How can our sales team help you? *
+
+
+
+
+
+
+
+Your message
+
+
+
+
+
+
+
+
+Our account team will be in touch in 2-3 business days.
+
+
+Meanwhile, if you have any additional questions please contact us at account@krisp.ai
+
+
+By contacting our account team, you agree to the Terms of Use and Privacy Policy.
+
+
+This form is protected by reCAPTCHA and the Google
+Privacy Policy and
+Terms of Service apply.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Preference CenterWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+                More informationAllow All Manage Consent PreferencesStrictly necessary cookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.Targeting cookies  Targeting cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.Functional cookies  Functional cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.Performance cookies  Performance cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Back ButtonPerformance Cookies  Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label labelReject All Confirm My Choices

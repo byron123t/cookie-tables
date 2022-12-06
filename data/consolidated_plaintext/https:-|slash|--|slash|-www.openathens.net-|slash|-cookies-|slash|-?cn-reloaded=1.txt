@@ -1,0 +1,867 @@
+
+
+
+
+
+
+
+
+Cookies - OpenAthens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookies help us understand how you use OpenAthens.
+We need your permission to use cookies, collecting information which helps improve your experience. Our privacy policy explains in detail why we use cookies and how we protect your data.
+I'm ok with that.No thanks.
+You can change your consent at any time using the Change consent button.Change consent
+
+
+
+
+Skip to main content
+ 
+
+
+
+Login icon
+
+
+
+
+
+Login
+ 
+Magnifying glass icon
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+Close dialog icon
+
+
+
+
+
+Close
+		
+
+
+
+What are you looking for?
+
+
+
+Search
+
+Magnifying glass icon
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+Close dialog icon
+
+
+
+
+
+Close
+		
+
+
+
+Login to MyAthens
+Forgotten your password?
+Contact your organisation for help
+How do I get an OpenAthens account?
+Library administrators
+Publisher and provider administrators
+
+
+
+
+ 
+
+
+
+
+
+
+Openthe primary navigation menu
+
+
+
+
+ 
+
+
+
+
+
+
+
+		Librarians
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Why OpenAthens for librarians?
+ 
+
+
+
+
+
+
+	Library case studies
+ 
+
+
+
+
+
+
+	I have a proxy, why do I need OpenAthens?
+ 
+
+
+
+
+
+
+	What systems do we integrate with?
+ 
+
+
+
+
+
+
+	Reporting
+ 
+
+
+
+
+
+
+	MyAthens
+ 
+
+
+
+
+
+
+	Onboarding for librarians
+ 
+
+
+
+
+
+
+	Librarian learning
+ 
+
+
+
+
+
+		Providers
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Why OpenAthens for providers?
+ 
+
+
+
+
+
+
+	Provider case studies
+ 
+
+
+
+
+
+
+	We support proxy, why do I need OpenAthens?
+ 
+
+
+
+
+
+
+	Join our global identity federation
+ 
+
+
+
+
+
+
+	Consultancy for providers
+ 
+
+
+
+
+
+
+	Onboarding for providers
+ 
+
+
+
+
+
+
+	Publisher and provider learning
+ 
+
+
+
+
+		Community
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Community hub
+ 
+
+
+
+
+
+
+	Case studies
+ 
+
+
+
+
+
+
+	Events
+ 
+
+
+
+
+
+
+	Product roadmap
+ 
+
+
+
+
+
+
+	Customer tools
+ 
+
+
+
+
+		Advice
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Guidance and advice
+ 
+
+
+
+
+
+
+	FAQ
+ 
+
+
+
+
+
+
+	Remote Access resource hub for librarians
+ 
+
+
+
+
+
+
+	Remote Access resource hub for providers
+ 
+
+
+
+
+
+
+
+Login icon
+
+
+
+
+
+Login
+ 
+Magnifying glass icon
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+Cookies
+To help improve this site we place small files, known as cookies, onto your computer. Some are essential for the site to work properly, others are to improve the experience you have.
+
+
+
+You can stop this site using non-essential cookies by updating your browser settings.
+
+
+
+You can also decide to stop this or any site from using any cookies. To learn more about cookies and how to manage them visit AboutCookies.org.
+
+
+		Visit AboutCookies.org
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Change cookie preference
+
+
+You can change your cookie preference on openathens.net by clicking this button:
+
+
+Change consent
+
+
+How we use cookies
+
+
+We use cookies for several purposes on this website (openathens.net) – we’ve listed each of them below with more details about why we use them and how long they’ll last.
+
+
+For details of the cookies we use on the operational parts of our OpenAthens service, visit the cookie page for products and services.
+
+
+Cookies to improve your experience
+
+
+You can tell us to stop using these at any time by updating your browser settings.
+
+
+Essential cookies
+
+
+Website operation
+
+
+The system that runs our website sets cookies to allow it to run smoothly.
+
+
+
+
+
+
+
+When clicked this button will display column number 2
+
+
+
+
+When clicked this button will display column number 3
+
+
+
+
+When clicked this button will display column number 4
+
+
+
+
+
+
+Name
+Category
+Expiration
+Description
+
+
+cookie_notice_accepted
+Necessary	
+1 month
+Stores your cookie consent state for this website.
+
+
+
+
+
+
+
+
+Measuring website usage (Google Analytics)
+
+
+We use Google Analytics to collect information about how people use our site, and rough demographics as to what groups of people are using our site. We do this to make sure it’s meeting your needs and to understand how we could improve it. As well as controlling this above – you can opt out of Google Analytics tracking directly.
+
+
+Google Analytics stores information about:
+
+
+the pages you visithow long you spend on each pagehow you got to the sitewhat you click on while you’re here
+
+
+The following cookies are set by Google Analytics:
+
+
+
+
+
+
+
+When clicked this button will display column number 2
+
+
+
+
+When clicked this button will display column number 3
+
+
+
+
+When clicked this button will display column number 4
+
+
+
+
+
+
+Name
+Category
+Expiration
+Purpose
+
+
+_ga
+Performance
+2 years
+This cookie is associated with Google Universal Analytics. It is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session, and campaign data for the site's analytics reports.
+
+
+
+
+
+
+
+
+Measuring website usage (Hotjar)
+
+
+Hotjar cookies are used to collect information about how visitors use our website. This might include what you are doing on our website and how you are interacting with it. We use this to better understand how people experience our website, so we can improve our features and user experience. For further details, please see the ‘about Hotjar’ section of Hotjar’s support site. You can opt-out of Hotjar cookies on the Hotjar website.
+
+
+The following cookies are set by Hotjar:
+
+
+
+
+
+
+
+When clicked this button will display column number 2
+
+
+
+
+When clicked this button will display column number 3
+
+
+
+
+When clicked this button will display column number 4
+
+
+
+
+
+
+Name
+Category
+Expiration
+Description
+
+
+_hjid
+Performance
+1 year
+Hotjar cookie. This cookie is set when you first land on a page with the Hotjar script. It is used to persist a random user ID, unique to that site on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
+
+
+_hjTLDTest
+Necessary
+Session
+When the Hotjar script executes we try to determine the most generic cookie path we should use, instead of the page hostname. This is done so that cookies can be shared across subdomains (where applicable). To determine this, we try to store the _hjTLDTest cookie for different URL substring alternatives until it fails. After this check, the cookie is removed.
+
+
+_hjFirstSeen
+Necessary 
+30 minutes	
+The cookie is set so Hotjar can track the beginning of your user journey for a total session count. It does not contain any identifiable information.
+
+
+
+_hjIncludedInPageviewSample
+Necessary 
+2 minutes	
+This cookie is set to let Hotjar know whether you're included in the data sampling defined by  this site's pageview limit.
+
+
+
+_hjAbsoluteSessionInProgress
+
+Necessary 
+30 minutes	
+The cookie is set so Hotjar can track the beginning of your user journey for a total session count. It does not contain any identifiable information.
+
+
+
+_hjIncludedInSessionSample
+Necessary 
+2 minutes	
+This cookie is set to let Hotjar know whether you're included in the data sampling defined by this site's daily session limit
+
+
+
+
+
+
+
+
+Other cookies
+
+
+YouTube and Google DoubleClick
+
+
+Google has the ability to track your activities across multiple websites including their own platforms such as YouTube through cookie technology.   We may use these cookies to display ads you when you are on other websites through the use of Google Analytics and Google Adwords or Google DoubleClick. For information about opting-out of Google advertising, visit https://support.google.com/ads/answer/2662922?hl=en.
+
+
+
+
+
+
+
+When clicked this button will display column number 2
+
+
+
+
+When clicked this button will display column number 3
+
+
+
+
+When clicked this button will display column number 4
+
+
+
+
+
+
+Name
+Category
+Expiration
+Description
+
+
+YSC
+Targeting
+Session
+This cookie is set by YouTube to track views of embedded videos.
+
+
+VISITOR_INFO1_LIVE
+Targeting
+6 months
+This cookie is set by Youtube to keep track of your user preferences for Youtube videos embedded in this site.
+
+
+IDE
+Targeting
+1 year	
+This cookie is set by Doubleclick and carries out information about how you use this website and any advertising that the you may have seen before visiting this website.
+
+
+
+
+
+
+
+
+
+NB: Cookie guidance wording adapted from gov.uk, shared under the Open Government License.
+ 
+
+
+
+
+
+
+
+
+
+
+
+Documentation
+
+
+Service status
+
+
+Resource status
+
+
+Support
+
+
+Security
+
+
+
+
+Generate an OpenAthens link
+
+
+Compatible providers
+
+
+Federation members
+
+
+Logos
+
+
+Glossary
+
+
+
+
+Accessibility
+
+
+Cookies
+
+
+Privacy
+
+
+Terms and conditions
+
+
+Modern slavery
+
+
+
+
+
+YouTube
+
+
+
+LinkedIn
+
+
+
+Twitter
+
+
+
+Listserv sign-up
+
+
+
+Subscribe
+
+
+
+Contact
+
+
+
+
+
+
+
+© OpenAthens (a part of Jisc) 2022 | Jisc Charity No. 1149740 | Company No. 197 0632 86
+
+
+
+
+
+
+
+
+
+
+

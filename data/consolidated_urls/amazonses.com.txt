@@ -1,0 +1,3 @@
+https://aws.amazon.com/ses/
+https://aws.amazon.com/privacy/?nc1=f_pr
+https://aws.amazon.com/legal/cookies/

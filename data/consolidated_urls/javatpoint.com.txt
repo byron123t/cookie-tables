@@ -1,0 +1,4 @@
+https://www.javatpoint.com/http-cookies
+https://www.javatpoint.com/javascript-cookies
+https://www.javatpoint.com/javascript-cookie-attributes
+https://www.javatpoint.com/javascript-deleting-cookies

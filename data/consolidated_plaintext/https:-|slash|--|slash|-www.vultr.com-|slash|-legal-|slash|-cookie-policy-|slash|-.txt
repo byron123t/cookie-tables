@@ -1,0 +1,1736 @@
+
+
+
+
+
+
+
+
+Legal - Vultr.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWSVultr Managed Databases now supports Redis
+
+
+
+Docs
+
+
+Support
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+													Español
+												
+
+
+
+
+
+
+
+													Deutsch
+												
+
+
+
+
+
+
+
+													简体中文
+												
+
+
+
+
+
+
+
+													日本語
+												
+
+
+
+
+
+
+
+													Português
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Optimized Cloud Compute
+                                                
+
+                                                    Optimized cloud compute instances without the noisy neighbors.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                                                    Bare Metal
+                                                
+
+                                                    Dedicated servers with no virtualization.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Managed Databases New
+
+
+                                                    Databases that 'just work' right out of the box.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                                                    Cloud Compute
+                                                
+
+                                                    Powerful compute instances.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Kubernetes
+                                                
+
+                                                    Containerized apps. Fully managed.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Block Storage
+                                                
+
+                                                    Fast SSD-backed storage.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Cloud GPU
+                                                
+
+                                                    VMs with fractional NVIDIA GPUs.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                                                    Load Balancers
+                                                
+
+                                                    Horizontal scaling. Simplified.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Object Storage
+                                                
+
+                                                    Flexible, scalable storage.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Data Center Locations
+                                                
+
+													27 server locations worldwide.                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Advanced Network
+                                                
+
+													High speed public and private networking.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Control Panel
+                                                
+
+													Expand and manage your infrastructure.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Operating Systems
+                                                
+
+													Deploy instance with preferred OS.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Upload ISO
+                                                
+
+													Upload your own operating system.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marketplace
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Browse Apps
+                                                
+
+													Deploy Popular Applications and Games.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Become a Vendor
+                                                
+
+													Add your App to Vultr Marketplace.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Pricing
+
+
+
+
+Partners
+
+
+
+
+Company
+
+
+
+
+
+
+
+
+
+
+
+
+
+													About Us
+												
+
+													We are simplifying infrastructure!
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Our Team
+                                                
+
+													Meet the team behind our services.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Careers
+                                                
+
+													Join our team of professionals.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													News
+                                                
+
+													What's new?
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													SLA
+                                                
+
+													Enterprise-class stability and performance.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Contact
+                                                
+
+													Have questions? Reach out to us.
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+Sign up
+
+
+
+
+Contact Sales
+
+
+
+
+
+
+
+Log in
+
+
+
+
+Sign up
+
+
+
+
+Contact Sales
+
+
+
+
+
+Docs
+
+
+Support
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+													Español
+												
+
+
+
+
+
+
+
+													Deutsch
+												
+
+
+
+
+
+
+
+													简体中文
+												
+
+
+
+
+
+
+
+													日本語
+												
+
+
+
+
+
+
+
+													Português
+												
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+Sign up
+
+
+
+
+Contact Sales
+
+
+
+
+
+
+
+
+
+Legal
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms Of Service
+
+
+Privacy
+
+
+US Privacy
+
+
+International Privacy
+
+
+Acceptable Use
+
+
+Anti-Spam
+
+
+Cookies
+
+
+Partner Program
+
+
+SLA
+
+
+Copyright
+
+
+Marketplace
+
+
+NVIDIA Licenses
+
+
+
+
+
+
+
+
+
+
+
+
+Last Modified: June 21, 2021
+
+
+						The Constant Company, LLC (hereinafter referred to as "Vultr") operates the www.vultr.com website ("Website"). This cookie policy applies to the Website.
+					
+
+						Use of cookies
+					
+
+						Our Website use technologies that enhance user friendliness and engagement, to keep the Website operating as smoothly as possible and to provide web services and functionalities for each visitor. Examples of these technologies are cookies, pixel tags, local storage and scripts (hereinafter collectively referred to as "cookies").
+					
+
+						Cookies are used for a variety of purposes. For example, they calculate web statistics, provide online advertising and they improve visitor's experience on our Website. As your privacy is important to us, we would like to inform you about which cookies are used on our Website, as well as why we use them.
+					
+
+						We may use the following cookies on our Website:
+					
+
+
+Functional cookies - these cookies are essential in order to ensure that our Website operates properly. They are used to save preferences, detect misuse of our Website and services and to distribute the load on our servers, which keeps our Website available. Certain services you may request cannot be provided without these cookies.
+						
+
+Web statistics cookies - these cookies are used to determine which parts of our Website interest our visitors. This enables us to make the structure, navigation, and content of our Website as user friendly as possible. These cookies are used to (i) keep track of the number of visitors to our web pages; (ii) keep track of the amount of time each user spends on our web pages; (iii) determine the order in which a visitor visits the various pages of our Website; (iv) assess which parts of the Website need to be changed; and (v) optimize the Website. [Software from third parties (Google Analytics ) may be used for these purposes. Information generated by the use of Google Analytics may be transmitted to and stored on a Google server in the US. Due to activated IP address anonymisation on the Website, Google will mask your IP address before collecting it.]
+						
+
+Social media cookies - our Website may integrate certain third-party plug-ins (such as a Facebook "like" button).  Even if you do not click on these plug-ins, they may collect information about you, such as your IP address and the pages that you view. These plugins are governed by the privacy policy of the third party providing them.
+						
+
+Advertising cookies - our Website may also enable third-party tracking mechanisms to collect data over time and across unaffiliated websites for use in interest-based advertising. For example, third parties may use the fact that you visited the Website to send you online ads for Vultr products on third party websites.	 In addition, our third-party advertising partners might use information about you to send you targeted advertisements based on your online behavior in general.
+							
+							We or our third-party service providers also may use collected information to establish connections among related web browsers and devices (such as smartphones, tablets, computers, and TVs) for targeted advertising, analytics, attribution, and reporting purposes. These third parties may match your browsers or devices if you log into the same online service on multiple devices or if your devices share similar attributes that support an inference that they are used by the same person or household. This means that information about your activity on Website or apps on your current browser or device may be combined with information collected from your other browsers or devices.
+						
+
+Other cookies - this category includes cookies that do not fit into one of the above cookie categories. One example of this is the bundling of several of the cookies via Google Tag Manager.
+						
+
+
+						We may use the following cookies on our Website:
+					
+
+
+
+
+								Name cookie
+							
+
+								Stored by
+							
+
+								Purposes / Data collected
+							
+
+								Expiry date
+							
+
+
+
+
+
+									various
+								
+
+AdRoll
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									Various
+								
+
+
+
+									_uetsid
+								
+
+Bing
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									4 Hours
+								
+
+
+
+									MR
+								
+
+Bing
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									6 Months
+								
+
+
+
+									MUID
+								
+
+Bing
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									1 Year
+								
+
+
+
+									IDE
+								
+
+DoubleClick
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									6 Months
+								
+
+
+
+									DSID
+								
+
+DoubleClick
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									1 Year
+								
+
+
+
+									fr
+								
+
+Facebook
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									3 Months
+								
+
+
+
+									_ga
+								
+
+Google Analytics
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									2 years
+								
+
+
+
+									_gid
+								
+
+Google Analytics
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									24 hours
+								
+
+
+
+									_gat
+								
+
+Google Analytics
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									1 minute
+								
+
+
+
+									drift_aid
+								
+
+Drift
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									2 years
+								
+
+
+
+									driftt_aid
+								
+
+Drift
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									2 years
+								
+
+
+
+									drift_campaign_refresh
+								
+
+Drift
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									30 minutes
+								
+
+
+
+									driftt_eid
+								
+
+Drift
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									2 years
+								
+
+
+
+									drift_eid
+								
+
+Drift
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									2 years
+								
+
+
+
+									drift_ujwt
+								
+
+Drift
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									2 years
+								
+
+
+
+									guest_id
+								
+
+Twitter
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									2 Years
+								
+
+
+
+									gsxid
+								
+
+PartnerStack
+
+
+									Functional cookie for referral system.
+								
+
+									90 days
+								
+
+
+
+									_gsxid< Random ID >
+								
+
+PartnerStack
+
+
+									Functional cookie for referral system.
+								
+
+									90 days
+								
+
+
+
+									personalization_id
+								
+
+Twitter
+
+
+									Marketing. Measure the effectiveness of our online advertising.
+								
+
+									2 Years
+								
+
+
+
+
+						How to manage cookies
+					
+
+						If you do not want our Website to store cookies on your device, you can change your browser settings so that you receive a warning before certain cookies are stored. You can also adjust your settings so that your browser refuses most of our cookies or only certain cookies from third parties. You can also withdraw your consent to cookies by deleting the cookies that have already been stored.
+					
+
+						Please be aware that if you do not want to accept any cookies, we cannot guarantee that our Website will function properly. It may be that several functions will be unavailable to you or that you will even be unable to view certain parts of the Website.
+					
+
+						Please note that you will have to change your settings for each browser and device you use. Moreover, such methods will not work with respect to certain non-cookie online tracking technologies.
+					
+
+						The procedures for changing your settings and cookies differ from browser to browser. If necessary, use the help function on your browser or click on one of the links below to go directly to the user manual for your browser.
+					
+
+
+Internet Explorer
+
+
+Mozilla Firefox
+
+
+Google Chrome
+
+
+Safari
+
+
+Opera
+
+
+
+						There are also software products available that can manage cookies for you. You can also use www.ghostery.com to accept or refuse each cookie used on our Website.
+					
+
+						To find out more about cookies, including how to see what cookies have been set and how to manage or delete them, visit www.allaboutcookies.org.
+					
+
+						Contact us
+					
+
+						If you have any questions about the cookies used on our Website, please contact us https://www.vultr.com/contact/.
+					
+
+						Policy updates
+					
+
+						We may change this cookie policy from time to time by posting the updated version of the policy on our Website. Please check the Website periodically to see any changes.
+					
+
+
+
+
+
+
+
+
+
+
+
+						Products
+					
+
+
+Cloud Compute
+
+
+High Frequency Compute
+
+
+Bare Metal
+
+
+Object Storage
+
+
+Block Storage
+
+
+DDoS Protection
+
+
+Direct Connect
+
+
+Load Balancers
+
+
+Kubernetes
+
+
+
+
+
+						Features
+					
+
+
+Data Center Locations
+
+
+Advanced Network
+
+
+Control Panel
+
+
+Operating Systems
+
+
+Upload ISO
+
+
+Bring your IP space
+
+
+
+
+
+
+						Use Cases
+					
+
+
+Website Hosting
+
+
+SaaS
+
+
+Game Servers
+
+
+Video Streaming
+
+
+VPN
+
+
+
+
+
+						Marketplace
+					
+
+
+Browse Apps
+
+
+Become a Vendor
+
+
+
+
+
+
+						Resources
+					
+
+
+FAQ
+
+
+Developers / APIs
+
+
+Vultr Docs
+
+
+Benchmarks
+
+
+Server Status
+
+
+Bug Bounty
+
+
+Coupons
+
+
+Solution Partners
+
+
+Vultr For Good
+
+
+Multi Cloud Report
+
+
+
+
+
+						Company
+					
+
+
+Our Team
+
+
+News
+
+
+Brand Assets
+
+
+Referral Program
+
+
+Creator Program
+
+
+Careers
+
+
+SLA
+
+
+Legal
+
+
+Contact
+
+
+
+
+
+
+
+
+Over  45,000,000 Cloud Servers Launched
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        © Vultr 2022
+                    
+
+                        VULTR is a registered trademark of The Constant Company, LLC.
+                    
+
+
+
+
+Terms of Service
+
+
+AUP/DMCA
+
+
+Privacy Policy
+
+
+Cookie Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,131 @@
+Cookie Policy - ClickMeter
+VIDEO
+API
+TOUR
+PRICING
+LOGIN
+GET STARTED
+INFORMATION ABOUT OUR USE OF COOKIES
+PositiveADV SRL SU (trading as "ClickMeter") ("ClickMeter", "us", "we" or "our") uses cookies to distinguish you from other users of our website and to help us remember details of your visits to our www.clickmeter.com website and all related websites, extensions, apps, domains and subdomains (the "Site")
+By continuing to browse the Site, you are agreeing to our use of cookies.
+A cookie is a small piece of data (text file) that a website, when visited by a user, asks your browser to store on your device in order to remember information about you, such as your language preference or login information
+Cookies can also help to ensure that adverts you see online are relevant to you and your interests.
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control
+These cookies are likely to be analytical/performance cookies or targeting cookies
+We may also embed external content and features from such third parties within our Site (e.g
+social media networks such as LinkedIn, Facebook and Twitter)
+We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site
+In addition, these sites or services, including their content and links, may be constantly changing
+Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+We use the following cookies:
+Strictly necessary cookies
+These are cookies that are required for the operation of our website
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms
+They include, for example, cookies that enable you to log into secure areas of our website.
+Functionality cookies
+These are used to recognise you when you return to our website
+This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region)
+They may be set by us or by third party providers whose services we have added to our pages.
+Managing and disabling cookies
+You can choose to not accept the setting of cookies
+Your browser may allow you to set how it handles cookies
+You can manage cookies by activating the setting on your browser that allows you to decline all cookies or which prompts you on whether to accept each cookie and/or by opening the browser help menu and accessing the settings to block or erase cookie activity
+If you use your browser setting to block all or some cookies (including strictly or technically necessary cookies) all or some parts of the Site may not work as intended or may not work at all without cookies.
+Change to our Cookie Policy
+We can change this Cookie Policy at any time
+If we make material changes to this Cookie Policy, we will let you know by posting the changed Cookie Policy on the Site and/or by sending our customers a notification via the app
+It’s important that you review the changed Cookie Policy
+If you do not wish to agree to the changed Cookie Policy, then we cannot continue to provide the Site to you, and your only option is to stop accessing the Site.
+Types of cookies
+The following are the main types of cookies used on the Site:
+First party cookies
+The table below sets out the main first parties cookies that ClickMeter may use.
+Cookie
+Description
+Expiration
+_help_center_session
+Session state
+session
+__RequestVerificationToken
+anti-forgery cookie
+session
+AWSELB
+AWS Load balancer
+120 minutes
+AWSELBCORS
+AWS Load balancer
+120 minutes
+cc_cookie_accept
+cookie policy accepted
+1 year
+cc_cookie_decline
+cookie policy decline
+session
+ClickMeter conversions
+Conversion tracking
+90 days maximum
+cm_session_state
+Session state
+session
+cmy_auth_cookie
+Security, ensures client is authorized
+session
+cmy_session_state
+Session state
+session
+Third party cookies
+You should also be aware that there are cookies which are found in other companies' internet tools which we are using to enhance the Site.
+The table below sets out the main third party entities ClickMeter allows to set up cookies through visits to our domains.
+Provider
+Description
+AWS
+Load balancing stickiness
+Cloudflare
+Identify trusted web traffic
+Google
+Referral analysis, site tracking, scripts management
+Intercom
+Customer relationship management, support, platform tracking, onboarding
+Pingdom
+Uptime monitoring
+Stripe
+Session cookies for stripe
+Twitter
+Retargeting
+YouTube
+Info videos
+Effective Date of this Policy: March 1st 2021 - Version 3.0
+Company
+About Us
+Join Our Team
+Press Kit
+Affiliate Program
+Resources
+API (Developer Center)
+Support Center
+Video Tutorials
+Our Blog
+Service Status
+Legal
+Terms & Conditions
+Privacy Policy
+Cookies Policy
+Anti-spam Policy
+Report Abuse
+Contact us
+Support@clickmeter.com
+LINK AND CONVERSION TRACKING
+Affiliate Tracking Tools
+Conversion tracking
+Tracking pixel
+SMS links
+Free article submission site
+Google URL shortener
+Bitly enterprise pricing
+Affiliate networks
+IP geo targeting
+Branded link management
+Free URL shortener
+Links rotator
+© Copyright 2022
+LEARN MOREorGET STARTED

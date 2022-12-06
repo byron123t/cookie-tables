@@ -1,0 +1,328 @@
+Cookies | Smartsupp
+ConsentDetailsKeep your cookies under controlThis website uses cookies to personalize content and ads in order to provide social media features and to help us analyze our traffic
+Some cookies are necessary to ensure our website is running smoothly, but the rest is totally up to you
+Allow selectionNecessary (15) It wouldn't be possible to browse our website without these cookies
+They enable basic functions like page navigation and access to secure areas of the website
+Show details (Necessary) NameProviderPurposeExpiryType__cf_bm [x2]CalendlyVimeoThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.1 dayHTTPtest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTP_GRECAPTCHAGoogleThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.179 daysHTTPrc::aGoogleThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.PersistentHTMLrc::bGoogleThis cookie is used to distinguish between humans and bots
+SessionHTMLrc::cGoogleThis cookie is used to distinguish between humans and bots
+SessionHTMLli_gcLinkedInStores the user's cookie consent state for the current domain179 daysHTTP_nsswww.smartsupp.comEnsures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+SessionHTTPCookieConsentCookiebotStores the user's cookie consent state for the current domain1 yearHTTPjwt_access_tokensmartsupp.comAuthentication cookie used to recognize logged-in user.2 monthsHTTPsourceCampaignsmartsupp.comCopy of utm_campaign query parameter received with first visit to the www domain
+The data collected is not and cannot be used for neither marketing nor analytical purposes unless an account is created
+Only then is the data stored as part of account information in a secure database and is only used for anonymous sources analysis
+The data only allows us to see which source customer originaly came from
+No personal data is stored and the cookie cannot be used for marketing targeting.180 daysHTTPsourceTermsmartsupp.comCopy of utm_term query parameter received with first visit to the www domain
+The data collected is not and cannot be used for neither marketing nor analytical purposes unless an account is created
+Only then is the data stored as part of account information in a secure database and is only used for anonymous sources analysis
+The data only allows us to see which source customer originaly came from
+No personal data is stored and the cookie cannot be used for marketing targeting.180 daysHTTPss_referrerAnalysiswww.smartsuppcdn.comSource data stored during first visit to our website
+The data collected is not and cannot be used for neither marketing nor analytical purposes unless an account is created
+Only then is the data stored as part of account information in a secure database and is only used for anonymous sources analysis
+The data only allows us to see which source customer originaly came from
+No personal data is stored and the data cannot be used for marketing targeting.PersistentHTMLCONSENTYouTubeUsed to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+2 yearsHTTP Preferences (4) Preference cookies enable a website to recall information that changes the way the website behaves or looks
+It can establish your preferred language or make helpful page adjustments for the region that you are in, for example
+Show details (Preferences) NameProviderPurposeExpiryTypelang [x3]LinkedInwww.smartsupp.comRemembers the user's selected language version of a websiteSessionHTTPsm_anonymous_idsmartsupp.comWe use it to identify anonymous users on subsequent visits - we need it to track the user's response history and make sure we don't ask the same user twice
+It is a random unique identifier and does not contain any personal data.1 yearHTTP Statistics (15) Statistic cookies help us to better understand how our visitors interact with the website
+Your privacy is our priority so all of the information is collected and reported anonymously
+Show details (Statistics) NameProviderPurposeExpiryTypeSGoogleSets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes.1 dayHTTPcollectGoogleUsed to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.SessionPixelAnalyticsSyncHistoryLinkedInUsed in connection with data-synchronization with third-party analysis service
+29 daysHTTP_gaCookiebotRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.2 yearsHTTP_ga_#GoogleUsed by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit
+2 yearsHTTP_gatGoogleUsed by Google Analytics to throttle request rate1 dayHTTP_gidCookiebotRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTPSL_C_23361dd035530_DOMAINSmartlookCollects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner.SessionHTTPSL_C_23361dd035530_KEYSmartlookCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.13 monthsHTTPSL_C_23361dd035530_SIDSmartlookCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.13 monthsHTTPSL_C_23361dd035530_VIDSmartlookCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.13 monthsHTTPSL_L_23361dd035530_KEYSmartlookCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.PersistentHTMLSL_L_23361dd035530_SIDSmartlookCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.PersistentHTMLSL_L_23361dd035530_VIDSmartlookCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.PersistentHTMLvuidVimeoCollects data on the user's visits to the website, such as which pages have been read.2 yearsHTTP Marketing (30) We use marketing cookies to display relevant ads and match the areas that you may find interesting
+Show details (Marketing) NameProviderPurposeExpiryTypeMUIDMicrosoftUsed widely by Microsoft as a unique user ID
+The cookie enables user tracking by synchronising the ID across many Microsoft domains.1 yearHTTPCOMPASSGooglePending1 dayHTTPIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPpagead/landing [x2]GoogleCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+SessionPixelads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelNIDGoogleRegisters a unique ID that identifies a returning user's device
+The ID is used for targeted ads.6 monthsHTTPpagead/1p-user-list/#GoogleTracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.SessionPixelbcookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 yearHTTPbscookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 yearHTTPlidcLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 dayHTTPUserMatchHistoryLinkedInEnsures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+29 daysHTTP_/ad/75aa344edeef4dbfa3b3dd7cb5f40e6f/pixelQuoraCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant
+SessionPixel_fbp Meta Platforms, Inc.Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTP_gaexpGoogleThis cookie is used by Google Analytics to determine if the visitor is involved in their marketing experiments.86 daysHTTP_gcl_auCookiebotUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services
+3 monthsHTTP_uetsidMicrosoftCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+1 dayHTML_uetsid_expMicrosoftContains the expiry-date for the cookie with corresponding name
+PersistentHTML_uetvidMicrosoftUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+1 yearHTML_uetvid_expMicrosoftContains the expiry-date for the cookie with corresponding name
+PersistentHTMLVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPytidb::LAST_RESULT_ENTRY_KEYYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-cast-availableYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-cast-installedYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-connected-devicesYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-idYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-fast-check-periodYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-appYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-nameYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTML Allow allCustomizeAllow selectionDeny
+Čeština
+Français
+Italiano
+Polski
+Português
+Español
+Magyar
+Deutsch
+Toggle navigation
+Čeština
+Français
+Italiano
+Polski
+Português
+Español
+Magyar
+Deutsch
+Cookies
+How to use
+Smartsupp installation
+Agents
+Assign agent
+Automatic messages
+Billing
+Block visitor
+Chat box in your mobile app
+Chat box settings
+Chat box status
+Chatbot
+Chatbot – transfer to an agent feature
+Chatbot conditions
+Chatbot for order status (only for Shoptet)
+Chatbot insights
+Contact form
+Conversations
+Conversations – categories
+Conversations export
+Conversations tagging
+Cookie consent
+Dashboard language
+Desktop notifications
+Domain whitelist
+Email notifications for missed conversations and offline messages
+Export to 3rd party system
+Facebook integration
+File sharing
+Groups
+Multi-language chat box (API needed)
+Multi-language chatbots
+Office hours
+Shortcuts
+Smartsupp autorun
+Sound notifications
+Statistics
+Video recordings
+Visitors
+FAQ
+Can I remove the chat box logo?
+How can I contact Smartsupp support?
+How to disable automatic Smartsupp discarding in your Chrome / Edge browser?
+How to use Smartsupp with Content security policy (CSP)?
+What’s the difference between Smartsupp and Google Analytics?
+Why can't I see the dashboard?
+Why can’t I see the chat on my website?
+Why can’t I see the IP addresses?
+Why can’t I see the recordings?
+Will Smartsupp slow down my website?
+Supported browsers
+How to delete your account?
+Mobile apps
+Android
+Android Beta App
+iOS Beta App
+iPhone & iPad
+Notifications troubleshooting for Android
+Notifications troubleshooting for iOS
+Privacy and legal
+Terms of service
+Data privacy & GDPR
+DPA
+Cookies
+Privacy policy
+Report Scam
+Video recordings & data privacy
+Integrations
+Adobe Muse
+Atomer
+Big Cartel
+BigCommerce
+Binargon
+Blogger (Blogspot)
+Boxloja
+Clevero
+ClickShop
+CS-Cart
+Drupal
+eBrana
+ePages
+eStranky
+Fast-webstore
+FASTcentrik
+Gambio
+Google Analytics
+Google Tag Manager
+IAI / IdoSell
+inPage
+Instapage
+Jimdo
+Joomla
+KVIKYMART
+LibertyBusiness
+LightCMS
+Lightspeed
+Mobirise
+Mozello
+NetStranky
+Open2b
+OpenCart
+Oxyshop
+PrestaShop
+Quicksilk
+RedCart
+Rocketoo
+Shoper
+Shopify
+Shoplo
+Shoprenter
+Shoptec
+Shoptet
+Shopware
+Sklep-szybko
+Sky-shop
+Soteshop
+Squarespace
+Strikingly
+Textpattern
+UnasShop
+Unbounce
+UPgates
+Weasy
+Webgarden
+Webmium
+Webnode
+Weby24
+Wedos WebSite
+Weebly
+WiX
+WiziShop
+WordPress
+Download plugins
+Not compatible platforms
+Localization
+Chat box languages
+Dashboard languages
+Back to Help
+Cookies
+Keep your cookies under control
+This website uses cookies to personalize content and ads in order to provide social media features and to help us analyze our traffic
+Some cookies are necessary to ensure our website is running smoothly, but the rest is totally up to you
+Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+For all other types of cookies we need your permission.This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.Please state your consent ID and date when you contact us regarding your consent
+Your consent applies to the following domains: www.smartsupp.com Your current state: Deny
+Your current state: Do Not Sell My Personal Information
+Your current state: Allow selection (Necessary, Preferences, Statistics, Marketing)
+Your current state: Allow all
+Your consent ID: 0Consent date: Change your consent  |  Withdraw your consentDo Not Sell My Personal InformationCookie declaration last updated on 26/10/2022 by Cookiebot:        Necessary (15)         It wouldn't be possible to browse our website without these cookies
+They enable basic functions like page navigation and access to secure areas of the website
+Name Provider Purpose Expiry Type    __cf_bm          [x2]         CalendlyVimeo This cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website
+1 day HTTP Cookie   _GRECAPTCHA Google This cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website
+179 days HTTP Cookie   _nss www.smartsupp.com Ensures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+Session HTTP Cookie   CONSENT YouTube Used to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+2 years HTTP Cookie   CookieConsent Cookiebot Stores the user's cookie consent state for the current domain 1 year HTTP Cookie   jwt_access_token smartsupp.com Authentication cookie used to recognize logged-in user
+2 months HTTP Cookie   li_gc LinkedIn Stores the user's cookie consent state for the current domain 179 days HTTP Cookie   rc::a Google This cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website
+Persistent HTML Local Storage   rc::b Google This cookie is used to distinguish between humans and bots
+Session HTML Local Storage   rc::c Google This cookie is used to distinguish between humans and bots
+Session HTML Local Storage   sourceCampaign smartsupp.com Copy of utm_campaign query parameter received with first visit to the www domain
+The data collected is not and cannot be used for neither marketing nor analytical purposes unless an account is created
+Only then is the data stored as part of account information in a secure database and is only used for anonymous sources analysis
+The data only allows us to see which source customer originaly came from
+No personal data is stored and the cookie cannot be used for marketing targeting
+180 days HTTP Cookie   sourceTerm smartsupp.com Copy of utm_term query parameter received with first visit to the www domain
+The data collected is not and cannot be used for neither marketing nor analytical purposes unless an account is created
+Only then is the data stored as part of account information in a secure database and is only used for anonymous sources analysis
+The data only allows us to see which source customer originaly came from
+No personal data is stored and the cookie cannot be used for marketing targeting
+180 days HTTP Cookie   ss_referrerAnalysis www.smartsuppcdn.com Source data stored during first visit to our website
+The data collected is not and cannot be used for neither marketing nor analytical purposes unless an account is created
+Only then is the data stored as part of account information in a secure database and is only used for anonymous sources analysis
+The data only allows us to see which source customer originaly came from
+No personal data is stored and the data cannot be used for marketing targeting
+Persistent HTML Local Storage   test_cookie Google Used to check if the user's browser supports cookies
+1 day HTTP Cookie     Preferences (4)         Preference cookies enable a website to recall information that changes the way the website behaves or looks
+It can establish your preferred language or make helpful page adjustments for the region that you are in, for example
+Name Provider Purpose Expiry Type    lang          [x3]         LinkedInwww.smartsupp.com Remembers the user's selected language version of a website Session HTTP Cookie   sm_anonymous_id smartsupp.com We use it to identify anonymous users on subsequent visits - we need it to track the user's response history and make sure we don't ask the same user twice
+It is a random unique identifier and does not contain any personal data
+1 year HTTP Cookie     Statistics (15)         Statistic cookies help us to better understand how our visitors interact with the website
+Your privacy is our priority so all of the information is collected and reported anonymously
+Name Provider Purpose Expiry Type    _ga Cookiebot Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+2 years HTTP Cookie   _ga_# Google Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit
+2 years HTTP Cookie   _gat Google Used by Google Analytics to throttle request rate 1 day HTTP Cookie   _gid Cookiebot Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+1 day HTTP Cookie   AnalyticsSyncHistory LinkedIn Used in connection with data-synchronization with third-party analysis service
+29 days HTTP Cookie   collect Google Used to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels
+Session Pixel Tracker   S Google Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes
+1 day HTTP Cookie   SL_C_23361dd035530_DOMAIN Smartlook Collects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner
+Session HTTP Cookie   SL_C_23361dd035530_KEY Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+13 months HTTP Cookie   SL_C_23361dd035530_SID Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+13 months HTTP Cookie   SL_C_23361dd035530_VID Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+13 months HTTP Cookie   SL_L_23361dd035530_KEY Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+Persistent HTML Local Storage   SL_L_23361dd035530_SID Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+Persistent HTML Local Storage   SL_L_23361dd035530_VID Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+Persistent HTML Local Storage   vuid Vimeo Collects data on the user's visits to the website, such as which pages have been read
+2 years HTTP Cookie     Marketing (30)         We use marketing cookies to display relevant ads and match the areas that you may find interesting
+Name Provider Purpose Expiry Type    _/ad/75aa344edeef4dbfa3b3dd7cb5f40e6f/pixel Quora Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant
+Session Pixel Tracker   _fbp  Meta Platforms, Inc
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months HTTP Cookie   _gaexp Google This cookie is used by Google Analytics to determine if the visitor is involved in their marketing experiments
+86 days HTTP Cookie   _gcl_au Cookiebot Used by Google AdSense for experimenting with advertisement efficiency across websites using their services
+3 months HTTP Cookie   _uetsid Microsoft Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+1 day HTML Local Storage   _uetsid_exp Microsoft Contains the expiry-date for the cookie with corresponding name
+Persistent HTML Local Storage   _uetvid Microsoft Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+1 year HTML Local Storage   _uetvid_exp Microsoft Contains the expiry-date for the cookie with corresponding name
+Persistent HTML Local Storage   ads/ga-audiences Google Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites
+Session Pixel Tracker   bcookie LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services
+1 year HTTP Cookie   bscookie LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services
+1 year HTTP Cookie   COMPASS Google Pending 1 day HTTP Cookie   IDE Google Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year HTTP Cookie   lidc LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services
+1 day HTTP Cookie   MUID Microsoft Used widely by Microsoft as a unique user ID
+The cookie enables user tracking by synchronising the ID across many Microsoft domains
+1 year HTTP Cookie   NID Google Registers a unique ID that identifies a returning user's device
+The ID is used for targeted ads
+6 months HTTP Cookie   pagead/1p-user-list/# Google Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites
+Session Pixel Tracker   pagead/landing          [x2]         Google Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Session Pixel Tracker   UserMatchHistory LinkedIn Ensures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+29 days HTTP Cookie   VISITOR_INFO1_LIVE YouTube Tries to estimate the users' bandwidth on pages with integrated YouTube videos
+179 days HTTP Cookie   YSC YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen
+Session HTTP Cookie   ytidb::LAST_RESULT_ENTRY_KEY YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-cast-available YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-cast-installed YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-connected-devices YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-device-id YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-fast-check-period YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-app YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-name YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage     Unclassified (1)         Unclassified cookies are cookies that are in the process of being classified by us and the individual cookie providers
+Name Provider Purpose Expiry Type    INTERVAL www.smartsupp.com Pending Persistent HTML Local Storage
+Company
+Terms of service
+Data privacy & GDPR
+Affiliate
+Report Scam
+Our team
+Resources
+Help
+API
+Blog
+Use cases
+Instant help for customers
+Chat as a shop assistant
+Chat as a marketing tool
+facebook
+youtube
+twitter
+© Smartsupp.com

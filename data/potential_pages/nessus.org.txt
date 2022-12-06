@@ -1,0 +1,7 @@
+https://www.tenable.com/privacy-policy
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+https://en.wikipedia.org/wiki/HTTP_cookie
+https://foundation.wikimedia.org/wiki/Privacy_policy
+https://foundation.wikimedia.org/wiki/Cookie_statement
+https://foundation.wikimedia.org/wiki/Wikimedia_blog_privacy_policy
+https://foundation.wikimedia.org/w/index.php?oldid=126409

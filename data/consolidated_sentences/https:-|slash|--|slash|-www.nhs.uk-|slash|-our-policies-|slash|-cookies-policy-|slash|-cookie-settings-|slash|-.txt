@@ -1,0 +1,142 @@
+Choose which cookies we use - NHS
+Skip to main content
+Search the NHS website
+When autocomplete results are available use up and down arrows to review and enter to select
+Touch device users, explore by touch or with swipe gestures.
+Search
+My account
+Health A-Z
+NHS services
+Live Well
+Mental health
+Care and support
+Pregnancy
+Home
+NHS services
+Browse
+More
+Home
+Our policies
+Cookies on the NHS website
+Back to
+Cookies on the NHS website
+Choose which cookies we use
+Let us know which cookies we can use
+We'll use a cookie to save your settings.
+Cookies that remember pop-ups
+These cookies remember pop-ups you've seen, so you do not see them again.
+List of cookies that remember pop-ups
+List of cookies that remember pop-ups
+Name
+Purpose
+Expires
+Banner[Number]
+Checks to see if a survey banner has been dismissed to stop it appearing again
+99 days
+nhsuk-banner-[number]
+Checks to see if a survey banner has been dismissed to stop it appearing again
+99 days
+Use cookies to remember pop-ups
+Do not use cookies to remember pop-ups
+Cookies that measure website use (analytics cookies)
+These cookies store information about how you use our website, such as the links you click on
+We use them to help make our website better.
+List of cookies that measure website use
+List of cookies that measure website use
+Name
+Purpose
+Expires
+_ga
+Used by Google Analytics
+Tells us how you use our health campaigns sites
+2 years
+_gat
+Used by Google Analytics
+Helps stop Google Analytics web servers crashing when collecting information on how you use our health campaigns sites
+1 day
+_gid
+Used by Google Analytics
+Sets a unique ID for your session to help tell us how you use our health campaigns sites
+1 day
+_hjid
+Used by Hotjar
+Sets a unique ID for your session to help tell us how you use our site
+1 year
+_hjIncludedInSample
+Used by Hotjar
+Says if you're included in the current sample for collecting information about how you use our site
+1 day
+AMCV_#
+Used by Adobe Analytics
+Tells us if you've used our site before
+2 years
+AMCVS_#AdobeOrg
+Used by Adobe Analytics
+Tells us how you use our site
+When you close the browser
+com.adobe.reactor.dataElementCookiesMigrated
+Used by Adobe Analytics
+Includes data elements set to capture usage of our website
+No expiry
+demdex
+Used by Adobe Analytics
+Allows cross-domain analytics of NHS properties
+180 days
+nbs_sess
+Used by Adobe Analytics
+Tells us how you used selected radio button responses through the coronavirus vaccination booking service.
+When you close the browser
+s_cc
+Used by Adobe Analytics
+Checks if cookies work in your web browser
+When you close the browser
+s_getNewRepeat
+Used by Adobe Analytics
+Tells us if you've used our website before
+30 days
+s_ppn
+Used by Adobe Analytics
+Tells us how you use our website by reading the previous page you visited
+1 day
+s_sq
+Used by Adobe Analytics
+Remembers the last link you clicked on
+When you close the browser
+Use cookies to measure my website use
+Do not use cookies to measure my website use
+Cookies that help with health campaigns
+These cookies help us show you relevant adverts for our health campaigns on social media, such as Facebook or Twitter.
+List of cookies that help with health campaigns
+List of cookies that help with health campaigns
+Name
+Purpose
+Expires
+_gcl_au
+Set by Google Tag Manager
+Helps us show you more relevant adverts for our health campaigns
+3 months
+Use cookies to help with health campaigns
+Do not use cookies to help with health campaigns
+Save my cookie settings
+Support links
+Home
+Health A to Z
+Live Well
+Mental health
+Care and support
+Pregnancy
+NHS services
+Coronavirus (COVID-19)
+NHS App
+Find my NHS number
+Your health records
+About the NHS
+Healthcare abroad
+Contact us
+Other NHS websites
+Profile editor login
+About us
+Accessibility statement
+Our policies
+Cookies
+© Crown copyright

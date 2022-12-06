@@ -1,0 +1,207 @@
+Privacy Statement
+Products
+Scroll Apps
+for Confluence
+Backbone Issue Sync
+for Jira
+Orderly Databases
+for Confluence
+Company
+About Us
+Careers
+Partners
+Contact Us
+Resources
+Rock the Docs
+Cloud Migration Hub
+K15t Labs Apps
+K15t Product Documentation
+Blog
+Get Help
+Privacy Statement
+Privacy Statement
+We, the operators of websites www.k15t.com, help.k15t.com, help-cloud.k15t.com, scroll-viewport.io (also: "websites") are controllers of the personal data of the user ("you") of said websites within the meaning of the applicable data protection law, more specifically the General Data Protection Regulation ("GDPR").Below, we will provide information (Art
+13 et seqq
+GDPR) about the data processed when you visit our websites and the relevant legal basis
+You will also receive information on how we protect your data from a technical and organisational point of view and on your rights towards us and the responsible regulatory authorities.
+Information about the controller
+K15t GmbHOstendstr
+11070188 StuttgartPhone: +49 711 935935 30Fax: +49 711 935935 39e-mail: hello@k15t.com
+Data protection officer
+Our data protection officer can be contacted via privacy@k15t.com.
+Processing your personal data
+Informational use of our websites
+When you visit our websites, so-called log files are processed, with our system collecting them automatically.The following log files are processed automatically:IP address of the requesting computerDate and time of visitTime zone difference to Greenwich Mean Time (GMT)HTTP methodAccess pagesAccess status/HTTP status codeAmount of data transmitted in the responseReferrerType of Internet browser usedVersion of Internet browser usedOperating system and versionOperating system user interfaceUser's Internet service providerThe log files contain your IP address and possibly other personal data
+In principle, it is therefore possible to match them to you
+However, we store your data only temporarily and specifically not together with other personal data.We only use the data to secure our information technology systems, more specifically for forensics in the event of break-ins
+The log files are deleted after 90 days at the latest.These purpose(s) also justify our legitimate interest to process the data according to point (f) of Article 6(1) GDPR.
+Contact forms
+You may contact us electronically using our contact form, e.g
+to provide us with feedback, to ask questions or to submit a contact request
+If you use this option, data entered into that form will be transmitted to us.In addition to the data you provide to us voluntarily, we store the time (date and time) of transmission of your data as well as your IP address
+The processing of such data corresponds to our legitimate interest (point (f) of Article 6(1) GDPR) to guarantee our systems’ security and to prevent misuse
+Such additional data, which we collect when you contact us, will be deleted after 3 months
+However, if you have signed up for our newsletter, we will store your data until your consent is withdrawn.The legal basis for processing your data to handle your contact request is point (a) of Article 6(1) GDPR
+If your contact aims to conclude a contract with us, point (b) of Article 6(1) GDPR serves as an additional legal basis for processing your personal data.The data will be stored until they are no longer required to achieve the purpose of the conversation with you and the purpose of your contact has been fully clarified.
+Contact by e-mail
+You can contact us by e-mail (best: hello@k15t.com)
+We will store your personal data transmitted in the e-mail
+The data will not be passed on to third parties and it will be processed only to handle your contact request
+The legal basis for processing your personal data is point (f) of Article 6(1) GDPR
+The data will be stored until they are no longer required to achieve the purpose of the conversation with you and the purpose of your contact has been fully clarified.If your e-mail aims to conclude a contract with us, point (b) of Article 6(1) GDPR serves as an additional legal basis for processing your personal data
+These data will be stored for as long as they are necessary for the performance of the contract
+Otherwise, we will store your data only to comply with contractual or legal obligations (e.g
+tax obligations) (point (c) of Article 6(1) GDPR).You may withdraw your consent to the processing of your personal data at any time by sending an e-mail to hello@k15t.com
+In this case, all personal data of the conversation will be erased and it will not be possible to continue the conversation.
+Newsletter
+On our websites we give you the opportunity to subscribe to our newsletter free of charge
+In addition to your declaration of consent, we also need your e-mail address for this purpose.In the context of your newsletter registration, we also store the time (date and time) of transmission of your data as well as your IP address
+The processing of such data corresponds to our legitimate interest pursuant to point (f) of Article 6(1) GDPR to guarantee the security of our systems and to prevent misuse.We will obtain your consent to processing your data and insofar refer to this Privacy Statement.The legal basis for sending the newsletter is point (a) of Article 6(1) GDPR.We use ActiveCampaign, a service by ActiveCampaign, Inc., 1 N Dearborn, 5th Floor, Chicago, Illinois 60602, USA (hereinafter: "ActiveCampaign") for the administration of newsletter data and dispatch.Our newsletters contain tracking pixels (1-pixel images)
+If you open our newsletter and allow images to be loaded, we will register that the newsletter has been opened
+If you prevent images from being loaded and displayed by default, we cannot determine whether the newsletter has been opened
+We also track which links within the newsletter are clicked on and opened.We use the information about whether our newsletter has been opened and which links have been clicked on to continuously improve our newsletter
+We want to fill it with attractive content and focus on the topics that are of interest to our subscribers
+This is in line with our legitimate interests
+The legal basis for newsletter tracking therefore is point (f) of Article 6(1) GDPR.For further information on data protection, see ActiveCampaign's privacy policy: https://www.activecampaign.com/privacy-policy/.Your data will be stored only for as long as this is necessary to achieve the purpose
+Your e-mail address will therefore be stored while your newsletter subscription is active provided you have given your consent
+The data, which we additionally collect when you register, will be erased after 6 months.We will send our newsletter only once you have confirmed your registration by clicking on the appropriate link in a confirmation e-mail sent to you for this purpose
+This is to ensure that you can subscribe to the newsletter only Yourself
+Your confirmation must be sent promptly after receipt of the confirmation e-mail, otherwise your newsletter subscription will be deleted automatically from our database.Option to object / unsubscribe newsletterYou may unsubscribe or cancel our newsletters at any time
+The relevant link is included at the end of each newsletter
+By doing so, you revoke your consent and object to any further use of your data to send the newsletter.You can also use the following URL to configure the topics on which you would like to receive information by newsletter: https://www.k15t.com/email/preferences .If you don’t want to receive the newsletter, but nevertheless want to stay informed, you may refer directly to our blog or subscribe to the blog contents via RSS.
+Cookies and Local Storage
+Please note: you can make sure that cookies are not stored at all on your computer, or that only the storage of certain cookies is permitted
+You can select this in your Internet browser settings
+There you can also view and delete any stored cookies.If you block all cookies, you may not be able to use all the features of our websites.We use cookies on our websites
+Cookies are text files that our web server sends to your browser while you are visiting our websites
+Your browser will store them on your computer for later retrieval
+This means cookies can be used to identify your Internet browser when you revisit the websites
+Session cookies are deleted when the browser is closed
+Persistent cookies are stored on the hard drive until their default expiration date is reached or until you actively remove them.In addition to cookies, we use the Local Storage method to store data locally in the cache of your browser
+These data are stored persistently in your browser but you can remove all Local Storage data by deleting your browser cache.Own cookiesWe use our own cookies to ensure the functionality of our websites
+Some elements of our website require that your Internet browser is recognised after a page change.The overview shows you for which purposes your data are collected and how long they will be stored for:     NameFunctionStorage periodRendered anonymousacceptedCookieStores the customer's consent to our Privacy Statement and the use of cookies.Until the cookies are actively deleted.YesJSESSIONIDFunctional cookie for session handling of the servlet container.Until the browser is closed.YesThe legal basis for processing personal data in cookies, which we place on our websites to ensure their functionality and our offer, is point (f) of Article 6(1) GDPR.Option to object and removeAs explained above in this section, you can enable or restrict the transmission of cookies by changing the settings in your Internet browser
+Cookies already saved by your Internet browser can be deleted at any time in your settings
+If cookies are restricted or deactivated for our websites, it is possible that not all functionalities can be used.Third-party cookiesWe use so-called "third-party" cookies / Local Storage on our websites
+This means that when you visit our websites, data are transferred from your web browser to the third party's web server and stored there.In our Help Center (help.k15t.com and help-cloud.k15t.com), Jira Service Management automatically stores functional information as Local Storage.Google stores cookies automatically as we use Google’s statistics to improve our website.You can find the corresponding opt-out options in the sections regarding Google and Jira Service Management below.The following third-party cookies bzw
+Local / Session Storage are set by the following providers:      ProvideNamePurposeTypeStorage durationGoogle Analytics_gaCookie to recognise the user.Cookie2 yearsGoogle Analytics_gat_UA-nnnnnCookie to restrict requests to Google Analytics.Cookie1 minuteGoogle Analytics_gidCookie to recognise the user.Cookie24 hours
+Google Analytics
+The Google Analytics analysis service by Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA (hereinafter: "Google Analytics") is implemented on our websites.Google Analytics uses cookies that store the following information:Type of Internet browser usedInternet browser versionYour operating systemReferrer (previously visited website)Your abbreviated IP addressTime of the server requestWe use the Google Analytics function to render your IP address anonymous before saving or processing
+Your IP address usually is abbreviated within the European Union/EEA and only then transmitted to Google servers in the USA
+Your information will be processed pseudonymously and we will not combine it with any other of your personal data.We use the data collected in this way for statistical purposes to optimise our websites and offers
+The relevant legal basis is point (f) of Article 6(1) GDPR.We use the additional service "Universal Analytics", which is based on Google Analytics
+This extension to Google Analytics enables us to use the functions of Google Analytics not only on websites but also in apps
+Universal Analytics uses a user ID which you can use pseudonymously (the user ID is an identifier within the meaning of Article 4(1) GDPR) when you are logged on to our websites and which you can also use to track your user behaviour across devices.We use the data collected in this way for statistical purposes to optimise our websites and offers
+The relevant legal basis is point (f) of Article 6(1) GDPR.You can also prevent Google from collecting the data generated by the cookie and relating to your use of the website (including your IP address) and from processing such data by downloading and installing the browser plug-in available under the following link ( http://tools.google.com/dlpage/gaoptout?hl=en ).You can prevent cookies from being saved either directly in your browser settings or you can prevent the processing of your data by clicking on the following links to opt out:www.k15t.comFor help.k15t.com, help-cloud.k15t.com, scroll-viewport.io you can only prevent cookies being saved through your browser settings.Google's Privacy Statement is available at: https://policies.google.com/privacy?hl=de.
+Confluence Cloud
+We use Atlassian Confluence Cloud to document use cases and store potential contact data (name, company, e-mail address)
+The data will not be passed on to third parties and it will be processed only to support you in using our products and services, and to continue improving our products and services
+The legal basis for us processing your data to clarify your request is point (f) of Article 6(1) GDPR.Use of Confluence Cloud is subject to Confluence Cloud's terms of use: https://www.atlassian.com/legal/cloud-terms-of-service.Atlassian also provides additional privacy information at https://www.atlassian.com/legal/privacy-policyFurther information regarding GDPR when using Confluence Cloud can be accessed here: https://www.atlassian.com/trust/privacy/country/europe-and-gdpr
+Job applications
+Our website provides information about vacancies in our team and you can send us your application by e-mail
+We will process your data to handle your application, which means that your application will be viewed by the employees responsible for pre-selection.We use Personio, a service by Personio GmbH & Co
+KG, Rundfunkplatz 4, 80335 München, Germany (hereinafter: "Personio") to handle the application process.Personio provides further privacy information at https://www.personio.com/privacy-policy/ Otherwise, your data will not be passed on to third parties and we will also not use your data for any other purposes.We will store your application data
+If we reject your application, we will store the data only for as long as necessary, not exceeding a period of six months, unless you consent that we may store the applicant data for longer to be able to contact you after said period if necessary.The legal basis for processing your data is Sec
+26 BDSG (German Federal Data Protection Act) as well as Article 88 GDPR.If you do not wish to send your application documents electronically, please use this postal address:K15t GmbHPersonalabteilungOstendstr
+11070188 StuttgartGERMANY
+Other third party content included in our websites
+Hyvor Talk
+This website uses Hyvor Talk service as the commenting platform
+The comments and other data exchanged are stored securely within the Hyvor Talk system
+Your personal data will be processed and transmitted in accordance with the General Data Protection Regulation (GDPR)
+For more information, please refer to their privacy policy.
+YouTube
+We incorporate videos from Youtube [sic!] of Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA (hereinafter: "YouTube") for an attractive design of our website.We use the advanced privacy mode so that information about you is shared with YouTube only when you activate the video by clicking the video's play button.When you enable the video, YouTube uses cookies to collect information for analytical purposes and to improve ease of use
+According to YouTube, the data is processed in a pseudonymised way
+However, if you are logged in to your Google or YouTube account, the information may be linked directly to your YouTube account.For more information about data privacy, including how long YouTube stores your information, refer to Google's privacy policy at: https://policies.google.com/privacy?hl=de&gl=de.The legal basis for the incorporation of the YouTube service on our website and the associated processing of your data is point (f) of Article 6(1) GDPR.
+Jira Service Management
+On the support website (help.k15t.com and help-cloud.k15t.com), we use the service provider Atlassian
+Pty Ltd Level 6, 341 George Street, Sydney NSW 2000, Australia and their tool Jira Service Management (hereinafter: "Jira Service Management"), which you can use to submit support requests directly to us.To do so, we request the following information via the support form:e-mail addresstopic and descriptionAny further information is voluntary
+By submitting this form, you agree to us processing your data
+The data will be stored until you ask us to erase, e.g
+your support request or your complete profile, or if we no longer use Jira Service Management as a service provider, unless statutory obligations require a longer storage period (point (c) of Article 6(1) GDPR)
+Jira Service Management will completely erase the data 40 days after the erasure request.Use of Jira Service Management as well as of the information obtained through Jira Service Management is subject to Jira Serivce Management's terms of use: https://www.atlassian.com/legal/cloud-terms-of-service.Jira Service Management also provides additional privacy information at: https://www.atlassian.com/legal/privacy-policyThe legal basis for us processing your data to clarify your request is point (a) of Article 6(1) GDPR.Jira Service Management automatically stores information as Local Storage
+To remove the information stored as Local Storage, please delete your browser cache.
+Your rights
+When we process your data, you are a "data subject" within the meaning of the GDPR
+You have the following rights: Right of access, right to rectification, right to restriction of processing, right to erasure, right to be informed and right to data portability
+You furthermore have a right to object and a right to withdraw.Below, you will find details on the individual rights:
+Right of access
+You have the right to ask us to confirm if we process your personal data.If we process your personal data, you have the right to access the following information:the processing purposes;the categories of personal data being processed;the recipients or categories of recipients to whom your personal data have been or will be disclosed, more specifically recipients in third countries or international organisations;if possible, the planned duration for which your personal data will be stored or, if this is not possible, the criteria for determining this duration;the existence of a right to have your personal data rectified or erased or to restrict or object to such processing by us;the existence of a right to lodge a complaint with a regulatory authority;if the personal data were not collected directly from you, all available information about the origin of the data;the existence of automated decision-making, including profiling pursuant to Article 22(1) and (4) GDPR and - at least in these cases - meaningful information on the logic involved as well as on the scope and intended effects of such processing for you.If we transfer your data to an international organisation or to a third country, you furthermore have the right to request information on whether suitable guarantees pursuant to Article 46 GDPR are in place in connection with such transfer.
+Right to rectification
+You have the right to rectification and/or completion of the data we have stored about you if such data are inaccurate or incomplete
+We will rectify or complete the data without undue delay.
+Right to restriction of processing
+Under certain conditions, you have the right to request us to restrict processing your personal data
+To do so, at least one of the following conditions must be fulfilled:You contest the accuracy of the personal data for a period enabling us to verify the accuracy of the personal data;The processing is unlawful and you oppose the erasure of the personal data and request the restriction of their use instead;We no longer need the personal data for the purposes of the processing, but you require them for the establishment, exercise or defence of legal claims
+orYou have objected to processing pursuant to Article 21(1) GDPR pending the verification whether our legitimate grounds override Yours.
+Right to erasure
+You have the right to obtain from us the erasure of your personal data without undue delay if we are obliged to do so
+This is the case where one of the following grounds applies:Your personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed.You withdraw consent on which the processing was based according to point (a) of Article 6(1), or point (a) of Article 9(2) GDPR, and where there is no other legal ground for the processing.You object to the processing pursuant to Article 21(1) GDPR and there are no overriding legitimate grounds for the processing, or you object to the processing pursuant to Article 21(2) GDPR.Your personal data have been unlawfully processed.The personal data must be erased for compliance with a legal obligation in Union or Member State law to which we are subject.Your personal data have been collected in relation to the offer of information society services referred to in Article 8(1) GDPR.Where we have made your personal data public and are obliged pursuant to the above requirements to erase the personal data, we, taking account of available technology and the cost of implementation, will take reasonable steps, including technical measures, to inform other controllers which are processing the personal data, that you have requested us to erase any links to, or copy or replication of, those personal data.However, your right to erasure will not apply to the extent that processing is necessary for the following reasons (exceptions):For exercising the right of freedom of expression and informationFor compliance with a legal obligation which requires processing by Union or Member State law to which we are subject or for the performance of a task carried out in the public interest or in the exercise of official authority vested in us;For reasons of public interest in the area of public health in accordance with points (h) and (i) of Article 9(2) as well as Article 9(3) GDPR;For archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) GDPR in so far as the right referred to in paragraph 1 is likely to render impossible or seriously impair the achievement of the objectives of that processing
+orFor the establishment, exercise or defence of legal claims.
+Notification Obligation
+If you have exercised your right of rectification, erasure or restriction against us, we are obliged to notify all recipients whom we have disclosed your personal data, of the rectification, erasure or restriction of the processing of your data, unless this proves impossible or involves a disproportionate effort.
+Right to data portability
+You have the right to receive the personal data you have provided to us, in a structured, commonly used and machine-readable format
+You furthermore have the right to transmit those data to another controller, where:the processing is based on consent pursuant to point (a) of Article 6(1) or point (a) of Article 9(2) GDPR or on a contract pursuant to point (b) of Article 6(1) GDPR
+andthe processing is carried out by automated means.You have the right to have your personal data transmitted directly by us to another controller, where technically feasible and if it does not adversely affect the rights and freedoms of others.This right to data portability does not apply to processing necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in us.
+Right to object
+You have the right to object, on grounds relating to your specific situation, at any time to processing of your personal data, which is based on point (e) or (f) of Article 6(1) GDPR, including profiling based on those provisions.In case of an objection, we will no longer process your personal data, unless we can demonstrate compelling legitimate grounds for processing which override your interests, rights and freedoms, or the processing serves the purposes of establishing, exercising or defending legal claims.Where we process your personal data for direct marketing purposes, you have the right to object at any time to the processing of your personal data for such marketing, which includes profiling to the extent that it is related to such direct marketing.If you object to the processing for direct marketing purposes, we will no longer process your personal data for these purposes.In the context of the use of information society services, and notwithstanding Directive 2002/58/EC (Directive on privacy and electronic communications), you may exercise your right to object by automated means using technical specifications.
+Right to withdraw
+Pursuant to Article 7(3) GDPR, you have the right to withdraw your consent at any time
+The withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal.
+Right to lodge a complaint with a regulatory authority
+Without prejudice to any other administrative or judicial remedy, you have the right to lodge a complaint with a supervisory authority, especially in the Member State of your habitual residence, place of work or place of the alleged infringement, if you consider that the processing of your personal data infringes your rights under the GDPR.For an overview of the respective data protection officers of the federal states as well as their contact details go to: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
+Version and amendments to this Privacy Statement
+Status: 08 September 2022
+Table of Contents
+Privacy StatementInformation about the controllerData protection officerProcessing your personal dataOther third party content included in our websitesYour rightsVersion and amendments to this Privacy Statement
+Products
+Scroll Apps for Confluence
+Backbone Issue Sync for Jira
+Orderly Databases for Confluence
+Company
+About Us
+Careers
+Partners
+Contact Us
+Resources
+Rock the Docs
+Cloud Migration Hub
+K15t Labs Apps
+K15t Product Documentation
+Blog
+Overview
+Subscribe to Newsletter
+Copyright © 2022 K15t
+Copyright © 2022 K15t
+Powered by
+Atlassian Confluence
+and
+Scroll Viewport
+Privacy Statement
+Legal Notice
+We Like Cookies
+We’d like to set cookies to create a secure and effective browsing experience and to understand how you use our site.
+Would you like to help us with that?
+Accept cookies
+More options
+We use Google Analytics to understand how you interact with our site
+For further details please read our
+privacy statement.
+If you don’t want to be tracked, click
+Don't Track Me.
+Products
+Scroll Apps for Confluence
+Backbone Issue Sync for Jira
+Orderly Databases for Confluence
+Company
+About Us
+Careers
+Partners
+Contact Us
+Resources
+Rock the Docs
+Cloud Migration Hub
+K15t Labs Apps
+K15t Product Documentation
+Blog

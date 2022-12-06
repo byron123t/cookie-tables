@@ -1,0 +1,160 @@
+Cookie Policy               Home       en  Deutsch Español Français Nederlands  Home      Product  Features Accessibility Dynamic Content Sustainability  Services Enterprise   Pricing   Resources  Customer Stories Blog Support  Contact   Try For Free    Login   en  Deutsch Español Français Nederlands         Cookie Policy This page contains our cookie policy
+It explains which type of cookies are being used and has more in-depth information on the services we use and their cookies
+Cookies do not harm your computer
+What is a cookie? A cookie is a small text file that is stored on your computer by your web browser when visiting a website
+Cookies can be used to store certain preferences of a website (e.g
+you don’t have to login every time you visit the site) or track if you have visited that site before
+Cookies cannot do any harm to your computer and are managed by your web browser (e.g
+Google Chrome, Firefox, Internet Explorer)
+Our cookie policy To make full use of Publitas and its services you need to accept cookies
+Without cookies you can still visit our homepage, but you cannot log in to use our services
+We need to set a cookie to check if you are logged in or not
+If you would like to limit or block the usage of cookies you can do so in your browser settings
+These settings differ between browsers
+For an overview of the different setting per browser, please check this site
+Types of cookies  Our website uses cookies
+We use cookies to improve our website experience, personalize content, provide social media features, and analyze our traffic
+Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+For all other types of cookies we need your permission.This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.Please state your consent ID and date when you contact us regarding your consent
+Your consent applies to the following domains: www.publitas.com Your current state: Deny
+Your current state: Do Not Sell My Personal Information
+Your current state: Allow selection (Necessary, Preferences, Statistics, Marketing)
+Your current state: Allow all
+Your consent ID: Consent date: Change your consent  |  Withdraw your consentDo Not Sell My Personal InformationCookie declaration last updated on 06/11/2022 by Cookiebot:        Necessary (14)         Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+The website cannot function properly without these cookies
+Name Provider Purpose Expiry Type    _revolution_production_session Publitas This cookie keeps you logged into our product
+Session HTTP Cookie   aet-dismiss Disqus Necessary for the functionality of the website's comment-system
+Persistent HTML Local Storage   AWSALB Glassdoor Registers which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+6 days HTTP Cookie   AWSALBCORS Glassdoor Registers which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+6 days HTTP Cookie   CONSENT          [x2]         GoogleYouTube Used to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+2 years HTTP Cookie   CookieConsent Cookiebot Stores the user's cookie consent state for the current domain 1 year HTTP Cookie   drafts.queue Disqus Necessary for the functionality of the website's comment-system
+Persistent HTML Local Storage   li_gc LinkedIn Stores the user's cookie consent state for the current domain 179 days HTTP Cookie   publitas.PS Publitas Selects the right currency for the user
+Currently necessary to be able to sign up for our product
+1 year HTTP Cookie   SameSite Glassdoor Ensures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+1 day HTTP Cookie   submitted_posts_cache Disqus Necessary for the functionality of the website's comment-system
+Persistent HTML Local Storage   test_cookie Google Used to check if the user's browser supports cookies
+1 day HTTP Cookie   webinargeek WebinarGeek Used to implement and present a list of different webinar events on the website
+Session HTTP Cookie     Preferences (5)         Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+Name Provider Purpose Expiry Type    alr Glassdoor Used to track which users have shown interest in what job postings
+The cookie ensures that the most relevant job postings are shown to the specific user
+1 day HTTP Cookie   lang          [x2]         LinkedIn Remembers the user's selected language version of a website Session HTTP Cookie   publitas.language Publitas Stores the users language preference
+29 days HTTP Cookie   time_zone WebinarGeek Holds the users timezone
+Session HTTP Cookie     Statistics (26)         Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+Name Provider Purpose Expiry Type    _ga          [x2]         Google Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+2 years HTTP Cookie   _ga_# Google Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit
+2 years HTTP Cookie   _gat          [x2]         GooglePublitas Used by Google Analytics to throttle request rate 1 day HTTP Cookie   _gid          [x2]         Google Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+1 day HTTP Cookie   _hjAbsoluteSessionInProgress Hotjar This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice
+1 day HTTP Cookie   _hjFirstSeen Hotjar This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website
+1 day HTTP Cookie   _hjIncludedInPageviewSample          [x2]         PublitasHotjar Determines if the user's navigation should be registered in a certain statistical place holder
+1 day HTTP Cookie   _hjIncludedInSessionSample          [x2]         PublitasHotjar Registers data on visitors' website-behaviour
+This is used for internal analysis and website optimization
+1 day HTTP Cookie   _hjRecordingLastActivity Hotjar Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes
+Session HTML Local Storage   _hjSession_# Hotjar Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read
+1 day HTTP Cookie   _hjSessionUser_# Hotjar Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read
+1 year HTTP Cookie   _hjTLDTest Hotjar Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Session HTTP Cookie   ADRUM_BT1 Glassdoor This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website
+1 day HTTP Cookie   amp_cookiestore_amplitude_id_# Mixmax Used in context with the website’s pop-up questionnaires and messengering
+The data is used for statistical or marketing purposes
+Persistent HTML Local Storage   AnalyticsSyncHistory LinkedIn Used in connection with data-synchronization with third-party analysis service
+29 days HTTP Cookie   collect Google Used to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels
+Session Pixel Tracker   collect.png Publitas Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Session Pixel Tracker   fs_uid Publitas This cookie contains an ID string on the current session
+This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience
+1 year HTTP Cookie   hjViewportId Hotjar Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes
+Session HTML Local Storage   https://#.#/ Leadfeeder Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Session Pixel Tracker   personalization_id Twitter Inc
+This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile
+2 years HTTP Cookie     Marketing (58)         Marketing cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+Name Provider Purpose Expiry Type    __cf_bm Glassdoor This cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website
+1 day HTTP Cookie   _gcl_au Google Used by Google AdSense for experimenting with advertisement efficiency across websites using their services
+3 months HTTP Cookie   _hjRecordingEnabled Hotjar This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange
+Session HTML Local Storage   _lfa sc.lfeeder.com Used in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes
+2 years HTML Local Storage   _lfa_expiry sc.lfeeder.com Contains the expiry-date for the cookie with corresponding name
+Persistent HTML Local Storage   _lfa_test_cookie_stored sc.lfeeder.com Used in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes
+1 day HTTP Cookie   1/i/adsct          [x2]         Twitter Inc
+Pending Session Pixel Tracker   ADRUM_BTa Glassdoor This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website
+1 day HTTP Cookie   ads/ga-audiences Google Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites
+Session Pixel Tracker   ajs_user_id Mixmax Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor
+Persistent HTML Local Storage   amp_cookiestore_amplitude_idundefined Mixmax Saves user preferences for the MixMax Calendar
+Persistent HTML Local Storage   amplitude_unsent_# Mixmax Used in context with the website’s pop-up questionnaires and messengering
+The data is used for statistical or marketing purposes
+Persistent HTML Local Storage   amplitude_unsent_identify_# Mixmax Used in context with the website’s pop-up questionnaires and messengering
+The data is used for statistical or marketing purposes
+Persistent HTML Local Storage   apc_local_id Mixmax Used in context with the VR-content on website
+Collects data on who, what and when the content has been viewed for statistical purposes
+Persistent HTML Local Storage   apc_user Mixmax Used in context with the VR-content on website
+Collects data on who, what and when the content has been viewed for statistical purposes
+Session HTML Local Storage   asst Glassdoor For Glassdoor review embed
+1 day HTTP Cookie   badges-message Disqus Used in context with the website’s pop-up questionnaires and messengering
+The data is used for statistical or marketing purposes
+Persistent HTML Local Storage   bcookie LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services
+1 year HTTP Cookie   bscookie LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services
+1 year HTTP Cookie   cass Glassdoor For Glassdoor review embed
+1 day HTTP Cookie   cc.js Swiftype For proper working of swiftype site search
+Session Pixel Tracker   COMPASS Google Pending 1 day HTTP Cookie   debug Mixmax For proper use of MixMax calendar
+Persistent HTML Local Storage   fbssls_  Meta Platforms, Inc
+Collects data on the visitor’s use of the comment system on the website, and what blogs/articles the visitor has read
+This can be used for marketing purposes
+Session HTML Local Storage   gdId Glassdoor Used to track which users have shown interest in what job postings
+The cookie ensures that the most relevant job postings are shown to the specific user
+10 years HTTP Cookie   gdsid Glassdoor For GlassDoor review embed
+1 day HTTP Cookie   GSESSIONID Glassdoor For Glassdoor review embed
+1 day HTTP Cookie   guest_id Twitter Inc
+Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service
+2 years HTTP Cookie   guest_id_ads Twitter Inc
+Collects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website
+2 years HTTP Cookie   guest_id_marketing Twitter Inc
+Collects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website
+2 years HTTP Cookie   i/jot/embeds Twitter Inc
+Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+Session Pixel Tracker   IDE Google Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year HTTP Cookie   JSESSIONID Glassdoor Preserves users states across page requests
+1 day HTTP Cookie   juggler/event.gif Disqus Identifies the visitor across devices and visits, in order to optimize the chat-box function on the website
+Session Pixel Tracker   lidc LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services
+1 day HTTP Cookie   mkjs_group_id Mixmax Collects data for MixMax calendar
+Persistent HTML Local Storage   mkjs_group_properties Mixmax For proper functioning of MixMax Calendar
+Persistent HTML Local Storage   mkjs_user_id Mixmax Collects data on visitors' preferences and behaviour on the website to provide mixmax calendar functionality
+Persistent HTML Local Storage   mkjs_user_traits Mixmax Collects data on visitors for MixMax calendar
+Persistent HTML Local Storage   muc_ads Twitter Inc
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant
+2 years HTTP Cookie   NID Google Registers a unique ID that identifies a returning user's device
+The ID is used for targeted ads
+6 months HTTP Cookie   pagead/1p-user-list/# Google Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites
+Session Pixel Tracker   pagead/landing          [x2]         Google Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Session Pixel Tracker   S Google Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes
+1 day HTTP Cookie   trs Glassdoor Used to track which users have shown interest in what job postings
+The cookie ensures that the most relevant job postings are shown to the specific user
+1 year HTTP Cookie   UserMatchHistory LinkedIn Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+29 days HTTP Cookie   VISITOR_INFO1_LIVE YouTube Tries to estimate the users' bandwidth on pages with integrated YouTube videos
+179 days HTTP Cookie   YSC YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen
+Session HTTP Cookie   ytidb::LAST_RESULT_ENTRY_KEY YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-cast-available YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-cast-installed YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-connected-devices YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-device-id YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-fast-check-period YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-app YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-name YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage     Unclassified (7)         Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies
+Name Provider Purpose Expiry Type    _BEAMER_FILTER_BY_URL_DNklIZlb19020 Publitas Pending 1 day HTTP Cookie   _BEAMER_FIRST_VISIT_DNklIZlb19020 Publitas Pending 299 days HTTP Cookie   _BEAMER_USER_ID_DNklIZlb19020 Publitas Pending 299 days HTTP Cookie   events/page.gif Customer.io Pending Session Pixel Tracker   fs_cid Publitas Pending 1 year HTTP Cookie   ph_phc_4d7Sd1DBXh9SdnkSqDgenLQBu5rw62xmK3cqFYNLgX8_posthog          [x2]         Publitas Pending 1 year HTTP Cookie              Product Home Features Enterprise Pricing Try For Free Flipbook maker         Publish brochures online Publish magazines online Publish catalogs online Google Catalogs alternative Publish PDF online       Publitas About us Jobs Contact Blog Support Partners       Legal Terms & Conditions Acceptable Use Policy Security Statement Privacy Statement Cookie Policy Impressum       Social   Twitter Facebook LinkedIn        Publitas Reviews         © Publitas.com
+All rights reserved
+Registered office: Publitas.com B.V., J.H
+Oortweg 21, 2333 CH, Leiden, the Netherlands.CoC (KvK): 39096214
+VAT (BTW): NL817087151B01
+Deutsch Español Français Nederlands  Features Accessibility Dynamic Content Sustainability  Customer Stories Blog Support  Deutsch Español Français Nederlands

@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+Cookies User Guide - Privacy - Analytics Platform - Matomo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content 
+
+
+Menu 
+MENUMENUWhy Matomo?
+
+100% Data OwnershipPrivacy ProtectionProduct FeaturesOpen SourceFlexibilityNo Data SamplingGDPRGoogle Analytics Alternative
+Use Cases
+
+Complete AnalyticsIntranet AnalyticsCookieless TrackingTracking Personal DataNo LimitationsLog Analytics
+On-Premise
+
+Matomo On-PremiseOn-Premise vs CloudDownload for freeMarketplaceSupport Plans
+PricingResources
+
+HelpBlogIntegrationsContact the Matomo teamList of all featuresGet involved
+Log inHelpTRY IT FOR FREE
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Help
+Manage Matomo
+Privacy
+
+
+
+Privacy - Cookies
+
+
+
+
+What are the cookies created by Matomo JavaScript Tracking client?Enforce tracking without cookiesDisable all cookies for a visitorSegment people that have been identified using tracking cookies 
+
+
+
+
+
+
+
+
+
+
+
+CompanyAbout Matomo
+History
+Contributors
+Careers
+Contact Us
+SupportHelp Centre
+Developers
+Contact support
+ 
+
+ProductTag Manager
+WordPress Plugin
+URL Campaign Builder
+Integrations
+Open Source
+Download Matomo
+Changelog
+Issue Tracker
+GitHub
+ 
+
+PrivacyData ownership
+GDPR
+Security
+Matomo Cloud Privacy Policy
+Website Privacy Policy
+ResourcesBlog
+Newsletter
+Matomo in the press
+Press Enquiries
+GDPR Timeline
+ 
+
+Comparisonsvs Google Analytics
+vs Adobe Analytics vs Google Analytics
+vs Piwik PRO
+vs Plausible
+vs Fathom
+vs Hotjar
+vs WP-Statistics
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+					© 2022 matomo.org				
+
+
+
+
+
+ 
+
+
+
+
+Sign up for our newsletter
+
+
+We are constantly adding new features and content to the leading All-In-One Analytics Platform that gives you control over your data. If you want to stay up to date with everything that is happening, feel free to subscribe below.  You can unsubscribe at any time from it. The newsletter service uses MadMimi. Learn more about it within our privacy Policy page.
+
+
+
+Email*
+
+
+
+
+
+
+
+
+
+
+
+no thanks
+ 
+
+
+{"cookieName":"wBounce","isAggressive":false,"isSitewide":true,"hesitation":"500","openAnimation":false,"exitAnimation":false,"timer":"","sensitivity":"","cookieExpire":"60","cookieDomain":"","autoFire":"","isAnalyticsEnabled":false}
+
+
+
+
+
+
+
+

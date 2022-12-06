@@ -1,0 +1,3 @@
+https://www.gamerevolution.com/privacy-policy
+https://www.mandatory.com/cookies
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage

@@ -1,0 +1,447 @@
+
+
+Cookies Policy » Marketo Documents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Marketo's Use of CookiesMarketo uses cookies to enhance your experience, to display customized content in accordance with your browser settings, and to help us better understand how you use our website.  By continuing to browse or closing this banner, you indicate your agreement. To set your own preferences click "Cookie Settings" and to learn more about the cookies we use see our      Cookies PolicyCloseCookie SettingsYour PrivacyStrictly Necessary Cookies                         Performance CookiesFunctional CookiesTargeting CookiesStatistics CookiesMore InformationPrivacy Preference CenterActiveAlways Active Save SettingsAllow All
+
+
+
+
+Marketo Documents
+
+
+²
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Cookies Policy
+
+Effective Date: May 24, 2018
+This Cookies Policy describes the different types of cookies and similar technologies that may be applied by Marketo, Inc. (“Marketo”) and its Affiliates (Marketo International, Ltd.; Marketo EMEA, Ltd.; Marketo Australia Pty Ltd.; Marketo K.K.; Marketo Solutions Limited (UK); Marketo Solutions, Ltd. (Israel) aka Insightera, Inc.; Marketo Corporation Canada; Bizible; ToutApp, Inc.; Zubhium Inc.) on their respective websites (each, a “Site” and collectively, the “Sites”). 
+ We may change this Cookies Policy at any time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons. If you have questions regarding this Cookies Policy, please contact our Data Protection Officer (DPO) by email at privacyofficer@marketo.com, or write to us at the following address: 601 Townsend St, San Francisco, CA 94103 ATTN: Privacy, Legal.
+ 1.   What is a Cookie? 
+Cookies are a standard feature of websites that allow us to store small amounts of data on your computer about your visit to a Site. Cookies help us to learn which areas of a Site are useful and which areas need improvement. Cookies also improve your experience by, for example, remembering your preferences.
+You can choose whether to accept cookies by changing the settings on your browser or by clicking on the appropriate opt-out links for the different categories of cookies provided in the Cookie Preference Centers found in the Sites’ footers and Marketo’s cookie banners. However, if you disable this function, your experience on a Site may be diminished and some features will not work as intended depending upon which cookies are disabled.
+2. Why do we use Cookies?  
+Our Sites uses both 1st party cookies (which are set by the Site being visited) and 3rd party cookies (which are set by a server located outside the domain of a Site). We use 1st party and 3rd party cookies for several reasons. Some cookies are required for technical reasons in order for the Sites to operate, and we refer to these as "strictly necessary" cookies. Some cookies allow us to count visits and traffic sources so we can measure and improve the performance of our Sites, and we refer to these as "Performance" cookies. Some cookies enable us to provide enhanced functionality and personalization on the Sites and we refer to these as “Functional” cookies. Finally, some cookies enable us and our partners to serve targeted advertisements and we refer to these as “Targeting” cookies. The specific types of 1st and 3rd party cookies served through the Sites and the purposes they perform are described in the table below.
+3. What Cookies Do We Use? 
+ Below we list the different types of cookies that may be used on the Sites. To the extent any Personal Information is collected through cookies, the Privacy Notice [https://legal.marketo.com/privacy/] applies and compliments this Cookies Policy. Marketo uses Google Tag Manager to manage its cookies.
+Strictly Necessary Cookies.  These cookies enable you to navigate the Sites and to use their services and features. These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not work. These cookies do not store any personally identifiable information.
+
+Cookie Name 
+
+
+Description of Purpose
+
+
+Expiration
+
+
+1st / 3rd Party
+
+
+Load SmartForms
+
+
+This cookie loads Marketo SmartForms on the Sites.
+
+
+Session
+
+
+1st Party
+
+
+Marketo Email - 404
+
+
+This cookie tracks when email recipients receive a 404 error.
+
+
+Session
+
+
+1st Party
+
+
+Marketo Login
+
+
+This cookie maintains your active login session to Marketo.
+
+
+Session
+
+
+1st Party
+
+
+Swiftype Search
+
+
+This cookie enables search results on the Sites.
+
+
+Session
+
+
+1st Party
+
+
+RSMKTO1
+
+
+These encrypted cookies provide load balancing.
+
+
+Session
+
+
+1st Party
+
+
+bIPS (BIGipServer<pool_name>)
+
+
+These encrypted cookies provide load balancing.
+
+
+Session
+
+
+1st Party
+
+
+OneTrust (OptAnon)
+
+
+These cookies placed by OneTrust enable Marketo’s cookie banners and Cookie Preference Centers.
+
+
+1 year
+
+
+3rd Party
+
+ 
+Performance Cookies.   These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our Sites. They help us to know which pages are popular and see how visitors move around the Sites. If you do not allow these cookies, we will be less able to optimize the Sites’ performance. All information these cookies collect is aggregated and anonymous.
+
+Cookie Name 
+
+
+Description of Purpose
+
+
+Expiration
+
+
+1st / 3rd Party
+
+
+Optimizely
+
+
+These cookies are part of the Optimizely website optimization platform, which performs analytics using aggregated and anonymized data in order to improve the Sites.
+
+
+Session - 2 years
+
+
+3rd Party
+
+
+Google Universal Analytics
+
+
+These cookies are set by Google Universal Analytics. They are used to calculate visitor, session and campaign data for the Sites' analytics reports.
+
+
+<1 hour - 2 years
+ 
+
+
+3rd Party
+
+
+Crazy Egg
+
+
+These cookies are set by Crazy Egg Inc. They provide aggregate web analytics and heat mapping based on how visitors interact with pages on the Sites.
+ 
+
+
+2 years
+ 
+
+
+3rd Party
+
+
+HotJar
+
+
+These cookies are set by HotJar Ltd. They provide aggregate web analytics and heat mapping based on how visitors interact with pages on the Sites.
+ 
+
+
+Session
+
+
+3rd Party
+
+ 
+Functional Cookies.  These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies some services may not function properly. These cookies do not directly store personal information, but are based on uniquely identifying your browser and internet device. 
+
+Cookie Name 
+
+
+Description of Purpose
+
+
+Expiration
+
+
+1st / 3rd Party
+
+
+Attribution Cookie (_ppcMktoCmp)
+
+
+This cookie is set by Marketo with an ID from the link that brought you to the page.
+
+
+30 days
+
+
+1st Party
+
+
+LivePerson 
+
+
+These cookies are set by the LivePerson chat sofware used to enable live chat on a website.
+
+
+Session - 2 years
+ 
+
+
+3rd Party
+
+
+Drift
+
+
+These cookies are set by the Drift chatbot software used to enable live chat on a website.
+ 
+
+
+Session - 2 years
+ 
+
+
+3rd Party
+
+
+Marketo RTP
+
+
+These cookies are set by Marketo as part of its Web Personalization and ContentAI Products. They deliver customized content and features based on user choices, past browsing, and inferred information.
+ 
+
+
+Session - 2 years
+
+
+1st Party
+
+
+Marketo Munchkin (_mkto_trk)
+
+
+This cookie is set by Marketo. This allows a website to track visitor behavior on the sites on which the cookie is installed and to link a visitor to the recipient of an email marketing campaign, to measure campaign effectiveness. Tracking is performed anonymously until a user identifies himself by submitting a form.
+
+
+2 years
+
+
+1st Party
+
+ 
+Targeting Cookies.   These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other sites. If you do not allow these cookies, you will experience less targeted advertising. These cookies do not directly store personal information, but are based on uniquely identifying your browser and internet device. 
+
+Cookie Name 
+
+
+Description of Purpose
+
+
+Expiration
+
+
+1st / 3rd Party
+
+
+Google AdWords
+
+
+These cookies enable behavioral advertising and analytics on the Google AdWords platform.
+
+
+30 days – 2 years
+
+
+3rd Party
+
+
+Google (Youtube)
+
+
+These cookies enable behavioral advertising and analytics by Google.
+
+
+2 years
+
+
+3rd Party
+
+
+Microsoft Bing
+
+
+These cookies enable behavioral advertising and analytics by Microsoft Bing.
+
+
+2 years
+
+
+3rd Party
+
+
+Facebook 
+
+
+These cookies and tracking pixels enable behavioral advertising and analytics by Facebook.
+
+
+2 years
+
+
+3rd Party
+
+
+LinkedIn 
+
+
+These cookies enable behavioral advertising and analytics by LinkedIn.
+
+
+2 years
+
+
+3rd Party
+
+
+Twitter
+
+
+These cookies enable behavioral advertising and analytics by Twitter.
+
+
+2 years
+
+
+3rd Party
+
+ 
+Statistics Cookies.   These cookies are used for limited site statistics and audience measurement. 
+
+Cookie Name 
+
+
+Description of Purpose
+
+
+Expiration
+
+
+1st / 3rd Party
+
+
+Adobe Experience Cloud Visitor ID
+
+
+This cookie is used for limited site statistics and audience measurement. To learn more or opt out.
+
+
+Session
+
+
+1st Party
+
+ 
+4.  Web Beacons
+Cookies are not the only way to recognize or track visitors to a website.  We may use other, similar technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs").  These are tiny graphics files that contain a unique identifier that enable us to recognize when someone has visited our Sites or opened an e-mail that we have sent them. This allows us, for example, to monitor the traffic patterns of users from one page within our Sites to another, to deliver or communicate with cookies, to understand whether you have come to our Sites from an online advertisement displayed on a third-party website, to improve site performance, and to measure the success of e-mail marketing campaigns.  In many instances, these technologies are reliant on cookies to function properly, and so declining cookies will impair their functioning.
+5. Social Media Features
+Our Sites may use social media features, such as the Facebook ‘like’ button (“Social Media Features”). These features may collect your IP address and which page you are visiting on our Sites, and may set a cookie to enable the feature to function properly. You may be given the option by such Social Media Features to post information about your activities on our Sites to a profile page of yours that is provided by a third party social media network in order to share with others within your network. Social Media Features are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are governed by the privacy policy of the company providing the relevant Social Media Features.
+6. Flash Cookies or Local Shared Objects
+Our Sites may also use so-called "Flash Cookies" to, among other things, collect and store information about your use of our services, fraud prevention and for other site operations.
+If you do not want Flash Cookies stored on your computer, you can adjust the settings of your Flash player to block Flash Cookies storage using the tools contained in the Website Storage Settings Panel. You can also control Flash Cookies by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash Cookies (referred to "information" on the Adobe site), how to prevent Flash Cookies from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash Cookies that are not being delivered by the operator of the page you are on at the time). 
+Please note that setting the Flash Player to restrict or limit acceptance of Flash Cookies may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with our services or online content.
+7.  Targeted Online and Mobile Advertising
+Marketo has engaged one or more third party service providers to track and analyze both individualized usage and volume statistical information from interactions with our Sites. Third party service providers may also serve cookies on your computer or mobile device to serve advertising through our Sites and provide other personalization services in accordance with this Cookie Policy. These companies may collect and use information about your visits to our Sites and other websites in order to provide relevant advertisements about goods and services that may interest you. They may also employ technology that is used to measure and track the effectiveness of advertisements. This can be accomplished by the use of cookies or web beacons to collect information about your visits to our Sites and other sites in order to provide relevant advertisements about goods and services of potential interest to you. The information collected through this process does not enable us or them to identify your name, contact details or other personal information that directly identifies you unless you choose to provide these. 
+8.  How Do I Manage Cookies?
+In addition to the options provided above, you have the right to refuse or accept cookies from the Sites at any time by activating settings on your browser.  Information about the procedure to follow in order to enable or disable cookies can be found on your Internet browser provider’s website via your help screen.  You may wish to refer to http://www.allaboutcookies.org/manage-cookies/index.html for information on commonly used browsers.  Please be aware that if cookies are disabled, not all features of the Sites may operate as intended.
+You can adjust your cookie preferences by adjusting your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether.  The Help function within your browser should explain how to do this.  Alternatively, you may visit www.aboutcookies.org or www.allaboutcookies.org to obtain detailed information on how to prevent cookies from being set on your particular browser.
+ If you want to clear all cookies left behind by the websites you have visited, here are links where you can download three programs that clean out tracking cookies:
+o   http://www.lavasoftusa.com/products/ad-aware_se_personal.php, 
+o   http://www.spybot.info/en/download/index.html, and 
+o   http://www.webroot.com/consumer/products/spysweeper/. 
+ 
+
+
+
+
+
+
+
+
+
+Marketo Documents
+→ 
+²
+
+Home
+
+
+
+© Copyright 2022 Marketo, Inc. All rights reserved.
+
+
+
+
+
+

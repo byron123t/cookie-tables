@@ -1,0 +1,164 @@
+Policies - Whereby Support Center
+Toggle Navigation
+Home
+Policies
+For any service you use for your business we know it's important to understand the fine print to make sure it's the right fit for you
+Our full Terms of Service are available at  https://whereby.com/information/tos/ but a few highlights can be found here:
+In this article
+Prohibited User Content
+GDPR and Data Accessibility
+Cookies
+Fair Use
+Refunds
+Prohibited User Content
+Nothing is more uncomfortable than NSFW content in your Whereby room during an important business meeting
+So please, use Whereby for what it is intended for: a lightweight, easy to use way to collaborate with others without having to be limited to a geographical location
+It's up to you to use Whereby appropriately and lawfully
+If any of your content (including room names, display names, and profile pictures) falls within the list below, your subscription will be terminated without refund.
+Prohibited User Content includes, without limitation, content which:
+is offensive, such as User Content that engages in, endorses or promotes racism, bigotry, discrimination, hatred, harassment or physical harm of any kind against any group or individual;
+displays or links to pornographic, sexually explicit or any other indecent material;
+promotes or endorses false or misleading information or illegal activities or conduct that is abusive, threatening, obscene, defamatory or libelous;
+promotes or endorses an illegal or unauthorized copy of another person's copyrighted work;
+infringes on other’s trademarks, copyright or legal rights
+contains restricted or password only access pages or hidden pages or images;
+solicits passwords or personal data from other users
+or
+violates the rights of or harms or threatens the safety of other users or the Service.
+shares Personal information about others, without their consent
+GDPR and Data Accessibility
+As of May 25, 2018, Whereby joined other services in becoming compliant under the General Data Protection Regulation legislation
+Users are able to  export and delete their data from their Whereby profile page
+Additionally all registered users have the ability to manage their e-mail content settings.
+Note
+We've recently updated our DPA, you can learn more about the changes in our January 2022 update to our Data Processing Agreement for more information.
+Cookies
+Here's our up to date list of cookies you may run into while using Whereby:
+Domain
+Name
+Description
+Type
+app.intercom
+Intercom
+Data collected by Whereby in order to deliver personalised, behavioural based, email comms.
+First-party, persistent
+whereby.com
+django_language
+Used to remember language setting of user in the Content Management System of Whereby
+First-party, persistent
+whereby.com
+amplitude  _idwhereby.com
+Usage and navigation events sent to Amplitude, Inc
+(analytics provider and Data Processor for Whereby)
+First-party, persistent
+whereby.com
+amplitude_id_  sandboxwhereby.com
+Usage and navigation events under testing sent to Amplitude, Inc
+(analytics provider and Data Processor for Whereby)
+First-party, persistent
+whereby.com
+__stripe_mid
+Data collected by Whereby for our payment processor Stripe
+First-party, persistent
+whereby.com
+__stripe_sid
+Data collected by Whereby for our payment processor Stripe
+First-party, persistent
+whereby.com
+_ga
+Google Universal Analytics - This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier
+It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports
+Opt-out:  https://tools.google.com/dlpage/gaoptout
+First-party, persistent
+whereby.com
+_gid
+Usage and navigation events sent to Amplitude (analytics provider) - expires after 24 hours
+Opt-out:  https://tools.google.com/dlpage/gaoptout
+First-party, session-based
+whereby.com
+_gat
+Google Universal Analytics - it is used to throttle the request rate - limiting the collection of data on high traffic sites
+Expires after 1 minute
+Opt-out:  https://tools.google.com/dlpage/gaoptout
+First-party, session-based
+m.stripe.network
+nsr
+Data collected by our payment processor Stripe for fraud detection https://stripe.com/cookies-policy/legal
+Third-party, persistent
+getstarted.whereby.com
+fr
+Ads targeting cookie for Facebook
+Used on landing pages separate from whereby.com and used to track engagement with users directly acquired by Facebook marketing activities, if the user accepts.
+Third-party, session-based
+getstarted.whereby.com
+goog_report_conversion
+Ads conversion cookie for Google
+Used on landing pages separate from whereby.com and used to track engagement with users directly acquired by marketing activities, if the user accepts.
+Third-party, session-based
+getstarted.whereby.com
+UserMatchHistory
+LinkedIn Ads ID syncing
+Used on landing pages separate from whereby.com and used to track engagement with users directly acquired by marketing activities, if the user accepts.
+Third-party, session-based
+getstarted.whereby.com
+personalization_id
+Ads targeting cookie for Twitter
+Used on landing pages separate from whereby.com and used to track engagement with users directly acquired by marketing activities, if the user accepts
+Third-party, session-based
+Want to delete or block these guys? Pick your browser from the list below:
+Chrome: https://support.google.com/chrome/answer/95647?hl=en
+Firefox:
+https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+Edge:
+https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy
+Opera:
+http://www.opera.com/help/tutorials/security/cookies/
+Safari (limited Whereby support):
+https://support.apple.com/en-gb/guide/safari/sfri11471/mac
+Note
+If you have been using Whereby for a long time, you may see cookies from services that are not listed above
+Your browser may still contain old cookies that were set by us and our partners before the GDPR came into effect
+These cookies are not sending data that is processed by us today, and if you are concerned about privacy, you can delete them one by one, or delete all the cookies for Whereby through your browser (please note: this will log you out of Whereby).
+Fair Use
+This policy governs use of all Whereby plans as listed on our pricing page, and is a supplement to our Terms of Service
+In order to provide affordable video meetings to as many users as possible, we require users to comply with this policy to prevent excessive or abusive usage that may result in unreasonable costs for us as a company and/or service degradation for other users
+We have prepared this Fair Use Policy ("Policy") as a guide for our users to understand the intended and permissible uses of our service, and to prevent exploitation, fraud, and abuse of our unlimited usage plans.
+How can I use Whereby?
+Whereby is intended for normal, legitimate business use
+This means use for video meetings during business hours (in the room owner’s time zone).
+What is considered “Fair use”?
+We may benchmark usage patterns of customers on different plan types to understand what levels of usage are normal by typical customers on the plan, and may use this to identify Users or Customers who have abnormal usage patterns.
+Whereby may determine that abnormal, unreasonable or impermissible usage is occurring, and may take appropriate steps, including suspension or termination of service, even if the number of minutes used is not excessive, when a customer's calling patterns during more than one month reflect excessive:
+volume of meetings
+visitors to a room
+meeting lengths;
+uninterrupted meeting recordings;
+excessive recorded meeting length;
+meetings outside of normal business hours;
+other calling patterns indicative of an attempt to evade enforcement of this Fair Use Policy
+Explicitly, “Large Size” meeting rooms may not be used for security monitoring or continuously running telepresence.
+Consequences of breach
+Unauthorized or excessive use beyond that normally experienced by business customers may result in immediate account or plan termination with no refund.
+Refunds
+Our team works hard to make sure you have a service that fits you well
+We work with refund requests on a case by case basis
+However, all invoices older than 90 days will be deemed correct and ineligible for refund consideration.
+Past Due Accounts
+Accounts that are 45 days past due will be automatically cancelled and downgraded
+In this case, some rooms may be removed from your account at that time.
+Last updated on July 12, 2022
+Toggle Search
+Categories
+Getting Started
+Plans
+FAQ
+Troubleshooting
+Meeting Controls
+Room Management
+Billing & Subscriptions
+Whereby Embedded
+No results found
+©
+Whereby
+2022
+Powered by Help Scout

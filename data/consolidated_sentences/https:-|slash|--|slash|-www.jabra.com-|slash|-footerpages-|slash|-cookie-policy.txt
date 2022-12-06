@@ -1,0 +1,584 @@
+Cookie Policy
+Powered by CookiebotConsentDetails[#IABV2SETTINGS#]AboutThis website uses cookiesWe use cookies to personalise content and ads, to provide social media features and to analyse our traffic
+We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services
+Consent SelectionNecessary Preferences Statistics Marketing Show detailsNecessary  592 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+The website cannot function properly without these cookies.Cookiebot39Learn more about this providerCookieConsent [x39]Stores the user's cookie consent state for the current domainExpiry: 1 yearType: HTTPGoogle5Learn more about this providertest_cookieUsed to check if the user's browser supports cookies.Expiry: 1 dayType: HTTP_GRECAPTCHAThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: 179 daysType: HTTPrc::aThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: PersistentType: HTMLrc::bThis cookie is used to distinguish between humans and bots
+Expiry: SessionType: HTMLrc::cThis cookie is used to distinguish between humans and bots
+Expiry: SessionType: HTMLJabra3Learn more about this providercookies.jsDetermines whether the visitor has accepted the cookie consent box
+This ensures that the cookie consent box will not be presented again upon re-entry
+Expiry: SessionType: HTTPAWSALBRegisters which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+Expiry: 7 daysType: HTTPAWSALBCORSRegisters which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+Expiry: 6 daysType: HTTPLinkedIn1Learn more about this providerli_gcStores the user's cookie consent state for the current domainExpiry: 179 daysType: HTTPYandex4Learn more about this providersync_cookie_csrf [x2]Used in connection with the synchronisation between the website and third-party Data Management Platform
+The cookie serves to monitor this process for security reasons
+Expiry: 1 dayType: HTTPi [x2]Preserves users states across page requests.Expiry: 10 yearsType: HTTPYouku.com1Learn more about this providerXSRF-TOKENEnsures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+Expiry: SessionType: HTTPcdn.dreamdata.cloudwww.emea.jabra.comwww.jabra.br.comwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl160#.#-#-#-#-#.ack [x32]Used to contain user’s survey and quiz answers in Local Storage.Expiry: PersistentType: HTML#.#-#-#-#-#.inProgress [x32]Used to contain user’s survey and quiz answers in Local Storage.Expiry: PersistentType: HTML#.#-#-#-#-#.queue [x32]Used to contain user’s survey and quiz answers in Local Storage.Expiry: PersistentType: HTML#.#-#-#-#-#.reclaimEnd [x32]Used to contain user’s survey and quiz answers in Local Storage.Expiry: PersistentType: HTML#.#-#-#-#-#.reclaimStart [x32]Used to contain user’s survey and quiz answers in Local Storage.Expiry: PersistentType: HTMLcompatibilityguideapi.jabra.comjabra.aiproxies.comwww.jabra.cn10ARRAffinitySameSite [x10]Used to distribute traffic to the website on several servers in order to optimise response times.Expiry: SessionType: HTTPdeveloper.jabra.comlinkedin.com2JSESSIONID [x2]Preserves users states across page requests.Expiry: SessionType: HTTPplay.google.comyoutube.com2CONSENT [x2]Used to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+Expiry: 2 yearsType: HTTPrealtime-877.optimove.net2incap_ses_#Preserves users states across page requests.Expiry: SessionType: HTTPvisid_incap_#Preserves users states across page requests.Expiry: 1 yearType: HTTPws.zoominfo.com1visitorIdPreserves users states across page requests.Expiry: 1 yearType: HTTPwww.apac.jabra.comwww.jabra.br.comwww.jabra.cnaz416426.vo.msecnd.netwww.jabra.com.trwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.iewww.jabra.inwww.jabra.jpwww.jabra.latwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.rowww.jabra.sewww.jabra.sgwww.jabraheadsets.ch102AI_buffer [x34]Used in context with the "AI_sentBuffer" in order to limit the number of data-server-updates (Azure)
+This synergy also allows the website to detect any duplicate data-server-updates
+Expiry: SessionType: HTMLAI_sentBuffer [x34]Used in context with the "AI_buffer" in order to limit the number of data-server-updates (Azure)
+This synergy also allows the website to detect any duplicate data-server-updates
+Expiry: SessionType: HTMLai_session [x34]Preserves users states across page requests.Expiry: 1 dayType: HTTPwww.apac.jabra.comwww.jabra.br.comwww.jabra.cnwww.jabra.com.trwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.iewww.jabra.inwww.jabra.jpwww.jabra.latwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.rowww.jabra.sewww.jabra.sgwww.jabraheadsets.ch68ASP.NET_SessionId [x34]Preserves the visitor's session state across page requests.Expiry: SessionType: HTTPbasket-id [x34]Necessary for the shopping cart functionality on the website.Expiry: PersistentType: HTMLwww.apac.jabra.comwww.jabra.br.comwww.jabra.cnwww.jabra.com.trwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.inwww.jabra.jpwww.jabra.latwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.rowww.jabra.sewww.jabra.sgwww.jabraheadsets.ch33__RequestVerificationToken [x33]Helps prevent Cross-Site Request Forgery (CSRF) attacks.Expiry: SessionType: HTTPwww.apac.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.iewww.jabra.inwww.jabra.jpwww.jabra.latwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.rowww.jabra.sewww.jabra.sgwww.jabraheadsets.ch32debug [x32]This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.Expiry: PersistentType: HTMLwww.apac.jabra.comwww.jabra.fiwww.jabra.jpwww.jabra.latwww.jabra.nlwww.jabra.nowww.jabra.sewww.jabra.sgwww.jabraheadsets.chwww.jabra.com.trwww.jabra.hkwww.jabra.iewww.jabra.inwww.jabra.plwww.jabra.rojabra.br.comjabra.czjabra.esjabra.fr33LocalBypassDomainRedirect [x33]Used in context with the language setting on the website
+Facilitates the translation into the preferred language of the visitor.Expiry: SessionType: HTTPwww.emea.jabra.comwww.jabra.cnwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.iewww.jabra.jpwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.rowww.jabra.sewww.jabra.sgwww.jabraheadsets.ch48__cq_dnt [x24]This opt-out cookie identifies if the visitor has deselected any cookies, trackers or other audience targeting tools.Expiry: SessionType: HTTPsid [x24]Preserves users states across page requests.Expiry: SessionType: HTTPwww.jabra.rujabra.br.comjabra.cnjabra.com.trjabra.czjabra.esjabra.fijabra.frjabra.hkwww.jabra.iejabra.injabra.jpjabra.latjabra.nljabra.nojabra.pljabra.rojabra.sejabra.sgjabraheadsets.ch34BypassDomainRedirect [x34]PendingExpiry: SessionType: HTTPwww.jabraheadsets.ch1AITR_OnErrorThis cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.Expiry: SessionType: HTMLwww.mea.jabra.comjabra.aiproxies.comwww.jabra.cn10ARRAffinity [x10]Used to distribute traffic to the website on several servers in order to optimise response times.Expiry: SessionType: HTTPzoominfo.com1__cf_bmThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: 1 dayType: HTTPPreferences  56 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.Alibaba.com3Learn more about this provideryt/youkuplayer.fdl.playerckeyThis cookie is used in conjunction with the video player
+The cookie remembers if the user has muted the volume and keeps this setting on other video content watched by the visitor.Expiry: SessionType: Pixelyt/youkuplayer.fdl.ykplayer_processThis cookie is used in conjunction with the video player
+The cookie remembers if the user has muted the volume and keeps this setting on other video content watched by the visitor.Expiry: SessionType: Pixelyt.gifThis cookie is used in conjunction with the video player
+The cookie remembers if the user has muted the volume and keeps this setting on other video content watched by the visitor.Expiry: SessionType: PixelCookiebot1Learn more about this providerCookieConsentBulkSetting-#Enables cookie consent across multiple websitesExpiry: PersistentType: HTMLDrift4Learn more about this providerDRIFT_SESSION_IDAllows the website to recoqnise the visitor, in order to optimize the chat-box functionality
+Expiry: SessionType: HTMLDRIFT_SESSION_STARTEDStores a unique ID string for each chat-box session
+This allows the website-support to see previous issues and reconnect with the previous supporter
+Expiry: SessionType: HTMLDRIFT_visitCountsDetermines the number of visits of the specific visitor
+This is used in order to make the chat-box function more relevant.Expiry: PersistentType: HTMLdriftt_aidNecessary for the functionality of the website's chat-box function
+Expiry: 2 yearsType: HTTPLinkedIn2Learn more about this providerlang [x2]Remembers the user's selected language version of a websiteExpiry: SessionType: HTTPSpotify1Learn more about this providerloglevelMaintains settings and outputs when using the Developer Tools Console on current session.Expiry: PersistentType: HTMLYouTube1Learn more about this provideryt-player-bandwidthUsed to determine the optimal video quality based on the visitor's device and network settings
+Expiry: PersistentType: HTMLYouku.com1Learn more about this providerYK_PSL_SETTINGSUsed to save information about the visitor's video settings
+Expiry: PersistentType: HTMLcdn.cquotient.comwww.jabra.eswww.jabra.sg19weird_get_top_level_domain [x19]The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.Expiry: SessionType: HTTPwww.emea.jabra.comwww.jabra.cnwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.iewww.jabra.jpwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.rowww.jabra.sewww.jabra.sgwww.jabraheadsets.ch24GlobalE_Data [x24]Contains the region for the current user
+This allow the website to show content such as currency and tax rates relevant for that specific region
+Expiry: 6 daysType: HTTPStatistics  747 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.Google4Learn more about this provider_gat [x2]Used by Google Analytics to throttle request rateExpiry: 1 dayType: HTTP_gid [x2]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 1 dayType: HTTPIssuu4Learn more about this provider__qcaCollects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.Expiry: PersistentType: HTMLqcSesCollects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.Expiry: SessionType: HTMLsessionPageNumbersSets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: SessionType: HTMLsessionStartTimeDetermines when the visitor last visited the different subpages on the website, as well as sets a timestamp for when the session started.Expiry: SessionType: HTMLJabra4Learn more about this provider_ym_afrSets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: PersistentType: HTML_ym_afr:vSets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: PersistentType: HTMLFPIDRegisters statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: 2 yearsType: HTTPFPLCRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 1 dayType: HTTPLinkedIn1Learn more about this providerAnalyticsSyncHistoryUsed in connection with data-synchronization with third-party analysis service
+Expiry: 29 daysType: HTTPMedia.net2Learn more about this providercksync.phpThis cookie is used to determine if cookie data synchronization is enabled or disabled – cookie data synchronization is used to synchronize and gather visitor data on several domains.Expiry: SessionType: Pixelvisitor-idThis cookie is used to collect information on the visitor
+This information will be stored for internal analytics at the website's operator – Internal analytics is used by websites to optimize their domains.Expiry: 1 yearType: HTTPMicrosoft2Learn more about this providerc.gifCollects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner.Expiry: SessionType: PixelCLIDCollects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner.Expiry: 1 yearType: HTTPNeustar1Learn more about this providerabThis cookie is used by the website’s operator in context with multi-variate testing
+This is a tool used to combine or change content on the website
+This allows the website to find the best variation/edition of the site
+Expiry: 1 yearType: HTTPNew Relic2Learn more about this providerevents/1/#Used to monitor website performance for statistical purposes.Expiry: SessionType: Pixeljserrors/1/#PendingExpiry: SessionType: PixelTaobao.com1Learn more about this providerx5secdataRegisters statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: 1 dayType: HTTPWufoo2Learn more about this providerep201 [x2]Gathers information on the user’s interaction with the SurveyMonkey-Widget on the website, for statistical analysis and website optimization
+Expiry: 1 dayType: HTTPYandex6Learn more about this provider__vw_tab_guidRegisters data on visitors' website-behaviour
+This is used for internal analysis and website optimization
+Expiry: SessionType: HTML_ym_retryReqsRegisters statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: PersistentType: HTMLyandexuid [x2]Registers data on visitors' website-behaviour
+This is used for internal analysis and website optimization
+Expiry: 10 yearsType: HTTPymex [x2]Registers data on visitors' website-behaviour
+This is used for internal analysis and website optimization
+Expiry: 1 yearType: HTTPYouTube1Learn more about this provideryt-player-headers-readableUsed to determine the optimal video quality based on the visitor's device and network settings
+Expiry: PersistentType: HTMLYouku.com3Learn more about this providerAPLUS_CNARegisters statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: PersistentType: HTMLAPLUS_LS_KEYRegisters statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: PersistentType: HTMLxlly_sCollects data on visitor interaction with the website's video-content
+This data is used to make the website's video-content more relevant towards the visitor
+Expiry: 1 dayType: HTTPcdn.dreamdata.cloudjabra.com2ajs_anonymous_id [x2]This cookie is used to identify a specific visitor - this information is used to identify the number of specific visitors on a website.Expiry: 1 yearType: HTTPcdn.dreamdata.cloudwww.emea.jabra.comwww.jabra.br.comwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl30ajs_anonymous_id [x30]This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.Expiry: PersistentType: HTMLd23x0bpv9xixis.cloudfront.netjabra.com25__blka_ts [x25]Detects whether the user is inactive on the website to end the session within a limited timespan
+Expiry: SessionType: HTTPjabra.aiproxies.com3_pk_uidUsed by Piwik Analytics Platform to identify the visitor on repeat visits to the website.Expiry: 1 yearType: HTTP_pk_id#Collects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Expiry: 1 yearType: HTTP_pk_ses#Used by Piwik Analytics Platform to track page requests from the visitor during the session.Expiry: 1 dayType: HTTPjabra.mavenoid.comwww.fr.jabra.cawww.jabra.br.comwww.jabra.cnwww.jabra.czwww.jabra.eswww.jabra.frwww.jabra.hkwww.jabra.iewww.jabra.latwww.jabra.plwww.jabra.rowww.jabra.se34mavenoid-embedded-visitor-id [x34]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: PersistentType: HTMLsc-static.net1X-ABThis cookie is used by the website’s operator in context with multi-variate testing
+This is a tool used to combine or change content on the website
+This allows the website to find the best variation/edition of the site
+Expiry: 1 dayType: HTTPsc-static.netwww.emea.jabra.comwww.jabra.br.comwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl33u_scsid [x33]Registers data on visitors' website-behaviour
+This is used for internal analysis and website optimization
+Expiry: SessionType: HTMLscript.hotjar.comemea.jabra.comwww.jabra.cnwww.jabra.com.trwww.jabra.hkwww.jabra.iewww.jabra.latwww.jabra.se34_hjIncludedInSessionSample [x34]Registers data on visitors' website-behaviour
+This is used for internal analysis and website optimization
+Expiry: 1 dayType: HTTPscript.hotjar.comwww.fr.jabra.cawww.jabra.cnwww.jabra.com.trwww.jabra.hkwww.jabra.iewww.jabra.latwww.jabra.se140_hjAbsoluteSessionInProgress [x28]This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.Expiry: 1 dayType: HTTP_hjFirstSeen [x28]This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.Expiry: 1 dayType: HTTP_hjSession_# [x28]Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Expiry: 1 dayType: HTTP_hjSessionUser_# [x28]Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Expiry: 1 yearType: HTTP_hjTLDTest [x28]Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: SessionType: HTTPsnap.licdn.comemea.jabra.comwww.jabra.br.comwww.jabra.inwww.jabra.lat15ln_or [x15]Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: 1 dayType: HTTPtr.lfeeder.comtr-rc.lfeeder.com2https://#.#/ [x2]Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: SessionType: Pixelwec-assets.terminus.serviceswww.emea.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl35d-a8e6 [x35]Allows for tracking same session data across multiple browser tabs and sessions.Expiry: 1 yearType: HTTPwidget.happyfoxchat.comwww.jabra.ie2visited [x2]Unique user ID that recognizes the user on returning visitsExpiry: PersistentType: HTMLws.zoominfo.com1ziwsSessionCollects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Expiry: SessionType: HTMLws.zoominfo.comwww.emea.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.inwww.jabra.jpwww.jabra.latwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.sewww.jabra.sgwww.jabraheadsets.ch25ziwsSessionId [x25]Collects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Expiry: SessionType: HTMLwww.apac.jabra.comscript.hotjar.comwww.jabra.cnwww.jabra.com.trwww.jabra.hkwww.jabra.iewww.jabra.latwww.jabra.se34_hjIncludedInPageviewSample [x34]Used to detect whether the user navigation and interactions are included in the website’s data analytics
+Expiry: 1 dayType: HTTPwww.apac.jabra.comwww.jabra.br.comwww.jabra.cnaz416426.vo.msecnd.netwww.jabra.com.trwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.iewww.jabra.inwww.jabra.jpwww.jabra.latwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.rowww.jabra.sewww.jabra.sgwww.jabraheadsets.ch34ai_user [x34]Used by Microsoft Application Insights software to collect statistical usage and telemetry information
+The cookie stores a unique identifier to recognize users on returning visits over time.Expiry: 1 yearType: HTTPwww.apac.jabra.comwww.jabra.br.comwww.jabra.cnwww.jabra.com.trwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.iewww.jabra.inwww.jabra.jpwww.jabra.latwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.rowww.jabra.sewww.jabra.sgwww.jabraheadsets.ch34SC_ANALYTICS_GLOBAL_COOKIE [x34]Used by Sitecore Engagement Analytics to identify the visitor on repeat visits to the website.Expiry: 10 yearsType: HTTPwww.clarity.mswww.it.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.iewww.jabra.lat26_cltk [x26]Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: SessionType: HTMLwww.emea.jabra.comwww.jabra.cnwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.iewww.jabra.jpwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.rowww.jabra.sewww.jabra.sgwww.jabraheadsets.ch24dwanonymous_UID{32} [x24]This cookie contains a specific ID on the visitor in order to distinguish visitors
+This information allows the website to remember the visitor’s preferences, settings and secures the functionality of the shopping basket.Expiry: 179 daysType: HTTPwww.google-analytics.comgtm.jabra.iegtm.jabra.rogtmdev.jabra.br.comgtmdev.jabra.cagtmdev.jabra.cngtmdev.jabra.com.trgtmdev.jabra.czgtmdev.jabra.esgtmdev.jabra.figtmdev.jabra.frgtmdev.jabra.hkgtmdev.jabra.ingtmdev.jabra.jpgtmdev.jabra.latgtmdev.jabra.nlgtmdev.jabra.nogtmdev.jabra.plgtmdev.jabra.segtmdev.jabra.sggtmdev.jabraheadsets.ch29collect [x29]Used to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.Expiry: SessionType: Pixelwww.jabra.br.comanalytics.tiktok.comwww.jabra.co.ukwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl27_tt_enable_cookie [x27]Used by the social networking service, TikTok, for tracking the use of embedded services.Expiry: 1 yearType: HTTPwww.jabra.br.comgtmdev.jabra.cagtmdev.jabra.cnwww.googletagmanager.comwww.jabra.com.trgtmdev.jabra.czwww.jabra.esgtmdev.jabra.figtmdev.jabra.frconsent.cookiebot.comwww.jabra.iewww.jabra.inwww.jabra.latgtmdev.jabra.nlgtmdev.jabra.nowww.jabra.plgtm.jabra.rogtmdev.jabra.segtmdev.jabra.sggtmdev.jabraheadsets.ch56_ga [x28]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 399 daysType: HTTP_ga_# [x28]Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit
+Expiry: 399 daysType: HTTPwww.jabra.br.comwww.clarity.mswww.jabra.co.ukwww.jabra.com.trwww.jabra.iewww.jabra.lat40_clck [x20]Collects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner.Expiry: 1 yearType: HTTP_clsk [x20]Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: 1 dayType: HTTPwww.jabra.br.comwww.google-analytics.comwww.jabra.co.ukwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl28_dc_gtm_UA-# [x28]Used by Google Tag Manager to control the loading of a Google Analytics script tag.Expiry: 1 dayType: HTTPMarketing  992 Marketing cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.360yield.combidswitch.net4tuuid [x2]Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 3 monthsType: HTTPtuuid_lu [x2]Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites
+This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times
+Expiry: 3 monthsType: HTTP6sc.co16suuidRegisters user behaviour and navigation on the website, and any interaction with active campaigns
+This is used for optimizing advertisement and for efficient retargeting
+Expiry: 2 yearsType: HTTPAdobe2Learn more about this providerdemconf.jpgSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+Expiry: SessionType: PixeldpmSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: 179 daysType: HTTPAdobe Inc.1Learn more about this providerdemdexVia a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads.Expiry: 179 daysType: HTTPAlibaba.com1Learn more about this provideratpsidaRegisters a unique ID that identifies the user's device during return visits
+Used for conversion tracking and to measure the efficacy of online ads.Expiry: SessionType: HTTPAppnexus1Learn more about this provideruuid2Registers a unique ID that identifies a returning user's device
+The ID is used for targeted ads.Expiry: 3 monthsType: HTTPBaidu3Learn more about this providerhm.gifUsed to send data to Baidu about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.Expiry: SessionType: PixelHMACCOUNTUsed to send data to Baidu about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.Expiry: 5575 daysType: HTTPHMACCOUNT_BFESSUsed to send data to Baidu about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.Expiry: 5575 daysType: HTTPBidswitch2Learn more about this providercRegulates synchronisation of user identification and exchange of user data between various ad services.Expiry: 1 yearType: HTTPul_cb/syncCollects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website.Expiry: SessionType: PixelBluekai.com1Learn more about this providersite/#PendingExpiry: SessionType: PixelCasale Media5Learn more about this providerCMIDCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 1 yearType: HTTPCMPROCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: 3 monthsType: HTTPCMPSCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 3 monthsType: HTTPCMTSCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 3 monthsType: HTTPrumCollects data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: SessionType: PixelClickagy1Learn more about this providerpixel.gifCollects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.Expiry: SessionType: PixelCriteo6Learn more about this providerdis/rtb/appnexus/cookiematch.aspxSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: SessionType: Pixeldis/rtb/google/cookiematch.aspxSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: SessionType: PixeluidCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 1 yearType: HTTPcriteo_write_testSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: 1 dayType: HTTPcto_bundlePresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: 13 monthsType: HTMLcto_tld_testUsed to identify the visitor across visits and devices
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers
+Expiry: 1 dayType: HTTPDrift2Learn more about this providerdrift_aidSets a unique ID for the specific user
+This allows the website to target the user with relevant offers through its chat functionality
+Expiry: 2 yearsType: HTTPdrift_campaign_refreshSets a unique ID for the specific user
+This allows the website to target the user with relevant offers through its chat functionality
+Expiry: 1 dayType: HTTPGoogle8Learn more about this providerIDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.Expiry: 1 yearType: HTTPpagead/landing [x3]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: SessionType: Pixelpagead/viewthroughconversion/10840609492PendingExpiry: SessionType: Pixelads/ga-audiencesUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.Expiry: SessionType: Pixelpagead/1p-conversion/#Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: SessionType: Pixelpagead/1p-user-list/#Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.Expiry: SessionType: PixelHolimetrix1Learn more about this provider000000000600.gifPendingExpiry: SessionType: PixelImprove Digital6Learn more about this provider0PendingExpiry: SessionType: HTTP0123456789#PendingExpiry: 3 monthsType: HTTP-1Collects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website.Expiry: 3 monthsType: HTTPumRegisters the visitor's behavior on social media - can be used to optimize ad-relevance and general targeting.Expiry: 3 monthsType: HTTPumehUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+Expiry: 3 monthsType: HTTPvarchar (72)PendingExpiry: SessionType: HTTPIssuu1Learn more about this provideriutkRecognises the user's device and what Issuu documents have been read.Expiry: 179 daysType: HTTPJabra1Learn more about this provider_lfaUsed in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes.Expiry: 399 daysType: HTTPLinkedIn5Learn more about this providerbcookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 yearType: HTTPbscookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 yearType: HTTPli_sugrCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant
+Expiry: 3 monthsType: HTTPlidcUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 dayType: HTTPUserMatchHistoryEnsures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+Expiry: 29 daysType: HTTPLiveintent3Learn more about this provider_li_ssSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: 29 daysType: HTTPlididCollects data on visitors' behaviour and interaction - This is used to make advertisement on the website more relevant
+The cookie also allows the website to detect any referrals from other websites
+Expiry: 2 yearsType: HTTPs/68312PendingExpiry: SessionType: PixelLotame1Learn more about this provider_cc_ccCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: SessionType: HTTPMedia.net2Learn more about this providerdata-cPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: 29 daysType: HTTPdata-c-tsCollects data on the user across websites - This data is used to make advertisement more relevant.Expiry: 29 daysType: HTTPMeta Platforms, Inc.2Learn more about this providerfrUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: 3 monthsType: HTTPtrUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: SessionType: PixelMicrosoft10Learn more about this providerMRUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+Expiry: 6 daysType: HTTPMUID [x2]Used widely by Microsoft as a unique user ID
+The cookie enables user tracking by synchronising the ID across many Microsoft domains.Expiry: 1 yearType: HTTPSRM_BTracks the user’s interaction with the website’s search-bar-function
+This data can be used to present the user with relevant products or services
+Expiry: 1 yearType: HTTPANONCHKRegisters data on visitors from multiple visits and on multiple websites
+This information is used to measure the efficiency of advertisement on websites
+Expiry: 1 dayType: HTTPSMRegisters a unique ID that identifies the user's device during return visits across websites that use the same ad network
+The ID is used to allow targeted ads.Expiry: SessionType: HTTP_uetsid [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: 1 dayType: HTTP_uetvid [x2]Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+Expiry: 1 yearType: HTTPNeustar1Learn more about this provideruCollects data on user visits to the website, such as what pages have been accessed
+The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.Expiry: 1 yearType: HTTPOath1Learn more about this providerIDSYNCUsed to identify the visitor across visits and devices
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers
+Expiry: 1 yearType: HTTPOpenx1Learn more about this providerw/1.0/cmPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: SessionType: PixelOutbrain1Learn more about this providerunifiedPixelCollects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner.Expiry: SessionType: PixelQuantcast1Learn more about this providermcCollects data on the user's visits to the website, such as what pages have been loaded
+The registered data is used for targeted ads.Expiry: 13 monthsType: HTTPSalesforce1Learn more about this provider_kuid_Registers a unique ID that identifies a returning user's device
+The ID is used for targeted ads.Expiry: 179 daysType: HTTPSitescout.com1Learn more about this providerssiRegisters a unique ID that identifies a returning user's device
+The ID is used for targeted ads.Expiry: 1 yearType: HTTPSmart1Learn more about this providerredirPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: SessionType: PixelSnap Inc.1Learn more about this providersc_atUsed by Snapchat to implement advertisement content on the website - The cookie detects the efficiency of the ads and collects visitor data for further visitor segmentation.Expiry: 1 yearType: HTTPSpotify2Learn more about this providersp_landingUsed to implement audio-content from Spotify on the website
+Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes
+Expiry: 1 dayType: HTTPsp_tUsed to implement audio-content from Spotify on the website
+Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes
+Expiry: 1 yearType: HTTPThe Trade Desk3Learn more about this providerTDCPMRegisters a unique ID that identifies a returning user's device
+The ID is used for targeted ads.Expiry: 1 yearType: HTTPTDIDRegisters a unique ID that identifies a returning user's device
+The ID is used for targeted ads.Expiry: 1 yearType: HTTPtrack/cmf/genericPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: SessionType: PixelTriplelift1Learn more about this providerxuidPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: SessionType: PixelYahoo1Learn more about this providerA3Collects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website.Expiry: 1 yearType: HTTPYandex19Learn more about this provider_ym#_lastHitPendingExpiry: PersistentType: HTML_ym#_lsidPendingExpiry: PersistentType: HTML_ym#_reqNumPendingExpiry: PersistentType: HTML_ym_dContains the date of the visitor's first visit to the website
+Expiry: 1 yearType: HTTP_ym_isadThis cookie is used to determine if the visitor has any adblocker software in their browser – this information can be used to make website content inaccessible to visitors if the website is financed with third-party advertisement.Expiry: 1 dayType: HTTP_ym_syncedTracks the user’s interaction with the website’s search-bar-function
+This data can be used to present the user with relevant products or services
+Expiry: PersistentType: HTML_ym_uidCollects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner.Expiry: 1 yearType: HTML_ym_visorcSaves information of actions that have been carried out by the user during the current visit to the website, including searches with keywords included.Expiry: 1 dayType: HTTP_ym_wv2rf:#:0PendingExpiry: PersistentType: HTMLmetrika_enabledUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+Expiry: SessionType: HTTPsync_cookie_okUsed for data-synchronization with advertisement networks.Expiry: 1 dayType: HTTPwatch/# [x2]PendingExpiry: SessionType: Pixelwebvisor/# [x2]PendingExpiry: SessionType: Pixelyuidss [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: 10 yearsType: HTTPyabs-sid [x2]Registers data on visitors' website-behaviour
+This is used for internal analysis and website optimization
+Expiry: SessionType: HTTPYouTube13Learn more about this providerVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Expiry: 179 daysType: HTTPYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: SessionType: HTTPyt.innertube::nextIdRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: PersistentType: HTMLyt.innertube::requestsRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: PersistentType: HTMLytidb::LAST_RESULT_ENTRY_KEYStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-player-bandaid-hostUsed to determine the optimal video quality based on the visitor's device and network settings
+Expiry: PersistentType: HTMLyt-remote-cast-availableStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-cast-installedStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-connected-devicesStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-device-idStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-fast-check-periodStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-appStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-nameStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLYouku.com6Learn more about this providerapp.gifCollects data on visitor interaction with the website's video-content
+This data is used to make the website's video-content more relevant towards the visitor
+Expiry: SessionType: PixelAPLUS_CNA_EXPIRESCookie set in connection to user’s interaction with third-party video content embedded on the website
+Collects information such as location of the user, IP-address, and user navigation
+Expiry: PersistentType: HTMLisg__Presents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: PersistentType: HTMLl__Necessary for the implementation of video-content on the website.Expiry: PersistentType: HTMLYK_PSL_RECORDSNecessary for the implementation of video-content on the website.Expiry: PersistentType: HTMLisgSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: 179 daysType: HTTPanalytics.tiktok.comwww.emea.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl104tt_appInfo [x35]Used by the social networking service, TikTok, for tracking the use of embedded services.Expiry: SessionType: HTMLtt_pixel_session_index [x34]Used by the social networking service, TikTok, for tracking the use of embedded services.Expiry: SessionType: HTMLtt_sessionId [x35]Used by the social networking service, TikTok, for tracking the use of embedded services.Expiry: SessionType: HTMLb.6sc.co1v1/beacon/img.gifUsed in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes.Expiry: SessionType: Pixelbat.bing.comwww.it.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.iewww.jabra.lat100_uetsid [x24]Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+Expiry: PersistentType: HTML_uetsid_exp [x26]Contains the expiry-date for the cookie with corresponding name
+Expiry: PersistentType: HTML_uetvid [x24]Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+Expiry: PersistentType: HTML_uetvid_exp [x26]Contains the expiry-date for the cookie with corresponding name
+Expiry: PersistentType: HTMLcdn.dreamdata.cloudjabra.com4ajs_group_id [x2]This cookie is used to assign specific visitors into segments, this segmentation is based on visitor behavior on the website - the segmentation can be used to target larger groups.Expiry: 1 yearType: HTTPajs_user_id [x2]This cookie is used to collect data on the visitor's behavior on the website - this information can be used to assign the visitor to a visitor segment, based on common preferences.Expiry: 1 yearType: HTTPcdn.dreamdata.cloudwww.emea.jabra.comwww.jabra.br.comwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl124ajs_group_id [x30]Collects data on visitors
+This information is used to assign visitors into segments, making website advertisement more efficient
+Expiry: PersistentType: HTMLajs_group_properties [x32]Collects data on visitors
+This information is used to assign visitors into segments, making website advertisement more efficient
+Expiry: PersistentType: HTMLajs_user_id [x30]Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor
+Expiry: PersistentType: HTMLajs_user_traits [x32]Collects data on visitors
+This information is used to assign visitors into segments, making website advertisement more efficient
+Expiry: PersistentType: HTMLcm.adform.netpxl.qccerttest.com2pixel [x2]Collects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website.Expiry: SessionType: Pixelexchange.mediavine.com5am_tokensPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: 13 daysType: HTTPam_tokens_eu-v1Presents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: 13 daysType: HTTPcriteoPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: 13 daysType: HTTPmv_tokensSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: 13 daysType: HTTPmv_tokens_eu-v1Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: 13 daysType: HTTPj.6sc.co12_an_uid [x3]Presents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: 6 daysType: HTTP_gd_session [x3]Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 1 dayType: HTTP_gd_svisitor [x3]Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 2 yearsType: HTTP_gd_visitor [x3]Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 2 yearsType: HTTPlog.mmstat.complayer.youku.com2cna [x2]Presents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: 1 yearType: HTTPmatching.ivitrack.comcriteo-partners.tremorhub.comsync-criteo.ads.yieldmo.com3sync [x3]Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant
+Expiry: SessionType: Pixelrealtime-877.optimove.netstream-877.optimove.net2___utmvc# [x2]Collects information on visitor behaviour on multiple websites
+This information is used on the website, in order to optimize the relevance of advertisement.Expiry: SessionType: HTTPs.thebrighttag.com1csThis cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.Expiry: SessionType: Pixelsc-static.netemea.jabra.comwww.jabra.br.comwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl34_scid [x34]Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: 13 monthsType: HTTPsc-static.netwww.emea.jabra.comwww.jabra.br.comwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl33u_sclid [x33]Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: PersistentType: HTMLsc.lfeeder.comwww.emea.jabra.com6_lfa_test_cookie_stored [x6]Used in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes.Expiry: 1 dayType: HTTPsc.lfeeder.comwww.emea.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.inwww.jabra.jpwww.jabra.latwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.sewww.jabra.sgwww.jabraheadsets.ch55_lfa [x27]Used in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes.Expiry: PersistentType: HTML_lfa_expiry [x28]Contains the expiry-date for the cookie with corresponding name
+Expiry: PersistentType: HTMLsdk.optimove.netwww.emea.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl35#GUID#32 [x35]PendingExpiry: PersistentType: HTMLtr.outbrain.comemea.jabra.comwww.jabra.br.comwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl34outbrain_cid_fetch [x34]Collects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner.Expiry: 1 dayType: HTTPvisitor.omnitagjs.com1visitor/syncThis cookie is used to assign specific visitors into segments, this segmentation is based on visitor behavior on the website - the segmentation can be used to target larger groups.Expiry: SessionType: Pixelwec-assets.terminus.serviceswww.emea.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl35s-9da4 [x35]Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits
+This data can also be used to create leads for marketing purposes.Expiry: 1 dayType: HTTPwww.emea.jabra.comwww.jabra.cnwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.iewww.jabra.jpwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.rowww.jabra.sewww.jabra.sgwww.jabraheadsets.ch48dw_dnt [x24]Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.Expiry: SessionType: HTTPdwsid [x24]This cookie is set to count the number of times a specific visitor is shown a specific ad – the cookie enables the advertisers to differentiate the specific ads shown and thereby making the advertising more efficient.Expiry: SessionType: HTTPwww.jabra.br.comanalytics.tiktok.comwww.jabra.co.ukwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl28_ttp [x28]Used by the social networking service, TikTok, for tracking the use of embedded services.Expiry: 1 yearType: HTTPwww.jabra.br.comcdn.dreamdata.cloudwww.jabra.co.ukwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl78__tld__ [x26]Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+Expiry: SessionType: HTTPajs%3Acookies [x26]Collects data on visitors
+This information is used to assign visitors into segments, making website advertisement more efficient
+Expiry: 1 yearType: HTTPajs%3Atest [x26]Collects data on visitors
+This information is used to assign visitors into segments, making website advertisement more efficient
+Expiry: 1 yearType: HTTPwww.jabra.br.comconnect.facebook.netwww.jabra.co.ukwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl26_fbp [x26]Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: 3 monthsType: HTTPwww.jabra.br.comgtmdev.jabra.cagtmdev.jabra.cnwww.googletagmanager.comwww.jabra.com.trgtmdev.jabra.czwww.jabra.esgtmdev.jabra.figtmdev.jabra.frgtmdev.jabra.hkwww.jabra.iewww.jabra.ingtmdev.jabra.jpwww.jabra.latgtmdev.jabra.nlgtmdev.jabra.nowww.jabra.plgtm.jabra.rogtmdev.jabra.segtmdev.jabra.sggtmdev.jabraheadsets.ch28_gcl_au [x28]Used by Google AdSense for experimenting with advertisement efficiency across websites using their services
+Expiry: 3 monthsType: HTTPwww.jabra.br.comsc-static.netwww.jabra.co.ukwww.jabra.com.trwww.jabra.eswww.jabra.fiwww.jabra.inwww.jabra.latwww.jabra.nowww.jabra.plwww.jabra.sewww.jabra.sgwww.jabraheadsets.ch26_schn [x26]Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits
+This data can also be used to create leads for marketing purposes.Expiry: SessionType: HTTPwww.jabra.cn3Hm_ck_#PendingExpiry: SessionType: HTTPHm_lpvt_#PendingExpiry: SessionType: HTMLHm_lvt_#PendingExpiry: 1 yearType: HTMLwww.jabra.com.auutt.impactcdn.com3IR_gbd [x3]Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network
+The ID is used to allow targeted ads.Expiry: SessionType: HTTPwww.upsellit.comwww.emea.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl35usi_si [x35]Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits
+This data can also be used to create leads for marketing purposes.Expiry: PersistentType: HTMLUnclassified  666Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.Alibaba.com5Learn more about this provideryt/youkuplayer.fdl.errorPendingExpiry: SessionType: Pixelyt/youkuplayer.fdl.h5sendPendingExpiry: SessionType: Pixelyt/youkuplayer.fdl.ykplayer_expPendingExpiry: SessionType: PixelscaPendingExpiry: SessionType: HTTPyt/vp.vdoviewPendingExpiry: SessionType: PixelAmazon4Learn more about this provider__blka__extsPendingExpiry: PersistentType: HTML__blka__gdPendingExpiry: PersistentType: HTMLasProdCampaignIdPendingExpiry: PersistentType: HTMLasProductsViewedPendingExpiry: PersistentType: HTMLBaidu1Learn more about this providerHm_unsent_#PendingExpiry: SessionType: HTMLCriteo1Learn more about this providerievPendingExpiry: SessionType: PixelJabra38Learn more about this providerfilterStringPendingExpiry: SessionType: HTMLon/demandware.store/Sites-jabra-emea-Site/en_BE/__Analytics-StartPendingExpiry: SessionType: Pixeloptimove_popup_152_undefinedPendingExpiry: PersistentType: HTMLon/demandware.store/Sites-jabra-emea-Site/it_IT/__Analytics-StartPendingExpiry: SessionType: Pixelhfc-meta-2cdd8920-611e-11e9-a156-310b091492b9 [x2]PendingExpiry: PersistentType: HTMLhfc-visitor-page-history-2cdd8920-611e-11e9-a156-310b091492b9 [x2]PendingExpiry: PersistentType: HTMLoptimove_popup_58_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_158_undefinedPendingExpiry: PersistentType: HTMLon/demandware.store/Sites-jabra-au-Site/en_NZ/__Analytics-StartPendingExpiry: SessionType: Pixelon/demandware.store/Sites-jabra-uk-Site/en_GB/__Analytics-StartPendingExpiry: SessionType: Pixel_ai_idPendingExpiry: 1 yearType: HTTP_aiidPendingExpiry: SessionType: HTML3d159845PendingExpiry: SessionType: HTMLaddshoppers_fallback_intervalPendingExpiry: PersistentType: HTMLaddshoppers_last_fallbackPendingExpiry: PersistentType: HTMLaitrkPendingExpiry: SessionType: HTMLaudienceLastLoadedDatetimePendingExpiry: PersistentType: HTMLon/demandware.store/Sites-jabra-amer-Site/en_US/__Analytics-StartPendingExpiry: SessionType: Pixeloptimove_popup_46_undefinedPendingExpiry: PersistentType: HTMLuserInfoCachePendingExpiry: PersistentType: HTMLuserInfoLastLoadedDatetimePendingExpiry: PersistentType: HTMLusi_idPendingExpiry: 29 daysType: HTTPIR_14769PendingExpiry: SessionType: HTTPon/demandware.store/Sites-jabra-au-Site/en_AU/__Analytics-StartPendingExpiry: SessionType: Pixelon/demandware.store/Sites-jabra-emea-Site/de_DE/__Analytics-StartPendingExpiry: SessionType: Pixeloptimove_popup_124_undefinedPendingExpiry: PersistentType: HTMLon/demandware.store/Sites-jabra-emea-Site/da_DK/__Analytics-StartPendingExpiry: SessionType: Pixel_ym_afr:iPendingExpiry: PersistentType: HTMLusi_idPendingExpiry: 29 daysType: HTMLusi_pdp_prod_imagePendingExpiry: PersistentType: HTMLusi_pdp_prod_namePendingExpiry: PersistentType: HTMLusi_pdp_prod_original_pricePendingExpiry: PersistentType: HTMLusi_pdp_prod_pricePendingExpiry: PersistentType: HTMLusi_subtotalPendingExpiry: PersistentType: HTMLitemsPendingExpiry: PersistentType: HTMLlastLoadedItemsPendingExpiry: PersistentType: HTMLShop.pe1Learn more about this provideraddshoppersPendingExpiry: 999 daysType: HTTPSnap Inc.1Learn more about this providerpPendingExpiry: SessionType: PixelYouku.com1Learn more about this providerAPLUS_S_CORE_0.#.#_#_#PendingExpiry: PersistentType: HTMLapp.upsellit.comwww.emea.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl34usi_session_data [x34]PendingExpiry: PersistentType: HTMLd23x0bpv9xixis.cloudfront.netjabra.com33__blka_props [x33]PendingExpiry: PersistentType: HTMLd23x0bpv9xixis.cloudfront.netwww.emea.jabra.comwww.jabra.br.comwww.jabra.cnwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.jpwww.jabra.latwww.jabra.pl34__blka_gs [x34]PendingExpiry: SessionType: HTMLd23x0bpv9xixis.cloudfront.netwww.jabra.ca68__blka__build [x34]PendingExpiry: PersistentType: HTML_blka_hit_count [x34]PendingExpiry: PersistentType: HTMLd23x0bpv9xixis.cloudfront.netwww.jabra.cawww.jabra.cnwww.jabra.jp34__blka__buildts [x34]PendingExpiry: PersistentType: HTMLjabra.aiproxies.com2aic-uidPendingExpiry: SessionType: HTTPingestv2.phpPendingExpiry: SessionType: Pixelsdk.optimove.net18optimove_popup_156_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_408_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_136_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_138_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_160_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_122_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_66_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_60_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_64_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_162_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_126_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_396_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_402_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_68_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_150_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_140_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_400_undefinedPendingExpiry: PersistentType: HTMLoptimove_popup_412_undefinedPendingExpiry: PersistentType: HTMLsdk.optimove.netwww.emea.jabra.comwww.jabra.br.comwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl1750b006d8eb623b8ea11b73d61f1e483b47b9d7422 [x35]PendingExpiry: PersistentType: HTML4ba302311571f45d57f1aa75e428b9b78d59a7a2 [x35]PendingExpiry: PersistentType: HTML85bdeae0a9e0dad7fdd022d8f90da5d3a241b3d0 [x35]PendingExpiry: PersistentType: HTML990a6d8eb6cbb8ea44b73d21f1e473b43b9c74ea [x35]PendingExpiry: PersistentType: HTMLd0df7f0a4c2724ff587c1cfb3e315b432e2d1f50 [x35]PendingExpiry: PersistentType: HTMLutt.impactcdn.com2IR_14770PendingExpiry: SessionType: HTTPIR_14746PendingExpiry: SessionType: HTTPwec-assets.terminus.services1391c28bc-1cea-4421-9c40-0bbef6f59240/t.gifPendingExpiry: SessionType: Pixelwidget.happyfoxchat.com4hfc-custom-fields-62f69120-774f-11eb-bb06-f79d5e941ad5PendingExpiry: PersistentType: HTMLhfc-meta-62f69120-774f-11eb-bb06-f79d5e941ad5PendingExpiry: PersistentType: HTMLhfc-pagesHistory-62f69120-774f-11eb-bb06-f79d5e941ad5PendingExpiry: PersistentType: HTMLhfc-visitorAccessToken-62f69120-774f-11eb-bb06-f79d5e941ad5PendingExpiry: PersistentType: HTMLwww.apac.jabra.comwww.jabra.br.comwww.jabra.cnwww.jabra.com.trwww.jabra.czwww.jabra.eswww.jabra.fiwww.jabra.frwww.jabra.hkwww.jabra.iewww.jabra.inwww.jabra.jpwww.jabra.latwww.jabra.nlwww.jabra.nowww.jabra.plwww.jabra.rowww.jabra.sewww.jabra.sgwww.jabraheadsets.ch100history-3-products [x33]PendingExpiry: SessionType: HTMLlast-viewed-devices [x33]PendingExpiry: PersistentType: HTMLweb-store-guest-token [x34]PendingExpiry: PersistentType: HTMLwww.fr.jabra.cawww.jabra.eswww.jabra.fr9optimove_popup_62_undefined [x9]PendingExpiry: PersistentType: HTMLwww.jabra.br.comwww.google-analytics.comwww.jabra.co.ukwww.jabra.com.trwww.jabra.eswww.jabra.iewww.jabra.inwww.jabra.latwww.jabra.pl56jabraga [x28]PendingExpiry: 399 daysType: HTTPjabraga_gid [x28]PendingExpiry: 1 dayType: HTTPwww.jabra.caaddshoppers.s3.amazonaws.com6asAnonPushed [x2]PendingExpiry: PersistentType: HTMLasLastPushedCart [x2]PendingExpiry: PersistentType: HTMLasLastSavedProducts [x2]PendingExpiry: PersistentType: HTMLwww.jabra.cad3rr3d0n31t48m.cloudfront.net6asPageViews [x2]PendingExpiry: PersistentType: HTMLasTimeOnSiteSetTime [x2]PendingExpiry: PersistentType: HTMLasTimeOnSiteValue [x2]PendingExpiry: PersistentType: HTMLwww.jabra.cashop.pe657b77230 [x2]PendingExpiry: PersistentType: HTMLaddshoppers.com [x2]PendingExpiry: 999 daysType: HTTPpixelLastLoadedDatetime [x2]PendingExpiry: PersistentType: HTMLwww.jabra.cashopper.shop.pe2AS_DATA_PRIVACY_DATA_REGULATED [x2]PendingExpiry: PersistentType: HTMLwww.jabra.cn2nps-form-idPendingExpiry: SessionType: HTMLnps-prodreg-form-idPendingExpiry: SessionType: HTMLwww.jabra.cz1on/demandware.store/Sites-jabra-emea-Site/cs_CZ/__Analytics-StartPendingExpiry: SessionType: Pixelwww.jabra.es1optimove_popup_130_undefinedPendingExpiry: PersistentType: HTMLwww.jabra.fi1optimove_popup_132_undefinedPendingExpiry: PersistentType: HTMLwww.jabra.fr2on/demandware.store/Sites-jabra-emea-Site/fr_FR/__Analytics-StartPendingExpiry: SessionType: Pixeloptimove_popup_134_undefinedPendingExpiry: PersistentType: HTMLwww.jabra.hk1on/demandware.store/Sites-jabra-hk-Site/en_HK/__Analytics-StartPendingExpiry: SessionType: Pixelwww.jabra.ie5hfc-custom-fields-86a43c20-7a98-11eb-957a-27882a547ea8PendingExpiry: PersistentType: HTMLhfc-meta-86a43c20-7a98-11eb-957a-27882a547ea8PendingExpiry: PersistentType: HTMLhfc-pagesHistory-86a43c20-7a98-11eb-957a-27882a547ea8PendingExpiry: PersistentType: HTMLhfc-visitorAccessToken-86a43c20-7a98-11eb-957a-27882a547ea8PendingExpiry: PersistentType: HTMLon/demandware.store/Sites-jabra-emea-Site/en_IE/__Analytics-StartPendingExpiry: SessionType: Pixelwww.jabra.jp1on/demandware.store/Sites-jabra-jp-Site/ja_JP/__Analytics-StartPendingExpiry: SessionType: Pixelwww.jabra.lat1optimove_popup_164_undefinedPendingExpiry: PersistentType: HTMLwww.jabra.nl2on/demandware.store/Sites-jabra-emea-Site/nl_NL/__Analytics-StartPendingExpiry: SessionType: Pixeloptimove_popup_142_undefinedPendingExpiry: PersistentType: HTMLwww.jabra.no1on/demandware.store/Sites-jabra-no-Site/nb_NO/__Analytics-StartPendingExpiry: SessionType: Pixelwww.jabra.pl2on/demandware.store/Sites-jabra-emea-Site/pl_PL/__Analytics-StartPendingExpiry: SessionType: Pixeloptimove_popup_146_undefinedPendingExpiry: PersistentType: HTMLwww.jabra.ro1on/demandware.store/Sites-jabra-emea-Site/ro_RO/__Analytics-StartPendingExpiry: SessionType: Pixelwww.jabra.se2on/demandware.store/Sites-jabra-emea-Site/sv_SE/__Analytics-StartPendingExpiry: SessionType: Pixeloptimove_popup_398_undefinedPendingExpiry: PersistentType: HTMLwww.jabraheadsets.ch1on/demandware.store/Sites-jabra-emea-Site/de_CH/__Analytics-StartPendingExpiry: SessionType: PixelCross-domain consent40 Your consent applies to the following domains:List of domains your consent applies to: xpress.jabra.com sales.jabra.com www.jabra.ie www.jabra.ro jabra.developerprogram.org developer.jabra.com city.jabra.com onezone.jabra.com www.jabra.lat www.mea.jabra.com www.emea.jabra.com www.fr.mea.jabra.com www.apac.jabra.com www.jabra.fi www.jabraheadsets.ch www.jabra.no www.jabra.sg www.jabra.hk www.jabra.in www.jabra.cn www.jabra.com.tr www.jabra.se www.jabra.ru www.jabra.br.com www.fr.jabra.ca www.it.jabra.com www.jabra.ca www.jabra.co.kr www.jabra.co.nz www.jabra.co.uk www.jabra.com www.jabra.com.au www.jabra.com.de www.jabra.cz www.jabra.dk www.jabra.es www.jabra.fr www.jabra.jp www.jabra.nl www.jabra.plCookie declaration last updated on 11/8/22 by Cookiebot[#IABV2_TITLE#][#IABV2_BODY_INTRO#][#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#][#IABV2_BODY_PREFERENCE_INTRO#][#IABV2_LABEL_PURPOSES#][#IABV2_BODY_PURPOSES_INTRO#][#IABV2_BODY_PURPOSES#][#IABV2_LABEL_FEATURES#][#IABV2_BODY_FEATURES_INTRO#][#IABV2_BODY_FEATURES#][#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PARTNERS_INTRO#][#IABV2_BODY_PARTNERS#]Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+For all other types of cookies we need your permission.This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.Please state your consent ID and date when you contact us regarding your consent
+[#OOI_PERSONAL_INFORMATION#]Use necessary cookies only Allow selection Customize Allow all cookiesPowered by Cookiebot by Usercentrics
+chevron_left
+menu
+MENU
+chevron_left
+Headsets
+Office Headsets
+Wired and wireless calls,  music and concentration
+True wireless earbuds
+100% wireless for calls, music and sport
+Wireless Stereo Headphones
+All our headsets for wireless personal use
+Call Center Headsets
+Noise cancelling microphones and all-day comfort
+Sports Headphones
+Sweat and dust resistant that stay in your ear
+Bluetooth Mono Headsets
+Single ear form factor made for calls
+Over the ear headphones
+In-ear headphones
+Personal working solutions
+Refurbished products and deals
+Discounted headsets for a limited time only
+Trucking & fleet headsets
+Headsets designed for life on the road
+Warehouse headsets
+Headsets for warehouse, logistics and distribution
+Retailer locator
+Find stores and web shops that sell Jabra
+Accessories
+Replacement earbuds, batteries, cables and more
+All products
+View and filter all products
+Recommended pages
+chevron_right
+chevron_left
+Speakerphones
+Office Speakerphones
+Wired and wireless speakerphones for your meetings
+In-car Speakerphones
+Mount in your car to stream calls and music on the road
+No matter the platform you use, Jabra has you covered
+Amazon Web Services
+Devices made for use with Amazon web services
+Avaya
+Devices made for use with Avaya
+Cisco
+Devices made for use with Cisco
+Genesys
+Devices made for use with Genesys
+Google
+Devices made for use with Google Workspace
+Microsoft Teams
+Devices made for use with Microsoft Teams
+View all alliance partners
+Customer Stories
+Case studies and customer stories
+Partner login
+Log in to Jabra OneZone  or sign up as a partner
+chevron_right
+chevron_left
+Video
+chevron_right
+chevron_left
+Hearing
+chevron_right
+chevron_left
+Solutions
+By Business Area
+Office
+Headsets for both the open and home office.
+Contact Centers
+Solutions to improve customer & agent experience.
+Meeting Solutions
+Video & audio for large and small rooms.
+Software & Apps
+Enterprise software that helps deploy and manage headsets.
+Unified Communications
+How Jabra solutions support your UC platforms.
+Jabra Device-as-a-Service
+How Jabra solutions support your UC platforms.
+Shop for your business
+Find the right solution for your business.
+By Industry
+Education
+For classrooms, flexible teaching and virtual learning.
+Healthcare
+Collaboration devices to ensure better care.
+Government
+Approved devices for improved productivity.
+Finance
+Improve knowledge worker efficiency through technology.
+Business Process Outsourcers
+Find the right solution for your business.
+By Platform
+Amazon Web Services
+Devices made for use with Amazon web services
+Avaya
+Devices made for use with Avaya
+Cisco
+Devices made for use with Cisco
+Genesys
+Devices made for use with Genesys
+Google
+Devices made for use with Google Workspace
+Microsoft Teams
+Devices made for use with Microsoft Teams
+Zoom
+Devices made for use with Zoom
+View all alliance partners
+Partner Login
+Customer Stories
+chevron_right
+chevron_left
+Hybrid work
+chevron_right
+chevron_left
+Support
+Product Support
+Support content, resources, and contact options
+Jabra Online Store
+Order tracking and history
+Compatibility Guide
+Compatible devices and accessories
+Software and Apps
+Companion software, apps, and services
+Professional Services
+Engineered for certainty in deployment
+Hearing protection
+Jabra hearing protection standards
+Jabra Support
+We are here to help you
+Find your product
+Jabra Developer Zone
+Glossary
+Technical white papers
+chevron_right
+Americas
+chevron_right
+Asia-Pacific
+chevron_right
+Europe
+chevron_right
+Middle East and Africa
+chevron_right
+chevron_left
+Americas
+Canada
+English
+chevron_right
+Canada
+Français
+chevron_right
+Latinoamérica
+Español
+chevron_right
+Brasil
+Português
+chevron_right
+United States
+English
+chevron_right
+chevron_left
+Asia-Pacific
+Australia
+English
+chevron_right
+New Zealand
+English
+chevron_right
+대한민국
+한국어
+chevron_right
+中国
+简体中文
+chevron_right
+Hong Kong, SAR of China
+English
+chevron_right
+日本
+日本語
+chevron_right
+Singapore
+English
+chevron_right
+India
+English
+chevron_right
+Asia-Pacific (Other)
+English
+chevron_right
+chevron_left
+Europe
+België
+Nederlands
+chevron_right
+Belgique
+Français
+chevron_right
+Belgien
+Deutsch
+chevron_right
+Česká republika
+Čeština
+chevron_right
+Danmark
+Dansk
+chevron_right
+Deutschland
+Deutsch
+chevron_right
+España
+Español
+chevron_right
+France
+Français
+chevron_right
+United Kingdom
+English
+chevron_right
+Greece
+English
+chevron_right
+Hungary
+English
+chevron_right
+Ireland
+English
+chevron_right
+Italia
+Italiano
+chevron_right
+Nederland
+Nederlands
+chevron_right
+Österreich
+Deutsch
+chevron_right
+Norge
+Bokmål
+chevron_right
+Polska
+Polski
+chevron_right
+Portugal
+English
+chevron_right
+România
+Română
+chevron_right
+Schweiz
+Deutsch
+chevron_right
+Suomi
+Suomi
+chevron_right
+Sverige
+Svenska
+chevron_right
+Türkiye
+Türkçe
+chevron_right
+Europe (Other)
+English
+chevron_right
+chevron_left
+Middle East and Africa
+Middle East and Africa
+English
+chevron_right
+Middle East and Africa
+Français
+chevron_right
+South Africa
+English
+chevron_right
+chevron_right
+search
+Search jabra.com
+search
+search
+Recommended pages
+Product results
+( Products found)
+first_page
+chevron_left
+chevron_right
+last_page
+See All
+Found what you are looking for?
+See all products
+Quick linksJabra Elite 7 ProRegister Your ProductDeals and OffersCompatibility GuideBluetooth Pairing GuideSoftware and ServicesSmartphone AppsWarranty & ServiceConcentration music
+close
+Partnernet Login
+Your login or password is invalid.
+E-mail *
+Password *
+Remember me
+Submit
+Forgot my password
+Forgot password?
+Please enter your e-mail address below and we will send a new password to you.
+E-mail *
+Send password
+Return
+Your email is not recognized, please check your email and try again
+If you continue to experience issues please contact Jabra for support.
+Return
+Thank you,
+We have sent you an e-mail with your new password to
+{{email}}
+Return
+Hi {{customerName}},
+Choose the Jabra Service you want to use
+For this site you have access to:
+Cookie Policy
+expand_more
+expand_less
+About us
+Our Story
+Careers
+Sustainability
+News and press releases
+Read our blog
+Jabra customer stories
+expand_more
+expand_less
+Frequent questions
+Bluetooth vs
+DECT
+How wireless headphones work
+What is a good headset for iPhone?
+What is a good headset for Skype?
+Are Bluetooth headsets safe?
+Jabra response to COVID-19
+expand_more
+expand_less
+How to buy
+Headset Buying Guide
+Authorized Consumer Resellers
+Authorized Business Resellers
+Authorized Distributors
+Deals
+Amazon Affiliate Disclosure
+expand_more
+expand_less
+Get in touch
+Contact Jabra Sales
+Contact Support
+Online Store Support
+Register your product
+Developer program
+Become a Reseller
+Warranty & Service
+Enterprise end of life policy
+Trademarks
+Safety and Warning
+Cookie Policy
+Change cookie consent
+Declarations of Conformity
+Commercial Disclaimers
+Privacy Policy

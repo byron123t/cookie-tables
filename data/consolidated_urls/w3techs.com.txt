@@ -1,0 +1,2 @@
+https://w3techs.com/technologies/details/ce-cookies
+https://w3techs.com/technologies/details/ce-nonsecurecookies

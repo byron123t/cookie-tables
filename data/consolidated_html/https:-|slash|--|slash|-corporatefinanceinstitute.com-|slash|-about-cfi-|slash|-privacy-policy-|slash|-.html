@@ -1,0 +1,1216 @@
+<!DOCTYPE html><html lang="en-US"><head><meta charset="utf-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",(e=>{this.persisted=e.persisted})),window.addEventListener("DOMContentLoaded",(()=>{this._preconnect3rdParties()})),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){document.hidden?e._triggerListener():(this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler))}_removeUserInteractionListener(){this.triggerEvents.forEach((e=>window.removeEventListener(e,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"))}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick")}_onTouchEnd(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))}))}_renameDOMAttribute(e,t,n){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(n,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{if(t.hasAttribute("src")){const n=new URL(t.src).origin;n!==location.origin&&e.push({src:n,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}})),e=[...new Map(e.map((e=>[JSON.stringify(e),e]))).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(e){}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._replayClicks()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._littleBreath(),new Promise((t=>{const n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t());try{e.parentNode.replaceChild(n,e)}catch(e){t()}}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var n=document.createDocumentFragment();e.forEach((e=>{if(e.src){const i=document.createElement("link");i.href=e.src,i.rel=t,"preconnect"!==t&&(i.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(i.crossOrigin=!0),e.crossOrigin&&(i.crossOrigin=e.crossOrigin),n.appendChild(i)}})),document.head.appendChild(n)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),await this._littleBreath();const e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,i=document.createRange(),r=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const s=document.createDocumentFragment();i.setStart(s,0),s.appendChild(i.createContextualFragment(t)),r.insertBefore(s,o)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise((e=>setTimeout(e))):new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="3kTcEeI8D6U9b3mmYeLagXichcZTPuoWrYbPGc86zBI">
+<script type="rocketlazyloadscript">
+      dataLayer = [{
+        'userStatus': 'Guest',
+        'userID': '0',
+        'postAuthor': 'Corporate Finance Institute'
+      }];
+      sessionStorage.setItem("analyticsUserID", "0");
+    </script>
+
+<script type="rocketlazyloadscript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PS9DC56');</script>
+
+
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+    var _iub = _iub || [];
+    _iub.csConfiguration = {"ccpaAcknowledgeOnDisplay":true,"consentOnContinuedBrowsing":false,"cookiePolicyInOtherWindow":true,"countryDetection":true,"enableCcpa":true,"lang":"en","siteId":1832391,"cookiePolicyId":17030084,"cookiePolicyUrl":"https://corporatefinanceinstitute.com/about-cfi/privacy-policy/","privacyPolicyUrl":"https://corporatefinanceinstitute.com/about-cfi/privacy-policy/", "banner":{ "acceptButtonCaptionColor":"white","acceptButtonColor":"#0073CE","acceptButtonDisplay":true,"backgroundColor":"white","customizeButtonCaptionColor":"#4D4D4D","customizeButtonColor":"#DADADA","customizeButtonDisplay":true,"fontSize":"14px","position":"float-bottom-center","textColor":"black","acceptButtonCaption":"Accept all cookies","content":"CFI and our partners use cookies to provide you with a better service and to support our business. You can consent by the clicking \"Accept all cookies\" button or by closing this notice.","customizeButtonCaption":"Learn more" }};
+    </script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="//cdn.iubenda.com/cs/ccpa/stub.js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async=""></script>
+
+
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" async="">
+      function initializeRakuten(url) {
+        /*Tracking Bootstrap Set Up DataLayer objects/properties here*/
+        if (!window.DataLayer) {
+          window.DataLayer = {};
+        }
+        if (!DataLayer.events) {
+          DataLayer.events = {};
+        }
+        DataLayer.events.SPIVersion = DataLayer.events.SPIVersion || "3.4";
+        DataLayer.events.SiteSection = "1";
+        var loc, ct = document.createElement("script");
+        ct.type = "text/javascript";
+        ct.async = true;
+        ct.src = url;
+        loc = document.getElementsByTagName('script')[0];
+        loc.parentNode.insertBefore(ct, loc);
+      }
+
+      window._rakutenInitialized = false;
+      document.addEventListener('scroll', function () {
+        if (!window._rakutenInitialized) {
+          initializeRakuten(document.location.protocol + "//tag.rmp.rakuten.com/121786.ct.js");
+          window._rakutenInitialized = true;
+        }
+      });
+      document.addEventListener('click', function () {
+        if (!window._rakutenInitialized) {
+          initializeRakuten(document.location.protocol + "//tag.rmp.rakuten.com/121786.ct.js");
+          window._rakutenInitialized = true;
+        }
+      });
+    </script>
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+
+
+<title>Privacy Policy for Corporate Finance Institute (CFI)</title>
+<meta name="description" content="Please read our privacy policy. CFI is a leading provider of online courses and certifications for financial analysts, bankers, accountants and other corporate finance professionals.">
+<link rel="canonical" href="https://corporatefinanceinstitute.com/about-cfi/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Please read our privacy policy. CFI is a leading provider of online courses and certifications for financial analysts, bankers, accountants and other corporate finance professionals.">
+<meta property="og:url" content="https://corporatefinanceinstitute.com/about-cfi/privacy-policy/">
+<meta property="og:site_name" content="Corporate Finance Institute">
+<meta property="article:publisher" content="https://www.facebook.com/corporatefinanceinstitute.cfi/">
+<meta property="article:modified_time" content="2020-12-12T03:19:46+00:00">
+<meta property="og:image" content="https://cdn.corporatefinanceinstitute.com/assets/LinkedIn-Profile-Card-3.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@CFI_education">
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://corporatefinanceinstitute.com/about-cfi/privacy-policy/","url":"https://corporatefinanceinstitute.com/about-cfi/privacy-policy/","name":"Privacy Policy for Corporate Finance Institute (CFI)","isPartOf":{"@id":"https://corporatefinanceinstitute.com/#website"},"datePublished":"2017-03-06T07:25:45+00:00","dateModified":"2020-12-12T03:19:46+00:00","description":"Please read our privacy policy. CFI is a leading provider of online courses and certifications for financial analysts, bankers, accountants and other corporate finance professionals.","breadcrumb":{"@id":"https://corporatefinanceinstitute.com/about-cfi/privacy-policy/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://corporatefinanceinstitute.com/about-cfi/privacy-policy/"]}]},{"@type":"BreadcrumbList","@id":"https://corporatefinanceinstitute.com/about-cfi/privacy-policy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://corporatefinanceinstitute.com/"},{"@type":"ListItem","position":2,"name":"About Corporate Finance Institute® (CFI)","item":"https://corporatefinanceinstitute.com/about-cfi/"},{"@type":"ListItem","position":3,"name":"Privacy Policy"}]},{"@type":"WebSite","@id":"https://corporatefinanceinstitute.com/#website","url":"https://corporatefinanceinstitute.com/","name":"Corporate Finance Institute","description":"","publisher":{"@id":"https://corporatefinanceinstitute.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://corporatefinanceinstitute.com/search/{search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://corporatefinanceinstitute.com/#organization","name":"Corporate Finance Institute","url":"https://corporatefinanceinstitute.com/","sameAs":["https://www.instagram.com/corporatefinanceinstitute/","https://www.linkedin.com/school/corporate-finance-institute-cfi-/","https://www.youtube.com/c/Corporatefinanceinstitute-CFI","https://www.facebook.com/corporatefinanceinstitute.cfi/","https://twitter.com/CFI_education"],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://corporatefinanceinstitute.com/#/schema/logo/image/","url":"//cdn.corporatefinanceinstitute.com/assets/cfi-logo.png","contentUrl":"//cdn.corporatefinanceinstitute.com/assets/cfi-logo.png","width":1000,"height":351,"caption":"Corporate Finance Institute"},"image":{"@id":"https://corporatefinanceinstitute.com/#/schema/logo/image/"}}]}</script>
+
+<link rel="dns-prefetch" href="//fonts.google.com">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="stylesheet" href="//cdn.corporatefinanceinstitute.com/wp-content/themes/cfi/dist/styles/main-3a7c800554.css?ver=e083e2019b6c1674574df0f6de5364b5">
+
+
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Corporate Finance Institute"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script type="rocketlazyloadscript">
+	console.warn && console.warn("[GTM4WP] Google Tag Manager container code placement set to OFF !!!");
+	console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="//cdn.corporatefinanceinstitute.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script>
+
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+  fbq('init', '257587335174579', {}, {
+    "agent": "wordpress-6.0.3-3.0.7"
+});
+  </script><script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+  fbq('track', 'PageView', []);
+  </script>
+
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=257587335174579&ev=PageView&noscript=1" />
+</noscript>
+
+<style id="wpsp-style-frontend"></style>
+<link rel="icon" href="//cdn.corporatefinanceinstitute.com/assets/cropped-cfi-favicon-2-32x32.png" sizes="32x32">
+<link rel="icon" href="//cdn.corporatefinanceinstitute.com/assets/cropped-cfi-favicon-2-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="//cdn.corporatefinanceinstitute.com/assets/cropped-cfi-favicon-2-180x180.png">
+<meta name="msapplication-TileImage" content="//cdn.corporatefinanceinstitute.com/assets/cropped-cfi-favicon-2-270x270.png">
+<link href="https://cdn.iubenda.com" rel="preconnect"><link href="https://cdn.corporatefinanceinstitute.com" rel="preconnect"><link href="https://seal-mbc.bbb.org" rel="preconnect"><link href="https://static.klaviyo.com" rel="preconnect"></head>
+<body class="page-template page-template-template-section-builder page-template-template-section-builder-php page page-id-8 page-child parent-pageid-44042 wp-schema-pro-2.7.3 privacy-policy">
+<!--[if IE]>
+      <div class="alert alert-warning">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+<div id="header-menu-wrapper" class="header-menu-wrapper-new no-splash ">
+<header class="banner short_search_name ">
+<div class="navbar-header  ">
+<div class="container">
+<div class="row">
+<div class="left-side">
+<a class="brand" href="https://corporatefinanceinstitute.com/">
+Corporate Finance Institute </a>
+<div class="controls-group">
+<button type="button" class="navbar-toggle hamburger hamburger--squeeze">
+<span class="sr-only">Menu</span>
+<span class="hamburger-box">
+<span class="hamburger-inner"></span>
+</span>
+</button>
+</div>
+<div class="search-box">
+<div class="search-form">
+<input class="search-field" data-id="callTheSearchBox" placeholder="Search" name="s" required="" type="search">
+<div class="icon-search"></div>
+</div>
+</div>
+</div>
+<div class="right-side">
+<div class="action-button-wrapper">
+<nav class="top-menu nav-primary">
+<div class="menu-desktop">
+<ul id="menu-header-navigation" class="nav navbar-nav"><li class="courses-dropdown menu-item menu-item-has-children menu-all-courses"><a href="#">All Courses</a>
+<ul class="sub-menu">
+<div class="dropdown-container"><div class="dropdown-row">
+<li class="unclickable desktop-only programs menu-item menu-item-has-children menu-certification-programs hovered"><a href="https://corporatefinanceinstitute.com/certifications/">Certification Programs</a>
+<ul class="sub-menu">
+<li class="button-inside menu-item menu-item-has-children menu-compare-certifications"><a href="https://corporatefinanceinstitute.com/certifications/compare-certifications/">Compare Certifications</a>
+<ul class="sub-menu">
+<li class="program-fmva menu-item menu-fmvafinancial-modeling-valuation-analyst"><a href="https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/"><span><b>FMVA®</b>Financial Modeling &amp; Valuation Analyst</span></a></li>
+<li class="program-cbca menu-item menu-cbcacommercial-banking-credit-analyst"><a href="https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/"><span><b>CBCA™</b>Commercial Banking &amp; Credit Analyst</span></a></li>
+<li class="program-cmsa menu-item menu-cmsacapital-markets-securities-analyst"><a href="https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/"><span><b>CMSA®</b>Capital Markets &amp; Securities Analyst</span></a></li>
+<li class="program-bida menu-item menu-bidabusiness-intelligence-data-analyst"><a href="https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/"><span><b>BIDA™</b>Business Intelligence &amp; Data Analyst</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="unclickable desktop-only bundles menu-item menu-item-has-children menu-specializations"><a href="#">Specializations</a>
+<ul class="sub-menu">
+<li class="program-cre menu-item menu-cref-specializationcommercial-real-estate-finance"><a href="https://corporatefinanceinstitute.com/certifications/commercial-real-estate-finance-specialist/"><span><b>CREF Specialization</b>Commercial Real Estate Finance</span></a></li>
+<li class="program-esg menu-item menu-esg-specializationenvironmental-social-governance-esg"><a href="https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/"><span><b>ESG Specialization</b>Environmental, Social &amp; Governance (ESG)</span></a></li>
+<li class="program-beb menu-item menu-be-bundlebusiness-essentials"><a href="https://corporatefinanceinstitute.com/certifications/business-essentials-bundle/"><span><b>BE Bundle</b>Business Essentials</span></a></li>
+</ul>
+</li>
+<li class="unclickable desktop-only topics menu-item menu-item-has-children menu-popular-topics"><a href="#">Popular Topics</a>
+<ul class="sub-menu">
+<li class="button-inside menu-item menu-item-has-children menu-browse-all-topics"><a href="https://corporatefinanceinstitute.com/topics/">Browse All Topics</a>
+<ul class="sub-menu">
+<li class="menu-item menu-cryptocurrencytag_courses-namecryptocurrency-courses"><a href="https://corporatefinanceinstitute.com/topic/cryptocurrency/"><b>Cryptocurrency</b>3 courses</a></li>
+<li class="menu-item menu-exceltag_courses-nameexcel-courses"><a href="https://corporatefinanceinstitute.com/topic/excel/"><b>Excel</b>28 courses</a></li>
+<li class="menu-item menu-accounting-tag_courses-nameaccounting-courses"><a href="https://corporatefinanceinstitute.com/topic/accounting/"><b>Accounting</b> 3 courses</a></li>
+<li class="menu-item menu-commercial-real-estatetag_courses-namecommercial-real-estate-courses"><a href="https://corporatefinanceinstitute.com/topic/commercial-real-estate/"><b>Commercial Real Estate</b>11 courses</a></li>
+<li class="menu-item menu-esgtag_courses-nameenvironment-social-governance-esg-courses"><a href="https://corporatefinanceinstitute.com/topic/environment-social-governance-esg/"><b>ESG</b>8 courses</a></li>
+<li class="menu-item menu-wealth-managementtag_courses-namewealth-management-courses"><a href="https://corporatefinanceinstitute.com/topic/wealth-management/"><b>Wealth Management</b>2 courses</a></li>
+<li class="menu-item menu-foreign-exchangetag_courses-nameforeign-exchange-courses"><a href="https://corporatefinanceinstitute.com/topic/foreign-exchange/"><b>Foreign Exchange</b>4 courses</a></li>
+<li class="menu-item menu-management-skillstag_courses-namemanagement-skills-courses"><a href="https://corporatefinanceinstitute.com/topic/management-skills/"><b>Management Skills</b>10 courses</a></li>
+<li class="menu-item menu-machine-learningtag_courses-namedata-science-machine-learning-courses"><a href="https://corporatefinanceinstitute.com/topic/data-science-machine-learning/"><b>Machine Learning</b>1 courses</a></li>
+<li class="menu-item menu-financial-modelingtag_courses-namefinancial-modeling-courses"><a href="https://corporatefinanceinstitute.com/topic/financial-modeling/"><b>Financial Modeling</b>14 courses</a></li>
+<li class="menu-item menu-fpatag_courses-namefinancial-planning-analysis-fpa-courses"><a href="https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/"><b>FP&amp;A</b>6 courses</a></li>
+<li class="menu-item menu-business-intelligencetag_courses-namebusiness-intelligence-courses"><a href="https://corporatefinanceinstitute.com/topic/business-intelligence/"><b>Business Intelligence</b>12 courses</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="button-inside menu-item menu-browse-all-courses"><a href="https://corporatefinanceinstitute.com/collections/">Browse All Courses</a></li>
+</div></div><div class="dropdown-arrow"></div><div class="dropdown-placeholder"></div></ul>
+</li>
+<li class="unclickable menu-item menu-item-has-children menu-corporate-training"><a href="#">Corporate Training</a>
+<ul class="sub-menu">
+<div class="dropdown-container"><div class="dropdown-row">
+<li class="menu-item menu-overview"><a href="https://corporatefinanceinstitute.com/cfi-for-teams/">Overview</a></li>
+<li class="menu-item menu-pricing-plans"><a href="https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/">Pricing Plans</a></li>
+</div></div><div class="dropdown-arrow"></div><div class="dropdown-placeholder"></div></ul>
+</li>
+<li class="menu-item menu-pricing"><a href="https://corporatefinanceinstitute.com/pricing/">Pricing</a></li>
+<li class="menu-item menu-resources"><a href="https://corporatefinanceinstitute.com/resources/">Resources</a></li>
+</ul> </div>
+<div class="account-links">
+<div class="thinkific-logged-in-menu thinkific-logged-in">
+<ul id="menu-quick-user-navigation" class="nav navbar-nav"><li class="menu-item menu-item-has-children menu-my-account"><a href="#">My Account</a>
+<ul class="sub-menu">
+<div class="dropdown-container"><div class="dropdown-row">
+<li class="menu-item menu-my-courses"><a href="https://dashboard.corporatefinanceinstitute.com/financial-modeling-valuation-analyst-fmva/">My Courses</a></li>
+<li class="menu-item menu-my-resources"><a href="https://dashboard.corporatefinanceinstitute.com/learning-resources/">My Resources</a></li>
+<li class="menu-item menu-my-profile"><a href="https://dashboard.corporatefinanceinstitute.com/my-profile/">My Profile</a></li>
+<li class="thinkific-logged-in mobile-only thin menu-item menu-account-settings"><a href="https://dashboard.corporatefinanceinstitute.com/my-profile/">Account Settings</a></li>
+<li class="menu-item menu-sign-out"><a href="http://courses.corporatefinanceinstitute.com/users/sign_out">Sign Out</a></li>
+</div></div><div class="dropdown-arrow"></div><div class="dropdown-placeholder"></div></ul>
+</li>
+</ul> </div>
+<div class="thinkific-logged-in">
+<a href="https://courses.corporatefinanceinstitute.com/enrollments" rel="nofollow" class="account-link btn-main">My Dashboard</a>
+</div>
+<div class="thinkific-logged-out">
+<div class="thinkific-link sign-in">
+<a href="https://learn.corporatefinanceinstitute.com/auth/login" rel="nofollow">Log In</a>
+</div>
+<a href="https://learn.corporatefinanceinstitute.com/auth/registration" class="btn-main">Get Started</a>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<nav class="nav-primary navbar-collapse collapse " role="navigation">
+<div class="container">
+<div class="row">
+<div class="search-box">
+<div class="search-form">
+<div class="search-wrapper">
+ <input class="search-field" data-id="callTheSearchBox" placeholder="What would you like to learn?" name="s" required="" type="search">
+<div class="icon-search"></div>
+</div>
+</div>
+</div>
+<nav class="top-menu">
+<div class="thinkific-logged-in btn-my-dashboard">
+<a href="https://courses.corporatefinanceinstitute.com/enrollments" rel="nofollow" class="account-link btn-main btn-default">My Dashboard</a>
+</div>
+<div class="thinkific-logged-out btn-register">
+<a href="https://learn.corporatefinanceinstitute.com/auth/registration" rel="nofollow" class="account-link btn-main btn-default">Get Started</a>
+</div>
+<div class="btn-collections">
+<a href="https://corporatefinanceinstitute.com/collections" rel="nofollow" class="account-link btn-main btn-secondary-blue">Browse All Courses</a>
+</div>
+<div class="thinkific-logged-in-menu thinkific-logged-in">
+<ul id="menu-quick-user-navigation-1" class="nav navbar-nav"><li class="menu-item menu-item-has-children menu-my-account"><a href="#">My Account</a>
+<ul class="sub-menu">
+<li class="menu-item menu-my-courses"><a href="https://dashboard.corporatefinanceinstitute.com/financial-modeling-valuation-analyst-fmva/">My Courses</a></li>
+<li class="menu-item menu-my-resources"><a href="https://dashboard.corporatefinanceinstitute.com/learning-resources/">My Resources</a></li>
+<li class="menu-item menu-my-profile"><a href="https://dashboard.corporatefinanceinstitute.com/my-profile/">My Profile</a></li>
+<li class="thinkific-logged-in mobile-only thin menu-item menu-account-settings"><a href="https://dashboard.corporatefinanceinstitute.com/my-profile/">Account Settings</a></li>
+<li class="menu-item menu-sign-out"><a href="http://courses.corporatefinanceinstitute.com/users/sign_out">Sign Out</a></li>
+</ul>
+</li>
+</ul> </div>
+<ul id="menu-header-navigation-mobile" class="nav navbar-nav"><li class="unclickable menu-item menu-item-has-children menu-certification-programs"><a href="https://corporatefinanceinstitute.com/certifications/">Certification Programs</a>
+<ul class="sub-menu">
+<div class="dropdown-container"><div class="dropdown-row">
+<li class="menu-item menu-financial-modeling-valuation-fmva"><a href="https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/">Financial Modeling &amp; Valuation (FMVA)®</a></li>
+<li class="menu-item menu-certified-banking-credit-analyst-cbca"><a href="https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/">Certified Banking &amp; Credit Analyst (CBCA)™</a></li>
+<li class="menu-item menu-capital-markets-securities-analyst-cmsa"><a href="https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/">Capital Markets &amp; Securities Analyst (CMSA)®</a></li>
+<li class="menu-item menu-business-intelligence-data-analyst-bida"><a href="https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/">Business Intelligence &amp; Data Analyst (BIDA)™</a></li>
+</div></div><div class="dropdown-arrow"></div><div class="dropdown-placeholder"></div></ul>
+</li>
+<li class="unclickable menu-item menu-item-has-children menu-specializations"><a href="#">Specializations</a>
+<ul class="sub-menu">
+<div class="dropdown-container"><div class="dropdown-row">
+<li class="menu-item menu-commercial-real-estate-finance-specialization"><a href="https://corporatefinanceinstitute.com/certifications/commercial-real-estate-finance-specialist/">Commercial Real Estate Finance Specialization</a></li>
+<li class="menu-item menu-environmental-social-governance-specialization"><a href="https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/">Environmental, Social &amp; Governance Specialization</a></li>
+<li class="menu-item menu-business-essentials-bundle"><a href="https://corporatefinanceinstitute.com/certifications/business-essentials-bundle/">Business Essentials Bundle</a></li>
+</div></div><div class="dropdown-arrow"></div><div class="dropdown-placeholder"></div></ul>
+</li>
+<li class="unclickable menu-item menu-item-has-children menu-corporate-training"><a href="https://corporatefinanceinstitute.com/?page_id=105327">Corporate Training</a>
+<ul class="sub-menu">
+<div class="dropdown-container"><div class="dropdown-row">
+<li class="menu-item menu-overview"><a href="https://corporatefinanceinstitute.com/cfi-for-teams/">Overview</a></li>
+<li class="menu-item menu-pricing"><a href="https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/">Pricing</a></li>
+</div></div><div class="dropdown-arrow"></div><div class="dropdown-placeholder"></div></ul>
+</li>
+<li class="menu-item menu-pricing"><a href="https://corporatefinanceinstitute.com/pricing/">Pricing</a></li>
+<li class="menu-item menu-resources"><a href="https://corporatefinanceinstitute.com/resources/">Resources</a></li>
+</ul>
+<a href="https://learn.corporatefinanceinstitute.com/auth/registration" class="btn-main btn-default thinkific-logged-out">Get Started</a>
+<div class="thinkific-logged-in btn-my-dashboard">
+<a href="https://courses.corporatefinanceinstitute.com/enrollments" rel="nofollow" class="account-link btn-main btn-default">My Dashboard</a>
+</div>
+<div class="thinkific-logged-out btn-login">
+<a href="https://learn.corporatefinanceinstitute.com/auth/login" rel="nofollow" class="account-link btn-main btn-secondary-blue">Log In</a>
+</div>
+</nav>
+</div>
+</div>
+</nav>
+
+</header>
+</div>
+<section class="section splash default" style="
+    ">
+<div class="container">
+<div class="content col-12">
+<div class="title">
+<h1>
+Corporate Finance Institute® Privacy Policy </h1>
+<div class="lead text ">
+Please read CFI's privacy policy. </div>
+</div>
+</div>
+</div>
+</section>
+<div class="section breadcrumbs bg-default">
+<div class="container two-columns">
+<div class="breadcrumbs" typeof="BreadcrumbList" vocab="http://schema.org/">
+
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Corporate Finance Institute." href="https://corporatefinanceinstitute.com" class="home"><span property="name">Home</span></a><meta property="position" content="1"></span> › <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to About Corporate Finance Institute® (CFI)." href="https://corporatefinanceinstitute.com/about-cfi/" class="post post-page"><span property="name">About Corporate Finance Institute® (CFI)</span></a><meta property="position" content="2"></span> › <span property="itemListElement" typeof="ListItem"><span property="name">Privacy Policy</span><meta property="position" content="3"></span> </div>
+</div>
+</div>
+<div id="section-1" class=" section
+        content        default        bg-default                 default " style="">
+<div class="container">
+<div class="row default">
+<div class="content">
+<p><em>Last Updated: December 11, 2020.</em></p>
+<p>Your privacy is important to CFI Education Inc. (“<strong>CFI</strong>”). This Privacy Policy explains how CFI collects, uses, discloses, and retains personal information, including information collected through websites, blogs, apps (including but not limited to messaging services), and our correspondence with you (for example, by e-mail) and when providing you with our products and services.</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your Consent</strong><br>
+If you are located outside the European Economic Area, by providing CFI with your personal information, you consent to the collection, use, disclosure, and retention of that information by CFI in accordance with this Privacy Policy and as otherwise permitted by applicable law. You may withdraw your consent at any time, subject to legal or contractual restrictions and on reasonable notice to CFI, but then you might not be able to proceed with your intended interactions or transactions with CFI or otherwise receive the full benefit of CFI’s products and services.</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Controller</strong><br>
+For purposes of the General Data Protection Regulation (the “<strong>GDPR</strong>”), we are the data controller for the purpose of data protection law, in respect of your personal information collected and used through your use of the website, products, and services. This is because we dictate the purpose for which your personal information is used and how we use your personal information.</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal Information Defined</strong><br>
+In this Privacy Policy, “<strong>personal information</strong>” means information about you and which identifies you, such as your name and email address, but does not include (to the extent permitted by law) information that is publicly available in a telephone directory or that is the business contact information that enables an individual to be contacted at a place of business.</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal Information CFI Collects</strong><br>
+<strong>We collect personal information about you in the course of providing the websites, blogs, apps (including but not limited to messaging services), products and services, and our correspondence with you.&nbsp; The information may include the following:</strong>
+</p>
+<table class="table table-small table-striped table-bordered" width="92%">
+<tbody>
+<tr>
+<td width="198"><strong>Category</strong></td>
+<td width="234"><strong>Description</strong></td>
+</tr>
+<tr>
+<td width="198">Personal contact information</td>
+<td width="234">Name, personal address, personal email address, and personal telephone number</td>
+</tr>
+<tr>
+<td width="198">Business contact information</td>
+<td width="234">Name, business address, business email address, and business telephone number</td>
+</tr>
+<tr>
+<td width="198">Account information</td>
+<td width="234">Username and account preferences</td>
+</tr>
+<tr>
+<td width="198">Payment information</td>
+<td width="234">Payment card number (credit or debit card), bank account number, billing address, or other financial account numbers and account details</td>
+</tr>
+<tr>
+<td width="198">Financial aid application information</td>
+<td width="234">Contact information, link to social media profile, education and employment information, annual income, country of residence, aid preferences, answers to questions about your financial situation, and academic or professional achievements</td>
+</tr>
+<tr>
+<td width="198">Course and enrolment information</td>
+<td width="234">Online registration information, record of attendance information, and assessments</td>
+</tr>
+<tr>
+<td width="198">Social Media</td>
+<td width="234">Information relating to your social media profiles, including (but not limited to) LinkedIn</td>
+</tr>
+<tr>
+<td width="198">Marketing preferences, marketing activities, and customer feedback</td>
+<td width="234">Marketing preferences or responses to voluntary customer satisfaction surveys improve our marketing communications. We may collect information about interaction with, and responses to, our marketing communications, reviews, and endorsements provided regarding our courses</td>
+</tr>
+<tr>
+<td width="198">Other information you provide to us</td>
+<td width="234">For example, if you write a review of our products, submit a “Contact Us” form, or provide other information to us in the course of your use of our websites, products, or services</td>
+</tr>
+</tbody>
+</table>
+<p>
+<strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How CFI Collects Information</strong></p>
+<p><strong>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Information You Provide</strong><br>
+You may be asked to voluntarily give your personal information to CFI when you interact with CFI. This information may be provided:
+</p>
+<ol>
+<li>in the course of communications between you and us (including by phone, email, chat, in person, via social media, website, or otherwise);</li>
+<li>when you register for an account;</li>
+<li>when you request information about or use a product or service provided by us;</li>
+<li>when you subscribe to a newsletter;</li>
+<li>when you attend tradeshows and other events; and</li>
+<li>when you report a problem with our websites, products our services.</li>
+</ol>
+<p>
+In certain circumstances, you can choose not to provide certain requested personal information, but then you might not be able to proceed with your intended interaction or transaction with CFI or otherwise receive the full benefit of the desired product or service.</p>
+<p>If you give CFI the personal information of another individual, then you are solely responsible for complying with all applicable laws, including obtaining the individual’s valid consent, regarding your collection and disclosure of the personal information to CFI and to CFI’s use, disclosure, and retention of the personal information.</p>
+<p><strong>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Automated Collection</strong><br>
+CFI may automatically collect certain information regarding your use of CFI’s websites, such as the dates and times that you use the websites, the browsers, operating systems, software and devices that you use to access the websites, and details of your use of the websites.</p>
+<p>CFI’s websites, email messages, and advertisements may use technologies (e.g. cookies, web beacons, tokens, pixels, or tags) to collect information that assists CFI to improve its products, services, customer communications, and advertising and to prevent fraud. CFI may use information collected through technological means to recognize you as a user of CFI’s websites, to facilitate and improve your use of CFI’s websites, to confirm that messages have been delivered to and opened by you, and to provide you with targeted advertisements. You may choose to decline or disable cookies in your web browser or device permits, but doing so may affect your ability to access or use certain features of a website. More information about cookies used for interest-based advertising is set out in section 4(c) below.</p>
+<p>Some of the information automatically collected by technological means is non-personal information (because the information does not identify you), and CFI will deal with that non-personal information as explained below in this Privacy Policy unless applicable law requires otherwise.
+</p>
+<p id="5c"><strong>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Cookies</strong><br>
+Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the website’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we may use cookies to help us remember and process the items in your shopping cart and to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We may also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. You can find out more about how to manage cookies here: www.allaboutcookies.org/manage-cookies.</p>
+<p>
+We use cookies to:
+</p>
+<ul>
+<li>help remember and process the items in the shopping cart;</li>
+<li>understand and save user’s preferences for future visits;</li>
+<li>keep track of advertisements; and</li>
+<li>compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.</li>
+</ul>
+<p>
+You may choose to decline or disable cookies if your web browser permits, but doing so may affect your ability to access or use certain features of CFI’s websites. However, you will still be able to place orders.</p>
+<p><strong>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Internet-Based Advertising</strong><br>
+CFI may use interest-based advertising services (sometimes called “remarketing” or “retargeting”) provided by third-party vendors (such as Google, Bing, LinkedIn, and Facebook) to display advertisements on third-party websites and social media sites visited by users of a CFI website. Advertising vendors (such as Google, Bing, LinkedIn and Facebook) use cookies, pixels or tokens – unique identifiers of a web browser on a specific computer that are installed on the computer when it accesses CFI websites – to display ads based on the computer’s past access to CFI websites. You can opt out of Google’s use of cookies by visiting Google’s Ads Settings. You can also opt out of a remarketing vendor’s use of cookies by visiting the Network Advertising Initiative’s consumer opt-out page. For more information, including details of how to block these cookies specifically, please see <a href="https://support.google.com/analytics/answer/181881?hl=en" target="_blank" rel="noopener">https://support.google.com/analytics/answer/181881</a>. We partner with Rakuten Advertising, who may collect personal information when you interact with our site. The collection and use of this information is subject to the privacy policy <a href="https://rakutenadvertising.com/legal-notices/services-privacy-policy/" target="_blank" rel="noopener">located here</a>.</p>
+<p><strong>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Information from Other Sources</strong><br>
+CFI may collect personal information from various publicly available sources and other third parties that are lawfully entitled to share your personal information with CFI.</p>
+<p>If CFI refers you to an independent business (e.g. a sales partner) for a proposed transaction, then CFI may collect from that independent business information regarding the transaction for use by CFI to update your confidential profile for use by CFI as set out in this Privacy Policy.</p>
+<p>CFI may combine your personal information collected by CFI through various sources.</p>
+<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How CFI Uses Personal Information</strong></p>
+<p><strong>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>General</strong><br>
+Under data protection law, we can only use your personal information if we have a proper reason for doing so, for example:
+</p>
+<ul>
+<li>to comply with our legal and regulatory obligations;</li>
+<li>for our legitimate interests (see below) or those of a third party;</li>
+<li>for the performance of our contract with you or to take steps at your request before entering into a contract; or</li>
+<li>you have given consent.</li>
+</ul>
+<p>
+A legitimate interest is when we have a business or commercial reason to use your personal information, so long as this is not overridden by your own rights and interests. Where we rely on our legitimate business interests or those legitimate interests of a third party to justify the purposes for using your personal information, this will include:
+</p>
+<ul>
+<li>pursuit of our commercial activities and objectives, or those of a third party;</li>
+<li>compliance with applicable legal and regulatory obligations and any codes of conduct;</li>
+<li>improvement and development of our business operations and service offering, or those of a third party; or</li>
+<li>protection of our business, shareholders, employees, and customers, or those of a third party.</li>
+</ul>
+<p><strong>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Purpose and Legal Basis</strong></p>
+<p>
+CFI may use your personal information collected by CFI for purposes relating to or arising from your relationship and transactions with CFI and as otherwise set out in this Privacy Policy or permitted by applicable law. The table below explains what we use your personal information for and our reasons for doing so. In general terms we will collect personal information for the following purposes:
+</p>
+<table class="table table-small table-striped table-bordered" width="99%">
+<thead>
+<tr>
+<td width="216"><strong>Purpose</strong></td>
+<td width="216"><strong>Legal Basis</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="216">To administer your relationship with CFI, including to contact and correspond with you regarding those matters</td>
+<td width="216">For our legitimate business interests (i.e. the provision of the websites, products, and services)</td>
+</tr>
+<tr>
+<td width="216">To facilitate your interactions and transactions with CFI</td>
+<td width="216">For our legitimate business interests (i.e. the provision of the websites, products, and services)</td>
+</tr>
+<tr>
+<td width="216">To provide you with the websites, products, and services</td>
+<td width="216">For our legitimate business interests (i.e. the provision of the websites, products, and services), and depending on the circumstances, to perform a contract between you and us</td>
+</tr>
+<tr>
+<td width="216">To process your application for financial aid</td>
+<td width="216">For our legitimate business interests (i.e. the provision of&nbsp; our products and services)</td>
+</tr>
+<tr>
+<td width="216">To process and respond to your inquiries, requests, and other communications</td>
+<td width="216">For our legitimate business interests (i.e. the provision of the websites, products, and services)</td>
+</tr>
+<tr>
+<td width="216">To notify you about changes to the websites or the products and services</td>
+<td width="216">For our legitimate business interests (i.e. the provision of the websites, products, and services)</td>
+</tr>
+<tr>
+<td width="216">To audit and monitor the use of the websites</td>
+<td width="216">For our legitimate business interests (i.e. the provision of the websites, products, and services, as well as to improve and monitor the security of the websites) or we may request your consent in certain circumstances where we are required to do so by law (e.g., in relation to our use of certain cookies)</td>
+</tr>
+<tr>
+<td width="216">To maintain, protect and improve CFI’s products and services and to develop new products and services</td>
+<td width="216">For our legitimate business interests (i.e. the provision and improvement of the products and our services)</td>
+</tr>
+<tr>
+<td width="216">To manage complaints, feedback, and queries</td>
+<td width="216">For our legitimate business interests (i.e. the provision and improvement of the websites, products, and services)</td>
+</tr>
+<tr>
+<td width="216">To administer and facilitate your participation in contests and promotions related to CFI</td>
+<td width="216">For our legitimate business interests (i.e. the promotion of the websites, products, and services), and depending on the circumstances, to perform a contract between you and us</td>
+</tr>
+<tr>
+<td width="216">To carry out market research and analysis</td>
+<td width="216">For our legitimate business interests (i.e. the provision, improvement, and promotion of the websites, products, and our services)</td>
+</tr>
+<tr>
+<td width="216">To carry out satisfaction surveys and analysis</td>
+<td width="216">For our legitimate business interests (i.e. the provision, improvement, and promotion of the websites, products, and our services)</td>
+</tr>
+<tr>
+<td width="216">To provide you with information (including by email and other electronic messages) regarding CFI and its business, products, and services and products and services offered by other businesses, to the extent permitted by applicable law and in accordance with your preferences as indicated when you entered into any agreement with us, including any marketing consent preferences</td>
+<td width="216">Depending on the method of communication, this processing may be carried out with your consent or in accordance with our legitimate business interests to process your information for direct marketing purposes</td>
+</tr>
+<tr>
+<td width="216">To comply with any legal or regulatory obligations (including in connection with a court order) and to protect and enforce CFI’s legal rights, interests and remedies to protect the business operations and customers of CFI or other persons</td>
+<td width="216">For our legitimate business interests and for compliance with legal obligations to which we are subject</td>
+</tr>
+<tr>
+<td width="216">To enforce or apply the agreements concerning you (including agreements between you and us)</td>
+<td width="216">For our legitimate business interests and for compliance with legal obligations to which we are subject</td>
+</tr>
+</tbody>
+</table>
+<p>
+<strong>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How We Use Automated Decision Making When We Process Your Personal Information.</strong><br>
+To help us assess your suitability for financial aid, decisions will be made about you using automated computer software on a system.&nbsp; This is known as automated decision making.</p>
+<p>The systems apply pre-defined logic programming and criteria to make a decision and these decisions do not require human input.</p>
+<p>You have the right to challenge any automated decision with us directly.&nbsp; You can object to an automated decision, ask that we do not make automated decisions about you, and ask that a person reviews it. &nbsp;If you want to know more details about your rights, please see section 17(d) below.</p>
+<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How CFI Discloses and Shares Personal Information</strong></p>
+<p><strong>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>General</strong><br>
+CFI discloses your personal information for purposes relating to or arising from your relationship and transactions with CFI and as otherwise set out in this Privacy Policy or permitted by applicable law.</p>
+<p><strong>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Specific Consents</strong><br>
+CFI may disclose your personal information in accordance with express or implied consent that you give during your interactions and transactions with CFI.</p>
+<p><strong>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Affiliates</strong><br>
+CFI Education Inc. and its affiliates may share your personal information with each other and use it in connection with our relationship with you for the provision of our products and services, the whole in accordance with this Privacy Policy. When CFI shares your personal information with its affiliates, CFI may develop, maintain and share a confidential profile for you for use by CFI to provide information, products, and services to you, to facilitate your dealings with CFI and as otherwise set out in this Privacy Policy.</p>
+<p><strong>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Referred Transactions</strong><br>
+If CFI refers you to an independent business (e.g. a sales partner) for a proposed transaction, then CFI may disclose your personal information to the independent business to facilitate the proposed transaction, and in those circumstances, CFI has no control over, or responsibility or liability for, the use, disclosure or retention of your personal information by the independent business, and the use, disclosure and retention of the disclosed information by the independent business is <u>not</u> subject to this Privacy Policy.</p>
+<p><strong>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Suppliers and Service Providers</strong><br>
+CFI may disclose your personal information to its suppliers and third-party service providers, such as our payments processor or our analytics provider, to assist CFI in the provision of information, products, and services to you, to provide services to CFI, to assist CFI to use your personal information as set out in this Privacy Policy and as otherwise permitted by applicable law.</p>
+<p><strong>(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Professional Advisers</strong><br>
+CFI may disclose your personal information to our professional advisers including accountants, lawyers, and other professional advisers that assist us in carrying out our business activities.</p>
+<p><strong>(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Law Enforcement/Legal Disclosures</strong><br>
+CFI may disclose your personal information as required or authorized by applicable law, including to comply with a subpoena, warrant, or court or arbitral order or litigation disclosure obligation. CFI may disclose your personal information to law enforcement agencies or other independent organizations if CFI reasonably believes the disclosure is necessary or appropriate in connection with national security, law enforcement, or other issues of public importance, or if CFI reasonably believes the disclosure is necessary or appropriate to protect and enforce CFI’s legal rights, interests and remedies or to protect the rights, interests, business, operations or customers of CFI or other persons (including to detect and prevent fraud and other illegal activities, to enforce any of the terms of use, terms of service or other agreements that govern access to or use of any of CFI’s products or services). CFI has no control over, or responsibility or liability for, the use, disclosure or retention of your personal information by the agencies, independent organizations or other persons to whom CFI discloses the information in the foregoing circumstances, and the use, disclosure and retention of the disclosed information by those agencies, independent organizations or other persons is <u>not</u> subject to this Privacy Policy.</p>
+<p><strong>(h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Business Transactions</strong><br>
+CFI may disclose your personal information in connection with a proposed or actual business transaction in which CFI is involved (e.g. a corporate amalgamation, reorganization, merger or acquisition, or the sale or transfer of some or all of CFI’s business or assets), but CFI will require the information recipient to agree to protect the privacy of your personal information in a manner that is consistent with this Privacy Policy and applicable law.</p>
+<p><strong>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Information that You Share</strong><br>
+You may use CFI’s products and services (including membership in the Global Corporate Finance Society by creating a Global Corporate Finance Society member profile) to share your personal information and other information and content with other users of CFI’s products and services, including other Global Corporate Finance Society members (collectively “<strong>CFI Users</strong>”). When you do so, the information and content that you share can be read, collected, used, retained, and disclosed by other CFI Users and may be publicly available on CFI’s websites. You are solely responsible for the information and content that you choose to share with other CFI Users and in your Global Corporate Finance Society member profile. CFI has no control over, or responsibility or liability for, the way in which the information or content that you share is collected, used, retained, or disclosed by other CFI Users. CFI encourages you to be careful when you share information or content, including the information in your Global Corporate Finance Society member profile.</p>
+<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location and Transfer of Personal Information</strong><br>
+CFI and its service providers may process, store, and use your personal information at facilities in various locations, including Canada, the United States of America, the European Economic Area, and Asia.</p>
+<p>If you are located in the European Economic Area and we transfer your personal information outside the European Economic Area, we will implement appropriate and suitable safeguards to ensure that such data will be protected as required by applicable data protection law. For example, appropriate and suitable safeguards may include the transfer of personal information where the recipient has agreed to a European Commission approved data transfer agreement in the form of the standard contractual clauses under Article 46(2) of the GDPR; or the transfer of personal information to a country that is subject to a European decision of adequacy (e.g. Canada).</p>
+<p>If you are located outside the European Economic Area, by providing your personal information to CFI, you consent to the transfer of the personal information to facilities located in other countries and the processing and storage of the personal information at those facilities.</p>
+<p>For further information on the steps taken relating to such transfers and the safeguards in place, please contact our Privacy Officer using the details listed at the end of this Privacy Policy.</p>
+<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retention of Personal Information</strong><br>
+We will retain your personal information for the period reasonably necessary for the purposes set out or referenced in this Privacy Policy and to comply with CFI’s legal obligations or enforce or protect CFI’s legal rights, or a longer period required or permitted by applicable law. CFI will delete or dispose of your personal information, or depersonalize the information when CFI is no longer reasonably required to retain the information for the purposes set out in this Privacy Policy.</p>
+<p>Please note that all of the above retention periods may be extended where we need to preserve and use personal information for the purposes of bringing or defending a legal claim.&nbsp; In such cases, we will continue to hold and process your personal information for as long as is necessary to deal with the legal proceedings.</p>
+<p>For further information as to our retention periods, please contact our Privacy Officer using the contact details as set out at the end of this Privacy Policy.</p>
+<p><strong>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your California Privacy Rights</strong><br>
+California law permits California residents who provide us with personal information to request certain information regarding our disclosure of such information to third parties for their direct marketing purposes. We do not, at this time, disclose such information to third parties for their direct marketing purposes. If we change this policy, we will update this provision and provide instructions on how you may make a request for details.&nbsp; If any other state enacts a law similar to the California law, then this provision will also apply to residents of such states.</p>
+<p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do Not Track Signals; Tracking Across Third Party Websites</strong><br>
+Certain mechanisms may allow you to send web browser signals known as “Do Not Track” (“DNT”) signals, indicating your choice to disable tracking on our website.&nbsp; We do not respond to browser and do not track signals at this time.&nbsp; We may not be aware of or able to honor and respond to every such mechanism. More information about “do not track” is available at <a href="https://allaboutdnt.com/" target="_blank" rel="noopener">www.allaboutdnt.org</a>.</p>
+<p>Third parties, other than our vendors (such as our website analytics provider), do not have authorization from us to track which websites you visited prior to and after visiting our website. That said, we cannot control third-party tracking and there may be some third party tracking that occurs without our knowledge or consent.</p>
+<p><strong>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Protection of Personal Information</strong><br>
+CFI uses reasonable safeguards – including administrative, physical, and technical security and safeguarding measures – appropriate to the sensitivity of the personal information in CFI’s possession or under CFI’s control to help protect the information from unauthorized access, collection, use, disclosure, deletion or similar risks. Nevertheless, security risks cannot be eliminated and CFI cannot guarantee that your personal information will not be accessed, used, disclosed, or deleted in ways not otherwise described in this Privacy Policy.</p>
+<p><strong>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accuracy and Access to Personal Information</strong><br>
+CFI will rely on you to ensure that the personal information that you provide to CFI is as accurate, complete and up to date as necessary for the purposes for which CFI uses the personal information. You will promptly notify CFI of any changes to the personal information that you provide to CFI using the procedures made available for that purpose by CFI or by contacting CFI’s Privacy Officer using the contact information noted below.</p>
+<p>You have certain rights with respect to your personal information.&nbsp; The rights may only apply in certain circumstances and are subject to certain exemptions.&nbsp; Please see the table below for a summary of your rights.&nbsp; You can exercise these rights using the contact details at the end of this Privacy Policy.
+</p>
+<table class="table table-small table-striped table-bordered" width="92%">
+<thead>
+<tr>
+<td width="135"><strong>Right</strong></td>
+<td width="294"><strong>Summary of your rights</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="135">Right of access to your personal information</td>
+<td width="294">You have the right to receive a copy of your personal information that we hold about you, subject to certain exemptions.</td>
+</tr>
+<tr>
+<td width="135">Right to rectify your personal information</td>
+<td width="294">You have the right to ask us to correct your personal information that we hold where it is incorrect or incomplete.</td>
+</tr>
+<tr>
+<td width="135">Right to erasure of your personal information:</td>
+<td width="294">You have the right to ask that your personal information be deleted in certain circumstances.&nbsp; For example (i) where your personal information is no longer necessary in relation to the purposes for which they were collected or otherwise used; (ii) if you withdraw your consent and there is no other legal ground for which we rely on for the continued use of your personal information; (iii) if you object to the use of your personal information (as set out below); (iv) if we have used your personal information unlawfully; or (v) if your personal information needs to be erased to comply with a legal obligation.</td>
+</tr>
+<tr>
+<td width="135">Right to restrict the use of your personal information</td>
+<td width="294">You have the right to suspend our use of your personal information in certain circumstances.&nbsp; For example (i) where you think your personal information is inaccurate and only for such period to enable us to verify the accuracy of your personal information; (ii) the use of your personal information is unlawful and you oppose the erasure of your personal information and request that it is suspended instead; (iii) we no longer need your personal information, but your personal information is required by you for the establishment, exercise or defense of legal claims; or (iv) you have objected to the use of your personal information and we are verifying whether our grounds for the use of your personal information override your objection.</td>
+</tr>
+<tr>
+<td width="135">Right to data portability</td>
+<td width="294">You have the right to obtain personal information that you have provided to us in a structured, commonly used, and machine-readable format and for it to be transferred to you or another organization, where it is technically feasible. The right only applies where the use of the personal information you provided was with your consent or for the performance of a contract with you, and when the use of your personal information is carried out by automated (i.e. electronic) means.</td>
+</tr>
+<tr>
+<td width="135">Right to object to the use of your personal information</td>
+<td width="294">You have the right to object to the use of your personal information in certain circumstances. For example (i) where you have grounds relating to your particular situation and we use your personal information for our legitimate interests (or those of a third party); and (ii) if you object to the use of your personal information for direct marketing purposes.</td>
+</tr>
+<tr>
+<td width="135">Right to withdraw consent</td>
+<td width="294">You have the right to withdraw your consent at any time where we rely on consent to use your personal information.</td>
+</tr>
+<tr>
+<td width="135">Right to complain to the relevant data protection authority</td>
+<td width="294">You have the right to complain to the relevant data protection authority where you think we have not used your personal information in accordance with data protection law.</td>
+</tr>
+</tbody>
+</table>
+<p>
+<strong>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non-Personal Information</strong><br>
+CFI may use personal information to create and collect non-personal information (information that is not about an identifiable individual), including personal information that has been aggregated or otherwise depersonalized so that the information no longer relates to an identifiable individual. CFI may use, disclose, transfer, and retain non-personal information for any purpose and in any manner whatsoever. If non-personal information is combined with personal information, then CFI will treat the combined non-personal information as personal information for the purposes of this Privacy Policy for as long as the non-personal information is combined with your personal information.</p>
+<p><strong>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other Websites and Businesses</strong><br>
+CFI’s websites and correspondence (including emails and messages) may include advertisements for products and services offered by independent businesses or links to websites operated by independent businesses. CFI has no responsibility or liability for, or control over, those other websites, online services, or businesses, their products or services, or their collection, use, disclosure, or retention of your personal information. This Privacy Policy does <u>not</u> apply to the collection, use, disclosure, and retention of your personal information by those websites, online services, and independent businesses. If you have questions about how those websites, online services, or independent businesses collect, use, disclose or retain personal information, please contact the owner or operator of the website, service, or business.</p>
+<p><strong>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social Networking and Similar Situations</strong><br>
+When you use certain aspects of CFI’s websites or other services, or post information to other social networking sites (e.g. there may be links to CFI’s Facebook, Twitter, Instagram, YouTube, LinkedIn or Google+ pages or you may be able to “like” a product on your Facebook account or “pin” a product on your Pinterest account), the personal information that you post or share in connection with these third-party sites is visible to other persons and can be read, collected, used and disclosed by other persons, including to send unsolicited messages. As will be evident, in such a case, you will be leaving a CFI website and going to the third party’s website. Any information provided to such third party social networking sites and other sites is governed by their own privacy policies, which you may read on the applicable site. You are solely responsible for the personal information that you choose to post or share in those situations. CFI has no control over, or responsibility or liability for, the use, disclosure, and retention of the personal information that you disclose in those situations, and the use, disclosure, and retention of the disclosed information is not subject to this Privacy Policy.</p>
+<p><strong>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other Matters</strong></p>
+<p><strong>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Disclaimers, Liability Exclusions/Limitations, and Disputes:</strong>&nbsp; The agreements (including any website terms of use) that you accept when you apply, register for, order, or use CFI’s products and services contain important provisions, including provisions disclaiming, limiting or excluding the liability of CFI and other persons (including service providers) and provisions determining the applicable law and jurisdiction for the resolution of disputes. To the extent permitted by applicable law, each of those provisions applies to any dispute that may arise in relation to this Privacy Policy or CFI’s collection, use, disclosure, and retention of your personal information, and are of the same force and effect as if they were reproduced directly in this Privacy Policy. Nothing in this Privacy Policy amends any of those other agreements.</p>
+<p><strong>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Changes to this Policy:</strong>&nbsp; CFI may change this Privacy Policy as it applies to CFI from time to time by posting a new version of this Privacy Policy on CFI’s websites. CFI’s collection, use, disclosure, and retention of your personal information will be governed by the version of this Privacy Policy in effect at that time. Your continued dealings with CFI after any change to this Privacy Policy will signify your consent to the collection, use, disclosure, and retention of your personal information by CFI as set out in the changed Privacy Policy. Accordingly, you should check the “Last Updated” date of this Privacy Policy (at the top of this Privacy Policy) and review any changes since the last version.</p>
+<p><strong>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>English Language:</strong>&nbsp; You and CFI have each expressly requested and required that this Privacy Policy and all other related documents be drawn up in the English language. Les parties conviennent et exigent expressement que cette Politique de Confidentialité et tous les documents qui s’y rapportent soient rédigés en anglais.</p>
+<p><strong>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Contacting CFI’s Privacy Officer:</strong>&nbsp; If you have any comments or questions about this Privacy Policy or how CFI deals with your personal information, please contact CFI’s Privacy Officer by mail or email at: Corporate Finance Institute – Privacy Officer, 1200 Waterfront Centre, 200 Burrard Street, P.O. Box 48600, Vancouver, BC, Canada&nbsp; V7X 1T2; email: privacy@corporatefinanceinstitute.com.</p>
+<p>Read all of&nbsp;<a href="https://corporatefinanceinstitute.com/legal/">CFI’s Legal Information</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<section class="section footer-link-section ">
+<div class="container">
+<div class="row">
+<div class="footer-links-wrapper">
+<div class="footer-link-section-content">
+<a href="http://courses.corporatefinanceinstitute.com/collections" class="icon-with-link" title="Corporate Finance Institute">
+<img src="" class="lazy" data-src="https://cdn.corporatefinanceinstitute.com/wp-content/themes/cfi/dist/images/logo-large-r.svg" alt="Corporate Finance Institute logo">
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer class="section">
+<div class="container">
+<div class="logo-container">
+<a class="logo-wrapper" href="https://corporatefinanceinstitute.com">
+<span class="sr-only">CFI logo</span>
+<div class="logo-footer lazybg" data-lazybg="https://cdn.corporatefinanceinstitute.com/wp-content/themes/cfi/dist/images/logotm.svg"></div>
+</a>
+<a href="https://corporatefinanceinstitute.com/about-cfi/careers-at-cfi/?internal-source=footer" class="footer_button">We're hiring!</a>
+</div>
+<div class="menu-wrapper footer-icons-floating-as-row">
+<ul id="menu-footer-navigation" class="footer-navigation "><li class="active menu-item menu-item-has-children menu-company"><a href="https://corporatefinanceinstitute.com/about-cfi/">Company</a>
+<ul class="sub-menu">
+<li class="active menu-item menu-about"><a href="https://corporatefinanceinstitute.com/about-cfi/">About</a></li>
+<li class="menu-item menu-meet-our-team"><a href="https://corporatefinanceinstitute.com/about-cfi/faculty-team/">Meet Our Team</a></li>
+<li class="menu-item menu-careers"><a href="https://corporatefinanceinstitute.com/about-cfi/careers-at-cfi/">Careers</a></li>
+<li class="menu-item menu-learner-reviews"><a href="https://corporatefinanceinstitute.com/learner-reviews/">Learner Reviews</a></li>
+<li class="menu-item menu-for-teams"><a href="https://corporatefinanceinstitute.com/cfi-for-teams/">For Teams</a></li>
+<li class="menu-item menu-affiliates"><a href="https://corporatefinanceinstitute.com/affiliates/">Affiliates</a></li>
+<li class="menu-item menu-for-universities"><a href="https://corporatefinanceinstitute.com/about-cfi/university-partnerships/">For Universities</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-has-children menu-certifications"><a href="https://corporatefinanceinstitute.com/certifications/">Certifications</a>
+<ul class="sub-menu">
+<li class="menu-item menu-financial-modeling-valuation-analyst-fmva"><a href="https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/">Financial Modeling &amp; Valuation Analyst (FMVA)®</a></li>
+<li class="menu-item menu-commercial-banking-credit-analyst-cbca"><a href="https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/">Commercial Banking &amp; Credit Analyst (CBCA)™</a></li>
+<li class="menu-item menu-capital-markets-securities-analyst-cmsa"><a href="https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/">Capital Markets &amp; Securities Analyst (CMSA)®</a></li>
+<li class="menu-item menu-business-intelligence-data-analyst-bida"><a href="https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/">Business Intelligence &amp; Data Analyst (BIDA)™</a></li>
+<li class="menu-item menu-cpe-credits"><a href="https://corporatefinanceinstitute.com/about-cfi/cpe-credits-online/">CPE Credits</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-has-children menu-courses"><a href="https://corporatefinanceinstitute.com/collections">Courses</a>
+<ul class="sub-menu">
+<li class="menu-item menu-accounting"><a href="https://corporatefinanceinstitute.com/topic/accounting/">Accounting</a></li>
+<li class="menu-item menu-excel"><a href="https://corporatefinanceinstitute.com/topic/excel/">Excel</a></li>
+<li class="menu-item menu-finance"><a href="https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/">Finance</a></li>
+<li class="menu-item menu-financial-modeling"><a href="https://corporatefinanceinstitute.com/topic/financial-modeling/">Financial Modeling</a></li>
+<li class="menu-item menu-environment-social-governance-esg"><a href="https://corporatefinanceinstitute.com/topic/environment-social-governance-esg/">Environment, Social, Governance (ESG)</a></li>
+<li class="menu-item menu-business-intelligence"><a href="https://corporatefinanceinstitute.com/topic/business-intelligence/">Business Intelligence</a></li>
+<li class="menu-item menu-data-science"><a href="https://corporatefinanceinstitute.com/topic/data-science/">Data Science</a></li>
+<li class="menu-item menu-machine-learning"><a href="https://corporatefinanceinstitute.com/topic/data-science-machine-learning/">Machine Learning</a></li>
+<li class="menu-item menu-all-courses"><a href="https://corporatefinanceinstitute.com/collections">All Courses</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-has-children menu-support"><a href="https://help.corporatefinanceinstitute.com/">Support</a>
+<ul class="sub-menu">
+<li class="menu-item menu-financial-aid"><a href="https://corporatefinanceinstitute.com/about-cfi/financial-aid/">Financial Aid</a></li>
+<li class="menu-item menu-1-pledge"><a href="https://corporatefinanceinstitute.com/about-cfi/pledge-1-percent/">1% Pledge</a></li>
+<li class="menu-item menu-help-faq"><a href="https://help.corporatefinanceinstitute.com/">Help | FAQ</a></li>
+<li class="menu-item menu-contact-us"><a href="https://corporatefinanceinstitute.com/about-cfi/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-scholarships"><a href="https://corporatefinanceinstitute.com/resources/career/cfi-scholarship-winners/">Scholarships</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-has-children menu-resources"><a href="https://corporatefinanceinstitute.com/resources">Resources</a>
+<ul class="sub-menu">
+<li class="menu-item menu-knowledge-library"><a href="/resources/knowledge/">Knowledge Library</a></li>
+<li class="menu-item menu-templates"><a href="/resources/templates/">Templates</a></li>
+<li class="menu-item menu-jobs-careers"><a href="/resources/careers/jobs/">Jobs &amp; Careers</a></li>
+<li class="menu-item menu-excel-skills"><a href="/resources/excel/">Excel Skills</a></li>
+<li class="menu-item menu-ebooks"><a href="/resources/ebooks/">eBooks</a></li>
+</ul>
+</li>
+</ul>
+<div class="footer-icons footer-icons-floating footer-icons-floating-as-row">
+<div class="row">
+<div class="footer-icon ">
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://seal-mbc.bbb.org/inc/legacy.js"></script><a href="https://www.bbb.org/ca/bc/vancouver/profile/online-education/corporate-finance-institute-cfi-0037-2405665/#sealclick" id="bbblink" class="ruhzbus" target="_blank" rel="nofollow"><img class="lazy" data-src="https://seal-mbc.bbb.org/logo/ruhzbul/bbb-2405665.png" style="border: 0;" alt="Corporate Finance Institute (CFI) BBB Business Review"></a> </div>
+<div class="footer-icon ">
+<a href="https://www.inspiring-workplaces.com/" rel="nofollow noreferrer" target="_blank">
+<span class="sr-only">Logo</span>
+<img src="" data-src="//cdn.corporatefinanceinstitute.com/assets/north_america.png" class="attachment-full size-full lazy" alt="">
+</a>
+</div>
+<div class="footer-icon corporate-culture-winner">
+<a href="https://waterstonehc.com/canadas-most-admired/canadas-most-admired-corporate-cultures/corporate-culture-winners/" rel="nofollow noreferrer" target="_blank">
+<span class="sr-only">Logo</span>
+<img src="" data-src="//cdn.corporatefinanceinstitute.com/assets/CFI-Corporate-Culture-Winner.png" class="attachment-full size-full lazy" alt="">
+</a>
+</div>
+<div class="footer-icon soc2-logo">
+<img src="" data-src="//cdn.corporatefinanceinstitute.com/assets/soc2-logo.png" class="attachment-full size-full lazy" alt="">
+</div>
+</div>
+</div>
+</div>
+<div class="footer-icons ">
+<div class="row">
+<div class="footer-icon ">
+<a href="https://corporatefinanceinstitute.com/cfi-for-teams/" rel="">
+<span class="sr-only">Logo</span>
+<img src="" data-src="//cdn.corporatefinanceinstitute.com/assets/cfi-for-teams-brand.svg" class="attachment-full size-full lazy" alt="">
+</a>
+</div>
+<div class="footer-icon ">
+<a href="https://corporatefinanceinstitute.com/about-cfi/about-macabacus/" rel="">
+<span class="sr-only">Logo</span>
+<img src="" data-src="//cdn.corporatefinanceinstitute.com/assets/macabacus-logo.svg" class="attachment-full size-full lazy" alt="">
+</a>
+</div>
+</div>
+</div>
+<div class="footer-icons footer-icons-floating">
+<div class="row">
+<div class="footer-icon ">
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://seal-mbc.bbb.org/inc/legacy.js"></script><a href="https://www.bbb.org/ca/bc/vancouver/profile/online-education/corporate-finance-institute-cfi-0037-2405665/#sealclick" id="bbblink" class="ruhzbus" target="_blank" rel="nofollow"><img class="lazy" data-src="https://seal-mbc.bbb.org/logo/ruhzbul/bbb-2405665.png" style="border: 0;" alt="Corporate Finance Institute (CFI) BBB Business Review"></a> </div>
+<div class="footer-icon ">
+<a href="https://www.inspiring-workplaces.com/" rel="nofollow noreferrer" target="_blank">
+<span class="sr-only">Logo</span>
+<img src="" data-src="//cdn.corporatefinanceinstitute.com/assets/north_america.png" class="attachment-full size-full lazy" alt="">
+</a>
+</div>
+<div class="footer-icon corporate-culture-winner">
+<a href="https://waterstonehc.com/canadas-most-admired/canadas-most-admired-corporate-cultures/corporate-culture-winners/" rel="nofollow noreferrer" target="_blank">
+<span class="sr-only">Logo</span>
+<img src="" data-src="//cdn.corporatefinanceinstitute.com/assets/CFI-Corporate-Culture-Winner.png" class="attachment-full size-full lazy" alt="">
+</a>
+</div>
+<div class="footer-icon soc2-logo">
+<img src="" data-src="//cdn.corporatefinanceinstitute.com/assets/soc2-logo.png" class="attachment-full size-full lazy" alt="">
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="footer-links-subsection">
+<div class="bottom-menu">
+<div class="copyright-wrap">
+© 2015 to 2022 CFI Education Inc. </div>
+<div class="social-links-wrap">
+<a class="social-button" title="Follow us on LinkedIn" href="https://www.linkedin.com/school/corporate-finance-institute-cfi/" target="_blank" rel="nofollow noreferrer">
+<span class="sr-only">Follow us on LinkedIn</span>
+<i class="fab fa-linkedin"></i>
+</a>
+<a class="social-button" title="Follow us on Instagram" href="https://www.instagram.com/corporatefinanceinstitute/" target="_blank" rel="nofollow noreferrer">
+<span class="sr-only">Follow us on Instagram</span>
+<i class="fab fa-instagram"></i>
+</a>
+<a class="social-button" title="Follow us on Facebook" href="https://www.facebook.com/corporatefinanceinstitute.CFI/" target="_blank" rel="nofollow noreferrer">
+<span class="sr-only">Follow us on Facebook</span>
+<i class="fab fa-facebook"></i>
+</a>
+<a class="social-button" title="Follow us on YouTube" href="https://www.youtube.com/c/Corporatefinanceinstitute-CFI" target="_blank" rel="nofollow noreferrer">
+<span class="sr-only">Follow us on YouTube</span>
+<i class="fab fa-youtube"></i>
+</a>
+</div>
+<div class="footer-links-wrap">
+<ul id="menu-footer-links" class="footer-links-menu"><li class="active menu-item menu-privacy-policy"><a href="https://corporatefinanceinstitute.com/about-cfi/privacy-policy/" aria-current="page">Privacy Policy</a></li>
+<li class="menu-item menu-terms-of-use"><a href="https://corporatefinanceinstitute.com/about-cfi/website-terms-of-use/">Terms of Use</a></li>
+<li class="menu-item menu-terms-of-service"><a href="https://corporatefinanceinstitute.com/about-cfi/cfi-terms-of-service/">Terms of Service</a></li>
+<li class="menu-item menu-legal"><a href="https://corporatefinanceinstitute.com/about-cfi/legal/">Legal</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+</footer>
+<script type="rocketlazyloadscript" async="" data-rocket-type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=TsKLPy"></script>
+<div class="footer-fixed">
+</div>
+<div class="search-fixed-box " id="searchFixedBox">
+<div class="mobile-close-btn closeSearchFixedBox">
+<i class="far fa-times"></i>
+</div>
+
+<div class="search-header">
+<div class="container">
+<div class="row">
+<a class="brand" href="https://corporatefinanceinstitute.com/">
+Corporate Finance Institute </a>
+<div class="search-box">
+<form role="search" method="get" class="search-form" action="https://corporatefinanceinstitute.com">
+<input class="search-field" autocomplete="off" placeholder="Search" name="s" data-id="callTheSearchBox" required="" type="search">
+<div class="icon-search"></div>
+<div class="cancel-button closeSearchFixedBox">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 25 25">
+<circle cx="12.5" cy="12.5" r="12.5" fill="#3271D2"></circle>
+<g transform="translate(6.818 6.818)">
+<path d="M0,0,11.418,10.21" transform="matrix(0.998, 0.07, -0.07, 0.998, 0.712, 0.219)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"></path>
+<path d="M0,0,11.418,10.21" transform="translate(11.156) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"></path>
+</g>
+</svg>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="container search-fixed-box-body search-result ">
+<div class="row">
+<div class="col-12" id="searchResult">
+<div class="row">
+<div class="col-12">
+<div class="back-home-container">
+<a href="https://corporatefinanceinstitute.com" class="link-back" data-ignore-recent-search="true">Back to Website</a>
+</div>
+<div class="search-term-result">
+0 search results for ‘<span class="term"></span>’
+</div>
+<div class="row"><div class="col-md-6 col-sm-12"></div><div class="col-md-6 col-sm-12 search-section-courses"></div></div><div class="search-section">
+<div class="search-section-body">
+<div class="people-also-search">
+<div class="search-terms">
+<span class="title">
+People also search for:
+</span>
+<span class="search-term">
+excel </span>
+<span class="search-term">
+Free </span>
+<span class="search-term">
+free courses </span>
+<span class="search-term">
+accounting </span>
+<span class="search-term">
+Balance sheet </span>
+<span class="search-term">
+DCF </span>
+<span class="search-term">
+wacc </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="container search-fixed-box-body search-preview ">
+<div class="row">
+<div class="col-12" id="previewContent">
+<div class="search-section">
+<div class="search-section-header">
+<div class="sub-title">
+Explore Our Certifications </div>
+</div>
+<div class="search-section-body">
+<div class="certificate-cards">
+<a class="certificate-card" href="https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/" style="background: linear-gradient(45deg, #692424 0%, #C96969 100%);">
+<div class="certificate-title">
+Financial Modeling &amp; Valuation Analyst (FMVA)® </div>
+<div class="certificate-logo lazybg" data-lazybg="//cdn.corporatefinanceinstitute.com/assets/fmva-certified-icon-1.svg"></div>
+<div class="certificate-image lazybg" data-lazybg="//cdn.corporatefinanceinstitute.com/assets/FMVA_Certificate_CFI.jpg"></div>
+<div class="certificate-link-hover">Learn more</div>
+</a>
+<a class="certificate-card" href="https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/" style="background:  linear-gradient(257.61deg, #F1AB5B 0%, #A4461B 100%)">
+<div class="certificate-title">
+Commercial Banking &amp; Credit Analyst (CBCA)™ </div>
+<div class="certificate-logo lazybg" data-lazybg="//cdn.corporatefinanceinstitute.com/assets/cbca-certified-icon-1.svg"></div>
+<div class="certificate-image lazybg" data-lazybg="//cdn.corporatefinanceinstitute.com/assets/cbca_certificate_image_cfi.jpg"></div>
+<div class="certificate-link-hover">Learn more</div>
+</a>
+<a class="certificate-card" href="https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/" style="background: linear-gradient(225deg, #8562DA 0%, #132E57 100%);">
+<div class="certificate-title">
+Capital Markets &amp; Securities Analyst (CMSA)® </div>
+<div class="certificate-logo lazybg" data-lazybg="//cdn.corporatefinanceinstitute.com/assets/CMSA-Certification-badge-1.svg"></div>
+<div class="certificate-image lazybg" data-lazybg="//cdn.corporatefinanceinstitute.com/assets/cmsa_certificate_image_cfi.jpg"></div>
+<div class="certificate-link-hover">Learn more</div>
+</a>
+<a class="certificate-card" href="https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/" style="background: linear-gradient(45deg, #1C4582 0%, #5C8EDB 100%)">
+<div class="certificate-title">
+Certified Business Intelligence &amp; Data Analyst (BIDA)™ </div>
+<div class="certificate-logo lazybg" data-lazybg="//cdn.corporatefinanceinstitute.com/assets/bida-logo.svg"></div>
+<div class="certificate-image lazybg" data-lazybg="//cdn.corporatefinanceinstitute.com/assets/Certificate-BIDA.png"></div>
+<div class="certificate-link-hover">Learn more</div>
+</a>
+</div>
+</div>
+</div>
+<div class="row"><div class="col-md-6 col-sm-12"><div class="search-section">
+<div class="search-section-header">
+<div class="sub-title">
+Resources </div>
+</div>
+<div class="search-section-body">
+<div id="_ddcf50c292" class="search-box-cards-wrapper">
+<div class="page-card ">
+<a href="https://corporatefinanceinstitute.com/resources/excel/shortcuts/excel-shortcuts-pc-mac/" data-title="Excel Shortcuts PC Mac">
+<span class="page-content">
+<span class="page-title">
+Excel Shortcuts PC Mac </span>
+<span class="page-description">
+List of Excel Shortcuts
+Excel shortcuts[citation... </span>
+</span>
+</a>
+</div>
+<div class="page-card ">
+<a href="https://corporatefinanceinstitute.com/resources/knowledge/modeling/free-financial-modeling-guide/" data-title="Financial Modeling Guidelines">
+<span class="page-content">
+<span class="page-title">
+Financial Modeling Guidelines </span>
+<span class="page-description">
+CFI’s free Financial Modeling Guidelines is a thorough and complete resource covering model design, model building blocks, and common tips, tricks, and... </span>
+</span>
+</a>
+</div>
+<div class="page-card ">
+<a href="https://corporatefinanceinstitute.com/resources/knowledge/data-analysis/sql-data-types/" data-title="SQL Data Types">
+<span class="page-content">
+<span class="page-title">
+SQL Data Types </span>
+<span class="page-description">
+What are SQL Data Types?
+The Structured Query Language (SQL) comprises several different data types that allow it to store different types of information... </span>
+</span>
+</a>
+</div>
+<div class="page-card ">
+<a href="https://corporatefinanceinstitute.com/resources/knowledge/data-analysis/structured-query-language-sql/" data-title="Structured Query Language (SQL)">
+<span class="page-content">
+<span class="page-title">
+Structured Query Language (SQL) </span>
+<span class="page-description">
+What is Structured Query Language (SQL)?
+Structured Query Language (SQL) is a specialized programming language designed for interacting with a database.... </span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="search-section-footer">
+<a href="https://corporatefinanceinstitute.com/resources/" class="btn-link-arrow right" data-title="Resources">
+<span class="desktop">See All Resources</span>
+<span class="mobile">See All</span>
+</a>
+</div>
+</div>
+</div><div class="col-md-6 col-sm-12"><div class="search-section">
+<div class="search-section-header">
+<div class="sub-title">
+Popular Courses </div>
+</div>
+<div class="search-section-body">
+<div id="_7ef22b9769" class="search-box-cards-wrapper">
+<div class="course-card  ">
+<div class="course-content">
+<a href="https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/" data-title="Excel Fundamentals - Formulas for Finance">
+<span class="course-content-header">
+<span class="course-image">
+<img class="lazy" src="" alt="" data-src="https://s3.eu-central-1.amazonaws.com/cfi-lms-prod-multimedia/course_image/fe7624c3-8c6f-4f5c-96d8-efd30a0a6ca7.">
+</span>
+<span class="course-title-wrap">
+<span class="course-before-title">
+<span class="course-before-title-category">
+<span class="course-free-badge">
+Free!
+</span>
+<span>FMVA® Prep Course</span>
+</span>
+<span>3.5h</span>
+</span>
+<span class="course-title">
+Excel Fundamentals - Formulas for Finance </span>
+</span>
+</span>
+</a>
+</div>
+</div>
+<div class="course-card  ">
+<div class="course-content">
+<a href="https://corporatefinanceinstitute.com/course/learn-to-build-a-financial-model-in-excel-online/" data-title="Building a 3 Statement Financial Model">
+<span class="course-content-header">
+<span class="course-image">
+<img class="lazy" src="" alt="" data-src="https://s3.eu-central-1.amazonaws.com/cfi-lms-prod-multimedia/course_image/d9b0ad26-1858-4f04-a019-314529de6e45.">
+</span>
+<span class="course-title-wrap">
+<span class="course-before-title">
+<span class="course-before-title-category">
+<span>FMVA® Required</span>
+</span>
+<span>5.5h</span>
+</span>
+<span class="course-title">
+Building a 3 Statement Financial Model </span>
+</span>
+</span>
+</a>
+</div>
+</div>
+<div class="course-card  ">
+<div class="course-content">
+<a href="https://corporatefinanceinstitute.com/course/business-valuation-fundamentals-certificate-course/" data-title="Business Valuation Modeling Part I">
+<span class="course-content-header">
+<span class="course-image">
+<img class="lazy" src="" alt="" data-src="https://s3.eu-central-1.amazonaws.com/cfi-lms-prod-multimedia/course_image/95a97633-f94b-4f22-8f78-b555b81315c7.">
+</span>
+<span class="course-title-wrap">
+<span class="course-before-title">
+<span class="course-before-title-category">
+<span>FMVA® Required</span>
+</span>
+<span>7.5h</span>
+</span>
+<span class="course-title">
+Business Valuation Modeling Part I </span>
+</span>
+</span>
+</a>
+</div>
+</div>
+<div class="course-card  ">
+<div class="course-content">
+<a href="https://corporatefinanceinstitute.com/course/sensitivity-analysis-financial-modeling/" data-title="Scenario &amp; Sensitivity Analysis in Excel">
+<span class="course-content-header">
+<span class="course-image">
+<img class="lazy" src="" alt="" data-src="https://s3.eu-central-1.amazonaws.com/cfi-lms-prod-multimedia/course_image/0d220ea8-6ce4-4fde-9187-c6737b1b596b.">
+</span>
+<span class="course-title-wrap">
+<span class="course-before-title">
+<span class="course-before-title-category">
+<span>FMVA® Required</span>
+</span>
+<span>2.5h</span>
+</span>
+<span class="course-title">
+Scenario &amp; Sensitivity Analysis in Excel </span>
+</span>
+</span>
+</a>
+</div>
+</div>
+<div class="course-card  ">
+<div class="course-content">
+<a href="https://corporatefinanceinstitute.com/course/excel-dashboard-and-data-visualization-course-online/" data-title="Dashboards &amp; Data Visualization">
+<span class="course-content-header">
+<span class="course-image">
+<img class="lazy" src="" alt="" data-src="https://s3.eu-central-1.amazonaws.com/cfi-lms-prod-multimedia/course_image/5c9d5f1b-9458-4f5a-93fd-cda1e5c68297.">
+</span>
+<span class="course-title-wrap">
+<span class="course-before-title">
+<span class="course-before-title-category">
+<span>BIDA™ Required</span>
+</span>
+<span>6h</span>
+</span>
+<span class="course-title">
+Dashboards &amp; Data Visualization </span>
+</span>
+</span>
+</a>
+</div>
+</div>
+<div class="course-card  ">
+<div class="course-content">
+<a href="https://corporatefinanceinstitute.com/course/leveraged-buyout-lbo-modeling/" data-title="Leveraged Buyout LBO Modeling">
+<span class="course-content-header">
+<span class="course-image">
+<img class="lazy" src="" alt="" data-src="https://s3.eu-central-1.amazonaws.com/cfi-lms-prod-multimedia/course_image/ef32312b-7bc1-4f1c-a66c-9c437410d9ae.">
+</span>
+<span class="course-title-wrap">
+<span class="course-before-title">
+<span class="course-before-title-category">
+<span>FMVA® Electives</span>
+</span>
+<span>15h</span>
+</span>
+<span class="course-title">
+Leveraged Buyout LBO Modeling </span>
+</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="search-section-footer">
+<a href="https://corporatefinanceinstitute.com/collections/most-popular/" class="btn-link-arrow right" data-title="Popular Courses">
+<span class="desktop">See All Courses</span>
+<span class="mobile">See All</span>
+</a>
+</div>
+</div>
+</div></div>
+<div class="row" id="searchPortableBlock">
+<div class="col-md-6 col-sm-12" id="recentSearches">
+<div class="search-section">
+<div class="search-section-header">
+<div class="sub-title">
+Recent Searches </div>
+</div>
+<div class="search-section-body">
+<div class="links-list">
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="search-section">
+<div class="search-section-header">
+<div class="sub-title">
+Suggestions </div>
+</div>
+<div class="search-section-body">
+<div class="links-list">
+<a href="https://corporatefinanceinstitute.com/collections/?cost=free">
+Free Courses </a>
+<a href="https://corporatefinanceinstitute.com/topic/excel/">
+Excel Courses </a>
+<a href="https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/">
+Financial Modeling &amp; Valuation Analyst (FMVA)® </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+        document.addEventListener( 'wpcf7mailsent', function( event ) {
+        if( "fb_pxl_code" in event.detail.apiResponse){
+          eval(event.detail.apiResponse.fb_pxl_code);
+        }
+      }, false );
+    </script>
+
+<div id="fb-pxl-ajax-code"></div><script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="//cdn.corporatefinanceinstitute.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.16.1" id="gtm4wp-form-move-tracker-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/corporatefinanceinstitute.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type="text/javascript" id="sage/js-js-extra">
+/* <![CDATA[ */
+var ajax_global = {"ajax_url":"https:\/\/corporatefinanceinstitute.com\/wp-admin\/admin-ajax.php","site_url":"https:\/\/corporatefinanceinstitute.com","thinkific_url":"https:\/\/thinkific.corporatefinanceinstitute.com\/ajax\/","thinkific_url_api":"https:\/\/thinkific.corporatefinanceinstitute.com\/api"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="//cdn.corporatefinanceinstitute.com/wp-content/themes/cfi/dist/scripts/main-33cac83f8a.js?ver=ed00602bb02d17f2ccfdd2f035f5c8f4" id="sage/js-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="wpsp-script-frontend"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+      if (typeof(jQuery) !== 'undefined') {
+        jQuery('body').on('user_interacted', function() {
+          
+jQuery(document).ready(function(){
+!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});
+});
+
+jQuery(document).ready(function(){
+window.Beacon('init', '502360b4-52f7-46dd-902b-7daddfb94664');
+});
+
+          jQuery('body').trigger('beacon_initialized');
+          window.beacon_initialized = true;
+        });
+      }
+    </script>
+<div id="brochure-confirm"></div> 
+
+</body></html>

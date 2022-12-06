@@ -1,0 +1,770 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+skip to main content
+
+
+Close Icon
+        We use cookies to improve your website experience.  To learn about our use of cookies and how you can manage your cookie settings, please see our Cookie Policy.  By continuing to use the website, you consent to our use of cookies.
+    
+
+
+
+
+
+
+
+
+
+
+
+This site is part of the Informa Tech Division of Informa PLC
+
+
+
+
+Informa PLC
+
+
+About Us
+
+
+Investor Relations
+
+
+Talent
+
+
+
+
+
+
+This is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+
+                    About Us
+                
+
+
+
+                    Leadership Team
+                
+
+
+
+                    Join the Team
+                
+
+
+
+                    Our Offices
+                
+
+
+
+
+Solutions
+
+
+
+                    Events
+                
+
+
+
+                    Media
+                
+
+
+
+                    Research
+                
+
+
+
+                    Training
+                
+
+
+
+
+Audiences
+
+
+
+                    AI
+                
+
+
+
+                    Components & Devices
+                
+
+
+
+                    Cybersecurity
+                
+
+
+
+                    Enterprise IT
+                
+
+
+
+                    Game
+                
+
+
+
+                    Industry Verticals
+                
+
+
+
+                    IoT
+                
+
+
+
+                    Media & Entertainment
+                
+
+
+
+                    Service Providers
+                
+
+
+
+
+Brands
+
+
+Newsroom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Informa Cookies Toolkit (EU) 
+                                        
+
+
+
+
+
+
+
+
+
+
+
+Please see website below with relevant cookies listed: 
+
+
+    
+
+
+Website
+Cookie
+Category
+Purpose
+
+
+.doubleclick.net
+IDE
+
+
+This cookie is used for re-targeting, optimisation, reporting and attribution of online adverts.
+
+
+.informa.com
+s_sq
+Targeting or Advertising Cookies
+This cookie is set and read by the JavaScript code when the ClickMap functionality and the Activity Map functionality are enabled; it contains information about the previous link that was clicked on by the user.
+            https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_analytics.html
+
+
+
+
+_gat_UA-81001424-5
+
+
+This is a pattern type cookie set by Google Analytics, where the pattern element on the name contains the unique identity number of the account or website it relates to. It appears to be a variation of the _gat cookie which is used to limit the amount of data recorded by Google on high traffic volume websites. 
+            The main purpose of this cookie is: Performance
+
+
+.youtube.com
+YSC
+
+
+Used by YouTube (Google) for storing user preferences.
+
+
+
+
+PREF
+
+
+Used by YouTube (Google) for storing user preferences.
+
+
+
+
+VISITOR_INFO1_LIVE
+
+
+Used by Youtube (Googe) for their visual layout testing / identification.
+
+
+2o7.net
+s_vi_#
+Targeting or Advertising Cookies
+This cookie stores the visitor ID provided by our analytics provider whenever a user first visits the site.
+
+
+addthis.com
+bt2
+Targeting or Advertising Cookies
+Used by the social sharing platform AddThis to keep a record of parts of the site that has been visited in order to recommend other parts of the site.
+
+
+
+
+di2
+Targeting or Advertising Cookies
+Keeps track of expiry dates of other cookies used by the social sharing platform.
+
+
+
+
+loc
+Targeting or Advertising Cookies
+Geolocation, which is used to help providers determine how users who share information with each other are geographically located (state level).
+
+
+
+
+mus
+Targeting or Advertising Cookies
+Unclassified cookie. 
+
+
+
+
+uid
+Targeting or Advertising Cookies
+Creates a unique, match in e-generated userID. Add This, which is owned by Clearspring Technologies, uses the userID to make it possible for the user to share content across social networks and provide detailed statistics to various providers.
+
+
+
+
+uvc
+Targeting or Advertising Cookies
+Detects how often the social sharing service, AddThis, encounters the same user.
+
+
+
+
+vc
+Targeting or Advertising Cookies
+Used by the social sharing platform AddThis.
+
+
+
+
+xtc
+Targeting or Advertising Cookies
+Registers the user's sharing of content via social media.
+
+
+ads.linkedin.com
+lang
+Functionality Cookies
+Remembers the user's selected language version of a website.
+
+
+
+
+BizoID
+Targeting or Advertising Cookies
+Part of Cookies LinkedIn drops on third party sites for LinkedIn insights and ads tags.
+
+
+
+
+UserMatchHistory
+Targeting or Advertising Cookies
+Unclassified cookie. 
+
+
+adsrvr.org
+TDCPM
+Targeting or Advertising Cookies
+Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+
+
+
+
+TDID
+Targeting or Advertising Cookies
+Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+
+
+bluekai.com
+bkdc
+Targeting or Advertising Cookies
+Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked , with the purpose of optimising ad display based on the user's movement on web sites that use the same ad network.
+
+
+
+
+bku
+Targeting or Advertising Cookies
+Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on web sites that use the same ad network.
+
+
+eloqua.com
+ELOQUA
+Targeting or Advertising Cookies
+Registers a unique ID that identifies the user's device upon return visits. Used for auto-populating forms and to validate if a certain contact is registered to an email group.
+
+
+
+
+ELQSTATUS
+Targeting or Advertising Cookies
+Used to auto-populate forms and validate if a given contact has subscribed to an email group. The cookie is only set if the user allows tracking.
+
+
+google.com
+ads/ga-audiences
+Targeting or Advertising Cookies
+Used by Google Ad Words to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+
+
+
+
+NID
+Targeting or Advertising Cookies
+Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+
+
+google-analytics.com
+collect
+Targeting or Advertising Cookies
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+
+
+informa.com
+__cfduid
+Strictly Necessary Cookies
+Used by the content network, Cloudflare, to identify trusted web traffic.
+
+
+
+
+_ga
+Performance Cookies
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+
+
+
+
+_gat
+Performance Cookies
+Used by Google Analytics to throttle request rate.
+
+
+
+
+_gid
+Performance Cookies
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+
+
+
+
+s_cc
+Performance Cookies
+Used to check if the user's browser supports cookies.
+
+
+
+
+s_fid
+Performance Cookies
+Saves the current Flash version that is available in the user's browser.
+
+
+krxd.net
+_kuid_
+Targeting or Advertising Cookies
+Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. 
+
+
+
+linkedin.com
+bcookie
+Targeting or Advertising Cookies
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+
+
+
+
+bscookie
+Targeting or Advertising Cookies
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+
+
+
+
+lidc
+Targeting or Advertising Cookies
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+
+
+nr-data.net
+JSESSIONID
+Strictly Necessary Cookies
+Preserves users states across page requests.
+
+
+tech.informa.com
+__RequestVerificationToken
+Strictly Necessary Cookies
+Helps prevent Cross-Site Request Forgery (CSRF) attacks.
+
+
+
+
+ASP.NET_SessionId
+Strictly Necessary Cookies
+Preserves the visitor's session state across page requests.
+
+
+
+
+_at.hist.#
+Performance Cookies
+Used by the social sharing platform AddThis to store the user's usage history of the AddThis sharing widget.
+
+
+
+
+SC_ANALYTICS_GLOBAL_COOKIE
+Performance Cookies
+Used by Sitecore Engagement Analytics to identify the visitor on repeat visits to the website.
+
+
+
+
+__atuvc
+Targeting or Advertising Cookies
+Updates the counter of a website's social sharing features.
+
+
+
+
+__atuvs
+Targeting or Advertising Cookies
+Ensures that the updated counter is displayed to the user if a page is shared with the social sharing.
+
+
+
+
+_at.cww
+Targeting or Advertising Cookies
+Used by the social sharing platform AddThis.
+
+
+
+
+_hjDonePolls
+Targeting or Advertising Cookies
+HotJar - Remembers if the user has previously responded to a certain form.
+
+
+
+
+_hjIncludedInSample
+Targeting or Advertising Cookies
+Determines if the user's navigation should be registered in a certain statistical place holder.
+
+
+
+
+at-lojson-cache-#
+Targeting or Advertising Cookies
+Used by the social sharing platform AddThis.
+
+
+
+
+at-rand
+Targeting or Advertising Cookies
+Used by the social sharing platform AddThis.
+
+
+
+
+__atrfs
+Targeting or Advertising Cookies
+
+
+
+
+
+
+SubSectors
+Targeting or Advertising Cookies
+When user performs “Product and Services” search, then all the sectors selected are captured in the Sectors cookie while SubSectors cookie stores the “Needs”. Both these cookies are used for state management purpose only.
+
+
+
+
+PrefernceUpdated
+Targeting or Advertising Cookies
+This cookie appears once the dashboard page is viewed. It captures the “Areas of Interested” selected in the Preference Tab. When user goes to the Recommended Tab, then the articles are refreshed based on the Preferences Tab. This cookie is used for state management purpose only.
+
+
+
+
+USR_DETAIL
+Targeting or Advertising Cookies
+When a user submits a Registration Form, the data submitted in the form is captured in this cookie. Subsequently, the data is then passed on to Eloqua. This cookie is used for passing the data to Eloqua.
+
+
+T
+RUN_ID
+Targeting or Advertising Cookies
+Unclassified cookie. 
+
+
+semasio.net
+SEUNCY
+Targeting or Advertising Cookies
+Registers a uniqueID that identifies the user's device for return visits.
+
+
+tapad.com
+TapAd_DID
+Targeting or Advertising Cookies
+Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.
+
+
+
+
+TapAd_TS
+Targeting or Advertising Cookies
+Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.
+
+
+
+
+TapAd_TTD_SYNC
+Targeting or Advertising Cookies
+Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.
+
+
+vimeo.com
+player
+Functionality Cookies
+Saves the user's preferences when playing embedded videos from Vimeo.
+
+
+
+
+vuid
+Performance Cookies
+Collects data on the user's visits to the website, such as which pages have been read.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Accessibility
+
+
+CCPA: Do not sell my personal info
+
+
+Cookie
+
+
+Privacy
+
+
+Sitemap
+
+
+Terms
+
+
+
+
+
+
+Copyright ©2022 Informa PLC. Informa PLC is registered in England and Wales with company number 8860726 
+whose registered and Head office is 5 Howick Place, London, SW1P 1WG.
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

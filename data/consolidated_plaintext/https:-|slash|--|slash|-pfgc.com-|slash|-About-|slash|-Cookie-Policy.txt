@@ -1,0 +1,414 @@
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+PFGC
+
+
+
+
+×
+
+        This website uses cookies. We use cookies in order to personalize content and ads and to analyze our web traffic.  We may share this data with our third party analytics and advertising partners. For further information on cookies we use and your options to opt out, please see our cookie policy.
+      
+
+Accept Cookies
+Do Not Sell or Share My Personal Info
+Back
+Confirm Opt-Out
+
+
+
+
+
+
+
+
+About
+
+
+
+History
+Locations
+Leadership
+Making a Difference
+News
+
+
+
+
+Segments
+
+
+
+Foodservice
+Vistar
+Convenience
+
+
+
+
+Corporate Responsibility
+
+
+
+Investors
+
+
+
+Careers
+
+
+
+Benefits
+Job Search
+Our People
+Why PFG
+
+
+
+
+Connect
+
+
+
+Contact Us
+Social Media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookie Policy
+
+
+
+
+
+Last Updated: January 26, 2022
+
+This Cookie Policy applies to Performance Food Group, Inc. (“we,” “our,” or “us”), and describes how we use cookies and similar technologies on our website (the “Website”). This Cookie Policy explains what Cookies are, how we use Cookies, how third parties with whom we may partner may use Cookies on our Website, and your choices regarding Cookies.
+What Are Cookies?
+Cookies are small text files stored on your computer or other device. They are widely used to make websites work or improve the efficiency of a website. Cookies help with website functionality and user experience because websites can read and write to these text files, enabling the site to recognize you and remember important information that will make your use of the site more convenient (e.g., by remembering your language or font preference settings). Cookies also allow us to collect information about the pages you view on our website, which we and our advertising partners use to show you relevant ads for products and services when you browse the internet or use social media.
+Cookies Used By Our Website
+The cookies used by our Website include the following:
+Strictly Necessary Cookies. These are Cookies required for the operation of our Website. They include, for example, Cookies that enable you to log in to secure areas of our Website. The Cookies used by our Website may change, but below are some examples of Strictly Necessary Cookies that our Website may use, including the retention periods for such Cookies.
+
+
+
+
+
+ Cookie Name
+Cookie Type
+Description
+Expiration
+
+
+SEARCH_SAMESITE
+Google.com
+Allow servers to mitigate
+            the risk of CSRF and
+            information leakage attacks
+            by asserting that a particular
+            cookie should only be sent
+            with requests initiated from
+            the same registrable domain.
+5 Months 2 days
+
+
+
+
+Analytical Cookies. These Cookies allow us to recognize and count the number of visitors to our Website and to see how visitors navigate our Website. This helps us improve the way our Website works, for example, by ensuring that users can easily find what they are looking for. The Cookies used by our Website may change, but below are some examples of Analytical Cookies that our Website may use, including the retention periods for such Cookies.
+ 
+
+
+
+
+ Cookie Name
+Cookie Type
+Description
+Expiration
+
+
+_ga_*
+Google Analytics
+            Cookie
+Stores and counts
+            pageviews for
+            statistical purposes.
+2 years
+
+
+ _gat_gtag_UA*
+ Google Analytics
+            Cookie
+ Stores unique user ID
+ 1 minute
+
+
+ _ga
+Google Analytics
+            Persistent Cookie
+ Used to count and
+            track page views
+2 years
+
+
+ _gid
+Google Analytics
+            Cookie
+Used to count and
+            track page views
+1 day
+
+
+ OTZ
+Google Analytics
+            Cookie
+Used to provide an
+            aggregate analysis of
+            Website visitors.
+30 days
+
+
+ 1P_JAR
+Google Analytics
+            Cookie
+Used to gather website
+            statistics and track
+            conversion rates.
+30 days
+
+
+
+ 
+Performance/Functionality Cookies. These Cookies are used to recognize you when you return to our Website. Functionality Cookies enable us to personalize our content for you, greet you by name and remember your preferences (e.g., your choice of language or region). The Cookies used by our Website may change, but below are some examples of Functionality Cookies that our Website may use, including the retention periods for such Cookies.
+ 
+
+
+
+
+ Cookie Name
+Cookie Type
+Description
+Expiration
+
+
+SC_ANALYTICS_
+            GLOBAL_COOKIE
+Sitecore Digital
+            Experience Platform
+            Persistent Cookie
+This cookie helps us
+            to identify repeat
+            visitors to our website.
+1 year after the last
+            page request from the
+            solution by the web
+            client
+
+
+ DV
+Google.com
+ This cookie is used to
+            save the user's preferences
+            and other information. This
+            includes in particular the
+            preferred langauge, the number
+            of search results to be displayed
+            on the page as well as the decision
+            as to whether the Google SafeSearch
+            filter should be activated or not.
+ 7 minutes
+
+
+ NID
+Google.com
+ This cookie contains a
+            unique ID Google uses
+            to remember your preferences and
+            other information, such as your
+            preferred language (e.g. English),
+            how many search results you
+            wish to have shown per page
+            (e.g. 10 or 20), and whether
+            or not you wish to have Google's
+            SageSearch filter turned on.
+ 6 months
+
+
+ SIDCC
+Google.com 
+This cookie is used as a security
+            measure to protect users' data
+            from unauthorized access.
+6 months
+
+
+
+ 
+Targeting/Advertising Cookies. These Cookies record your visits to our Website, the pages you have visited and the links you have followed. We use this information to make our Website and advertisements more relevant to your interests. We may also share this information with third parties for this purpose. Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use Cookies on their websites, over which we have no control. The Cookies used by our Website may change, but below are some examples of Targeting Cookies that our Website may use, including the retention periods for such Cookies.
+ 
+
+
+
+
+ Cookie Name
+Cookie Type
+Description
+Expiration
+
+
+APISID
+            SAPISID
+            SSID
+Targeting/Advertising
+These cookies are used by
+            Google to display
+            personalized advertisements
+            on Google sites, based on recent
+            searches and previous interactions.
+            SSID, APISID, and SAPISID cookies
+            enable Google to collect your 
+            information for videos hosted by
+            YouTube.
+2 years
+
+
+_Secure-3PSID
+            _Secure-1PSID
+            _Secure-3PAPISID
+            _Secure-1PAPISID
+            _Secure-3PSIDCC
+ Targeting/Advertising
+ Used by for targeting
+            purposes to build a profile
+            of the website visitor's interests
+            in order to show relevant and
+            personalized Google advertising
+ 2 years
+
+
+
+ 
+How to Manage, Disable or Opt-Out of Cookies Used By This Site 
+You may refuse, accept, or remove Cookies from our Website at any time via the Cookie preferences setting on your browser. Please refer to www.allaboutcookies.com for information on commonly used browsers. Please be aware that if Cookies are disabled or removed, not all features of our Website may operate as intended.
+
+To opt out of being tracked by Google Analytics across all websites, visit https://tools.google.com/dlpage/gaoptout.
+
+If you have questions or would like further information, please do not hesitate to contact us via our Contact Us Form. 
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+                        Corporate
+                        
+
+
+Performance Food Group
+12500 West Creek Parkway
+Richmond, VA 23238
+(804) 484-7700
+Our Locations
+
+
+
+
+
+
+                        Contact
+                        
+
+
+Media
+Connect With Us
+
+Additional Inquiries
+Contact Us
+
+
+
+
+
+
+                        Segments
+                        
+
+
+Foodservice Distribution National Chain Distribution Vistar Convenience
+
+
+
+
+
+
+                        Links
+                        
+
+
+About
+Our Segments
+Investors
+Press Releases
+Careers
+Connect
+
+
+
+
+
+
+Terms of Use | Privacy Policy | California Privacy Policy | Notice at Collection | Cookie Policy | Supplier Terms & Conditions | Contact Us | © Copyright 2022 Performance Food Group
+    
+
+
+
+
+
+
+
+
+

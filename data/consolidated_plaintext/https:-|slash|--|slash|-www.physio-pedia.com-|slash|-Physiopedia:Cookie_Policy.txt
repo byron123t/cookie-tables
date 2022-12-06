@@ -1,0 +1,631 @@
+
+
+Physiopedia:Cookie Policy - Physiopedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Search
+
+
+Search
+
+
+
+
+
+Search
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+pPhysiopedia
+
+
+
+
+
+
+pPhysiopedia
+
+ About
+
+
+ News
+
+
+ Contribute
+
+
+ Courses
+
+
+ Resources
+
+
+ Contact
+Donate
+
+									 Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pPhysiopedia
+
+
+
+
+
+
+
+About
+				
+
+
+News
+				
+
+
+Contribute
+				
+
+
+Courses
+				
+
+
+Resources
+				
+
+
+Shop
+				
+
+
+Contact
+				
+
+
+
+Donate
+
+
+
+
+p
+o
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Contents
+ Editors
+ Categories
+ Share
+ Cite
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+1 2.What is a cookie?
+2 3.Information about our use of cookies
+3 4.Blocking cookies
+4 5.How do I delete a cookie?
+5 6.Expiry of cookies
+
+
+
+Editors loading...
+
+
+
+
+AddThis Sharing ButtonsShare to MoreAddThisShare to LinkedInLinkedInShare to TwitterTwitterShare to FacebookFacebook
+
+
+When refering to evidence in academic writing, you should always try to reference the primary (original) source. That is usually the journal article where the information was first stated. In most cases Physiopedia articles are a secondary source and so should not be used as references. Physiopedia articles are best used to find the original sources of information (see the references list at the bottom of the article).If you believe that this Physiopedia article is the primary source for the information you are refering to, you can use the button below to access a related citation statement. Cite article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physiopedia:Cookie Policy
+
+
+
+
+Jump to:navigation, search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Site uses cookies to distinguish you from other users of the Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. When you click on a link displayed on Physiopedia, Physiopedia records the fact that someone using your browser, as identified by your unique cookie, clicked on that link. 
+
+Contents
+
+1 2.What is a cookie?
+2 3.Information about our use of cookies
+3 4.Blocking cookies
+4 5.How do I delete a cookie?
+5 6.Expiry of cookies
+
+
+2.What is a cookie?[edit | edit source]
+A cookie is a small file containing a unique string of letters and numbers that Physiopedia stores on your browser or the hardware of your computer if you agree. Cookies contain information that is stored on your computer’s hard drive. On subsequent visits to the Site, the cookie allows the Site to recognise your browser. The unique string of letters and numbers in a cookie may store user preferences and other information. You can reset your browser to refuse all cookies or to notify you when a cookie is being sent. However, some features or services of the Site may not function properly without cookies. 
+
+3.Information about our use of cookies[edit | edit source]
+We use the following cookies: 
+
+
+
+
+COOKIE PROVIDER
+
+COOKIE NAME
+
+PURPOSE
+
+PURPOSE DURATION
+
+
+Cookies used by Physiopedia and Physiopedia Plus
+
+
+Google Analytics
+
+_ga
+
+Used to distinguish users
+
+2 years
+
+
+_utma
+
+Used to distinguish users and sessions . The cookie is updated every time data is sent to Google Analytics.
+
+2 years from set/update
+
+
+_utmb
+
+Used to determine new sessions/visits. The cookie is updated every time data is sent to Google Analytics.
+
+30 minutes from set/update
+
+
+_utmc
+
+This cookie operates in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.
+
+End of browser session
+
+
+_utmz
+
+Stores the traffic source or campaign that explains how the user reached the site. The cookie is updated every time data is sent to Google Analytics.
+
+6 months from set/update
+
+
+Sharethis
+
+_unam
+
+Allows quick and easy sharing on common social media sites (including Facebook, Twitter, LinkedIn and G+).
+
+1 year
+
+
+Getsitecontrol
+
+_gs
+
+Used to identify the users browser, operating system, IP address and the page on the website they are viewing.
+
+1 hour
+
+
+_gu
+
+Used to distinguish users.
+
+10 years
+
+
+_gw
+
+Records widgets previously displayed to user.
+
+1 year
+
+
+Cloudflare
+
+_cfduid
+
+Controls site access security
+
+1 year
+
+4.Blocking cookies[edit | edit source]
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of the Site. 
+
+5.How do I delete a cookie?[edit | edit source]
+Deleting cookies is different for each browser. These are instructions for popular browsers used. If you don't use any of these browsers refer to your browser's Web site for instructions. 
+Internet Explorer: 
+
+Select 'Internet Options...' from the 'Tools' menu.
+Click on “Delete Cookies...” from the 'Temporary Internet files' section.
+Click 'Ok' on the confirmation window that appears.
+FireFox: 
+
+Select 'Options' from the 'Tools' menu.
+Click on 'Privacy' from the top selections, then click on the 'Cookies' tab.
+Click 'Clear Cookies Now'
+Safari: 
+
+Select 'Preferences' from the 'Safari' menu.
+Click on 'Security' from the top selections.
+Click on the 'Show Cookies' button.
+Select the 'Physiopedia' cookies and click on the 'Remove' button. Or you can also 'Remove All'
+6.Expiry of cookies[edit | edit source]
+Except for essential cookies, all cookies will expire after 30 days.
+
+
+Retrieved from "https://www.physio-pedia.com/index.php?title=Physiopedia:Cookie_Policy&oldid=192125"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Top Tips Tuesday and The Latest Physiopedia updates
+
+
+
+
+
+Email Address 
+
+
+
+
+
+
+
+
+
+I give my consent to Physiopedia to be in touch with me via email using the information I have provided in this form for the purpose of news, updates and marketing.
+
+
+HP
+
+
+
+
+Yes please 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our Partners
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The content on or accessible through Physiopedia is for informational purposes only. Physiopedia is not a substitute for professional advice or expert medical services from a qualified healthcare provider. Read more
+
+
+
+
+
+
+
+
+
+
+pPhysiopedia
+oPhysiospot
++Plus 
+
+
+
+PhysiopediaAboutNewsCoursesContributeShopContact
+
+
+
+
+ContentArticlesCategoriesPresentationsResearchResourcesProjects
+
+
+
+
+LegalDisclaimerTermsPrivacyCookies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Physiopedia 2022 | Physiopedia is a registered charity in the UK, no. 1173185
+
+
+
+
+
+
+
+ Back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+suggested results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Share on Facebook     Share on Twitter     Share on LinkedIn     Print  We use cookies to collect data to enhance your user experience Find out more

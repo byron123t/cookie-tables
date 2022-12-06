@@ -1,0 +1,5 @@
+https://www.reference.com/privacy?qo=footerLinks
+https://www.reference.com/privacy?qo=footerLinks&ueid=8b8af3b7-0422-4f23-a41c-d6cba72b3153
+https://www.reference.com/cookies?ueid=8b8af3b7-0422-4f23-a41c-d6cba72b3153&qo=footerLinks
+https://eula.askapplications.com/cookies/
+https://www.reference.com/privacy?qo=footerLinks&ueid=7c978ce6-6308-4697-980a-7ee3b0c09d51

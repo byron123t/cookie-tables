@@ -1,0 +1,3 @@
+https://www.comingsoon.net/privacy-policy
+https://www.mandatory.com/cookies
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage

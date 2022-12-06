@@ -1,0 +1,3 @@
+https://castbox.fm/policy/cookies.html
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+https://support.google.com/analytics/answer/6004245

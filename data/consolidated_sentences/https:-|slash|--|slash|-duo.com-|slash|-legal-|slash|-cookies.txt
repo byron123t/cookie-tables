@@ -1,0 +1,415 @@
+Duo Legal: Cookie Notice | Duo Security
+Skip navigation
+Search
+About Duo
+Blog
+Careers
+Now Hiring!
+Admin Login
+Product
+Product
+Explore Our Products
+Duo provides secure access to any application with a broad range of capabilities.
+Multi-Factor Authentication (MFA)
+Verify the identities of all users with MFA.
+Remote Access
+Provide secure access to on-premise applications.
+Device Trust
+Ensure all devices meet security standards.
+Single Sign-On (SSO)
+Provide secure access to any app from a single dashboard.
+Adaptive Access Policies
+Block or grant access based on users' role, location, and more.
+Duo in Action
+Click through our instant demos to explore Duo features.
+Explore Demos
+Want access security that’s both effective and easy to use? You need Duo.
+Start a Free Trial
+Editions & Pricing
+Editions & Pricing
+Compare Editions
+Get the security features your business needs with a variety of plans at several price points.
+Duo MFA
+$3/User/Month
+Desktop and mobile access protection with basic reporting and secure single sign-on.
+Duo Access
+$6/User/Month
+All Duo MFA features, plus adaptive access policies and greater device visibility.
+Duo Beyond
+$9/User/Month
+All Duo Access features, plus advanced device insights and remote access solutions.
+Duo Free
+Free (10 users)
+Simple identity verification with Duo Mobile for individuals or very small teams.
+Duo Federal
+Variable Pricing
+FedRAMP authorized, end-to-end FIPS capable versions of Duo MFA and Duo Access.
+Pricing Questions?
+Get in Touch
+Have questions about our plans? Not sure where to begin? Get in touch with us
+We’ll help you choose the coverage that’s right for your business.
+Contact a Duo Representative
+Solutions
+Solutions
+Explore Our Solutions
+Duo provides secure access for a variety of industries, projects, and companies.
+By Industry
+K-12
+Higher Ed
+Finance
+Healthcare
+Legal
+Retail
+Technology
+Government Solutions
+Federal Government
+State & Local Government
+Use Cases
+Zero Trust Security
+Passwordless
+Phishing Prevention
+Risk-Based Authentication
+Customer Stories
+Passwordless Authentication
+Users can  log into apps with biometrics, security keys or a mobile device instead of a password.
+Explore Passwordless
+Cisco's Secure Access Story
+Cisco + Duo
+Discover how Cisco efficiently deployed Duo to optimize secure access and access control in their global workforce.
+"The tools that Duo offered us were things that very cleany addressed our needs."
+Watch The Video
+Partnerships
+Partnerships
+Learn About Partnerships
+Partner with Duo to bring secure access to your customers.
+Duo Technology Partner Program
+Integrate with Duo to build security into applications.
+Already a Tech Partner? Sign-in
+Duo Managed Service Providers
+Deliver scalable security to customers with our pay-as-you-go MSP partnership.
+Duo Security Solution Providers
+Enhance existing security offerings, without adding complexity for clients.
+Already a SSP Partner? Sign-in
+Want access security that's both effective and easy to use?
+You need Duo.
+Try Duo for Free
+Support
+Support
+See All Support
+Have questions? We’re here to help! Our support resources will help you implement Duo, navigate new features, and everything in between.
+Support for Administrators
+Knowledge Base
+Community Forum
+How-To Videos
+Contact Support
+Support for Duo End Users
+End-User Guide
+Duo Mobile FAQ
+Get Duo Mobile for iOS
+Get Duo Mobile for Android
+Expert Advice
+Duo Care
+Duo Quick Start
+Additional Topics
+Release Notes
+Security & Reliability
+System Status
+Dedicated Support
+Dedicated Support
+Duo Care is our premium support package
+With a dedicated Customer Success team and extended support coverage, we'll help you make the most of your investment in Duo, long-term.
+Learn More About Duo Care
+Duo Documentation
+Duo Documentation
+Browse All Docs
+Get instructions and information on Duo installation, configuration, integration, maintenance, and much more.
+Popular Topics
+Getting Started with Duo
+Admin Overview
+Duo Administration - Protecting Applications
+End-User Guide
+Administrator Guides
+Docs for Duo Editions
+Duo MFA Edition
+Duo Access Edition
+Duo Beyond Edition
+Duo Federal Editions
+Integrations
+Remote Access & VPN
+Microsoft
+Web Applications
+Identity Providers
+Cloud Service Providers
+Other Applications
+Unix & SSH
+Our APIs
+Related
+Release Notes:  Keep Up With the Latest Product Updates
+We update our documentation with every product release
+Sign up to be notified when new release notes are posted.
+Read All Release Notes
+Resources
+Resources
+See All Resources
+Explore research, strategy, and innovation in the information security industry.
+News & Press
+Blog Articles
+Press Releases
+Events & Webinars
+Events On Demand
+Event Coverage
+Ebooks
+Duo Videos
+Security Education
+Product Videos
+Technical Setup Videos
+InfoSec Glossary
+Duo Labs Research
+We disrupt, derisk, and democratize complex security topics for the greatest possible impact.
+Explore Labs Research
+Featured
+Passwordless: The Future of Authentication
+With the rise of passwordless authentication technology, you'll soon be able to ki$$ Pa$$words g00dby3
+Learn how to start your journey to a passwordless future today.
+Get the Guide
+About Duo
+Blog
+Careers
+Now Hiring!
+Admin Login
+Contact Sales
+Free Trial
+Contact Sales
+Free Trial
+Cookie Notice
+Last Updated: May 25th, 2018
+Effective as of May 25th, 2018
+Introduction
+Like most companies, Duo uses automatic data collection tools such as cookies, web beacons and other device identification technologies to operate our services and websites and to understand how you use them and what is useful to you, as well for advertising purposes
+This Cookie Notice ("Notice") explains how we use Cookies when: (i) you visit any of our websites that link to this Cookie Notice (such as https://duo.com) or interact with any Duo online advertising or marketing emails (collectively the "Online Properties")
+or (ii) you use any of our mobile apps or you use certain Duo products and services deployed by your organization (collectively for the purposes of this Notice, the "Services").
+Some cookies that we use at Duo will collect personal information about you, or information that becomes personal information if we combine it with other data
+Any personal information that we collect will be used in accordance with our General Privacy Notice.
+When we talk about “Duo,” “we,” “our,” or “us,” in this notice, we are referring to Duo Security LLC and its group companies, including Duo Security UK Limited.
+What are cookies
+Types of cookies we use and why
+Our use of targeted advertising
+What similar technologies do we use?
+How you can manage cookies
+How you can learn more about cookies
+What you should know about Do Not Track (DNT) signals
+Changes to this Notice
+Contact Us
+What are cookies
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer or other device
+Cookies send data back to the originating website on each subsequent visit, or share data with another website that recognizes that cookie
+Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit our websites or use our Online Properties and Services.
+There are different types of cookies that vary by who sets them and for how long they endure, for example:
+“First party cookies” are those that are set directly by Duo
+While cookies set on our behalf, for example, by advertisers and data analytics companies are known as "third party cookies.”
+Cookies also endure for different periods of time
+“Session cookies” only last only as long as your browser is open, and are deleted automatically once you close your browser
+While "persistent cookies" survive after your browser is closed, allowing for the recognition of your device when you open your browser and browse the Internet again.
+Types of cookies we use and why
+When you visit or interact with any of our Online Properties (such as our websites) or use our Services, we use first and third party cookies for a variety of purposes.
+Some cookies are required for technical reasons in order for our Online Properties and Services to operate, and we refer to these as "essential" cookies
+Other cookies enable us: to track how our users and prospects use and interact with our Online Properties and Services
+to enhance and tailor the experience on our Online Properties and Services
+and to recognize your device and secure your access to our Services
+We refer to these as “functional” cookies
+We also use cookies to let us know how well our online advertising works, and to deliver more targeted online advertising and marketing campaigns
+We call these “advertising” cookies
+Some cookies also enable us to conduct analytics about online campaigns we are running and the usage and performance of some of our Online Properties and Services (what we call “analytical” cookies).
+Third parties may serve cookies through our Online Properties and Services for advertising, analytics and other purposes.
+More information about the specific types of first and third party cookies served through our Online Properties is available in the below “Online Properties” table, and information about the specific types of cookies served through the Services is available in the below “Services” table.
+ONLINE PROPERTIES
+Type of Cookie
+Why we use these cookies
+Who sets them
+How to opt-out
+Essential
+These cookies are strictly necessary to provide you with Services available through our Online Properties and to use some of its features, such as access to secure areas.
+Duo
+Because these cookies are strictly necessary to deliver the Online Properties to you, you cannot refuse them.
+You can block or delete them by changing your browser settings, however, as described below under the heading “How to manage cookies?”
+Functional
+Although not essential, these cookies help us ensure we can continually make our Online Properties better by understanding how they are used, so that we can enhance and tailor our Online Properties for those who interact with them.
+Duo, and third parties including:
+Optimizely
+Shareaholic
+AddThis
+Wistia
+You can opt-out by clicking on the relevant links below or by following the instructions in the section of this Notice headed "How to manage cookies":
+Optimizely – opt out by following the instructions set out in Optimizely's Opt Out page, available here.
+Shareaholic – opt out by following the instructions set out in Shareaholic's Advertising Choices page, available here.
+AddThis – opt out by following the instructions set out in AddThis's Opt Out page, available here.
+Wistia – opt out by making a written request to privacy@wistia.com
+Wistia's privacy policy is available here for further information.
+Analytical
+These are used to understand, improve, and research our Online Properties, including when you access any of our website and related websites and apps from your computer or mobile device
+In particular, we use web analytics tools to help us identify aspects of our Online Properties that may not be working as well as we would like them to, and to help us understand how our Online Properties are being used and how we can customize them for you.
+MixPanel
+Google Analytics
+For more information about Google analytic cookies, please see Google’s help pages and privacy policy: https://www.google.com/policies/privacy/ and the Google site “How Google uses data when you use our partners sites and apps”: https://www.google.com/policies/privacy/partners/
+Google Analytics Help: https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+You can opt-out by clicking on the relevant links below or by following the instructions in the section of this Notice headed “How to manage cookies”:
+MixPanel: Follow the instructions on MixPanel’s opt-out page, available here.
+Google Analytics: If you do not want your usage of our Online Properties or Services to be analyzed by Google, you can disable Google Analytics by using an add-on in your Internet browser
+You can download and install the add-on at: https://tools.google.com/dlpage/gaoptout?hl=en
+Advertising
+These cookies let us know how well our online advertising works, and allow us to deliver more targeted online advertising and marketing campaigns to you
+We may also use these types of cookies to help us reach people who are more interested in our products
+For example, we may read a cookie so we can serve you ads that may be interesting to you on other websites
+We also use this information to retarget users with relevant advertising.
+Marketo
+Google AdWords
+You can opt-out by clicking on the relevant links below or by following the instructions in the section of this Notice headed “How to manage cookies”:
+Marketo – opt out by following the instructions set out in Marketo’s Cookies Policy, available here.
+If you wish to opt-out of Google Advertising, you may visit https://www.google.com/settings/ads and under “Ads on Google” and/or under “Google Ads Across the Web,” and click the “Opt out” link.
+Services
+Type of Cookie
+Why we use these cookies
+Who sets them
+How to opt-out
+Essential
+These cookies provide essential functions, including those related to authentication and security and remembering returning users and their preferences.
+Duo
+Because these cookies are strictly necessary to deliver the Services to you, you cannot refuse them.
+You can, however, block or delete them by changing your browser settings as described below under the heading "How to manage cookies".
+Functional
+Although not essential, these cookies help us ensure we can continually make our Services better by understanding how they are used, so that we can enhance and tailor our Services for those who interact with them.
+Duo, and third parties including:
+Olark
+Crashlytics
+You can opt-out by clicking on the relevant links below or by following the instructions in Section headed "How to manage cookies":
+Olark – please opt out by emailing privacy@olark.com
+Olark's privacy policy is available here for further information.
+Crashlytics - please opt out by emailing support@crashlytics.com
+Crashlytics’ privacy policy is available here for further information.
+Analytical
+These are used to understand, improve and research our Services
+In particular, we use web analytics tools to help us identify aspects of our Services that may not be working as well as we would like them to, and to help us understand how our Services are being used and how we can customize them for you.
+Google Analytics
+For more information about Google Analytics’ cookies, please see Google’s help pages and Google Privacy Policy: https://www.google.com/policies/privacy/ and the Google site "How Google uses data when you use our partners sites and apps": https://www.google.com/policies/privacy/partners/
+Google Analytics Help: https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+If you do not want your usage of our Online Properties or Services to be analyzed by Google, you can disable Google Analytics by using an add-on in your Internet browser
+You can download and install the add-on at: https://tools.google.com/dlpage/gaoptout?hl=en
+Our use of targeted advertising
+Duo has engaged one or more third party service providers to track and analyze both individualized usage and volume statistical information from interactions with our Online Properties, mobile apps, or both
+We also partner with one or more third parties (such as advertisers and ad networks) to display advertising on our Online Properties, mobile apps, or both, and to manage and serve advertising on other third party sites.
+These third parties use cookies, web beacons, pixel tags and similar tracking technologies to collect and use certain information about your online activities, either on our Online Properties, mobile apps and/or other third party sites
+This information may be used alone or in combination with information about you we obtain from other sources (like our data partners) and contact details, professional information and Duo transaction history (as obtained from our customer relationship management database) to infer your interests and deliver you targeted advertisements and marketing that are more tailored to you based on your browsing activities and inferred interests (“Interest Based Advertising”)
+Such Interest Based Advertising will only be delivered where permitted by applicable law and in accordance with your advertising and marketing preferences.
+Our third party service providers may also use cookies or web beacons to collect information about your visits to our Online Properties or other third party sites to measure and track the effectiveness of advertisements and our online marketing activities (for example, by collecting data on how many times you click on one of our advertisements).
+The information collected through this process does not allow us or them to identify your name, contact details or other personal information that directly identifies you unless you choose to provide these.
+What similar technologies do we use?
+Cookies are not the only way to recognize or track users of our Online Properties and Services
+We may use other similar technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs") to track users of our Online Properties and Services
+These are tiny graphics files that contain a unique identifier that enable us to recognize when someone has interacted with our Online Properties, Services or opened an e-mail that we have sent them
+This allows us, for example, to monitor the traffic patterns of users within our Online Properties and Services, to deliver or communicate with cookies, to understand whether you have come to our Online Properties and Services from an online advertisement displayed on a third-party website, to improve our Online Properties, and Services, and to measure the success of e-mail marketing campaigns
+In many instances, these technologies are reliant on cookies to function properly, and so declining cookies will impair their functioning.
+How you can manage cookies
+You have many rights and controls when it comes to managing cookies
+Please note, though, that if you reject all cookies, while it will not impact your interaction with our websites, the functionality and your experience with our mobile-apps and certain of our products and Services may be impacted
+This means that you may worsen your overall user experience, since it will no longer be personalized to you
+It may also stop you from saving customized settings, like login information.
+You can exercise your cookie preferences by clicking on the appropriate opt-out links provided above or by setting or amending your browser controls as described below.
+Browser controls: Most web browsers allow you to manage cookies in a way that suits your preferences
+In some browsers, you can choose to accept or reject all cookies, or manage them on a site-by-site or type of cookie basis, giving you more control over your privacy.
+Web browser manufacturers maintain help pages that provide details on how you can make cookie preference choices
+Below are links to some of these browser manufacturers’ pages:
+Google Chrome
+Internet Explorer
+Mozilla Firefox
+Safari (Desktop)
+Safari (Mobile)
+Android Browser
+Opera
+Opera Mobile
+For browsers not listed above, you should consult the documentation provided by your browser manufacturer.
+Disabling most interest based advertising: Most advertising networks offer you a way to opt out of Interest Based Advertising
+If you would like to find out more information, please visit https://optout.aboutads.info or http://www.youronlinechoices.com.
+Mobile advertising: You can opt out of having your mobile advertising identifiers used for certain types of Interest Based Advertising, including those performed by us, by accessing the settings in your Apple or Android mobile device and following the most recent published instructions
+If you opt-out, we will remove all data about you and no further data collection or tracking will occur
+The random ID we (or our third party partners) had previously assigned to you will also be removed
+This means that if at a later stage, you decide to opt-in, we will not be able to continue and track you using the same ID as before and you will for all practical purposes be a new user to our system.
+How you can learn more about cookies
+If you would like to know more about cookies and how to manage them, including information about what cookies have been set on your device, All About Cookies is a useful resource as is Your Online Choices (for EU residents).
+What you should know about Do Not Track (DNT) signals
+Some web browsers, such as Internet Explorer, Firefox, and Safari, may give you the ability to enable a "do not track" feature that sends signals to the websites you visit, indicating that you do not want your online activities tracked
+But this is not the same as blocking or deleting cookies, because browsers with a "do not track" feature enabled may still accept cookies
+There are currently no industry standard for how companies should respond to "do not track" signals, although one may develop in the future
+As a result, we do not respond to "do not track" signals at this time
+If we do so in the future, we will describe how in this Cookie Notice
+To learn more about “DNT”, “All About Do Not Track" is a good resource.
+Changes to this Notice
+From time to time, we may change this Notice in response to changing technologies, industry practices, regulatory requirements or for other purposes
+Please visit this Notice regularly to stay up-to-date on our use of cookies
+The date at of the top of this Notice tells you when it was last updated.
+Contact Us
+We encourage you to contact us if you have any comments or questions about this Notice or our related privacy practices
+You may reach us at privacy@duosecurity.com or at our mailing address below:
+ATTN: Privacy Committee
+Duo Security LLC
+123 North Ashley Street, Suite #200
+Ann Arbor, MI 48104, USA
+Try Duo For Free
+With our free 30-day trial you can see for yourself how easy it is to get started with Duo's trusted access.
+Start Your Free Trial
+Customer Stories
+Hear directly from our customers how Duo improves their security and their business.
+eBooks
+Learn more about a variety of infosec topics in our library of informative eBooks.
+Contact Support
+Contact Sales
+Facebook
+Twitter
+Instagram
+LinkedIn
+International Resources:
+Select Language
+Français
+Deutsche
+Español
+日本語
+Français
+Deutsche
+Español
+日本語
+Events & Webinars
+News & Press
+Duo Blog
+Duo Labs
+Careers at Duo  Now Hiring!
+Search
+© 2022 Duo
+Terms of Service
+Privacy Statement
+Duo Privacy Data Sheet
+Cookie Policy
+Copyright Dispute Policy
+Open Source Licenses
+Service Level Agreement
+Security Response
+Business Continuity During COVID-19
+Manage Cookie Preferences
+Top
+By continuing to use our website, you acknowledge the use of cookies.
+Privacy Statement | Change SettingsConsent ManagerYour PrivacyStrictly Necessary CookiesPerformance CookiesTargeting CookiesFunctional CookiesYour PrivacyWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies
+This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to
+The information does not usually directly identify you, but it can give you a more personalized web experience
+Because we respect your right to privacy, you can choose not to allow some types of cookies
+Click on the different category headings to find out more and change our default settings
+However, blocking some types of cookies may impact your experience of the site and the services we are able to offer
+Privacy DirectoryStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work
+These cookies do not store any personally identifiable information.Performance Cookies  Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site
+They help us to know which pages are the most and least popular and see how visitors move around the site
+All information these cookies collect is aggregated and therefore anonymous
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Targeting Cookies  Targeting Cookies These cookies may be set through our site by our advertising partners
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device
+If you do not allow these cookies, you will experience less targeted advertising.Functional Cookies  Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation
+They may be set by us or by third party providers whose services we have added to our pages
+If you do not allow these cookies then some or all of these services may not function properly.Back ButtonBack  Filter ButtonConsent Leg.Interest checkbox label label checkbox label label checkbox label labelClear checkbox label labelApply CancelSave Settings Allow All

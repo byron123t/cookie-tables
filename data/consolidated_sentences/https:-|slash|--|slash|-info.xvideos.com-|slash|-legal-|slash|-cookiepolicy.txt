@@ -1,0 +1,188 @@
+Cookie policy - Xvideos.com
+Cookie policy
+Čeština Español Français Italiano Magyar Nederlandse Norsk Polskie Português Română Svenska Tiếng Việt Türkçe Ελληνική Русский עברית العربية हिन्दी 中文 日本語
+COOKIE POLICY
+Last Updated: 08/08/2022
+We,  WebGroup Czech Republic, a.s
+, a company registered and existing under the laws of the Czech Republic, with registration number 291 45 465, having its registered office at Krakovská 1366/25, 110 00 Prague 1, Czech Republic (hereinafter referred to as "WebGroup" or „we"), the provider of the website www.xvideos.com (hereinafter referred to as the "Website"), use on our Website cookies and similar technologies (hereinafter collectively referred to as "cookies") to distinguish you from other users of the Website and remember your preferences
+This helps us to provide you with a good experience when you browse our Website and also allows us to improve the Website.
+1
+What are cookies?
+Cookies are small text files that are placed on your computer, tablet, smart phone or other device (hereinafter collectively referred to as a "device") by websites that you visit
+Cookies contain information that is transferred to your device's hard drive
+They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site
+To learn more about cookies please visit www.allaboutcookies.org.
+Technologies similar to cookies such as HTML5 Web Storage, may, like cookies, store small amounts of data on your device
+With web storage, data is stored locally within your browser and isn't sent to our web server
+The web storage provides two storage options, local storage and session storage
+The local storage stores data for the entire website on a permanent basis with no expiration date
+The session storage stores data on a temporary basis, for a single browser window or tab.
+2
+How do we use cookies?
+On our Website we use the following cookies for the bellow described purposes
+These cookies are stored in your device for a predefined period of time
+After the storage period expires, they are deleted.
+Essential cookies
+These are cookies and similar technologies that are required to use in order to operate our Website
+They include, for example, cookies that help with the Website loading and display, enable you to log into secure areas of our Website or increase the Website security
+We are allowed to use these cookies without your prior consent
+If you block these cookies in your browser the Website will not work properly.
+Cookie nameLegal Basis / Purpose / FunctionDuration
+Cookie name
+Legal Basis / Purpose / Function
+Duration
+nb_thumbs_cols_XXX
+Legitimate interest / Proper display of the Website
+/ It keeps the number of column of thumbs.
+90 days
+thumbloadstats_vthumbs (HTML5 Local Storage)
+Legitimate interest / High availability and performance of the Website
+/ It measures the thumb loading speed
+/
+90 days
+static_cdn
+Legitimate interest / High availability and performance of the Website
+/ It allows us to know which content delivery network is used.
+168 days
+html5_networkspeed
+Legitimate interest / High availability and performance of the Website
+/ It allows us to keep track of the user's internet speed.
+30 days
+session_blih
+Legitimate interest / Increasing account security
+/ It keeps local login history for account security (trusted browser).
+60 days
+session_rem_XXX
+Legitimate interest / Increasing account security
+/ It is used to remember the users' browsers for double authentication (2FA).
+30 days
+session_token
+Legitimate interest / Enabling login to user account
+/ It stores user logged information, such as the user login detail and some information about the account.
+30 days
+wpn_ad_cookie
+Legitimate interest / Proper display of the Website
+/ It rotates the advertising banners every 24 hours to avoid displaying the same advertisements to the user
+This cookie does not track your browsing history nor is used for user profiling or advertisement personalisation.
+7 days
+xv_nbview
+Legitimate interest / Proper display of the Website.
+16 hours
+hide_xmsg
+Legitimate interest / Proper display of the Website.
+15 days
+last_subs_check
+Legitimate interest / High availability and performance of the Website.
+5 mins
+chat_deco
+Legitimate interest / Proper display of the Website.
+10 mins
+disclaimer_vpn_display
+Legitimate interest / Proper display of the Website
+/ Tells if you closed the disclaimer.
+90 days
+chat_data_c
+Legitimate interest / Proper display of the Website
+/ Stores your chat private key for encryption.
+168 days
+wgvid_user_msg
+Legitimate interest / Proper display of the Website.
+90 days
+←→nb_thumbs_cols_XXXthumbloadstats_vthumbs (HTML5 Local Storage)static_cdnhtml5_networkspeedsession_blihsession_rem_XXXsession_tokenwpn_ad_cookiexv_nbviewhide_xmsglast_subs_checkchat_decodisclaimer_vpn_displaychat_data_cwgvid_user_msg
+Functionality cookies
+These cookies help us to personalise and improve your experience when browsing our Website
+For example, they help us to remember your preferences (video player preferences, language and region selection etc.)
+We will use this information to make our Website more relevant to your interests and more user friendly.
+Cookie nameLegal Basis / Purpose / FunctionDuration
+Cookie name
+Legal Basis / Purpose / Function
+Duration
+html5_pref
+Consent / Better video playback
+/ It allows us to apply the users' preferences in using video player.
+30 days
+last_views
+Consent / Offering more relevant content
+/ It allows us to suggest similar videos to those previously watched by a user.
+3 months
+session_ath (HTML5 Local Storge)
+Consent / Optimizing the Website display
+/ It remembers whether the user prefers to browse the website in light or dark mode.
+90 days
+pending_thumb
+Consent / Offering more relevant content.
+3 hours
+←→html5_preflast_viewssession_ath (HTML5 Local Storge)pending_thumb
+Analytical cookies
+These cookiescollect information about the Website usage
+For example, the number of users on the Website, how long they stay, what parts of the Website they visit etc
+This helps us to optimize the Website's performance
+We may use third-party services such as Google Analytics for these purposes
+Providers of these services may use their own cookies or similar technologies
+For more information, please see Clause 5 bellow.
+Cookie nameLegal Basis / Purpose / FunctionDuration
+Cookie name
+Legal Basis / Purpose / Function
+Duration
+_ga
+Consent / Collecting statistical data about the Website users
+/ It is a third-party cookie that enables Google to analyse the use of the Website (i.e., Google Analytics)
+The data collected are anonymized.
+2 years
+_gid
+Consent / Collecting statistical data about the Website users
+/ It is a third-party cookie that enables Google to analyse the use of the Website (i.e., Google Analytics)
+The data collected are anonymized.
+24 hours
+_gat
+Consent / Collecting statistical data about the Website users
+/ It is a third-party cookie that enables Google to analyse the use of the Website (i.e., Google Analytics)
+The data collected are anonymized.
+24 hours
+←→_ga_gid_gat
+3
+Third parties
+We do not share the information collected by the cookies with any third parties, other than described in Clause 5 below.
+4
+Manage your preferences
+We use cookies which are not essential for operation of our Website, such as functionality and analytical cookies, only with your prior express consent
+It is your choice whether to accept these cookies
+You can choose to consent to all non-essential cookies or select only certain categories
+You can manage your consent preferences or revoke your consent at any time using our cookie banner.
+You can also block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies
+To delete the data saved in the local storage of the browser you can delete your browsing history
+However, if you set your browser to block all cookies (including essential cookies) you may not be able to access all or parts of our Website.
+Below are links to the 'help pages' of the most common browsers to learn more about the cookie settings, including the blocking of cookies and deleting the local storage, in each one:
+Chrome: https://support.google.com/chrome/answer/95647?hl=en
+Explorer: https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d
+Microsoft Edge: https://privacy.microsoft.com/en-US/windows-10-microsoft-edge-and-privacy
+Firefox: https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop
+Safari: https://support.apple.com/kb/PH17191?viewlocale=en_US&locale=es_ES
+Safari for IOS: https://support.apple.com/en-us/HT201265
+Opera: https://www.opera.com/help/tutorials/security/cookies/
+5
+Google Analytics
+We use Google Analytics, a web analytics service provided by Google LLC (hereinafter referred to as "Google"), using third-party cookies that enable Google to analyse the use of the Website
+The information generated by the cookie about the use of this Website is transferred to a Google server in the EEA or the North America
+Where we transfer, store and process your personal data outside of the EEA we have ensured that appropriate safeguards are in place to ensure adequate level of data protection
+We rely on EU Standard Contractual Clauses ("SCC") and/ or adequacy decisions issued by competent European authorities.
+Note that we have activated Google's IP anonymization service "anonymize IP" for our Website which shortens a user's IP address as soon as data is received by Google Analytics, before any storage or processing takes place
+Google will use this information on our behalf to evaluate the use of the Website, to compile reports for activities on the Website and to provide other services to us relating to the Website.
+Google Analytics operates under the following terms:
+Terms of Service: https://www.google.com/analytics/terms/gb.html
+Privacy Statement: https://policies.google.com/privacy?hl=en-US#intro
+Privacy Policy: https://www.google.com/intl/en/policies/privacy
+Data Processing Terms (including SCC): https://business.safety.google/adsprocessorterms/
+You can prevent Google from collecting and processing the data concerning the use of the Website (including the IP address) by installing a browser-plug-in which is available under https://tools.google.com/dlpage/gaoptout.
+6
+Processing of Personal Data
+In connection with the use of cookies, some of your personal data may be processed
+For more information about which personal data we process, how we process it and about your rights related to processing of personal data, please see our:
+Privacy Policy at https://info.xvideos.com/legal/privacy if you are a Website user who creates an user account
+or our
+Privacy Notice at https://info.xvideos.com/legal/privacynotice if you are a Website user who does not create an user account, or if you visit our Website to submit an abuse reporting form, a copyright infringement takedown request or a copyright counter-notification, or to interact with us directly.
+7
+Changes to this Cookie Policy
+We reserve the right to modify this Cookie Policy at any time in accordance with this provision
+If we make changes to this Cokie Policy, we will post the revised Cookie Policy on the Website and update the "Last Updated" date at the top of this Cookie Policy.
+Go back to XVIDEOS.COM - Go back to XVideos info page

@@ -1,0 +1,139 @@
+Flo | Cookie Policy
+Product
+Tracking cycle
+Getting pregnant
+Pregnancy
+Help Center
+Health Library
+Your cycle
+Health 360°
+Getting pregnant
+Pregnancy
+Being a mom
+LGBTQ+
+Quizzes
+Calculators
+Ovulation calculator: Figure out your most fertile days
+hCG calculator: How to track your hCG levels at home
+Pregnancy test calculator: Figure out when a pregnancy test is most accurate
+Period calculator: Predict when your next period will arrive
+Pregnancy due date calculator
+IVF and FET Due Date Calculator
+Due Date by Ultrasound Calculator
+About
+About Flo
+Medical Affairs
+Privacy Portal
+Press Center
+Flo for Business
+Careers
+Contact Us
+Manage subscription
+Try Flo today
+Product Tour
+Health Library
+Calculators
+Medical Expertise
+Privacy Portal
+About Us
+Careers
+Press Center
+Flo for Business
+Contact Us
+Help Center
+Cookie Policy
+Effective as of 1 May, 2022The websites flo.health, app.flo.health, business.flo.health and other related pages (the "Website") are operated by Flo Health UK Limited
+Web application and other related pages (the “Web Application”) are also operated by Flo Health UK Limited (hereinafter “Flo Health”).At Flo Health, your digital safety matters a lot to us, as well as your health and well-being
+Transparency is fundamental in building trustworthy relationships with you
+In the spirit of transparency, this policy provides detailed information about how and when we use cookies
+This cookie policy applies to any product or service by Flo Health
+that links to this policy or incorporates it by reference.What are cookies?Cookies are small text files that are stored in your web browser that allows us or a third party to recognize you
+Cookies can be used to collect, store and share bits of information about your activities across websites, including on Flo Health’s Website and Web Application.It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.Cookies might be used for the following purposes:To enable certain functionsTo provide statisticsTo store your preferencesTo enable ad delivery and behavioural advertisingWhat types of cookies do we use?We use both session cookies and persistent cookies.A session cookie is used to identify a particular visit to our Website or Web Application
+These cookies expire after a short period of time, or when you close your web browser after using our Website
+We use these cookies to identify you during a single browsing session, such as when you log into our Website.A persistent cookie will remain on your devices for a set period of time specified in the cookie
+We use these cookies where we need to identify you over a longer period of time
+For example, we would use a persistent cookie if you asked that we keep you signed in.Categories of Use and Description:Marketing -  cookies that help us reach you and more people like you to spread the word about the app as well as analyze whether we do that effectively
+Necessary cookies that:enable and support our security features, and help us detect malicious activity.help us learn how well our Website and plugins perform in different locations.Preferences cookies that help us show you the right information and personalize your experience.Statistics cookies that help us understand, improve, and research products, features, and services (Website only).What cookies do we use?Our cookie table lists third party cookies on our Website and Web Application
+Please note that the names of cookies, pixels and other technologies may change over time
+We also may use certain cookies on only a limited number of pages that you visit on our Website and Web Application to avoid unnecessary collection of your personal data
+Please note that our cookies do not process any personal health data
+Here is the full list of cookies:
+DomainCookie NameCategories of Use and DescriptionExpirationFirst party  AMP_TOKENNecessaryEnsures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor.Persistent 1 dayFirst partyCookieConsentNecessaryStores the user's cookie consent state for the current domain.Persistent 1 yearThird partyCookieConsentBulkSetting-#NecessaryEnables cookie consent across multiple websites.PersistentThird partyCookieConsentBulkTicketNecessaryEnables cookie consent across multiple websites.Persistent 1 yearThird party_gaStatisticsGoogle Analytics Registers a unique ID that is used to generate statistical data on how the visitor uses the Website.Persistent 2 yearsThird party_gatStatisticsUsed by Google Analytics to throttle request rate (Website only).Persistent  1 dayThird party_gidStatisticsRegisters a unique ID that is used to generate statistical data on how the visitor uses the Website.Persistent  1 dayThird partycollect StatisticsUsed to send data to Google Analytics about the visitor's device and behaviour
+Tracks the visitor across devices and marketing channels (Website only).SessionThird partyr/collectStatisticsThis cookie is used to send data to Google Analytics about the visitor's device and behavior
+It tracks the visitor across devices and marketing channels (Website only).SessionThird partytest_cookieNecessaryUsed to check if the user's browser supports cookies.Persistent 1 dayThird partyGPSNecessaryRegisters a unique ID on mobile devices to enable tracking based on geographical GPS location.Persistent 1 dayThird partyPREFPreferencesRegisters a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.Persistent 8 monthsThird partyVISITOR_INFO1_LIVEPreferencesTries to estimate the users' bandwidth on pages with integrated YouTube videos.Persistent 179 daysThird partyYSCStatisticsRegisters a unique ID to keep statistics of what videos from YouTube the user has seen (Website only).SessionThird partyyt-remote-cast-installedyt-remote-connected-devicesyt-remote-device-idyt-remote-fast-check-periodyt-remote-session-appyt-remote-session-namePreferencesStores the user's video player preferences using embedded YouTube video.Some are session, some a persistentThird partyfbqMarketingIt is a cookie-like code in the web browsers of visitors
+Facebook, may use the Facebook pixel to collect or receive information from the publisher webstore and use that information to provide measurement services,  ads personalization and as described in the Facebook Data Policy.PersistentThird party_gaexpMarketingUsed by Google Analytics to determine a user's inclusion in an experiment and the expiry of experiments a user has been included in.Persistent 90 daysThird party_snaptrMarketingAnalytics related to measuring the success of ad campaigns, evaluating campaign performance, and retargeting.Persistent  for unmatched data, 30 days
+for matched data 13 monthsThird partyamp_d5a597NecessaryThe cookie is used by Amplitude service to keep track of user journey on the Web Application.PersistentThird partyNIDSIDMarketingGoogle uses cookies like NID and SID to help customize ads on Google properties, like Google Search
+For example, Google uses such cookies to remember your most recent searches, your previous interactions with an advertiser’s ads or search results, and your visits to an advertiser’s website
+This helps to show you customized ads on Google.PersistentNID - 6 monthsSID - 2 yearsThird partyIDEANIDDSIDFLC AIDTAIDexchange_uidMarketingUsed by Google and Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user, to recognize you across devices.PersistentThird party__gclMarketingGoogle uses conversion cookies to help advertisers determine how many times people who click on their ads end up taking an action on their site (e.g., making a purchase)
+These cookies allow Google and the advertiser to determine that you clicked the ad and later visited the advertiser’s site
+Conversion cookies are not used by Google for personalized ad targeting and persist for a limited time only.PersistentThird party__cfduidNecessaryCloudflare uses this cookie to detect malicious visitors to the Website and minimize blocking legitimate visitors by identifying individual clients behind shared IP addresses and applying security settings on a per-client basis
+You may read more at Cloudflare Cookies PolicyPersistent 30 daysThird party__hsscStatisticsHelps keep track of user sessions and is used by HubSpot service to determine whether to increment the session number and timestamps in the __hstc cookie.Session 30 minutesThird party__hssrcStatisticsHelps to determine if the visitor of the Website has restarted their browser
+Used by HubSpot service when a user changes the session cookie, this cookie is also set to determine if the visitor has restarted their browser.SessionThird party__hstcStatisticsHelps to track the Website visitor and determines the domain, utk, first, last and current visit, the session number
+Used by HubSpot services.Persistent 13 monthsThird partyhubspotutkStatisticsUsed by HubSpot services to help keep track of the Website user identity and deduplicate contacts during form submission
+This cookie contains an opaque GUID to represent the current visitor.Persistent 13 monthsThird partyHelp Center cookiesThe Website Help Center is powered by Zendesk acting as our processor
+Please note that Zendesk in-product cookie policy applies to your use of the Help Center.-Third party LinkedinMarketingLinkedIn Insight Tag is a piece of lightweight JavaScript code we place on our website
+The LinkedIn insight tag allows us to track conversions, retarget website visitors, and unlock additional insights about members interacting with our ads.LinkedIn Insight Tag enables the collection of data regarding members’ visits to our website, including the URL, referrer, IP address, device and browser characteristics (User Agent), and timestamp
+This data is encrypted.LinkedIn does not share the personal data with the website owner, it only provides reports and alerts (which do not identify the visitor) about the website audience and ad performance
+LinkedIn also provides retargeting for website visitors, enabling the website owner to show personalized ads off its website by using this data, but without identifying the member
+LinkedIn members can control the use of their personal data for advertising purposes through their account settings
+You can learn more about the technology by following this link.6 monthsFirst party_gcl_aw, _gcl_dc and _gcl_gbThese are used by Google’s Conversion Linker to help measure click data so that conversions are measured effectively
+When a visitor clicks on any ads on this website, the URL of the conversion page typically includes information about the click
+Google Ads then uses the click information to associate that conversion with the click that brought the visitor here.90 days
+What is Do Not Track (DNT)?DNT is a concept that has been promoted by regulatory agencies such as the U.S
+Federal Trade Commission (FTC), for the Internet industry to develop and implement a mechanism for allowing Internet users to control the tracking of their online activities across websites by using browser settings
+The World Wide Web Consortium (W3C) has been working with industry groups, Internet browsers, technology companies, and regulators to develop a DNT technology standard
+While some progress has been made, it has been slow
+No standard has been adopted to this date.What to do if you don't want cookies to be set or want them to be removed?If you don't like the idea of cookies or certain types of cookies, you can change your browser's settings to delete cookies that have already been set and to not accept new cookies
+Browser manufacturers provide help pages relating to cookie management in their products
+Please see below for more information.Google ChromeInternet ExplorerMozilla FirefoxSafari (Desktop)Safari (Mobile)OperaOpera MobileYou can opt out of a third-party vendor's use of cookies by visiting multi-cookie opt-out mechanism the Network Advertising Initiative opt-out page or control the use of device identifiers by using their device’s settings.To opt out using the Facebook site, log in and go to Settings > Ads > Ad Settings
+On the app, go to Setting & Privacy > Settings > Ad > Ad Preferences > Ad Settings
+Then choose the Not Allowed options under each category to stop Facebook from using data from partners and tracking your activity on Facebook and their partner’s sites to target you with ads.For other browsers, please consult the documentation that your browser manufacturer provides.Please note, however, that if you delete cookies or do not accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.Where can I find more information about cookies?You can learn more about cookies by visiting the following third-party websites: wikipedia.org allaboutcookies.org aboutcookies.orgContact usIf you have any questions or comments about this Policy, or if you would like us to update information we have about you or your preferences, please email: support@flo.health.
+Product
+Help Center
+Flo for Business
+Security at Flo
+Privacy Portal
+Company
+About Us
+Careers
+Contact Us
+Press Center
+Your Body Your Story
+Content
+Health Library
+Editorial Process and Standards
+Advertising Principles
+Privacy
+Privacy Policy
+Terms of Use
+Cookie Policy
+Trademark Usage Guidelines
+Accessibility statement
+Medicine & Science
+Our Medical Expertise
+Science & Research
+English
+English
+Español
+Deutsch
+Português
+Français
+Русский
+Dansk
+Suomi
+हिन्दी
+bahasa Indonesia
+Italiano
+日本語
+한국어
+Norsk Bokmål
+Polski
+Svenska
+ภาษาไทย
+Türkçe
+tiếng Việt
+汉语
+漢語
+العَرَبِيَّة
+© 2022 Flo Health, Inc.

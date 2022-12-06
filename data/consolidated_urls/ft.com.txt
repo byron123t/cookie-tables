@@ -1,0 +1,3 @@
+https://www.ft.com/preferences/manage-cookies?redirect=https%3A%2F%2Fwww.ft.com%2F
+https://help.ft.com/legal-privacy/cookies/
+https://cookies.ft.com/preferences/manage-cookies?redirect=https://help.ft.com/legal-privacy/cookies/&cookieDomain=.ft.com

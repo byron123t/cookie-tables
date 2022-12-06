@@ -1,0 +1,3 @@
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id
+https://en.wikipedia.org/wiki/HTTP_cookie

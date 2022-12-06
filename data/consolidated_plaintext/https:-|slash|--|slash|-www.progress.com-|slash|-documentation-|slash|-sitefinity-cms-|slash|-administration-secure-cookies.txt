@@ -1,0 +1,740 @@
+
+
+
+
+
+
+
+
+
+
+
+	 Secure cookies - Sitefinity CMS Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Documentation
+
+
+
+
+Version Sitefinity 14.3 
+
+Sitefinity 14.3
+Sitefinity 14.2
+Sitefinity 14.1
+Sitefinity 14.0
+Sitefinity 13.3
+Sitefinity 13.2
+Sitefinity 13.1
+Sitefinity 13.0
+Sitefinity 12.2
+Sitefinity 12.1
+Sitefinity 12.0
+Sitefinity 11.2
+Sitefinity 11.1
+Sitefinity 11.0
+Sitefinity 10.2
+Sitefinity 10.1
+Sitefinity 10.0
+Sitefinity 9.2
+Sitefinity 9.1
+Sitefinity 9.0
+Sitefinity 8.2
+Sitefinity 8.1
+Sitefinity 8.0
+Sitefinity 7.3
+Sitefinity 7.2
+
+
+
+
+
+
+
+
+
+
+                    Tutorials
+                
+
+
+
+                    Best Practices
+                
+
+
+
+                    Troubleshooting
+                
+
+
+
+                    Knowledge base
+                    
+
+
+
+
+                    Sitefinity Insight docs
+                    
+
+
+
+
+                    Sitefinity Cloud docs
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics
+
+
+
+
+Installation
+
+
+
+
+
+
+
+Deploy and upgrade
+
+
+
+
+
+
+
+Setup and maintenance
+
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Site components
+
+
+
+
+
+
+
+Design and frontend
+
+
+
+
+
+
+
+Content management
+
+
+
+
+
+
+
+Digital marketing
+
+
+
+
+
+
+
+Development
+
+
+
+
+
+
+
+Headless API
+
+
+
+
+
+
+
+.NET Core Renderer
+
+
+
+
+
+
+
+ All topics
+Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home 
+ Web security settings 
+ Secure cookies
+
+
+ Secure cookiesThis article containsClaims authentication Forms authentication  List of cookiesPREREQUISITES: You must have installed SSL on your site and you must have configured all backend pages to require SSL. 
+For more information, see Administration: Configure SSL.
+Claims authentication 
+The .AspNet.Cookies is the cookie of the relaying party. The cookie of the STS depends on the protocol you use. It is one of the following:
+
+ idsrv
+    For OpenID Connect 
+.ASPXAUTH
+    For WRAP/SWT.
+
+Relying party 
+To configure the security of the Relying party .AspNet.Cookies cookie, perform the following:
+
+Navigate to Administration » Settings » Advanced.
+In the left pane, expand Authentication and click RelyingParty.
+In the Authentication cookie security dropdown box, select one of the following:
+    
+SameAsRequest
+        This is the default value. This way, the cookie is automatically secured, if the site is under SSL.
+Always
+        The cookie is always secured and must be served under HTTPS.
+Never
+        The cookie is not secured.
+
+
+Save your changes.
+
+STS (OpenID Connect)
+In OpenId Connect, the Security Token Service cookie idsrv is always configured as SameAsRequest.
+STS (WRAT/SWT)
+To secure the STS cookie in WRAP/SWT, perform the following: 
+
+Open the web.config file of the STS webapp. 
+Inside section <system.web>, find <authentication mode="None" /> and replace it with the following:
+    
+
+
+
+
+
+
+
+
+
+
+
+<authentication mode="None"> 
+
+
+
+    <forms requireSSL="true"/> 
+
+
+
+</authentication>
+
+
+
+
+
+
+
+
+view raw
+
+          STS_web_config.xml
+        
+        hosted with ❤ by GitHub
+
+
+
+
+Save and close the web.config and restart the application.
+    The .ASPXAUTH cookie is secured.
+Run your project and clear all browser cookies.￼ 
+
+Forms authentication  
+The .SFAUTH is the cookie connected to Forms authentication. 
+To secure the .SFAUTH cookie, perform the following: 
+
+In Sitefinity CMS backend, click Administration » Settings » Advanced » Security.  
+Select AuthCookieRequireSsl checkbox. 
+Restart the application. 
+Run your project and clear all browser cookies.  
+     
+
+List of cookies
+The following table lists cookies that Sitefinity CMS uses.
+
+
+
+
+Cookie
+Description 
+Expires 
+
+
+sf-trckngckie 
+
+Logs the page visit.
+180 days
+
+
+sf-tracking-consent
+Saves the tracking consent choice, made by visitors. 
+9999 days 
+
+
+sf-site 
+
+In multisite environment, remembers the ID of the current site. 
+2 years 
+
+
+sf-prs-ss
+Holds the time of first page visit.
+ Session
+
+
+sf-prs-lu
+Saves the landing URL.
+ Session
+
+
+sf-prs-vp
+Saves the visited pages that are part of personalization segments.
+ Session
+
+
+sf-prs-vu
+Saves the visited URLs that are part of personalization segments.
+ Session
+
+
+ASP.NET_SessionId 
+
+Contains information about the browser session and enables visitors to log into the website. 
+Session 
+
+
+.ASPXAUTH
+Determines whether a user is authenticated. 
+ 
+
+
+.SFAUTH (configurable) 
+Used for authentication tickets caching. 
+600 minutes by default (configurable) 
+
+
+.SFROLES (configurable) 
+Used to cache user roles. 
+30 minutes by default (configurable) 
+
+
+.SFLOG (configurable) 
+Used to pass the reason to login form and to display the reason. 
+ 
+
+
+.AspNet.Cookies
+
+The relying party cookie (claims authentication mode) that is used to cache authentication information. You can configure it in the AuthenticationConfig. Expiration depends on the Remember me checkbox.
+
+Sliding, 600 minutes or session (configurable) 
+
+
+.AspNet.Temp.Cookies
+Helper relying party cookie during authentication.
+
+5 minutes
+
+
+SF-TokenId 
+
+Handles the claims token (claims authentication mode). Could be configured in the SecurityConfig file.
+
+118 minutes by default (configurable) 
+
+
+sf_timezoneoffset 
+Stores the value of the UTC time zone offset for the particular user, that is, the timezone difference between UTC and the user's local time, in minutes. This cookie is stored only for logged in users. 
+Session 
+
+
+sfExpPages_ + rootNodeKey 
+Saves the key of the node expanded in the backend. 
+1 year 
+
+
+shoppingCartId 
+
+Holds the ID of the customer's shopping cart. 
+6 months 
+
+
+selectedDisplayCurrency 
+
+Holds the display currency selected by the customer. 
+Session 
+
+
+_mkto_trk 
+
+Used to get the Munchkin token - only for Marketo connector. 
+ 
+
+
+VisitorsCounterUniqueId 
+
+Used for counting web visits as a unique parameter. 
+Persistent
+
+
+sf-abissuesckie 
+
+Used in the issues grid of email campaigns A/B test. 
+2 years 
+
+
+sf-issuesckie 
+
+Used in the issues grid of email campaigns. 
+2 years 
+
+
+cartOrderId 
+
+Used to cache current cart order ID - only if configured. 
+ 
+
+
+idsrv
+
+IdentityServer3 cookie used to cache information about the current user. Expiration depends on Remember me checkbox. Configuration in AuthenticationConfig.
+
+30 days or session (configurable)
+
+
+OpenIdConnect.nonce
+
+Used to validate the identity token received from the Identity Provider (IdenityServer). It is a session cookie, but the information contained expires in 1 hour
+
+Session
+
+
+
+
+sf_abtests
+
+
+
+
+Once you start an A/B test, this cookie stores the IDs of the page variations, already visited by contacts.
+
+
+30 years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Want to learn more?Sign up for our free beginner training. Boost your credentials through advanced courses and certification. Register for Sitefinity training and certification.
+
+
+
+
+
+
+
+
+
+
+
+
+Was this article helpful?
+
+
+Yes
+No
+
+
+
+
+To submit feedback, please update your cookie settings and allow the usage of Functional cookies.
+
+Cookie Settings
+
+
+
+
+
+
+Would you like to submit additional feedback?
+Your feedback about this content is important
+
+
+
+How helpful is this article?
+
+Very helpful
+Somewhat helpful
+Not helpful
+
+
+
+How can we improve this article?(Optional)
+
+
+
+Fix typos or links
+
+
+
+Fix incorrect information
+
+
+
+Add or update code samples
+
+
+
+Add or update illustrations
+
+
+
+Add information about...
+
+
+
+
+
+
+
+Send feedback
+Cancel
+
+
+
+
+
+
+
+Thank you for your feedback!
+
+
+
+
+ Next article
+ Enable HTTP Strict Transport Security (HSTS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Installation
+
+
+Tutorials
+
+
+Best Practices
+
+
+Troubleshooting
+
+
+Knowledge base
+
+
+Sitefinity Insight docs
+
+
+Sitefinity Cloud docs
+
+
+
+
+
+
+
+
+What's new
+
+
+Privacy Center
+
+
+About Sitefinity
+
+
+Contact us
+
+
+
++1-888-365-2779
+
+
+
+
+
+New to Sitefinity?
+Request a demo
+Try now
+
+
+
+
+
+
+
+
+Copyright © 2022 Progress Software Corporation and/or its subsidiaries or affiliates. All Rights Reserved.Progress, Telerik, Ipswitch, and certain product names used herein are trademarks or registered trademarks of Progress Software Corporation and/or one of its subsidiaries or affiliates in the U.S. and/or other countries. See Trademarks for appropriate markings.
+
+
+
+
+Powered by Progress Sitefinity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

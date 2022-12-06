@@ -1,0 +1,427 @@
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy - Wisestamp Email Signature Generator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Signature generator
+Signature manager
+Templates
+Create 
+
+Create Gmail signature
+
+Add signature in Gmail
+Add image and hyperlink to Gmail signature
+Multiple Gmail signatures
+
+
+Other platforms
+
+Create Mac Mail signature
+Create Yahoo Mail signature
+
+
+Create Outlook signature
+
+Add signature in Outlook 365 web app
+Add signature in Outlook 2016-2019
+Add signature in Outlook 2007-2010
+Add signature in Outlook mobile app
+
+
+Tools
+
+Handwritten Signature Maker
+Email Signature Quote Maker
+Animated GIF Maker
+Email Disclaimer Generator
+Email Signature Banner Creator
+Video Email Signature Maker
+
+
+Google Workspace
+
+How to add signature in Google Workspace
+Google Workspace integration
+
+
+
+
+Learn 
+
+Get inspiration
+
+Email signature examples
+Email signature templates
+Email signature banners
+
+
+Guides
+
+How to create a Gmail email signature
+How to add an image to Gmail signature
+How to add an Outlook HTML signature
+See all >
+
+
+Our features
+
+Design and customization
+Marketing tools
+Social links
+Integration
+Management features
+Product updates
+
+
+Our Blog
+
+Email
+Marketing
+Branding
+Business
+Reviews
+Holiday marketing
+
+
+
+
+Pricing
+Login
+English
+ 
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+Last Revised: August 23, 2022
+We, vcita Inc. and our subsidiaries and affiliates (including, without limitations, under the brands WiseStamp or Wisebrand) (“we”, “us”, “our” or “vcita”) respect the privacy of our customers (“Customers”), our Customers’ clients (“Clients”) and of any user of our websites and other services including job applicants and alike (together with Customers and Clients, “Users” or “you”). This privacy policy (“Privacy Policy”) applies to all Users and to all our services including our websites (www.vcita.com, www.wisestamp.com, https://www.businessunusual.io/en-US/ and any subdomains (together “Websites”), web applications (“Web Apps”), mobile applications (“Mobile Apps”), our App Market, our WiseStamp services and any related services (collectively, the “Services”).
+This Privacy Policy should be read in addition to our Terms of Service or the WiseStamp Terms of Service, as applicable. This Privacy Policy describes the ways vcita collects and uses information and data related to its Users and the rights and options available to Users with respect to information and data related to them.
+Please read this Privacy Policy before using any of our Services or providing us with any information or data. BY USING OUR WEBSITES OR ANY OF OUR SERVICES, YOU ARE CONSENTING TO THIS PRIVACY POLICY. If you do not agree to the terms of this Privacy Policy, please discontinue use of our Services and immediately leave our Website.
+
+This Privacy Policy describes the following:
+
+What information we collectHow we collect informationHow we use Personal Information related to youWho we share Personal Information with and howWhere do we hold/transfer Personal InformationClient InformationThird party linksSecurityJob applicants’ informationChildren’s privacyCookiesPrivacy Notice for California ResidentsCommunication from vcitaYour rightsData RetentionChangesContacting us
+
+
+What information we collect 
+In order to provide you with the Services, we must collect information including personally identifiable data (“Personal Information”).
+The Personal Information we collect includes the following categories:
+Contact information: first and last name, username, alias, mailing address, home/business address, email and phone number;Other identifying information: unique personal identifiers such as Social Security number, driver’s license, state identification card number, passport number or similar identifiers, social media usernames, passwords and other security information for authentication and access, physical characteristics or description, medical information or health insurance information; billing details, main contact persons, business needs and preferences; and videos and photos;Demographic information: gender, age, employment information and salary information;Financial Information: though we do not collect credit card or debit card numbers, we do collect bank account information and other financial information such as the four last digits of your credit card; transactions associated with your use of the Services, including the transaction ID, transaction category and type, merchant name, amount, currency, date, and location;Geolocation data;Internet and other electronic activity: IP address, browser type, search and click history; navigation within and use of our Websites and Services;Commercial information: products or services you offer or purchase using the Services;Inferences drawn from the categories described above in order to create customized Services to reflect your preferences, characteristics and behavior; andFree Text: Personal Information you provide us in an email/chat/text messaging or any other free-text entry box, either as part of your account or as part of any use the Services while connecting with other Users.
+How we collect information 
+We collect Personal Information you provide us from your use of the Services, from any interaction between you and us and from other sources, all as further described below:
+Information you provide usWhen you register as a Customer, use the Services or purchase an App on our App Market you will be required to provide us with information. To the extent applicable, such details will be provided by using your social network account (e.g. connecting your Facebook or Google account to our Services).When communicating with us through support tickets, emails and recorded calls you participate in.Unsolicited information you provide us through the Services or through any other means, for example by posting to any public areas and other unsolicited submissions, will be accessible to others and will not be treated as confidential.
+Please use caution when providing information to us and avoid any involuntary disclosure of Personal Information related to you, or to others without their consent.
+Information we collect when you use our Services or from third partiesCookies: our use of cookies, tags, APIs, unique identifiers, and similar technologies allow us and our advertising and analytics partners to collect information about the pages and screens you view, the links or ads you click, and other actions you take when using our Services. Some portion of such information will be collected from your computer, mobile device or internet browser when you are using the Services or when the Services are running in the background, i.e. when they have been launched but are not actively used. Please see our Cookie Policy for more information.Third-Party Services: when you link certain third-party services (e.g., Gmail, Outlook Calendar) to your account or when you otherwise interact with these services through or in connection with our Services you allow us to receive certain personal information retained by such third-party services.Social Platforms: social platforms give us automatic access to certain personal information retained by these social networks about you. This will include Facebook sign-in, Google sign-in and information from your public profile. In some cases, we will collect Personal Information from lead enhancement companies which help us to improve our service offering. You control the Personal Information you allow us to have access to through the privacy settings on the applicable social platforms and the permissions you give us when you grant us access to the Personal Information retained by the respective social platforms about you.Third-Party Service Providers: from third party services provider such as (i) analytics software and communication providers; (ii) security providers, fraud detection and prevention providers helping us for example to screen out Users associated with fraud; and (iii) advertising and marketing partners in order to monitor, manage and measure our ad campaign; all who have assured us that they have either obtained your consent for the provision of such information or that you have freely and publicly provided such information yourself.Non-Identifiable Information: when you interact with vcita through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. We will store such information ourselves or such information will be included in databases owned and maintained by our affiliates, agents or service providers. Our Services will use such information and pool it with other information. It is important to note that no Personal Information is available or used in this process.Aggregated Personal Information: Iin an ongoing effort to better understand and serve our Users, we often conduct research on our Users’ interests and behavior based on the Personal Information and other information provided to us, including through third party service providers. This research will be compiled and analyzed on an aggregate basis, and vcita will share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally.
+How we use Personal Information related to you 
+We will use information that we collect about you for the following purposes:
+to provide and operate the Services;to determine and ascertain accounts, verify User identity;to process payments for you;to personalize the Services, customize your user experience with the Services, communicate with you and enable you to retrieve information related to you;to develop, improve, customize and provide maintenance to the Services, the experience of other Users and the offerings available through the Services;to be able to contact you for the purpose of providing technical assistance and support, to handle requests and complaints, and to collect feedback in connection with our performance of the Services;to send you updates, notices, announcements, and additional information related to the Services;to comply with any applicable laws and regulations;to analyze our performance and marketing activities;to use the information to create statistical, aggregated or anonymous data which will be used at our discretion for any purpose; andto allow us, and our selected third parties, to provide you with personalized interest based advertisements, which will be served either on the Services and/or on other websites, apps, and services, and to better understand your activity.
+Use of your Google data:
+vcita uses Google OAuth in order to get access to your Google data as part of your registration to certain Services and if you choose to synchronize your Google Calendar or your Google Contacts with our Service.vcita also uses Google OAuth when you use WiseStamp Service with Gmail via Gmail API where you will be required to link your account with one or more of your e-mail accounts (e.g. Gmail), and permit our WiseStamp Services to automatically update your signature settings with the WiseStamp Service generated content. In this respect please note that our use and transfer of information received from Google APIs to any other app will adhere to Google API Services User Data Policy, including the Limited Use requirements. The specific access and use privileges requested are displayed in the notice which appears during the account linking process. Please read this notice carefully, and make sure that you understand which privileges are granted and what information you make available to us by linking your Google account.
+We collect, process and use information related to you for the purposes described in this Privacy Policy based on at least one of the following legal grounds:
+Necessary to Perform a Contract: we collect and process Personal Information related to you in order to provide you with the Services.With your consent: we ask for your agreement to process Personal Information related to you for additional specific purposes, and you have the right to withdraw your consent at any time.Legitimate Interests: we process Personal Information related to you for legitimate interests, while applying appropriate safeguards that protect your privacy. This means that we process Personal Information related to you for such as (i) detecting, preventing, or otherwise addressing fraud, abuse, security, usability, functionality or technical issues with our Services; (ii) protecting against harm to the rights, property or safety of our properties, our Users or the public as required or permitted by law; (iii) for the development and enhancement of our Services; (iv); to personalize the Services in order to deliver better user experience; (v) for enforcing legal claims, including investigation of potential violations of this Privacy Policy; (iv) in order to comply and/or fulfil our obligation under applicable laws, regulations, guidelines, industry standards and contractual requirements, legal processes, subpoena or governmental requests, as well as our Terms of Services.
+Who we share Personal Information with and how 
+We will share Personal Information related to you with certain third parties without further notice to you under certain circumstances, as further provided:
+Service Providers: we use third party service providers whose services and solutions complement, facilitate and enhance our Services, and who have confirmed that their privacy practices are consistent with ours. Some examples of such third-party service providers will include hosting and data storage services, maintenance and management services, marketing and promotions, cyber security services, billing and payment processing services, web analytics, text messaging and monitoring services, session recording and remote access services, performance measurement, data optimization, content providers, and others (“Service Providers”). We only provide our Service Providers with the information necessary for them to perform these services on our behalf and each Service Provider must agree to use reasonable security procedures and practices and are prohibited from using Personal Information other than as specified by us.Affiliates and Related Companies: we will share Personal Information related to you internally within our family of companies, for the purposes described in this Privacy Policy.Third Parties you Authorize and Direct us: our Services interact with and enable you, to engage and procure various third-party services, products and tools. In such cases we will share Personal Information with such third parties if you specifically authorize it, or if it is required in order to complete a transaction, service or activity. In these cases, vcita acts as an intermediary platform allowing you to procure such third-party services at your discretion and will share Personal Information related to you with such third parties only upon your direction or with your permission and will not in any way be responsible for such third parties’ processing of such Personal Information, or liable with respect thereto. The collection and processing of Personal Information related to you will be subject to the privacy policy of such third parties, and we suggest you review such policies.Change in Corporate Control: in the event vcita or any of its affiliates undergo any change in control, including by way of merger, acquisition or purchase of substantially all of its assets or shares, Personal Information related to you will be shared with the parties involved in such transaction.Legal Requirements: we will disclose Personal Information related to you and any other information about you to government or law enforcement officials or private parties if we will be required to do so by law or if we believe in good faith that it is necessary or appropriate in order to (i) comply with a legal obligation; (ii) protect and defend our rights or properties; (iii) act in urgent circumstances to protect the personal safety of Users of the Services or the public; or (iv) protect against legal liability.
+Where do we hold/transfer Personal Information
+Users’ Personal Information is stored in data centers located in the United States.
+Our subsidiary, vcita Systems Ltd. which provides us with certain services is located in Israel which is considered by the European Commission to be offering an adequate level of protection for the Personal Information of EU Member State residents.
+Additionally to the USA and Israel, we process information in multiple locations, including without limitation, the Ukraine, the Philippines and other territories. Such countries may be different from the country in which Personal Information related to you originated and where data protection laws are not equivalent to, or offer the same protection as, those in your country. By using our Services, you agree to any such transfers.
+Our affiliates and Service Providers who store and process Personal Information on our behalf are contractually committed to keep it protected and secured, in accordance with industry standards and regardless of any lesser legal requirements which applies in their jurisdiction.
+Transfer of EU Personal Information: If you are located in the EU, when we transfer Personal Information related to you to the United States or anywhere outside Europe, we will make sure that (i) there is a level of protection deemed adequate by the European Commission; or (ii) that the relevant Standard Contractual Clauses approved by the European Commission or other suitable safeguards are in place to manage such data transfers and protect the privacy and security of information related to you; all in accordance our Data Processing Addendum.
+Client information
+THE USE OF CLIENT’S PERSONAL INFORMATION BY CUSTOMER (OR OTHER THIRD PARTIES) IS NOT CONTROLLED BY VCITA, AND CLIENTS SHOULD REVIEW CUSTOMER’S PRIVACY POLICY INDEPENDENTLY. VCITA IS NOT RESPONSIBLE AND WILL BEAR NO LIABILITY TO CUSTOMER’S PRIVACY POLICY OR TO CUSTOMER’S COMPLIANCE WITH IT.
+vcita will collect, store and process certain Personal Information of Clients (“Client Personal Information”), solely on our Customer’s behalf and at their direction and further serves as “Processor” rather than a “Controller” (as such terms are used by the European Union General Data Protection Regulation (“GDPR”)) with respect to such Client Personal Information.
+Customers are considered as “Controllers” of such Client Personal Information and are responsible for complying with all laws and regulations that will apply to the collection and control of such Client Personal Information, including all privacy and data protection laws of all relevant jurisdictions.
+If such Client Personal Information includes Personal Information related to your Clients, you are responsible for the security, integrity and authorized usage of such Client Personal Information. You confirm that you have brought this Priacy Policy to their attention and provided all required notices, obtained their consent to the processing and use of their Personal Information through the Services and to the use of their details under this Privacy Policy.
+vcita cannot provide legal advice to Customers or Clients, however we do recommend you as a Customer to publish and maintain clear and comprehensive privacy policies on your website or Client Portal in accordance with any applicable laws and regulations, and that all Clients carefully read those policies and make sure that they understand and, to the extent required by applicable law, consent to them.
+The processing and transfer of Client Personal Information subject to GDPR will be in accordance our Data Processing Addendum.
+If you are a Client of any of our Customers please note:
+vcita has no direct relationship with Clients’ whose Clint Personal Information it processes. If you are a Client of any of our Customers, and would like to make any requests or queries regarding your Client Personal Information, please contact such Customer directly. If we are requested by our Customers to remove any Client Personal Information, we will respond to such requests in a timely manner upon verification and in accordance with applicable laws and regulations. Unless otherwise instructed by our Customer, we will retain their Clients Personal Information for the period set forth in this Privacy Policy.
+Third party links
+Our Website and the Services will contain links to other third-party websites or services. We do endorse such links or websites, do not exercise control over third-party websites and are not responsible for such websites’ or services’ privacy practices. You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before providing any information to the website. This Privacy Policy does not apply to such linked third-party websites and services.
+Security
+We take great care in implementing and maintaining the security of our Services and our Users’ Personal Information. vcita employs industry-standard procedures and policies to ensure the security of its Users’ Personal Information and to prevent unauthorized access, disclosure or alteration of any such information. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers and information access authorization controls as will be found here. We also regularly monitor our systems for possible vulnerabilities and attacks, and regularly seek new ways to further enhance the security of our Services and protection of our Users’ privacy.
+However, we cannot guarantee absolute protection and security and that unauthorized access will never occur. We encourage you to set strong passwords to your account and avoid providing us or anyone with any sensitive Personal Information of which you believe its disclosure could cause you substantial or irreparable harm.
+Job applicants’ information
+vcita collects applicants’ Personal Information solely for vcita’s internal recruitment purposes including for communication with applicants by phone or in writing, evaluation of applications and hiring process and keep it secured. If you previously submitted Personal Information related to you and now wish to access it, update it or have it deleted from our systems, please contact us at Careers@vcita.com.
+Children’s privacy
+To use our Services, you must be over the age of sixteen (16). vcita does not knowingly collect Personal Information from individuals under the age of sixteen (16) and does not wish to do so. vcita will delete a child’s personally identifiable information if a parent so requests by sending a request to vcita.com/contact. If vcita learns that a child under the age of 16 years has provided personally identifiable information to vcita without verifiable parental consent, vcita will use commercially reasonable efforts to delete such information from vcita’s databases.
+Cookies
+vcita uses cookies and similar tracking technologies to make sure that our Websites and Services are continuously improved and meet your needs, to analyze performance and marketing activities, and to personalize your experience.
+Please view our Cookies and Similar Tracking Technologies Policy for more information on our use of cookies.
+Privacy Notice for California Residents
+If you are a California resident, you will have certain privacy rights under the California Consumer Privacy Act (“CCPA”) as further provided:
+Access to Specific Information and Data Portability Rights
+You have the right to request that we disclose to you certain information about our collection and use of Personal Information related to you over the past 12 months. After verifying your request, we will disclose to you:
+The categories of Personal Information we collected about you;The categories of sources for the Personal Information we collected about you;Our business or commercial purpose for collecting that Personal Information;The categories of third parties with whom we share that Personal Information;The specific pieces of Personal Information we collected about you;If we disclosed Personal Information related to you for a business purpose, we will provide you with a list which will identify the Personal Information categories that each category of recipient obtained.
+Deletion Rights
+You have the right to request that we delete any of Personal Information related to you. Upon confirmation of your request, we will delete Personal Information related to you from our records, unless an exception applies.
+Exercising Your Rights
+To exercise the access, data portability, and deletion rights described above, please submit your request by sending an email to vcita.com/contact.  
+Only you or a person authorized to act on your behalf, will make a request related to Personal Information related to you. You will also make a verifiable consumer request on behalf of your minor child.
+A request for access can be made by you only twice within a 12-months period. We cannot respond to your request or provide you with the requested Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information relates to you. We will only use the Personal Information provided in your request to verify your identity or authority to make the request.
+We will do our best to respond to your request within 45 days of its receipt. If we require more time (up to additional 45 days), we will inform you of the reason and extension period in writing. We will deliver our written response by email. Any disclosures that we provide will only cover the 12-month period preceding receipt of your request. The response we provide will also explain the reasons for our inability to comply with your request, if applicable.
+We do not charge a fee to process or respond to your request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will inform you of the reasons for such decision and provide you with a cost estimate before processing further your request.
+We do not discriminate against any User for exercising their rights under the CCPA.
+Some web browsers offer a “Do Not Track” (“DNT”) signal. A DNT signal is an HTTP header field indicating your preference for tracking your activities on our services or through cross-site user tracking. Our Websites do not respond to DNT signals.
+Communication from vcita
+Service Messages
+vcita will contact you with information regarding our Services or your use thereof. For example, we will notify you (through any of the means available to us) of changes or updates to our Services, including changes to our Terms of Service, transactions performed, payment issues, service maintenance, etc. It is important that you are always able to receive such messages and for this reason, you will not be able to opt-out of receiving such service messages.
+Promotional and Surveys Messages
+In addition to communications that are an inherent part of our Services, occasionally we will also use your contact information to contact and notify you about new related services and special opportunities or promotions we think you will find valuable and will also contact you in connection with surveys we conduct with respect to our Services, either on our own behalf or on behalf of our partners. We will contact you through e-mail, push notifications, through notices on the Services themselves or through any other contact methods available to us, including with the help of our service providers.
+If you do not wish to receive such promotional messages or calls, you will notify vcita at any time or follow the “unsubscribe” or “stop” instructions contained in the promotional communications you receive.
+At any time you can opt out of vcita’s mailing lists, by sending us a removal request to vcita.com/contact, or, with respect to WiseStamp Service to support@wisestamp.com. It can take up to ten (10) business days for your opt-out request to take effect.
+Your rights
+If you are a Customer and registered to the Services, you can access your personal account and edit or amend Personal Information related to you at any time using the designated user interface in the applicable Services.
+If you find that the information on your personal account is not accurate, complete or updated, then you can make all necessary changes to correct it. Otherwise, you can contact us at vcita.com/contact.
+If you wish to delete Personal Information related to you stored on vcita’s database, you can send a request to delete information to vcita.com/contact, or, with respect to WiseStamp Service to support@wisestamp.com. vcita will inform you whether it can accept your request. vcita will strive to accept requests to delete personally identifiable information. vcita can refuse your request, for example, if it believes that removal of certain information can harm other users. Before fulfilling your request, we will ask you for additional information in order to confirm your identity and for security purposes.
+You will bear full responsibility for any damage, costs, fines and expenses resulting from the deletion of data pursuant to your request to exercise the right to be forgotten and hold vcita harmless thereof.
+EU Residents: A summary and further details about your rights under EU data protection laws, is available on the EU Commission’s website at: https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_en.
+Data Retention
+We will retain Personal Information related to you including any Client Personal Information until you ask us to delete it or for as long as you maintain an account with us or as otherwise necessary for us to provide you the Services. We will continue to retain Personal Information related to you after you terminate your relations with us, deactivate your account and/or cease to use any particular Services, as necessary to comply with our legal obligations, to resolve disputes, to prevent fraud and abuse, to enforce our agreements and/or to protect our legitimate interests and to allow you to reuse the Services. After termination of your relations with us we will have the right to delete all information related to you within 30 days of such termination.
+Notwithstanding anything to the contrary in this policy, vcita can keep any aggregated or anonymized information for statistical, marketing and other purposes, indefinitely and it is vcita’s policy to keep Customer Personal Information on file unless specifically requested to be deleted.
+We maintain a data retention policy which we apply to Personal Information in our care.
+Changes
+We will change this Privacy Policy from time to time at our sole discretion and will inform you of such changes by posting the revised Privacy Policy on this Website. The changes will go into effect on the effective date shown on the revised Privacy Policy. Please review this Privacy Policy periodically, and especially before you provide any Personal Information. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+Contacting us
+vcita is doing its utmost to comply with this Privacy Policy. If you have any questions, concerns or complaints regarding this Privacy Policy and our privacy practices please contact us at vcita.com/contact or at support@wisestamp.com.
+vcita has appointed a Data Protection Team for monitoring and advising on its ongoing privacy compliance and to serve as a point of contact on privacy matters for data subjects and supervisory authorities. To contact vcita’s Data Protection Team please email us at privacy@vcita.com.
+EU Residents: Our EU-GDPR representative according to Art. 27 of the GDPR is Rickert Rechtsanwaltsgesellschaft mbH, at Colmantstraße 15, 53225 Bon, Germany and may be reached at art-27-rep-vcitasystems@rickert.law.
+UK Residents: Our UK-GDPR representative according to Art. 27 of the GDPR is Rickert Services Ltd UK, at PO Box 1487, Peterborough, PE1 9XX, United Kingdom and may be reached at art-27-rep-vcita@rickert-services.uk.
+You maintain the right to file a complaint with your national data protection authority if you have a concern about our privacy practices, including the way we handle Personal Information related to you.
+By contacting us, you represent that you are free to do so and that you will not knowingly provide information that infringes upon the rights of third parties, including any intellectual property rights. You further acknowledge that, notwithstanding anything herein to the contrary, any and all rights, including without limitation any intellectual property rights in such information provided, shall belong exclusively to vcita, and we may use or refrain from using such information at our sole discretion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Wisestamp.com is the world’s leading email signature management software – used by over 1M clients worldwide.
+We offer you the easiest way to take control of your company email signatures – set up a company-wide branded signature and run email signature marketing campaigns.
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Product
+
+Email Signature Generator
+Email Signature Manager
+Gmail extension
+Features
+Pricing
+Product updates
+Security & Compliance
+Help center
+
+
+Resources
+
+Signature templates
+Signature examples
+Signature banners
+Email signature guides
+Blog
+Hand Signature Generator
+
+
+Create signature
+
+Gmail
+Google Workspace
+Outlook
+Office 365
+Mac Mail
+Yahoo
+iPhone & iPad
+
+
+WiseStamp
+
+About us
+About vCita
+Reviews
+Terms of Service
+Privacy Policy
+Google APIs disclosure
+Careers
+Become a partner
+Contact us
+
+
+ 
+
+
+
+
+
+
+
+
+								All rights reserved © WiseStamp2022							
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+We use cookies on our website to make sure you get the best experience from your visit. Please confirm that you accept the use of cookies & our privacy policy.
+Accept cookies
+
+
+
+
+
+
+
+
+
+
+
+
+
+

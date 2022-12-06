@@ -1,0 +1,502 @@
+
+
+
+
+
+
+Cookie Policy - Website Information and Feedback - Newcastle University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This website uses cookiesWe use cookies to help improve this website. We also share information about your use of our site with our social media, advertising and analytics partners. You consent to our cookies if you continue to use our website, in accordance with our cookie policy. [#OOI_PERSONAL_INFORMATION#]Use necessary cookies only Allow all cookies Show detailsOKUse necessary cookies only Allow selection Allow all cookies Necessary Preferences Statistics MarketingShow detailsCookie declaration [#IABV2SETTINGS#] About Necessary (61)  Preferences (13)  Statistics (69)  Marketing (149)  Unclassified (52)Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.NameProviderPurposeExpiryTypedebugapi2.enscape3d.comThis cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.PersistentHTMLvisitorBablicPreserves the visitor's session state across page requests.SessionHTTP__cf_bm [x9]Newcastle UniversityHubspotAtyponPixabayscience.orgTypeformVimeoThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.1 dayHTTP__cfruid [x3]Newcastle UniversityThis cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. SessionHTTPAWSALBchat-eu.libanswers.comRegisters which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.  7 daysHTTPAWSALBCORSchat-eu.libanswers.comRegisters which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.  6 daysHTTPJSESSIONID [x4]Newcastle UniversityExlibrisNew RelicPreserves users states across page requests.SessionHTTPPHPSESSID [x2]feedspot.comNewcastle UniversityPreserves user session state across page requests.SessionHTTP__RequestVerificationTokenMicrosoftHelps prevent Cross-Site Request Forgery (CSRF) attacks.SessionHTTPai_session [x2]MicrosoftPreserves users states across page requests.1 dayHTTPCONSENT [x3]GoogleYouTubeUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.  2 yearsHTTPrc::aGoogleThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.PersistentHTMLrc::bGoogleThis cookie is used to distinguish between humans and bots. SessionHTMLrc::cGoogleThis cookie is used to distinguish between humans and bots. SessionHTMLfirebase:host:#.firebaseio.comi.simmer.ioPendingPersistentHTMLgdprID5Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry.  1 dayHTTPSESS#Newcastle UniversityPreserves users states across page requests.SessionHTTPli_gcLinkedInStores the user's cookie consent state for the current domain179 daysHTTPAADSSOMicrosoftThis cookie is necessary for the login function on the website. SessionHTTPbuidMicrosoftThis cookie is necessary for the login function on the website. 29 daysHTTPSSOCOOKIEPULLEDMicrosoftThis cookie is necessary for the login function on the website. 1 dayHTTPstsservicecookieMicrosoftUsed in connection with the synchronisation between the website and third-party Data Management Platform. The cookie serves to monitor this process for security reasons.  SessionHTTPx-ms-gateway-sliceMicrosoftUsed in connection with the synchronisation between the website and third-party Data Management Platform. The cookie serves to monitor this process for security reasons.  SessionHTTPconnect.sidLoom The cookie is necessary for secure log-in and the detection of any spam or abuse of the website.29 daysHTTPloom_anon_commentLoom Allows user to leave comments on the website's video-content anonymously.SessionHTTPmStripeDetermines the device used to access the website. This allows the website to be formatted accordingly. 2 yearsHTTPCookieConsentCookiebotStores the user's cookie consent state for the current domain1 yearHTTPis_euPinterestDetermines whether the user is located within the EU and therefore is subject to EU's data privacy regulations. SessionHTMLH5PUserUUIDnewcastle.h5p.comThis cookie allows functionalities in interactive games by tracking the user's ID. PersistentHTMLXSRF-TOKENnewcastle.h5p.comEnsures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor.   6 daysHTTPASP.NET_SessionId [x2]Newcastle Universitysensusaccess.comPreserves the visitor's session state across page requests.SessionHTTPAADNonceMicrosoftUsed to implement Microsoft-forms on the website. SessionHTTPembed/v3/counters.gifHubspotUsed to implement forms on the website.SessionPixel_cq_suidPowtoonThis cookie is used to distinguish between humans and bots. SessionHTTPcsrftokenPowtoonHelps prevent Cross-Site Request Forgery (CSRF) attacks.1 yearHTTPvisitoridPowtoonPreserves users states across page requests.1 yearHTTP#.#-#-#-#-#.ackTypeformUsed to contain user’s survey and quiz answers in Local Storage.PersistentHTML#.#-#-#-#-#.inProgressTypeformUsed to contain user’s survey and quiz answers in Local Storage.PersistentHTML#.#-#-#-#-#.queueTypeformUsed to contain user’s survey and quiz answers in Local Storage.PersistentHTML#.#-#-#-#-#.reclaimEndTypeformUsed to contain user’s survey and quiz answers in Local Storage.PersistentHTML#.#-#-#-#-#.reclaimStartTypeformUsed to contain user’s survey and quiz answers in Local Storage.PersistentHTMLAWSALBTGTypeformRegisters which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.  7 daysHTTPAWSALBTGCORSTypeformRegisters which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.  6 daysHTTPPreference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.NameProviderPurposeExpiryTypelang [x2]LinkedInRemembers the user's selected language version of a websiteSessionHTTPUserSettingsNewcastle UniversityThis cookie is used to determine the preferred quality of video content, this is based on visitor settings. 2 yearsHTTPAcastLangAcastThis cookie is used to determine the preferred language of the visitor and sets the language accordingly on the website, if possible.PersistentHTMLmidInstagramThis cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their Instagram application for example.2 yearsHTTP_hjShownFeedbackMessageHotjarUsed in context with the website’s user feedback functionality. Determines whether the user has been shown feedback messages. 1 dayHTMLmessagesUtkHubspotStores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter. 179 daysHTTPjwplayer.bandwidthEstimateNewcastle UniversityRegisters the website's speed and performance. This function can be used in context with statistics and load-balancing.PersistentHTMLjwplayerLocalIdNewcastle UniversityUsed to determine the optimal video quality based on the visitor's device and network settings.  PersistentHTMLbab_bablicPowtoonThe cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.PersistentHTMLDRIFT_SESSION_IDPowtoonAllows the website to recoqnise the visitor, in order to optimize the chat-box functionality. SessionHTMLDRIFT_SESSION_STARTEDPowtoonStores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter. SessionHTMLUB_UUIDUnibuddyUsed by third-party student enrollment service. PersistentHTMLStatistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.NameProviderPurposeExpiryTypeevents/1/# [x2]New RelicUsed to monitor website performance for statistical purposes.SessionPixeljserrors/1/# [x2]New RelicPendingSessionPixelc.gif [x2]MicrosoftCollects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.SessionPixelCLIDMicrosoftCollects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.1 yearHTTPqcSesIssuuCollects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.SessionHTMLmf_#Newcastle UniversityCollects anonymous data of the user's navigation and interaction on the website in order to personalise the purchasing experience.SessionHTTP_ga [x4]GeckoengageGoogleTheta360YumpuRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.2 yearsHTTP_gat [x4]GeckoengageGoogleTheta360YumpuUsed by Google Analytics to throttle request rate1 dayHTTP_gid [x4]GeckoengageGoogleTheta360YumpuRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTP__utm.gifGoogleGoogle Analytics Tracking Code that logs details about the visitor's browser and computer.SessionPixelcollectGoogleUsed to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.SessionPixelAnalyticsSyncHistoryLinkedInUsed in connection with data-synchronization with third-party analysis service. 29 daysHTTPfpcMicrosoftRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.29 daysHTTPajs_anonymous_idLoom This cookie is used to identify a specific visitor - this information is used to identify the number of specific visitors on a website.1 yearHTTPcksync.phpMedia.netThis cookie is used to determine if cookie data synchronization is enabled or disabled – cookie data synchronization is used to synchronize and gather visitor data on several domains.SessionPixelvisitor-idMedia.netThis cookie is used to collect information on the visitor. This information will be stored for internal analytics at the website's operator – Internal analytics is used by websites to optimize their domains.1 yearHTTP__utmaNewcastle UniversityCollects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.2 yearsHTTP__utmbNewcastle UniversityRegisters a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.1 dayHTTP__utmcNewcastle UniversityRegisters a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.SessionHTTP__utmtNewcastle UniversityUsed to throttle the speed of requests to the server.1 dayHTTP__utmzNewcastle UniversityCollects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.6 monthsHTTP_at.hist.#OracleUsed by the social sharing platform AddThis to store the user's usage history of the AddThis sharing widgetPersistentHTML_ga_#Newcastle UniversityUsed by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. 2 yearsHTTP_hjAbsoluteSessionInProgressHotjarThis cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.1 dayHTTP_hjFirstSeenHotjarThis cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.1 dayHTTP_hjIncludedInPageviewSampleHotjarDetermines if the user's navigation should be registered in a certain statistical place holder.1 dayHTTP_hjIncludedInSessionSampleHotjarRegisters data on visitors' website-behaviour. This is used for internal analysis and website optimization. 1 dayHTTP_hjRecordingLastActivityHotjarSets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.SessionHTML_hjSession_#HotjarCollects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.1 dayHTTP_hjSessionUser_#HotjarCollects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.1 yearHTTP_hjTLDTestHotjarDetects the SEO-ranking for the current website. This service is part of a third-party statistics and analysis service. SessionHTTP_tt_enable_cookieTiktokUsed by the social networking service, TikTok, for tracking the use of embedded services.1 yearHTTPFPAUNewcastle UniversityAssigns a specific ID to the visitor. This allows the website to determine the number of specific user-visits for analysis and statistics.3 monthsHTTPFPIDNewcastle UniversityRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 2 yearsHTTPFPLCNewcastle UniversityRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTPhjViewportIdHotjarSets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.SessionHTMLln_orLinkedInRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 1 dayHTTPu_scsidsc-static.netRegisters data on visitors' website-behaviour. This is used for internal analysis and website optimization. SessionHTMLtracker/tc_imp.gifCheqCollects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.SessionPixel_cltkPowtoonRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. SessionHTMLacsbResetPowtoonSets a unique ID that allows the website to obtain data on visitor behaviour on the website and the app for statistical purposes.PersistentHTMLPugTPubMaticUsed to determine the number of times the cookies have been updated in the visitor's browser. Used to optimize the website's server efficiency. 30 daysHTTPX-ABsc-static.netThis cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site. 1 dayHTTPpersonalization_idTwitter Inc.This cookie is set by Twitter. The cookie allows the visitor to share content from the website on his/her Twitter profile.2 yearsHTTPrl_anonymous_idTypeformRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. PersistentHTMLrl_group_idTypeformRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. PersistentHTMLrl_group_traitTypeformRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. PersistentHTMLrl_traitTypeformRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. PersistentHTMLrl_user_idTypeformRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. PersistentHTMLp.gifAdobe Inc.Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data. SessionPixelub_campaignUnibuddyRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. PersistentHTMLub_contentUnibuddyRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. PersistentHTMLub_mediumUnibuddyRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. PersistentHTMLub_sourceUnibuddyRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. PersistentHTMLugidUnsplashNecessary for the implementation of video-content on the website.1 yearHTTPvuidVimeoCollects data on the user's visits to the website, such as which pages have been read.2 yearsHTTPwfeSessionIdMicrosoftStores data on the time spent on the website and its sub-pages, during the current session. SessionHTTPMarketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.NameProviderPurposeExpiryType0Improve DigitalPendingSessionHTTP0123456789#Improve DigitalPending3 monthsHTTP-1Improve DigitalCollects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.3 monthsHTTPtuuid [x2]Improve DigitalBidswitchCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.3 monthsHTTPtuuid_lu [x2]Improve DigitalBidswitchContains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.  3 monthsHTTPumImprove DigitalRegisters the visitor's behavior on social media - can be used to optimize ad-relevance and general targeting.3 monthsHTTPumehImprove DigitalUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. 3 monthsHTTPvarchar (72)Improve DigitalPendingSessionHTTPxuidTripleliftPresents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.SessionPixel6suuidj.6sc.coRegisters user behaviour and navigation on the website, and any interaction with active campaigns. This is used for optimizing advertisement and for efficient retargeting.  2 yearsHTTPlocOracleGeolocation, which is used to help providers determine how users who share information with each other are geographically located (state level).1 yearHTTPuvcOracleDetects how often the social sharing service, AddThis, encounters the same user.1 yearHTTPxtcOracleRegisters the user's sharing of content via social media.1 yearHTTPpixelAdformCollects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.SessionPixeluuid2AppnexusRegisters a unique ID that identifies a returning user's device. The ID is used for targeted ads.3 monthsHTTP_utmaGooglePending2 daysHTTPIDSYNCOathUsed to identify the visitor across visits and devices. This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers. 1 yearHTTPv1/beacon/img.gifj.6sc.coUsed in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.SessionPixelcBidswitchRegulates synchronisation of user identification and exchange of user data between various ad services.1 yearHTTPul_cb/syncBidswitchCollects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.SessionPixelMUID [x3]MicrosoftUsed widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.1 yearHTTPSRM_BMicrosoftTracks the user’s interaction with the website’s search-bar-function. This data can be used to present the user with relevant products or services.     1 yearHTTPANONCHK [x2]MicrosoftRegisters data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.  1 dayHTTPSM [x2]MicrosoftRegisters a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.SessionHTTPCMIDCasale MediaCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 yearHTTPCMPROCasale MediaCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. 3 monthsHTTPCMPSCasale MediaCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.3 monthsHTTPCMTSCasale MediaCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.3 monthsHTTPrumCasale MediaCollects data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.SessionPixeldis/rtb/appnexus/cookiematch.aspxCriteoSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.SessionPixeldis/rtb/google/cookiematch.aspxCriteoSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.SessionPixeluidCriteoCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 yearHTTPdemconf.jpgAdobeSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. SessionPixeldemdexAdobe Inc.Via a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads.180 daysHTTPdpmAdobeSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.180 daysHTTPIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPpagead/landing [x2]GoogleCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. SessionPixelpagead/viewthroughconversion/806251528GooglePendingSessionPixeltest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPam_tokensexchange.mediavine.comPresents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.14 daysHTTPcriteoexchange.mediavine.comPresents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.14 daysHTTPmv_tokensexchange.mediavine.comSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.14 daysHTTPmv_tokens_invalidate-verizon-pushesexchange.mediavine.comSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.14 daysHTTPMicrosoftApplicationsTelemetryDeviceIdMicrosoftSets a specific device ID. This ID is used by Microsoft to track users' website behaviour and the interaction with Microsoft application on the specific device. 1 yearHTTPMSFPC [x2]MicrosoftUsed widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.1 yearHTTP_GRECAPTCHAGoogleThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.179 daysHTTPads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelNIDGoogleRegisters a unique ID that identifies a returning user's device. The ID is used for targeted ads.6 monthsHTTPpagead/1p-conversion/#GoogleCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. SessionPixelpagead/1p-user-list/#GoogleTracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.SessionPixel__ptq.gifHubspotSends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.SessionPixelcallbackID5Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. 1 dayHTTPcarID5Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.1 dayHTTPcfID5Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.1 dayHTTPcipID5Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.1 dayHTTPcnacID5Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.1 dayHTTPs/966/9.gifID5Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.SessionPixelwww-claim-v2InstagramUsed for sharing content onto the social platform Instagram - This functionality is used for gathering information on visitor preferences for marketing purposes. SessionHTMLiutkIssuuRecognises the user's device and what Issuu documents have been read.179 daysHTTP_kuid_SalesforceRegisters a unique ID that identifies a returning user's device. The ID is used for targeted ads.180 daysHTTPbcookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 yearHTTPbscookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 yearHTTPlidcLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 dayHTTPUserMatchHistoryLinkedInUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.  29 daysHTTPloom_referral_videoLoom Used to detect referrals in relation to website's embedded video-player. SessionHTTPsync [x3]IvidenceTelariaYieldmoCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. SessionPixeldata-cMedia.netPresents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.30 daysHTTPdata-c-tsMedia.netCollects data on the user across websites - This data is used to make advertisement more relevant.30 daysHTTPMC1MicrosoftUsed by Microsoft to keep statistics on what pages the user has visited and how often an ad click leads to a purchase or other actions on the advertiser's website.1 yearHTTPMS0MicrosoftUsed by Microsoft to keep statistics on what pages the user has visited and how often an ad click leads to a purchase or other actions on the advertiser's website.1 dayHTTP__atuvcOracleUpdates the counter of a website's social sharing features.1 yearHTTP__atuvsOracleEnsures that the updated counter is displayed to the user if a page is shared with the social sharing service, AddThis.1 dayHTTP__hsscHubspotCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.1 dayHTTP__hssrcHubspotCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.SessionHTTP__hstcHubspotCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.179 daysHTTP_at.cwwOracleUsed by the social sharing platform AddThisPersistentHTML_fbp Meta Platforms, Inc.Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTP_gcl_auNewcastle UniversityUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.   3 monthsHTTP_hjRecordingEnabledHotjarThis cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.SessionHTML_pin_unauthPinterestUsed by Pinterest to track the usage of services.1 yearHTTP_scidsc-static.netSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.13 monthsHTTP_ttp [x2]TiktokUsed by the social networking service, TikTok, for tracking the use of embedded services.1 yearHTTP_uetsidMicrosoftCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. 1 dayHTML_uetsid_expMicrosoftContains the expiry-date for the cookie with corresponding name. PersistentHTML_uetvidMicrosoftUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. 1 yearHTML_uetvid_expMicrosoftContains the expiry-date for the cookie with corresponding name. PersistentHTMLat-lojson-cache-#v1.addthisedge.comUsed by the social sharing platform AddThisPersistentHTMLat-randOracleUsed by the social sharing platform AddThisPersistentHTMLhubspotutkHubspotKeeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.179 daysHTTPtt_appInfoTiktokUsed by the social networking service, TikTok, for tracking the use of embedded services.SessionHTMLtt_pixel_session_indexTiktokUsed by the social networking service, TikTok, for tracking the use of embedded services.SessionHTMLtt_sessionIdTiktokUsed by the social networking service, TikTok, for tracking the use of embedded services.SessionHTMLu_sclidsc-static.netSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.PersistentHTMLcg_uuidCheqSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.11 monthsHTTPvisitor/syncvisitor.omnitagjs.comThis cookie is used to assign specific visitors into segments, this segmentation is based on visitor behavior on the website - the segmentation can be used to target larger groups.SessionPixel_pinterest_ct_uaPinterestUsed by Pinterest to track the usage of services.1 yearHTTPv3PinterestUsed by Pinterest to track the usage of services.SessionPixel_an_uidPowtoonPresents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.7 daysHTTP_cq_duidPowtoonUsed by the website to protect against fraud in relation to its referral system.3 monthsHTTP_cq_tuidPowtoonCollects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. SessionHTML_gd_sessionPowtoonCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 dayHTTP_gd_visitorPowtoonCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.2 yearsHTTPcto_bundlePowtoonPresents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.PersistentHTMLAdServer/PugPubMaticSets a timestamp for when the visitor entered the website. This is used for analytical purposes on the website. SessionPixelKRTBCOOKIE_#PubMaticRegisters a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.30 daysHTTPredirSmartPresents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.SessionPixelsc_atSnap Inc.Used by Snapchat to implement advertisement content on the website - The cookie detects the efficiency of the ads and collects visitor data for further visitor segmentation.1 yearHTTPWIDGET::local::assignmentsSoundcloudUsed by audio-platform SoundCloud to implement, measure and improve their embedded content/service on the website - The collection of data also includes visitors’ interaction with embedded content/service. This can be used for statistics or marketing purposes.  PersistentHTMLi/adsct [x2]Twitter Inc.The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through Twitter advertisement content. SessionPixelmuc_adsTwitter Inc.Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. 2 yearsHTTPcss.thebrighttag.comThis cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.SessionPixel_hydrangea_sessionTheta360Sets an ID for the specific webcam session, allowing the website to collect data on how their webcam function is being used. SessionHTTP1/i/adsct [x2]Twitter Inc.PendingSessionPixelguest_idTwitter Inc.Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service.2 yearsHTTPguest_id_adsTwitter Inc.Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.2 yearsHTTPguest_id_marketingTwitter Inc.Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.2 yearsHTTP#-visitorIdTypeformPendingPersistentHTMLattribution_user_idTypeformUsed in context with the website’s pop-up questionnaires and messengering. The data is used for statistical or marketing purposes.1 yearHTTPrl_page_init_referrerTypeformRegisters how the user has reached the website to enable pay-out of referral commission fees to partners.PersistentHTMLrl_page_init_referring_domainTypeformRegisters how the user has reached the website to enable pay-out of referral commission fees to partners.PersistentHTMLrl_sessionTypeformPendingPersistentHTMLtf_respondent_ccTypeformPending6 monthsHTTP__mpq_#_#UnibuddyCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. PersistentHTMLA3YahooCollects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.1 yearHTTPVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPyt.innertube::nextIdYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLyt.innertube::requestsYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLytidb::LAST_RESULT_ENTRY_KEYYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-cast-availableYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-cast-installedYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-connected-devicesYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-idYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-fast-check-periodYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-appYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-nameYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLUnclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.NameProviderPurposeExpiryTypeU7dN6CTtn3XRWVYL9wu8+GuWAK5CrNEYPerj9rOtiC2pACX2ONHtNewcastle UniversityPending1 dayHTTPievCriteoPendingSessionPixel__Secure-UqZBpD3n3naPR21K6FLv5zCYWKpEupZZf92Kuo2FqkGKSg__ExlibrisPending10 yearsHTTPinstituteExlibrisPendingSessionHTTPoldSessionExlibrisPendingSessionHTMLurm_seExlibrisPendingSessionHTTPurm_stExlibrisPendingSessionHTTPam_tokens_invalidate-verizon-pushesexchange.mediavine.comPending14 daysHTTP6e579e10lTLUfeedspot.comPendingPersistentHTML99f5c64bAqLUfeedspot.comPendingPersistentHTMLfef6TVW81816feedspot.comPendingPersistentHTMLfs_ref_ [x2]feedspot.comwidgets.feedspot.comPending30 daysHTTPCloudFront-Created-Ath5p.comPendingSessionHTTPCloudFront-Key-Pair-Idh5p.comPendingSessionHTTPCloudFront-Policyh5p.comPendingSessionHTTPCloudFront-Regionh5p.comPendingSessionHTTPCloudFront-Signatureh5p.comPendingSessionHTTPAuth5Newcastle UniversityPendingSessionHTTPAutoAuthExternalNewcastle UniversityPendingSessionHTTPManualLoginNewcastle UniversityPendingSessionHTTPuserdetailsNewcastle UniversityPendingSessionHTTPcookie_fromLibraryThingPending1 yearHTTPLTAnonSessionIDLibraryThingPending1 yearHTTP(unnamed)Newcastle UniversityPendingPersistentHTMLadminNewcastle UniversityPendingPersistentHTMLhttps://www.ncl.ac.uk/#Newcastle UniversityPendingPersistentHTMLlastTitleNewcastle UniversityPending2 daysHTTPlastUrlNewcastle UniversityPending2 daysHTTPh5pcomsessionnewcastle.h5p.comPending6 daysHTTPAuthSessMicrosoftPendingSessionHTTPpSnap Inc.PendingSessionPixelevent.gifPowtoonPendingSessionPixelpage.gifPowtoonPendingSessionPixelld:#:$diagnosticsUnibuddyPendingPersistentHTMLld:$anonUserIdUnibuddyPendingPersistentHTML__cookie_test_key__MicrosoftPendingSessionHTTP_lslock::authmasterMicrosoftPendingPersistentHTMLadal.angular.login.requestMicrosoftPendingPersistentHTMLadal.errorMicrosoftPendingPersistentHTMLadal.error.descriptionMicrosoftPendingPersistentHTMLadal.idtokenMicrosoftPendingPersistentHTMLadal.login.errorMicrosoftPendingPersistentHTMLadal.login.requestMicrosoftPendingPersistentHTMLadal.nonce.idtokenMicrosoftPendingPersistentHTMLadal.session.stateMicrosoftPendingPersistentHTMLadal.state.loginMicrosoftPendingPersistentHTMLadal.state.renewMicrosoftPendingPersistentHTMLadal.token.keysMicrosoftPendingPersistentHTMLadal.token.renew.statuscf53fce8-def6-4aeb-8d30-b158e7b1cf83MicrosoftPendingPersistentHTMLlscache-SM::SessionMicrosoftPendingPersistentHTMLRedirectToThinEmbedMicrosoftPendingSessionHTTP [#IABV2_LABEL_PURPOSES#]  [#IABV2_LABEL_FEATURES#]  [#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PURPOSES#][#IABV2_BODY_FEATURES#][#IABV2_BODY_PARTNERS#]Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.Cookie declaration last updated on 11/3/22 by Cookiebot
+Skip to main content
+
+
+
+
+
+Skip to Content
+
+
+Toggle Search
+
+
+
+
+Search
+
+
+Toggle Main Menu
+
+
+
+
+Who we Are 
+
+
+Our Vision in Action
+Research & Teaching Quality
+Our People
+Structure & Governance
+
+
+Faculties, Schools & Research Units
+Facilities
+Locations
+Engagement
+
+
+Events
+Our Partnerships
+Global Strategy
+Equality, Diversity & Inclusion
+
+
+Contact Us
+Maps & Directions
+Press Office
+
+
+
+
+Work with Us
+
+
+Expert Solutions
+Continuing Professional Development (CPD)
+Facilities & Equipment
+
+
+Recruit & Develop Talent
+Procurement
+Procuring Goods & Services 
+
+
+National Innovation Centre for Ageing
+National Innovation Centre for Data
+
+
+Contact Us
+Conferences
+Job Vacancies 
+
+
+
+
+Research
+
+
+Research Impact
+Research Strengths 
+
+
+Research Centres
+Research Facilities
+
+
+Global Challenges Academy
+Medical Science Research Fellowships
+
+
+Contact Us
+
+
+
+
+Study
+
+
+Undergraduate Study
+Postgraduate Study
+Doctoral College
+International Students
+
+
+Newcastle University London
+Newcastle University in Singapore
+NUMed Malaysia
+
+
+Distance Learning 
+Professional & Executive Development 
+Information for Schools & Colleges 
+
+
+ 
+
+
+
+
+Alumni
+
+
+Alumni Community
+
+
+Support us
+
+
+Alumni Benefits
+
+
+Events
+
+
+
+
+Staff & Students
+
+
+Staff homepage
+Student homepage
+People Search
+Computing (NUIT)
+Library
+
+
+Accommodation
+Careers Service
+Sport
+Student Services
+Student Wellbeing 
+
+
+Student Progress
+Students' Union 
+Exams
+Congregations (graduation)
+
+
+Verification documents
+Paying Tuition Fees
+Paying Accommodation Fees
+Financial Advice
+
+
+
+
+
+
+
+
+
+
+
+
+Website Information and Feedback
+
+Newcastle University > Website Information and Feedback > Legal > Cookie Policy
+
+
+Top
+
+
+
+
+
+
+Cookie Policy
+To make our site work properly we sometimes place cookies on your device to enable the website to function better. This policy will explain which cookies we use and what they do. 
+
+Newcastle University
+
+
+We have a range of cookies with different categories:-
+
+Necessary Cookies –these are required to allow the website to perform properly; for example, they help support the structure of the pages that are displayed to you, allowing you to navigate through the website.
+Statistics related Cookies -these are used to collect and report information on how you use the website; for example, whether it’s a first visit or a return visit to the website and how long you stay on the pages.
+Marketing Cookies (Tracking and Social Media) – these are used to track visitors and allow third party tracking; for example, to track you and your browsing behaviours and recognise if you’ve come via our paid media adverts.
+
+
+
+Necessary Cookies
+
+
+
+
+
+Cookie
+Purpose
+
+
+lastTitle
+Stores the previous page title when viewing related module information. Used for navigation purposes only and is removed when the web browser is closed. (Newcastle University)
+
+
+lastUrl
+Stores the link to the previous page when viewing the related module information. Used for navigation purposes only and is removed when the web browser is closed. (Newcastle University)
+
+
+__atuvclocuvc
+Used by the AddThis – a social sharing widget. Its main purpose is for functionality.
+
+
+
+em_cdn_uid
+
+Used by Embed.ly service to authorise our use of the service for embedding media. 
+
+
+
+PREFVISITOR_INFO1_LIVEYSC
+
+These YouTube cookies help track the number of views for a particular embedded YouTube video. 
+
+
+
+PGCourseCodes
+
+Each course has multiple course codes (depending on mode of study, year of entry etc), this cookie stores a list of these course codes after the user selects 'apply now'. The data is used to prefill the postgraduate application portal. (Newcastle University) 
+
+
+PGCourseTitle
+Each course has a unique title. This cookie stores the title and, after the user selects 'apply now', the data is used to prefill the postgraduate application portal. (Newcastle University)
+
+
+__hs_opt_out
+This Hubspot cookie is used by the opt-in privacy policy to remember not to ask the visitor to accept cookies again. This cookie is set when you give visitors the choice to opt out of cookies.(Expires: 13 months)
+
+
+__hs_do_not_track
+This cookie can be set to prevent the tracking code from sending any information to HubSpot. Setting this cookie is different from opting out of cookies, as it still allows anonymized information to be sent to HubSpot.(Expires: 13 months)
+
+
+hs_ab_test
+This HubSpot cookie is used to consistently provide users with the same version of an A/B test page they’ve seen before.(Expires: end of session)
+
+
+<id>_key
+This HubSpot cookie is used when visiting a password-protected page, this cookie is set so future visits to the page from the same browser do not require login again. The cookie name is unique for each password-protected page.
+
+
+hs-messages-is-open
+This HubSpot cookie is used to determine and save whether the chat widget is open for future visits. It resets to re-close the widget after 30 minutes of inactivity. (Expires: 30 minutes) 
+
+
+hs-messages-hide-welcome-message
+This HubSpot cookie is used to prevent the welcome message from appearing again for one day after it is dismissed. (Expires: 1 day) 
+
+
+__hsmem
+This HubSpot cookie is set when users log in to a HubSpot-hosted site. (Expires: 1 year) 
+
+
+
+
+
+Statistics Related Cookies
+
+
+
+
+
+Cookie
+Purpose
+
+
+_utma
+This Google Analytics cookie stores each user's amount of visits, and the time of the first visit, the previous visit, and the current visit. (Google Analytics)
+
+
+_utmb 
+This Google Analytics cookie works with _utmc to calculate the average length of time a user spends on our website.
+
+
+_utmc
+This Google Analytics cookie works with _utmb to calculate when the user closes the browser.
+
+
+_utmz
+This Google Analytics cookie stores where you came from (eg search engine, search keyword, link). (Google Analytics)
+
+
+
+_ga_gid
+
+This Google Analytics cookie is used to distinguish users. (Google Analytics)
+
+
+
+_hjIncludedInSample
+
+This HOTJAR cookie uniquely identifies a visitor during a single browser session and indicates they are included in an audience sample. (Hot Jar)
+
+
+
+
+
+Marketing Cookies
+
+
+
+
+
+Cookie
+Purpose
+
+
+datr
+This Facebook cookie is used to identify the session for tracking purposes. (Facebook)
+
+
+fr
+This Facebook Advertising cookie used to deliver, measure, and improve the relevancy of adverts. (Facebook)
+
+
+pidguest_id
+This Twitter cookie allows content from Twitter to be shown on website pages and pages to be shared on Twitter. (Twitter)
+
+
+ISSU
+We use ISSUU.com to embed publications in our web pages. Used to monitor access of ISSUU.com (ISSUU)
+
+
+
+_bizo_bzid_bizo_cksm_bizo_np_stats
+
+The “Bizo” cookies belong to LinkedIn and are 3 separate cookies whose main purpose is to provide demographic data that is anonymous and not connected to any LinkedIn profile.
+
+
+
+gclid
+
+This is a unique tracking parameter that Google uses to transfer information between our Google Ads account and our Google Analytics account.
+
+
+
+__hstc
+
+This is the main HubSpot cookie for tracking users. It contains the domain, utk, initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session). (Expires: 13 months) 
+
+
+
+hubspotutk
+
+This HubSpot cookie is used to keep track of a user’s identity. This cookie is passed to HubSpot on form submission and used when de-duplicating contacts. (Expires: 13 months) 
+
+
+
+__hssc
+
+This HubSpot cookie keeps track of sessions (a series of user’s interactions). This is used to determine if HubSpot should increment the session number and timestamps in the __hstc tracking cookie. It contains the domain, view count and session start timestamp.(Expires: 30 min) 
+
+
+
+__hssrc
+
+Whenever HubSpot changes the session cookie – see above, this cookie is also set to determine if the user has restarted their browser. If this cookie does not exist when HubSpot manages cookies, it is considered a new session. (Expires: end of session) 
+
+
+
+messagesUtk
+
+This HubSpot cookie is used to recognise users who chat with via the messages tool. If the user leaves the website before they're added as a contact, they will have this cookie associated with their browser. If the user returns to the website in the same cookie browser, the messages tool will load their conversation history.(Expires: 13 months)
+
+
+
+
+
+How to control cookies
+
+
+You can control and delete cookies that are already on your computer and you can set most browsers to prevent them from being placed. You can usually find these settings in the 'options' or 'preferences' menu of your browser. If you do this, however, you may have to manually adjust some preferences every time you visit a site.
+Find out more about cookies and get instructions on how to adjust your browser settings to accept, delete or reject cookies, visit http://www.allaboutcookies.org/manage-cookies.
+Google Analytics - To opt out of being tracked by Google Analytics across all websites visit tools.google.com/dlpage/gaoptout.
+Twitter - Twitter is changing the way they allow users to opt out of interest-based ads. Instead of a browser’s Do Not Track function they’re offering the following options:
+
+if you are on the web, you can visit the Digital Advertising Alliance’s consumer choice tool to opt out of seeing interest-based advertising from Twitter
+on your mobile device, enable the 'Limit Ad Tracking' setting in your iOS phone’s settings, or the setting to 'Opt out of Ads Personalization' in your Android phone’s settings.
+
+
+
+
+
+
+
+
+
+FeedbackAccessibilityLegal
+
+Cookie Policy
+
+PhotographySocial Media 
+
+
+
+
+
+
+
+
+
+Site map
+
+Newcastle University, NE1 7RU, United Kingdom, Telephone: (0191) 208 6000 From outside the UK dial +44 191 208 6000.Email web editor
+
+
+Connect with us
+
+Twitter
+Facebook
+YouTube
+
+Social media directory
+
+
+
+University site index
+Accessibility
+Legal
+Freedom of information
+Photography Credits
+Policies & Procedures
+Slavery and Human Trafficking Statement
+Support us
+
+
+
+Last updated 22 July 2020 © 2022 Newcastle University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

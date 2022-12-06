@@ -1,0 +1,1202 @@
+<!DOCTYPE html><html class="no-js" lang="nl-BE"><head><style id="cssProviderStyle" type="text/css">div[data-form-block-id] .dialogProviderMessageContainerStyle { color: #A80000; padding-top: 20px; padding-bottom: 20px; text-align: center; }
+                div[data-form-block-id] #validation-summary p[role=alert] { color: red; }
+                div[data-form-block-id] .dialogProviderInternalContainerStyle { padding: 20px; position: absolute; }
+                div[data-form-block-id] .dialogProviderIconContainerStyle { display: block; margin-left: auto; margin-right: auto; }
+                div[data-form-block-id] .dialogProviderLinkContainerStyle { text-align: center; display: flex; align-items: center; justify-content: center; } 
+                div[data-form-block-id] .dialogProviderContainerStyle { background: white; position: relative; }
+                div[data-form-block-id] .dialogProviderLinkButtonContainerStyle { margin-top: 16px; text-align: center; display: flex; align-items: center; justify-content: center; } 
+                div[data-form-block-id] .dialogProviderLinkButtonStyle { background: none; background-color: transparent; border: none; font-size: 12px; color: #757575; cursor: pointer; padding: 0; text-decoration: underline; } 
+                div[data-form-block-id] .reloadButtonStyle, .noIconButtonStyle { display: flex; color: #000000 !important; text-decoration: none; }
+                div[data-form-block-id] .reloadButtonStyle:before { display: flex; align-items: center; margin-right: 8px; content: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10.1328 0.296875C10.9974 0.53125 11.7891 0.898438 12.5078 1.39844C13.2266 1.89323 13.8438 2.48177 14.3594 3.16406C14.8802 3.84115 15.2839 4.59375 15.5703 5.42188C15.8568 6.24479 16 7.10417 16 8C16 8.73438 15.9036 9.44271 15.7109 10.125C15.5234 10.8073 15.2552 11.4453 14.9062 12.0391C14.5625 12.6328 14.1458 13.1745 13.6562 13.6641C13.1719 14.1484 12.6328 14.5651 12.0391 14.9141C11.4453 15.2578 10.8073 15.526 10.125 15.7188C9.44271 15.9062 8.73438 16 8 16C7.26562 16 6.55729 15.9062 5.875 15.7188C5.19271 15.526 4.55469 15.2578 3.96094 14.9141C3.36719 14.5651 2.82552 14.1484 2.33594 13.6641C1.85156 13.1745 1.4349 12.6328 1.08594 12.0391C0.742188 11.4453 0.473958 10.8099 0.28125 10.1328C0.09375 9.45052 0 8.73958 0 8C0 7.27083 0.0963542 6.5625 0.289062 5.875C0.481771 5.1875 0.755208 4.54167 1.10938 3.9375C1.46875 3.32812 1.90365 2.77604 2.41406 2.28125C2.92448 1.78125 3.5 1.35417 4.14062 1H2V0H6V4H5V1.67969C4.39062 1.97135 3.83854 2.33854 3.34375 2.78125C2.85417 3.21875 2.4349 3.71354 2.08594 4.26562C1.73698 4.8125 1.46875 5.40365 1.28125 6.03906C1.09375 6.67448 1 7.32812 1 8C1 8.64062 1.08333 9.26042 1.25 9.85938C1.41667 10.4531 1.65104 11.0104 1.95312 11.5312C2.26042 12.0469 2.6276 12.5182 3.05469 12.9453C3.48177 13.3724 3.95312 13.7396 4.46875 14.0469C4.98958 14.349 5.54688 14.5833 6.14062 14.75C6.73438 14.9167 7.35417 15 8 15C8.64062 15 9.25781 14.9167 9.85156 14.75C10.4505 14.5833 11.0078 14.349 11.5234 14.0469C12.0443 13.7396 12.5182 13.3724 12.9453 12.9453C13.3724 12.5182 13.737 12.0469 14.0391 11.5312C14.3464 11.0104 14.5833 10.4531 14.75 9.85938C14.9167 9.26562 15 8.64583 15 8C15 7.21875 14.8724 6.46615 14.6172 5.74219C14.3672 5.01823 14.0156 4.35938 13.5625 3.76562C13.1094 3.17188 12.5677 2.65885 11.9375 2.22656C11.3125 1.78906 10.6224 1.46615 9.86719 1.25781L10.1328 0.296875Z' fill='%232266E3'/%3E%3C/svg%3E%0A"); } 
+                div[data-form-block-id] .onFormSubmittedFeedback { display: flex; align-items: center; justify-content: center; background: white; margin: 0 auto; }
+                div[data-form-block-id] .onFormSubmittedFeedbackIcon { display: block; margin-left: auto; margin-right: auto; height: 64px; size: 64px; }
+                div[data-form-block-id] .onFormSubmittedFeedback .onFormSubmittedFeedbackMessage { padding: 30px 10px 40px 10px; color: black; font-size: 16px; font-family: Segoe UI; text-align: center; }
+                div[data-form-block-id] .onFormSubmittedFeedback .onFormSubmittedFeedbackButton { min-width: 80px; min-height: 32px; font-size: 14px; border-radius: 2px; display: block; margin-left: auto; margin-right: auto; }
+                div[data-form-block-id] .onFormSubmittedFeedback .onFormSubmittedFeedbackButtonSuccess { color: white; background-color: #0078D4; border: 1px solid #0078D4; }
+                div[data-form-block-id] .onFormSubmittedFeedback .onFormSubmittedFeedbackButtonFail { color: black; background-color: white; border: 1px solid #8A8886; }
+                div[data-form-block-id] .onFormSubmittedFeedback .onFormSubmittedFeedbackInternalContainerStyle { padding: 20px; }
+                div[data-form-block-id] .formLoader { border: 16px solid #f3f3f3; border-radius: 50%; border-top: 16px solid #0078D4; width: 120px; height: 120px; -webkit-animation: spin 2s linear infinite; /* Safari */ animation: spin 2s linear infinite; margin: 0 auto; }
+                /* Safari */ @-webkit-keyframes spin { 0% { -webkit-transform: rotate(0deg); } 100% { -webkit-transform: rotate(360deg); } }
+                @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+                div[data-form-block-id] .mkt-invalid-field, div[data-form-block-id] .mkt-required-field { border-color: red; }
+                div[data-form-block-id] input.mkt-invalid-field[type="checkbox"], div[data-form-block-id] input.mkt-invalid-field[type="radio"], div[data-form-block-id] input.mkt-required-field[type="checkbox"], div[data-form-block-id] input.mkt-required-field[type="radio"] { outline: 1px solid red; }
+                div[data-form-block-id] .ui-selectmenu-open { display: block !important; }
+                div[data-form-block-id] .ui-selectmenu-menu { padding: 0; margin: 0; position: absolute; top: 0; left: 0; display: none; }
+                div[data-form-block-id] .ui-front { z-index: 100; }
+                div[data-form-block-id] .ui-menu { list-style: none; padding: 0; margin: 0; display: block; outline: 0; }
+                div[data-form-block-id] .ui-menu .ui-retry-item { }
+                div[data-form-block-id] .ui-menu .ui-retry-item-wrapper { padding: 32px; display: flex; align-items: center; justify-content: center; flex-direction: column; }
+                div[data-form-block-id] .ui-menu .ui-retry-text { text-align: center; font-size: 12px; color: #808080; }
+                div[data-form-block-id] .ui-menu .ui-retry-button-wrapper { margin-top: 32px; font-size: 12px; }
+                div[data-form-block-id] .ui-menu .ui-retry-button { display: flex; align-items: center; background: none; background-color: transparent; border: none; cursor: pointer; padding: 0; }
+                div[data-form-block-id] .ui-menu .ui-retry-button::before { display: flex; align-items: center; margin-right: 8px; content: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10.1328 0.296875C10.9974 0.53125 11.7891 0.898438 12.5078 1.39844C13.2266 1.89323 13.8438 2.48177 14.3594 3.16406C14.8802 3.84115 15.2839 4.59375 15.5703 5.42188C15.8568 6.24479 16 7.10417 16 8C16 8.73438 15.9036 9.44271 15.7109 10.125C15.5234 10.8073 15.2552 11.4453 14.9062 12.0391C14.5625 12.6328 14.1458 13.1745 13.6562 13.6641C13.1719 14.1484 12.6328 14.5651 12.0391 14.9141C11.4453 15.2578 10.8073 15.526 10.125 15.7188C9.44271 15.9062 8.73438 16 8 16C7.26562 16 6.55729 15.9062 5.875 15.7188C5.19271 15.526 4.55469 15.2578 3.96094 14.9141C3.36719 14.5651 2.82552 14.1484 2.33594 13.6641C1.85156 13.1745 1.4349 12.6328 1.08594 12.0391C0.742188 11.4453 0.473958 10.8099 0.28125 10.1328C0.09375 9.45052 0 8.73958 0 8C0 7.27083 0.0963542 6.5625 0.289062 5.875C0.481771 5.1875 0.755208 4.54167 1.10938 3.9375C1.46875 3.32812 1.90365 2.77604 2.41406 2.28125C2.92448 1.78125 3.5 1.35417 4.14062 1H2V0H6V4H5V1.67969C4.39062 1.97135 3.83854 2.33854 3.34375 2.78125C2.85417 3.21875 2.4349 3.71354 2.08594 4.26562C1.73698 4.8125 1.46875 5.40365 1.28125 6.03906C1.09375 6.67448 1 7.32812 1 8C1 8.64062 1.08333 9.26042 1.25 9.85938C1.41667 10.4531 1.65104 11.0104 1.95312 11.5312C2.26042 12.0469 2.6276 12.5182 3.05469 12.9453C3.48177 13.3724 3.95312 13.7396 4.46875 14.0469C4.98958 14.349 5.54688 14.5833 6.14062 14.75C6.73438 14.9167 7.35417 15 8 15C8.64062 15 9.25781 14.9167 9.85156 14.75C10.4505 14.5833 11.0078 14.349 11.5234 14.0469C12.0443 13.7396 12.5182 13.3724 12.9453 12.9453C13.3724 12.5182 13.737 12.0469 14.0391 11.5312C14.3464 11.0104 14.5833 10.4531 14.75 9.85938C14.9167 9.26562 15 8.64583 15 8C15 7.21875 14.8724 6.46615 14.6172 5.74219C14.3672 5.01823 14.0156 4.35938 13.5625 3.76562C13.1094 3.17188 12.5677 2.65885 11.9375 2.22656C11.3125 1.78906 10.6224 1.46615 9.86719 1.25781L10.1328 0.296875Z' fill='%232266E3'/%3E%3C/svg%3E%0A"); } 
+                div[data-form-block-id] .ui-menu .ui-loading-item { font-size: 12px; background-repeat: no-repeat; background-position-x: 8px; background-position-y: center; background-size: 1em 1em; background-image: url('data:image/gif;base64,R0lGODlhHgAeAKUAAAQGBISGhMTGxERGRKSmpOTm5CwqLGRmZNTW1LS2tJSWlPT29BwaHFxaXDw6PHx6fMzOzKyurOzu7Nze3Ly+vJyenBQSFIyOjExOTDQyNGxubPz+/CQiJGRiZERCRAwKDMzKzKyqrOzq7CwuLNza3Ly6vJyanPz6/BweHFxeXDw+PISChNTS1LSytPTy9OTi5MTCxKSipJSSlFRSVHRydP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQJCQA1ACwAAAAAHgAeAAAG/sCacDjcFEoV2cUUopBcG6J0WjtRNLNZR/NYLSsRgShKlSI6Dg+msaUFlrFIiYJYlIeEzMgxwGi5XgoEEQkwIAgudzIcHBlpazQKES0tIXFzICwTiVMxDCgGIyoDAQhkQhsSLCWGCCQvdkQsDBagIzMQdzUuEJkTL2NDJyoWnwYzBbqoE64FIgtkER/FKA7Jysu/IlA1GyrTnwnYRCfaEicbJADTFhin4zUizhLQMgAAxQTw5C8SLtAp1tW6tq+bs3/eBI54t0+CiHMbDKz74KEgEQn+FpyQOE2FxSEOEToQaODExxoOz50ICI7ERyMZN9jDx0DGxwXz0KljpyLWjj4RwBB6A4dCQcEFrzCiqyGN2ggQ8E6QePWQzDALtQyoyKVsAQsEv+idgoDC2AgPBHxK2SBCgC9gDD3Z4nOgxQuT3VyQoICpmdohFziEUqFmxoEHFxSYqBCnkC8JdwiMcNSHjQY3cORQOARZF4IUjxqkAJS5UJ1xVjSs2dIlsxi88Da8QHJBhoImiBgSCQIAIfkECQkAPAAsAAAAAB4AHgCFFBIUjIqMTE5MxMbENDI0rKqsbG5s5ObkJCIknJqcXF5c1NbUREJEvLq8fH589Pb0HBoclJKUVFZUzM7MPDo8tLK0dHZ07O7sLCospKKkZGZk3N7cTEpMxMLEhIaE/P78FBYUjI6MVFJUzMrMNDY0rK6sdHJ07OrsJCYknJ6cZGJk3NrcREZEvL68hIKE/Pr8HB4clJaUXFpc1NLUPD48tLa0fHp89PL0LC4spKakbGps5OLk////AAAAAAAAAAAABv5AnnA4/GwyNpVMYQrVDh+idMp7VQQIFI5AYrAEMpln8qJOZywIDIXh0r4imUpniB3MwxRMjcDgSDQMHCISCho6Fg4BM3gBACAQWX8CFiERASaHJjYuHhETVCmPaloWI2VFByUODh4hMQkrUjMgjzAIDAN4PCcZAREJGQUXQy8stggcd7tVNQkpOSUDUTwlAABqJDvMxRU5BRUNJzwfxyC3NdxENyUlNS0zHyvIEqjqQjPhHQMPCZBrBe6ta9BiwIQTOs4hwDFOoJAPAwaMmHFAQCQUDKg55LFgxIQZO2hkwSBh45ANE1fsYJCFQEmTPHZMWLDhgAQtBDjYc7hhgbzKExa2dNlg8oPPDTsu5CBAIFAOkw9WqDzwYAMBCm807FS3Y0XNEx8+aHgzqITDGzQPnLgRpYUgMCoW3HuxAalaVC8MCJAgQ4MJWcxeSP3K9mQYFX5tdNha5MJRtRe2tjBkwIINDwkmXKD24cWBBTNo7rhLpYaOTYpeZSjRoEOLDh59jj7xAM8AG61eBQNXY99Hr6Nr7zrgC1iGaO8kzkR6gjEVeSWguWsdewVVjeo+3FgxY0TsHTdeYJcSBAAh+QQJCQA8ACwAAAAAHgAeAIUUEhSMioxMTkzExsQ0MjSsqqxsbmzk5uQkIiScmpxcXlzU1tREQkS8urx8fnz09vQcGhyUkpRUVlTMzsw8Ojy0srR0dnTs7uwsKiykoqRkZmTc3txMSkzEwsSEhoT8/vwUFhSMjoxUUlTMysw0NjSsrqx0cnTs6uwkJiScnpxkYmTc2txERkS8vryEgoT8+vwcHhyUlpRcWlzU0tQ8Pjy0trR8enz08vQsLiykpqRsamzk4uT///8AAAAAAAAAAAAG/kCecDj8rBIGAYMls+R2H6J0ynuVWAAQBAJDoHAEgqb1ok5nDECW68WACSQGw7QxD1OgrLaLcsMpSywCMi12AWp7XjQ6Lh42MiwsHCISMgo1VBl6MDAoBiNlRRsJMhIKKhoGA1IzEIk0HXY8Bx6oBiYOB0MvHCCcCBy6slUJJiY2DhlRPBVsKBQ7w7sxDo0BKzwfAp19mNJDFwEeIRElHxttOAqh30ItETEJKTcZfWAV7UQnMSkZOSsWwJCgcSJfkRIZCpSYoOKPiGUGeXRQWGGEBAo0GOiIOGRChRoNBihYwmEjRx4zGrToMMGAJAEqIBqc0GLAiAUhRFBSIMzgvIcRNifsqFDplDeDNwZMmDHjwoFTGhixa7di6YIVLz540KHDhIVY+S7MuLrhQJQJxpB5iPbtxdUVG3Y8EPIiggMHAQLE6GnnxQq4cU9APCAuRLwUM6YS+XBjwYa4B04onmFYXo4cDVbcWPbhxYUNfyGfmDtlQr8cCmvUqMl0LNkdkS+QprKCIsgOHUaMmPB2B+wTFxRPuTBAZYegY+HCPnDhhnAqH05M0M1b+W/nMqV9eHDigO/YDz5kJxIEACH5BAkJADUALAAAAAAeAB4AhQQGBIyOjMzKzERGRKyurOTm5GRmZCwqLJyenNza3Ly+vPT29HR2dFxaXDw6PBwaHJSWlNTS1ExOTLS2tOzu7GxubKSmpBQSFDQyNOTi5MTGxPz+/ISChERCRAwKDJSSlMzOzExKTLSytOzq7GxqbCwuLKSipNze3MTCxPz6/Hx6fGRiZDw+PCQiJJyanNTW1FRSVLy6vPTy9HRydKyqrP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAb+wJpwONwkICtWqcRaQRIbonRaS9FYgGzWowWwCCnqNMLymM9odCciHpoel/jFE6fb65eHqR14wP8PJQ0VDCsOfoh5AVQ0LQ8tkC0GGgtEGy8cB4+RFlIvJQehLSwabTUnDZChJS9DKStLSzAFpkIbDBixK2E1Cg4OLCwStLVCCxXBvwo1GxUDHc/LxUMnEtADFRsFMBLdM1HTQy7d3QUxMA3o0uFCGQ3pDTEIKysGBhTsRYUGKy4BFQBVgMtXAwHACgECqGCgYhFBISIYMggAgYNFCA+FTLDIwQWNhBQH5hMBkoYCFyhd4COYwkRKBS9MyDTRiuAImQhoyiDAk0CWDF7sNPQkIGODgAlIJ5zINyLGBKcCooxAQZXqymIpNKBQQJXYJQEaBAgAIQNrBLFiXwxc8KJthLYjRFqS0bZuhEpEZCRIcGLviQwUUoDbkEJGAb57+V7NmyFDgcaQC4yQDLnxY8BtFozYPIJCZ86bPXvujLfNhgUUKMhQzXo1awoLgJraQHiB7RS2Y9+mnY+279++2wQBACH5BAkJADwALAAAAAAeAB4AhRQSFIyKjExOTMTGxDQyNKyqrGxubOTm5CQiJJyanFxeXNTW1ERCRLy6vHx+fPT29BwaHJSSlFRWVMzOzDw6PLSytHR2dOzu7CwqLKSipGRmZNze3ExKTMTCxISGhPz+/BQWFIyOjFRSVMzKzDQ2NKyurHRydOzq7CQmJJyenGRiZNza3ERGRLy+vISChPz6/BweHJSWlFxaXNTS1Dw+PLS2tHx6fPTy9CwuLKSmpGxqbOTi5P///wAAAAAAAAAAAAb+QJ5wOPzscjYJhyEwpFYfonTKe7U0JBwOg4DBICAAq/SiTjcmFoNCImxRXXCYNTMPWzIBR83ObhEIEBAAACAZdjUqMhIieywiJh4uBhxwXyBhAVQDBhoqChISATNlRSseOF5gAClSBy4mBjoqJnV2GzJxIDC2PB8ZDjYWkRd2Qw8GXV8cpSsBkg4uxcZDLwqWEBW+JTERz73UQhskXDACHzcZCTEhOVHhRAEYKHAbKzkZKQng8DzjBPMyTChRIEOGB/2IfJBBwI2NETVKSHyXUIgDNgQUjGjQoEKLikQiMKBBQcKEAS0adAA5JMYeBjJWjOjQogPFih4asTCwY8KyyQ4IQb4wwEhAiAsLZkwYsYPlCg0KFtV4sSLphBk34aXQ4UnBiQ8H7CU9UHGFjVg6XJR5sUPsghv9bkQIFmuCkA8ndrStGtRYuhDQYpSqcuLA3hVfzRjJ0A1wALJEHhRuu2EB4gfvPjzY0QKfvm52pzy4MNntDKUjUlaoUMBzaCovThQ2vKKqz5kpa1QguIIaOtmG7a1APYCmymm+X5AOXjnpiAEzDmT1rfnGZL0XMNsJAgAh+QQJCQA8ACwAAAAAHgAeAIUUEhSMioxMTkzExsQ0MjSsqqxsbmzk5uQkIiScmpxcXlzU1tREQkS8urx8fnz09vQcGhyUkpRUVlTMzsw8Ojy0srR0dnTs7uwsKiykoqRkZmTc3txMSkzEwsSEhoT8/vwUFhSMjoxUUlTMysw0NjSsrqx0cnTs6uwkJiScnpxkYmTc2txERkS8vryEgoT8+vwcHhyUlpRcWlzU0tQ8Pjy0trR8enz08vQsLiykpqRsamzk4uT///8AAAAAAAAAAAAG/kCecDj8HBohk0KhsuU2H6J0yntNAgqJiMWgkHAYhKDyok4PCYNOJRMJWDQKAYNCQDgz83AWcFhMGgptbzRfdDAQMBl6ExEBLjYWOhoGHhERDjKGCDAgIAFUKykxIX0OKStRQy8bASQoiCAAi0Q3JRmjIREbejwbMnUQACB5Qh8DJQUpCRk3vUIvBnaeLGU8Jw0VBTk5zs9CDzIwnQAlPB8zLQ3JO99EGziIACwfDyMdLTUdqu5CHpyeVlyYMKBDg3b9hqwIAwFEggMzRgxoYS3hORacIOjYsSDiCH4WTdSBIeDAihkTJlgk4gFHHQYHNpxcsHKIhzkIGJzYsaIjvsiEFgi4lHAjZs8HNV+IkIPDxoMDRk/UXACHBIEMH04c4AllZQAOXUhAubFTptSEMyRwgKMhyosLUGUidXfBQpu1HYyR3Xr02wUXgSQIMFHxwwWtMhcc+FlkhgcTa2TI4EXkxYmyJ2ccuKHqw40FBVz4MaBBRQsqD7TyXDDhXgd8FTIkKAXJgoEKelIbZV2wRo1ty0o5cJG319sdMiP21iabVIoD7uqd6NkaX40SOVJUWFEx+luTKUdM2MBZTxAAIfkECQkANwAsAAAAAB4AHgCFBAYEhIaExMbEREZE5ObkZGZkJCYkpKak1NbUtLa0VFZU9Pb0dHZ0PDo8HBocnJqczM7M7O7sLC4srK6s3N7cvL68XF5cfH58DA4MTE5MdHJ0/P78REJEJCIkpKKklJKUzMrM7OrsbGpsLCosrKqs3NrcvLq8XFpc/Pr8fHp8PD48HB4cnJ6c1NLU9PL0NDI0tLK05OLkxMLEZGJkhIKEFBIUVFJU////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABv7Am3A43LhKlcnj82GZCBuidHrbhECTwzKQ0hRONk0FRZ0uEALThLRNib6ZgWqGKA9dCIhMrf3QGAxwGQ0vLwd2LhQIIGlZBxMJMCwpFjYDhCMdH1QLBBQlIHsgIWRFMQ8ZKi8GBg4eUlaeiyARdjcxIi8SHQ4rLUULIQQxLQiltgsMIysONRylRhExnwu2RCgWvDUYE1UoLhHDLtZSFCPNGCobG9/CMVHkRDToACXsLsLj8UQIK9sAH9hFCHdsXxUV/yzcixACnkEhBf6pa0fgIZEU/0YIZGhxCIOMC6F0vGFBYsiC+1C8+DfjXr6OAugFXABumMN9IujZ+yaNQoItgwJabVNBJpqnEvrIEeDACwMGEkKMCFMEIakdAgoyNXtWxF0LCAIo3LxWwcaLZStWQJDSSREjEyYQRIBnpUKKS2d5vZqSCNSeLA8Cf7gg4kQcVaw2lcHzds0WBhpmGB5U6BAyNHzavDEsh048KwJg9OHiBYwYlNaMIGHDxInIMkEAACH5BAkJADwALAAAAAAeAB4AhRQSFIyKjExOTMTGxDQyNKyqrGxubOTm5CQiJJyanFxeXNTW1ERCRLy6vHx+fPT29BwaHJSSlFRWVMzOzDw6PLSytHR2dOzu7CwqLKSipGRmZNze3ExKTMTCxISGhPz+/BQWFIyOjFRSVMzKzDQ2NKyurHRydOzq7CQmJJyenGRiZNza3ERGRLy+vISChPz6/BweHJSWlFxaXNTS1Dw+PLS2tHx6fPTy9CwuLKSmpGxqbOTi5P///wAAAAAAAAAAAAb+QJ5wOPy8LofVbDKarW4fonTK+zxOmxWz06qVCqnKKkqVHnfZ2WjQaVQKuVQslDmUh6/TYafcNrxxCREeLg4jdw9IaAtqAxMLEwMlggEeDhYGNVRHJ2hKG1BEHxctIQ42JjoqLVKjenwLN3c8FwkGqjIyG0U3ihsbL7NCLykaChIiJmScnsHCwx4yEgIsrB83rysXz0QnCtQMGh8fr79k3EIJHAwUJDtXB1nb6EM7LDQUBBk3eysLzvSqKMiHw8IFWAvOBbRBAgcGCfGULAhIJAABDChYJIE0g+IQFzhQIGCQpJFCegYwIIAh4ECjDg88vmCAAgYEHRf87KI4QiSxBBAJHozgUqMBQHQGakIAMGZGCzclOtIbgMEmCBZRTnQpkaMOugMMEPwEUELIhwEVuiZIsOPZAQ41QYBgAPBGiQxyQgSAWeZDDZpWIUyQsiJFAr0uLHhocMAZuQoKQooFASADlQkRQhTCpEGFilsiaJC4uPJngDszApy6pUKGCA73KDhUCiOFsAMJUqk4Bo6gTw5Shb2Y4EEFsnXtZosocfTZhwM1QphQoECDjRxj7gQBACH5BAkJADwALAAAAAAeAB4AhRQSFIyKjExOTMTGxDQyNKyqrGxubOTm5CQiJJyanFxeXNTW1ERCRLy6vHx+fPT29BwaHJSSlFRWVMzOzDw6PLSytHR2dOzu7CwqLKSipGRmZNze3ExKTMTCxISGhPz+/BQWFIyOjFRSVMzKzDQ2NKyurHRydOzq7CQmJJyenGRiZNza3ERGRLy+vISChPz6/BweHJSWlFxaXNTS1Dw+PLS2tHx6fPTy9CwuLKSmpGxqbOTi5P///wAAAAAAAAAAAAb+QJ5wOPx8HrfL4bA7XB4fonTK+7xup9Nut1ktZpPR7BSlSj/JE3PTnc1Gg06rMbiYh6+Leu0FD+JzFSUlK3cPektdCytsXSMNNYM5GSkTVIdqXCsHUERoMyWTCQkRlkQvmY03dzw3FaQhAQEHRUqaGy+sQi81IR4uDjFlD1srXrm6uxkuNhYmlh8nijN2yUMXDhYGOgFWxgsTK2XWQiXbKgpOX2G05EMnGioyEjU7b3/I7jwvFjIiAhFW/IkzTl+IfxwMzIhDRx+RBBxYMFAwoUGDCi0cDgnBgAYFCSNqCCpR0J0NjyRUTKhQYFI1fS9EkCCAw8aKHDlSJDClb8KzTAwoMtygRCpFPnIWCKBYuuFDhRghfHXQN0ApBgQicq2I5QJYIWsHWFyFAaGCkA/Lmpmw8JXVAQ4oEEAAwSHfgWwGDGjQUOGBGV4UEJAFgYCnkAEmdKCbp6HADmQfDpSQEXcwiAxUaixGyIKGgHkMlAqeCwJAgDstZAgQwKEjhZ9AR4MAASGFrg0mGDCgQIFmbMsAGBi+86KFBhI4cPwmzaHA0WQfduSwISGiCAMpVjwnEgQAIfkECQkANAAsAAAAAB4AHgCFBAYEhIaExMbEREJEpKak5ObkZGJkLCoslJaU1NbUtLa09Pb0HBocVFJUdHJ0jI6MzM7MrK6s7O7sPD48nJ6c3N7cvL68DA4MTEpMNDI0/P78JCIkXFpcfHp8jIqMzMrMREZErKqs7OrsZGZkLC4snJqc3NrcvLq8/Pr8HB4cVFZUdHZ0lJKU1NLUtLK09PL0pKKk5OLkxMLEFBIU////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABv5AmnA41BiPSCNxyaQZUdCoFLVQNpeal3bLfUkW2gXqOlxIROc0ep1OL8ivgnwul9jP9EKs8Gq+KhUxJoEFKBpEGigSgSYxgH1ECwkmLQmTkFcoFZaTCW9CGiYfHxAfCWNkQpqjpAmHNCIyArIfn6mgLQKzAiJOHwonwQW3SwvBwQJZES4RETKvxEMtzcwvJgTYBBXRSy/ZIQkWJeMUttxOIeMlMiEsDywl0Oc0Lu4P6QH5JfNEJ/keJR50GMiC35AIA1e8c8Cwg7xzJRg6YEHBwAiLw/ihWGHRAIUTKjiEdGEwgUiRJwo0WNlghLloHlg2KKDBAYibIAjMg4ABp4yDQxYmCJ0wAAI3EQ2GTrCgikOGpxkmfCBWQAXUDBygmchwoOsBEiVeDkGhYILXryaWENiQYoPbFBNKnAJVIEQDt2zd6mTCIkUKBgz+Bj5AlMSGGYATp3hAhkKKCzMiS55MOQWFWxAGXNjMuXPnCUaJoQgxAYDp06gnhBCbKhQCAxMykBhggIWJh0SCAAAh+QQJCQA8ACwAAAAAHgAeAIUUEhSMioxMTkzExsQ0MjSsqqxsbmzk5uQkIiScmpxcXlzU1tREQkS8urx8fnz09vQcGhyUkpRUVlTMzsw8Ojy0srR0dnTs7uwsKiykoqRkZmTc3txMSkzEwsSEhoT8/vwUFhSMjoxUUlTMysw0NjSsrqx0cnTs6uwkJiScnpxkYmTc2txERkS8vryEgoT8+vwcHhyUlpRcWlzU0tQ8Pjy0trR8enz08vQsLiykpqRsamzk4uT///8AAAAAAAAAAAAG/kCecDj8vE6H3eFwuT0+H6J0yvucZoPJbLHa7HankzNKld4GjdZgNJpwu8pTk1zmrUqlSiO91nK9SxcXL3UTKRkFBSU1ajNeGyuRG0tyD1QzETEJKTklIyd0VQ8ncAdhlkQHAQEhmgUHdTwvO6UnhEIfMQ4urBk3sbi0gBdkEyYWNg4RF8BFkHCWHwE6BsgzzUQPC3+gBwoqOjohodg7W5EvNTIyChoD2FIPbFsXIQIiMirM8EUjfQcmOHAQoYEcvBkd1ixQwIAFBwP8pCxI02GGBAo0WGiISGRGBUYjVJDAKMAgtg55aoywgYMACQYbOMoqkEPRhAwocLTMIPPAsiZEXRCgwIBDACp+FTJtuvFBBIyhGBJE3OCBVYwKUSpAgCGUwDtsNwLsWrVCyAsWWxEgIDGi2QUX1ZKloDMDBoi0OGIclfJhgAENOkyYcHBCSgYQd7kiYJFgwy0rDUxIYKdCg4G2UwIAAJBYKAYaIiQIYMCAw73JKmrUSQGBc1oERF1ibGhaRgtgExhs7jy05ciMJmI2e1GCBeKtXHuT0NDiFrwPK1LoEOBQgo0cO0wKCQIAIfkECQkAPAAsAAAAAB4AHgCFFBIUjIqMTE5MxMbENDI0rKqsbG5s5ObkJCIknJqcXF5c1NbUREJEvLq8fH589Pb0HBoclJKUVFZUzM7MPDo8tLK0dHZ07O7sLCospKKkZGZk3N7cTEpMxMLEhIaE/P78FBYUjI6MVFJUzMrMNDY0rK6sdHJ07OrsJCYknJ6cZGJk3NrcREZEvL68hIKE/Pr8HB4clJaUXFpc1NLUPD48tLa0fHp89PL0LC4spKakbGps5OLk////AAAAAAAAAAAABv5AnnA4/NxWk9FotjhcXh+idMr7rEqZXKnW6owmi9XhEaVKD5lALJEpVLiD5Wqze5qHA4fLE4qlcm4NHQMTM3M7Jw93NQYmNi4BEQk5HYUzSmArOweJVC0qOgYWDh4VB2VCHw87YXROL1IbMjIqGiYeG3c8DxtznBeoHyYCEgoqHje6Qi87mpw3ZS0MHCISBifKRTuudh8aDCwCIiPZRA++J9A7JBQ0HBaw5UMnzicvGTgkNAw18kQvC1w9sICDAAUG2PylWuHrhgQMBQWgUrghICIGCCDKUEhkB5MNBxjAQIFDAschG0aE2SEARkYa8Tgu+LJghw4ILnHk4vhhgLyXGQcSgMCJIsHJC4II0QMAwiUDRQpHVOgyggyLoSNjKDxRYEuLGVFKAACAEwe5cjcKaKnQIOELBkxdEjir60KGGFlKDEA1AwRWkgmgTvkwI0QfNiWSEUnBFCcGDAIybIj34UKHCBb2RPCzgkqAxghIshOgwYAGFSoaPQoQYsKdFDCIYiCgb1q1WqIcBHCtawYLCKFntwsngpYOExEOlHtRQkToggc5EFPgYULMch82ZLChQoYCEyEanLoTBAA7') }
+                div[data-form-block-id] .ui-menu .ui-loading-item-wrapper { padding: 8px 8px 8px calc(1em + 16px); }
+                div[data-form-block-id] .ui-menu .ui-menu-item { margin: 0; cursor: pointer; list-style-image: url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"); }
+                div[data-form-block-id] .ui-menu .ui-menu-item-wrapper { position: relative; padding: 3px 1em 3px .4em; }
+                div[data-form-block-id] .ui-selectmenu-menu .ui-menu { overflow: auto; overflow-x: hidden; padding-bottom: 1px; max-height:200px; }
+                div[data-form-block-id] .ui-widget.ui-widget-content { border: 1px solid #c5c5c5; }
+                div[data-form-block-id] .ui-state-active { border: 1px solid #003eff; background: #007fff; font-weight: normal; color: #ffffff; }
+                div[data-form-block-id] .lookup-behavior { border: 1px solid; background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAABOCAMAAAC5dNAvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADJUExURQAAALm5uV9fX11dXb6+vt3d3QEBAWFhYYGBgQUFBeHh4SUlJYWFhaWlpSkpKUlJSampqcnJyU1NTW1tbc3Nze3t7RAQEHFxcZCQkBQUFPHx8TQ0NJWVlbS0tDg4OFhYWNjY2FxcXHx8fNzc3Pz8/CAgIICAgKCgoCQkJERERKSkpMTExEhISGhoaMjIyOjo6AsLC2xsbIyMjOzs7C8vL6+vrzMzM1NTU9PT01dXV3d3d/f39xsbG3t7e5ubmx8fH/v7+5+fnwAAAK01p50AAABDdFJOU////////////////////////////////////////////////////////////////////////////////////////wBBYgTvAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA9klEQVRYw+3WRRLDMAwFUKXM3DTllJmZ4f6H6qIwSQMe21pKB3iTie2vD0/UAeKII4444ogjjskpHvbwfJ0XWOPj4fwBhhbk+3chdy0c4TyKqCsX4z3ZuJuW4L8oSRcuxc+lnbWMyDXOOnI5ES6vOmgFsUem2WvFkuCbLdtyFdEIqNppNfFEqdtwijinW7WGTN41LVxLhmt3/rSuXBr3zFpfNtwHJm4oy42M2lh+9UwM3FSem81/2gJjMS6/mrpC2bPrD6fhrO3NW9titYAdAABUsbg9AMABr6McAUDH405nuGA2qOvtjlrIHtQ+iSOOOOKII453XqrPlBvWgyjkAAAAAElFTkSuQmCC'); background-repeat: no-repeat; background-position-x: right; background-position-y: center; background-size: 1em 1em; filter: drop-shadow(0 0 1px black); }
+                div[data-form-block-id] .lookup-loading { }
+                div[data-form-block-id] .ui-widget-content { border: 1px solid #dddddd;	background: #ffffff; color: #333333; }</style>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="author" content="Ads &amp; Data">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.adsanddata.be:443/content/themes/intracto/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.adsanddata.be:443/content/themes/intracto/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.adsanddata.be:443/content/themes/intracto/favicons/favicon-16x16.png">
+    <link rel="manifest" href="https://www.adsanddata.be:443/content/themes/intracto/favicons/site.webmanifest">
+    <link rel="mask-icon" href="https://www.adsanddata.be:443/content/themes/intracto/favicons/safari-pinned-tab.svg" color="#00a08c">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700;800&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.typekit.net/vqe0dmw.css">
+
+    <script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/vP4jQKq0YJFzU6e21-BGy3GP/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-vs3dl3wt0sr1NSmWE/o2E71r7EDd6e3fFXEmu4tyET7uqtZw1URcwd3+DYJQtrMg"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script id="spcloader" type="text/javascript" async="" src="https://sdk.privacy-center.org/11ef8ac9-6270-4d5e-8b99-8d6a5bd60059/loader.js?target=www.adsanddata.be" charset="utf-8"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P4K2MRT"></script><script>
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'external_ip': '141.212.113.168'
+        });
+    </script>
+
+            <!-- Google Tag Manager -->
+        <script>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-P4K2MRT');</script>
+        <!-- End Google Tag Manager -->
+    
+
+    <!-- Cookie banner script -->
+    <script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+        else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+            var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+            if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+            var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("11ef8ac9-6270-4d5e-8b99-8d6a5bd60059")})();</script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7GTK59YSJR"></script>
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-7GTK59YSJR');
+    </script>
+
+    <script src="https://mktdplp102cdn.azureedge.net/public/latest/js/form-loader.js?v=1.83.2005"></script>
+    <script src="https://mktdplp102cdn.azureedge.net/public/latest/js/ws-tracking.js?v=1.83.2005"></script>
+
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="alternate" href="https://www.adsanddata.be/technical-partners/" hreflang="nl">
+<link rel="alternate" href="https://www.adsanddata.be/fr/technical-partners/" hreflang="fr">
+<link rel="alternate" href="https://www.adsanddata.be/en/technical-partners/" hreflang="en">
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.7.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Advertising cookie &amp; privacy policy - Ads &amp; Data</title>
+	<link rel="canonical" href="https://www.adsanddata.be/technical-partners/">
+	<meta property="og:locale" content="nl_BE">
+	<meta property="og:locale:alternate" content="fr_FR">
+	<meta property="og:locale:alternate" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Advertising cookie &amp; privacy policy - Ads &amp; Data">
+	<meta property="og:url" content="https://www.adsanddata.be/technical-partners/">
+	<meta property="og:site_name" content="Ads &amp; Data">
+	<meta property="article:modified_time" content="2022-06-08T08:28:08+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.adsanddata.be/technical-partners/","url":"https://www.adsanddata.be/technical-partners/","name":"Advertising cookie &amp; privacy policy - Ads &amp; Data","isPartOf":{"@id":"https://www.adsanddata.be/#website"},"datePublished":"2021-03-25T13:46:08+00:00","dateModified":"2022-06-08T08:28:08+00:00","breadcrumb":{"@id":"https://www.adsanddata.be/technical-partners/#breadcrumb"},"inLanguage":"nl-BE","potentialAction":[{"@type":"ReadAction","target":["https://www.adsanddata.be/technical-partners/"]}]},{"@type":"BreadcrumbList","@id":"https://www.adsanddata.be/technical-partners/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.adsanddata.be/"},{"@type":"ListItem","position":2,"name":"Advertising cookie &amp; privacy policy"}]},{"@type":"WebSite","@id":"https://www.adsanddata.be/#website","url":"https://www.adsanddata.be/","name":"Ads &amp; Data","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.adsanddata.be/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"nl-BE"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="stylesheet" id="main.css-css" href="https://www.adsanddata.be:443/content/themes/intracto/build/css/main.css?ver=1665472727" type="text/css" media="all">
+<link rel="https://api.w.org/" href="https://www.adsanddata.be/wp-json/"><link rel="alternate" type="application/json" href="https://www.adsanddata.be/wp-json/wp/v2/pages/10512"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.adsanddata.be/wp/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.adsanddata.be/wp/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 6.0.2">
+<link rel="shortlink" href="https://www.adsanddata.be/?p=10512">
+<link rel="alternate" type="application/json+oembed" href="https://www.adsanddata.be/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.adsanddata.be%2Ftechnical-partners%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.adsanddata.be/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.adsanddata.be%2Ftechnical-partners%2F&amp;format=xml">
+
+<script type="text/javascript" async="" src="https://sdk.privacy-center.org/sdk.d2843a4d24393fcf27b12461a8738dafccb48117.js" charset="utf-8"></script></head>
+<body class="page-template-default page page-id-10512 intracto-theme"><div id="didomi-host" data-nosnippet="true" aria-hidden="true"></div><iframe name="__tcfapiLocator" title="__tcfapiLocator" style="display: none;"></iframe>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P4K2MRT" height="0"
+                width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+<header class="c-header is-black">
+    <div class="c-header-container py-4 ">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-auto order-1">
+                    <a href="https://www.adsanddata.be" class="c-header__logo" title="Home">
+                        <svg class="c-icon c-icon--logo">
+                            <use xlink:href="#logo"></use>
+                        </svg>
+                    </a>
+                </div>
+                <div class="col-auto d-none d-xxl-flex justify-content-end align-items-center order-3">
+                    <nav role="navigation" class="c-nav-sec text-right">
+                        <ul id="menu-secondary-navigation-nl" class=""><li id="menu-item-15702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15702"><a href="https://www.adsanddata.be/over-ons/">Over ons</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="https://www.adsanddata.be/people/">People</a></li>
+<li id="menu-item-9042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9042"><a target="_blank" rel="noopener" href="https://jobpage.cvwarehouse.com?companyGuid=a627dd3f-bbc1-409e-a0a7-00f0e3b5cb9e&amp;lang=nl-BE">Jobs</a></li>
+<li id="menu-item-7310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7310"><a href="https://www.adsanddata.be/contact/">Contact</a></li>
+</ul>                    </nav>
+                    <div class="c-search">
+                        <button class="c-search-button js-search-toggle desktop">
+                            <svg class="c-icon c-icon--search">
+                                <use xlink:href="#icon-search"></use>
+                            </svg>
+                            <div class="c-search-close">
+                                <svg class="c-icon c-icon--close text-body d-none">
+                                    <use xlink:href="#icon-close"></use>
+                                </svg>
+                            </div>
+                        </button>
+                    </div>
+                    <div class="c-search__form desktop js-search-form">
+                        <form id="form-search" role="search" method="get" class="gform_wrapper m-0" action="https://www.adsanddata.be/">
+    <button type="submit" form="form-search" value="Search">
+        <svg class="c-icon c-icon--search text-primary">
+            <use xlink:href="#icon-search"></use>
+        </svg>
+    </button>
+
+    <input type="text" class="" autocomplete="off" placeholder="Waar zoek je naar?" value="" name="s" title="Zoek naar:">
+</form>
+                    </div>
+                    <div class="c-language">
+                        <span class="c-language__current">Nederlands</span>
+                        <ul class="c-language__switcher">
+                            	<li class="lang-item lang-item-22 lang-item-fr lang-item-first"><a lang="fr-BE" hreflang="fr-BE" href="https://www.adsanddata.be/fr/technical-partners/">Français</a></li>
+	<li class="lang-item lang-item-62 lang-item-en"><a lang="en-US" hreflang="en-US" href="https://www.adsanddata.be/en/technical-partners/">English</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col text-center d-flex align-items-center justify-content-end justify-content-lg-between order-2">
+                    <nav role="navigation" class="c-nav-main">
+                        <ul id="menu-primary-navigation-nl" class=""><li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://www.adsanddata.be/adverteren/">Adverteren</a></li>
+<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="https://www.adsanddata.be/merken/">Merken</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://www.adsanddata.be/tarieven/">Tarieven</a></li>
+<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="https://www.adsanddata.be/techspecs/">Techspecs</a></li>
+<li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-516"><a href="https://www.adsanddata.be/nieuws-cases/">Nieuws</a></li>
+</ul>                    </nav>
+                    <div class="c-search">
+                        <button class="c-search-button js-search-toggle d-block d-xxl-none">
+                            <svg class="c-icon c-icon--search">
+                                <use xlink:href="#icon-search"></use>
+                            </svg>
+                            <div class="c-search-close">
+                                <svg class="c-icon c-icon--close text-body d-none">
+                                    <use xlink:href="#icon-close"></use>
+                                </svg>
+                            </div>
+                        </button>
+                    </div>
+                    <div class="c-hamburger">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+            <div class="c-search__form mobile js-search-form">
+                <form id="form-search" role="search" method="get" class="gform_wrapper m-0" action="https://www.adsanddata.be/">
+    <button type="submit" form="form-search" value="Search">
+        <svg class="c-icon c-icon--search text-primary">
+            <use xlink:href="#icon-search"></use>
+        </svg>
+    </button>
+
+    <input type="text" class="" autocomplete="off" placeholder="Waar zoek je naar?" value="" name="s" title="Zoek naar:">
+</form>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<main role="main">
+    
+
+    <section class="c-hero pt-8 text-black" style="background-color:white;; z-index: -1">
+
+        <div class="c-hero-content position-relative py-4 py-md-5 py-lg-6">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-9 order-2 order-md-0">
+                        
+                        
+                        
+                                                <h1 class="mb-4">Advertising cookie &amp; privacy policy</h1>
+                        
+                                                <div class="c-hero-content__text pr-0 pr-md-4">
+                            <p>Versie 21/10/2021</p>
+                        </div>
+                        
+                        
+                                            </div>
+                                        <div class="col-md-3 d-flex align-items-center">
+                        <span class="c-hero__icon"></span>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+            </section>
+        
+
+<section class="block b-editor  text-left pt-4 pt-md-5 pt-lg-5 pb-3 pb-md-4 pb-lg-5" id="">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-left">
+                
+                                    <p>Ads &amp; Data is een organisatie die <strong>Belgische aanbieders van advertentieruimte bijeenbrengt</strong> (hierna: de ‘Partners’):</p>
+<ul>
+<li><strong>Adres</strong>: Harensesteenweg 226, 1800 Vilvoorde</li>
+<li><strong>Ondernemingsnummer</strong>:309.701</li>
+</ul>
+<p>Deze privacyverklaring beschrijft <strong>hoe Ads &amp; Data jouw gegevens gebruikt</strong> om je gerichte advertenties te tonen op de websites en applicaties van haar Partners.</p>
+<p>Benieuwd wat we doen met je gegevens als je de Ads &amp; Data-website bezoekt? Lees dan <a href="https://www.adsanddata.be/site-cookie-privacy-policy/"><u>deze privacyverklaring</u></a>.</p>
+<p>Hoe gebruiken we jouw gegevens in ons netwerk?</p>
+<p>Eerst en vooral:<strong> altijd met je toestemming</strong>, wanneer je die gegeven hebt aan één of meerdere Partners en adverteerders om:</p>
+<ul>
+<li>Een gepersonaliseerd advertentieprofiel over jou op te stellen</li>
+<li>Gepersonaliseerde advertenties te tonen</li>
+</ul>
+<p>Bezoek je een website of applicatie van een Partner? Dan geven we je browser of apparaat een willekeurig identificatienummer en verzamelen we gegevens over je bezoek. Daarnaast kunnen we persoonsgegevens ontvangen die je deelde met onze Partners (zie ‘Welke persoonsgegevens verzamelen en verwerken wij?’).</p>
+<p>Met jouw gegevens stellen we een advertentieprofiel op (bijvoorbeeld: sportliefhebber, man, 30-45 jaar). Zo kunnen we de advertentieruimte bij onze Partners invullen met voor jou zo relevant mogelijke advertenties.</p>
+<p>Wat we soms ook doen: specifieke doelgroepen opstellen met adverteerders, op basis van onze advertentieprofielen en de kenmerken die de adverteerders verzamelden (bijvoorbeeld sportliefhebbers die recent de online winkel van de adverteerder bezochten). Dit kunnen we doen door gegevens over je surfgedrag te verzamelen op de website van een adverteerder. Daarnaast kunnen we gegevens over jou van onze Partners vergelijken met de gegevens van adverteerders. Wees gerust: die gegevens zijn in dit geval compleet onleesbaar, want alles gebeurt in een versleuteld formaat en via een beveiligd tussenplatform. Ads &amp; Data deelt jouw gegevens niet met adverteerders. En adverteerders delen geen persoonsgegevens met Ads &amp; Data.</p>
+<p>&nbsp;</p>
+<h2 class="Secondarytitle"><strong><span lang="NL-BE">Welke persoonsgegevens verzamelen en verwerken wij?</span></strong></h2>
+<div class="table-responsive"><table class="table table-bordered table-hover" width="109%">
+<tbody>
+<tr>
+<td width="14%"><strong>Oorsprong</strong></td>
+<td width="22%"><strong>Categorie</strong></td>
+<td width="28%"><strong>Concreet</strong></td>
+<td width="34%"><strong>Waarvoor gebruiken we ze?</strong></td>
+</tr>
+<tr>
+<td rowspan="2" width="14%"><strong>Gegevens die je zelf gedeeld hebt met een van onze Partners</strong></td>
+<td width="22%"><strong>Contactgegevens</strong></td>
+<td width="28%">Voornaam, achternaam en e-mailadres.<p></p>
+<p>&nbsp;</p></td>
+<td width="34%">Om gegevens te vergelijken met deze van adverteerders. Dit doen we alleen in versleuteld formaat (bijvoorbeeld: 3ee9de21cb3defc81451f8d3617f4434205de34970d1319cb54461fc6564a16f).</td>
+</tr>
+<tr>
+<td width="22%"><strong>Persoonlijke kenmerken</strong></td>
+<td width="28%">Geslacht, geboortedatum, postcode van het volledige adres.</td>
+<td width="34%">Om gepersonaliseerde advertenties te kiezen.<p></p>
+<p>En om gegevens te vergelijken met deze van adverteerders in versleuteld formaat.</p></td>
+</tr>
+<tr>
+<td rowspan="5" width="14%"><strong>Gegevens die Ads &amp; Data verzamelt tijdens jouw bezoek en gebruik van websites en applicaties van Partners</strong></td>
+<td width="22%"><strong>Unieke identificatoren</strong></td>
+<td width="28%">Unieke ID van browser of toestel gegenereerd door datamanagementplatform (DMP), IP-adres.<p></p>
+<p>&nbsp;</p></td>
+<td width="34%">Om jouw browser of toestel te onderscheiden, en zo gegevens over je surfgedrag te verzamelen en advertenties te tonen.</td>
+</tr>
+<tr>
+<td width="22%"><strong>Kenmerken van de browser</strong></td>
+<td width="28%">Browsertype, browsertaal, browserversie, capaciteit, kleurdiepte, enzovoort.</td>
+<td width="34%">Om het juiste advertentieformaat te kiezen.</td>
+</tr>
+<tr>
+<td width="22%"><strong>Kenmerken van het apparaat</strong></td>
+<td width="28%">Type apparaat, mobiel merk, besturingssysteem, schermresolutie, enzovoort.</td>
+<td width="34%">Om het juiste advertentieformaat te kiezen.</td>
+</tr>
+<tr>
+<td width="22%"><strong>Klikgedrag</strong></td>
+<td width="28%">URL, referrer URL en metadata, exit URL, artikel- en paginakarakteristieken (bijvoorbeeld de publicatiedatum), inhoudscategorieën.</td>
+<td width="34%">Om mogelijke interesses te herkennen.</td>
+</tr>
+<tr>
+<td width="22%"><strong>Metagegevens artikel</strong></td>
+<td width="28%">Auteur, categorie, classificatie, bedrijf, concept, entiteit, taal, locatie, pagina-indeling, persoon (vermeld in artikel), sentiment, site, tags, trefwoorden.</td>
+<td width="34%">Om mogelijke interesses te herkennen.</td>
+</tr>
+<tr>
+<td rowspan="3" width="14%"><strong>Gegevens die Ads &amp; Data afleidt op basis van de genoemde bronnen</strong></td>
+<td width="22%"><strong>Gedragskenmerken</strong></td>
+<td width="28%">Lees- en kijkinteresses (bijvoorbeeld: muziekfans, televisiekijkers, gamers), lifestyle (bijvoorbeeld: zakenreizigers, wellness, gezond leven).</td>
+<td width="34%">Om gepersonaliseerde advertenties te kiezen.</td>
+</tr>
+<tr>
+<td width="22%"><strong>Locatie</strong></td>
+<td width="28%">Locatie afgeleid uit IP-adres: stad, land, postcode, provincie, regio, tijdzone.</td>
+<td width="34%">Om gepersonaliseerde advertenties te kiezen.</td>
+</tr>
+<tr>
+<td width="22%"><strong>Persoonlijke kenmerken</strong></td>
+<td width="28%">Gemiddeld huishoudinkomen (gebaseerd op NIS-9-gegevens gekoppeld aan huisadres).</td>
+<td width="34%">Om gepersonaliseerde advertenties te kiezen.</td>
+</tr>
+</tbody>
+</table></div>
+<p>&nbsp;</p>
+<h2><strong>Welke persoonsgegevens deelt Ads &amp; Data? En met wie?</strong></h2>
+<p>Ads &amp; Data deelt:</p>
+<ul>
+<li>Jouw<strong> advertentieprofiel </strong>met<strong> ‘verwerkers’</strong>. Dat zijn partijen die gegevens verwerken in opdracht van Ads &amp; Data of onze Partners. Denk aan de ad server om campagnes te boeken en advertenties te selecteren, en aan het datamanagement-platform om advertentieprofielen op te stellen.</li>
+<li>Een <strong>identificatienummer</strong> van jouw browser of apparaat, met <strong>advertentiepartners</strong> die het mogelijk maken om gepersonaliseerde advertenties te selecteren en te tonen.</li>
+</ul>
+<p><strong>Buiten Europa?</strong></p>
+<p>Sommige ontvangers bevinden zich in landen buiten de Europese Economische Ruimte (EER). In dit geval wordt de doorgifte van jouw versleutelde gegevens gedekt door passende waarborgen, waaronder modelbepalingen van de Europese Commissie. Zo blijven je gegevens <strong>evenzeer beschermd als binnen de EER </strong>.</p>
+<p><strong>Overzicht van ontvangers</strong></p>
+<p><a href="https://www.adsanddata.be/technical-partners/">Op deze pagina</a> vind je een alfabetische lijst van al wie jouw gegevens ontvangt, met telkens een link naar hun privacybeleid.</p>
+<h2></h2>
+<h2><strong>Hoelang bewaren wij jouw persoonsgegevens?</strong></h2>
+<p><strong>Maximaal 13 maanden</strong>. En we updaten je persoonsgegevens voortdurend om ze zo nauwkeurig mogelijk te houden.</p>
+<p>&nbsp;</p>
+<h2></h2>
+<h2><strong>Hoe gebruikt Ads &amp; Data cookies voor gepersonaliseerde advertenties?</strong></h2>
+<p>Om advertentieprofielen te kunnen opstellen en jou gepersonaliseerde online advertenties te tonen, gebruiken wij cookies, pixels en scripts.</p>
+<p><strong>Cookies</strong></p>
+<p>Cookies zijn <strong>kleine bestanden</strong> die bij je bezoek aan een website in de browser van je computer, smartphone of een ander apparaat (hierna: ‘Apparaat’) worden geplaatst en gelezen.</p>
+<p>Soms zijn ze <strong>tijdelijk</strong> – ‘sessiecookies’ – en worden ze verwijderd wanneer je je browser afsluit.</p>
+<p>Andere cookies – ‘permanente cookies’ – <strong>blijven bestaan</strong> tot ze vervallen of tot je ze wist. Denk bijvoorbeeld aan de cookie die onthoudt dat je aangemeld bent, zodat je niet elke keer al je inloggegevens moet invullen.</p>
+<p><strong>Pixels en SDK’s</strong></p>
+<p>Pixels zijn doorgaans <strong>transparante afbeeldingen</strong> van 1 pixel op 1 pixel die in een webpagina zitten. Ze registreren bijvoorbeeld informatie uit cookies, je IP-adres en andere informatie over je Apparaat, voor analytische doeleinden.</p>
+<p>Software Development Kits (SDK’s) doen iets gelijkaardigs als pixels, maar dan in &nbsp;applicaties.</p>
+<p><strong>Scripts</strong></p>
+<p>Ads &amp; Data plaatst ook scripts. Dat zijn <strong>stukjes code</strong> die worden uitgevoerd door je browser als je een website bezoekt.</p>
+<p><strong>Cookie-overzicht</strong></p>
+<p>Dit zijn alle cookies die Ads &amp; Data en haar advertentiepartners op de domeinen van Partners kunnen plaatsen, samen met pixels en scripts.</p>
+<p>&nbsp;</p>
+<div class="table-responsive"><table class="table table-bordered table-hover" width="1202">
+<tbody>
+<tr>
+<td width="136"><strong>Partner</strong></td>
+<td width="165"><strong>cookie name</strong></td>
+<td width="302"><strong>experation</strong> <strong>date</strong></td>
+<td width="599"><strong>Policy</strong> <strong>URL</strong></td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">Uid</td>
+<td width="302">365</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">optout</td>
+<td width="302">1825</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">zdi</td>
+<td width="302">183</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">eid</td>
+<td width="302">183</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">opt</td>
+<td width="302">365</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">r.ack</td>
+<td width="302">1h</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">criteo_cookie_perm</td>
+<td width="302">365</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">cto_clc</td>
+<td width="302">13 months on iOS ≥ 11.2,<p></p>
+<p>24 hours elsewhere.</p></td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">cto_optout</td>
+<td width="302">1825</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">cto_bundle</td>
+<td width="302">396</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">criteo_write_test</td>
+<td width="302">Deleted after being written</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">cto_tld_test</td>
+<td width="302">Deleted after being written</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Criteo</td>
+<td width="165">criteo_localstorage_check</td>
+<td width="302">Deleted after being written</td>
+<td>https://www.criteo.com/terms-and-conditions/</td>
+</tr>
+<tr>
+<td width="136">Google Ad manager</td>
+<td width="165">__gads</td>
+<td width="302">390</td>
+<td width="599"><a href="https://business.safety.google/adscookies/">https://business.safety.google/adscookies/</a></td>
+</tr>
+<tr>
+<td width="136">Google Ad manager</td>
+<td width="165">DSID</td>
+<td width="302">sessie</td>
+<td width="599">https://business.safety.google/adscookies/</td>
+</tr>
+<tr>
+<td width="136">Google Ad manager</td>
+<td width="165">id</td>
+<td width="302">390</td>
+<td width="599">https://business.safety.google/adscookies/</td>
+</tr>
+<tr>
+<td width="136">Google Ad manager</td>
+<td width="165">IDE</td>
+<td width="302">390</td>
+<td width="599">https://business.safety.google/adscookies/</td>
+</tr>
+<tr>
+<td width="136">Google Ad manager</td>
+<td width="165">test_cookie</td>
+<td width="302">sessie</td>
+<td width="599">https://business.safety.google/adscookies/</td>
+</tr>
+<tr>
+<td width="136">Google Ad manager</td>
+<td width="165">GED_PLAYLIST_ACTIVITY</td>
+<td width="302">sessie</td>
+<td width="599">https://business.safety.google/adscookies/</td>
+</tr>
+<tr>
+<td width="136">Google Ad manager</td>
+<td width="165">ACLK_DATA</td>
+<td width="302">5min</td>
+<td width="599">https://business.safety.google/adscookies/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">audit</td>
+<td width="302">365</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">cd</td>
+<td width="302">Sessie</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">cimg*</td>
+<td width="302">1h</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">c</td>
+<td width="302">Sessie</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">FPTrust</td>
+<td width="302">Sessie</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">Sharedid</td>
+<td width="302">28</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">khaos</td>
+<td width="302">365</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">rsid</td>
+<td width="302">sessie</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">trp_optout</td>
+<td width="302">1827</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">fcap</td>
+<td width="302">30</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">EmilyRan</td>
+<td width="302">Sessie</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">ses*</td>
+<td width="302">1</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">vis*</td>
+<td width="302">1</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">uids</td>
+<td width="302">90</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Magnite</td>
+<td width="165">uids-audit</td>
+<td width="302">90</td>
+<td>https://www.magnite.com/legal/advertising-technology-privacy-policy/</td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">auid</td>
+<td width="302">90</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">obuid</td>
+<td width="302">90</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">outbrain_cid_fetch</td>
+<td width="302">sessie</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">outbrain_click_id</td>
+<td width="302">1</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">recs-{}</td>
+<td width="302">sessie</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">ref-{}</td>
+<td width="302">sessie</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">actvagnt</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">adot</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">apnxs</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">bdswch</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">criteo</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">improve_digital</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">indxexcg</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">mediaforce_custom</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">oath</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">obuid</td>
+<td width="302">90</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">openx</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">pubmatic</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">rbcn</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">rtbhs</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">spotx</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">thirdparty</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">ttd</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">unruly</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td width="136">Outbrain</td>
+<td width="165">zmnta</td>
+<td width="302">30</td>
+<td width="599"><a href="https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/">https://www.outbrain.com/help/advertisers/amplify-terms-and-conditions/</a></td>
+</tr>
+<tr>
+<td>TripleLift</td>
+<td>optout</td>
+<td>1825</td>
+<td>https://triplelift.com/terms-of-use/</td>
+</tr>
+<tr>
+<td>TripleLift</td>
+<td>sync</td>
+<td>90</td>
+<td>https://triplelift.com/terms-of-use/</td>
+</tr>
+<tr>
+<td>TripleLift</td>
+<td>TLUID</td>
+<td>90</td>
+<td>https://triplelift.com/terms-of-use/</td>
+</tr>
+<tr>
+<td>Xandr</td>
+<td>anj</td>
+<td>90</td>
+<td>https://www.xandr.com/privacy/cookie-policy/</td>
+</tr>
+<tr>
+<td>Xandr</td>
+<td>uuid2</td>
+<td>90</td>
+<td>https://www.xandr.com/privacy/cookie-policy/</td>
+</tr>
+<tr>
+<td>Xandr</td>
+<td>uids</td>
+<td>90</td>
+<td>https://www.xandr.com/privacy/cookie-policy/</td>
+</tr>
+<tr>
+<td>Xandr</td>
+<td>sess</td>
+<td>sessie</td>
+<td>https://www.xandr.com/privacy/cookie-policy/</td>
+</tr>
+<tr>
+<td>Xandr</td>
+<td>icu</td>
+<td>90</td>
+<td>https://www.xandr.com/privacy/cookie-policy/</td>
+</tr>
+<tr>
+<td>Xandr</td>
+<td>usersync</td>
+<td>90</td>
+<td>https://www.xandr.com/privacy/cookie-policy/</td>
+</tr>
+<tr>
+<td>Xandr</td>
+<td>token</td>
+<td>1</td>
+<td>https://www.xandr.com/privacy/cookie-policy/</td>
+</tr>
+<tr>
+<td>Xandr</td>
+<td>pses</td>
+<td>Sessie</td>
+<td>https://www.xandr.com/privacy/cookie-policy/</td>
+</tr>
+<tr>
+<td>Google Ad manager</td>
+<td>GED_PLAYLIST_ACTIVITY</td>
+<td>sessie</td>
+<td>https://business.safety.google/adscookies/</td>
+</tr>
+<tr>
+<td>Google Ad manager</td>
+<td>ACLK_DATA</td>
+<td>5 min</td>
+<td>https://business.safety.google/adscookies/</td>
+</tr>
+<tr>
+<td>Zemanta</td>
+<td>zoptout</td>
+<td>36525</td>
+<td>https://www.zemanta.com/cookies/</td>
+</tr>
+<tr>
+<td>Zemanta</td>
+<td>zuid</td>
+<td>365</td>
+<td>https://www.zemanta.com/cookies/</td>
+</tr>
+<tr>
+<td>Zemanta</td>
+<td>zcl</td>
+<td>30min</td>
+<td>https://www.zemanta.com/cookies/</td>
+</tr>
+<tr>
+<td>Zemanta</td>
+<td>zpb</td>
+<td>1</td>
+<td>https://www.zemanta.com/cookies/</td>
+</tr>
+<tr>
+<td>teads.tv</td>
+<td>tt_viewer</td>
+<td>365 days</td>
+<td>https://www.teads.com/privacy-policy/</td>
+</tr>
+<tr>
+<td>teads.tv</td>
+<td>s</td>
+<td>6 days</td>
+<td>https://www.teads.com/privacy-policy/</td>
+</tr>
+<tr>
+<td>teads.tv</td>
+<td>tt_bluekai</td>
+<td>1 day</td>
+<td>https://www.teads.com/privacy-policy/</td>
+</tr>
+<tr>
+<td>teads.tv</td>
+<td>tt_emetriq</td>
+<td>1 day</td>
+<td>https://www.teads.com/privacy-policy/</td>
+</tr>
+<tr>
+<td>teads.tv</td>
+<td>tt_exelate</td>
+<td>1 day</td>
+<td>https://www.teads.com/privacy-policy/</td>
+</tr>
+<tr>
+<td>teads.tv</td>
+<td>tt_liveramp</td>
+<td>1 day</td>
+<td>https://www.teads.com/privacy-policy/</td>
+</tr>
+<tr>
+<td>teads.tv</td>
+<td>tt_neustar</td>
+<td>1 day</td>
+<td>https://www.teads.com/privacy-policy/</td>
+</tr>
+<tr>
+<td>teads.tv</td>
+<td>tt_retargetly</td>
+<td>1 day</td>
+<td>https://www.teads.com/privacy-policy/</td>
+</tr>
+<tr>
+<td>teads.tv</td>
+<td>tt_salesforce</td>
+<td>1 day</td>
+<td>https://www.teads.com/privacy-policy/</td>
+</tr>
+<tr>
+<td>teads.tv</td>
+<td>tt_skp</td>
+<td>1 day</td>
+<td>https://www.teads.com/privacy-policy/</td>
+</tr>
+<tr>
+<td>teads.tv</td>
+<td>tt_dar</td>
+<td>1 day</td>
+<td>https://www.teads.com/privacy-policy/</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>cX_S</td>
+<td>Session</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>cX_P</td>
+<td>365 days</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>cX_G</td>
+<td>365 days</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>gcks</td>
+<td>Session</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>gckp</td>
+<td>365 days</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>_cX_cons</td>
+<td>No expiry</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>_cX_segmentInfo</td>
+<td>365 days</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>cX_T</td>
+<td>Temporary</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>_cX_S</td>
+<td>Session</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>_cX_P</td>
+<td>365 days</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>_cX_lastP1Time</td>
+<td>Temporary</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>_cX_lastLocalCstTime</td>
+<td>Temporary</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>_cX_SA</td>
+<td>Temporary</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>_cX_lst</td>
+<td>365 days</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>_cX_partner</td>
+<td>Temporary</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>_cX_expires</td>
+<td>No expiry</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>cstp</td>
+<td>Temporary</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>cX_LSS</td>
+<td>365 days</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>cX_LSP</td>
+<td>Temporary</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>Piano</td>
+<td>_cX_atfr</td>
+<td>No expiry</td>
+<td>https://tinypass.atlassian.net/wiki/spaces/CXPLATPUBLIC/pages/3284796173/User+tracking+and+privacy</td>
+</tr>
+<tr>
+<td>IAB</td>
+<td>euconsent-v2</td>
+<td>365</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<h2><strong>Hoe kan ik cookies verwijderen of uitzetten?</strong></h2>
+<p>Dat doe je via de <strong>cookiebanners</strong> op de websites en applicaties van onze Partners. Via je browserinstellingen kan je ook cookies weigeren.</p>
+<p>Ontdek hoe je dat precies doet <strong>in jouw browser</strong>:</p>
+<ul>
+<li><a href="https://support.mozilla.org/nl/kb/cookies-verwijderen-gegevens-wissen-websites-opgeslagen">Firefox</a></li>
+<li><a href="https://support.google.com/chrome/answer/95647?hl=nl">Chrome</a></li>
+<li><a href="https://support.apple.com/kb/ph21411?locale=nl_NL">Safari</a></li>
+<li><a href="https://support.microsoft.com/nl-be/help/17442/windows-internet-explorer-delete-manage-cookies">Internet Explorer</a></li>
+</ul>
+<p>Let wel: als je cookies verwijdert of niet meer toelaat in je browser, werkt de bezochte website mogelijk niet meer op dezelfde manier.</p>
+<h2></h2>
+<h2><strong>Wat zijn mijn rechten? En waar oefen ik ze uit?</strong></h2>
+<ul>
+<li>Recht op <strong>inzage</strong> om na te gaan welke persoonsgegevens Ads &amp; Data verwerkt</li>
+<li>Recht op <strong>verbetering</strong> om onjuiste of onvolledige persoonsgegevens te wijzigen</li>
+<li>Recht op <strong>wissing</strong> om jouw persoonsgegevens te wissen</li>
+<li>Recht op <strong>beperking</strong> van het gebruik van je persoonsgegevens zonder ze te wissen</li>
+<li>Recht van <strong>bezwaar</strong> om je te verzetten tegen het verdere gebruik van je gegevens</li>
+<li>Recht op <strong>intrekking</strong> van toestemmingen</li>
+<li>Recht op <strong>verzet</strong> tegen <strong>direct marketing</strong></li>
+<li>Recht op <strong>gegevensoverdraagbaarheid</strong> om persoonsgegevens vlot van één verwerkingsverantwoordelijke naar een andere te verplaatsen, te kopiëren of door te sturen. Dit recht kan je alleen uitoefenen wanneer de verwerking berust op jouw toestemming of op een overeenkomst die met jou gemaakt werd.</li>
+</ul>
+<p>Wil je je <strong>rechten uitoefenen</strong>? Richt je dan tot de:</p>
+<ul>
+<li><u>Partners van Ads &amp; Data</u></li>
+<li><a href="https://www.adsanddata.be/technical-partners/">Advertentieplatformen waarmee Ads &amp; Data samenwerkt</a></li>
+</ul>
+<p><strong>Waarom niet tot Ads &amp; Data zelf?</strong> Wij kunnen jou niet rechtstreeks identificeren, omdat we niet over gegevens zoals je naam of e-mailadres beschikken. Daarom kunnen we dus ook niet nagaan of we je gegevens hebben.</p>
+<h2></h2>
+<h2><strong>Vragen?</strong></h2>
+<p>Heb je nog vragen of verzoeken over je persoonsgegevens? Mail ze gerust naar <a href="mailto:privacy@adsanddata.be">privacy@adsanddata.be</a>.</p>
+<p>&nbsp;</p>
+                                            </div>
+        </div>
+    </div>
+</section>
+</main>
+
+
+<footer class="c-footer py-3 py-md-4 py-lg-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-5 pt-4 pb-3 p-lg-0">
+                <ul class="c-footer-social">
+                                            <li>
+                            <a href="https://www.linkedin.com/company/adsanddata/" target="_blank">
+                                <svg>
+                                    <use href="#icon-linkedin"></use>
+                                </svg>
+                            </a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.facebook.com/AdsandData" target="_blank">
+                                <svg>
+                                    <use href="#icon-facebook"></use>
+                                </svg>
+                            </a>
+                        </li>
+                                                                <li>
+                            <a href="https://twitter.com/adsanddata" target="_blank">
+                                <svg>
+                                    <use href="#icon-twitter"></use>
+                                </svg>
+                            </a>
+                        </li>
+                                                                                    <li>
+                            <a href="https://www.instagram.com/adsanddata/" target="_blank">
+                                <svg>
+                                    <use href="#icon-instagram"></use>
+                                </svg>
+                            </a>
+                        </li>
+                                                                <li>
+                            <a href="https://www.adsanddata.be/newsletter-subscription/" target="_blank">
+                                <svg>
+                                    <use href="#icon-subscribe"></use>
+                                </svg>
+                            </a>
+                        </li>
+                                    </ul>
+            </div>
+            <div class="c-footer-legal col-lg-7 text-center text-lg-right pt-2 pb-3 p-lg-0">
+                <a href="javascript:Didomi.preferences.show()">Cookie voorkeuren</a>
+                <nav role="navigation" class="c-nav-legal d-inline-block">
+                    <ul id="menu-legal-navigation-nl" class="d-flex flex-wrap"><li id="menu-item-2987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2987"><a href="https://www.adsanddata.be/algemene-voorwaarden/">Algemene voorwaarden</a></li>
+<li id="menu-item-10511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10511"><a href="https://www.adsanddata.be/site-cookie-privacy-policy/">Site cookie &amp; privacy policy</a></li>
+<li id="menu-item-10527" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10512 current_page_item menu-item-10527"><a href="https://www.adsanddata.be/technical-partners/" aria-current="page">Advertising cookie &amp; privacy policy</a></li>
+</ul>                </nav>
+            </div>
+        </div>
+    </div>
+</footer>
+<aside class="c-sidebar">
+	<div class="c-sidebar-inner p-2">
+        <nav role="navigation" class="c-nav-mobile--main">
+            <ul id="menu-primary-navigation-nl-1" class="d-block d-lg-none"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://www.adsanddata.be/adverteren/">Adverteren</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="https://www.adsanddata.be/merken/">Merken</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://www.adsanddata.be/tarieven/">Tarieven</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="https://www.adsanddata.be/techspecs/">Techspecs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-516"><a href="https://www.adsanddata.be/nieuws-cases/">Nieuws</a></li>
+</ul>        </nav>
+        <nav role="navigation" class="c-nav-mobile--secondary">
+            <ul id="menu-secondary-navigation-nl-1" class="d-block d-xxl-none"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15702"><a href="https://www.adsanddata.be/over-ons/">Over ons</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="https://www.adsanddata.be/people/">People</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9042"><a target="_blank" rel="noopener" href="https://jobpage.cvwarehouse.com?companyGuid=a627dd3f-bbc1-409e-a0a7-00f0e3b5cb9e&amp;lang=nl-BE">Jobs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7310"><a href="https://www.adsanddata.be/contact/">Contact</a></li>
+</ul>        </nav>
+        <div class="c-sidebar-language">
+            <ul class="c-sidebar-language__list">
+                <li class="c-sidebar-language__current"><span>nl</span></li>
+                	<li class="lang-item lang-item-22 lang-item-fr lang-item-first"><a lang="fr-BE" hreflang="fr-BE" href="https://www.adsanddata.be/fr/technical-partners/">fr</a></li>
+	<li class="lang-item lang-item-62 lang-item-en"><a lang="en-US" hreflang="en-US" href="https://www.adsanddata.be/en/technical-partners/">en</a></li>
+            </ul>
+        </div>
+	</div>
+</aside>
+
+
+<!-- Tracking D365M script -->
+<div id="dn2Zxbkw_Q5Wuzr4SZskjZAJl05J1NVOy5WQwes5YDlw"></div><script src="https://mktdplp102cdn.azureedge.net/public/latest/js/ws-tracking.js?v=1.72.2001.0"></script><div class="d365-mkt-config" style="display:none" data-website-id="n2Zxbkw_Q5Wuzr4SZskjZAJl05J1NVOy5WQwes5YDlw" data-hostname="8184be16eb334c6d968e8e1989257955.svc.dynamics.com"></div>
+
+
+
+<script type="text/javascript" src="https://www.adsanddata.be/wp/wp-includes/js/jquery/jquery.js?ver=6.0.2" id="jquery-js"></script>
+<script type="text/javascript" src="https://www.adsanddata.be:443/content/themes/intracto/build/js/all.js" id="all.js-js"></script>
+<script type="text/javascript" id="scripts.js-js-extra">
+/* <![CDATA[ */
+var vars = {"ajaxurl":"https:\/\/www.adsanddata.be\/wp\/wp-admin\/admin-ajax.php","templateurl":"https:\/\/www.adsanddata.be:443\/content\/themes\/intracto","siteurl":"https:\/\/www.adsanddata.be\/wp"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.adsanddata.be:443/content/themes/intracto/build/js/main.js?ver=1665472612" id="scripts.js-js"></script>
+<script type="text/javascript" id="gforms_recaptcha_recaptcha-js-extra">
+/* <![CDATA[ */
+var gforms_recaptcha_recaptcha_strings = {"site_key":"6Led9eUgAAAAAB0g1GzvESeScpuKzZrUFGv886O5","ajaxurl":"https:\/\/www.adsanddata.be\/wp\/wp-admin\/admin-ajax.php","nonce":"eefe10471e"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Led9eUgAAAAAB0g1GzvESeScpuKzZrUFGv886O5&amp;ver=1.1" id="gforms_recaptcha_recaptcha-js"></script>
+
+<div class="hidden" hidden="">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol viewBox="0 0 15 24" id="icon-arrow" xmlns="http://www.w3.org/2000/svg"><path d="M15 12l-1.257-1.271L3.013 0 .486 2.543 9.943 12 .485 21.457 3.014 24l10.729-10.729z" fill="#FFF"></path></symbol><symbol viewBox="0 0 43 14" id="icon-arrow-right" xmlns="http://www.w3.org/2000/svg"><path d="M40.047 6.11L1.009 6.023.98 7.358h38.77l-4.69 4.689 1.04 1.039 6.5-6.47-1.04-1.04L36.1.086l-1.04 1.039z" fill="currentColor"></path></symbol><symbol viewBox="0 0 16 16" id="icon-close" xmlns="http://www.w3.org/2000/svg"><path d="M15.706 14.285a1.002 1.002 0 11-1.42 1.419L8.002 9.408l-6.286 6.296a1.002 1.002 0 11-1.419-1.42L6.592 8 .296 1.713A1.003 1.003 0 111.716.294L8 6.59 14.287.294a1.003 1.003 0 111.419 1.42L9.41 7.998l6.296 6.286z" fill="currentColor"></path></symbol><symbol viewBox="0 0 11 17" id="icon-download" xmlns="http://www.w3.org/2000/svg"><path d="M6.258 9.748c.279-.252.552-.503.815-.746l.142-.132c.704-.653 1.25-1.18 1.576-1.525l1.162 1.1c-.356.377-.922.922-1.649 1.598l-.145.134a148.356 148.356 0 01-2.144 1.942l-.531.47-.531-.471a160.208 160.208 0 01-2.144-1.948l-.14-.13a40.89 40.89 0 01-1.653-1.603l1.162-1.1c.327.346.875.875 1.581 1.532l.138.128c.246.228.501.462.761.7V.667h1.6v9.08zm4.534 5.32v1.6H.125v-1.6h10.667z" fill="currentColor"></path></symbol><symbol viewBox="0 0 8 16" id="icon-dropdown" xmlns="http://www.w3.org/2000/svg"><path d="M4 0l4 6H0zm0 16l4-6H0z" fill-rule="evenodd"></path></symbol><symbol viewBox="0 0 24 24" id="icon-facebook" xmlns="http://www.w3.org/2000/svg"><path d="M22.7 0H1.3C.6 0 0 .6 0 1.3v21.4c0 .7.6 1.3 1.3 1.3h11.5v-9.3H9.7v-3.6h3.1V8.4c0-3.1 1.9-4.8 4.7-4.8 1.3 0 2.5.1 2.8.1V7h-1.9c-1.5 0-1.8.7-1.8 1.8v2.3h3.6l-.5 3.6h-3.1V24h6.1c.7 0 1.3-.6 1.3-1.3V1.3c0-.7-.6-1.3-1.3-1.3z"></path></symbol><symbol viewBox="0 0 25 24" id="icon-instagram" xmlns="http://www.w3.org/2000/svg"><path d="M24 7.1c-.1-1.3-.3-2.2-.6-2.9-.3-.9-.8-1.6-1.4-2.2-.6-.6-1.3-1.1-2.1-1.4C19.1.3 18.3.1 17 0h-5C8.7 0 8.4 0 7.1.1 5.8.1 4.9.3 4.2.6 3.4.9 2.6 1.4 2 2c-.6.6-1 1.3-1.3 2.1C.4 4.9.2 5.8.1 7 0 8.3 0 8.7 0 12s0 3.7.1 4.9c.1 1.3.3 2.2.6 2.9.3.9.7 1.6 1.3 2.2.6.6 1.3 1.1 2.1 1.4.8.3 1.6.5 2.9.6h5c3.2 0 3.7 0 4.9-.1 1.3-.1 2.2-.3 2.9-.6 1.6-.6 2.9-1.9 3.5-3.5.3-.8.5-1.6.6-2.9.1-1.2.1-1.6.1-4.9V7.1zm-2.2 9.8c-.1 1.2-.2 1.8-.4 2.2-.4 1-1.2 1.9-2.3 2.3-.4.2-1.1.4-2.2.4-1.3.1-1.6.1-4.8.1s-3.6 0-4.8-.1c-1.3-.1-1.9-.3-2.3-.4-.5-.2-1-.5-1.4-.9-.4-.4-.7-.9-.9-1.4-.2-.4-.4-1.1-.4-2.2-.1-1.3-.1-1.6-.1-4.8s0-3.6.1-4.8c0-1.3.2-1.9.4-2.4s.5-1 .9-1.4c.4-.3.8-.6 1.4-.8.4-.2 1-.4 2.2-.5H12c3.2 0 3.6 0 4.8.1 1.2.1 1.8.2 2.2.4.5.2 1 .5 1.4.9.4.4.7.9.9 1.4.2.4.4 1.1.4 2.2.1 1.3.1 1.6.1 4.8v4.9z"></path><path d="M12 5.8c-3.4 0-6.2 2.8-6.2 6.2s2.8 6.2 6.2 6.2c3.4 0 6.2-2.8 6.2-6.2S15.4 5.8 12 5.8zM12 16c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4zm7.9-10.4c0 .8-.6 1.4-1.4 1.4-.9 0-1.5-.6-1.5-1.4 0-.8.6-1.4 1.4-1.4.8 0 1.5.6 1.5 1.4z"></path></symbol><symbol viewBox="0 0 512 512" fill="currentColor" id="icon-link" xmlns="http://www.w3.org/2000/svg"><path d="M476.853 35.148c-46.864-46.864-122.842-46.864-169.706-.001L206.853 135.441c-48.475 48.477-43.987 125.717 0 169.706 7.366 7.366 15.516 13.372 24.122 18.305l18.305-18.305c12.006-12.008 7.78-26.045 7.564-36.174-2.635-1.868-5.198-3.887-7.564-6.253-22.573-22.571-23.588-61.265 0-84.853L349.572 77.575c23.399-23.399 61.454-23.399 84.853 0 23.399 23.399 23.399 61.454 0 84.853l-66.293 66.293c1.917 10.607 13.422 35.733 7.504 77.181.289-.284.635-.467.923-.754l100.294-100.294c46.862-46.864 46.862-122.842 0-169.706z"></path><path d="M312.918 199.081c-7.365-7.366-15.516-13.372-24.12-18.305l-18.305 18.305c-12.008 12.006-7.782 26.043-7.566 36.172 2.637 1.868 5.2 3.887 7.566 6.253 22.573 22.573 23.588 61.265 0 84.853L162.427 434.425c-23.399 23.399-61.454 23.399-84.853 0-23.399-23.399-23.399-61.454 0-84.853l74.067-74.067c-1.917-10.607-13.423-35.733-7.504-77.181-.289.284-.637.469-.925.756L35.147 307.147c-46.862 46.864-46.862 122.842 0 169.706 46.864 46.862 122.841 46.862 169.705 0l108.066-108.066c47.576-47.576 44.976-124.731 0-169.706z"></path></symbol><symbol viewBox="0 0 24 24" id="icon-linkedin" xmlns="http://www.w3.org/2000/svg"><path d="M23.994 24v-.001H24v-8.802c0-4.306-.927-7.623-5.961-7.623-2.42 0-4.044 1.328-4.707 2.587h-.07V7.976H8.489v16.023h4.97v-7.934c0-2.089.396-4.109 2.983-4.109 2.549 0 2.587 2.384 2.587 4.243V24zM.396 7.977h4.976V24H.396zM2.882 0C1.291 0 0 1.291 0 2.882s1.291 2.909 2.882 2.909 2.882-1.318 2.882-2.909A2.884 2.884 0 002.882 0z"></path></symbol><symbol fill="currentColor" viewBox="0 0 612.01 612.01" id="icon-search" xmlns="http://www.w3.org/2000/svg"><path d="M606.209 578.714L448.198 423.228C489.576 378.272 515 318.817 515 253.393 514.98 113.439 399.704 0 257.493 0S.006 113.439.006 253.393s115.276 253.393 257.487 253.393c61.445 0 117.801-21.253 162.068-56.586l158.624 156.099c7.729 7.614 20.277 7.614 28.006 0a19.291 19.291 0 00.018-27.585zM257.493 467.8c-120.326 0-217.869-95.993-217.869-214.407S137.167 38.986 257.493 38.986c120.327 0 217.869 95.993 217.869 214.407S377.82 467.8 257.493 467.8z"></path></symbol><symbol viewBox="0 0 24 20" id="icon-subscribe" xmlns="http://www.w3.org/2000/svg"><path d="M21.6 19.4H2.4a2.387 2.387 0 01-1.697-.71A2.438 2.438 0 010 16.975V2.32A2.436 2.436 0 01.739.673 2.387 2.387 0 012.4 0h19.2c.636 0 1.247.255 1.697.71A2.44 2.44 0 0124 2.425v14.55a2.44 2.44 0 01-.703 1.715 2.39 2.39 0 01-1.697.71zM2.4 4.69v12.285h19.2V4.69L12 11.155 2.4 4.69zm.96-2.265L12 8.245l8.64-5.82H3.36z"></path></symbol><symbol viewBox="0 0 30 24" id="icon-twitter" xmlns="http://www.w3.org/2000/svg"><path d="M9.3 24c11.1 0 17.2-9.2 17.2-17.2V6c1.2-.9 2.2-1.9 3-3.1-1.1.5-2.3.8-3.5 1 1.2-.7 2.2-1.9 2.7-3.3-1.2.7-2.5 1.2-3.8 1.5C23.7.7 22.2 0 20.4 0c-3.3 0-6 2.7-6 6 0 .5.1.9.2 1.4C9.5 7.2 5 4.8 2.1 1.1c-.6.9-.9 1.9-.9 3.1 0 2.1 1.1 4 2.7 5-1 0-1.9-.3-2.7-.8v.1c0 2.9 2.1 5.4 4.9 5.9-.5.1-1 .2-1.6.2-.4 0-.8 0-1.1-.1.8 2.4 3 4.2 5.7 4.2-2.1 1.6-4.7 2.6-7.5 2.6-.5 0-1 0-1.4-.1C2.7 23 5.9 24 9.3 24"></path></symbol><symbol viewBox="0 0 35 24" id="icon-youtube" xmlns="http://www.w3.org/2000/svg"><path d="M33.4 3.8c-.4-1.5-1.5-2.6-3-3C27.8 0 17.1 0 17.1 0S6.4 0 3.7.8c-1.4.4-2.6 1.6-3 3C0 6.5 0 12 0 12s0 5.6.7 8.2c.4 1.5 1.5 2.6 3 3 2.7.7 13.4.7 13.4.7s10.7 0 13.4-.7c1.5-.4 2.6-1.5 3-3 .7-2.7.7-8.2.7-8.2s0-5.5-.8-8.2zM13.7 17.1V6.9l8.9 5.1-8.9 5.1z"></path></symbol><symbol id="logo" viewBox="0 0 326.1 95" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><style></style><path d="M21 22.6h-.3L0 66.5h11.2l-5.1-4.6 3.6-7.8h14.2l4 8.9v3.5h16.3l-3.5-3.3L21 22.6zm-9.8 28.2l5.6-12.2 5.5 12.2H11.2z"></path><path d="M27.8 66.5V63l-3.1 3.5z"></path><defs><path id="nSVGID_1_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000137843759523713048690000015163567136127267771_"><use xlink:href="#nSVGID_1_" overflow="visible"></use></clipPath><g clip-path="url(#nSVGID_00000137843759523713048690000015163567136127267771_)"><path d="M75.7 20l-13.8 6 2.9 3.3v6.9c-1.3-.2-2.6-.3-3.9-.3-8.6 0-18.1 5.2-18.1 16.8 0 9.9 6.8 14.3 13 14.3 3.7 0 7.2-1.7 9.6-4.5h.3l2.4 5 11.4-4.9-3.8-3.4V20zm-11 40.2c-1.2 1-2.8 1.6-4.3 1.6-3.7 0-6.5-3.6-6.5-11.3 0-7.5 2.8-11.8 6.5-11.8 2.4 0 4.3 1.8 4.3 4.2v17.3z"></path></g><defs><path id="nSVGID_00000158719338222894414930000007157657107110151822_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000127725285058475632620000007153322604727002044_"><use xlink:href="#nSVGID_00000158719338222894414930000007157657107110151822_" overflow="visible"></use></clipPath><g clip-path="url(#nSVGID_00000127725285058475632620000007153322604727002044_)"><path d="M92.8 42.5c0-1.8 1.8-3.5 5.1-3.5.6 0 1.3.1 1.9.2l6.6 7.6V35.6l-3.5 1.5c-2.2-.8-4.6-1.1-6.9-1.1-7.8 0-13.5 3.7-13.5 9.8 0 9.7 14.9 9.2 14.9 14.7 0 1.8-1.5 3.5-4.9 3.5-1.1 0-2.2-.2-3.3-.6l-6.6-8.3v12.3l3.8-1.8c2.6 1 5.4 1.5 8.2 1.5 8.7 0 13.4-4.5 13.4-10.1-.1-10.2-15.2-9.3-15.2-14.5"></path></g><defs><path id="nSVGID_00000168109346059019644480000001479153156941731746_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000168809588601691296490000010307913991220481451_"><use xlink:href="#nSVGID_00000168109346059019644480000001479153156941731746_" overflow="visible"></use></clipPath><g clip-path="url(#nSVGID_00000168809588601691296490000010307913991220481451_)"><path d="M160.8 57.5c2.5-4 3.8-8.5 3.9-13.2l4.4-4.3h-15.6l7.9 3.9c-.1 3.6-1.4 7.1-3.6 10l-5.2-6.1c-7-8.3-10.8-12.1-10.8-17 0-4.2 2.3-6.3 6.2-6.3 2.3 0 4.2.8 8.2 3.4l1.4 1 .7.5v-6.7l-2.8.7c-2.6-1.4-5.6-2.1-8.6-2.1-8.5 0-15.7 4.1-15.7 11.9 0 2.3.7 4.6 1.8 6.7-5.5 3.3-9 7.8-9 13.8 0 9.1 8.5 13.5 17.1 13.5 4.7.1 9.3-1.1 13.4-3.5 7.2 5 12.9 4.5 18.9 3.2v-.3c-5-1.7-7.7-3.8-12.6-9.1m-16.6 2.4c-7.3 0-11.1-3.4-11.1-8.8 0-2.7.9-5.3 2.6-7.4 2.1 2.8 4.9 6 8.3 10 1.9 2.2 3.6 4 5.3 5.6-1.7.4-3.4.6-5.1.6"></path></g><defs><path id="nSVGID_00000065053918957398733580000002670863730211761305_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000067934321116827979340000003969477091249065381_"><use xlink:href="#nSVGID_00000065053918957398733580000002670863730211761305_" overflow="visible"></use></clipPath><g clip-path="url(#nSVGID_00000067934321116827979340000003969477091249065381_)"><path d="M205.5 25.4h-22l3.1 3.5V63l-3.1 3.5h22c11.9 0 22.2-8.3 22.2-21.6 0-13.9-10.3-19.5-22.2-19.5m-1.3 37.9h-6.1V28.7h6.1c7 0 11.4 5.3 11.4 17.2 0 11.2-4.4 17.4-11.4 17.4"></path></g><defs><path id="nSVGID_00000098920376784604859780000011849516076003488684_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000056392999921643863030000010654670754338749827_"><use xlink:href="#nSVGID_00000098920376784604859780000011849516076003488684_" overflow="visible"></use></clipPath><g clip-path="url(#nSVGID_00000056392999921643863030000010654670754338749827_)"><path d="M261.7 61.5c-1.3 0-2.2-.7-2.2-2.9V45.8c0-6.2-4.1-9.8-11-9.8-7.7 0-12.5 4.4-15.1 9.5l.3.3c3.6-2.2 6.3-2.9 9-2.9 3.8 0 6 1.4 6 6.1v3.2h-12.3c-2.8 1.5-4.6 4.4-4.6 7.6 0 4.6 3.3 7.5 8.4 7.5 3.4.1 6.7-1.5 8.8-4.2h.3c1.2 2.7 4 4.3 6.9 4.2 4 .1 7.5-2.5 8.4-6.4l-.3-.3c-.7.5-1.6.8-2.6.9m-13-1.1c-1 1.1-2.4 1.7-3.9 1.8-2 0-3.5-1.3-3.5-3.8 0-1.5.6-2.9 1.6-3.9h5.9v5.9z"></path></g><defs><path id="nSVGID_00000049185057433704727080000015789134480805189302_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000057843707902108287800000013001607745072935563_"><use xlink:href="#nSVGID_00000049185057433704727080000015789134480805189302_" overflow="visible"></use></clipPath><g clip-path="url(#nSVGID_00000057843707902108287800000013001607745072935563_)"><path d="M289.9 40.8l1.8-4.2h-11.3v-7.3l-16.6 11.5h5.7v16c0 5.9 3.8 10.3 10.5 10.3 5.8 0 10-3.4 11.5-9.8l-.3-.3c-1.7 1.4-3.8 2.2-6.1 2.3-3.7 0-4.8-2.4-4.8-5.5v-13h9.6z"></path></g><defs><path id="nSVGID_00000152947337064788232450000017394672985122314113_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000114031950369743842840000002414228670218409604_"><use xlink:href="#nSVGID_00000152947337064788232450000017394672985122314113_" overflow="visible"></use></clipPath><g clip-path="url(#nSVGID_00000114031950369743842840000002414228670218409604_)"><path d="M325.8 60.4c-.7.7-1.7 1-2.7 1.1-1.3 0-2.2-.7-2.2-2.9V45.8c0-6.2-4.1-9.8-11-9.8-7.7 0-12.5 4.4-15.1 9.5l.3.3c3.6-2.2 6.3-2.9 9-2.9 3.8 0 6 1.4 6 6.1v3.2h-12.3c-2.8 1.5-4.6 4.4-4.6 7.6 0 4.6 3.3 7.5 8.4 7.5 3.4.1 6.7-1.5 8.8-4.2h.3c1.2 2.7 4 4.3 6.9 4.2 4 .1 7.5-2.5 8.4-6.4l-.2-.5zm-15.6 0c-1 1.1-2.4 1.7-3.9 1.8-2 0-3.5-1.3-3.5-3.8 0-1.5.6-2.9 1.6-3.9h5.8v5.9z"></path></g><defs><path id="nSVGID_00000160872531929373014340000018263714955038729105_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000024703872442965224900000018043774642935747741_"><use xlink:href="#nSVGID_00000160872531929373014340000018263714955038729105_" overflow="visible"></use></clipPath><defs><path id="nSVGID_00000170255450870729749980000007312551694211174079_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000163063154315046332150000007559679912169011887_"><use xlink:href="#nSVGID_00000170255450870729749980000007312551694211174079_" overflow="visible"></use></clipPath><defs><path id="nSVGID_00000113347311466054918080000018171573893668078728_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000115477219204494205300000009443421727689302437_"><use xlink:href="#nSVGID_00000113347311466054918080000018171573893668078728_" overflow="visible"></use></clipPath><defs><path id="nSVGID_00000034086744271786155470000013130728309867338374_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000168803222821972715920000003010569523067781522_"><use xlink:href="#nSVGID_00000034086744271786155470000013130728309867338374_" overflow="visible"></use></clipPath><defs><path id="nSVGID_00000087369869215685992960000005294587865009890218_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000165202252849784850570000006775903907620446082_"><use xlink:href="#nSVGID_00000087369869215685992960000005294587865009890218_" overflow="visible"></use></clipPath><defs><path id="nSVGID_00000144316683654107575080000006019881391452153780_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000076588800996858668590000011399721999634712221_"><use xlink:href="#nSVGID_00000144316683654107575080000006019881391452153780_" overflow="visible"></use></clipPath><defs><path id="nSVGID_00000082342891040367708150000000721229747070076084_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000020377148887849359760000011582816053194934705_"><use xlink:href="#nSVGID_00000082342891040367708150000000721229747070076084_" overflow="visible"></use></clipPath><defs><path id="nSVGID_00000081606330262393045840000002319172175130256573_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000081624367827657678630000001510714445631467909_"><use xlink:href="#nSVGID_00000081606330262393045840000002319172175130256573_" overflow="visible"></use></clipPath><defs><path id="nSVGID_00000093871841030642664270000017880204871678717824_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000127743207584897561590000008846947905655861906_"><use xlink:href="#nSVGID_00000093871841030642664270000017880204871678717824_" overflow="visible"></use></clipPath><defs><path id="nSVGID_00000070098390134667394800000014513956670253963172_" d="M-4.6 13.9h332.2v106.8H-4.6z"></path></defs><clipPath id="nSVGID_00000118371774720287787400000011784367003756427428_"><use xlink:href="#nSVGID_00000070098390134667394800000014513956670253963172_" overflow="visible"></use></clipPath></symbol></svg></div>
+
+
+
+<iframe src="https://8184be16eb334c6d968e8e1989257955.svc.dynamics.com/t/c/n2Zxbkw_Q5Wuzr4SZskjZAJl05J1NVOy5WQwes5YDlw/UHMVBEcEKUjYbUUla-KM7zTcH57ZAHD6CZ0iSw0X/dhwJNex7?trackwebsitevisited=true&amp;ad=https%3A%2F%2Fwww.adsanddata.be%2Ftechnical-partners%2F&amp;rf=&amp;id=5841670139" style="display: none;"></iframe><div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Led9eUgAAAAAB0g1GzvESeScpuKzZrUFGv886O5&amp;co=aHR0cHM6Ly93d3cuYWRzYW5kZGF0YS5iZTo0NDM.&amp;hl=en&amp;v=vP4jQKq0YJFzU6e21-BGy3GP&amp;size=invisible&amp;cb=q7h85bbnz6zj" width="256" height="60" role="presentation" name="a-f5vx9qmq7msx" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></body></html>

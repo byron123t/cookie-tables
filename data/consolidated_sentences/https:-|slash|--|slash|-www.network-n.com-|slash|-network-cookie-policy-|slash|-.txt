@@ -1,0 +1,114 @@
+Advertising Network Cookie Policy - Network N
+Network N - avatar
+Profile
+Network N
+Network N
+Careers
+Contact
+Partner log in
+Advertising Network Cookie Policy
+Introduction
+Our website and our service users’ (Partner) website uses cookies.
+By using our website and our partners’ website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+In this policy, “we”, “us” and “our” refer to Network N Limited
+For more information about us, see Section 7.
+Credit
+This document was created using a template from Docular (https://docular.net).
+About cookies
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser
+The identifier is then sent back to the server each time the browser requests a page from the server.
+Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date
+a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+Cookies can be used by web servers to identify and track users as they navigate different pages on a website and identify users returning to a website.
+Cookies that we use
+We use cookies for the following purposes:
+(a) authentication – we use cookies to identify you when you visit our website and as you navigate our website;
+(b) status – we use cookies to help us to determine if you are logged into our website;
+(c) security – we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally;
+(d) advertising – we use cookies to help us to display advertisements that will be relevant to visitors of our partners’ website
+(e) analysis – we use cookies to help us to analyse the use and performance of our website and services;
+(f) cookie consent – we use cookies to store your preferences in relation to the use of cookies more generally.
+We use cookies on our service users’ website
+Insofar as those cookies are not strictly necessary for the provision of our website and services, we will ask you to consent to our use of cookies when you first visit our website.
+Third party cookies
+Advertising cookies
+We operate our ads program in partnership with third party vendors
+As part of the operation of our ads program, we use cookies to collect certain information
+Advertising cookies enable us and our partners to serve ads and to personalize those ads based on information like visits to our sites and other sites on the Internet.Below is a representative list of our advertising program partners, along with information on the cookies that each partner sets
+The partners we work with change from time to time, and this is not an exhaustive list.
+Your choices to control cookies related to our ads program are described below:
+1plusX AG7Hops.com Inc
+(ZergNet)A.MobAcuityAds Inc.ADBOXAdButlerAdelphic LLCAdform A/SADITION (Virtual Minds GmbH)Adkernel LLCAdloox SAADMAN - Phaistos Networks, S.A.ADman Interactive SLUAdmedo Technology LtdAdmixer EU GmbHAdobe Advertising CloudAdriverAdsniperAdsWizz Inc.AdTheorent, Incadvanced store GmbHADYOULIKE SAAkamaiAmazonAmazon AdvertisingAmazon CloudFrontAmobee Inc.AMPProject.orgAntVoiceAppier PTE LtdAvocet Systems LimitedAwinAwin (affili.net)Bannerflow ABBasis Global Technologies, Inc.BDSK Handels GmbH & Co
+KGBeachfront Media LLCBeeswaxIO CorporationBetgenius LtdBIDSWITCH GmbHBidtellect, IncBidTheatre ABBlis Global LimitedBlockthrough, Inc.BlueBombora Inc.BonzaiC3 MetricsCeltra, Inc.CleverPushClickagyClinchCloud Technologies S.A.CloudflareComcast International France SASCommanders ActComscore B.V.ConnectAd Realtime GmbHconsentmanagerConsumable, Inc.Crazy Egg Inc.Crimtan Holdings LimitedCriteo SADeepIntent, Inc.Delta Projects ABDentsu London LimitedDigiTrust / IAB Tech LabDisqus, Incdistrict m inc.DoubleVerify Inc.​Drawbridge, Inc.DynAdmicEASYmedia GmbHeBayEmerse Sverige ABEmodo, Inc.EMX Digital, Inc.EpsilonEvidonExactag GmbHExponential Interactive, Inc d/b/a VDX.tvEyeota Pte LtdEyereturn MarketingFacebook (Meta)Flashtalking, Inc.fluctfontawesome.comFraudlogixGetintent USA, inc.Google AdsGoogle Advertising ProductsGoogle AnalyticsGoogle GeneralGoogle RecaptchaGoogle Tag ManagerGumGum, Inc.HotJar.comHubspotHybrid Adtech GmbHHybrid Theory Global LtdIAB Europe / CMP DomainID WardID5 Technology LtdIgnitionOneImprove DigitalIndex Exchange, Inc
+InfoLinksInnovid LLCInskin Media LTDInstagramIntegral Ad Science, Inc.Intercept Interactive Inc
+dba UndertoneInternet BillBoard a.s.IPONWEB GmbHJaduda GmbHJivox CorporationjQueryjsdelivr.comJustpremium BVJW PlayerKlarna Bank ABKnorexLinkedInLinkedIn Ireland Unlimited CompanyLiveIntent Inc.LiveRampLoopMe LimitedLotame Solutions, incMagnite CTV, Inc.Magnite, Inc
+Market Resource Partners LLCMcCann Discipline LTDMedia.net Advertising FZ-LLCMediakeys PlatformMediaMath, Inc.Meetrics GmbHMGID Inc.MicrosoftMicrosoft Advertising / Bing AdsMobfox US LLCMonet Engine IncMSI-ACImxptint.netN.Rich Technologies Inc.NEORY GmbHNetworkN IncNEURAL.ONENextRoll, Inc.Nielsen Marketing CloudnmdOneTag LimitedOneTrustOnfocus (Adagio)OpenXoptimizely.comOptomaton UGOracle AddThisOracle AdvertisingOutbrain Inc.Outbrain UK LtdownerIQPaperG, Inc
+dba Thunder IndustriesParse.lyParshipPayPal S.à r.l.Permutive DMPPiano Software Inc.Pinterest Inc.Pixalate, Inc.Platform161 B.V.PLAYGROUND XYZ EMEA LTDplista GmbHPolldaddyPowerLinks Media LimitedPrebid.orgProgramattik - Türk TelekomPubMatic, IncPulsePoint, Inc.Quantcastrealzeit GmbHRevJetRich Audience Technologies SLRoku Advertising ServicesRoq.ad Inc.RTB House S.A.RUN, Inc.RutargetSalesforce.com, Inc.ScootaSeedtag Advertising S.LSemasio GmbHShareThis, IncSharethrough, Inc.Shopify International LimitedSignal Digital Inc.Simplifi Holdings IncSizmek by AmazonSkimbit LtdSmaato, Inc.SMADEX, S.L.U.Smart Adserversmartclip Europe GmbHSojern, Inc.Sonobi, IncSovrn Holdings IncSportradar AGSpotX, IncSpringServe, LLCSquarespaceStackAdaptStickyadsTVStripe.comStröer SSP GmbH (DSP)Ströer SSP GmbH (SSP)SublimeSupershipTaboola Europe LimitedTapad, Inc.TAPTAP Digital SLTeads France SASTeroa S.A.The Kantar Group LimitedThe MediaGrid Inc.The Procter & Gamble CompanyThe Reach Group GmbHThe Trade DeskTidalTVTradedoubler ABTradeTrackerTremor Video DSP, Inc.TripleLift, Inc.TruOptikTrustami GmbHTrustArcTwitterUnruly Group LLCUnruly Group LtdUserreportVGI CTV, IncVibrant Media LimitedVisualIQ by NielsenWeboramaWebtrekkWidespace ABXandr, Inc.XitiYahoo EMEA LimitedYandexYieldlab (Virtual Minds GmbH)Yieldmo, Inc.YOC AGYouTubeZanoxZemanta Inc.zeotap GmbHZypMedia
+Analytics cookies
+We may use Google Analytics, ComScore, Google Tag Manager, Crazy Egg, Facebook Audience, Google Analytics AudienceCrazy Egg, MixPanel & Segment to analyse the use of our partner’s website
+Our analytics service provider generates statistical and other information about website use by means of cookies.
+The analytics cookies used by our website have the following names: _ga, _gat, __utma, __utmt, __utmb, __utmc, __utmz and __utmv.
+The information generated relating to our website is used to create reports about the use of our website.
+Our analytics service provider’s privacy policy is available below:
+Comscore
+https://www.comscore.com/About/Privacy-Policy
+Crazy Egg
+https://www.crazyegg.com/privacy
+Facebook
+https://www.facebook.com/about/privacy
+Google
+http://www.google.com/policies/privacy/
+Managing cookies
+Most browsers allow you to refuse to accept cookies
+Firefox
+To prevent new cookies from being installed:
+https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+To delete existing cookies:
+https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored
+Google Chrome
+To prevent new cookies from being installed and delete existing cookies:
+https://support.google.com/chrome/answer/95647?hl=en
+Internet Explorer
+To prevent new cookies from being installed and delete existing cookies:
+http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies
+Safari
+To prevent new cookies from being installed and delete existing cookies:
+http://help.apple.com/safari/mac/8.0/#/sfri11471
+You can delete cookies already stored on your computer
+Third party services incorporated into our patners’ website may collect information about your visits to our partner’s site for analytics, retargeting and conversion tracking purposes
+This information could be combined with information collected from other sites.
+You can opt out from third party platforms for marketing purposes at the following addresses.
+Network Advertising Initiative: http://www.networkadvertising.org/choices
+Digital Advertising Alliance: http://www.aboutads.info/choices
+Your Online Choices (Europe) : http://www.youronlinechoices.com
+Our details
+This website is owned and operated by Network N Ltd.
+We are registered in England and Wales under registration number 08063183, and our registered office is at Circus Mews House, Circus Mews, Bath, UK, BA1 2PW.
+You can contact us:
+(a) by post, using the postal address given above;
+(b) by telephone, on the contact number published on our website from time to time
+or
+(c) by email, using this email address data@network-n.comby email
+Contact Us
+To navigate, press the arrow keys.←Move left→Move right↑Move up↓Move down+Zoom in-Zoom outHomeJump left by 75%EndJump right by 75%Page UpJump up by 75%Page DownJump down by 75%Keyboard shortcutsMap DataMap data ©2022Map data ©202210 m Terms of UseReport a map error
+Network N Ltd.
+Circus Mews House, Circus Mews, Bath, BA1 2PW, UK
+Telephone: (+44) 01225 531631
+Subject*
+...
+Advertising
+Publishing
+Editorial
+Existing Partner
+Other
+Name*
+Email address*
+* Required fields
+Send Message
+Careers
+Terms and Conditions
+Website Privacy Policy
+Partner Terms and Conditions
+All images courtesy of GamesPress.com
+Copyrighted © 2022 Network N Ltd.

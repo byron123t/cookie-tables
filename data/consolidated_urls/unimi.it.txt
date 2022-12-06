@@ -1,0 +1,3 @@
+https://matomo.org/faq/how-to/how-do-i-enforce-tracking-without-cookies/
+https://matomo.org/subcategory/cookies/
+https://matomo.org/faq/how-to/how-do-i-segment-people-that-have-been-identified-using-tracking-cookies/

@@ -1,0 +1,1774 @@
+
+
+
+
+
+
+
+
+
+SolarWinds - Cookie Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Government
+
+Customer Portal
+
+
+
+									Partners 
+
+
+Portal Login
+Program Overview
+Become a Partner
+
+
+Events
+
+Contact Us
+
+
+
+							English 
+
+
+Deutsch
+Español
+Français
+日本語
+한국어
+Português
+中文
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Toggle navigation
+        
+
+
+
+
+
+
+  
+ 
+
+
+                English
+                
+
+
+
+Deutsch
+Español
+Français
+日本語
+한국어
+Português
+中文
+
+
+
+
+
+
+PRODUCTS
+
+
+
+
+
+
+
+
+
+
+
+								    OBSERVABILITY
+							    
+
+
+
+
+
+
+
+
+								    Network Management
+							    
+
+
+
+
+
+
+
+
+								    Systems Management
+							    
+
+
+
+
+
+
+
+
+								    Database Management
+							    
+
+
+
+
+
+
+
+
+								    IT Service Management
+							    
+
+
+
+
+
+
+
+
+								    Application Management
+							    
+
+
+
+
+
+
+
+
+								    IT Security
+							    
+
+
+
+
+
+
+
+
+								    ALL PRODUCTS & FREE TRIALS
+							    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The SolarWinds Platform is the industry’s only unified monitoring, observability, and service management platform. It’s the foundation for a new generation of SolarWinds observability solutions and provides the architecture on how we solve observability challenges for our customers.
+
+
+Explore the Platform
+
+
+
+
+
+
+Products
+
+
+
+
+
+SolarWinds Observability
+Hybrid Cloud Observability
+
+
+
+
+
+
+
+View All Observability Products
+
+
+
+
+
+
+SolarWinds Hybrid Cloud Observability. Value, integration, and productivity for all.
+
+Go from reactive to proactive.
+Learn More
+
+
+
+
+
+
+
+
+
+
+										Network management tools, from configuration and traffic intelligence to performance monitoring and topology mapping, to readily see, understand, and resolve issues. An integrated, multi-vendor approach that’s easy to use, extend, and scale to keep distributed networks optimized.
+									
+
+
+
+Products
+
+
+
+
+
+Network Performance Monitor
+NetFlow Traffic Analyzer
+Network Configuration Manager
+IP Address Manager
+User Device Tracker
+VoIP & Network Quality Manager
+Network Automation Manager
+
+
+
+
+Log Analyzer
+Network Topology Mapper
+Engineer's Toolset
+ipMonitor
+Kiwi CatTools
+Kiwi Syslog Server
+
+
+
+
+
+
+
+Bundles
+
+
+
+
+
+Network Bandwidth Analyzer Pack
+Log and Network Performance Pack
+IP Control Bundle
+
+
+
+
+
+
+
+View All Network Management Products
+
+
+
+
+
+
+SolarWinds Hybrid Cloud Observability. Value, integration, and productivity for all.
+
+Go from reactive to proactive.
+Learn More
+
+
+
+
+
+
+
+
+
+										Comprehensive server and application management that’s simple, interoperable, and customizable from systems, IPs, and VMs to containers and services. Optimize resource usage and reduce MTTR with powerful monitoring, discovery, dependency mapping, alerting, reporting, and capacity planning.
+									
+
+
+
+Products
+
+
+
+
+
+Server & Application Monitor
+Virtualization Manager
+Storage Resource Monitor
+ipMonitor
+Serv-U Managed File Transfer
+Serv-U Secured FTP
+
+
+
+
+Server Configuration Monitor
+Log Analyzer
+Access Rights Manager
+AppOptics
+Web Performance Monitor
+
+
+
+
+
+
+
+Bundles
+
+
+
+
+
+Systems Management Bundle
+Server Performance & Configuration Bundle
+Log and Systems Performance Pack
+
+
+
+
+Application Performance Optimization Pack
+IT Operations Manager
+Web Application Monitoring & Performance Pack
+
+
+
+
+
+
+
+View All Systems Management Products
+
+
+
+
+
+
+SolarWinds Hybrid Cloud Observability. Value, integration, and productivity for all.
+
+Go from reactive to proactive.
+Learn More
+
+
+
+
+
+
+
+
+
+										Monitor, analyze, diagnose, and optimize database performance and data ops that drive your business-critical applications. Unify on-premises and cloud database visibility, control, and management with streamlined monitoring, mapping, data lineage, data integration, and tuning across multiple vendors.
+									
+
+
+
+Products
+
+
+
+
+
+Database Performance Analyzer
+
+			Monitoring and optimizing multiple DBMS platforms has never been simpler
+		
+SQL Sentry
+
+			Monitor, diagnose, and optimize SQL Server and Azure SQL
+		
+Database Performance Monitor
+
+			Database performance monitoring and optimization for traditional, open-source, and cloud-native databases
+		
+Database Mapper
+
+			Easy-access, self-managed database documentation and data lineage analysis 
+		
+Task Factory
+
+			Save time managing tedious data warehousing ELT/ETL tasks
+		
+Database Insights for SQL Server
+
+			Have complete monitoring and tuning control over your Microsoft SQL Server environment
+		
+
+
+
+
+
+
+
+View All Database Management Products
+
+
+
+
+
+
+Monitor your cloud-native Azure SQL databases with a cloud-native monitoring solution.
+
+Azure SQL performance monitoring simplified.
+Learn More
+
+
+
+
+
+
+
+
+
+										Modernize your service desk with cloud-based platform intelligent ticketing, service management, configuration management, asset management, knowledge base and portal, as well secure remote support. An intuitive, integrated, and automated ITIL-ready IT service management (ITSM) solution that optimizes productivity.
+									
+
+
+
+Products
+
+
+
+
+
+Service Desk
+
+			Cloud Based ITSM Application including Employee Service Management, Incident and Change Management and IT Asset Management. Integrates with Dameware Remote Everywhere and the Orion Platform.
+		
+Web Help Desk
+
+			Basic On-Premises ticketing software to help manage tickets from request to resolution. Integrates with Dameware Remote Support and the Orion Platform.
+		
+Dameware Remote Everywhere
+
+			Cloud-Based Remote Support Software with advanced encryption and MFA. Integrates with SolarWinds Service Desk
+		
+Dameware Remote Support
+
+			On-Premises Remote Support Software with FIPS 140-2 encryption standards. Integrates with SolarWinds Web Help Desk
+		
+Dameware Mini Remote Control
+
+			Basic On-Premises Remote Support software
+		
+
+
+
+
+
+
+
+View All IT Service Management Products
+
+
+
+
+
+
+SolarWinds Service Desk is a 2020 TrustRadius Winner
+
+Service Desk is a winner in two categories: 
+        
+IT Asset
+                Management
+            
+ and 
+        
+IT Service
+                Management (ITSM)
+            
+
+
+
+
+
+
+
+
+
+
+
+
+										Ensure user experience with unified performance monitoring, tracing, and metrics across applications, clouds, and SaaS. Robust solutions offering rich visualization, synthetic and real user monitoring (RUM), and extensive log management, alerting, and analytics to expedite troubleshooting and reporting.
+									
+
+
+
+Products
+
+
+
+
+
+AppOptics
+
+			SaaS-based infrastructure and application performance monitoring, tracing, and custom metrics for hybrid and cloud-custom applications.
+		
+Server & Application Monitor
+
+			Infrastructure and application performance monitoring for commercial off-the-shelf and SaaS applications; built on the SolarWinds® Orion® platform.
+		
+Loggly
+
+			Fast and powerful hosted aggregation, analytics and visualization of terabytes of machine data across hybrid applications, cloud applications, and infrastructure.
+		
+Log Analyzer
+
+			Monitoring and visualization of machine data from applications and infrastructure inside the firewall, extending the SolarWinds® Orion® platform.
+		
+Papertrail
+
+			Real-time live tailing, searching, and troubleshooting for cloud applications and environments.
+		
+Pingdom
+
+			Real user, and synthetic monitoring of web applications from outside the firewall.
+		
+Web Performance Monitor
+
+			Web application performance monitoring from inside the firewall.
+		
+
+
+
+
+
+
+
+View All Application Management Products
+
+
+
+
+
+
+AppOptics: Next-gen SaaS-based application performance & infrastructure monitoring.
+
+Accelerates the identification and getting to the root cause of application performance issues.Learn More
+
+
+
+
+
+
+
+
+
+
+										Reduce attack surface, manage access, and improve compliance with IT security solutions designed for accelerated time-to-value ranging from security event management, access rights management, identity monitoring, server configuration monitoring and patching, and secure gateway and file transfer.
+									
+
+
+
+Products
+
+
+
+
+
+Access Rights Manager
+Security Event Manager
+
+			(formerly Log & Event Manager)
+		
+Server Configuration Monitor
+Patch Manager
+Identity Monitor
+
+
+
+
+Serv-U Managed File Transfer
+Serv-U Secured FTP
+Serv-U Gateway
+
+
+
+
+
+
+
+View All IT Security Products
+
+
+
+
+
+
+Help Reduce Insider Threat Risks with SolarWinds® Access Rights Manager
+
+Manage and Audit Access Rights across your Infrastructure.Learn More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+
+
+
+
+
+
+
+								    BY NEED
+							    
+
+
+
+
+
+
+
+
+								    BY INDUSTRY
+							    
+
+
+
+
+
+
+
+
+								    BY TECHNOLOGY
+							    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use Case
+
+
+
+
+
+Hybrid Cloud Observability
+Database Management
+Application Performance Management
+SolarWinds Orion Platform
+Network Management
+IT Asset Management
+IT Security
+IT Operations Management
+IT Help Desk
+Remote Monitoring
+
+
+
+
+Infrastructure
+IT Service Management
+IT Automation
+Compliance
+Remote Infrastructure Management
+Hybrid Systems Monitoring
+Secure Remote Access
+
+
+
+
+
+
+
+View All Solutions
+
+
+
+
+
+
+SolarWinds Hybrid Cloud Observability. Value, integration, and productivity for all.
+
+Go from reactive to proactive.
+Learn More
+
+
+
+
+
+
+
+
+
+
+
+Industry
+
+
+
+
+
+Small Business
+Enterprise
+Education
+Public Sector
+
+
+
+
+
+
+
+View All Solutions
+
+
+
+
+
+
+Be the first to know when your public or private applications are down, slow, or unresponsive.
+
+End user monitoring, hybrid, and simplified.
+Learn More
+
+
+
+
+
+
+
+
+
+
+
+
+Technology
+
+
+
+
+
+Azure
+Active Directory
+Cisco
+Office 365
+MySQL
+SQL Diagnostic
+
+
+
+
+
+
+
+View All Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Support
+
+
+
+
+
+
+Renew Maintenance
+Renew to download the latest product features, get 24/7 tech support, and access to instructor-led training.
+
+ Renew Maintenance 
+ Learn about Auto-Renewal 
+
+
+
+Access the Success Center
+Find product guides, documentation, training, onboarding information, and support articles.
+
+ Access the Success Center 
+ SmartStart Onboarding 
+ Support Offerings 
+
+
+
+Technical Support
+Submit a ticket for technical and product assistance, or get customer service help.
+
+ Americas: +1-512-682-9300 
+ EMEA: +353 21 5002900 
+ APAC: +65 6593 7600 
+ Submit a Ticket 
+ Supported Versions 
+ End of Life Policy 
+ End of Life Policy for SaaS Products 
+
+
+
+Training & Certification
+Learn through self-study, instructor-led, and on-demand classes with the SolarWinds Academy.
+
+ SolarWinds Academy 
+ SolarWinds Certified Professional 
+
+
+
+Customer Portal
+Download the latest product versions and hotfixes. Manage your portal account and all your products.
+
+ Access the Customer Portal 
+
+
+
+ 
+
+
+
+
+Community
+
+
+
+
+
+
+THWACK
+Connect with more than 150,000+ community members. Get help, be heard by us and do your job better using our products.
+
+View THWACK
+
+
+
+Orange Matter
+Get practical advice on managing IT infrastructure from up-and-coming industry voices and well-known tech leaders.
+
+View Orange Matter
+
+
+
+LogicalRead Blog
+Into databases? Find articles, code and a community of database experts.
+
+View LogicalRead Blog
+
+
+
+Secure by Design Resource Center
+Get the latest SolarWinds investigation updates, advice from leading cybersecurity experts we’re working with, and learn about our Secure by Design journey.
+
+View Resources
+
+
+
+
+
+
+
+
+
+FREE TRIALS
+
+
+
+
+
+Contact Sales
+
+
+Online Quote
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRODUCTS
+
+
+OBSERVABILITY
+
+
+
+SolarWinds Observability
+
+
+Hybrid Cloud Observability
+
+
+
+
+Network Management
+
+
+
+Network Performance Monitor
+
+
+NetFlow Traffic Analyzer
+
+
+Network Configuration Manager
+
+
+IP Address Manager
+
+
+User Device Tracker
+
+
+VoIP & Network Quality Manager
+
+
+Network Automation Manager
+
+
+Log Analyzer
+
+
+Network Topology Mapper
+
+
+Engineer's Toolset
+
+
+ipMonitor
+
+
+Kiwi CatTools
+
+
+Kiwi Syslog Server
+
+
+Network Bandwidth Analyzer Pack
+
+
+Log and Network Performance Pack
+
+
+IP Control Bundle
+
+
+
+
+Systems Management
+
+
+
+Server & Application Monitor
+
+
+Virtualization Manager
+
+
+Storage Resource Monitor
+
+
+ipMonitor
+
+
+Serv-U Managed File Transfer
+
+
+Serv-U Secured FTP
+
+
+Server Configuration Monitor
+
+
+Log Analyzer
+
+
+Access Rights Manager
+
+
+AppOptics
+
+
+Web Performance Monitor
+
+
+Systems Management Bundle
+
+
+Server Performance & Configuration Bundle
+
+
+Log and Systems Performance Pack
+
+
+Application Performance Optimization Pack
+
+
+IT Operations Manager
+
+
+Web Application Monitoring & Performance Pack
+
+
+
+
+Database Management
+
+
+
+Database Performance Analyzer
+
+
+SQL Sentry
+
+
+Database Performance Monitor
+
+
+Database Mapper
+
+
+Task Factory
+
+
+Database Insights for SQL Server
+
+
+
+
+IT Service Management
+
+
+
+Service Desk
+
+
+Web Help Desk
+
+
+Dameware Remote Everywhere
+
+
+Dameware Remote Support
+
+
+Dameware Mini Remote Control
+
+
+
+
+Application Management
+
+
+
+AppOptics
+
+
+Server & Application Monitor
+
+
+Loggly
+
+
+Log Analyzer
+
+
+Papertrail
+
+
+Pingdom
+
+
+Web Performance Monitor
+
+
+
+
+IT Security
+
+
+
+Access Rights Manager
+
+
+Security Event Manager
+
+
+Server Configuration Monitor
+
+
+Patch Manager
+
+
+Identity Monitor
+
+
+Serv-U Managed File Transfer
+
+
+Serv-U Secured FTP
+
+
+Serv-U Gateway
+
+
+
+
+
+
+Solutions
+
+
+BY NEED
+
+
+
+Hybrid Cloud Observability
+
+
+Database Management
+
+
+Application Performance Management
+
+
+SolarWinds Orion Platform
+
+
+Network Management
+
+
+IT Asset Management
+
+
+IT Security
+
+
+IT Operations Management
+
+
+IT Help Desk
+
+
+Remote Monitoring
+
+
+Infrastructure
+
+
+IT Service Management
+
+
+IT Automation
+
+
+Compliance
+
+
+Remote Infrastructure Management
+
+
+Hybrid Systems Monitoring
+
+
+Secure Remote Access
+
+
+
+
+BY INDUSTRY
+
+
+
+Small Business
+
+
+Enterprise
+
+
+Education
+
+
+Public Sector
+
+
+
+
+BY TECHNOLOGY
+
+
+
+Azure
+
+
+Active Directory
+
+
+Cisco
+
+
+Office 365
+
+
+MySQL
+
+
+SQL Diagnostic
+
+
+
+
+
+
+Support
+
+
+Renew Maintenance
+
+
+
+Renew Maintenance
+
+
+Learn about Auto-Renewal
+
+
+
+
+Access the Success Center
+
+
+
+Access the Success Center
+
+
+SmartStart Onboarding
+
+
+Support Offerings
+
+
+
+
+Technical Support
+
+
+
+Americas: +1-512-682-9300
+
+
+EMEA: +353 21 5002900
+
+
+APAC: +65 6593 7600
+
+
+Submit a Ticket
+
+
+Supported Versions
+
+
+End of Life Policy
+
+
+End of Life Policy for SaaS Products
+
+
+
+
+Training & Certification
+
+
+
+SolarWinds Academy
+
+
+SolarWinds Certified Professional
+
+
+
+
+Customer Portal
+
+
+
+Access the Customer Portal
+
+
+
+
+
+
+Community
+
+
+THWACK
+
+
+
+View THWACK
+
+
+
+
+Orange Matter
+
+
+
+View Orange Matter
+
+
+
+
+LogicalRead Blog
+
+
+
+View LogicalRead Blog
+
+
+
+
+Secure by Design Resource Center
+
+
+
+View Resources
+
+
+
+
+
+
+FREE TRIALS
+
+
+
+
+Contact Sales
+
+
+
+
+Online Quote
+
+
+
+
+View All Products
+View Free Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+SolarWinds Cookie Policy
+
+
+
+
+
+
+
+
+
+
+
+Please read the following carefully to understand our policies and practices regarding the use of cookies on the SolarWinds websites (SolarWinds Website(s) or Website(s)). By using or accessing our Website, you agree to this cookie policy (Cookie Policy or Policy).  This Policy may change from time to time and your continued use of the Website is deemed to be acceptance of such changes.  Please check the Policy periodically for updates.
+Cookies
+Cookies are small text files that are downloaded to your browser when you visit a website.  Most web pages contain elements from multiple web domains so when you visit www.solarwinds.com (or other SolarWinds Websites), your browser may receive cookies from several sources.  This includes third parties that we have hired to provide services on our behalf, such as site analytics, site acceleration, or ad targeting. 
+Local Shared Objects (aka Flash cookies) and local storage in HTML5 may also be used on our website to enhance your experience by, for example, storing your user preferences and settings.  Local Shared Objects are data files similar to browser cookies, but can store more complex data than simple text.  You can manage Local Shared Objects by following the instructions on Adobe’s help site here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.
+We use cookies and other technologies to ensure visitors to our Websites have the best possible experience and to provide targeted advertising.  By continuing to visit or use our services, you agree to use of cookies and similar technologies for these purposes.
+Types of Cookies Used by SolarWinds
+We use different types of cookies to run SolarWinds Websites. Some or all of the cookies identified below may be stored in your browser.
+
+
+
+Type of Cookie
+Description
+
+
+
+
+Strictly Necessary Cookies
+Strictly Necessary cookies are necessary for the operation of our Website. These cookies are essential in helping you to move around our Website and use the features, such as accessing secure areas of the Website or using the shopping basket.
+                     We may use Strictly Necessary cookies to:
+                    
+
+Remember the goods and services you selected when you get to the payment page
+Identify you as being logged into the Website
+Provide access to protected areas of a Website
+Remember previously entered text so it is not lost if the page refreshes
+
+
+
+
+Performance Cookies
+Performance cookies simply help us improve the way our Website works. We utilize these cookies to analyze how our visitors use our Website and to monitor our Website performance. They tell us how people use each page, which ones are most commonly viewed, or whether any errors occurred. This allows us to provide a high-quality experience and quickly identify then fix any issues that arise.
+                     We may use Performance cookies to:
+                    
+
+Store preferences to see which method of linking between pages is most effective
+Enable web analytics to provide anonymous statistics on how our Website is used
+To assist with error management in helping us improve the Website by measuring any errors that occur
+Monitor ad response rates and see how effective our ads are
+
+ You can delete or manage Performance cookies as instructed in the “How to Manage and Delete Your Cookies” section of this Policy.
+                
+
+
+Functionality Cookies
+We use Functionality cookies to allow us to remember your preferences.
+                     We may use Functionality cookies to:
+                    
+
+Remember settings you have applied such as layout, colors, font sizes and page backgrounds
+Remember if we have already asked you if you want to fill in a survey
+Detect if you have already seen a pop-up to ensure it doesn’t get shown to you again
+Process a request from a user to submit a comment or blog or forum post
+
+ If you delete Functionality cookies, preferences or settings you selected will not be retained for later visits.
+                
+
+
+Targeting Cookies
+Targeting cookies help us make sure that the ads you see on our Websites are relevant to you and your interests. Targeting cookies may be placed on your device by our third party service providers that remember you have visited the Website in order to provide you with ads more relevant to you.
+                     We may use Targeting cookies to:
+                    
+
+Collect information about browser habits to target advertising
+Collect information about browser habits to target Website content
+Provide links to social networks 
+Provide advertising agencies with information on your visit so that they can present you with advertisements you may be interested in
+
+
+
+
+
+Many of the cookies placed through our Website are session cookies, while others are persistent cookies, and some are “first-party” cookies, while others are “third-party” cookies.
+
+First-party cookies are those set by a website that is being visited by the user at the time (e.g., cookies placed by www.solarwinds.com).
+Third-party cookies are cookies that are set by a domain other than that of the website being visited by the user. If a user visits a website and another entity sets a cookie through that website, this would be a third-party cookie.
+Persistent cookies are cookies that remain on a user’s device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
+Session cookies are cookies that allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.
+
+Withdraw Your Consent at Any Time
+If you do not wish to accept cookies in connection with your use of our Websites, you will need to delete, and block or disable cookies via your browser settings; see below for more information on how to do this. Please note that disabling cookies will likely affect the functionality of our Websites.
+How to Manage and Delete Your Cookies
+
+Most internet browsers are initially setup to automatically accept cookies.  Unless you have adjusted your browser settings to refuse cookies, our system will issue cookies when you direct your browser to our Website.  You can refuse to accept cookies by activating the appropriate setting on your browser.  Please be aware that restricting the use of cookies will impact the functionality of our Website.  As a result, you may be unable to access certain parts of our Website or use some of our products and/or services.
+Depending on your browser, further information may be obtained via the following links:
+
+Firefox
+Internet Explorer
+Google  Chrome
+Safari
+Opera
+
+More info. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.aboutcookies.org or www.allaboutcookies.org.
+ Do Not Track
+Our system may not respond to Do Not Track requests or headers from some or all browsers. To learn more about the use of cookies or other technologies to deliver more relevant advertising and your choices about not having this information used by certain service providers, please click (http://www.aboutads.info/choices/) (for users in the United States) or (http://youronlinechoices.eu/) (for users in the European Union).
+Web Beacons and Analytics Services
+ SolarWinds Websites may contain electronic images known as web beacons (or single-pixel gifs) that we use to help deliver cookies on our Websites, count users who have visited those Websites and deliver co-branded content.  We also include web beacons in our promotional email messages and newsletters to determine whether you open and act on them.
+In addition to placing web beacons on our Websites, we sometimes work with other companies to place our web beacons on their websites or in their advertisements.  This helps us develop statistics on how often clicking on an advertisement results in a purchase or other action.
+Targeting  Cookies
+For cookies that track activity in connection with targeted advertising, you can opt-out of third party targeting cookies on the Digital Advertising Alliance’s consumer choice page here  or the Network Advertising Initiative’s consumer choice page here  or the European Interactive Digital Advertising Alliance consumer choice page here .
+Additional Information about Targeting Cookies 
+ More information about third party analytics and ad networks that may operate on our Website is provided herein.  For a more complete description and list of the third party cookies that we currently use on the Site, please contact SolarWinds at privacy@solarwinds.com.  Please Note:  We may change the cookies we use at any time;  while we will try to update this list within a reasonable time frame, this list  may not always be totally up-to-date.
+AdRoll. For more information about what AdRoll collects please see: http://www.adroll.com/about/privacy
+Rubicon Project. For more information about what Rubicon Project collects and to opt out of interest-based advertising, please see http://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/
+One by AOL. For more information about what AOL collects, please view the AOL cookie policy at http://privacy.aol.co.uk/cookie-information
+The Trade Desk. For more information about what Trade Desk collects, please visit Trade Desk’s privacy policy at https://www.thetradedesk.com/general/privacy-policy
+DemDex. This cookie is used by Adobe, for more information please visit Adobe’s privacy policy at: http://www.adobe.com/uk/privacy.html
+Double Click. For more information about what DoubleClick collects, please visit: https://support.google.com/dfp_premium/answer/2839090?hl=en
+Bizo. For more information about what Bizo collects and the cookie opt out procedure please see: http://www.bizo.com/opt-out
+Flashtalking. For more information about what Flashtalking collects, please visit: http://www.flashtalking.com/privacypolicy/
+LinkedIn. For more information about what LinkedIn collects, please see the LinkedIn cookie policy at: https://www.linkedin.com/legal/cookie-policy
+Dstillery/media6degrees.com. For more information about what Dstillery collects, please see the Dstillery privacy policy at: //dstillery.com/privacy-policy
+Quantcast. For more information about what Quantcast collects and to opt out of interest-based advertising, please see:  https://www.quantcast.com/opt-out/
+MediaMath.  For more information about what MediaMath collects and to opt out of interest-based advertising, please see: http://www.mediamath.com/ad-choices-opt-out/
+AppNexus. For more information about what AppNexus collects and to opt out of interest-based advertising, please see: https://www.appnexus.com/en/company/platform-privacy-policy#choices
+Outbrain. For more information about what Outbrain collects and to opt out of interest-based advertising, please see: https://www.outbrain.com/legal/privacy#advertising_behavioral_targeting
+Flashtalking. For more information about what Flashtalking collects and to opt out of interest-based advertising, please see: http://www.flashtalking.com/privacypolicy/
+Microsoft. For more information about what Microsoft collects and to opt out of interest-based advertising, please see: https://account.microsoft.com/privacy/ad-settings/signedout
+Google. For more information about what Google collects and to opt out of interest-based advertising, please see: https://support.google.com/ads/answer/2662922?hl=en&ref_topic=7048998
+Adobe. For more information about what Adobe collects please see: http://www.adobe.com/privacy/marketing-cloud.html.  To opt-out of tracking, click here: https://smetrics.solarwinds.com/optout.html?optout=1&confirm_change=1
+Facebook Connect.For more information about what Facebook collects when you use Facebook buttons on our website, please see:https://www.facebook.com/about/privacy/#
+Twitter.  For more information about what Twitter collects when you use Twitter buttons on our website or visit pages on our Site that include these buttons, please see: https://twitter.com/en/privacy 
+Google  Analytics, Adwords and Remarketing. For more information about Google Analytics cookies, please see help pages and privacy policy of Google Inc. (Google) at:
+        
+https://www.google.de/intl/en_uk/policies/
+ and
+        
+https://developers.google.com/analytics/devguides/collection/analyticsjs/help
+Google Analytics is a web analytics service provided by Google to help us analyze how users use the Website. The information generated by the cookie about your use of the Website (including your IP address) will be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymization, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA.  Google will not associate your IP address with any other data held by Google.  
+Google has developed the Google Analytics opt-out browser add-on; if you want to opt out of Google Analytics, you can download and install the add-on for your web browser at:
+        
+https://tools.google.com/dlpage/gaoptout?hl=en-GB
+
+
+More  Information on Online Targeted Advertising 
+
+EU Users: A guide for EU users on behavioral advertising and online privacy has been produced by the internet advertising industry which can be found at:  http://www.youronlinechoices.eu/
+US Users: For more information and to opt out of ad networks operated by members of the Digital Advertising Association (DAA), visit through the DAA AdChoices page:  www.aboutads.info/choices
+Canadian Users: Users in Canada should go to the DAA’s Canadian AdChoices page: http://youradchoices.ca/choices/
+
+International  Chamber of CommerceUnited Kingdom:  Information on the ICC (UK) UK cookie guide can be found on the ICC website section: 
+    
+http://www.international-chamber.co.uk/our-expertise/digitaleconomy
+
+
+
+
+
+
+
+
+
+
+We’re Geekbuilt.®
+Developed by network and systems engineers who know what it takes to manage today's dynamic IT environments, SolarWinds has a deep connection to the IT community.
+The result? IT management products that are effective, accessible, and easy to use.
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Company
+Investors
+Career Center
+Secure By Design
+IT Glossary
+
+
+Resource Center
+Preference Center
+For Customers
+For Government
+GDPR Resource Center
+
+
+
+
+
+
+
+
+
+Legal Documents
+Privacy
+California Privacy Rights
+Security Information
+Documentation & Uninstall Information
+Trust Center
+Disclosure Policy 
+© 2022 SolarWinds Worldwide, LLC. All rights reserved.
+
+
+
+
+
+
+
+Close 
+
+
+
+
+
+
+{{STATIC CONTENT}}
+
+
+
+
+{{CAPTION_TITLE}}
+{{CAPTION_CONTENT}}
+
+
+
+
+{{TITLE}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SolarWinds uses cookies to enhance site navigation, analyze site usage and assist with our marketing efforts. By clicking "Accept All Cookies", you agree to our use of cookies on your device. Cookie Settings Accept All CookiesSolarWinds Privacy Preference CenterYour PrivacyStrictly Necessary CookiesFunctional CookiesPerformance CookiesTargeting CookiesYour PrivacyWhen you visit any SolarWinds website, we may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. For more information on cookies, see our
+            Cookie PolicyStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.Functional Cookies  Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.Performance Cookies  Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Targeting Cookies  Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.Back ButtonBack  Filter ButtonConsent Leg.Interest  Switch Label label  Switch Label label  Switch Label labelClear checkbox label labelApply CancelConfirm My Choices Allow All

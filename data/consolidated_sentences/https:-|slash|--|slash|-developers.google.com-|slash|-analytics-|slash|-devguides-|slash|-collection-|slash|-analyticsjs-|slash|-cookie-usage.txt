@@ -1,0 +1,355 @@
+Google Analytics Cookie Usage on Websites  |  Analytics for Web (analytics.js)  |  Google Developers
+Google
+Analytics
+Measurement
+analytics.js
+English
+Bahasa Indonesia
+Deutsch
+Español
+Español – América Latina
+Français
+Italiano
+Polski
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Sign in
+Guides
+Reference
+Support
+More
+Google
+Analytics
+Measurement
+analytics.js
+Guides
+Reference
+Support
+Fundamentals
+Adding analytics.js to Your SiteHow analytics.js WorksCreating TrackersGetting and Setting Tracker DataSending Data to Google AnalyticsUsing PluginsDebugging
+Measuring common user interactions
+Page ViewsEvent MeasurementSocial InteractionsApp / Screen MeasurementUser TimingsMeasure Exceptions
+Advanced Topics
+Cookies and User IdentificationCross-domain MeasurementCustom Dimensions and MetricsRenaming the Global (ga) ObjectWriting PluginsTasksIP AnonymizationUser Opt-out
+Official Plugins
+Advertising FeaturesEcommerceEnhanced EcommerceEnhanced link attributionLinker
+Solutions
+Single Page Applications
+Resources
+Cookie UsageLimits and Quotas
+On this pageOverviewgtag.js (Google Analytics 4) - cookie usageCustomizationgtag.js and analytics.js (Universal Analytics) - cookie usageCustomizationga.js - cookie usageCustomizationurchin.js - cookie usageGoogle Analytics for Display Advertisers - cookie usageContent Experiments - cookie usageOptimize - cookie usage
+Universal Analytics (UA) will be deprecated on July 1, 2023, which means it will stop processing data
+Analytics 360 properties will stop working on October 1, 2023
+Migrate to Google Analytics 4.
+Home
+Products
+Google Analytics
+Measurement
+analytics.js
+Google Analytics Cookie Usage on Websites
+bookmark_border
+Stay organized with collections
+Save and categorize content based on your preferences.
+On this pageOverviewgtag.js (Google Analytics 4) - cookie usageCustomizationgtag.js and analytics.js (Universal Analytics) - cookie usageCustomizationga.js - cookie usageCustomizationurchin.js - cookie usageGoogle Analytics for Display Advertisers - cookie usageContent Experiments - cookie usageOptimize - cookie usage
+This document describes how Google Analytics uses cookies to measure
+user-interactions on websites.
+Overview
+Google Analytics is a simple, easy-to-use tool that helps website owners
+measure how users interact with website content
+As a user navigates between
+web pages, Google Analytics provides website owners JavaScript tags
+(libraries) to record information about the page a user has seen, for example
+the URL of the page.
+The Google Analytics JavaScript libraries use HTTP cookies to "remember"
+what a user has done on previous pages / interactions with the website.
+Note: Read the Google Analytics privacy document for more
+details about the data collected by Google Analytics.
+Google Analytics supports three JavaScript libraries (tags) for measuring
+website usage: gtag.js, analytics.js, and ga.js.
+The following sections describe how each library use cookies for
+Universal Analytics and Google Analytics 4, where applicable.
+gtag.js (Google Analytics 4) - cookie usage
+For Google Analytics 4, the gtag.js JavaScript library uses
+first-party cookies to:
+Distinguish unique users
+Distinguish sessions for a user
+When using the recommended JavaScript snippet cookies are set at the
+highest possible domain level
+For example, if your website address is
+blog.example.co.uk, gtag.js will set the cookie domain to
+.example.co.uk
+Setting cookies on the highest level domain possible allows
+measurement to occur across subdomains without any extra configuration.
+Note: gtag.js does not require setting cookies to transmit data to Google
+Analytics.
+gtag.js sets the following cookies:
+Cookie name
+Default expiration time
+Description
+_ga
+2 years
+Used to distinguish users.
+_ga_<container-id>
+2 years
+Used to persist session state.
+Customization
+Read the gtag.js Cookies and user identification guide (GA4) to
+learn how these default settings can be customized with gtag.js.
+gtag.js and analytics.js (Universal Analytics) - cookie usage
+The analytics.js JavaScript library or the
+gtag.js JavaScript library can be used for Universal Analytics
+In
+both cases, the libraries use first-party cookies to:
+Distinguish unique users
+Throttle the request rate
+When using the recommended JavaScript snippet cookies are set at the
+highest possible domain level
+For example, if your website address is
+blog.example.co.uk, analytics.js and gtag.js will set the cookie domain to
+.example.co.uk
+Setting cookies on the highest level domain possible allows
+measurement to occur across subdomains without any extra configuration.
+Note: gtag.js and analytics.js do not require setting cookies to transmit data
+to Google Analytics.
+gtag.js and analytics.js set the following cookies:
+Cookie Name
+Default expiration time
+Description
+_ga
+2 years
+Used to distinguish users.
+_gid
+24 hours
+Used to distinguish users.
+_gat
+1 minute
+Used to throttle request rate
+If Google Analytics is deployed via Google Tag Manager, this cookie will be named _dc_gtm_<property-id>.
+AMP_TOKEN
+30 seconds to 1 year
+Contains a token that can be used to retrieve a Client ID from AMP
+Client ID service
+Other possible values indicate opt-out, inflight request
+or an error retrieving a Client ID from AMP Client ID service.
+_gac_<property-id>
+90 days
+Contains campaign related information for the user
+If you have
+linked your Google Analytics and Google Ads accounts, Google Ads
+website conversion tags will read this cookie unless you opt-out.
+Learn more.
+Customization
+Read the gtag.js
+Cookies and user identification guide (Universal Analytics) to
+learn how these default settings can be customized with gtag.js.
+Read the analytics.js Domains and Cookies developer guide to learn all the
+ways these default settings can be customized with analytics.js.
+Read the Security and privacy in Universal Analytics document for more
+information about Universal Analytics and cookies.
+ga.js - cookie usage
+The ga.js JavaScript library uses first-party cookies to:
+Determine which domain to measure
+Distinguish unique users
+Throttle the request rate
+Remember the number and time of previous visits
+Remember traffic source information
+Determine the start and end of a session
+Remember the value of visitor-level custom variables
+By default, this library sets cookies on the domain specified in
+the document.host browser property
+and sets the cookie path to the root level (/).
+This library sets the following cookies:
+Cookie Name
+Default Expiration Time
+Description
+__utma
+2 years from set/update
+Used to distinguish users and sessions
+The cookie is created
+when the javascript library executes and no existing
+__utma cookies exists
+The cookie is updated every time data is
+sent to Google Analytics.
+__utmt
+10 minutes
+Used to throttle request rate.
+__utmb
+30 mins from set/update
+Used to determine new sessions/visits
+The cookie is created
+when the javascript library executes and no existing
+__utmb cookies exists
+The cookie is updated every time data is
+sent to Google Analytics.
+__utmc
+End of browser session
+Not used in ga.js
+Set for interoperability with urchin.js.
+Historically, this cookie operated in conjunction
+with the __utmb cookie to determine whether
+the user was in a new session/visit.
+__utmz
+6 months from set/update
+Stores the traffic source or campaign that explains how
+the user reached your site
+The cookie is created
+when the javascript library executes and is updated every
+time data is sent to Google Analytics.
+__utmv
+2 years from set/update
+Used to store visitor-level custom variable data.
+This cookie is created when a developer uses the
+_setCustomVar method with
+a visitor level custom variable
+This cookie was
+also used for the deprecated _setVar method
+The cookie is
+updated every time data is sent to Google Analytics.
+Customization
+The following methods can be used to customize how cookies are set:
+_setDomainName - Sets the domain to which all cookies will be set.
+_setCookiePath - Sets the path to which all cookies will be set.
+_setVisitorCookieTimeout - Sets the Google Analytics visitor cookie expiration in milliseconds.
+_setSessionCookieTimeout - Sets the new session cookie timeout in milliseconds.
+_setCampaignCookieTimeout - Sets the campaign cookie expiration time in milliseconds.
+_storeGac - Pass in false to disable the GAC cookie
+Defaults to true
+Read the Tracking Multiple Domains guide to learn how to
+configure ga.js to measure user interaction across domains.
+urchin.js - cookie usage
+Historically, Google Analytics provided a JavaScript measurement
+library named urchin.js
+When the newer ga.js library launched, developers
+were encouraged to migrate to the new library
+For sites that have not
+completed the migration, urchin.js sets cookies identically to what is
+set in ga.js
+Read the ga.js cookie usage section above
+for more details.
+Google Analytics for Display Advertisers - cookie usage
+For customers that are using Google Analytics' Display Advertiser
+features, such as remarketing, a
+third-party DoubleClick cookie is used in addition to the other cookies
+described in this document for just these features
+For more information about
+this cookie, visit the Google Advertising Privacy FAQ.
+Content Experiments - cookie usage
+For websites using Google Analytics
+content experiments, the following cookies are
+used for these features in addition to the other cookies described in this
+document:
+Cookie Name
+Default expiration time
+Description
+__utmx
+18 months
+Used to determine a user's inclusion in an experiment.
+__utmxx
+18 months
+Used to determine the expiry of experiments a user has been included
+in.
+Optimize - cookie usage
+For websites using Optimize, the following cookies are used in addition to the
+other cookies described in this document:
+Cookie Name
+Default expiration time
+Description
+_gaexp
+Depends on the length of the experiment, but typically 90 days.
+Used to determine a user's inclusion in an experiment and the expiry of experiments a user
+has been included in.
+_opt_awcid
+24 hours
+Used for campaigns mapped to Google Ads Customer IDs.
+_opt_awmid
+24 hours
+Used for campaigns mapped to Google Ads  Campaign IDs.
+_opt_awgid
+24 hours
+Used for campaigns mapped to Google Ads  Ad Group IDs
+_opt_awkid
+24 hours
+Used for campaigns mapped to Google Ads Criterion IDs
+_opt_utmc
+24 hours
+Stores the last utm_campaign query parameter.
+_opt_expid
+10 seconds
+This cookie is created when running a redirect experiment
+It stores the
+experiment ID, the variant ID and the referrer to the page that's being
+redirected.
+Note: Optimize is not compatible with ga.js and gtag.js (Google Analytics 4)
+implementations.
+Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License
+For details, see the Google Developers Site Policies
+Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2022-08-22 UTC.
+Newsletter
+Sign up for Google Analytics developer newsletter
+Discord
+Join Google Analytics Discord server
+GitHub
+Try Google Analytics samples
+Stack Overflow
+Ask questions using the google-analytics tag
+Videos
+View Google Analytics videos on YouTube
+Connect
+Community & Updates
+Getting Help
+Reporting an Issue
+Product Info
+Protocol / SDK Policy
+Branding Policy
+Developer consoles
+Google API Console
+Google Cloud Platform Console
+Google Play Console
+Firebase Console
+Actions on Google Console
+Cast SDK Developer Console
+Chrome Web Store Dashboard
+Android
+Chrome
+Firebase
+Google Cloud Platform
+All products
+Terms
+Privacy
+Sign up for the Google Developers newsletter
+Subscribe
+English
+Bahasa Indonesia
+Deutsch
+Español
+Español – América Latina
+Français
+Italiano
+Polski
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어

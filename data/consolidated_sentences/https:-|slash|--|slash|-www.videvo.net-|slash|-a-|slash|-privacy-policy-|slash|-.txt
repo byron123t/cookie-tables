@@ -1,0 +1,162 @@
+Privacy Policy – Videvo
+Menu
+Menu
+All Videos
+Footage
+Motion Graphics
+All Templates
+After Effects Templates
+Premiere Pro Templates
+DaVinci Resolve Templates
+Final Cut Pro Templates
+Motion Graphics Templates
+Music
+Sound Effects
+Collections
+Help
+Join Videvo
+Log in
+All Videos
+Footage
+Motion Graphics
+All Templates
+After Effects Templates
+Premiere Pro Templates
+DaVinci Resolve Templates
+Final Cut Pro Templates
+Motion Graphics Templates
+Music
+Sound Effects
+Collections
+Help
+Join Videvo
+JoinVidevo
+Log in
+All Videos
+All Videos
+Footage
+Motion Graphics
+Music
+Sound Effects
+Privacy Policy
+Configure Cookie Settings
+EU AND UK VIDEVO.NET PRIVACY AND COOKIES POLICY 1
+Introduction1.1 We are committed to safeguarding the privacy of our website visitors, customers and contributors
+This policy applies to you if you are a resident of the EU or UK.1.2 This policy applies where we are acting as a data controller with respect to the personal data of our website visitors, customers and contributors
+in other words, where we determine the purposes and means of the processing of that personal data.1.3 You can specify whether you would like to receive our newsletter via your account settings.1.4 We use cookies on our website
+Insofar as those cookies are not strictly necessary for the provision of our website and services, we will ask you to consent to our use of cookies when you first visit our website.1.5 In this policy, “we”, “us” and “our” refer to Oxford Media Solutions Limited
+For more information about us, see Section 18.2
+The personal data that we collect2.1 In this Section 2 we have set out the general categories of personal data that we process.2.2 We may process data enabling us to get in touch with you (“contact data”)
+The contact data may include your name and email address
+If you log into our website using a Facebook or Google account, we will obtain elements of the contact data from Facebook or Google respectively.2.3 We may process your website user account data (“account data”)
+The account data may include your account identifier, name, email address, business name, account creation and modification dates, website settings and marketing preferences
+If you log into our website using a Facebook or Google account, we will obtain elements of the account data from Facebook or Google respectively.2.4 We may process information relating to our customer relationships (“customer relationship data”)
+The customer relationship data may include your name, the name of your business or employer, your job title or role, your contact details, your classification / categorisation within our customer relationship management system and information contained in or relating to communications between us and you, or between us and your employer.2.5 We may process information relating to transactions, including downloads and subscription purchases that you enter into with us and/or through our website (“transaction data”)
+The transaction data may include your name, your contact details, your payment card details (or other payment details) and the transaction details
+The source of the transaction data is you and/or our payment services provider.2.6 We may process information contained in or relating to any communication that you send to us or that we send to you (“communication data”)
+The communication data may include the communication content and metadata associated with the communication
+Our website will generate the metadata associated with communications made using the website contact forms.2.7 We may process data about your use of our website and services (“usage data”)
+The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use
+The source of the usage data is our analytics tracking systems, primarily provided by Google Analytics.2.8 We may process data about our contributors
+This data may include contributor name, contact details, business name and contributions (“contributor data”)
+The source of this data is the contributor.2.9 Please do not supply any other person’s personal data to us, unless we prompt you to do so.3
+Purposes of processing and legal bases3.1 In this Section 3, we have set out the purposes for which we may process personal data and the legal bases of the processing.3.2 Operations – We may process your personal data for the purposes of providing downloads, managing subscriptions, generating invoices, bills and other payment-related documentation and credit control
+The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.3.3 Content Publication – We may process contributor data for the purposes of publishing contributions on our website
+The legal basis for this processing is our legitimate interests, namely the publication of contributor content in the ordinary course of our operations.3.4 Relationships and communications – We may process contact data, account data, customer relationship data, contributor data, transaction data and/or communication data for the purposes of managing our relationships, communicating with you (excluding communicating for the purposes of direct marketing) by email, instant chat or telephone, providing support services and complaint handling
+The legal basis for this processing is our legitimate interests, namely communications with our website visitors, customers and contributors, the maintenance of our relationships, enabling the use of our services, and the proper administration of our website, services and business.3.5 Direct marketing – We may process contact data for the purposes of creating, targeting and sending direct marketing communications by email
+The legal basis for this processing is consent.3.6 Research and analysis – We may process usage data, service data and/or transaction data for the purposes of researching and analysing the use of our website and services, as well as researching and analysing other interactions with our business
+The legal basis for this processing is our legitimate interests, namely monitoring, supporting, improving and securing our website, services and business generally.3.7 Record keeping – We may process your personal data for the purposes of creating and maintaining our databases, back-up copies of our databases and our business records generally
+The legal basis for this processing is our legitimate interests, namely ensuring that we have access to all the information we need to properly and efficiently run our business in accordance with this policy.3.8 Security – We may process your personal data for the purposes of security and the prevention of fraud and other criminal activity
+The legal basis of this processing is our legitimate interests, namely the protection of our website, services and business, and the protection of others.3.9 Insurance and risk management – We may process your personal data where necessary for the purposes of obtaining or maintaining insurance coverage, managing risks and/or obtaining professional advice
+The legal basis for this processing is our legitimate interests, namely the proper protection of our business against risks.3.10 Legal claims – We may process your personal data where necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure
+The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights and the legal rights of others.3.11 Legal compliance and vital interests – We may also process your personal data where such processing is necessary for compliance with a legal obligation to which we are subject or in order to protect your vital interests or the vital interests of another natural person.4
+Providing your personal data to others4.1 We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice.4.2 Your personal data held in our website database will be stored on the servers of our hosting services providers.4.3 We may disclose personal data to our website developers insofar as necessary for the provision of their website development and support services
+4.4 Financial transactions relating to our website and services are handled by our payment services providers, Stripe and PayPal
+Tax compliance is handled by Quaderno
+We will share transaction data with our financial services providers only to the extent necessary for the purposes of processing your payments, refunding such payments, dealing with sales tax and dealing with complaints and queries relating to such payments and refunds
+You can find information about the payment services providers’ privacy policies and practices at https://stripe.com/gb/privacy,  https://www.quaderno.io/policies/privacy and https://www.paypal.com/uk/webapps/mpp/ua/privacy-full.4.5 Affiliate marketing relationships relating to our website and services are handled by our Affiliate marketing services providers, Referral Candy, and Impact
+If you are an affiliate partner of Videvo, we will share contact data, account data and transaction data with our affiliate relationship services providers only to the extent necessary for the purposes of processing your affiliate payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds
+You can find information about the payment services providers’ privacy policies and practices at https://www.referralcandy.com/privacy/
+4.6 Marketing of our website and services are handled by our marketing services providers, Mailgun and Mailjet
+If you receive marketing emails from Videvo, we will share your contact data with our marketing services providers only to the extent necessary for the purposes of marketing our services to you
+You can find information about the payment services providers’ privacy policies and practices at  https://www.mailgun.com/privacy-policy/ and https://www.mailjet.com/privacy-policy/.4.7 Our website is built by our developers using the WordPress platform
+If you interact with us using the contact forms on our website, your contact data may be shared with WordPress, who provide the contact form technology
+You can find information about WordPress’ privacy policy here: https://wpforms.com/privacy-policy/ 4.5 In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person
+We may also disclose your personal data where such disclosure is necessary for the establishment, exercise, or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.5
+International transfers of your personal data5.1 In this Section 5, we provide information about the circumstances in which your personal data may be transferred to countries outside the United Kingdom and the European Economic Area (EEA).5.2 The hosting facilities for our website are situated in Canada and the USA
+The competent data protection authorities have made an “adequacy decision” with respect to the data protection laws of each of these countries
+Transfers to each of these countries will be protected by appropriate safeguards.5.3 Our affiliate marketing relationship service providers are based in Singapore and the USA
+Transfers to each of these countries will be protected by appropriate safeguards, namely the use of standard data protection clauses adopted or approved by the competent data protection authorities.5.4 Our marketing service provider is based in the USA
+Transfers to the USA are protected by appropriate safeguards, namely the use of standard data protection clauses adopted or approved by the competent data protection authorities.5.5 Our website platform service provider is based in the USA
+Transfers to the USA are protected by appropriate safeguards, namely the use of standard data protection clauses adopted or approved by the competent data protection authorities.5.6 You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world
+We cannot prevent the use (or misuse) of such personal data by others.6
+Retaining and deleting personal data6.1 This Section 6 sets out our data retention policies and procedures, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.6.2 Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.6.3 We will retain your personal data as follows:(a) contact data will be retained for a minimum period of one year following the date of the most recent contact between you and us, and for a maximum period of six years following that date;(b) account data will be retained for a minimum period of one year following the date of closure of the relevant account, and for a maximum period of ten years following that date;(c) customer relationship data will be retained for a minimum period of one year following the date of termination of the relevant customer relationship and for a maximum period of six years following that date;(d) service data will be retained for a minimum period of six years following the date of termination of the relevant contract, and for a maximum period of ten years following that date;(e) transaction data will be retained for a minimum period of six years following the date of the transaction, and for a maximum period of ten years following that date;(f) communication data will be retained for a minimum period of one year following the date of the communication in question, and for a maximum period of six years following that date;(g) usage data will be retained for six years following the date of collection
+and(h) contributor data will be retained for a minimum period of six years following the date of termination of the relevant contributor relationship or the date of the contribution (whichever is sooner), and for a maximum period of ten years following that date.6.4 If you grant to us a license to publish any of your personal data, we may continue to retain and publish that personal data after the end of the relevant retention period specified in this Section 6 in accordance with the applicable license terms, subject to your data subject rights.6.5 Notwithstanding the other provisions of this Section 6, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.7
+Security of personal data7.1 We will take appropriate technical and organisational precautions to secure your personal data and to prevent the loss, misuse or alteration of your personal data.7.2 We will store your personal data on secure servers, personal computers and mobile devices, and in secure manual record-keeping systems.7.3 The following personal data will be stored by us in encrypted form: your name, contact information, password(s) and cardholder data.7.4 Data relating to your enquiries and financial transactions that is sent from your web browser to our web server, or from our web server to your web browser, will be protected using encryption technology.7.5 You acknowledge that the transmission of unencrypted (or inadequately encrypted) data over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.7.6 You should ensure that your password is not susceptible to being guessed, whether by a person or a computer program
+You are responsible for keeping the password you use for accessing our website confidential and we will not ask you for your password (except when you log in to our website).8
+Your rights8.1 In this Section 8, we have listed the rights that you have under data protection law.8.2 Your principal rights under data protection law are:(a) the right to access – you can ask for copies of your personal data;(b) the right to rectification – you can ask us to rectify inaccurate personal data and to complete incomplete personal data;(c) the right to erasure – you can ask us to erase your personal data;(d) the right to restrict processing – you can ask us to restrict the processing of your personal data;(e) the right to object to processing – you can object to the processing of your personal data;(f) the right to data portability – you can ask that we transfer your personal data to another organisation or to you;(g) the right to complain to a supervisory authority – you can complain about our processing of your personal data
+and(h) the right to withdraw consent – to the extent that the legal basis of our processing of your personal data is consent, you can withdraw that consent.8.3 These rights are subject to certain limitations and exceptions
+You can learn more about the rights of data subjects by visiting https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/.8.4 You may exercise any of your rights in relation to your personal data by written notice to us, using the contact details set out below.9
+Third party websites9.1 Our website includes hyperlinks to, and details of, third party websites.9.2 In general we have no control over, and are not responsible for, the privacy policies and practices of third parties.10
+Personal data of children10.1 Our website and services are targeted at persons over the age of 18.10.2 If we have reason to believe that we hold personal data of a person under that age in our databases, we will delete that personal data.11
+Updating information11.1 Please let us know if the personal information that we hold about you needs to be corrected or updated.12
+About cookies12.1 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser
+The identifier is then sent back to the server each time the browser requests a page from the server.12.2 Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date
+a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.12.3 Cookies may not contain any information that personally identifies a user, but personal data that we store about you may be linked to the information stored in and obtained from cookies.13
+Cookies that we use13.1 We use cookies for the following purposes:(a) authentication and status – we use cookies to identify you when you visit our website and as you navigate our website, and to help us determine if you are logged into our website.(b) shopping cart – we use cookies to maintain the state of your shopping cart as you navigate our website.(c) personalisation – we use cookies to store information about your preferences and to personalise our website for you.(d) security – we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally.(e) advertising – we use cookies to help us to display advertisements that will be relevant to you.(f) analysis – we use cookies to help us to analyse the use and performance of our website and services.(g) cookie consent – we use cookies to store your preferences in relation to the use of cookies more generally.14
+Cookies used by our service providers14.1 Our service providers use cookies and those cookies may be stored on your computer when you visit our website.14.2 We use Google Analytics
+Google Analytics gathers information about the use of our website by means of cookies
+The information gathered is used to create reports about the use of our website
+You can find out more about Google’s use of information by visiting https://www.google.com/policies/privacy/partners/ and you can review Google’s privacy policy at https://policies.google.com/privacy
+14.3 We use Instagram, Facebook, YouTube and Twitter pixels on our website
+Using the pixel, these social media sites collect information about the users and use of our website
+The information is used to personalise the social media site advertisements and to analyse the use of our website
+To find out more about social media pixels and about the social media site’s use of personal data generally, see the cookie policies at each respective social media site
+The social media site’s cookie policy includes information about controlling the social media site’s use of cookies to show you advertisements
+15
+Managing cookies15.1 Most browsers allow you to refuse to accept cookies and to delete cookies
+The methods for doing so vary from browser to browser, and from version to version
+You can however obtain up-to-date information about blocking and deleting cookies via these links:(a) https://support.google.com/chrome/answer/95647 (Chrome);(b) https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox);(c) https://help.opera.com/en/latest/security-and-privacy/ (Opera);(d) https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer);(e) https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac (Safari)
+and(f) https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).15.2 Blocking all cookies will have a negative impact upon the usability of many websites.15.3 If you block cookies, you will not be able to use all the features on our website.16
+Cookie preferences16.1 You can manage your preferences relating to the use of cookies when you first visit our website by selecting your preferred options in the cookie banner
+17
+Amendments17.1 We may update this policy from time to time by publishing a new version on our website.17.2 You should check this page occasionally to ensure you are happy with any changes to this policy.17.3 We may notify you of significant changes to this policy by email.18
+Our details18.1 This Website is owned and operated by Oxford Media Solutions Limited
+We are registered in England and Wales under registration number 10117176, and our registered office is at Office 5, Bullingdon House, 174b Cowley Road, Oxford, United Kingdom, OX4 1UE
+Our principal place of business is at Office 5, Bullingdon House, 174b Cowley Road, Oxford, United Kingdom, OX4 1UE
+You can contact us: using our Website contact form
+by telephone, on the contact number published on our Website
+or by email, using the email address published on our Website.19
+Data protection registration19.1 We are registered as a data controller with the UK Information Commissioner’s Office.19.2 Our data protection registration number is ZB265346.20
+Representative within the European Union20.1 You can contact our European Representative by writing to the Founder and CEO of Oxford Media Solutions Limited at:Unit 6, Hanborough Business Park, Long Hanborough, Witney, OX29 8LH
+Or you can send a message via the contact box on our website by clicking here: https://www.videvo.net/a/contact-us/
+About Videvo
+Videvo offers free stock videos and motion graphics for use in any project
+You may use these video clips free of charge, in both personal and commercial productions
+Video clips that carry the Creative Commons 3.0 license must be attributed to the original author.
+If you have any suggestions for the site, or would like to make a request for free stock footage please contact us at: hello@videvo.net and we'll do our best to help.
+Quick Links
+Stock Video
+Browse
+Footage
+Premium
+Motion Graphics
+Affiliates
+Video Templates
+Blog
+Privacy Policy
+Licensing
+Terms and Conditions
+Contact
+API
+Social Media
+For recent updates and news follow our social media feeds
+Site language
+English
+Español
+Deutsch
+Free Footage
+Contact
+Privacy Policy
+Terms & Conditions
+Copyright © 2015-2021, Videvo, All rights reserved.Beacon HelpScout

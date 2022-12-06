@@ -1,0 +1,352 @@
+
+Cookie Policy · Resume.io
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Resume
+Cover Letter
+Resume Writing
+BlogFAQLog InSign UpResume TemplatesView all
+SimpleClean, timeless templates with a classic balanced structure. A perfect basic canvas
+ProfessionalJob-winning templates to showcase professionalism, dependability and expertise
+ModernA current and stylish feel for forward-thinking candidates in innovative fields
+CreativeA bold, original feel perfect for artistic fields and contemporary companiesResume ExamplesNurseCustomer Service RepresentativeInternshipTeacherAccountantAll Examples
+Resume BuilderBuild powerful resumes in only 5 minutes with our easy to use Resume Builder and get hired faster.Get Started Now
+Cover Letter TemplatesView all
+SimpleClean, straightforward templates aiming to keep the focus on your letter’s writing and content
+ProfessionalPolished designs to help you highlight your knowledge and expertise in formal fields
+ModernSleek and attractive designs for forward-thinking candidates in innovative fields
+CreativeStylish templates defined by a unique approach to show off your originality and inspirationCover Letter ExamplesNursingTeacherAdministrative AssistantCustomer Service RepresentativeInternshipAll Examples
+Cover Letter BuilderBuild professional cover letters in a few simple steps by using our free Cover Letter builder.Get Started Now
+Resume WritingHow to write a resume
+A complete guide with step by step expert tips. Writing your job-winning resume has never been this easy!Resume formatsChronological resumeFunctional resumeSummary, objectiveEmployment historySkillsEducationHobbiesReferencesLanguagesProofreadingInternational resumesRead full guideGet started nowMake your job-winning resume easy and fast with our top resume builder.Create my resume
+ResumeResume TemplatesResume ExamplesResume BuilderResume WritingCover LetterCover Letter TemplatesCover Letter ExamplesCover Letter BuilderCover Letter WritingCreate My Resume
+Log In
+About UsFAQBlogAffiliatesContact UsCopyright 2022 - Resume.ioLegal DocumentsAll documents were updatedon July 20, 2022Terms of ServicePrivacy PolicyCookie PolicyRight of Withdrawal
+
+
+Terms of ServicePrivacy PolicyCookie PolicyRight of WithdrawalCookie Policy
+Last Updated: July 20, 2022
+Thank you for choosing to be part of our community. We are committed to protecting your personal data and respecting your privacy rights. This cookie policy (“Policy”) explains how personal data are collected through cookies and how cookies are used by Talent, Inc. and its subsidiaries and affiliates (collectively, “Company“, “we”, “us”, or “our”) when you access or use the resume.io site or related mobile application (the “Site”).
+Cookies are small text files that are left on your browser when you visit our Site (“Cookies”). Your browser saves Cookies on your device’s hard drive. Some of these Cookies are necessary for the Site to function, others help us improve the Site and make it more user friendly. The information saved with the aid of Cookies can be sent back to our servers when you visit our Site again. There are:
+First-Party Cookies: these are Cookies which we place on our Site ourselves and which are only used by us.
+Third-Party Cookies: Cookies that are placed on our Site by third parties. Examples of third parties are advertising partners or security providers.
+Certain Cookies may collect or be associated with personal data. Personal data is any information relating to an identified or identifiable natural person. You can find more information about the purposes for which we process your personal data in our Privacy Policy.
+If you have any questions or concerns about our collection or use of your information or the use of Cookies, please contact us at privacy@resume.io.
+A.	Which cookies do we use
+We select our Cookies carefully. We work with third parties to collect data through Cookies, but we are neither responsible nor liable for the processing of personal data by these third parties, and can therefore not guarantee that these third parties will handle your personal data in a reliable and secure manner. You should always read the privacy and Cookie policies of other websites or tools before using them. If you want to know more about Cookies in general, please refer to the website all about Cookies.
+In addition to Cookies, we also use tracking and other technologies that can be very similar. Our Site may contain small transparent image files or codes that record information about you. These are, for example, ‘scripts’, ‘web beacons’ or ‘tracking URLs’. These technologies are also referred to as Cookies.
+Below we explain, among other things, which types of Cookies we use and for what purposes.
+1.	Essential Cookies
+These Cookies are essential for our Site’s core activity and are automatically activated when you use the Site. These Cookies are for example used to remember your account details, your selected language settings and your previous searches, so that you can use our Site efficiently and effectively. These Cookies also include the enabling of essential security and accessibility features so that you can safely use our Site. We also save your permission settings in a Cookie to remember these for future visits.
+We may use these essential Cookies without your consent. As these Cookies are necessary, you cannot opt out of this category. However, the Cookies will never be used for any purpose other than ensuring the functionality of our Site.
+We use the following specific essential Cookies:
+
+
+
+
+Cookie
+Domain
+Type
+Expiration
+Description
+
+
+
+
+__cfduid
+
+.resume.io
+First-party
+1 month
+Cookie associated with sites using CloudFlare, used to speed up page load times. According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information.
+
+
+
+Vanity_id
+
+.resume.io
+First-party
+17 years
+This Cookie allows to enable latest product features.
+
+
+_session_id
+
+.resume.io
+First-party
+6 months
+This Cookie creates an interim session ID used as an in-session user ID.
+
+
+Referral_id
+
+.resume.io
+First-party
+Session
+Used for affiliates.
+
+
+RC Cookie
+
+.resume.io
+First-party
+Session
+To differentiate between humans and robots, offered by Google.
+
+
+
+
+2.	Analytical cookies
+These Cookies help improve the performance of the Site and provide a better user experience. This enables us to offer you a high quality experience by adapting our Site and content and identifying and resolving problems quickly. For example, we use performance Cookies to monitor which pages are most popular, which method of navigation between pages is the most effective, and to ascertain why some pages receive error notifications.
+We also use Google Analytics. When enabled, Google Analytics will collect visitation information and associate it with Google information from accounts of signed-in users who have consented to this association for the purpose of analytics and personalization. This Google information may include end user location, search history, YouTube history, and data from sites that partner with Google, and is used to provide aggregated and anonymized insights into your users’ cross device behaviors. We therefore see global statistics and anonymised data.
+You can read more about Google Analytics here and also opt out of Google Analytics at any time here. Should anything change with regard to the rules on the use of Google Analytics, we will of course adjust our use accordingly. You can also refuse these Cookies by changing your browser settings. Please refer to the section “HOW CAN I CONTROL COOKIES?”.
+We use the following specific analytical Cookies:
+
+
+
+
+Cookie
+Domain
+Type
+Expiration
+Description
+
+
+
+
+__ga
+
+.resume.io
+First-party
+2 years
+This Cookie name is associated with Google Universal Analytics. This Cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier.
+
+__gid
+
+.resume.io
+First-party
+1 day
+This Cookie name is associated with Google Universal Analytics..
+
+
+_gat_UA-52581310-5
+
+.resume.io
+First-party
+1 minute
+This Cookie is used by Google Analytics to filter requests from bots.
+
+
+PLAY_SESSION
+
+help.resume.io
+First-party
+1 Year
+This Cookie creates an interim session ID used as an in-session user ID for a help center..
+
+
+headway_session
+
+updates.resume.io
+First-party
+Session
+This Cookie creates an interim session ID used as an in-session user ID for a changelog page.
+
+
+persist:hs-beacon-*
+
+resume.io
+First-party
+Session
+These Helpscout Cookies improve the support system by seeing what questions you have already viewed.
+
+
+
+
+3. Marketing and tracking cookies
+We collaborate with third parties to display advertisements on our Site or to manage advertisements on other sites. Those third parties can use technologies such as Cookies to collect information about your activities on this Site and other sites in order to offer you advertising based on your browsing activities and interests. You can refuse these Cookies by changing your browser settings. We refer to the section “HOW CAN I CONTROL COOKIES?”.
+For example, Google may not share your information with other advertisers. If required, they may share this information to comply with applicable laws, regulations, legal process or governmental requests.
+We use the following specific marketing and tracking Cookies:
+
+
+</tr>
+
+</tr>
+
+</tr>
+
+</tr>
+
+</tr>
+
+</tr>
+
+
+
+Cookie
+Domain
+Type
+Expiration
+Description
+
+
+
+
+_gcl_au
+
+.resume.io
+First-party
+3 months
+Used by Google AdSense for experimenting with advertisement efficiency across websites using their services, to show relevant advertisements, to convert visitors to customers, and to measure the efficiency of advertisements on websites. Google Ads enhanced conversions allow us to measure online conversions driven by Google ads using the first-party data (e.g. purchase, lead). With these enhanced conversions, your email address is shared with Google, which is your unique advertisement ID. With this unique ID, Google is given the possibility to recognise you as a user and therefore to show you more or fewer ads. The email address is stored at Google in hashed form. We only see your unique advertisement ID that Google uses to show you relevant advertisements.
+
+
+_lfa
+
+.resume.io
+First-party
+2 years
+This Cookie is used to store and track audience reach by Leadfeeder
+
+
+IDE
+
+.doubleclick.net
+Third-party
+1 year
+This Cookie carries out information about how the end user uses the Site and any advertising that the end user may have seen before visiting the said website. Also to measure the efficiency of our advertisements. We only see your unique advertisement ID that Google uses to show you relevant advertisements..
+
+
+test_cookie
+
+help.resume.io
+First-party
+1 day
+The ‘test_cookie’ Cookie is used to see whether your browser supports Cookies..
+
+
+MUID
+
+.bing.com
+Third-party
+1 year
+This Cookie is widely used my Microsoft as a unique user identifier. It can be set by embedded Microsoft scripts. Widely believed to sync across many different Microsoft domains, allowing user tracking. We only see your unique advertisement ID that Microsoft uses to track you.
+
+
+_uetsid
+
+resume.io
+First-party
+1 day
+This Cookie is used by Bing to determine what ads should be shown that may be relevant to the end user perusing the site.
+
+__uetvid
+
+resume.io
+First-party
+2 weeks
+This is a Cookie utilised by Microsoft Bing Ads and is a tracking Cookie. It allows us to engage with a user that has previously visited our Site.
+
+NID
+
+Google.com
+Third-party
+6 months
+This Cookie is set by DoubleClick (which is owned by Google) to help build a profile of your interests and show you relevant ads on other sites, to show relevant advertisements and measure the efficiency of our advertisements. We only see your unique advertisement ID that Google uses to show you relevant advertisement: ads/ga-audiences and pagead/1p-user-list/# are also the tracking pixels.
+
+_fbp
+
+resume.io
+First-party
+3 months
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+
+fr
+
+Facebook.com
+Third-party
+3 months
+Contains browser and user unique ID combinaton, used for targeted advertising.
+
+tr
+
+resume.io
+First-party
+3 months
+we process your online (Cookie) identification number, IP address and the date you visited our Site. The Cookie is placed via Google Tag Manager.
+
+
+
+A.	Social media buttons
+Our Site may contain buttons, widgets, tools or content that link to services from other companies (for example, Facebook ‘like’ or ‘share’ buttons). We may collect information about your use of these functions. In addition, when you see or use these buttons, tools or content, or if you view a web page that contains these, certain information from your browser can be sent to the other company automatically. Read that company’s privacy policy for more information.
+B.	How can I control cookies
+If you want to accept or decline certain categories of Cookies, you can do that via our Cookie banner on our Site. This tool is automatically loaded when you visit the Site for the first time. We give you the option of accepting or declining certain Cookies, with the exception of essential Cookies.
+In addition, you can also change your web browser settings to decline Cookies. In that case, our Site may no longer function properly. More information on how to enable, disable and delete Cookies can be found in the instructions for your internet browser. We always recommend that you check whether your internet browser is up to date. For this purpose, you can use the help and support button of your internet browser. The following links explain how to access the Cookie settings in different browsers:
+• Cookie settings in Firefox
+• Cookie settings in Internet Explorer
+• Cookie settings in Google Chrome
+• Cookie settings in Safari (OS X)
+• Cookie settings in Safari (iOS)
+• Cookie settings in Android
+If we process personal data through our Cookies, we can also delete or anonymise your personal data on request, unless we are subject to a statutory retention obligation. For more information on your rights in respect of your personal data and how to exercise these rights, on the security measures we have taken and on any potential data transfers, please refer to our Privacy Policy.
+You can submit requests for the exercise of your rights to us at privacy@resume.io.
+C.	Do we make updates to this policy?
+We may update this Policy from time to time. The updated version will be indicated by the “Last Updated” date and the updated version will be effective as soon as it is accessible. We encourage you to review the posted Policy frequently to stay informed about how your information is being used.
+D.	How can you contact us about this policy?
+If you have questions or comments about this Policy, you may contact our Data Protection Officer (DPO) by email at privacy@resume.io.
+
+Icons/ Default/ Pin
+Created with Sketch.
+
+
+
+
+
+Resume.io // Imkey BV
+van Coothplein 39a
+4811 ND Breda, Netherlands
+CoC: 60887737
+VAT: NL854104379B01Cookie Policy was last updated on July 20, 2022Connect with us
+ on social media
+Job seekers
+
+
+Create a CVCV ExamplesCV TemplatesCover Letter TemplatesJob SearchCareer Resources
+
+
+Resume HelpJob InterviewCareerCover LetterBlogOur company
+
+
+About UsPricingProduct UpdatesSponsorship ProgramMedia KitAffiliatesSupport
+
+
+FAQContact UsTerms of ServicePrivacyRight of WithdrawalInternationalCopyright 2022 - Resume.ioThis website uses cookies to improve user experience and perform analytics and marketing. By using our website, you consent to all cookies in accordance with our Cookie Policy and Privacy Policy.Accept Cookies
+
+
+Select your countryNederlandEspañaČeskoSuomiUnited KingdomJapanDanmarkInternationalFranceBrasilItaliaSverigeNorgePolskaGermany

@@ -1,0 +1,701 @@
+Data Privacy Statement  | Schneider Electric USA
+Skip To Main Content
+USA
+Our Brands
+Item count in cart is
+0
+My Products
+Item count in cart is
+0
+My Documents
+Login/Register opens in new window
+User name
+Logout
+Our Brands
+0
+item count of documents is
+Products
+Solutions
+Services
+Support
+About Us
+USA
+Our Brands
+Item count in cart is
+0
+My Products
+My Documents
+Login/Register opens in new window
+User name
+Logout
+Schneider Electric USA Website
+Welcome to our website.
+Stay on this website
+Select your location
+Learn more
+About us
+Privacy Policy
+Privacy Policy
+Scroll Down
+Privacy Policy
+Terms of use
+Schneider Electric Data Privacy Policy
+1
+Changes to this Privacy Policy
+Schneider Electric may modify this Privacy Policy as needed
+This new Privacy Policy has evolved since its last update of 13 May 2013.
+Schneider Electric reserves the right to modify this Privacy Policy as needed, for example to comply with evolutions in laws, regulations, Schneider Electric practices and procedures, or requests by supervisory authorities.
+In this case, Schneider Electric will inform impacted individuals of material changes in this Privacy Policy
+Schneider Electric will post new versions on relevant internal and external websites and digital platforms.
+The main changes and reasons for changes between the current version of this Privacy Policy and the previous version are the following:
+- Consistent wording across Schneider Electric digital platforms and increased transparency on data processing and protection practices;
+- Changes to address new regulatory requirements resulting from the CCPA (California Consumer Privacy Act);
+- Specifying in our Cookie Notice examples of cookies and similar technologies we use.
+2
+Why this Privacy Policy?
+Schneider Electric is committed to protecting your privacy and personal information
+This Privacy Policy informs you of our privacy practices and of how personal information is protected
+You should read it before accessing Schneider Electric digital content.
+Schneider Electric strongly supports the fundamental rights to privacy and data protection as well as compliance with national and international privacy laws.
+This Privacy Policy describes how Schneider Electric processes and protects personal information of individuals who use our websites and other digital platforms as well as in the context of our offline business activities.
+Schneider Electric has adopted an internal Global Data Privacy Policy which is applicable to all our subsidiaries for the collection, processing, use, dissemination, transfer and storage of personal information
+It imposes common rules for all of our subsidiaries of all countries, and aims at ensuring a high level of protection of personal information within Schneider Electric.
+Schneider Electric has also established this Privacy Policy as an external publication of our Binding Corporate Rules (“BCR”), approved by data protection supervisory authorities of the European Union in November 2012 for the processing of personal information from the EEA as a data controller
+In the Schneider Electric’s Binding Corporate Rules, we respect and take into account the major principles of EU data protection rules as one of our Head Offices is located in the European Union.
+3
+What is the scope of this Privacy Policy? Who is in charge of data processing?
+This Privacy Policy applies to all Schneider Electric subsidiaries and digital content, unless a specific privacy notice has been released to supplement it or to replace it
+You should check the privacy notices made available to you on each digital platform such as websites or applications.
+Schneider Electric is a global company, with legal entities, business processes, management organizations, and system infrastructure that cross borders
+This Privacy Policy applies to all Schneider Electric data processing activities run by our controlled subsidiaries, including product and service offerings and digital content (e.g
+event registrations, websites, applications, tutorials, e-trainings, newsletters, advertising, and other communication)
+It may however be supplemented by a more specific privacy notice/statement/policy or even superseded by another policy, specific to a particular Schneider Electric program, product, service, content or entity
+It is important that you read the statements made available to you for your full information
+For instance, the processing of job candidate applications is governed by the privacy notice posted on our Career Portal.
+The data controllers of the data processing activities are the Schneider Electric subsidiaries who have determined the data processing means and purposes
+They may vary on a case-by-case basis
+For information you can contact us at Global-Data-PrivacyATschneider-electric.com [Replace in the address AT by @]
+This Privacy Policy binds all Schneider Electric controlled subsidiaries, and their employees.
+Any order made by you online is also subject to the terms and conditions provided on the relevant sites
+You must read them.
+4
+Why do we collect and use personal information?
+We use personal information for various purposes, including to fulfill orders and requests, to manage customer and prospect relationships, conduct surveys, improve our products, services, digital content as well as user journeys, manage user accounts and programs, analyze activities on our digital platforms, run marketing activities, provide user with contextual and relevant information, ensure the security of our activities, protect against fraud, and, more generally, run our business activities.
+Our primary goal in collecting information is to provide you with superior service and a smooth, efficient and personalized experience while using our digital content.
+Schneider Electric collects personal information for the following purposes:
+- To fulfill orders of product, services and digital content
+We collect this information to deliver your order, to obtain payment, to provide the functionalities of our applications, to communicate with you about the status of your order and for contract management purposes;
+- To better address future requests for information and support
+We keep record of exchanges including personal information to provide an optimized service on contacting us for support;
+- For relationship management purposes which includes communicating about the products, services and digital content including email communications and messaging;
+- To conduct surveys and polls
+We may collect personal information to complete surveys and contact you for follow-up
+We use this information to measure satisfaction, get to know our customers better and improve products, services and digital content;
+- To improve our products, services and digital content
+for instance, we analyze the use of our applications and websites in order to identify areas and functionalities where users have difficulties, and we improve them;
+- To learn about your browsing and searching activity
+We collect navigation information when you visit our digital content or click on links for products and services
+We collect this information to improve user experience for next visits (e.g., country selection or profile-focused content), help our websites run more efficiently, to gather broad demographic information to analyze the websites’ activity and performance, and to evaluate the relevance and effectiveness of our advertising to better serve our customers
+We may use cookies and other identifiers or similar technologies (referred to hereinafter as "Cookies") to obtain information on the referring website, type of browser used, the content viewed, as well as the date and time of access to the digital content
+You may read our Cookie Notice for more information on our use of Cookies and your options for managing Cookies;
+- To manage user digital accounts
+We collect personal information at registration on our digital platforms (e.g
+partner portal, ordering platform, mobile apps) to authenticate you, manage credentials to enable you to navigate through several digital platforms without having to re-authenticate (cf
+single sign-on) and to interact with you;
+- To run promotional programs and activities: we collect personal information when you join a promotional or reward program or activity
+We use this information to administer the program or activity, to send relevant e-mails about the program and activity, notify winners, and make the winners' list publicly available in accordance with applicable regulations and laws;
+- To send you marketing information by mail, fax, phone, text messages, email and electronic communications about promotions, news and new products or services that we think may be of interest to you in compliance with applicable opt-in and opt-out requirements
+This can be conducted by Schneider Electric, its subsidiaries or selected third-parties acting on our behalf;
+- To provide you with certain communications and/or targeted information about our products and services (or of our subsidiaries) through pop-ups, banners, videos, emails and any other advertising format
+For instance, we may provide you with contextual advertising or other content, based on browsing information
+We may also use location data to inform you about local promotions and activities
+Please read our Cookie Notice for more information on the use of Cookies and your options for managing them;
+- To combine information obtained online from different digital platforms and the information we collected about you offline to create a profile of you that we may use for giving you personalized services
+For example, a user that we believe is an electrician (due notably to information provided at the time of registration and other information obtained from third-party sources), may see profile related advertising and/or on third-party websites and apps that a user with another energy-related specialty would not see
+Similarly, users may see different content or receive different emails containing different advertisements or surveys
+We may also use Cookies to geographically target users;
+- To ensure the security of our products, services and digital content, of our activities and of others, for the protection against fraud and the compliance with our terms and conditions and this Privacy Policy
+We may also investigate potential breaches;
+- To enable or administer our business, such as for quality control and consolidated reporting;
+- To support corporate transactions or reorganizations in which Schneider Electric is involved;
+- For business continuity and disaster recovery;
+- To comply with legal obligations to which we are subject
+For example, accounting and tax obligations;
+- Any other purpose otherwise conveyed to you.
+5
+What type of personal information do we process?
+Schneider Electric processes various types of personal information including identity and contact related information, professional related information, information about preferences, interactions with us, financial related information, online traffic data and the content you provide to us
+In most instances this information is obtained from customers, partners and users
+We also purchase lists from marketing agencies and obtain information from our partners, through Cookies and social networks.
+Personal information (also called personal data) is any information relating to an identified or identifiable individual
+An identifiable individual is one who can be identified, directly or indirectly, in particular by reference to an identifier or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity.
+The types of personal information we process about you may include:
+- Identity and contact related information, such as name, company, email address, phone number, photo, age range, contact addresses;
+- Professional information, such as customer type, purchasing authority, purchasing timeframe
+acquisition and use of Schneider Electric products, services and digital content;
+- Information (e.g
+energy consumption) which is specific to the digital platform you use;
+- Your preferences such as product and service preferences, contact preferences, marketing preferences;
+- Your interactions with us such as queries, orders, claims, survey answers;
+- Financial-related information such as bank account details, credit card information;
+- Online traffic data such as IP address, device and system identifiers, your Schneider Electric user ID and password, referring website, type of browser used, consulted content, and location, based either on your IP address or on information transmitted by your mobile device;
+- Content that you have provided via online forums or otherwise (see section 6 “Your content” below).
+This Privacy Policy does not cover personal information rendered anonymous, that is if individuals are no longer identifiable or are identifiable only with a disproportionately large expense in time, cost, or labor
+If anonymized data becomes identifiable, then this Privacy Policy shall apply.
+In most instances we collect personal information directly from users who have a business relationship with us
+We may also obtain information through a reseller or a business partner, by purchasing customer lists from marketing agencies, from your online browsing experience, from social networks when you connect with these network’s credentials and through Cookies.
+6
+Your content
+You may choose to contribute content, including photos or comments, to online forums, applications or other digital platforms operated by Schneider Electric
+Your content must be harmless
+It must respect the law, the rights and interests of others
+You need to have obtained consent before sharing someone else’s data
+You should apply caution before sharing information in a forum.
+The content provided to us must respect the rights and interests of others, including their rights to protection of personal information and privacy
+It should not be offensive, disrespectful or be harmful in any way.
+Any provision of personal information to Schneider Electric about another individual must be compliant with privacy laws, including with notice and consent requirements for the disclosure of that information.
+While Schneider Electric strives to protect your personal information, providing it online on shared forums is not risk-free
+If you post, comment, indicate interest, or share personal information, including photographs, to any forum, social network or blog, please be aware that any personal information you submit can be read, viewed, collected, or used by other users of these forums, and could be used to contact you, send you unsolicited messages, or for purposes that neither you nor Schneider Electric have control over
+Schneider Electric is not responsible for the personal information you choose to submit in these forums
+You should apply caution before deciding to share information about yourself or another person.
+7
+Who do we share personal information with?
+We share personal information with the Schneider Electric subsidiaries and the service providers involved in our activities, with advertising and marketing agencies, with social networks if you use their login credentials, with third-party websites if you register with Schneider Electric credentials, competent regulatory bodies and authorities and business successors.
+Schneider Electric is a global group of companies which works as one
+To provide the best service to customers, prospects and users, personal data may be shared amongst personnel working for different entities
+It may be the case, for example, for customer relationship management, sales or product support, marketing, product development purposes, improvement of the products, services and digital content, data quality checks, or security, finance, regulatory and compliance purposes.
+We resort to service providers to carry out data processing activities and to provide our products, services and online content to you
+These service providers include, without limitation, providers of hosting facilities, information systems, advertising and marketing agencies, IT support, security services, financial services, carriers who deliver products, outside accounting firms, lawyers and auditors.
+We ensure all service providers working under contract for Schneider Electric are compliant with data privacy laws and aligned with Schneider Electric guidelines.
+We also share the information as follows:
+- In connection with the provision of advertising, we may share some limited personal information (e.g
+device identifiers, Cookie identifiers) with ad exchanges or agencies that manage advertising on third-party websites and apps on which you may see advertising.
+- You may access our digital content and/or register through login credentials of third-party websites (such as Facebook and LinkedIn)
+If you do so, we will be able to access some of the information you registered on these social networks, to assist you to pre-fill the registration form for Schneider Electric digital content
+By using the login credentials of these third-party websites, you may at the same time inform your contacts on these sites that you have created an account with Schneider Electric
+If you want to know more about the information accessible by your contacts on these sites and how to restrict their communication, we encourage you to read their terms of use and privacy policies.
+- Schneider Electric may disclose your personal information as necessary to potential buyers and successors in title, to facilitate a merger, consolidation, transfer of control or other corporate reorganization in which Schneider Electric participates.
+- Where required by law or court orders or to protect our legal rights, we will disclose your personal information to government agencies, regulators and competent authorities.
+- In other ways described in this Privacy Policy or to which you have otherwise consented.
+- Aggregated with other information, in such a way that your identity cannot reasonably be determined (for example, statistical compilations).
+We will not sell or rent your personal information to a third party without your permission.
+8
+How do we protect personal information?
+Schneider Electric complies with widely recognized key data protection principles (fairness, purpose limitation, data quality, data retention, compliance with individuals’ rights, security) and takes reasonable measures for the security of personal information.
+Schneider Electric respects the privacy rights and interests of individuals
+Schneider Electric and its subsidiaries observe the following principles when processing personal information:
+1
+Processing personal information fairly and lawfully;
+2
+Collecting personal information for specified, legitimate purposes and not processing it further in ways incompatible with those purposes;
+3
+Collecting personal information which is relevant to and not excessive for the purposes for which it is collected and used
+We may render information anonymous when feasible and appropriate, depending on the nature of the data and the risks associated with the intended uses;
+4
+Maintaining accurate personal information, and where necessary, kept up-to-date
+We will take reasonable steps to rectify or delete information that is inaccurate or incomplete;
+5
+Keeping personal information only as long as it is necessary for the purposes for which it was collected and processed;
+6
+Processing personal information in accordance with individuals’ legal rights;
+7
+Taking appropriate technical, physical, and organizational measures to prevent unauthorized access, unlawful processing, and unauthorized or accidental loss, destruction, or damage to personal information;
+8
+When processing sensitive personal information, ensuring appropriate notice and consent or that the processing otherwise complies with applicable law;
+Schneider Electric and all its subsidiaries must ensure that the above principles are complied with.
+Schneider Electric and its subsidiaries are committed to taking commercially reasonable technical, physical, and organizational measures to protect personal information against unauthorized access, unlawful processing, accidental loss or damage, and unauthorized destruction
+We offer the use of secure servers to enable you to place orders or to access your account information
+We implement access control measures for our internal systems that hold personal information
+Authorized users are given access to such systems through the use of a unique identifier and password
+Access to personal information is provided to our staff for the sole purpose of performing their job duties
+We sensitize our employees on proper use and handling of personal information
+We also require our service providers to maintain compliant security measures
+We implement security measures to determine the identity of registered users, so that appropriate rights and restrictions can be enforced for these users
+In case of a registered user, we use both log ins and passwords for authentication
+You are responsible for maintaining the security of your log-in credentials.
+By using our digital content or providing personal information to us, you agree that we may communicate with you electronically or otherwise about related security, privacy, use and administrative activities.
+In spite of our efforts to implement appropriate security measures, online browsing carries inherent risks and we cannot guarantee that it is risk-free.
+9
+Third-party websites and social media
+You should read the privacy policy of third-party websites and social media and adjust privacy settings as you see fit
+Non-Schneider Electric websites and platforms are not covered by this Privacy Policy.
+Schneider Electric digital platforms may provide links to third-party applications, products, services, or websites for the user convenience and information
+If you access those links, you will leave the Schneider Electric digital platform
+Schneider Electric does not control those third-party sites or their privacy practices, which may differ from Schneider Electric’s practices
+We do not endorse or make any representations about third-party sites
+The personal information you choose to provide or that is collected by, these third parties are not covered by the Schneider Electric Privacy Policy
+We encourage you to review the privacy policy of any site you interact with, before allowing the collection and use of your personal information.
+We also provide social media links that enable you to share information with your social networks and to interact with Schneider Electric on various social media sites
+The use of these links may result in the collection or sharing of information about you
+We encourage you to review the privacy policies and the privacy settings of the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites and to adjust these settings as you see fit.
+10
+What are your rights?
+Schneider Electric will comply with your data protection rights, including your rights to request access to your personal information and to request that it be deleted or amended
+You can always opt out of any direct marketing activity performed by Schneider Electric.
+Schneider Electric will comply with your data protection rights, including your rights to access and correct your personal information
+You may inquire about the nature of the personal information stored or processed about you by any Schneider Electric entity
+You will be provided access to your personal information, regardless of the location of the data processing and storage.
+You can request access to your personal information and request that it be deleted or amended at any time.
+Individual Rights Requests can be sent to: Global-Data-PrivacyATschneider-electric.com [Replace in the address AT by @].
+You always have the right to opt out of our marketing communications
+Your prior consent is sought, when required by any applicable law
+To opt out of marketing emails, simply use the functionality provided at the bottom of any email we send.
+Country-specific sections may supplement this section.
+11
+Important information for California residents
+Schneider Electric in the USA is providing this supplemental privacy notice to give California residents the additional information required by the California Consumer Privacy Act (the “CCPA”).
+At Schneider Electric, we are committed to protecting the privacy and security of all the personal information that is entrusted to us
+We have a Global Privacy Program, based on Binding Corporate Rules, to demonstrate our strong support for the fundamental rights to privacy and data protection
+We are also committed to complying with the privacy laws in all the countries where we operate
+The Schneider Electric Privacy Policy describes our privacy and security practices.
+Schneider Electric is primarily focused on serving business and professional customers
+We do collect a limited amount of consumer data from individuals who provide it to us via our online forms or by otherwise interacting with our websites or apps
+We also receive consumer data in connection with our smart home products
+This supplemental privacy notice explains how we comply with the CCPA for this information.
+11.1 CCPA Rights
+The CCPA provides California residents with specific privacy rights, including the right to receive a privacy notice, the right to know what information we have collected about you during the past 12 months, and the right to know what categories of personal information we have shared with third parties
+CCPA gives California residents the right to opt-out of having their personal information sold1
+CCPA also gives California residents the right to request deletion of their personal information.
+For information that Schneider Electric collects subject to the CCPA, this notice describes the categories of information that we collect from California residents generally, the purposes for which we use the information, and the categories of third parties to whom we disclose the information for business purposes
+We may collect and share other categories of information with your consent.
+Schneider Electric does not sell personal information
+As described below, we may share personal information with our Affiliates2 and service providers
+We may also disclose personal information to third parties for business purposes as permitted by CCPA, such as to our auditors, for compliance or security, or in connection with mergers and acquisitions.
+We may also share personal information with third parties based on your consent, such as if you request a referral to a distributor or installer, enroll in a co-branded marketing program or if you accept our use of third-party advertising cookies, as described in our Cookie Notice.
+11.2 How to Exercise Your Rights
+If you are a California resident, you may exercise your rights or authorize another person to act on your behalf by:
+• Calling Schneider Electric at 800-789-3508
+• Emailing us: Global-Data-Privacy@schneider-electric.com
+Please note that we will need to verify your identity before we can fulfill your request
+Because the information that we maintain subject to CCPA generally consists of marketing information, we will generally verify your identity using your email address
+We will respond to requests using the email address that is associated with the information we maintain.
+If you would like to designate an agent, please send an email from your own email address to Global-Data-Privacy@schneider-electric.com indicating the name and email address of your agent
+We will respond to that person’s requests using both your email address and the agent’s email address.
+Please understand that your rights are subject to some limitations
+If you request that we delete your personal information, we will do so except in those situations where our retention is required for our internal business purposes, to finalize the ongoing business operations we have we you, to log your request or otherwise permitted by CCPA (such as for fraud prevention or legal compliance)
+In these situations, we will retain your information in accordance with our records retention program and securely delete it at the end of the retention period.
+Additionally, please note that many companies sell and install Schneider Electric products
+We do not operate these companies, and we do not have any access to their databases
+If you have registered with or purchased Schneider Electric products from another company, please contact that company directly to exercise your CCPA rights.
+11.3 Financial Incentives
+Schneider Electric collects personal information in order to deliver offers and promotions and to enable loyalty programs
+While we cannot calculate the precise value of your information to us, our offers and incentives generally reflect the value of the relationships that we have with the individuals who participate in the program.
+We will not discriminate against you if you exercise your rights under CCPA
+However, if you ask us to delete your information, you will not be able to receive additional offers or promotions
+Any offers or promotions sent to you previously will continue to be honored according to their original terms.
+11.4 CCPA Right to Know Disclosures
+Category of Personal Information and Representative Data Elements
+Purpose for Collecting and Sharing the PI
+Categories of Third Parties to whom this type of Personal Information is Disclosed for a Business Purpose
+Contact Information: Name
+Username
+Mailing address
+Email address
+Telephone number
+Mobile number
+We use this type of information to identify you and communicate with you, including: To send transactional messages (such as confirmations)
+To send marketing communications, surveys, and invitation
+To personalize our communications and provide customer service, For our Everyday Business Purposes³
+We may disclose this type of information to our Affiliates and to Service Providers, including to social media companies that use the data only to identify which of our customers use their platforms so that we can deliver ads to you on the platform
+Third parties who deliver our communications, such as the postal service and couriers
+Third parties who assist us with address hygiene and fulfillment
+Other third parties as required by law
+Relationship Information: Personal characteristics and preferences, such as your age range, marital and family status
+Loyalty and rewards program data
+Household demographic data, including census data
+Data from social media profiles
+Hobbies and interests
+We use this type of information: To better understand you and to understand our customers generally
+For product and service development and improvement
+To identify prospective customers
+For internal business purposes, such as quality control, training and analytics
+For our Everyday Business Purposes
+We may disclose this type of information to our Affiliates and Service Providers and to: Third parties with whom we have joint marketing and similar arrangements
+Our lawyers, auditors and consultants
+Other third parties as required by law
+Transaction and Interaction Information: Account information and related records
+Records related to use of our websites and apps
+Authentication data (passwords, account security questions)
+Customer service records
+Visitor logs
+We use this type of information: To fulfill our business relationship with you, including customer service
+For recordkeeping and compliance, including dispute resolution
+For internal business purposes, such as finance, quality control, training, reporting and analytics
+For risk management, fraud prevention and similar purposes
+For our Everyday Business Purposes
+We may disclose this type of information to our Affiliates and Service Providers and to: Third parties with whom we have joint marketing and similar arrangements
+Third parties as needed to complete the transaction, including delivery companies, agents and manufacturers
+Our lawyers, auditors and consultants Customers, in connection with their audits of Schneider Electric Other third parties as required by law
+Inferred and Derived Information: Propensities, attributes and/or scores generated by internal analytics programs
+We combine inferred data with other relationship information and use this type of information: To better understand you and to understand our customers generally
+For product and service development and improvement
+For internal business purposes, such as quality control, training and analytics
+For our Everyday Business Purposes
+We may disclose this type of information to our Affiliates and Service Providers and to: Third parties with whom we have joint marketing arrangements
+Our lawyers, auditors and consultants
+Other third parties as required by law
+Online & Technical Information: IP Address
+Device identifiers and characteristics
+Advertising ID
+Web Server Logs
+First Party Cookies
+Third Party Cookies
+Web beacons, clear gifs, pixel tags
+Server log records
+Activity log records
+We use this type of information: For system administration, technology management, including optimizing our websites and applications
+For information security and cybersecurity purposes, including detecting threats
+For recordkeeping, including logs and records that maintained as part of Transaction Information
+To better understand our customers and prospective customers and to enhance our Relationship Information, including by associating you with different devices and browsers that they may use
+For online targeting and advertising purposes
+For our Everyday Business Purposes
+We may disclose this type of information to our Affiliates and Service Providers including to companies such as Google that use the data collected by cookies and similar means to help us with our online advertising programs, and to: Third parties who assist with our information technology and security programs, including companies such as network security services who retain information on malware threats detected
+Third parties who assist with fraud prevention, detection and mitigation
+Third party network advertising partners
+Our lawyers, auditors and consultants
+Other third parties as required by law
+We also disclose this information with your consent, if you explicitly allow us to place third party advertising cookies
+To learn more and review your cookie settings, please read our Cookie Notice.
+IoT and Sensor data: Commands, usage and other data collected, computed or produced by smart home products (such as home automation, energy management, safety and security, and electrical products) and their associated apps
+Diagnostics data (such as context and description of detected errors)
+Geolocation data
+We use this type of information: To enable product functionality
+For internal business purposes, such product development, security, and quality control
+For relationship purposes, including analytics regarding product usage
+For our Everyday Business Purposes
+We may disclose this type of information to our Affiliates and Service Providers and to: Third parties who assist with our information technology and security programs, including network security services and cybersecurity consortia  •	Third parties who assist with fraud prevention, detection and mitigation
+Third parties as needed to complete the transactions including third parties who provide products and services that you connect with ours
+Third party network advertising partners
+Our lawyers, auditors and consultants
+Other third parties as required by law
+Audio Visual Information: We collect this type of information from: Photographs
+Video images
+CCTV recordings
+Call center recordings and call monitoring records  Voicemails
+We use this type of information: For internal business purposes, such as call recordings used for training, coaching or quality control
+For relationship purposes, such as use of photos and videos for social media purposes
+For premises security purposes and loss prevention
+For our Everyday Business Purposes
+We may disclose this type of information to our Affiliates and Service Providers and to: Third parties who assist with our information technology and security programs, and our loss prevention programs
+Our lawyers, auditors and consultants
+Other third parties as required by law
+Compliance data: We collect this type of information from: Compliance program data, such as records maintained to demonstrate compliance with applicable laws
+Product safety data and other regulatory information
+Records related to consumer preferences, such as your opt-ins and opt-outs of marketing programs
+Records related to CCPA rights requests
+We use this type of information: To comply with and demonstrate compliance with applicable laws
+For legal matters, including litigation and regulatory matters, including for use in connection with civil, criminal, administrative, or arbitral proceedings, or before regulatory or self-regulatory bodies, including service of process, investigations in anticipation of litigation, execution or enforcement of judgments and orders
+For internal business purposes, such as risk management, audit, internal investigations, reporting, and analytics
+For our Everyday Business Purposes
+We may disclose this type of information to our Affiliates and Service Providers and to: Our lawyers, auditors and consultants
+Regulators, customers and other third parties, in connection with their audits of Schneider Electric
+Other third parties (including government agencies, courts and opposing law firms, consultants, process servers and parties to litigation) in connection with legal matters
+1
+Personal information of children under 16 cannot be sold without affirmative consent
+Schneider Electric does not sell children’s information.
+2
+Schneider Electric’s Affiliates are companies that are directly or indirectly controlled by Schneider Electric SE.
+3
+Everyday Business Purposes encompasses the Business Purposes (as defined in the CCPA) and following related purposes for which personal information may used:
+• To provide the information, product or service requested by the individual or as reasonably expected given the context in which with the personal information was collected (such as customer credentialing, providing customer service, personalization and preference management, providing product updates, bug fixes or recalls, and dispute resolution);
+• For identity and credential management, including identity verification and authentication, and system and technology administration;
+• To protect the security and integrity of systems, networks, applications and data, including detecting, analyzing and resolving security threats, and collaborating with cybersecurity centers, consortia and law enforcement about imminent threats;
+• For fraud detection and prevention;
+• For legal and regulatory compliance, including all uses and disclosures of personal information that are required by law or reasonably needed for compliance with company policies and procedures, such as: anti-money laundering programs, security and incident response programs, intellectual property protection programs, and corporate ethics and compliance hotlines;
+• For corporate audit, analysis and reporting;
+• To enforce our contracts and to protect against injury, theft, legal liability, fraud or abuse, and to protect people or property, including physical security programs;
+• To de-identify the data or create aggregated datasets, such as for consolidating reporting, research or analytics;
+• To make back-up copies for business continuity and disaster recovery purposes
+and
+• For corporate governance, including mergers, acquisitions and divestitures.
+Last update : 12/30/2019
+Schneider Electric Cookie Notice
+This notice explains Schneider Electric’s approach to cookies and other similar technologies
+When you visit our websites, use our mobile apps, engage with our online ads or emails, we collect information, using technologies such as cookies, pixel tags (also called web beacons), browser analysis tools, and server logs
+Each of these technologies is explained below.
+What are cookies and similar technologies?
+A cookie is a small piece of information, consisting of alphanumeric text file, that is placed on an internet user’s hard drive or device
+It is generated by a web page server, basically the computer that operates a web site.
+The information a cookie contains is generated by the server and can be used by that server whenever a user visits the site which hosts the online services.
+There are two types of cookies:
+-Session cookies, which allow websites to recognize and link the actions of a user during a browsing session (e.g: cookies used to remember what a user has put in their shopping basket as they browse a site),
+-Persistent cookies, which allow websites to remember users’ preferences and choices (e.g: cookies used to target advertising)
+Similar technologies are technics or tools, using certain characteristics to identify devices so that visits to a website can be analysed
+It includes, for example, HTML5 local storage, local Shared objects, fingerprinting techniques, tracking pixels and plugins.
+For ease of reference, cookies and similar technologies are referred as “Cookies”.
+What are cookies used for?
+Cookies may be used in numerous ways
+They enable us to provide users with certain features and supply us with information about website visits.
+We also make use of cookies to make our sites more user-friendly, to better understand our existing and prospective customers and to enhance our Relationship Information, including associating a user with different devices and browsers that they may use for online targeting and advertising purposes.
+Schneider Electric has categorized the cookies served from our sites into four groups.
+Here are some examples that illustrate the types of cookies/similar technologies used in these categories.
+Cookies:
+Necessary cookies:
+Necessary cookies are required for our website to work properly through our privacy panel
+They are placed on your computer or device when you request a specific action or service, e.g
+when you log in, fill out a form, or set your cookie preferences
+If you set your browser to block or alert you about these cookies, certain parts of our website won’t work
+Deletion of these cookies will disable major sections of our site.
+Most Necessary Cookies come from Schneider Electric domains
+Many are persistent cookies – their active lifetime is measured in months, not seconds
+SE domains issue “first-party” cookies
+that only work on SE domains
+They can include:
+- Cookies generated by a login or registration
+- Cookies issued when you sign up for a newsletter or email
+- Security cookies used to authenticate login
+- Cookies issued to save customer data to a profile
+- The Tag Commander cookie
+This cookie remembers user privacy preferences and weather the user has issued a do-not-track request
+For example:
+- Apex_memberId is a cookie set by Schneider Electric to authenticate login.
+- Country_selected is a cookie that remembers the country site you have chosen.
+Statistical Cookies
+Statistical or analytical cookies, delivered by us and other companies, help us to count the visits on our website and know the sources of traffic
+The data we derive allows us to understand what visitors like most and improve the website.
+In order to provide our visitors with better content, we measure the number of page views, the number of visits, the different actions performed by visitors on our site, the geo-location of our visitors and the number of times visitors return to our site
+If you delete these cookies, your frequency of visits, region, city, pageviews, bounces, site of origin, exit page, etc
+cannot be tracked.
+Most Statistical Cookies come from our analytics platforms
+They track behaviors in our domains and website usage without personally identifying the user
+For example, they include:
+- AT Internet or Xiti cookies which track your actions on Schneider Electric websites
+- Google Analytics
+- ContentSquare
+- DemandBase which captures IP addresses and piggybacks on AT Internet
+- Marketo Munchkin cookie
+- Google re CAPTCHA cookie which uses IP address and cursor movements to screen out bot traffic
+Google Analytics uses “cookies” to help us analyze how users interact with our sites and applications
+The information generated by these cookies is transmitted to and stored by Google on servers in the United States.
+Google acts as a service provider for Schneider Electric with respect to these cookies
+It uses this information on behalf of Schneider Electric for the purpose of evaluating your use of the websites and applications, compiling reports on website activity and providing us other services relating to website activity and internet usage.
+Schneider Electric domains may use Google reCAPTCHA to protect against spam and abuse
+Google reCAPTCHA evaluates a variety of data (e.g
+IP address, the amount of time a website visitor spends on the site or cursor movements initiated by the user) to determine whether information provided by the visitor, such as information entered in contact form, is provided by a human user or by an automated program
+The data tracked during such analyses are forwarded to Google.
+You can prevent the use of Google Analytics by installing Google Analytics Add on in your browser
+For more information on Google Analytics and privacy click here.
+The Marketo Munchkin Cookie can be used to track activity on a website
+For example, visitors who download marketing white papers from our site can be identified and their site navigation activities can be analyzed.
+When on a page, the Munchkin cookie gathers the following information: Page Visits, Link Clicks, IP Address, Referrer, A unique cookie ID number
+For more information on Marketo’s privacy and cookie policy, please visit Marketo privacy policy.
+Customization Cookies
+Customization cookies allow you to configure our website according to your preferences (e.g
+language, region) and enable enhanced functionality
+They are delivered by us or by other companies
+If you do not accept these cookies, we will not be able to save your preferences and some services on our website may not be available
+If you delete them, personal preferences cannot be saved, and the site will forget your preferences.
+Customization Cookies may come from Schneider Electric domains, or our vendors
+These are often session cookies that only store user selections for the duration of a web visit
+Usually, they are used to store non-essential user preferences
+For example, they include:
+DDC_Cart is a cookie set by Schneider Electric to remember if you have saved any documents to the My Documents list.
+Liveagent_ptid is a cookie set by Schneider Electric to remember recent interactions with our Chat utility.
+SELANGCODE is a cookie set by Schneider Electric to remember your language preferences.
+It can also include:
+- Cookies set to remember text size preferences, or pagination preferences
+- Cookies that remember language, saved country preferences, etc.
+- Cookies set to remember form inputs before submission
+- Cookies that remember recently viewed pages
+- Cookies set by commerce connectors to mark location
+- Cookies set by Schneider Electric’s chat bots
+- Cookies set for session preferences, to remember dismissed pop-ups or panels
+- Survey cookies to remember completions or dismissals
+- Session cookies used to remember shopping cart selections
+Marketing Cookies
+Marketing cookies on our website are delivered by other companies and used to identify your interests and display relevant advertising content when you browse outside of our website
+These cookies can enable social media features such as sharing and to simplify registration
+If you do not accept them, you will still see online ads, but they will be less relevant
+If you delete them, you may receive random, non-personalized ads and certain user behaviors will not be tracked.
+Marketing cookies also include cookies that allow you to interact with us and others via social media platforms, such as Facebook or LinkedIn
+We may display interest-based ads to you when you are using platforms and thee platforms allow us to personalize the ads that we display to you
+You can manage these cookies using the Privacy Panel
+Please read the privacy statements provided by your social media platforms to understand how they use your information and to manage your choices with them.
+Marketing Cookies are used to track behavior in response to advertising or serve ads based on user behavior
+They include:
+- Marketo cookies
+- Merkle cookies
+- Facebook cookies
+- DataXu cookies
+- Taboola
+- ChannelSight
+- PriceSpider
+- Amazon cookies
+- DoubleClick cookies
+- Google AdWords Conversion cookies
+- LinkedIn Ad cookies
+- Optimizely cookies for A/B testing
+- Glaze cookies to highlight site content
+Similar technologies:
+Schneider Electric uses similar technologies such as:
+Pixel Tags and Web Beacons
+Pixel tags (also called web beacons) are tiny graphic images and small blocks of code placed on website pages, ads, or in emails that allow us to determine whether you have performed a specific action
+When you access the pages or you open an email, the tag lets us know you have accessed the web page or opened the email
+These tools allow us to measure response to our communications and improve our web pages and promotions.
+Server Logs
+Server logs record activities on our websites
+Other types of logs collect similar information from our applications
+These logs record information about the device you use to access our website, your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located
+Our logs also record the IP address of the device you use to connect to the Internet
+An IP address is a unique identifier that devices require to identify and communicate with each other on the Internet
+We may also collect information about the website you were visiting before you came to and the website you visit after you leave our site.
+How can you control cookies?
+You can manage the non-necessary cookies placed by and for Schneider Electric using our cookie Privacy Panel
+Many of our websites only place marketing cookies if you explicitly accept these cookies by clicking “Accept All Cookies” when you first visit the website
+If you have accepted cookies, you can use this link to adjust your preferences.
+You can also manage cookies and delete cookies using your browser settings
+Browsers such as Chrome, Internet Explorer, Firefox and Safari give you the ability to accept, reject or delete cookies
+Visit the “help center” for your browser to learn more
+Please note that your browser settings are not used to manage certain types of cookies, such as Adobe Flash or Microsoft Silverlight cookies
+To manage Adobe Flash Cookies, visit the Flash Player help page
+To manage Microsoft Silverlight Cookies, visit the Silverlight section of Microsoft’s privacy statement.
+You can also take advantage of industry programs that allow you to control the way companies advertise to you.
+The Network Advertising Initiative (NAI) manages an opt-out program for many third-party advertising companies
+You can opt out of being targeted by NAI members by visiting https://www.networkadvertising.org/consumer/opt_out.asp.
+On some websites, you may see an AdChoices icon, which may appear on certain targeted ads
+You may click on this AdChoices icon to learn more information about the collection and use of your information or to opt-out of such collection in the future
+To learn more about the Digital Advertising Alliance Consumer Choice tool, please visit http://optout.aboutads.info.
+In most cases, the choices you make are linked to your browser
+If you use different browsers or different devices, you will need to set your preferences on each one
+Even if you opt-out, you may still receive ads that are not customized for you.
+Although our websites currently do not have a mechanism to recognize the various web browser Do Not Track signals, we do offer our customers choices to manage their cookie preferences as described in the previous section
+To learn more about browser tracking signals and Do Not Track please visit https://www.allaboutdnt.org.
+Last update : 12/30/2019
+<!-- Start SmartBanner configuration -->
+<meta name="smartbanner:title" content="mySchneider">
+<meta name="smartbanner:author" content="Schneider Electric SA">
+<meta name="smartbanner:price" content="Free">
+<meta name="smartbanner:price-suffix-apple" content=" - On the App Store">
+<meta name="smartbanner:price-suffix-google" content=" - Google Play">
+<meta name="smartbanner:icon-apple" content="//lh3.googleusercontent.com/lAVirntKlp63vbntUZvOkMvZI8fE4rIoA5Lwif9M09VxzFhcWE21sTDYqJqOqIPqg4m4=w300-rw">
+<meta name="smartbanner:icon-google" content="//lh3.googleusercontent.com/lAVirntKlp63vbntUZvOkMvZI8fE4rIoA5Lwif9M09VxzFhcWE21sTDYqJqOqIPqg4m4=w300-rw">
+<meta name="smartbanner:button" content="VIEW">
+<meta name="smartbanner:button-url-apple" content="http://m.onelink.me/e5bff3e5">
+<meta name="smartbanner:button-url-google" content="https://app.appsflyer.com/com.schneider.qrcode.tocase?pid=Web&c=Smart_app_bannerUS">
+<meta name="smartbanner:enabled-platforms" content="android">
+<!-- End SmartBanner configuration -->
+Ooooooops! EROOR! Internal error occurred!
+java.io.FileNotFoundException: /app/tomcat/se/Corp-se/apache-tomcat-9.0.37/webapps/ROOT/WEB-INF/Views/SE_v2/HBS/ApplicationSocialMediaShareVertical/template.page.hbs
+AbstractEntityModel(id=18864-101513, xpmPropertyMetadata={})
+Need help?
+Start here!
+Find answers now
+Search for a solution on your own, or connect with one of our experts.
+Contact Support
+Reach out to our customer care team to receive more information, technical support, assistance with complaints and more.
+Where to buy?
+Easily find the nearest Schneider Electric distributor in your location.
+Search FAQs
+Search topic-related frequently asked questions to find answers you need.
+Contact Sales
+Start your sales inquiry online and an expert will connect with you.
+Ooooooops! EROOR! Internal error occurred!
+java.io.FileNotFoundException: /app/tomcat/se/Corp-se/apache-tomcat-9.0.37/webapps/ROOT/WEB-INF/Views/SE_v2/HBS/MessageBrowserCompatibility/template.page.hbs
+AbstractEntityModel(id=72635, xpmPropertyMetadata={})
+Accessibility mode off
+Accessibility mode on
+SUBSCRIBE TO EMAIL:
+Get monthly updates from Schneider Electric delivered right to your inbox.
+I'd like to receive news and commercial info from Schneider Electric and its affiliates via electronic communication means such as email, and I agree to the collection of information on the opening and clicks on these emails (using invisible pixels in the images), to measure performance of our communications and improve them
+For more details, please read our
+Privacy Policy.
+Email
+Please enter a valid email address
+I am a...
+I am a...
+Consumer Retailer
+Contractor
+Engineering, Procurement, Construction
+Architect
+Interior Designer
+Specifying Consultant or Engineer
+E-commerce pure-player
+Electrical Distributor
+IT Distributor
+Electrician
+IT Solution Provider
+Original Equipment Manufacturer
+Panel Builder
+Software or Service Provider
+Building System Integrator
+Industrial System Integrator
+Power System Integrator
+Small / Medium Business End User
+Government Employee / Educator
+Large Corporation End User
+Home Builder / Developer
+Home Owner / Consumer
+Student / Job Seeker
+Please check this box
+Problem with captcha verification, please check your connection
+Subscribe
+QUICK LINKS
+All Products
+Solutions
+Software
++ LifeCycle Services
+Partners
+Square D
+DigestPlus Online Catalog
+EcoStruxure
+Customer Success Stories
+Job Search  opens in new window
+Blog  opens in new window
+Register Your Product
+Promotional Terms and Conditions
+ABOUT US
+Company Profile
+Careers
+Newsroom
+Sustainability
+Diversity
+Data Privacy and Cookie Policy
+Accessibility
+SERVICES
+Field Services
+Digital Services
+Consulting and Training
+SOFTWARE
+Energy Management Software
+Industrial Automation Software
+Data Center Software
+SUPPORT
+Support Center
+Product Documentation and Software Downloads
+Search FAQs
+Green Premium: RoHS, REACH
+CONTACT
+Contact Center
+Contact Support
+Tech Support: 888-778-2733
+Get a Quote
+Where to Buy?
+Find Schneider Electric Offices
+Find a Training Center  opens in new window
+SOLUTIONS
+Automotive and eMobility
+Cloud and Service Providers
+Commercial Real Estate
+Data Center and Network Solutions
+Energies and Chemicals
+Food and Beverage
+Healthcare
+Hotels
+Life Sciences
+Machinery
+Marine
+Mining, Minerals and Metals
+Motor Management
+Power and Grid
+Retail
+Water and Wastewater
+Site Map
+Privacy and Cookies Policy
+Terms of use
+Change your cookie settings
+opens in new window
+©2022, Schneider Electric
+Thank you for subscribing to us
+Now, you will be the first to know the updates from Schneider Electric
+You will receive your welcome message soon
+Enjoy!

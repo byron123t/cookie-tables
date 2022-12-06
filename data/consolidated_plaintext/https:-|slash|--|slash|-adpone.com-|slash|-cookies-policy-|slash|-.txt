@@ -1,0 +1,355 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookies Policy - Adpone landing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+Formats
+Gallery
+Company
+Stories
+Contact
+Login
+Español
+  
+ 
+
+
+
+ Solutions
+Formats
+Gallery
+Company
+Stories
+Contact
+Login
+Español
+
+
+
+
+
+
+
+
+Cookies Policy
+
+
+The following explains the technologies we use to collect information on the use of the websites on which we manage advertising, especially the use of Cookies.
+ 
+What is a Cookie?
+A cookie is a file that is downloaded to the connected device (computer, tablet, smartphone, etc…) when accessing certain web pages to store and retrieve information about the navigation that is carried out from said device.
+Adpone, directly or via a third party contracted for providing measurement services, may use cookies and other similar mechanisms for storing and retrieving data from terminals («cookies») when you browse the Website to allow and facilitate your interaction with the Website.
+If you are uncomfortable with the use of cookies, you can manage and control them through your browser, including removing cookies by deleting them from your ‘browser history’ (cache) when you leave the site.
+ 
+ 
+Types of Cookies
+By Duration
+
+
+
+There are two main types of Cookies:
+
+Session Cookies store temporary information that is deleted when the user leaves the page they are visiting or closes the browser.
+Persistent Cookies are used to store information for a longer time and allow, among other applications, display advertising related to the user’s interests.
+
+
+By entity managing the domain
+
+
+
+First-party cookies: are sent by our web services to your computer or device and managed exclusively by Adpone.
+
+
+
+
+Third-party cookies: are sent to your computer or device from a computer or domain that is not managed by Adpone, but by another collaborating entity.
+
+
+
+By purpose
+
+Technical cookies: They are those necessary for navigation and the proper functioning of our website. They allow, for example, control traffic and data communication, access to restricted access areas, perform the purchase process of an order, use security elements, etc.
+Advertising cookies: Are those that allow us to manage, in the most efficient way, the offer of the advertising spaces that are on the website. This includes frequency control, delivery optimization, etc…
+
+ 
+What are Cookies used for?
+The use of Cookies allows us to:
+
+Adapt and personalize the contents and services offered on the websites where we serve advertising.
+Segment and control the frequency with which the ads are displayed on the websites where we serve advertising.
+
+ 
+ 
+Cookies Website adpone.com
+In the following table, you will find the cookies we use on the Adpone website:
+
+Persistent Cookies
+
+
+
+NAME
+DESCRIPTION
+DURATION
+TYPE
+
+
+
+
+pubconsent
+localeuconsent
+localpubconsent
+Consent Management Platform – Stores the consent preferences provided by the user.
+1 year
+Technical
+
+
+
+
+
+
+ 
+ 
+Third-party Cookies
+These are cookies from other companies that are dedicated to analyze which parts of the web you visit, which advertising can be sent to you according to your interests, and if you have connected to a social network
+
+
+
+PROVIDER
+DESCRIPTION
+DURATION
+INFORMATION
+
+
+
+
+Google Analytics
+Google Analytics is the analysis tool that helps website and application owners understand how visitors interact with their properties. This tool can use a set of cookies to collect information and provide statistics on the use of websites without personally identifying Google visitors.
+Analytics
+Google Analytics
+
+
+
+
+
+ 
+Adpone Advertising Cookies
+In the following table, you will find the cookies we use during the delivery of our advertising campaigns:
+
+Session Cookies
+
+
+
+NAME
+DESCRIPTION
+DURATION
+TYPE
+
+
+
+
+SSID
+Allows maintaining session variables necessary for the correct functioning of our advertising system.
+Session
+Technical
+
+
+
+
+
+
+
+ 
+Deactivation or elimination of cookies.
+To disable or delete cookies on your computer you can click below on the type of browser you use and will explain the steps you have to follow to do so.
+
+Google Chrome
+Mozilla Firefox
+Internet Explorer
+Safari Edit → Preferences → Privacy → Block cookies (select «always»).
+Opera
+Safari (IOS)
+
+
+
+
+
+
+Contact an expert to learn how to increase your website’s revenue. 
+
+Get in touch! 
+
+
+
+Adpone is an advertising technology company operating worldwide.
+info@adpone.com
+34 934 63 63 64
+
+C. Còrsega 329 6th floor, 2nd door
+08037 Barcelona, Spain
+View in Google Maps
+
+2655 Le Jeune Road, Suite 810
+Coral Gables
+Miami, Florida 33134
+View in Google Maps
+
+17 Fleet Street, 2nd floor
+London, EC4Y 1AA
+View in Google Maps
+
+
+
+
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Privacy policy
+Cookies policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

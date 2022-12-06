@@ -1,0 +1,250 @@
+Cookie Policy
+Powered by CookiebotConsentDetails[#IABV2SETTINGS#]AboutOur Sites use cookiesWe use cookies to make Joomag's website a better place
+Cookies help to provide a more personalized experience and relevant advertising for you, and web analytics for us
+To learn more about the different cookies we're using, check out our Cookie Policy
+Consent SelectionNecessary Preferences Statistics Marketing Show detailsNecessary  9 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+The website cannot function properly without these cookies.Cookiebot1Learn more about this providerCookieConsentStores the user's cookie consent state for the current domainExpiry: 1 yearType: HTTPGoogle2Learn more about this providerintercom-id-#Allows the website to recoqnise the visitor, in order to optimize the chat-box functionality
+Expiry: 270 daysType: HTTPintercom-session-#Sets a specific ID for the user which ensures the integrity of the website’s chat function
+Expiry: 6 daysType: HTTPJoomag3Learn more about this provider__csrf_tokenThis cookie is used by Cloudflare to identify trusted web traffic.Expiry: SessionType: HTTPintercom.played-notificationsUsed by the website to determine which support notifications the user has been shown.Expiry: SessionType: HTMLPHP_JOOMAG_SESSIONHolds information for caching and performance purposes.Expiry: SessionType: HTTPLinkedIn1Learn more about this providerli_gcStores the user's cookie consent state for the current domainExpiry: 179 daysType: HTTPplay.google.comwww.youtube.com2CONSENT [x2]Used to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+Expiry: 2 yearsType: HTTPPreferences  4 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.Google1Learn more about this providerintercom.intercom-state-#Remembers whether the user has minimized or closed chat-box or pop-up messages on the website
+Expiry: PersistentType: HTMLpx.ads.linkedin.comwww.joomag.com3lang [x3]Remembers the user's selected language version of a websiteExpiry: SessionType: HTTPStatistics  13 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.Adobe Inc.1Learn more about this providerp.gifKeeps track of special fonts used on the website for internal analysis
+The cookie does not register any visitor data
+Expiry: SessionType: PixelGoogle6Learn more about this providercollectUsed to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.Expiry: SessionType: Pixel_dc_gtm_UA-#Used by Google Tag Manager to control the loading of a Google Analytics script tag.Expiry: 1 dayType: HTTP_gaRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 2 yearsType: HTTP_ga_#Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit
+Expiry: 2 yearsType: HTTP_gatUsed by Google Analytics to throttle request rateExpiry: 1 dayType: HTTP_gidRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 1 dayType: HTTPJoomag2Learn more about this provider_ja._Stores Joomag analytical data on how a visitor interacts with a Joomag publication.Expiry: PersistentType: HTMLubvtCollects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.Expiry: 2 daysType: HTTPLeadfeeder1Learn more about this providerhttps://#.#/Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: SessionType: PixelLinkedIn1Learn more about this providerAnalyticsSyncHistoryUsed in connection with data-synchronization with third-party analysis service
+Expiry: 29 daysType: HTTPNew Relic1Learn more about this providerJSESSIONIDUsed to store a session identifier so that New Relic can monitor session counts for an application.Expiry: SessionType: HTTPSmartlook1Learn more about this providerSL_C_23361dd035530_DOMAINCollects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner.Expiry: SessionType: HTTPMarketing  33 Marketing cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+Meta Platforms, Inc.1Learn more about this provider_fbpUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: 3 monthsType: HTTPAdroll Group3Learn more about this provider__adroll_consentSet and used by AdRoll service for marketing purposesExpiry: 1 yearType: HTTP__adroll_fpcSet and used by AdRoll service for marketing purposesExpiry: 1 yearType: HTTP__ar_v4Set and used by AdRoll service for marketing purposesExpiry: 1 yearType: HTTPGoogle7Learn more about this providerIDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.Expiry: 1 yearType: HTTPpagead/landing [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: SessionType: Pixeltest_cookieUsed to check if the user's browser supports cookies.Expiry: 1 dayType: HTTPads/ga-audiencesUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.Expiry: SessionType: Pixelpagead/1p-user-list/#Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.Expiry: SessionType: Pixel_gcl_auUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services
+Expiry: 3 monthsType: HTTPHubspot6Learn more about this provider__cf_bmThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: 1 dayType: HTTP__ptq.gifSends data to the marketing platform Hubspot about the visitor's device and behaviour
+Tracks the visitor across devices and marketing channels.Expiry: SessionType: Pixel__hsscIdentifies if the cookie data needs to be updated in the visitor's browser.Expiry: 1 dayType: HTTP__hssrcUsed to recognise the visitor's browser upon reentry on the website.Expiry: SessionType: HTTP__hstcSets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: 179 daysType: HTTPhubspotutkSets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: 179 daysType: HTTPJoomag1Learn more about this provider#URL#Necessary for the implementation of Instagram picture-gallery onto the website
+Expiry: SessionType: HTMLLinkedIn4Learn more about this providerbcookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 yearType: HTTPbscookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 yearType: HTTPlidcUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 dayType: HTTPUserMatchHistoryEnsures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+Expiry: 29 daysType: HTTPSmartlook6Learn more about this providerSL_C_23361dd035530_KEYCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: 13 monthsType: HTTPSL_C_23361dd035530_SIDCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: 13 monthsType: HTTPSL_C_23361dd035530_VIDCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: 13 monthsType: HTTPSL_L_23361dd035530_KEYCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: PersistentType: HTMLSL_L_23361dd035530_SIDCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: PersistentType: HTMLSL_L_23361dd035530_VIDCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: PersistentType: HTMLYouTube2Learn more about this providerVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Expiry: 179 daysType: HTTPYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: SessionType: HTTPsc.lfeeder.com3_lfaUsed in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes.Expiry: 2 yearsType: HTML_lfa_expiryContains the expiry-date for the cookie with corresponding name
+Expiry: PersistentType: HTML_lfa_test_cookie_storedUsed in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes.Expiry: 1 dayType: HTTPUnclassified  0Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.We do not use cookies of this type.Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#] [#BULK_CONSENT_TITLE#]List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]Cookie declaration last updated on 10/25/22 by Cookiebot[#IABV2_TITLE#][#IABV2_BODY_INTRO#][#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#][#IABV2_BODY_PREFERENCE_INTRO#][#IABV2_LABEL_PURPOSES#][#IABV2_BODY_PURPOSES_INTRO#][#IABV2_BODY_PURPOSES#][#IABV2_LABEL_FEATURES#][#IABV2_BODY_FEATURES_INTRO#][#IABV2_BODY_FEATURES#][#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PARTNERS_INTRO#][#IABV2_BODY_PARTNERS#]Cookies are small text files that can be used by websites to make a user's experience more efficient.Many jurisdictions require or recommend that website operators inform users/visitors as to the nature of cookies they utilize and, in certain circumstances, obtain the consent of their users to the placement of certain cookies.This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.Please state your consent ID and date when you contact us regarding your consent
+[#OOI_PERSONAL_INFORMATION#]Use necessary cookies only Allow selection Customize Allow all cookiesPowered by Cookiebot by Usercentrics
+Toggle navigation
+X
+Solutions
+Content Marketing
+Corporate Communications
+Digital Publishing
+Sales Enablement
+Features
+Pricing
+Case Studies
+Resources
+E-book
+Youtube Channel
+Blog
+White Papers
+Help Center
+Showcase
+Eng
+Deutsch
+Español
+Русский
+Français
+Português (Brasil)
+中文
+Log In
+Get Demo
+Cookie Policy
+Your consent applies to the following domains: www.joomag.com Your current state: Deny
+Your current state: Do Not Sell My Personal Information
+Your current state: Allow selection (Necessary, Preferences, Statistics, Marketing)
+Your current state: Allow all
+Your consent ID: 0Consent date: Change your consent  |  Withdraw your consentDo Not Sell My Personal InformationCookie declaration last updated on 25/10/2022 by Cookiebot:			  Necessary (9)				 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+The website cannot function properly without these cookies
+Name Provider Purpose Expiry Type    __csrf_token Joomag This cookie is used by Cloudflare to identify trusted web traffic
+Session HTTP Cookie   CONSENT					[x2]				 GoogleYouTube Used to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+2 years HTTP Cookie   CookieConsent Cookiebot Stores the user's cookie consent state for the current domain 1 year HTTP Cookie   intercom.played-notifications Joomag Used by the website to determine which support notifications the user has been shown
+Session HTML Local Storage   intercom-id-# Google Allows the website to recoqnise the visitor, in order to optimize the chat-box functionality
+270 days HTTP Cookie   intercom-session-# Google Sets a specific ID for the user which ensures the integrity of the website’s chat function
+6 days HTTP Cookie   li_gc LinkedIn Stores the user's cookie consent state for the current domain 179 days HTTP Cookie   PHP_JOOMAG_SESSION Joomag Holds information for caching and performance purposes
+Session HTTP Cookie     Preferences (4)				 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+Name Provider Purpose Expiry Type    intercom.intercom-state-# Google Remembers whether the user has minimized or closed chat-box or pop-up messages on the website
+Persistent HTML Local Storage   lang					[x3]				 LinkedInJoomag Remembers the user's selected language version of a website Session HTTP Cookie     Statistics (13)				 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+Name Provider Purpose Expiry Type    _dc_gtm_UA-# Google Used by Google Tag Manager to control the loading of a Google Analytics script tag
+1 day HTTP Cookie   _ga Google Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+2 years HTTP Cookie   _ga_# Google Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit
+2 years HTTP Cookie   _gat Google Used by Google Analytics to throttle request rate 1 day HTTP Cookie   _gid Google Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+1 day HTTP Cookie   _ja._ Joomag Stores Joomag analytical data on how a visitor interacts with a Joomag publication
+Persistent HTML Local Storage   AnalyticsSyncHistory LinkedIn Used in connection with data-synchronization with third-party analysis service
+29 days HTTP Cookie   collect Google Used to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels
+Session Pixel Tracker   https://#.#/ Leadfeeder Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Session Pixel Tracker   JSESSIONID New Relic Used to store a session identifier so that New Relic can monitor session counts for an application
+Session HTTP Cookie   p.gif Adobe Inc
+Keeps track of special fonts used on the website for internal analysis
+The cookie does not register any visitor data
+Session Pixel Tracker   SL_C_23361dd035530_DOMAIN Smartlook Collects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner
+Session HTTP Cookie   ubvt Joomag Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content
+2 days HTTP Cookie     Marketing (33)				 Marketing cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+Name Provider Purpose Expiry Type    #URL# Joomag Necessary for the implementation of Instagram picture-gallery onto the website
+Session HTML Local Storage   __adroll_consent Adroll Group Set and used by AdRoll service for marketing purposes 1 year HTTP Cookie   __adroll_fpc Adroll Group Set and used by AdRoll service for marketing purposes 1 year HTTP Cookie   __ar_v4 Adroll Group Set and used by AdRoll service for marketing purposes 1 year HTTP Cookie   __cf_bm Hubspot This cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website
+1 day HTTP Cookie   __hssc Hubspot Identifies if the cookie data needs to be updated in the visitor's browser
+1 day HTTP Cookie   __hssrc Hubspot Used to recognise the visitor's browser upon reentry on the website
+Session HTTP Cookie   __hstc Hubspot Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes
+179 days HTTP Cookie   __ptq.gif Hubspot Sends data to the marketing platform Hubspot about the visitor's device and behaviour
+Tracks the visitor across devices and marketing channels
+Session Pixel Tracker   _fbp  Meta Platforms, Inc
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months HTTP Cookie   _gcl_au Google Used by Google AdSense for experimenting with advertisement efficiency across websites using their services
+3 months HTTP Cookie   _lfa sc.lfeeder.com Used in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes
+2 years HTML Local Storage   _lfa_expiry sc.lfeeder.com Contains the expiry-date for the cookie with corresponding name
+Persistent HTML Local Storage   _lfa_test_cookie_stored sc.lfeeder.com Used in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes
+1 day HTTP Cookie   ads/ga-audiences Google Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites
+Session Pixel Tracker   bcookie LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services
+1 year HTTP Cookie   bscookie LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services
+1 year HTTP Cookie   hubspotutk Hubspot Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes
+179 days HTTP Cookie   IDE Google Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year HTTP Cookie   lidc LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services
+1 day HTTP Cookie   pagead/1p-user-list/# Google Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites
+Session Pixel Tracker   pagead/landing					[x2]				 Google Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Session Pixel Tracker   SL_C_23361dd035530_KEY Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+13 months HTTP Cookie   SL_C_23361dd035530_SID Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+13 months HTTP Cookie   SL_C_23361dd035530_VID Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+13 months HTTP Cookie   SL_L_23361dd035530_KEY Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+Persistent HTML Local Storage   SL_L_23361dd035530_SID Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+Persistent HTML Local Storage   SL_L_23361dd035530_VID Smartlook Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+Persistent HTML Local Storage   test_cookie Google Used to check if the user's browser supports cookies
+1 day HTTP Cookie   UserMatchHistory LinkedIn Ensures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+29 days HTTP Cookie   VISITOR_INFO1_LIVE YouTube Tries to estimate the users' bandwidth on pages with integrated YouTube videos
+179 days HTTP Cookie   YSC YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen
+Session HTTP Cookie
+How to disable Cookies
+Many jurisdictions require or recommend that website operators inform users/visitors as to the nature of
+cookies they utilize and, in certain circumstances, obtain the consent of their users to the placement of
+certain cookies.
+You can at any time change or withdraw your consent from the cookie declaration on our website.
+Cookies Subject to Change
+The content of this Policy is for your general information and use only
+These cookies are subject to change
+without notice
+You acknowledge that this information may contain inaccuracies or errors and is subject to
+change and we expressly exclude liability for any such inaccuracies or errors to the fullest extent
+permitted by law.
+Cookies Used in Our Services
+In addition to using cookies on our Sites as described above, we also use cookies and other tracking
+technologies in connection with your access to and use of the products and services which we market for
+subscription on our Sites (our “Services”)
+How and why we use cookies and other tracking technologies in
+our Services is further explained in our Terms of Service and Privacy Policy.
+Updating This Policy
+Please revisit this page to stay aware of any changes
+Your continued use of Joomag constitutes your
+agreement to this Policy and any future revisions
+Your only remedy, if you do not accept the terms of this
+Policy, is to discontinue use of and access to the Sites.
+Products
+Crater Editor
+CRM
+Distribution
+Branded Apps
+Email Marketing
+Periodical Management
+Lead Generation
+Selling Publications
+Integrations
+Collaboration
+Analytics
+Pricing
+Product Updates
+Company
+About Us
+Careers
+Contact
+Solutions
+Content Marketing
+Corporate Communications
+Digital Publishing
+Sales Enablement
+Education
+Enterprise
+Support & Training
+Help Center
+System Status
+Live Chat
+Legal
+Terms of Service
+Privacy Policy
+Cookie Policy
+Security Practices
+GDPR Commitment
+DMCA Policy
+Resources
+Joomag Blog
+Case Studies
+White Papers
+E-Book
+Youtube Channel
+API & Developers
+Create
+Magazines
+Catalogs
+Brochures
+Online Presentations
+Online Newsletter
+75 E
+Santa Clara St., Floor 6
+San Jose,
+CA
+95113
++1 888 854 8036
+Mon-Fri 8am-5pm PST
+Available on
+Newsstand
+Privacy Policy
+Terms of Service
+English
+Deutsch
+Español
+Русский
+Français
+Português (Brasil)
+中文
+© 2022 Joomag, Inc
+All rights reserved.

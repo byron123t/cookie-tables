@@ -1,0 +1,56 @@
+<!DOCTYPE html><html><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>Bot Verification</title>
+    <script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/jF-AgDWy8ih0GfLx4Semh9UK/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-1eZXe/MLiopvjKxX8F0I+6LXJu6cDaNupm7t7qbmZNrERttjt+hLGDuOPUES/50P"></script><script>
+        function onSubmit() {
+            document.getElementById('lsrecaptcha-form').submit();
+        }
+
+        var onloadCallback = function() {
+            var cont = grecaptcha.render('recaptchadiv', {
+                'sitekey': '6Lcox3cUAAAAADBiyJg6lJibVA1YwDRRM0wYSs-Q',
+                'callback': onSubmit,
+                'size': 'invisible'
+            });
+            grecaptcha.execute(cont);
+        };
+    </script>
+    <style>
+        body {
+        height: 100%;
+        }
+        .panel {
+        padding: 30px;
+        max-width: 425px;
+        margin: 10% auto;
+        box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.2);
+        }
+        .title {
+        font-size: 1.5em;
+        font-weight: 100;
+        margin-top: 10px;
+        text-align: center;
+        }
+        .recaptcha-center {
+        margin-top: 35px;
+        margin-bottom: 20px;
+        margin-left: 13%;
+        margin-right: 13%;
+        display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="panel">
+        <h3 class="title">Verifying that you are not a robot...</h3>
+        <form id="lsrecaptcha-form" method="POST" action="/.qcrecap/recaptcha?">
+            <div id="recaptchadiv" class="recaptcha-center"><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" src="https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&amp;k=6Lcox3cUAAAAADBiyJg6lJibVA1YwDRRM0wYSs-Q&amp;co=aHR0cHM6Ly93d3cuMjRnby5tZTo0NDM.&amp;hl=en&amp;v=jF-AgDWy8ih0GfLx4Semh9UK&amp;size=invisible&amp;cb=n2v6dr6efni7" width="256" height="60" role="presentation" name="a-ldlp1ot4fw1m" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+        </form>
+    </div>
+    <script src="https://www.recaptcha.net/recaptcha/api.js?onload=onloadCallback&amp;render=explicit" async="" defer="">
+    </script>
+
+
+<div style="visibility: hidden; position: absolute; width: 100%; top: -10000px; left: 0px; right: 0px; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.5;"></div><div style="margin: 0px auto; top: 0px; left: 0px; right: 0px; position: absolute; border: 1px solid rgb(204, 204, 204); z-index: 2000000000; background-color: rgb(255, 255, 255); overflow: hidden;"><iframe title="recaptcha challenge expires in two minutes" src="https://www.recaptcha.net/recaptcha/api2/bframe?hl=en&amp;v=jF-AgDWy8ih0GfLx4Semh9UK&amp;k=6Lcox3cUAAAAADBiyJg6lJibVA1YwDRRM0wYSs-Q" name="c-ldlp1ot4fw1m" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div></body></html>

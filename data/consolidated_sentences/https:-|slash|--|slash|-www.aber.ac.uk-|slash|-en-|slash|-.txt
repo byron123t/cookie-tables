@@ -1,0 +1,179 @@
+Aberystwyth University: Best in the UK for student experience
+This website uses cookiesWe use cookies to personalise content and ads, to provide social media features and to analyse our traffic
+We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services
+[#OOI_PERSONAL_INFORMATION#]Use necessary cookies only OKShow detailsOKUse necessary cookies only Manage cookies Allow all cookiesNecessaryPreferencesStatisticsMarketingShow detailsCookie declaration [#IABV2SETTINGS#] About Necessary (9)  Preferences (3)  Statistics (16)  Marketing (41)  Unclassified (4)Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+The website cannot function properly without these cookies.NameProviderPurposeExpiryType_ce.cchCrazyeggStores the user's cookie consent state for the current domainSessionHTTPce_successful_csp_checkwww.aber.ac.ukDetects whether user behaviour tracking should be active on the website
+PersistentHTMLCookieConsentCookiebotStores the user's cookie consent state for the current domain1 yearHTTPelecinfowww.aber.ac.ukPending6 monthsHTTPPHPSESSIDwww.aber.ac.ukPreserves user session state across page requests.SessionHTTPtest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPCONSENT [x2]GoogleYouTubeUsed to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+2 yearsHTTP__cf_bmVimeoThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.1 dayHTTPPreference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.NameProviderPurposeExpiryTypeUserSettingsaberystwyth.cloud.panopto.euThis cookie is used to determine the preferred quality of video content, this is based on visitor settings
+2 yearsHTTPloglevelSpotifyMaintains settings and outputs when using the Developer Tools Console on current session.PersistentHTMLstream.estimatedBandwidthiframe.videodelivery.netUsed to determine the optimal video quality based on the visitor's device and network settings
+PersistentHTMLStatistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.NameProviderPurposeExpiryType__utmaGoogleCollects data on the number of times a user has visited the website as well as dates for the first and most recent visit
+Used by Google Analytics.2 yearsHTTP__utmbGoogleRegisters a timestamp with the exact time of when the user accessed the website
+Used by Google Analytics to calculate the duration of a website visit.1 dayHTTP__utmcGoogleRegisters a timestamp with the exact time of when the user leaves the website
+Used by Google Analytics to calculate the duration of a website visit.SessionHTTP__utmtGoogleUsed to throttle the speed of requests to the server.1 dayHTTP__utmzGoogleCollects data on where the user came from, what search engine was used, what link was clicked and what search term was used
+Used by Google Analytics.6 monthsHTTP_ce.gtldCrazyeggHolds which URL should be presented to the visitor when visiting the site
+SessionHTTP_ce.swww.aber.ac.ukCollects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner.1 yearHTTP_gaGoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.2 yearsHTTP_gatGoogleUsed by Google Analytics to throttle request rate1 dayHTTP_gidGoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTP_tt_enable_cookieTiktokUsed by the social networking service, TikTok, for tracking the use of embedded services.1 yearHTTPce_clockwww.aber.ac.ukSets a timestamp for when the visitor entered the website
+This is used for analytical purposes on the website
+PersistentHTMLcebswww.aber.ac.ukTracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits
+This data can also be used to create leads for marketing purposes.SessionHTTPX-ABsc-static.netThis cookie is used by the website’s operator in context with multi-variate testing
+This is a tool used to combine or change content on the website
+This allows the website to find the best variation/edition of the site
+1 dayHTTPp.gifAdobe Inc.Keeps track of special fonts used on the website for internal analysis
+The cookie does not register any visitor data
+SessionPixelvuidVimeoCollects data on the user's visits to the website, such as which pages have been read.2 yearsHTTPMarketing cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.NameProviderPurposeExpiryType_fbp Meta Platforms, Inc.Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTP_gcl_auGoogleUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services
+3 monthsHTTP_schnsc-static.netTracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits
+This data can also be used to create leads for marketing purposes.SessionHTTP_scidsc-static.netSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.13 monthsHTTP_ttp [x2]TiktokUsed by the social networking service, TikTok, for tracking the use of embedded services.1 yearHTTPtt_appInfoTiktokUsed by the social networking service, TikTok, for tracking the use of embedded services.SessionHTMLtt_pixel_session_indexTiktokUsed by the social networking service, TikTok, for tracking the use of embedded services.SessionHTMLtt_sessionIdTiktokUsed by the social networking service, TikTok, for tracking the use of embedded services.SessionHTMLcconvAdmaximOur system identifies anonymous visitors on the site and matches the date with data available on each user in AdMaxim
+AdMaxim reveals no personal information about the individuals that we collect through the pixel
+View the AdMaxim privacy policy - http://www.admaxim.com/admaxim-privacy-policy/SessionHTTPclickidAdmaximOur system identifies anonymous visitors on the site and matches the date with data available on each user in AdMaxim
+AdMaxim reveals no personal information about the individuals that we collect through the pixel
+View the AdMaxim privacy policy - http://www.admaxim.com/admaxim-privacy-policy/SessionHTTPIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPpagead/landing [x2]GoogleCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+SessionPixeltrMeta Platforms, Inc.Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.SessionPixelads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelNIDGoogleRegisters a unique ID that identifies a returning user's device
+The ID is used for targeted ads.6 monthsHTTPpagead/1p-user-list/#GoogleTracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.SessionPixelsc_atSnap Inc.Used by Snapchat to implement advertisement content on the website - The cookie detects the efficiency of the ads and collects visitor data for further visitor segmentation.1 yearHTTPSnapchat_scidSnap Inc.Snap may receive the following data elements through the Snap Pixel:  - Email address  - cookie id  - Browser user agent  - Actions and events taken on Advertiser’s website and apps, including pages viewed, purchases, searches, check-out events, wish lists and user region  - IP address  - Mobile ad ID (IDFA / AAID)  - Telephone number If you use the Snap Pixel, we enable you to target visitors of your website on Snapchat, and measure the cross-device impact of campaigns on Snapchat
+https://www.snap.com/en-GB/privacy/privacy-policy13 monthsHTTPsp_landingSpotifyUsed to implement audio-content from Spotify on the website
+Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes
+1 dayHTTPsp_tSpotifyUsed to implement audio-content from Spotify on the website
+Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes
+1 yearHTTPttqTiktokWhen you enable cookies within Developer Mode, the TikTok Pixel will drop a first- and third-party cookie (i.e., a cookie set under your website domain and TikTok’s domain, respectively)
+These cookies are set to expire after 13 months from being set onto a browser, or last used, whichever is later
+Starting early 2022, all TikTok Pixels, Standard Mode or Developer Mode, will automatically start to use first and third-party cookies
+This update will not apply to Pixel Partner integrations or Events API
+In preparation, ensure your website captures any user consents that you may need before this update (and any consents thereafter once the cookies initially expire which is after 13 months)
+Our TikTok Business Products (Data) Terms require that you must collect cookie consent from users prior to setting and reading cookies, where applicable by law
+You also must provide clear and comprehensive information to users in a sufficiently prominent notice regarding the access to, and collection, sharing and usage of cookies
+Please always ensure your cookie disclosures and notices are compliant with your practices.13 monthsHTTPUB_UUIDUnibuddyPendingPersistentHTML__mpq_#_#UnibuddyCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant
+PersistentHTMLub_campaignUnibuddyPendingPersistentHTMLub_contentUnibuddyRegisters statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+PersistentHTMLub_mediumUnibuddyRegisters statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+PersistentHTMLub_sourceUnibuddyRegisters statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+PersistentHTMLVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPyt.innertube::nextIdYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLyt.innertube::requestsYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLytidb::LAST_RESULT_ENTRY_KEYYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-cast-availableYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-cast-installedYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-connected-devicesYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-idYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-fast-check-periodYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-appYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-nameYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLUnclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.NameProviderPurposeExpiryTypecebspwww.aber.ac.ukPendingSessionHTTPcetabidwww.aber.ac.ukPendingSessionHTMLld:#:$diagnosticsUnibuddyPendingPersistentHTMLld:$anonUserIdUnibuddyPendingPersistentHTML [#IABV2_LABEL_PURPOSES#]  [#IABV2_LABEL_FEATURES#]  [#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PURPOSES#][#IABV2_BODY_FEATURES#][#IABV2_BODY_PARTNERS#]Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+For all other types of cookies we need your permission.This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website
+Please delete your currently saved cookies for the aber.ac.uk domain and then revisit our site
+The cookie banner will appear and you can change your consent there.Cookie declaration last updated on 6/17/22 by Cookiebot
+Skip navigation & go straight to the main content.Toggle menu150th AnniversaryStudy with usOur SubjectsCourse SearchUndergraduateAber HubPostgraduateOpen DaysFees and FinanceProspectusAccommodationGlobal OpportunitiesOnline & Distance LearningContinuous Professional DevelopmentProfessional and Executive MBAsLifelong LearningVirtual TourCurrent StudentsInternationalHow to ApplyYour CountryFees & ScholarshipsYour EnglishVisa Support & Advice Service亚伯大学中文官网ResearchAberystwyth Research PortalFind an expertResearch SupportWorking with UsNewsLatest NewsNews ArchiveAlumniAlumni ServicesSupport AberUpdate your DetailsOld Students' AssociationDiscover AberystwythAberystwyth Arts CentreConferences and EventsLife on CampusMaps and TravelMusic at AberSports CentreAbout UsDepartments and FacultiesColeg Cymraeg CenedlaetholInformation for StaffMaps & TravelJobsContact UsToggle SearchGoCloseCymraeg
+PausePlay
+Celebrating 150 years together
+Open Days
+Learn more about studying at Aberystwyth
+Register Now
+This is your place to explore
+Learn more about our undergraduate subjects
+This is your place to master your future
+Learn more about postgraduate courses
+This is your place to make a difference
+Learn more about studying a PGCE
+Research with impact - responding to global challenges since 1872
+Celebrating 150 years together
+Open Days
+Learn more about studying at Aberystwyth
+Register Now
+This is your place to explore
+Learn more about our undergraduate subjects
+This is your place to master your future
+Learn more about postgraduate courses
+This is your place to make a difference
+Learn more about studying a PGCE
+Research with impact - responding to global challenges since 1872
+Celebrating 150 years together
+Go to slide 1Go to slide 2Go to slide 3Go to slide 4Go to slide 5Go to slide 6
+Study with Us
+Our Subjects
+Prospectus
+Aber Hub
+Chat with Aber Students
+Information for International Students
+Course Search
+Search now
+Browse by subject
+Browse by A-Z
+Upcoming events
+November
+12
+Open Day
+December
+6
+Pennies of the People
+Study with us
+Our award-winning teaching is informed by our cutting-edge research that feeds directly into our courses, helping you uncover new skills and solve real-world problems.
+Undergraduate Studies:
+Browse by subject
+Browse by A-Z
+Foundation Year
+Postgraduate Studies:
+Postgraduate Taught
+Postgraduate Research
+Initial Teacher Training (PGCE)
+Professional and Executive MBA
+Other Study Options
+Online and Distance Learning
+Continuous Professional Development (CPD)
+Lifelong Learning
+Learn Welsh
+English Language
+Professional and Executive MBAs
+Apply now for Nursing
+Foundation Year
+Scholarships and Bursaries
+Global Opportunities
+Not just any UniversityView our Awards and Rankings
+PausePlay
+Welsh University of the Year(Good University Guide, The Times and Sunday Times 2020)
+University of the Year for Teaching Quality(Good University Guide, The Times and Sunday Times 2018 and 2019)
+Top in Wales for teaching excellence and student satisfaction (Good University Guide, The Times and Sunday Times 2023)
+98% of research at Aberystwyth University is of an internationally recognised standard or higher(Research Excellence Framework 2021)
+1st in England and Wales for student satisfaction(National Student Survey 2022)
+Top 40 University in the UK(Good University Guide, The Times and Sunday Times 2022)
+Best University in the UK for Teaching Quality and Student Experience(Good University Guide, The Times and Sunday Times 2021)
+Welsh University of the Year(Good University Guide, The Times and Sunday Times 2020)
+University of the Year for Teaching Quality(Good University Guide, The Times and Sunday Times 2018 and 2019)
+Top in Wales for teaching excellence and student satisfaction (Good University Guide, The Times and Sunday Times 2023)
+98% of research at Aberystwyth University is of an internationally recognised standard or higher(Research Excellence Framework 2021)
+1st in England and Wales for student satisfaction(National Student Survey 2022)
+Top 40 University in the UK(Good University Guide, The Times and Sunday Times 2022)
+Best University in the UK for Teaching Quality and Student Experience(Good University Guide, The Times and Sunday Times 2021)
+Welsh University of the Year(Good University Guide, The Times and Sunday Times 2020)
+University of the Year for Teaching Quality(Good University Guide, The Times and Sunday Times 2018 and 2019)
+Go to slide 1Go to slide 2Go to slide 3
+Research at Aber
+Aberystwyth’s research is helping to change the world for the better, by making a difference to real lives
+We’re tackling some of society’s most pressing challenges, including climate change, global health, societal changes, and space exploration.
+Research in Action
+Industry Collaboration
+Research News
+Discover Aberystwyth
+Aberystwyth University is located on the coast of west Wales, nestled between the Cambrian Mountains and Cardigan Bay
+Aberystwyth is a diverse and welcoming community in a historic seaside market town that has a cosmopolitan Welsh culture
+with so much on offer, you’ll be spoilt for choice.
+Life on campus
+Student Life
+Our location
+Virtual Tour
+Information for international students
+Community
+AberInnovation
+Arts Centre
+Conferences and Events
+Learn Welsh
+Lifelong Learning
+Music Centre
+Old College
+Sports Centre
+News
+View all news
+Drought-resistant Aberystwyth crop helps Africa’s farmers
+A crop developed at Aberystwyth University is set to help African farmers feed people in the face of climate change.
+Aberystwyth academic helping to improve British wrestling
+A Lecturer in Film Theory and Practice from Aberystwyth University is contributing towards a «code of better practice' for British wrestling.
+Veterinary Nurses to study at Aberystwyth University from 2024
+Veterinary nurses will begin studying at Aberystwyth University in 2024 as Wales' only School of Veterinary Science expands.
+New Japanese partnership to boost climate change research at Aberystwyth University
+Aberystwyth University has signed up to a new partnership with a Japanese university in a boost to its climate change research.
+Study with usInternationalResearchNewsAlumniAbout UsInformation for StudentsInformation for StaffJobsDepartmentsContactT: +44 (0)1970 622900Aberystwyth University, Reception, Penglais, Aberystwyth, Ceredigion, SY23 3FLSend us a messageFacebookYouTubeTwitterInstagramMaps & TravelPreviousNextGo to slide 1Go to slide 2^ Back to topCookie PolicySite MapAccessibilityTerms & ConditionsWeb Site FeedbackModern Slavery Statement©2022 Aberystwyth University
+Registered charity: No 1145141

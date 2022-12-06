@@ -1,0 +1,4 @@
+https://ourworldindata.org/privacy-policy
+https://www.intuit.com/privacy/statement/
+https://security.intuit.com/intuit-cookie-policy
+https://en.wikipedia.org/wiki/HTTP_cookie

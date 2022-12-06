@@ -1,0 +1,257 @@
+Cookie Policy | CaffeineGet the app|Sign in|HelpLegalTerms of ServiceCommunity RulesPrivacy PolicyCookie Policy CCPA Privacy Notice3rd Party AttributionTerms of ServiceCommunity RulesPrivacy PolicyCookie Policy CCPA Privacy Notice3rd Party AttributionCookie PolicyLast updated: May 7, 2021
+What are Cookies?
+Caffeine, Inc
+(“We”) and our third-party partners analyze log file information and other information collected through cookies, web beacons, and similar technologies (collectively “Cookies”)
+Cookies are small data files stored on your hard drive by a website
+They contain information that is transferred to your computer’s hard drive
+To learn more about cookies, clear gifs/web beacons and related technologies, visit www.allaboutcookies.org
+In this Cookie Policy, we provide information about these Cookies and how to control them
+This Cookie Policy should be read in conjunction with our Privacy Policy
+Any capitalized terms that are undefined herein have the meaning given to them in the Privacy Policy.
+Why do we use Cookies?
+We use Cookies to collect information about your browsing activities (including your browser type, operating system version, domains, IP address, the URL of the page that referred you, referring/exit pages, the different actions your performed, such as page views, how you interact with our Service and with third-party links, traffic and usage trends), and to distinguish you from other users of the Service
+This aids your experience when you use the Service and allows us to improve the functionality of the Service.
+When you use our Service, we collect certain information by automated means, using technologies such as cookies and browser analysis tools
+In many cases, the information we collect using cookies and other tools is used in a non-identifiable way, without any reference to Personal Information
+We may use Cookies to make website sign-in and usage more efficient and to tailor your browsing preferences and improve the functionality of our websites
+Cookies can be used for performance management, collecting information on how our website is being used for analytics purposes
+They can also be used for functionality management, enabling us to make the user’s visit more efficient by, for example, remembering language preferences, passwords and log-in details.
+We may also use pixel tags, click-through URLs, and web beacons on our website
+These are tiny graphic images placed on web pages or in our emails that allow us to determine whether you have performed a specific action
+When you access these pages or open or click an email, the pixel tags and web beacons generate a notice of that action
+These tools allow us to measure response to our communications and improve our web pages and promotions.
+What types of Cookies do we use?
+We use session Cookies to keep you logged in while you use features of our website
+these disappear after you close your browser
+We also use persistent Cookies, which stay in your browser and allow us to recognize you when you return to the website.
+We use the following Cookies:
+Strictly Necessary
+Some Cookies are strictly necessary to make our websites or apps available to you and you cannot use them without this type of Cookies
+For example, we use authentication Cookies to remember that you have logged in for the duration of the session
+We use this information to provide you with our Service, prevent misuse, and ensure our websites and apps are working properly.
+Cookie Name
+Provider
+Purpose
+Expiry
+Core Graphics
+Apple.
+The Core Graphics framework is based on the Quartz advanced drawing engine
+It provides low-level, lightweight 2D rendering with unmatched output fidelity.
+Permanent.
+UIKit
+Apple.
+The UIKit framework provides the required infrastructure for your iOS or tvOS apps.
+Permanent.
+Lottie
+Airbnb.
+Lottie is a mobile library for Android and iOS that natively renders vector-based animations and art in real-time with minimal code.
+Permanent.
+Core Image
+Apple.
+Core Image is an image processing and analysis technology that provides high-performance processing for still and video images.
+Permanent.
+MetalKit
+Apple
+Build Metal apps quicker and easier, using far less code.
+Permanent.
+Metal
+Apple
+Graphics processors (GPUs) are designed to quickly render graphics and perform data-parallel calculations.
+Permanent.
+SceneKit
+Apple
+SceneKit combines a high-performance rendering engine with a descriptive API for import, manipulation, and rendering of 3D assets.
+Permanent.
+Functional Cookies:  These are used to recognise you when you return to the Service
+This enables us to personalise our content for you, to provide you with a customized experience on our websites and apps, and to remember your preferences (for example, your choice of language or region).
+Cookie Name
+Provider
+Purpose
+Expiry
+__stripe_sid
+caffeine.tv
+Stripe is used to make credit card payments
+Stripe uses a cookie to remember who you are and to enable the website to process payments without storing any credit card information on its own servers.
+Session.
+__stripe_mid
+caffeine.tv
+Stripe is used to make credit card payments
+Stripe uses a cookie to remember who you are and to enable the website to process payments without storing any credit card information on its own servers.
+1 year.
+Bolts
+Parse
+Bolts is a collection of low-level libraries designed to make developing mobile apps easier.
+Facebook Android SDK1
+Facebook
+Facebook Android SDK.
+Play Services Measurement SDK
+Facebook
+Play services measurement SDK.
+Play Services Measurement SDK API
+Google
+Play services measurement SDK
+Quartz Core
+Apple
+QuartzCore is a framework used by macOS and iOS to create animatable scene graphics.
+iAd
+Apple
+With the Apple Search Ads Attribution API, you can easily track and attribute app downloads that originate from Apple.
+AuthenticationServices
+Apple
+Use the Authentication Services framework to improve the experience of users.
+MessageUI
+Apple
+The Message UI framework provides specialized view controllers for presenting standard composition interfaces for email and SMS (Short Messaging Service) text messages.
+Core Telephony
+Apple
+Use the Core Telephony framework to obtain information about a user’s home cellular service provider.
+Core Media
+Apple
+The Core Media framework defines the media pipeline used by AVFoundation and other high-level media frameworks found on Apple platforms.
+Core Foundation
+Apple
+Core Foundation is a framework that provides fundamental software services useful to application services, application environments, and to applications themselves.
+SystemConfiguration
+Apple
+The Service Management framework provides facilities to load and unload launched services and read and modify launched dictionaries from within an application.
+Facebook Login SDK
+Facebook
+Official Facebook SDK for iOS to access Facebook Platform with features like Login, Share and Message Dialog, App Links, and Graph API.
+WebKit
+Apple
+WebKit provides a set of classes to display web content in windows and implements browser features such as following links when clicked by the user, managing a back-forward list, and managing a history of pages recently visited.
+CocoaLumberjack
+CocoaLumberjack
+CocoaLumberjack is a fast & simple, yet powerful & flexible logging framework for Mac and iOS.
+Foundation
+Apple
+Access essential data types, collections, and operating-system services to define the base layer of Functionality for your app.
+Core Services
+Apple
+This collection of documents provides the API reference for the Core Services framework, which encompasses many fundamental operating system services used by Carbon applications.
+FBLPromises
+MLFairy
+The MLFairy SDK allows you to use the MLFairy service to securely distribute your CoreML models, and to collect prediction inputs and outputs.
+AdSupport
+Apple
+Use the AdSupport framework if you are implementing a system to serve advertisements.
+UserNotifications
+Apple
+User-facing notifications communicate important information to users of your app, regardless of whether your app is running on the user’s device.
+Core Video
+Apple
+Core Video provides a pipeline model for digital video.
+SafariServices
+Apple
+Use the Safari Services framework to integrate Safari behaviors into your iOS or macOS app or to extend the behavior of Safari.
+Analytical or performance Cookies
+We also use Cookies for analytics purposes to better understand how you use our Service and how you navigate our website, to measure the effectiveness of our customer communications, to diagnose and fix technology problems, and otherwise enhance our Service
+We may use our own analytics Cookies or third-party analytics providers to collect and process certain data analytics on our behalf
+For example, we use Google Analytics, an analytics service provided by Google
+You can learn about Google’s practices by going to https://www.google.com/policies/privacy/partners/, and opt-out of them by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout or via Google’s Ads Settings or Ad Settings for mobile apps
+These providers may also collect information about your use of other websites, apps, and online resources.
+Cookie Name
+Provider
+Purpose
+Expiry
+_gat_UA-88570702-1–
+caffeine.tv
+This is a pattern type cookie set by Google Analytics.
+Session.
+_ga
+caffeine.tv
+This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier
+It is included in each page request in a site and used to calculate visitor, session and campaign data for the site’s analytics reports
+By default, it is set to expire after 2 years, although this is customizable by website owners.
+2 years.
+_gid
+caffeine.tv
+This cookie name is associated with Google Universal Analytics
+It appears to store and update a unique value for each page visited.
+1 day.
+Fabric
+Android SDK Fabric
+Android SDK Fabric.
+Advertising Cookies
+We allow third-party advertising partners to use Cookies on our website to collect information about your browsing activities over time and across websites
+We also work with these third-party advertising partners to market our Service to you on other websites, apps and online services
+For example, we use advertising services provided by third-party ad partners, such as Google Display Network and Google Analytics Demographics
+Through a process called "retargeting," each service places a Cookie on your browser when you visit our website so that they can identify you and serve you ads on other websites around the web based on your browsing activity.
+Cookie Name
+Provider
+Purpose
+Expiry
+test_cookie
+doubleclick.net
+Test cookie.
+Session
+VISITOR_INFO1_LIVE
+youtube.com
+This cookie is used as a unique identifier to track viewing of videos.
+6 months
+IDE
+doubleclick.net
+This domain is owned by Doubleclick (Google)
+Doubleclick is Google’s real time bidding advertising exchange.
+13 months.
+GPS
+youtube.com
+YouTube is a Google owned platform for hosting and sharing videos
+YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites.
+YSC
+youtube.com
+YouTube is a Google owned platform for hosting and sharing videos
+YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites.
+Session.
+AdMob Android SDK
+Google
+Mobile advertising network catering to the market’s needs and customizing campaigns accordingly.
+Firebase Analytics Android SDK
+Google
+Facebook Core SDK
+Facebook
+This open-source library allows you to integrate Facebook into your iOS app.
+Third-party content
+Our website may contain links to other websites operated by third parties and may include social media features such as Facebook and Twitter buttons (such as "Like," "Tweet" or "Pin")
+We may also use third-party service providers to show advertisements, which may include targeted advertisements on a third-party site after you have visited our website
+These third-party websites may collect information about you if you click on a link and the social media websites may automatically record information about your browsing behavior every time you visit a website that has a social media button
+Your interactions with these features are governed by those third parties’ privacy policies, not by this Cookie Policy
+We do not control what Personal Information these third parties collect
+Please review your privacy settings on your social media websites and think carefully before clicking on links which may direct you to a third-party website.
+We and the third-party service providers use cookies to inform, optimize, measure performance, and serve ads based on your previous visits to our site
+Our third-party service providers may provide us information that tells us how our marketing ads, often placed on third party sites, performed and who clicked on them
+This information does not identify any specific individual and is generally non-identifying
+If we were to associate it with you, we would treat it as Personal Information.
+We may participate in Facebook.com’s Custom Audience program which enables us to display personalized ads to persons on our email list when they visit Facebook
+We provide Personal Information such as your email address and phone number to the social media provider to enable it to determine if you are a registered account holder
+You may opt out of participation in this program by contacting us as noted below
+You may also opt out of receiving these ads from the social media network directly by the links above.
+We work with analytics providers such as Google Analytics, which uses cookies and similar technologies to collect and analyze Personal Information about use of the Service and report on activities and trends
+This service may also collect Personal Information regarding the use of other websites, apps and online resources
+You can learn about Google's practices by going to https://www.google.com/policies/privacy/partners/ and opt out of them by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.
+How can you block Cookies?
+Most Internet browsers automatically accept Cookies, but you may be able to change the settings of your browser to stop accepting Cookies or to prompt you before accepting a cookie from the websites you visit
+You can change your browser settings to block or notify you when you receive a Cookie, delete Cookies or browse our website using your browser’s anonymous usage setting
+Please refer to your browser instructions or help screen to learn more about how to adjust or modify your browser settings
+If you do not agree to our use of Cookies or similar technologies which store information on your device, you should change your browser settings accordingly
+You should understand that some features of our websites may not function properly if you do not accept Cookies or these technologies
+If you limit the ability of websites and applications to set cookies, you may worsen your overall user experience and/or lose the ability to access the Service, since it will no longer be personalized to you
+It may also stop you from saving customized settings, like login information.
+Additionally, some of our advertising partners are members of the Network Advertising Initiative or the Digital Advertising Alliance
+If you prefer to not receive targeted advertising, you may be able to opt out of some network advertising programs by visiting the Digital Advertising Alliance Opt-Out Page (http://optout.aboutads.info/?c=2&lang=EN) and the Network Advertising Initiative Opt-Out Page (http://optout.networkadvertising.org/?c=1#!/), the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/
+In addition, on your iPhone, iPad or Android, you can change your device settings to control whether you see online interest-based ads
+You can also opt out of the Digital Advertising Alliance using your mobile device settings.
+Please note, depending on your type of device or browser, it may not be possible to delete or disable all Cookies and similar technologies on your device
+Your selection of the "Do Not Track" option provided by your browser may not have any effect on our collection of cookie information for analytic and internal purposes, as we do not respond to Do Not Track signals
+To learn more about browser tracking signals and Do Not Track please visit http://www.allaboutdnt.org/
+By using our websites you consent to our use of Cookies and our processing of information collected through such Cookies, in accordance with this Cookie Policy and our Privacy Policy
+You can withdraw your consent at any time by deleting placed Cookies and disabling Cookies in your browser, or as explained below
+Where required by applicable law, you will be asked to consent to certain Cookies and similar technologies before we use or install them on your computer or other device.
+You may opt out of the use of the Google Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/
+Please know that opting out of interest-based advertising does not mean you will no longer see advertising online, but it does mean that the companies from which you opt out will no longer show ads that have been tailored to your interests.
+You can opt out of Facebook by going to https://www.facebook.com/policy.php
+You can opt out of Twitter by going to https://twitter.com/settings/account/personalization
+Any questions?
+We welcome all requests, suggestions and questions concerning our use of your information
+All such communication should be directed to privacysupport@caffeine.tv
+You can also write to us at: Caffeine Inc., 570 El Camino Real #150-408, Redwood City, CA 94063Back to topAbout UsCareersNewsroomHelpCreateCreatorsPartner ProgramGetting StartedCOMMUNITIES#battlerap#basketball#comedy#dance#gamingMOREEngineering BlogPrivacy PolicyTerms of ServicePrivacy PolicyTerms of ServiceCopyright © 2022 Caffeine All rights reserved.

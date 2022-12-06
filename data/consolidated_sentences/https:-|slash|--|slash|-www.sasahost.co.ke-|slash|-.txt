@@ -1,0 +1,313 @@
+Web Hosting in Kenya, Domain Registration, Email Hosting, SSL, Imunify360 - Sasahost™ Ltd.
+Skip to content
+Client AreaQA ForumsBlog
+Menu
+Menu
++254 713 478 555+254 732 478 555support@sasahost.co.kesales@sasahost.co.ke
+Below Header
+Menu
+HomeWeb HostingMenu Toggle
+cPanel Basic Web Hosting  DirectAdmin Basic Hosting Business Standard Hosting
+Domain NamesVPS & Dedicated ServersMenu Toggle
+Managed cPanel VPS Hosting Managed Dedicated Servers Self-Managed VPS Hosting Self-Managed Root Servers
+SecurityMenu Toggle
+SSL Certificates Imunify360 Security
+Why SASAHOSTHow to Pay
+Free Pre-Built WordPress Websites Hot Offer!
+Client AreaQA ForumsBlog
+Menu
+Menu
++254 713 478 555+254 732 478 555support@sasahost.co.kesales@sasahost.co.ke
+Below Header
+Menu
+HomeWeb HostingMenu Toggle
+cPanel Basic Web Hosting  DirectAdmin Basic Hosting Business Standard Hosting
+Domain NamesVPS & Dedicated ServersMenu Toggle
+Managed cPanel VPS Hosting Managed Dedicated Servers Self-Managed VPS Hosting Self-Managed Root Servers
+SecurityMenu Toggle
+SSL Certificates Imunify360 Security
+Why SASAHOSTHow to Pay
+Free Pre-Built WordPress Websites Hot Offer!
+24/7 Sales & Support
+Got a Question?
++254 713 478 555
+sales@sasahost.co.ke
+Imunify360 Security
+Up to 30 Users (Domains) Per Server
+KSh 2,625.00 Monthly Excl
+VAT
+Malware Scanning
+One-click Malware Cleanup
+Advanced Firewall with herd immunity
+Next-gen IDS / IPS
+Proactive Defense
+Domain Reputation Management
+Rebootless Kernel Patching
+Hardened PHP
+Dashboard with Notifications and Alarms
+Feature Management
+CentOS, RHEL, CloudLinux OS 6 & 7, Ubuntu 16.04 / 18.04
+Learn More
+Premium VPS I
+cPanel/WHM Fully Managed
+KSh 6,500  Monthly Excl
+VAT
+10 GB Guaranteed RAM
+700 GB HDD Storage
+Unlimited Traffic
+100 Mbit/s Uplink
+1 IPv4 Address
+IPV6  Ready
+4 vCores CPU
+Full Root Access
+KVM Virtualization
+cPanel/WHM License Included
+KernelCare + Imunify360 Security
+SpamExperts Outgoing Filtering
+Learn More
+Business Standard Hosting I
+Boosted By Dedicated Server Resources
+KSh 6,500  Yearly Excl
+VAT
+50 GB Secure Disk Space
+350 GB Monthly Bandwidth
+Free Remote Backup
+Unlimited Email Accounts & Sub Domains
+Unlimited  MySQL DBs, FTP  & SSH  Access
+Latest cPanel/WHM
+Spam & Virus Protection
+LiteSpeed Enterprise Web Server
+LSCache for WordPress, Magento [LiteMage], Joomla, Prestashop, Opencart, Drupal 8
+KernelCare + Imunify360 Security
+Reliable & Professional Support with Account Manager
+Learn More
+RapidSSL® WildCard Certificate
+Issued within Minutes
+Secures Multiple Sub Domains.
+KSh 12,000  Yearly Excl
+VAT
+Domain Validation
+Secures Unlimited Subdomains e.g
+sales.domain.com, billing.domain.com
+Issued within Minutes
+1-2 years Validity
+up to 256-bit SSL Encryption
+Static Seal
+Unlimited Re-Issuance
+99% Browser Compatibility
+Browser Securtity Lock
+Mobile device compatibility
+IDN Support
+Learn More
+Domain Name Availability Checker
+Search
+Which Hosting Plan is suitable for you?
+If you have a small static website with low to moderate amounts of traffic, our Basic Web Hosting Plans may be a good option
+If you have an active Business or Organization website, or are creating a website which you expect to have moderate to high amounts of traffic, e.g
+active blogs, medium e-commerce portals, fairly active web shops, medium directory listings, active CMS sites or other Memory intensive Applications then you should consider our Business Hosting Plans
+If you have a large and popular web shop, highly popular or large blog, large CMS website or highly active e-commerce portal with very high volumes of traffic and intensive resource requirements, or you need full server control with root access then a VPS or Dedicated server is your option, depending on the size or complexity of your project.
+Web Hosting Plans & Pricing
+cPanel Basic Hosting
+DirectAdmin Basic Hosting
+Business Standard Hosting
+Managed VPS Hosting
+cPanel Basic Hosting IKSh 3,250Yearly Excl
+VAT25 GB Secure Disk Space250 GB Monthly Bandwidth SSH & FTP Access Free remote backup for your entire cPanel Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken twice a week
+Easy self-service download and restore via cPanel
+Free additional remote backup for all your databases, taken daily with 7 days retention
+Easy self-service download and restore via cPanel
+Latest cPanel/WHM Unlimited Email Accounts Unlimited MySQL Databases Unlimited Sub Domains DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 Free SEO & Marketing Tools Free Drag & Drop Website Builder with 250+ Free Responsive Professional Themes
+Easy to Use Editor, One Click Publish
+Accessible via cPanel Free Pre-Built WordPress Templates with Demo Data
+15% Discount on Web Design Services
+Reliable & Professional SupportDelivery: InstantORDER NOWcPanel Basic Hosting IIKSh 4,000Yearly Excl
+VAT35 GB Secure Disk Space300 GB Monthly Bandwidth SSH & FTP Access Free remote backup for your entire cPanel Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken twice a week
+Easy self-service download and restore via cPanel
+Free additional remote backup for all your databases, taken daily with 7 days retention
+Easy self-service download and restore via cPanel
+Latest cPanel/WHM Unlimited Email Accounts Unlimited MySQL Databases Unlimited Sub Domains DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 Free SEO & Marketing Tools Free Drag & Drop Website Builder with 250+ Free Responsive Professional Themes
+Easy to Use Editor, One Click Publish
+Accessible via cPanel Free Pre-Built WordPress Templates with Demo Data
+20% Discount on Web Design Services
+Reliable & Professional SupportDelivery: InstantORDER NOWcPanel Basic Hosting IIIPOPULARKSh 6,000Yearly Excl
+VAT50 GB Secure Disk Space350 GB Monthly Bandwidth SSH & FTP Access Free remote backup for your entire cPanel Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken twice a week
+Easy self-service download and restore via cPanel
+Free additional remote backup for all your databases, taken daily with 7 days retention
+Easy self-service download and restore via cPanel
+Latest cPanel/WHM Unlimited Email Accounts Unlimited MySQL Databases Unlimited Sub Domains DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 Free SEO & Marketing Tools Free Drag & Drop Website Builder with 250+ Free Responsive Professional Themes
+Easy to Use Editor, One Click Publish
+Accessible via cPanel Free Pre-Built WordPress Templates with Demo Data
+25% Discount on Web Design Services
+Reliable & Professional SupportDelivery: InstantORDER NOWcPanel Basic Hosting IVKSh 11,000Yearly Excl
+VAT70 GB Secure Disk Space400 GB Monthly Bandwidth SSH & FTP Access Free remote backup for your entire cPanel Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken twice a week
+Easy self-service download and restore via cPanel
+Free additional remote backup for all your databases, taken daily with 7 days retention
+Easy self-service download and restore via cPanel
+Latest cPanel/WHM Unlimited Email Accounts Unlimited MySQL Databases Unlimited Sub Domains DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 Free SEO & Marketing Tools Free Drag & Drop Website Builder with 250+ Free Responsive Professional Themes
+Easy to Use Editor, One Click Publish
+Accessible via cPanel Free Pre-Built WordPress Templates with Demo Data
+30% Discount on Web Design Services
+Reliable & Professional SupportDelivery: InstantORDER NOW
+DirectAdmin Basic Hosting IKSh 2,750Yearly Excl
+VAT25 GB Secure Disk Space250 GB Monthly Bandwidth SSH & FTP Access DirectAdmin Control Panel Unlimited Email Accounts Unlimited MySQL Databases Host up to 5 Addon Domains Free remote backup for your entire DirectAdmin Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken twice a week
+Easy self-service backup management via DirectAdmin Dashboard and Client Area
+Unlimited Sub Domains DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 Free Pre-Built WordPress Templates with Demo Data
+15% Discount on Web Design Services
+Free Drag & Drop Website Builder with 250+ Free Responsive Professional Themes
+Easy to Use Editor, One Click Publish
+Accessible via cPanel Reliable & Professional SupportDelivery: InstantORDER NOWDirectAdmin Basic Hosting IIKSh 3,750Yearly Excl
+VAT35 GB Secure Disk Space300 GB Monthly Bandwidth SSH & FTP Access DirectAdmin Control Panel Unlimited Email Accounts Unlimited MySQL Databases Host up to 10 Addon Domains Free remote backup for your entire DirectAdmin Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken twice a week
+Easy self-service backup management via DirectAdmin Dashboard and Client Area
+Unlimited Sub Domains DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 Free Pre-Built WordPress Templates with Demo Data
+20% Discount on Web Design Services
+Free Drag & Drop Website Builder with 250+ Free Responsive Professional Themes
+Easy to Use Editor, One Click Publish
+Accessible via cPanel Reliable & Professional SupportDelivery: InstantORDER NOWDirectAdmin Basic Hosting IIIPOPULARKSh 5,500Yearly Excl
+VAT50 GB Secure Disk Space350 GB Monthly Bandwidth SSH & FTP Access DirectAdmin Control Panel Unlimited Email Accounts Unlimited MySQL Databases Host up to 15 Addon Domains Free remote backup for your entire DirectAdmin Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken twice a week
+Easy self-service backup management via DirectAdmin Dashboard and Client Area
+Unlimited Sub Domains DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 Free Pre-Built WordPress Templates with Demo Data
+25% Discount on Web Design Services
+Free Drag & Drop Website Builder with 250+ Free Responsive Professional Themes
+Easy to Use Editor, One Click Publish
+Accessible via cPanel Reliable & Professional SupportDelivery: InstantORDER NOWDirectAdmin Basic Hosting IVKSh 10,500Yearly Excl
+VAT70 GB Secure Disk Space400 GB Monthly Bandwidth SSH & FTP Access DirectAdmin Control Panel Unlimited Email Accounts Unlimited MySQL Databases Host up to 20 Addon Domains Free remote backup for your entire DirectAdmin Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken twice a week
+Easy self-service backup management via DirectAdmin Dashboard and Client Area
+Unlimited Sub Domains DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 Free Pre-Built WordPress Templates with Demo Data
+30% Discount on Web Design Services
+Free Drag & Drop Website Builder with 250+ Free Responsive Professional Themes
+Easy to Use Editor, One Click Publish
+Accessible via cPanel Reliable & Professional SupportDelivery: InstantORDER NOW
+Business Standard Hosting IBoosted By Dedicated Server ResourcesKSh 6,500Yearly Excl
+VAT50 GB Secure Disk Space350 GB Monthly Bandwidth SSH & FTP Access Free remote backup for your entire cPanel Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken thrice a week
+Easy self-service download and restore via cPanel
+Free additional remote backup for all your databases, taken daily with 7 days retention
+Easy self-service download and restore via cPanel
+Latest cPanel/WHM Unlimited Email Accounts Unlimited Sub Domains Unlimited MySQL Databases PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals Free SEO & Marketing Tools LiteSpeed Enterprise Web Server Free Pre-Built WordPress Templates with Demo Data
+15% Discount on Web Design Services
+Reliable & Professional Support, with an assigned Account Relationship Manager.Delivery: InstantORDER NOWBusiness Standard Hosting IIBoosted By Dedicated Server ResourcesKSh 9,500Yearly Excl
+VAT65 GB Secure Disk Space400 GB Monthly Bandwidth SSH & FTP Access Free remote backup for your entire cPanel Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken thrice a week
+Easy self-service download and restore via cPanel
+Free additional remote backup for all your databases, taken daily with 7 days retention
+Easy self-service download and restore via cPanel
+Latest cPanel/WHM Unlimited Email Accounts Unlimited Sub Domains Unlimited MySQL Databases PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals Free SEO & Marketing Tools LiteSpeed Enterprise Web Server Free Pre-Built WordPress Templates with Demo Data
+20% Discount on Web Design Services
+Reliable & Professional Support, with an assigned Account Relationship Manager.Delivery: InstantORDER NOWBusiness Standard Hosting IIIBoosted By Dedicated Server ResourcesPOPULARKSh 12,500Yearly Excl
+VAT120 GB Secure Disk Space450 GB Monthly Bandwidth SSH & FTP Access Free remote backup for your entire cPanel Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken thrice a week
+Easy self-service download and restore via cPanel
+Free additional remote backup for all your databases, taken daily with 7 days retention
+Easy self-service download and restore via cPanel
+Latest cPanel/WHM Unlimited Email Accounts Unlimited Sub Domains Unlimited MySQL Databases PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals Free SEO & Marketing Tools LiteSpeed Enterprise Web Server Free Pre-Built WordPress Templates with Demo Data
+25% Discount on Web Design Services
+Reliable & Professional Support, with an assigned Account Relationship Manager.Delivery: InstantORDER NOWBusiness Standard Hosting IVBoosted By Dedicated Server ResourcesKSh 18,500Yearly Excl
+VAT150 GB Secure Disk Space500 GB Monthly Bandwidth SSH & FTP Access Free remote backup for your entire cPanel Account (including website files, databases, emails, cron jobs, SSL certs and dns zones) taken thrice a week
+Easy self-service download and restore via cPanel
+Free additional remote backup for all your databases, taken daily with 7 days retention
+Easy self-service download and restore via cPanel
+Latest cPanel/WHM Unlimited Email Accounts Unlimited Sub Domains Unlimited MySQL Databases PHP 5.5 (Hardened), 5.6, 7.0, 7.1, 7.2, 7.3, 7.4 DDOS Protection Premium SMTP Relay Spam & Virus Protection Imunify360 6-Layer security with advanced firewall protection, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), Malware Detection and Proactive Defence
+Free Let's Encrypt SSL/TLS Certificates
+Automatic SSL renewals Free SEO & Marketing Tools LiteSpeed Enterprise Web Server Free Pre-Built WordPress Templates with Demo Data
+30% Discount on Web Design Services
+Reliable & Professional Support, with an assigned Account Relationship Manager.Delivery: InstantORDER NOW
+Premium VPS IcPanel/WHM Fully ManagedKSh 6,500Monthly Excl
+VAT10 GB Guaranteed Memory4 CPU Cores700 GB HDD Storage
+(SSD Boosted)100 Mbit/s Port1 IPv4 Address/64 IPv6 Addresses Unmetered Traffic KVM Virtualization cPanel/WHM License
+- Free Up to 5 Accounts KernelCare + Imunify360 Security included free for up to 30 users SpamExperts Outgoing Filtering included free for up to 30 DomainsOnetime Setup Fee: KSh 6,500Delivery: 24-72 HoursORDER NOWPremium VPS IIcPanel/WHM Fully ManagedKSh 7,500Monthly Excl
+VAT20 GB Guaranteed Memory6 CPU Cores1400 GB HDD Storage
+(SSD Boosted)1 Gbit/s Port1 IPv4 Address/64 IPv6 Addresses Unmetered Traffic KVM Virtualization cPanel/WHM License
+- Free Up to 30 Accounts KernelCare + Imunify360 Security included free for up to 30 users SpamExperts Outgoing Filtering included free for up to 30 DomainsOnetime Setup Fee: KSh 7,500Delivery: 24-72 HoursORDER NOWPremium VPS IIIcPanel/WHM Fully ManagedPOPULARKSh 10,000Monthly Excl
+VAT30 GB Guaranteed Memory8 CPU Cores800 GB Pure SSD600 Mbit/s Port1 IPv4 Address/64 IPv6 Addresses Unmetered Traffic KVM Virtualization cPanel/WHM License
+- Free Up to 30 Accounts KernelCare + Imunify360 Security included free for up to 30 users SpamExperts Outgoing Filtering included free for up to 30 DomainsOnetime Setup Fee: KSh 10,000Delivery: 24-72 HoursORDER NOWPremium VPS IVcPanel/WHM Fully ManagedKSh 12,500Monthly Excl
+VAT60 GB Guaranteed Memory10 CPU Cores1600 GB Pure SSD1 Gbit/s Port1 IPv4 Address/64 IPv6 Addresses Unmetered Traffic KVM Virtualization cPanel/WHM License
+- Free Up to 30 Accounts KernelCare + Imunify360 Security included free for up to 30 users SpamExperts Outgoing Filtering included free for up to 30 DomainsOnetime Setup Fee: KSh 12,500Delivery: 24-72 HoursORDER NOW
+Company Sasahost™ Limited is a private ICT company which was incorporated in Kenya in 2009
+Before incorporation, it operated as Sasahost Web Solutions between March 2007 and November 2009
+The company is licensed by the Communications Authority of Kenya (CA) and accredited by KeNIC Registry.
+With over 10 years of extensive hosting experience, our Mission is to provide reliable web and mobile solutions through
+secure infrastructure, enabling technologies and professional support in order to create a positive, memorable customer experience in the internet space
+Currently serving over 12,000 customers globally
+Read More…
+HostingManaged cPanel Dedicated Servers
+Managed Cpanel VPS Hosting
+Business Standard Hosting
+cPanel Basic Web Hosting
+DirectAdmin Basic Hosting
+Web SecurityImunify360 Security
+Comodo SSL Certificates
+GeoTrust® SSL Certificates
+Rapidssl® Certificates
+Thawte™ SSL Certificates
+Services & LicensesOutsourced Support Services
+e-Commerce Solutions
+Server Virtualization
+Backup as a service (BaaS)
+DomainsDomain Registration
+.KE Domain Names
+Domain Availability Checker
+WHOIS Domain Lookup
+Head Office LocationEven Business Park, Block 3CAirport North Road, Off Mombasa RoadNairobi City, KenyaEmail: sales@sasahost.co.kePhone: +254-713/732-478555
+Terms of Service
+Privacy Policy
+Cookie Policy
+QA Forums
+Blog
+Report Abuse
+© 2007-2022 | Sasahost™ Limited | All Rights Reserved.
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits
+By clicking “Accept All”, you consent to the use of ALL the cookies
+However, you may visit "Cookie Settings" to provide a controlled consent.Cookie SettingsAccept AllManage consent
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website
+Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the ...
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly
+These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin
+The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin
+The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin
+The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin
+The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies
+It does not store any personal data.
+Functional
+Functional
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance
+Performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytics
+Analytics
+Analytical cookies are used to understand how visitors interact with the website
+These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement
+Advertisement
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns
+These cookies track visitors across websites and collect information to provide customized ads.
+Others
+Others
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+SAVE & ACCEPT
+Scroll to Top

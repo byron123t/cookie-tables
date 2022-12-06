@@ -1,0 +1,3 @@
+https://www.tricolor.tv/cookies/
+https://www.tricolor.tv/cookies/?not_save=Y
+https://www.tricolor.tv/cookies/?not_save=N

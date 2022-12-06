@@ -1,0 +1,750 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check Point Cookies Notice - Check Point Software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Free Demo!
+Contact Us
+Support Center
+Sign In
+Blog
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+Geo Menu
+
+
+
+Choose your language...
+English (English)
+Spanish (Español)
+French (Français)
+German (Deutsch)
+Italian (Italiano)
+Portuguese (Português)
+Russian (Русский)
+Japanese (日本語)
+Chinese (中文)
+Czech (čeština)
+Indonesian (Bahasa Indonesia)
+Korean (한국어)
+Dutch (Nederlands)
+Polish (Polszczyzna)
+Turkish (Türkçe)
+Taiwan (繁體中文)
+Vietnamese (Tiếng Việt)
+
+
+
+
+
+
+
+
+Products
+
+
+Quantum
+
+Quantum Maestro
+Quantum Lightspeed
+Quantum Security Gateway
+Quantum Spark
+Quantum Edge
+Quantum IoT Protect
+Quantum VPN
+Quantum Smart-1
+Quantum Smart-1 Cloud
+Quantum Cyber Security Platform
+
+
+
+CloudGuard
+
+CloudGuard Network
+CloudGuard Private Cloud
+CloudGuard Public Cloud
+CloudGuard CNAPP
+CloudGuard Posture Management
+CloudGuard Workload
+CloudGuard AppSec
+CloudGuard Intelligence
+CloudGuard Spectral
+
+
+
+Harmony
+
+Harmony Endpoint
+Harmony Connect (SASE)
+Harmony Browse
+Harmony Email & Collaboration
+Harmony Mobile
+
+
+
+Horizon
+
+Horizon MDR/MPR
+Horizon XDR/XPR
+Horizon Events
+ThreatCloud
+Infinity Portal
+View All Products A-Z >
+
+
+
+
+
+Increase Protection and Reduce TCO with a Consolidated Security Architecture
+DISCOVER
+                                
+
+
+Products Overview
+
+
+
+
+
+Solutions
+
+
+Cloud Security
+
+Cloud Migration Security
+Compliance in the Cloud
+Cloud Threat Hunting
+Developer Security
+
+
+Cloud Providers
+
+AWS Cloud
+Azure Cloud
+Google Cloud
+
+
+
+Network Security
+
+Hybrid Data Center
+SD-WAN Security
+Zero Trust Security
+IoT Security
+
+
+
+Users & Access Security
+
+Secure Access Service Edge (SASE)
+Endpoint Security
+Mobile Security
+Anti-Ransomware
+Anti-Phishing
+
+
+Security Operations
+
+Zero-Day Protection
+
+
+
+Industry
+
+Retail
+Financial Services
+Government
+Healthcare
+Industrial Control Systems ICS & SCADA
+Telco / Service Provider
+Education
+
+
+Business Size
+
+Large Enterprise
+Small & Medium Business
+Consumer & Small Business
+Solutions Overview >
+
+
+
+
+
+Increase Protection and Reduce TCO with a Consolidated Security Architecture
+DISCOVER
+                                
+
+
+
+
+
+
+
+Support & Services
+
+
+Support
+
+Create/View Service Request
+Contact Support
+Check Point Pro
+Support Programs
+Life Cycle Policy
+License Agreement & Warranty
+RMA Policy
+
+
+
+Training
+
+Mind
+Training & Certification
+Cyber Park
+Secure Academy
+SmartAwareness
+eLearning
+Redeem CLC Credits
+
+
+
+Services
+
+Professional Services
+Account Management
+Lifecycle Management Services
+Security Consulting
+ThreatCloud Managed Security Service
+Incident Response Services
+
+
+
+
+HackingPoint Training
+Learn hackers inside secrets to beat them at their own game.
+View Courses
+                                
+
+
+
+
+
+
+
+Partners
+
+
+Channel Partners
+
+Become a Partner
+MSSP Partner Program
+Global Systems Integrators
+SMB Partners
+Find a Partner
+
+
+
+Technology Partners
+
+Featured Technology Partners
+AWS Cloud
+Azure Cloud
+
+
+
+Partner Portal 
+
+Product Catalog
+Renewal Tool
+Partner Dashboard
+Campaign Central
+Campaign Marketplace
+
+
+
+
+Check Point Partner Ecosystem
+Frank Rauch,Head of Worldwide Channel Sales
+Watch Video
+                                
+
+
+
+
+
+
+
+Resources
+
+
+Resources
+
+Content Resource Center 
+Product Demos
+Product Trials
+Customer Stories
+Events
+Webinars
+Videos
+Cyber Hub
+
+
+
+Downloads & Documentation
+
+Downloads & Documentation
+Product Catalog 
+Renewal Pricing Tool
+
+
+
+Cyber Security Insights
+
+Check Point Blog
+Check Point Research
+Cyber Talk for Executives 
+CheckMates Community
+
+
+
+
+CPX 360 - NOW ON DEMAND
+The most important cyber security event of 2022
+LEARN MORE
+                                
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Search
+
+
+
+
+
+
+Geo Menu
+
+Choose your language...
+English (English)
+Spanish (Español)
+French (Français)
+German (Deutsch)
+Italian (Italiano)
+Portuguese (Português)
+Russian (Русский)
+Japanese (日本語)
+Chinese (中文)
+Czech (čeština)
+Indonesian (Bahasa Indonesia)
+Korean (한국어)
+Dutch (Nederlands)
+Polish (Polszczyzna)
+Turkish (Türkçe)
+Taiwan (繁體中文)
+Vietnamese (Tiếng Việt)
+
+
+
+
+
+Toggle Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy | Website Terms and Conditions
+
+
+
+
+
+
+Check Point Cookies Notice
+This Cookies Notice provides you with information about the cookies we use and why we use them. It should be read together with the Check Point Website Terms and Conditions (governing your use of the Webpages and Services) and the Check Point Privacy Policy (outlining our practices regarding your personal data).
+This Cookies Notice applies to cookies used on any Check Point website with the Check Point domain and the Check Point operated websites listed below including (each a “Webpage” and together the “Webpages”):
+
+www.cybertalk.org
+www.cpcheckme.com
+www.zonealarm.com
+
+This Cookies Notice also applies to cookies used on any Check Point service including these listed below, which may not be an exhaustive list (each a “Service” and together the “Services”):
+
+Check Point Mobile Security Solutions;
+ThreatCloud;
+Capsule Cloud;
+SandBlast Cloud Service
+
+References to “We” and “Us” in this Cookies Notice means Check Point Software Technologies Ltd., 5 Shlomo Kaplan Street, Tel Aviv 67897, Israel, and other affiliates or companies within the Check Point international group.
+Unless otherwise stated, the definitions used in the Check Point Website Terms and Conditions are adopted in this Cookies Notice.
+A. WHAT ARE COOKIES?
+Cookies are small text files that are sent to and temporarily stored on your computer, smartphone or other device for accessing the internet whenever you visit a website.
+B. WHY DO WE USE COOKIES?
+We use Cookies for a variety of reasons, including:
+
+To improve the functionality and performance of the Webpages and Services (including your user experience) and to make sure the Webpages and Services perform as you expect them to
+To prevent any potential disruptions or cyber attacks to the Webpages or Services
+To distinguish you from other users of the Webpages and Services, and
+To allow us to tailor Webpage and Service content to better suit your interests and needs
+
+C. TYPES OF COOKIES WE USE
+We use the following types of cookies on our Webpages:
+
+
+
+
+Cookies
+Description
+Duration
+
+
+Analytics and Integrity cookies
+These help us analyze how you use the Webpages and Services and allow us to identify what you like, do not like and how we can improve things for you. They also allow for site integrity, such as remembering when you are logged into a secure area.
+These cookies will remain until they are deleted.
+
+
+Session cookies
+These cookies are essential to ensure performance of our Webpages and allow you to use our online services. You will be unable to load our pages if you block these cookies. We also use session cookies to save your language preferences or display search queries.
+These cookies will expire when you leave the Webpages.
+
+
+Functionality cookies
+These cookies are not essential but they enhance your use of the Webpages. Pre-filling of fields is one example of what these cookies do, as are social media cookies which allow for the sharing of content.
+These cookies typically expire after 2 years.
+
+
+Authentication cookies
+These provide you with access to User Center: our secured login area and main portal (“User Center”). Without this cookie, you will be unable to register or log in, and thus be unable to access User Center.
+These cookies typically expire after 6 years
+
+
+‘Strictly necessary’ cookies
+These cookies are essential to ensure performance of the Webpages and include Session Cookies.
+These cookies typically expire after 3 months
+
+
+Targeting or advertising cookies
+These cookies allow us to display promotions and advertisements from external websites that may be of interest to you. We have also signed a written data processing agreement with Google based on a template created by Google in association with data protection authorities. For further information on this, please contact Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland or visit www.google.com/analytics/terms/de.html and/or www.google.de/intl/de/policies/privacy.
+For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices if you are in the United States, or youronlinechoices.eu if you are outside the United States.
+These cookies typically expire after 3 months
+
+
+
+
+Most of the cookies we use do not save any information that can identify you as an individual. Instead, we receive general and anonymized information from these cookies regarding all users of our Webpages and Services, including, but not limited to: the services accessed, the browser and operating systems used, activity data relating to the use of documents, time and date stamps, the type of user device and the cities that users are located in. We only collect part of your IP address in a form that does not permit recognition of or mapping to a specific individual.
+Where you have provided us with information about you as an individual (for example, by registering with us), we may use information collected using cookies to identify you as an individual and to inform you about products or services that may be of interest to you.
+We use this collected data for the purposes of troubleshooting, internet based advertising, informing you about products or services that may be of interest to you and improving the services offered.
+D. MANAGING YOUR COOKIES
+By using the Webpages and/or closing the pop-up cookie notice, you consent to the use of cookies on the Webpages. If you do not consent to the use of cookies on the Webpages, you should immediately leave the Webpages and/or change your browser settings to block cookies.
+The browsers of most computers, smartphones and other web-enabled devices are typically set up to accept cookies. If you wish to amend your cookie preferences for the Webpages, you can do this at any time by changing your browser settings. Your browser’s ‘help’ function will tell you how to do this. You do not have to accept cookies, however, please note that cookies are often used to enable and improve certain functions on the Webpages. If you choose to block cookies through your browser settings, it is likely to affect how the Webpages work and you may not be able to access all or parts of the Webpages.
+For more information about how to disable cookies, visit www.allaboutcookies.org.
+For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices if you are in the United States, or youronlinechoices.eu if you are outside the United States.
+E. CONTACT US
+Questions, comments and requests regarding this Cookies Notice can be sent to us using the contact details set out below:
+checkpoint.com/about-us/contact-us
+Or: privacy_inquiries@checkpoint.com
+United States
+Check Point Software Technologies Inc.
+959 Skyway Road, Suite 300
+San Carlos, CA 94070
+International
+Check Point Software Technologies Ltd.
+5 Shlomo Kaplan Street
+Tel Aviv 67897, Israel
+
+
+
+
+
+
+
+UnderAttack?
+
+
+
+
+
+
+
+
+ChatHello! How can I help you?START CHAT
+
+
+
+Contact
+
+
+
+
+
+
+
+×
+  Feedback
+
+
+
+
+
+
+
+
+
+×Close
+
+
+
+
+
+
+
+
+Related InformationWhat is a Secure Web Gateway (SWG)?What is a DNS (Domain Name Server)What is Web Security?
+
+
+
+
+
+Products
+
+Products Overview
+Consumer Products
+
+
+
+Resources
+
+Customer Stories
+Events
+CPX 360
+Webinars
+Videos
+Cyber Hub
+
+
+
+Communities
+
+Check Point Blog
+Check Point Research
+Cyber Talk for Executives
+CheckMates Community
+
+
+
+Technical Resources
+
+User Center
+Security Check Up
+Advisories
+Threat Map
+Threat Wiki
+URL Categorization
+App Wiki
+
+
+
+Company
+
+Leadership
+Company Overview
+Investor Relations
+Press Releases
+Check Point in the Media
+Careers
+Contact Us
+Merchandise Store
+
+
+
+
+
+
+ Contact Sales
+                                
+
+North America:
+
++1-866-488-6691
+
+International:
+
++44-125-333-5558
+
+
+
+
+
+ Contact Support
+                                
+
+North America:
+
++1-888-361-5030
+
+International:
+
++44-114-478-2845
+
+
+
+
+
+
+
+
+Follow Us
+
+
+
+
+
+
+YOU DESERVE THE BEST SECURITY™
+©1994-
+                            2022 Check Point Software Technologies Ltd. All rights reserved.
+Copyright | Privacy Policy
+
+
+
+
+
+
+
+This website uses cookies for its functionality and for analytics and marketing purposes. By continuing to use this website, you agree to the use of cookies. For more information, please read our Cookies Notice.
+
+OK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+

@@ -1,0 +1,858 @@
+
+
+
+
+Privacy Policy | Minute.ly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Home
+Products
+Technology
+About
+Careers
+Media
+Contact Us
+
+
+
+Menu
+
+Home
+Products
+Technology
+About
+Careers
+Media
+Contact Us
+
+
+
+
+
+
+
+
+Request a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Home
+Products
+Technology
+About
+Careers
+Media
+Contact Us
+
+
+
+Menu
+
+Home
+Products
+Technology
+About
+Careers
+Media
+Contact Us
+
+
+
+
+
+
+
+
+Request a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy policy 
+
+
+
+We are committed to protecting the personal data that we obtain 
+
+
+
+The privacy and confidentiality of our clients, contractors, associates and visitors to our website matters to us.
+
+Please contact us if you have any questions, comments or suggestions relating to this Policy. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minute Website and End User Privacy Notice
+Minute Spoteam Ltd. (“we“, “us“, “our” or “Minute“) respects your right to privacy. Your ability to make informed choices about the use of your information is important to us. This Privacy Notice explains how we collect, use, disclose, and protect information we receive from visitors to our website, www.minute.ly (“Site“). This Privacy Notice also explains your ability to control certain uses of the collected information. “You” means any adult visitor to our Site and/or any parent or guardian of any minor whom you allowed to visit such sites and for whom you will be held strictly responsible.
+If you are an individual located in the European Union (“EU Individual“), some additional terms and rights may apply to you, as detailed herein. Minute is the data controller in respect of the processing of Personal Data (as defined below) of visitors to the Site, as outlined in this Privacy Notice. Our registered office is Soncino St 3, Tel Aviv-Yafo, Israel and our registration number is 515090652. When we process information of visitors to Customer Sites (as defined below) in the context of providing services to our Customers, the applicable Customer serves as a data controller with respect to such Personal Data and we serve as a data processor.
+“Personal Data” means any information that refers, is related to, or is associated with an identified or identifiable individual or as otherwise may be defined by applicable law. This Privacy Notice details which Personal Data is collected by us in connection with provision of the Services.
+If you are a visitor to the website of one of our Customers, please see the “Visitors to Customer Sites” section below.
+Privacy Notice Key Points
+The key points listed below are presented in further detail throughout this Privacy Notice. These key points do not substitute the full Privacy Notice.
+
+Visitors to Customer Sites
+Personal Data We Collect, Uses and Legal Basis
+Sharing the Personal Data We Collect
+International Transfer
+Your Rights
+Data Retention
+Use of Cookies and Similar Technologies
+Third-Party Applications and Services
+Changes to the Privacy Notice
+
+Visitors to Customer Sites
+We collect and process certain Personal Data of individuals who visit the websites of our customers (“Customers” and “Customer Sites“, respectively). We collect and use this data solely for the purpose of providing services to our Customers, at their instruction, and on their behalf.
+When we process information of visitors to Customer Sites the applicable Customer serves as a data controller with respect to such Personal Data and we act as a data processor on its behalf.
+When you visit our Customers’ Sites, we automatically collect information about which pages, your computer, including non-Personal Data such as your operating system, Personal Data such as your IP address (which is not retained), your general location (city and country), your browsing history which will include the pages visited, which videos are watched, which teasers are clicked, what articles are read and usage information from the “video player” such as when the video was played/paused, volume control, and information regarding your viewing history on the Customer Site.
+The information we collect will be shared with the Customer whose Customer Site you visit.
+In order to collect this information, we may place cookies on the Customer Site. Depending on the type of service we provide to the Customer, different cookies may be placed.
+
+
+
+
+Cookie
+
+
+Usage
+
+
+
+
+minDaily
+
+
+If user belongs to control group, was unique analytic sent
+
+
+
+
+minBuffer
+
+
+Buffer buckets
+
+
+
+
+minSession
+
+
+SessionID, Unique APV impressions and clicks, Was Analytics sent
+
+
+
+
+minVersion
+
+
+Current version for A/B testing
+
+
+
+
+minUniq
+
+
+UserID, which highlights were given for Internal A/B testing
+
+
+
+
+minSessionToken10
+
+
+SessionID, UserID, viewed hits
+
+
+
+
+_minEE1_debug
+
+
+Analytics Buffer
+
+
+
+
+Local Storage
+
+
+Usage
+
+
+
+
+minViewedHits
+
+
+APV performance A/B test
+
+
+
+
+You can change the settings within your browser so that no cookies will be placed. In addition, you are free to delete any existing cookies at any time.
+For more information about these processing activities or to exercise any rights you may have as a data subject, please contact the applicable Customer directly.
+Personal Data We Collect, Uses and Legal Basis
+Depending on your usage, we collect different types of data and we and any of our third-party sub-contractors and service providers use the data we collect for different purposes, as specified below. It is your voluntary decision whether to provide us with certain Personal Data, but if you refuse to provide such Personal Data, we may not be able to provide you with the Site or the services thereon (“Services“).
+Visitors to the Site. When you visit the Site, we may collect the following types of Personal Data from you:
+
+Contact Information: When you request information from us or contact us for any other reason, including to request a demo, we will collect any data you provide, such as your full name, email address, company website, your phone number and the subject of your inquiry. We will also collect the page views per month on your company’s website if you provide us with such information. 
+
+How we use this data: To respond to your request or inquiry and to provide you with news, updates, and marketing emails, if you have chosen to receive such communications.
+Legal Basis: We process this Personal Data based on performance of a contract when we respond to your inquiry and based on your consent, when we provide you with newsletters and marketing emails. 
+
+When you visit the Site, we automatically collect information about your computer or mobile device, including non-Personal Data such as your operating system, and Personal Data such as IP address, and location (country / city only) and any information regarding your viewing history on our Site. For more information about the cookies and similar technologies we use and how to adjust your preferences, please see the section “Cookies and Similar Technologies” below.
+
+How we use this data: (1) to review usage and operations, including in an aggregated non-specific analytical manner, develop new products or services and improve current content, products, and Services; (2) to prevent fraud, protect the security of our Site and Services, and address any problems with the Site and/or Services; (3) to provide you with customized content, targeted offers, and advertising related to our products and Services, based on your usage history on the Site, on other third-party sites or apps you may visit and/or use. 
+Legal Basis: We process this Personal Data based on our legitimate interests to develop and improve our products and Services, review usage, perform analytics, prevent fraud, for our record keeping and protection of our legal rights and to market our own products and services. Additional information regarding direct marketing is provided below.
+Additional Uses
+Statistical Information
+By analyzing all information we receive, including all information concerning users, we may compile statistical information across a variety of users (“Statistical Information“). Statistical Information helps us understand trends and user needs so that new products and services can be considered and so that existing products and services can be tailored to user desires. Statistical Information does not indicate individuals’ identities. We may share Statistical Information with our partners, without restriction, on commercial terms that we can determine in our sole discretion.
+Analytics
+We and/or our service providers or subcontractors, use analytics tools (“Tools“), including “Google Analytics” to collect information about the use of the Site. Such Tools collect information such as how often users visit the Site, what pages they visit when they do so, and what other sites and mobile applications they used prior to visiting the Site. The Tools may collect certain Personal Data and may link such Personal Data to specific information stored in our customer database. We use the information we get from the Tools to improve our Site. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Service located at http://www.google.com/analytics/terms/us.html and the Google Privacy Policy located at http://www.google.com/policies/privacy/. 
+Direct Marketing
+As described above, if you are a visitor to our Site, we may use Personal Data to let you know about our products and Services that we believe will be of interest to you. If you have chosen to receive such communications, we may contact you by email or telephone, or through other communication channels. In all cases, we will respect your preferences for how you would like us to manage marketing activity with respect to you. To protect privacy rights and to ensure you have control over how we manage marketing with you:
+
+We will take steps to limit direct marketing to a reasonable and proportionate level and only send you communications which we believe may be of interest or relevance to you.
+You can ask us to stop sending email marketing by following the “unsubscribe” link you will find on all the email marketing messages we send you. Alternatively, you can contact us at support@minute.ly.
+You can change the way your browser manages cookies, which may be used to deliver online advertising, by following the settings on your browser as explained below. If our marketing activities are based upon your consent, you may withdraw this consent at any time.
+
+Sharing the Personal Data We Collect
+We share your information, including Personal Data, as follows:
+Service Providers, and Subcontractors
+We disclose information, including Personal Data we collect from and/or about you, to our trusted service providers and subcontractors, who have agreed to confidentiality restrictions and who use such information solely on our behalf in order to: (1) help us provide you with the Site and/or help us provide you with the Services; (2) aid in their understanding of how users are using our Site and/or Services; and (3) if you are visitor to our Site, provide to you targeted offers and advertising on both our Site and on other sites you choose to visit; and (4) if you are a visitor to our Site and have requested that we do so, to provide you with information and marketing materials.
+Such service providers and subcontractors provide us with IT and system administration services, data backup, security, and storage services, data analysis and help us serve advertisements and provide other marketing services.
+Business Transfers
+Your Personal Data may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition (including in cases of liquidation) in such case, your Personal Data shall continue being subject to the provisions of this Privacy Notice.
+Law Enforcement Related Disclosure
+We may share your Personal Data with third parties: (i) if we believe in good faith that disclosure is appropriate to protect our or a third party’s rights, property or safety (including the enforcement of the Terms and this Privacy Notice); (ii) when required by law, regulation subpoena, court order or other law enforcement related issues, agencies and/or authorities; or (iii) as is necessary to comply with any legal and/or regulatory obligation. 
+Legal Uses
+We may use your Personal Data as required or permitted by any applicable law, for example, to comply with audit and other legal requirements. 
+Other Uses or Transfer of Your Personal Data
+If you use our Site and/or Services with or through a third-party service, site and/or mobile application, we may receive information (including Personal Data) about you from those third parties. Please note that when you use third-parties outside of our Site and/or Services, their own terms and privacy policies will govern your use of those services.
+International Transfer
+We use subcontractors and service providers who are located in countries other than your own and send them information we receive (including Personal Data). We conduct such international transfers for the purposes described above. We will ensure that these third parties will be subject to written agreements ensuring the same level of privacy and data protection as set forth in this Privacy Notice, including appropriate remedies in the event of the violation of your data protection rights in such third country.
+Whenever we transfer your Personal Data to third parties based outside of the European Economic Area (“EEA“), we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
+
+We will only transfer your Personal Data to countries that have been deemed to provide an adequate level of protection for Personal Data by the European Commission.
+Where we use certain service providers not located in countries with an adequate level of protection as determined by the European Commission, we may use specific contracts approved by the European Commission which give Personal Data the same protection it has in the EEA.
+
+Please contact us at support@minute.ly if you would like further information on the specific mechanism used by us when transferring your Personal Data out of the EEA. 
+Security 
+We have implemented and maintain appropriate technical and organization security measures, policies and procedures designed to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to Personal Data appropriate to the nature of such data. The measures we take include:
+Safeguards – The physical, electronic, and procedural safeguards we employ to protect your Personal Data include secure servers, firewalls, antivirus, and SSL encryption of data.
+Access Control – We dedicate efforts for a proper management of system entries and limit access only to authorized personnel on a need to know basis of least privilege rules, review permissions quarterly, and revoke access immediately after employee termination.
+Internal Policies – We maintain and regularly review and update our privacy related and information security policies.
+Personnel – We require new employees to sign non-disclosure agreements according to applicable law and industry customary practice.
+Encryption – We encrypt the data in transit using secure https protocols.
+Database Backup – Our databases are backed up on a periodic basis for certain data and are verified regularly. Backups are encrypted and stored within the production environment to preserve their confidentiality and integrity, are tested regularly to ensure availability, and are accessible only by authorized personnel.
+However, no method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+As the security of information depends in part on the security of the computer you use to communicate with us and the security you use to protect user IDs and passwords, please take appropriate measures to protect this information.
+Your Rights – How to Access and Limit Our Use of Certain Personal Data
+Subject to certain exemptions, and in some cases dependent upon the processing activity we are undertaking, you have certain rights in relation to the Personal Data that we hold about you, as detailed below. We will investigate and attempt to resolve complaints and disputes and make every reasonable effort to honor your wish to exercise your rights as quickly as possible and, in any event, within the timescales provided by applicable data protection laws. We reserve the right to ask for reasonable evidence to verify your identity before we provide you with any information and/or comply with any of your requests, as detailed below:
+
+Right of Access. You have a right to know what Personal Data we collect about you and, in some cases, to have such Personal Data communicated to you. Subject to applicable law, we may charge you with a fee. Please note that we may not be able to provide you with all the information you request, and, in such case, we will endeavor to explain to you why.
+Right to Data Portability. If the processing is based on your consent or performance of a contract with you and processing is being carried out by automated means, you may be entitled to (request that we) provide you or another party with a copy of the Personal Data you provided to us in a structured, commonly-used, and machine-readable format.
+Right to Correct Personal Data. Subject to the limitations in applicable law, you may request that we update, complete, correct or delete inaccurate, incomplete, or outdated Personal Data.
+Deletion of Personal Data (“Right to Be Forgotten”). You have a right to request that we delete your Personal Data if either: (i) it is no longer needed for the purpose for which it was collected, (ii) our processing was based on your consent and you have withdrawn your consent, (iii) you have successfully exercised your Right to Object (see below), (iv) processing was unlawful, or (iv) we are required to erase it for compliance with a legal obligation. We cannot restore information once it has been deleted. Please note that to ensure that we do not collect any further Personal Data, you should; terminate your account with us, and clear our cookies from your device. We may retain certain Personal Data (including following your request to delete) for audit and record-keeping purposes, or as otherwise permitted and/or required under applicable law.
+Right to Restrict Processing. You can ask us to limit the processing of your Personal Data if either: (i) you have contested its accuracy and wish us to limit processing until this is verified; (ii) the processing is unlawful, but you do not wish us to erase the Personal Data; (iii) it is no longer needed for the purposes for which it was collected, but we still need it to establish, exercise, or defend of a legal claim; (iv) you have exercised your Right to Object (below) and we are in the process of verifying our legitimate grounds for processing. We may continue to use your Personal Data after a restriction request under certain circumstances.
+Direct Marketing Opt Out. You can change your mind at any time about your election to receive marketing communications from us and/or having your Personal Data processed for direct marketing purposes. If you do, please notify us by contacting us at support@minute.ly. We will process your request as soon as reasonably possible, however it may take a few days for us to update our records before any opt out is effective.
+Right to Object. You can object to any processing of your Personal Data which has our legitimate interests as its legal basis, if you believe your fundamental rights and freedoms outweigh our legitimate interests. If you raise an objection, we have an opportunity to demonstrate that we have compelling legitimate interests which override your rights and freedoms.
+Withdrawal of Consent. You may withdraw your consent in connection with any processing of your Personal Data based on a previously granted consent. This will not affect the lawfulness of any processing prior to such withdrawal.
+Right to Lodge a Complaint with Your Local Supervisory Authority. You may have the right to submit a complaint to the relevant supervisory data protection authority if you have any concerns about how we are processing your Personal Data, though we ask that as a courtesy you please attempt to resolve any issues with us first.
+
+Data Retention
+Subject to applicable law, we retain Personal Data as necessary for the purposes set forth above. We may delete information from our systems without notice to you once we deem it is no longer necessary for these purposes. Retention by any of our processors may vary in accordance with the processor’s retention policy.
+In some circumstances, we may store your Personal Data for longer periods of time, for instance where we are required to do so in accordance with legal, regulatory, tax, audit, accounting requirements and so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your Personal Data or dealings. To determine the appropriate retention period, we consider the amount, nature, and sensitivity of the Personal Data, the potential risk of harm from unauthorized use or disclosure of your Personal Data, the purposes for which we process your Personal Data, and whether those purposes can be achieved through other means, as well as applicable legal requirements.
+Please contact us at support@minute.ly if you would like details regarding the retention periods for different types of your Personal Data.
+Cookies and Similar Technologies
+We use cookies and similar technologies on our Site for a number of reasons, including to help personalize your experience and to personalize the ads we serve you. Third parties through which we provide the Services and/or our business partners may be placing and reading cookies on your browser or using web beacons to collect information in the course of advertising being served on different websites. When visiting this Site, you shall be notified of the use of and placement of cookies and other similar technologies on your device as specified herein.
+What are Cookies?
+A cookie is a small piece of text that is sent to a user’s browser or device. The browser provides this piece of text to the device of the originating user when this user returns.
+
+A “session cookie” is temporary and will remain on your device until you leave the Site.
+A “persistent” cookie may be used to help save your settings and customizations across visits. It will remain on your device until you delete it.
+First-party cookies are placed by us, while third-party cookies may be placed by a third party. We use both first- and third-party cookies.
+
+We may use the terms “cookies” to refer to all technologies that we may use to store data in your browser or device or that collect information or help us identify you in the manner described above, such as web beacons or “pixel tags”.
+How We Use Cookies 
+We use cookies and similar technologies for a number of reasons, as specified below.
+The specific names and types of the cookies, web beacons, and other similar technologies we use may change from time to time. However, the cookies we use generally fall into one of the following categories:
+
+
+
+
+Type of Cookie
+
+
+Why We Use These Cookies
+
+
+
+
+Necessary
+
+
+These cookies are necessary in order to allow the Site to work correctly. They enable you to access the Site, move around, and access different services, features, and tools. Examples include remembering previous actions (e.g. entered text) when navigating back to a page in the same session. These cookies cannot be disabled.
+
+
+
+
+Functionality
+
+
+These cookies remember your settings and preferences and the choices you make (such as language or regional preferences) in order to help us personalize your experience and offer you enhanced functionality and content.
+
+
+
+
+Security
+
+
+These cookies can help us identify and prevent security risks. They may be used to store your session information to prevent others from changing your password without your login information.
+
+
+
+
+Performance
+
+
+These cookies can help us collect information to help us understand how you use our Site, for example whether you have viewed messages or specific pages and how long you spent on each page. This helps us improve the performance of our Site.
+
+
+
+
+Analytics
+
+
+These cookies collect information regarding your activity on our Site to help us learn more about which features are popular with our users and how our Site can be improved.
+
+
+
+
+Advertising
+
+
+These cookies are placed by our third-party vendors in order to deliver content, including ads relevant and meaningful to you and your interests. They may also be used to deliver targeted advertising or to limit the number of times you see an advertisement. This can help track how efficient advertising campaigns are. Such cookies may track your browsing habits and activity when visiting our Site and those of third-parties.
+
+
+
+
+How to Adjust Your Preferences
+Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. In addition, you are free to delete any existing cookies at any time. Please note that some features of the Services may not function properly when cookies are disabled or removed. For example, if you delete cookies that store your account information or preferences, you will be required to input these each time you visit.
+By changing your device settings, you can prevent your device’s ad identifier being used for interest-based advertising, or you can reset your device’s ad identifier. Typically, you can find the ad identifier settings under “privacy” or “ads” in your device’s settings, although settings may vary from device to device. Adjusting your preferences as described in this section herein does not mean you will no longer receive advertisements, it only means the advertisements that you do see will be less relevant to your interests.
+Third-Party Applications and Services
+All use of third-party applications or services is at your own risk and subject to such third party’s terms and privacy policies. 
+Communications 
+We reserve the right to send you service-related communications, including service announcements and administrative messages, without offering you the opportunity to opt out of receiving them. Should you not wish to receive such communications, you may cancel your account. 
+Children
+We do not knowingly collect Personal Data from children under the age of sixteen (16). 
+Changes to the Privacy Notice 
+We may update this Privacy Notice from time to time to keep it up to date with legal requirements and the way we operate our business, and we will place any updates on this webpage. Please come back to this page every now and then to make sure you are familiar with the latest version. If we make material changes to this Privacy Notice, we will seek to inform you by notice on our Site or per email.
+Comments and Questions
+If you have any comments or questions about this Privacy Notice or if you wish to exercise any of your legal rights as set out herein, please contact us at support@minute.ly. 
+Last updated: May 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact US 
+
+
+
+
+
+
+
+
+
+
+
+contact@minute.lysupport@minute.lyYigal Alon 65, Tel Aviv-Yafo, Israel
+
+
+
+
+
+
+
+
+
+
+Home 
+
+
+
+
+
+
+
+
+
+
+
+Home
+Products
+Technology
+
+
+
+Menu
+
+Home
+Products
+Technology
+
+
+
+
+
+
+
+
+
+
+
+Company 
+
+
+
+
+
+
+
+
+
+
+
+About
+Careers
+
+
+
+Menu
+
+About
+Careers
+
+
+
+
+
+
+
+
+
+
+
+Resources 
+
+
+
+
+
+
+
+
+
+
+
+Media
+
+
+
+Menu
+
+Media
+
+
+
+
+
+
+
+
+
+
+
+Other 
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+Terms of Service
+Contact Us
+
+
+
+Menu
+
+Privacy Policy
+Terms of Service
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+Website 
+
+
+
+
+
+
+
+
+
+
+
+Home
+Products
+Technology
+
+
+
+Menu
+
+Home
+Products
+Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minute © 2018. All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+Twitter
+
+
+
+Linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This website uses cookies to enhance your visit and provide you with information tailored to your interests. For more information on our use of cookies please see our Privacy Notice. ACCEPTPrivacy & Cookies Policy
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic...
+
+ 
+
+
+
+
+
+Necessary
+
+Always Enabled 
+
+
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+
+
+
+
+
+
+Non-necessary
+
+
+
+Non-necessary
+ 
+
+
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

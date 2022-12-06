@@ -1,0 +1,363 @@
+General Privacy Notice | National Gallery, London
+Powered by CookiebotConsentDetails[#IABV2SETTINGS#]AboutCookies on the National Gallery websiteWe use some essential cookies to make this website work
+We'd like to set other cookies to remember your settings, measure website use and inform our marketing
+We also use content from other sites in our pages, and those sites may also set cookies
+More information can be found in our cookies policy.Consent SelectionNecessary Preferences Analytics Marketing Show detailsNecessary  30 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+The website cannot function properly without these cookies.Cookiebot2Learn more about this providerCookieConsent [x2]Stores the user's cookie consent state for the current domainExpiry: 1 yearType: HTTPFlippingbook1Learn more about this providerdebugThis cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.Expiry: PersistentType: HTMLGoogle2Learn more about this providerrc::aThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: PersistentType: HTMLrc::cThis cookie is used to distinguish between humans and bots
+Expiry: SessionType: HTMLTwitter Inc.1Learn more about this providerlocal_storage_support_testThe cookie is used in context with the local-storage function in the browser
+This function allows the website to load faster by pre-loading certain procedures
+Expiry: PersistentType: HTMLmy.nationalgallery.org.uk12.ASPXFORMSAUTHUsed by TNEW to indicate a user’s site permissions including access to the TNEW Administration Site
+This supports the security of the service.Expiry: SessionType: HTTPAWSALBRegisters which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+Expiry: 6 daysType: HTTPAWSALBCORSRegisters which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+Expiry: 6 daysType: HTTPQueueITAccepted-SDFrts345E-V3_generalsaleUsed by Queue-it version 2.5 to authenticate a user when a virtual waiting room is enabled
+For more information, visit https://queue-it.com/.Expiry: 1 dayType: HTTPreese84This cookie is used to distinguish between humans and bots
+Expiry: 29 daysType: HTMLFGTServerEnsures that all your requests to our website are sent to the same web server.Expiry: 1 dayType: HTTPincap_ses_#This is used to filter out malicious request.Expiry: SessionType: HTTPnlbi_#Incapsula DDoS Protection and Web Application Firewall: Load balancing cookie
+Ensures requests by a client are sent to the same origin server.Expiry: SessionType: HTTPTNEWUsed by TNEW to store encrypted session information for LIVE sites
+The cookie is used to manage and retain what actions a user has conducted during the session.Expiry: SessionType: HTTPvisid_incap_#The cookie enhances website performance and security
+It remembers visitors across the virtual firewall/CDN.Expiry: 1 yearType: HTTPQueue-itUsed by all Queue-it versions when a virtual waiting room is enabled
+For more information, visit https://queue-it.com/.Expiry: 1 yearType: HTTPQueue-it-tokenUsed by all Queue-it versions when a virtual waiting room is enabled
+For more information, visit https://queue-it.com/.Expiry: 1 dayType: HTTPmy.nationalgallery.org.ukwww.nationalgallery.org.uk4__RequestVerificationToken [x2]Helps prevent Cross-Site Request Forgery (CSRF) attacks.Expiry: SessionType: HTTPASP.NET_SessionId [x2]Preserves the visitor's session state across page requests.Expiry: SessionType: HTTPplay.google.comwww.youtube.com2CONSENT [x2]Used to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+Expiry: 2 yearsType: HTTPwww.nationalgallery.org.uk6ngInfoRemembers the most recently chosen exhibition, event or other product during the current session.Expiry: SessionType: HTTPngSessBasketThis holds the number of items in your basket, if you are signed in to our ticketing website
+It is used to adjust the appearance of the page header.Expiry: SessionType: HTTPngSessMemberThis holds your membership status, if you are signed in to our ticketing website.Expiry: SessionType: HTTPngSessOnThis holds the value Y or N to indicate if you are signed in to on our ticketing website
+It is used to adjust the appearance of the page header.Expiry: SessionType: HTTPngSessUidThis holds your customer number, if you are signed in to our ticketing website.Expiry: SessionType: HTTPngSessUserThis holds your initials, if you are signed in to our ticketing website
+It is used to adjust the appearance of the page header.Expiry: SessionType: HTTPPreferences  6 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.Cookiebot1Learn more about this providerCookieConsentBulkSetting-#Enables cookie consent across multiple websitesExpiry: PersistentType: HTMLwww.nationalgallery.org.uk5AdvancedThis remembers your choice of basic or advanced search in the archive search so that you don't have to choose again next time.Expiry: 3 monthsType: HTTPCollectionPageRemembers how many paintings you have loaded on the search the collection page, so your list can be restored when you go back to the page
+Only saved during your current browsing session.Expiry: SessionType: HTMLPageSizeThis remembers your choice of page size in the archive search so that you don't have to choose again next time.Expiry: 3 monthsType: HTTPRelatedPaintingsRemembers how many paintings you have loaded on each page, so your list can be restored when you go back to the page
+Only saved during your current browsing session.Expiry: SessionType: HTMLSortFieldsThis remembers your choice of sort fields in the archive search so that you don't have to choose again next time.Expiry: 3 monthsType: HTTPAnalytics  16 Analytics cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.Appnexus1Learn more about this providerbounceDetermines if a user leaves the website straight away
+This information is used for internal statistics and analytics by the website operator
+Expiry: SessionType: PixelGoogle6Learn more about this providercollectUsed to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.Expiry: SessionType: Pixel_dc_gtm_UA-# [x2]Used by Google Tag Manager to control the loading of a Google Analytics script tag.Expiry: 1 dayType: HTTP_gat [x2]Used by Google Analytics to throttle request rateExpiry: 1 dayType: HTTP_ga_#Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit
+Expiry: 2 yearsType: HTTPQuantcast5Learn more about this providerqcSes [x2]Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.Expiry: SessionType: HTML__qcaCollects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.Expiry: 1 yearType: HTTP_dltSets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: 1 dayType: HTTPdCollects anonymous data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.Expiry: 3 monthsType: HTTPmy.nationalgallery.org.ukwww.googletagmanager.com2_ga [x2]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 2 yearsType: HTTPwww.google-analytics.commy.nationalgallery.org.uk2_gid [x2]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 1 dayType: HTTPMarketing  33 Marketing cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+Meta Platforms, Inc.1Learn more about this provider_fbpUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: 3 monthsType: HTTPAppnexus2Learn more about this provideranjRegisters a unique ID that identifies a returning user's device
+The ID is used for targeted ads.Expiry: 3 monthsType: HTTPuuid2Registers a unique ID that identifies a returning user's device
+The ID is used for targeted ads.Expiry: 3 monthsType: HTTPFlippingbook1Learn more about this providerclientIdUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+Expiry: PersistentType: HTMLGoogle6Learn more about this providerIDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.Expiry: 1 yearType: HTTPpagead/landing [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: SessionType: Pixeltest_cookieUsed to check if the user's browser supports cookies.Expiry: 1 dayType: HTTPads/ga-audiencesUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.Expiry: SessionType: Pixel_gcl_auUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services
+Expiry: 3 monthsType: HTTPQuantcast1Learn more about this providermcCollects data on the user's visits to the website, such as what pages have been loaded
+The registered data is used for targeted ads.Expiry: 13 monthsType: HTTPSizmek7Learn more about this providerSZMKSessionId [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: PersistentType: HTMLSZMKUin [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.Expiry: PersistentType: HTMLOT_1073745577PendingExpiry: SessionType: HTTPOT2Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 3 monthsType: HTTPu2Collects data related to the user's navigation visits to webpages in order to assess the efficacy of ads that are displayed on the website.Expiry: 3 monthsType: HTTPTwitter Inc.2Learn more about this provider__widgetsettingsThis cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile
+Expiry: PersistentType: HTMLi/jot/embedsSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: SessionType: PixelYouTube12Learn more about this providerVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Expiry: 179 daysType: HTTPYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: SessionType: HTTPyt.innertube::nextIdRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: PersistentType: HTMLyt.innertube::requestsRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: PersistentType: HTMLytidb::LAST_RESULT_ENTRY_KEYStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-cast-availableStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-cast-installedStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-connected-devicesStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-device-idStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-fast-check-periodStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-appStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-nameStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLmy.nationalgallery.org.uk1___utmvcCollects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website.Expiry: 1 dayType: HTTPUnclassified  6Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.my.nationalgallery.org.uk6nlbi_2286311_2147483392PendingExpiry: SessionType: HTTPQueue-it-14a4d925-c99e-4fcb-a803-ca1816613b88PendingExpiry: 1 dayType: HTTPQueue-it-20608429-0049-4b7b-8af6-a49e3477f99bPendingExpiry: 1 dayType: HTTPQueue-it-708e919f-1e0a-4e76-be2c-278feecb7c0fPendingExpiry: 1 dayType: HTTPQueue-it-930de3b7-0605-45a2-aae0-6edae7fe28e6PendingExpiry: 1 dayType: HTTPQueue-it-9d92bd32-d31b-461a-81d0-80b071c38722PendingExpiry: 1 dayType: HTTPCross-domain consent2 Your consent applies to the following domains:List of domains your consent applies to: my.nationalgallery.org.uk www.nationalgallery.org.ukCookie declaration last updated on 10/17/22 by Cookiebot[#IABV2_TITLE#][#IABV2_BODY_INTRO#][#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#][#IABV2_BODY_PREFERENCE_INTRO#][#IABV2_LABEL_PURPOSES#][#IABV2_BODY_PURPOSES_INTRO#][#IABV2_BODY_PURPOSES#][#IABV2_LABEL_FEATURES#][#IABV2_BODY_FEATURES_INTRO#][#IABV2_BODY_FEATURES#][#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PARTNERS_INTRO#][#IABV2_BODY_PARTNERS#]Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+For all other types of cookies we need your permission.This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the cookie declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our privacy notice.Please state your consent ID and date when you contact us regarding your consent
+[#OOI_PERSONAL_INFORMATION#]Save preferences Save preferences Set preferences Accept all cookiesPowered by Cookiebot by Usercentrics
+Skip to main content
+My basket
+Sign in
+My basket
+My account
+Sign out
+Home
+Visit us
+Exhibitions and events
+Art and artists
+Learning
+Research
+Membership
+Support us
+Shop
+Visit us
+Plan your visit
+Across the UK
+Virtual tours
+Floorplans
+Access
+Families
+Exhibitions and events
+What's on now
+Exhibitions
+Events
+Art and artists
+Search the collection
+Highlights from the collection
+Latest arrivals
+Picture of the month
+Contemporary residencies
+Latest stories
+Learning
+Primary schools
+Secondary schools
+Take One Picture
+Articulation
+Research
+About research
+Research Centre
+Research resources
+Research partnerships
+Subject Specialist Network
+Support us
+Support us
+Donate today
+Leave a legacy
+Join the Patrons
+Individuals, Trusts and Foundations
+Corporate support
+Search
+Area to search
+Entire website
+Paintings
+Artists
+Events
+Enter your search text
+Home
+General Privacy Notice
+General Privacy Notice
+We may be required to update the terms of this notice from time to time
+We will notify you about any significant changes in the way we treat personal information usually by sending a notice to the primary email address you have provided or by placing a prominent notice on our website(s)
+It is important that the personal information we hold about you is accurate and current
+Please keep us informed if your personal information changes during your relationship with us.
+This privacy notice was last updated on 22 July 2022.
+The ‘National Gallery’ is the trading name of the Board of Trustees of the National Gallery
+This privacy notice covers the use of personal information by both the Board of Trustees of the National Gallery and our wholly owned trading company, National Gallery Global Limited
+We refer to ourselves throughout this notice as the ‘Gallery’, ‘we’ or ‘us’
+We share personal data responsibly between our two legal entities where necessary for the purposes set out in this privacy notice.
+We are committed to protecting the privacy and security of your personal information and will only use this legally and responsibly.
+This privacy notice describes how we collect and use your personal information
+what we do with it
+and with whom it might be shared, in accordance with the UK General Data Protection Regulation (‘UK GDPR’) and other applicable information laws.
+This privacy notice contains links to other internet pages which contain details about specific activities we undertake
+These pages are deemed to form part of this notice:
+What this means for our email and postal subscribers
+What this means for our members
+What this means for our donors, patrons, and potential supporters
+What this means for your visit
+Who we are
+The Board of Trustees of the National Gallery houses the national collection of paintings in the Western European tradition from the 13th to the early 20th centuries
+Under the UK GDPR, we are the data controller of your data and registered with the ICO under Data Protection Registration Number: Z5597415.
+We are located in:
+The National Gallery,Trafalgar Square,London, WC2N 5DN
+We currently operate the following websites: https://www.nationalgallery.org.uk and https://www.shop.nationalgallery.org.uk.
+The National Gallery Global Limited, is a separate wholly owned legal entity whose main purpose is to generate valuable income for the Board of Trustees of the National Gallery
+It runs shops in the Gallery, enters into contracts for venue hire at the Gallery, oversees the running of the restaurants and cafes, oversees the sale of audio guides, acts as our agent for ticketed exhibitions and events, and runs our Membership Scheme
+It is registered with the ICO under Data Protection Registration Number: Z8038395.
+What personal information do we collect about you
+We only collect personal information that is necessary to run the Gallery, fulfil our obligations to you, and keep you informed about our activities.
+Personal information means any information about an individual from which that person can be identified
+This does not include anonymised information.
+We may collect, store, and use the following personal information about you:
+personal details (name, title, gender, and date of birth);
+contact details (email address, phone number, and postal address), and contact preferences;
+(in the case of Members) any named Joint Member;
+(in the case of patrons and other supporters) family and spouse/partner details, relationships to other Gallery supporters, and/or Members and named Joint Members;
+current interests, preferences and previous activities with the Gallery, such as ticket purchase, event registration/attendance, product selections, and purchase of goods or services;
+feedback submitted related to Gallery services and products and responses to our visitor surveys;
+participation in a competition operated by us or one of our partners;
+donations made to the Gallery;
+financial information: credit card or other payment information (we only store this for as long as we need to process payment), bank details for setting up a regular direct debit, billing and delivery address;
+details of Gift Aid declaration (if applicable to any donation made);
+details provided in correspondence sent or received;
+a password for your online account (although we will not be able to see this)
+any other information provided by you to the Gallery;
+images recorded on our CCTV cameras;
+images captured on film or photography taken in the Gallery and at Gallery external events
+and
+MAC (Media Access Control) addresses of any device(s) you bring with you to the Gallery, whether or not you have connected to our free public Wi-Fi service
+MAC addresses are identifiers which any Wi-Fi enabled device transmits when searching for a Wi-Fi connection.
+If you are a Member, a patron, or donor, please visit our ‘Further reading’ section for more details about the personal data we collect for our Members and other supporters.
+In addition to the above, when you visit our website, we use cookies to improve your experience and personalise the service you receive
+See our Cookies Policy for more information.
+Special categories of personal data
+Under data protection law, certain categories of personal information are recognised as sensitive, including information regarding health, race, religious beliefs, and political opinions (‘special category data’)
+We only collect such information in limited cases, and where there is a clear reason for doing so, such as in relation to accessibility, recording accidents, or dietary requirements for events.
+How do we collect your personal information?
+Direct information
+We collect personal information that is provided to us directly by you, for example when you:
+purchase tickets/products through the website or in person;
+sign up as a Member and/or patron;
+sign up to our email updates;
+register an online account;
+make a donation;
+complete a visitor or shop survey or enter a competition
+or
+communicate with us by phone, email, or letter.
+Indirect information
+We collect information about the services you use and how you use them, for example:
+when you visit our website, see our Cookies Policy for more information,
+when you view and interact with our emails, advertisements, and content;
+information about contact you have with us;
+through the use of CCTV in and around our premises for monitoring and security purposes
+and
+information collected via your MAC address when you visit the Gallery, for the purpose of maintaining our free public Wi-Fi service, and monitoring and analysing this usage (in an aggregated and anonymous format) to improve our visitor experience.
+Information from third parties
+We may also receive information about you from third parties, for example when you:
+enter a competition run on a partner website (and agree to the sharing of your information with us)
+or
+follow our social media channels (subject to your privacy settings on those channels).
+Information from publicly available sources
+In relation to some patrons, other donors, and potential supporters, we may collect publicly available information about you to assist us with our activities
+See also What this means for our donors, patrons, and potential supporters.
+How do we use your information and what is our legal basis for processing it?
+We will only process your information if we have a legal basis for doing so under current UK data protection law, including:
+Processing your information because it is necessary for the performance of a contract with you or in order to take steps at your request prior to entering into a contract, for example to:
+process payment(s);
+fulfil orders for exhibition tickets or other events, goods or services
+or
+provide Membership or patrons' benefits and communications, which you are contractually entitled to receive.
+Where we are required by law to process your information, for example to:
+make a Gift Aid claim.
+Where we have your consent to process your information, for example when:
+you have agreed to receive email updates (including offers, newsletters or fundraising appeals in accordance with your preferences);
+you have asked to receive information about our education events for teachers, our research events, or our national programme events
+or
+you have agreed to participate in a Gallery-based research project to improve the information we provide on our paintings.
+Where you have given consent to the processing of your data you may withdraw it at any time
+See below ‘What rights do you have in relation to your personal information?’.
+Where processing your information is necessary for our legitimate interests, for example:
+for certain types of marketing, such as postal marketing (see What this means for our email and postal subscribers);
+to process donations;
+where we combine information we hold about you to better understand your interests and preferences so that we can target communications we send to you in line with this privacy notice;
+where we conduct analysis and research in relation to our visitors and supporters;
+where we collect MAC addresses;
+where we collect and view images recorded on our CCTV cameras
+or
+where we (or a third party) carry out any filming, including interviews, or filming/photography of talks, or events in the Gallery
+Where our areas are going to be used for filming or photography, we will flag this in advance with clear signage or otherwise make you aware so that you can avoid being filmed or photographed
+We take great care to protect the rights of children and do not use the personal information of anyone under 13 years old in such materials without the explicit consent of their parent or legal guardian
+We may, however, use images where children are incidentally pictured (for example, as part of a crowd).
+Where we are relying on this basis of processing you have the right to object to this
+See below ‘What rights do you have in relation to your personal information?'
+As a public authority we may also process your personal data where it is necessary for performing our Public Task.
+We may process special category data (for example, health data) on the basis of additional grounds, including where it is necessary to protect an individual's vital interests (for example where you have a life-threatening accident or illness while visiting us and we have to process your personal data in order to make sure you receive appropriate medical attention).
+Our basis for processing your data in relation to your visit is set out in the What this means for our visitors section of this notice.
+Do we share your information with other organisations?
+We will not sell your personal information to any third parties or external organisations.
+Sharing your information with our service providers/external data processors
+As well as sharing within the Gallery companies (i.e., Board of Trustees of the National Gallery and National Gallery Global Limited), we may share some of your personal information with our service providers/external data processors, to carry work out on our behalf
+Examples of such service providers/data processors include:
+Securitas, which provides security and visitor services within the Gallery
+We share CCTV footage and other information about security incidents in the Gallery with Securitas
+they process information enquiries (including requests to use our disabled parking space) on our behalf
+provide trained first-aiders in the Gallery, who record details of any accidents if they are called to assist
+sell Memberships and exhibition tickets on desks in the Gallery, record, on our behalf, personal data of those making these purchases
+and process comments and complaints submitted to the Gallery, and respond to these on our behalf and in liaison with us;
+our email distribution service provider, who sends out our marketing and service communications;
+our mailing house, who sends out our Membership welcome and renewal packs, and postal marketing communications;
+our ticketing service provider;
+our service provider, who enables us to evaluate our education programmes;
+our warehouse, who sends online shop orders;
+our third party suppliers, who send online shop orders directly to customers;
+our analytics partner, who collates our statistical data and performs analysis of this data on our behalf;
+our third-party Wi-Fi infrastructure provider, who collects and processes MAC addresses and information regarding usage of our Wi-Fi service on our behalf
+and
+our third-party advertisers such as Facebook who help us target our advertising communications
+For example, if we are running a social media advertising campaign, we may provide some pseudonymised data to the third-party site which leverages information such as demographics, interests, and behaviours for matching purposes
+This enables us to profile and identify new users likely to be interested in our content.
+Any such companies are acting as our data processors under UK GDPR, and the contracts we enter into with them require them to comply with UK data protection laws
+This means they can only process your personal information for the purposes we specify, and we ensure they have the appropriate controls in place to protect the security of your information.
+Sharing information of patrons and donors
+If you are a patron or donor, we may share information with the National Gallery Trust or the American Friends of the National Gallery, London Inc
+if you make your donations through one or other of those supporting charities
+See What this means for our donors, patrons, and potential supporters for more information.
+Sharing CCTV footage and Wi-Fi usage data
+CCTV footage and Wi-Fi usage data (including MAC addresses) may, in the event of a security incident, be shared with the police and/or local authorities where it is lawful and appropriate to do so, in accordance with our legitimate interests outlined above.
+Sharing with YouTube
+Although we do not share your personal data with Google or YouTube, we are contractually obliged to include information about how we use YouTube API.
+The Gallery website uses YouTube API services to show YouTube videos and playlist information in its pages
+We do not access, collect, store or otherwise use any user personal information from YouTube
+We also do not share any website user personal information with YouTube.
+By accessing the YouTube videos through the YouTube API on our website, your personal information may be collected by YouTube
+For further information on how Google and YouTube handle your personal information, please refer to the Google Privacy Policy.
+Our Cookies Policy explains what cookies or other similar technology may be placed on a user’s device when accessing video content through the YouTube Player.
+How long do we keep your information?
+We will only retain your personal information for as long as necessary to fulfil our contractual obligations to you, comply with legal requirements, tax, and accounting rules, or for other reasonable legal purposes set out in this notice.
+The retention period will vary according to the nature of the purpose under which the information is held
+For example:
+we retain Gift Aid declarations in accordance with HMRC guidance, which in the case of a one-off donation is generally ten years from the end of the accounting period in which the donation is received
+the period is longer in the case of a declaration which applies to a series of donations or if an HMRC query is received during the normal retention period;
+we retain active Member account information subject to requests for erasure and/or transfers of Membership (for example to next of kin)
+and
+we retain CCTV footage for 31 days, although in the event of an accident or incident, which may give rise to an insurance claim, footage may be retained longer.
+How do we keep your information secure
+We follow strict security procedures in the storage and disclosure of personal information to prevent:
+unauthorised access;
+improper use or disclosure;
+unauthorised modification
+and
+accidental loss, damage, and destruction.
+We are required to make sure any transfers of information will be done securely, in accordance with best practice, and in compliance with applicable laws and regulations.
+All our staff and data processors who have access to, and are associated with the processing of personal information, are legally obliged to respect the confidentiality of your personal information.
+Transfers of data outside the United Kingdom (‘UK’)
+In some cases, some of the services we provide or some of the processes we use may involve personal information being transferred outside the UK, for example where any data processors' servers are located outside the UK.
+If you access our website or use any of the services we provide while you are outside the UK, your information may be transferred outside the UK in order to provide you with those services.
+If we do transfer personal data outside the UK, it will only be done so on a permitted basis under UK law, including:
+the transfer is to a recipient in a country or territory approved by the European Commission as providing an adequate level of protection for personal data;
+(for transfer arrangements concluded before 21 September 2022) the transfer is to a recipient that has entered into European Commission (‘EU’) standard contractual clauses with us
+This will continue to be valid until 21 March 2024;
+(for transfer arrangements after 21 September 2022) the transfer is to a recipient that has entered into either the UK’s new International Data Transfer Agreement or the UK’s new International Data Transfer Addendum to the EU’s new standard contractual clauses
+or
+you have explicitly consented to the transfer.
+If you wish to find out more about the transfer by us of your data outside the UK, then please contact the Data Protection Officer
+See below ‘How to contact us’.
+Links to other websites
+This notice does not apply to third-party websites you are directed to from our website
+When you leave our website, we encourage you to read the privacy statements on the other websites.
+What rights do you have in relation to your personal information?
+You have certain rights in relation to your personal information
+You have the right to:
+obtain confirmation that we are processing your personal information;
+access your information (see below our Subject Access Request process);
+rectification of your personal information if incomplete or inaccurate;
+erasure in certain circumstances, for example when you have withdrawn consent to it being processed and we have no other basis for processing it;
+restrict the processing of your personal information in certain circumstances;
+object to certain processing including the right to not be subject to automated decision-making and the right to object where we are processing your information on the basis of our legitimate interest
+and
+withdraw consent to the processing of your data (without affecting the lawfulness of processing based on consent before its withdrawal).
+and
+opt out of marketing communications.
+Please note that the above rights may not apply in all circumstances, and requests may be refused where legal exceptions apply.
+For a more detailed explanation of these rights, please see the Information Commissioner’s guidance.
+Subject Access Request
+You can request to receive a copy of personal information we hold about you, this is called a Subject Access Request (‘SAR’).
+You will need to provide adequate proof of identity, such as a copy of your passport, birth certificate, or driving license, before your request can be processed
+We will respond within one month of receipt of your request
+please try to be as clear as possible about the information you are seeking, as this will help us respond to your request more efficiently.
+If you would like to submit a SAR or exercise any of the other rights referred to above, please print out and complete a Subject Access Request Form
+Alternatively, you can email dataprotection@nationalgallery.org.uk or write to the Data Protection Officer, The National Gallery, Trafalgar Square, London, WC2N 5DN.
+How to contact us
+If you have any queries about our privacy notice, or want to raise a concern about how we process the information we hold about you, please email dataprotection@nationalgallery.org.uk or write to the Data Protection Officer at The National Gallery, Trafalgar Square, London, WC2N 5DN.
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), which oversees the protection of personal information in the UK (www.ico.org.uk)
+We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+Further reading
+What this means for email and postal subscribers
+Additional information specific to our email and postal subscribers
+What this means for our Members
+Additional information specific to our Members
+What this means for our donors, patrons, and potential subscribers
+Information specific to our donors, patrons, and potential supporters
+What this means for your visit
+Information which relates specifically to your visit to the National Gallery
+Join the conversation
+The world's greatest paintings to your inbox
+Sign up for emails
+Sign up
+Go back to the top of the page
+Trafalgar Square
+London
+WC2N 5DN
+information@nationalgallery.org.uk
+Copyright © 2016–2022 The National Gallery
+About us
+NG200
+Contact us
+Organisation
+Press
+Feedback
+Commercial
+Shop
+Venue hire
+Groups and travel trade
+Picture library
+Work with us
+National Partnerships
+Borrowing from the Gallery
+Jobs
+Accessibility
+Privacy notice
+Cookies
+Website terms of use

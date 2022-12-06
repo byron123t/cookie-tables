@@ -1,0 +1,681 @@
+
+
+
+
+
+
+
+
+
+Free Cookie Policy Generator - CookieYes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+
+About CookieYes
+
+
+
+
+
+Support
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Solutions
+
+
+
+BY REGULATIONS
+
+
+GDPR (EU)
+
+
+CCPA (California)
+
+
+PDPL (Saudi Arabia)
+
+
+
+
+BY PLATFORMS
+
+
+
+
+Squarespace
+
+
+Joomla
+
+
+Kajabi
+
+
+WordPress
+
+
+Wix
+
+
+Magento
+
+
+Drupal
+
+
+
+
+
+
+Blogger
+
+
+ImpressPages
+
+
+Kartra
+
+
+MODX
+
+
+Weebly
+
+
+Shopify
+
+
+
+
+
+
+
+
+
+Product
+
+
+Features
+
+
+Pricing
+
+
+
+Overview
+
+
+Compare Plans
+
+
+Request Quote
+
+
+
+
+
+Resources
+
+
+
+
+
+Help Guides
+
+
+Blogs
+
+
+Knowledge Base
+
+
+Newsletter
+
+
+
+
+FREE TOOLS
+
+
+Privacy Policy Generator
+
+
+Cookie Policy Generator
+
+
+Cookie Checker
+
+
+
+
+
+
+
+Partners
+
+
+
+Agency Partner
+
+
+Affiliate Partner
+
+
+
+
+
+Company
+
+
+
+About CookieYes
+
+
+
+
+
+
+Support
+
+
+
+
+Log in
+Sign up for free
+
+
+
+
+
+
+
+
+
+
+
+Free Cookie Policy Generator
+Create a custom cookie policy to comply with the GDPR, ePrivacy Directive and CCPA in a jiffy!
+
+Cost-free
+Quick generation
+Automatic updates
+Exemplary support
+
+GENERATE FREE COOKIE POLICY
+
+
+
+
+
+
+
+Create a cookie policy page for your website in just a few clicks
+[cky_video_placeholder_title]
+
+
+Generate Cookie Policy & Get Compliant
+
+
+
+1
+
+Sign up on CookieYes
+It’s free. No credit card required. Update to premium plans anytime.
+
+
+
+
+2
+
+Display cookie consent banner
+Fully customizable and feature-packed. GDPR, ePrivacy Directive, CCPA compliant.
+
+
+
+
+3
+
+Scan your website for cookies
+Detailed cookie audit. Automatically updates cookie list for compliance.
+
+
+
+
+4
+
+Generate your cookie policy
+Cookie policy generator with pre-built template, cookie audit table and customizable content.
+
+
+
+
+
+
+Your website is now compliant!
+
+
+
+
+
+GENERATE FREE COOKIE POLICY
+
+
+
+
+
+
+What is a cookie policy?
+A website’s cookie policy is a detailed declaration about the cookies and trackers used on a website, how these cookies are used, what data they track, what purpose, and how users can modify the cookies set by a website on their browser.
+Cookies are categorized as ‘online identifier’ in GDPR and can be considered as personal data under GDPR; hence they are subject to compliance. Not just browser cookies, but other types of cookies and tracking technologies such as pixel trackers, web beacons, social share buttons are also subject to GDPR.
+
+
+
+
+
+
+
+
+
+
+
+
+Does my website require a cookie policy?
+Any website that caters to visitors in the EU (GDPR) and California (CCPA) are legally required to have a cookie policy. Your website’s cookie policy can be a separate page or it can be integrated as a section in your privacy policy.
+You are required to display an up-to-date, GDPR compliant cookie policy to inform users about the cookies and trackers present on your website, their purposes, and how users can control the cookies set by your website. Do this effortlessly with our free cookie policy generator!
+
+
+
+
+
+
+Frequently asked questions
+
+
+
+										Do I need a cookie banner for my website?
+
+
+
+Cookie policy alone will not guarantee compliance with privacy regulations like GDPR or ePrivacy Directive. GDPR requires businesses to obtain valid consent before processing user’s personal data. The four conditions for GDPR consent are — freely given, specific, informed and unambiguous
+Cookie consent banners are mandatory for compliance in the EU and a best practice under other laws. A cookie banner should declare information about what cookies and trackers are present on a website and give the users a choice of consent before dropping cookies on their browser.
+Additional consent requirements of GDPR are – proof of consent and withdrawal of consent. Users should be able to withdraw/modify their consent easily and businesses should be able to provide proof of compliance.
+
+
+
+
+
+
+										Why is cookie policy important?
+
+
+
+GDPR
+Users in the EU have the right to be informed about how their personal data is being processed. This includes information about cookies, as they can be classified as personal data under GDPR.
+Websites are required to display cookie consent banners with clear information and obtain consent before dropping cookies on a browser. Websites should supplement cookie banners with a detailed, GDPR compliant cookie policy. You can achieve this with the free cookie policy generator from CookieYes.
+CCPA
+The California Consumer Protection Act (CCPA) requires websites to inform users about the personal information they collect and process, including to which third parties they sell/share/disclose this data.
+Websites are required to include a CCPA-specific privacy policy, including a section on cookies. While the US does not strictly mandate a separate cookie policy, if your website uses many cookies, or caters to EU users, it is best to have one.
+
+
+
+
+
+
+										What should a GDPR compliant cookie policy include?
+
+
+
+A cookie policy should include the following information in plain, easy-to-understand language:
+
+Describe what cookies are and why they are used
+Details of the types of cookies used by your site, their purposes and duration
+How-to on opting out of cookies or changing cookie consent preferences
+
+The same details fit the requirements for a CCPA compliant cookie policy. CookieYes’ cookie policy generator can help your website comply with both GDPR and CCPA with its custom-made and detailed cookie policy.
+
+
+
+
+
+
+										Where should I display my cookie policy?
+
+
+
+For best practices, link the GDPR cookie policy on your cookie consent banner or pop-up so users can be easily directed to the cookie policy page.
+Display a link to your cookie policy on your website’s footer, so that it is accessible from every page of your site. On the mobile app, display your cookies policy in the menu, under the ‘About’ or ‘Legal’ sections.
+
+
+
+
+
+
+
+Create your FREE Cookie Policy now!
+GENERATE FREE COOKIE POLICY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start your compliance right away
+Sign up for free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to our newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I agree to receive newsletters from CookieYes and accept the Privacy Policy. 
+
+
+
+
+
+
+
+
+
+
+
+Get Started
+
+Features
+Pricing
+Compare Plans
+Request Quote
+CookieYes FAQ
+
+
+
+Solutions
+
+GDPR (EU)
+CCPA (California)
+PDPL (Saudi Arabia)
+
+
+
+Resources
+
+
+Help Guides
+
+
+Blogs
+
+Newsletter
+Cookiebot Alternative
+CookiePro Alternative
+
+
+
+Free Tools
+
+
+Privacy Policy Generator
+
+
+Cookie Policy Generator
+
+
+Cookie Scanner
+
+
+
+
+Legal
+
+
+Privacy Policy
+
+
+Cookie Policy
+
+
+Terms and Conditions
+
+
+Data Processing Agreement
+
+
+
+
+Company
+
+
+About
+
+
+
+Affiliate
+
+Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.8/5
+
+
+
+
+
+
+
+
+
+
+
+
+4.7/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2022 CookieYes. All rights reserved. CookieYes Limited is registered in the UK. Company no. 13074037
+Any information, whether oral or written, obtained from the CookieYes website, services, tools, or comments does not constitute any form of legal and/or regulatory advice. If any kind of legal assistance is required, users should consult with an attorney, a lawyer, or a law firm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

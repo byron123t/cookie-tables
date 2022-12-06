@@ -1,0 +1,374 @@
+
+Cookies | Jisc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We use cookies to give you the best experience and to help improve our website
+
+Find out more about how we use cookies
+
+Choose whether to use cookies:
+
+No thanks
+Yes, I accept
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+You are in:
+
+Website informationCookies 
+
+
+Utilities:
+
+
+
+
+
+
+
+Search this website
+
+
+
+
+
+
+
+
+
+Site navigation
+
+
+
+
+
+
+Search the Jisc website
+ Search 
+
+
+Clear search results
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Search the Jisc website
+ Search 
+
+
+Clear search results
+
+ 
+
+
+
+
+
+
+
+
+Navigation:
+
+Cookies
+Privacy notice
+Using our content
+Feedback
+Accessibility statement
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookies
+
+
+
+
+
+
+
+
+            &amp;amp;amp;amp;amp;lt;section class="article-full__cookie-box article-full__cookie-box--no-js jsCookieBox"&amp;amp;amp;amp;amp;gt;
+                &amp;amp;amp;amp;amp;lt;h2 class="article-full__cookie-box-title"&amp;amp;amp;amp;amp;gt;Your settings:&amp;amp;amp;amp;amp;lt;/h2&amp;amp;amp;amp;amp;gt;
+                &amp;amp;amp;amp;amp;lt;p class="article-full__cookie-box-copy"&amp;amp;amp;amp;amp;gt;
+                    We aren't using any cookies to improve your experience as you have JavaScript switched off.
+                &amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;gt;
+                &amp;amp;amp;amp;amp;lt;p class="article-full__cookie-box-copy"&amp;amp;amp;amp;amp;gt;
+                    If you turn JavaScript back on - this is where you'll be able to control what cookies we use.
+                &amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;gt;
+            &amp;amp;amp;amp;amp;lt;/section&amp;amp;amp;amp;amp;gt;
+            Your settings:  Enable/disable cookies to improve experience. Cookies to improve experience - enabled Cookies to improve experience - disabled We're using cookies to improve your experience. This is because you didn't respond to our cookie notification message. You can change this setting at any time.   We're using cookies to improve your experience. This is because you said you were happy for us to do so. You can change this setting at any time.   Cookies to improve your experience have been disabled. This is because you told us you'd prefer we didn't use them or you haven't let us know yet. You can change this setting at any time.  
+
+To help improve this site we place small files, known as cookies, onto your computer. Some are essential for the site to work properly, others are to improve the experience you have.You can stop this site using non-essential cookies by updating your settings above1.You can also decide to stop this or any site from using any cookies. To learn more about cookies and how to manage them visit KnowCookies.com.How we use cookiesWe use cookies for several purposes on this website – we’ve listed each of them below with more details about why we use them and how long they’ll last.Cookies to improve your experienceYou can tell us to stop using these at any time by updating your settings above.Measuring website usage (Google Analytics)We use Google Analytics to collect information about how people use our site, and rough demographics as to what groups of people arenusing our site. We do this to make sure it’s meeting your needs and to understand how we could improve it. As well as controlling this above - you can opt out of Google Analytics tracking directly.Google Analytics stores information about:the pages you visithow long you spend on each pagehow you got to the sitewhat you click on while you're hereThe following cookies are set by Google Analytics:NamePurposeExpires_gaThis helps us count how many people visit the site by tracking if you've visited before2 years_utmaLike _ga, this lets us know if you’ve visited before, so we can count how many of our visitors are new to the site or to a certain page2 years_utmbThis works with _utmc to calculate the average length of time you spend on the site30 minutes_utmcThis works with _utmb to calculate when you close your browserwhen you close your browser_utmzThis tells us how you reached the site (like from another website or a search engine)6 months_gat_UA-376728-1This is used by Google Analytics to ensure its work doesn't have a big impact on the site's performance 1 dayProviding a personalised experienceWe use Adobe Target to tailor the content you see. We do this to highlight information directly relevant to your institution or sector. We also use this to recommend content based on your activity elsewhere on the site.Adobe Target stores information about:your behaviour on the sitebasic attributes about where you're visiting from (location, sector, institution)The following cookie is set by Adobe Target:NamePurposeExpiresmboxThis helps us know what you look at on the site, and stores basic attributes about where you're visiting from2 yearsUnderstanding our users' needsWe use Hotjar to better understand our users’ needs and optimise the experience of this website. It helps us understand users’ experiences (eg how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc), which enables us to build and maintain our service with user feedback.Hotjar uses cookies and other technologies to collect data on our users’ behaviour and their devices. This includes:A device's IP address (processed during your session and stored in a de-identified form)Device screen sizeDevice type (unique device identifiers)Browser informationGeographic location (country only)Preferred language used to display our websiteHotjar stores this information on our behalf in a pseudonymised user profile and is contractually forbidden to sell any data collected on our behalf.The following cookies are set by Hotjar:NamePurposeExpires_hjDonePolls This is used to maire sure the same survey does not reappear if you've already filled it in.1 year_hjMinimizedPollsThis is used when you minimise a survey widget - it makes sure that this stays minimised as you navigate through the website.1 year_hjid Set when a user first lands on a page with the Hotjar script. It's used to persist the Hotjar User ID, unique to that site on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.1 year_hjTLDTestWhen the Hotjar script executes, it tries to determine the most generic cookie path to use, instead of the page hostname. This is done so that cookies can be shared across subdomains (where applicable). To determine this, Hotjar tries to store the _hjTLDTest cookie for different URL substring alternatives until it fails. After this check, the cookie is removed.when you close your browser_hjCachedUserAttributesThis stores User Attributes which are sent through the Hotjar Identify API, whenever the user is not in the sample. Collected attributes will only be saved to Hotjar servers if the user interacts with a Hotjar Feedback tool, but the cookie will be used regardless of whether a Feedback tool is present.when you close your browser_hjLocalStorageTestThis is used to check if the Hotjar Tracking Script can use local storage. If it can, a value of 1 is set in this cookie and is deleted almost immediately after it is created.under 100m/s_hjIncludedInPageviewSampleThis is set to let Hotjar know whether that user is included in the data sampling defined by your site's pageview limit.30 minutes_hjViewportIdThis stores information about the user viewport such as size and dimensions.when you close your browserEssential cookiesWebsite operationThe system that runs our website sets cookies to allow it to run smoothly.NamePurposeExpireshas_jsThis tells the site whether you're using JavaScript or notwhen you close your browservisitedPreviouslyrandomly generated number60 daysssessAllow the page to provide you with content adaptiveLibraryDefaultStateUsed to remember your display preferences  jisc_eprivacyUsed to remember your privacy preferences90 daysAWSALBUsed to make sure the website can cope with unexpected traffic2 yearsAWSALBCORSUsed to make sure the website can cope with unexpected traffic2 yearsLogged in accessOur system uses cookies to allow you to log into the site, and access restricted content and services.NamePurposeExpires_saml_idpAllow our identity provider to recognise yousix months after last visiting the site_shibsession_<number>Allow the page to provide you with restricted contentwhen you close your browserauthcachedrupal_userdrupal_uidUsed to improve the performance of the site for logged-in userswhen you close your browserOther cookiesYouTubeWe've tried to replace all our embedded videos with cookie free versions. However, if you've seen embedded videos on our site in the past then these cookies may be on your system.NamePurposeExpiresVISITOR_INFO1_LIVEThis tries to estimate your bandwidth and deliver a video of appropriate quality240 daysYSCA unique identify given to a user on a site with videoswhen you close your browserGEUPAllows Google to track viewers across sites that use YouTube videos2 yearsPREFAllows Google to track viewers across sites that use YouTube videos240 daysGPSAllows basic tracking based on location on mobile devices (where permitted)30 minutesNB: Cookie guidance wording adapted from gov.uk, shared under the Open Government License.
+Footnotes1 Please note, if you have used the site in the past these cookies may still be on your computer - but by disabling them in your settings we will no longer access them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You may also like…
+
+
+Generic 
+Our catalogue of services for further education
+          
+          What's included in your subscription
+
+
+
+
+
+
+
+
+Generic 
+Our catalogue of services for research
+          
+          What's included in your subscription
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+You are in:
+
+
+
+
+Website informationCookies 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areas
+ConnectivityCyber securityCloudData analyticsLibraries, learning resources and researchStudent experienceTrust and identityAdvice and guidance
+
+
+Explore
+GuidesTrainingConsultancyEventsInnovation
+
+
+Useful
+AboutMembershipGet involvedNewsJobs
+
+
+Get in touch
+
+
+
+        Contact us
+      
+
+
+
+        Sign up to our newsletter
+      
+
+
+
+
+Twitter
+
+
+
+
+
+Facebook
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+Cookies
+Privacy
+Modern slavery
+Carbon reduction plan
+Accessibility
+
+
+      
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

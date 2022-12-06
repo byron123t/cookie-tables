@@ -1,0 +1,796 @@
+
+
+
+
+
+
+
+
+
+Cookie Notice - Sailthru
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRODUCT
+
+
+Channels We Power
+
+Product Overview
+Email
+SMS
+Sailthru Experiences
+Media & Publishing
+Mobile
+Web
+Integrations
+
+
+
+Solutions + Services
+
+Retail
+                                            Solutions
+Media
+                                            Solutions
+Sailthru
+                                            Services
+
+
+
+Differentiators
+
+AI + Machine
+                                            Learning
+Lifecycle
+                                            Optimization
+Data + Reporting
+
+Integration Partners
+Technology
+
+
+
+
+
+CUSTOMERS 
+
+
+EVENTS 
+
+
+Connect with Sailthru
+
+
+Upcoming Events
+
+
+Past Events
+
+
+Sailthru Academy
+
+
+Speaker Highlights
+
+
+Related Stories
+
+
+
+
+Upcoming Events
+
+
+
+
+
+
+
+RESOURCES 
+
+
+Resources
+
+
+View
+                                            All
+Blog
+
+Guides
+
+Retail Personalization Index
+Documentation
+
+
+
+
+Featured
+
+
+
+                                            Signals 2022: A Virtual Conference on Relationship Marketing                                        
+
+
+
+                                            What Can A Martech Upgrade Do For Your Brand?                                        
+
+
+
+                                            Email Marketing Benchmarks: Everything You Need to Know for 2022                                        
+
+
+
+
+
+
+
+
+SCHEDULE DEMO
+LOG IN
+
+
+
+
+LOG IN
+SCHEDULE DEMO
+
+
+
+
+
+
+      Legal    
+
+
+
+
+ Cookie Notice 
+
+
+Privacy Statement
+
+
+Cookie Notice
+
+
+Modern Slavery Statement
+
+
+
+
+Cookie Notice
+LAST UPDATED:  April 29, 2020
+This Cookie Notice explains how and why Sailthru (collectively “Sailthru”, "we", "us", and "ours") uses cookies and similar technologies to recognise you, as well as track and analyse your actions when you visit our websites at sailthru.com,  ("Websites"). We also provide information related to how and why those same technologies are applied to tracking and analysing logged-in users of our software application (“Services”) and recipients of emails sent through our Services by users of our Services.  Information about what these technologies are and why we use them, as well as your rights to control our use of them, can be found below.
+What are cookies?
+Cookies are small data files that are placed on your computer or mobile device when you visit a website.  Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information. 
+We refer to cookies created by us as "first party cookies".  We refer to cookies that we set on our website but that are created by parties other than us as "third party cookies".  Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics).  The parties that provide these third party cookies can recognise your computer both when it visits the website in question and also when it visits certain other websites. 
+In addition to the party which sets the cookie, the duration of the cookie’s retention in your browser can help define its purpose. Session cookies are cookies which are stored on your device for the duration of the browser session. When you close your browser, the session cookies are cleared. Persistent cookies are stored either until you manually delete them or until your browser deletes them based on the duration set within the persistent cookie file.
+Why we use cookies
+We use both first and third party cookies for several reasons. First, let’s look at the broad categories of first and third party cookies in use on our sites:
+
+Essential website cookies: These cookies are strictly necessary to provide you with services available through our Websites and to use some of its features, such as access to secure areas. Refusal of these cookies may impact website functionality.
+Performance and functionality cookies: These cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use.  However, without these cookies, certain functionality may become unavailable.
+Analytics and customisation cookies: These cookies collect information that is used either in aggregate form to help us understand how our Websites are being used or how effective are marketing campaigns are, or to help us customise our Websites for you.
+Advertising cookies: These cookies are used to make advertising messages more relevant to you.  They perform functions like preventing the same ad from continuously re-appearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests.
+Social networking cookies: These cookies are used to enable you to share pages and content that you find interesting on our Websites through third party social networking and other websites.  These cookies may also be used for advertising purposes too.
+
+The information collected and stored by cookies and other tracking technologies likely meets the GDPR’s definition of personal data. The GDPR defines 'personal data' as "any information relating to an identified or identifiable natural person". Personal data collected by the cookies and related technologies described below would include your location, information about your browsing behavior on this or other sites, and information you provide via forms or single fields on this site. This personal data will be used only in the manners described by this notice and our Privacy Notice.
+ 
+FIRST PARTY COOKIES
+
+ 
+
+
+
+Cookie Name
+
+
+Cookie Type
+
+
+Subject
+
+
+Purpose
+
+
+Retention Policy
+
+
+
+
+_cdeTrData
+
+
+Analytics
+
+
+sailthru.com site visitor
+
+
+This data helps us analyze site traffic to better optimize performance.
+
+
+1 year
+
+
+
+
+apex__payload
+
+
+Performance/
+Functionality
+
+
+sailthru.com site visitor
+
+
+To provide support contact details relevant to a Sailthru account, and account details when submitting a support request
+
+
+30 days
+
+
+
+
+ 
+THIRD PARTY COOKIES
+
+
+
+
+Cookie Name
+
+
+Cookie Type
+
+
+Subject
+
+
+Purpose
+
+
+Retention Policy
+
+
+
+
+6Sense
+
+
+Analytics / Predictive
+
+
+sailthru.com site visitor
+
+
+Predict the intent of buyers on the website as well as gain insight into their use of the website
+
+
+ 1 year
+
+
+
+
+Google Analytics
+
+
+Analytics
+
+
+sailthru.com site visitor
+
+
+Google Analytics cookies help us measure and evaluate our site’s performance by providing insights into site visitor behavior and actions.
+
+
+ 26 months
+ 
+ 
+
+
+
+
+Marketo
+
+
+Performance                         
+
+
+sailthru.com site visitor
+
+
+To contact you for the purpose specified on the form
+
+
+1 year
+
+
+
+
+Google Adwords
+
+
+Analytics
+
+
+sailthru.com site visitor
+
+
+Google AdWords conversion tracking is an analytics and advertising service provided by Google Inc. that connects data from the Google AdWords advertising network with actions performed on the Sites.
+
+
+ 1 year
+
+
+
+
+Optimizely
+
+
+Analytics
+
+
+sailthru.com site visitor
+
+
+Website testing
+
+
+ 1 year
+
+
+
+
+Wordpress
+
+
+Essential/Functionality
+
+
+sailthru.com site visitor
+
+
+For logged in users and commenters to the Sailthru blog at www.sailthru.com/blog/
+
+
+ 1 year
+
+
+
+
+Bing
+
+
+Advertising
+
+
+sailthru.com site visitor
+
+
+Bing conversion tracking is an analytics and advertising service provided by Bing that connects data from the Bing advertising network with actions performed on the Sites.
+
+
+ 1 year
+
+
+
+
+LinkedIn
+
+
+Advertising
+
+
+sailthru.com site visitor
+
+
+Social media companies may place cookies on your computer when you use their services on our Sites.
+
+
+ 1 year
+
+
+
+
+Facebook
+
+
+Advertising
+
+
+sailthru.com site visitor
+
+
+ 1 year
+
+
+
+
+Twitter
+
+
+Advertising
+
+
+sailthru.com site visitor
+
+
+ 1 year
+
+
+
+
+Salesloft
+
+
+Analytics / Predictive
+
+
+sailthru.com site visitor
+
+
+Predict the intent of buyers on the website as well as gain insight into their use of the website
+
+
+ 1 year
+
+
+
+
+Crazy Egg
+
+
+Analytics
+
+
+sailthru.com site visitor
+
+
+Measure  the success of links as they are shared through social media
+
+
+ 1 year
+
+
+
+
+ 
+How to control the use of cookies
+Electronic devices and software applications on these devices may offer you tools to opt out of or block advertisements on the device or in specific applications. Consult the help documentation and settings specific to your devices and applications to learn more about your options. You have the right to decide whether to accept or reject cookies. You can withdraw your consent at any time for any cookies or other tracking technologies used by Sailthru by deleting them from your device. Should you choose to remove or block cookies, some website functionality may become unavailable or unreliable.
+ 
+In addition, most advertising networks offer you a way to opt out of targeted advertising.  If you would like to find out more information, please visit https://www.aboutads.info/choices/ or https://www.youronlinechoices.com.
+ 
+Other Tracking Technologies
+Other than the cookies listed above, we have also implemented the following tracking technologies within certain parts of our Websites and Services.
+Page tags and web beacons. These technologies are used for the purposes of tracking visitors as they navigate our Websites to better understand Website performance, and to measure the performance of online advertising. Recipients of emails sent by our customers through our Services are also tracked using this technology. For example, web beacons track whether an email sent through the Services was delivered and opened and whether links within the email were clicked. This information is collected for the purposes of providing email campaign performance information and measuring the performance of email messages they send and is processed according to our Privacy Notice.
+Local and session storage. Our website uses local and session storage to temporarily store information to improve user experience while interacting with the website.
+This Privacy Notice also contains specific information about the rights of data subjects residing in the EEA and how to exercise them.
+Updates to this Cookie Notice
+Sailthru will periodically make amendments to this policy, as necessitated by changes to our use of cookies and the legal requirements for notice of these uses. Please continue to check this policy regularly to stay aware of these changes and how they affect your continued use of our websites.
+The date at the top of this Cookie Notice indicates when it was last updated. 
+Questions?
+If you have any questions about our use of cookies or other technologies, please email us at privacy@sailthru.com.
+  
+
+
+
+
+
+
+
+Product
+
+
+
+Platform Overview
+Technology
+Partners
+
+
+
+
+Industries
+
+
+
+Retailers
+Media
+
+
+
+
+Resources
+
+
+
+
+View All
+Blog
+Guides
+Retail Personalization Index
+
+
+
+
+Community
+
+
+
+View All
+Academy
+
+
+
+
+Company
+
+
+
+About
+Careers
+Sitemap
+
+
+
+
+Channels We Power
+
+
+
+Email
+SMS
+Sailthru Experiences
+Media & Publishing
+Mobile
+Web
+Integrations
+
+
+
+
+Details
+
+
+
+AI + Machine Learning
+Customer Lifecycle Optimization
+Data + Reporting
+
+
+
+
+Customers
+
+
+
+Case Studies
+
+
+
+
+Contact Us
+
+
+
+Contact Sales
+Support
+Documentation
+
+
+
+
+
+    LinkedIn
+    
+
+
+
+
+    Twitter
+    
+
+
+
+
+    Facebook
+    
+
+
+
+
+    Instagram
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Sailthru Status
+          
+
+
+            Do Not Sell My Personal Information
+        
+
+
+              © 2022 Sailthru. Inc. All Rights Reserved
+          
+
+              One World Trade Center. Suite 49A. New York, NY 10007
+          
+
+
+
+
+Terms
+Privacy
+Trust Center
+Modern Slavery Statement
+
+
+
+
+
+Sailthru is part of the
+      CM Group family of brands.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2272 @@
+Bang & Olufsen - High-end Headphones, Speakers, and Televisions
+
+
+
+
+
+This website uses cookies
+Click to agree and allow us to improve and personalize your experience on our website. You can change your mind at any time. About cookies
+
+
+
+
+Decline all
+Save settings
+Accept all
+
+
+Show details
+Hide details
+
+
+
+
+
+
+
+Required
+
+Required cookies help make a website navigable by activating basic functions such as page navigation and access to secure website areas. Without these cookies, the website would not be able to work properly.
+
+
+
+
+
+Service:
+Cookie Information
+
+
+Purpose:
+Supports the website's technical functions.
+
+
+Privacy policy:
+Cookie Information - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+CookieInformationConsent
+
+
+Vendor:
+cloud.bang-olufsen.com
+
+
+
+
+Service:
+Microsoft, ASP.NET
+
+
+Purpose:
+Collects information about the website and its contents for reporting and security purposes.
+
+
+Privacy policy:
+Microsoft, ASP.NET - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+.AspNetCore.Antiforgeryxxx
+
+
+Vendor:
+cloud.bang-olufsen.com
+
+
+
+
+Service:
+Cookie Information
+
+
+Purpose:
+Supports the website's technical functions.
+
+
+Privacy policy:
+Cookie Information - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+CookieInformationConfig
+
+
+Vendor:
+policy.app.cookieinformation.com
+
+
+
+
+Service:
+Cookie Information
+
+
+Purpose:
+Used to share consent across domains.
+
+
+Privacy policy:
+Cookie Information - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+CookieInformationConsent_xxx
+
+
+Vendor:
+policy.app.cookieinformation.com
+
+
+
+
+Service:
+Microsoft
+
+
+Purpose:
+Required for the website to perform properly.
+
+
+Privacy policy:
+Microsoft - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+SM
+
+
+Vendor:
+.c.clarity.ms
+
+
+
+
+Service:
+SoundCloud
+
+
+Purpose:
+Supports the use of embedded music players on the website.
+
+
+Privacy policy:
+SoundCloud - Privacy policy
+
+
+Expiry:
+10 years
+
+
+Name:
+sc_anonymous_id
+
+
+Vendor:
+.soundcloud.com
+
+
+
+
+Service:
+Stripe
+
+
+Purpose:
+Supports the website's technical functions.
+
+
+Privacy policy:
+Stripe - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+__stripe_mid
+
+
+Vendor:
+.www.bang-olufsen.com
+
+
+
+
+Service:
+Stripe
+
+
+Purpose:
+Supports the website's technical functions.
+
+
+Privacy policy:
+Stripe - Privacy policy
+
+
+Expiry:
+2 years
+
+
+Name:
+m
+
+
+Vendor:
+m.stripe.com
+
+
+
+
+Service:
+Stripe
+
+
+Purpose:
+Supports the website's technical functions.
+
+
+Privacy policy:
+Stripe - Privacy policy
+
+
+Expiry:
+30 minutes
+
+
+Name:
+__stripe_sid
+
+
+Vendor:
+.www.bang-olufsen.com
+
+
+
+
+Service:
+Microsoft Azure
+
+
+Purpose:
+Required for the website to perform properly.
+
+
+Privacy policy:
+Microsoft Azure - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+ARRAffinity
+
+
+Vendor:
+.dnatest.nft.bang-olufsen.org
+
+
+
+
+Service:
+Cloudflare
+
+
+Purpose:
+Supports the website's technical functions.
+
+
+Privacy policy:
+Cloudflare - Privacy policy
+
+
+Expiry:
+30 minutes
+
+
+Name:
+__cf_bm
+
+
+Vendor:
+.stores.bang-olufsen.com
+
+
+
+
+Service:
+Cloudflare
+
+
+Purpose:
+Pending
+
+
+Privacy policy:
+Cloudflare - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+__cfruid
+
+
+Vendor:
+.support.bang-olufsen.com
+
+
+
+
+
+
+
+
+
+Functional
+
+Functional cookies make it possible to save information that changes the way the website appears or acts. For instance your preferred language or region.
+
+
+
+
+
+Service:
+Zendesk
+
+
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+
+
+Privacy policy:
+Zendesk - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+_zendesk_shared_session
+
+
+Vendor:
+support.bang-olufsen.com
+
+
+
+
+Service:
+Zendesk
+
+
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+
+
+Privacy policy:
+Zendesk - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+_zendesk_session
+
+
+Vendor:
+support.bang-olufsen.com
+
+
+
+
+Service:
+Zendesk
+
+
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+
+
+Privacy policy:
+Zendesk - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+_help_center_session
+
+
+Vendor:
+support.bang-olufsen.com
+
+
+
+
+
+
+
+
+
+Statistical
+
+Statistical cookies help the website owner understand how visitors interact with the website by collecting and reporting information.
+
+
+
+
+
+Service:
+Microsoft Azure
+
+
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+
+
+Privacy policy:
+Microsoft Azure - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+ai_user
+
+
+Vendor:
+corporate.bang-olufsen.com
+
+
+
+
+Service:
+Microsoft Clarity
+
+
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+
+
+Privacy policy:
+Microsoft Clarity - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+CLID
+
+
+Vendor:
+www.clarity.ms
+
+
+
+
+Service:
+Google Analytics
+
+
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+
+
+Privacy policy:
+Google Analytics - Privacy policy
+
+
+Expiry:
+a few seconds
+
+
+Name:
+_gat_UA-xxx-xxx
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Google Analytics
+
+
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+
+
+Privacy policy:
+Google Analytics - Privacy policy
+
+
+Expiry:
+a day
+
+
+Name:
+_gid
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Google Analytics
+
+
+Purpose:
+
+
+
+Privacy policy:
+Google Analytics - Privacy policy
+
+
+Expiry:
+2 years
+
+
+Name:
+_ga_xxx
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Microsoft Clarity
+
+
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+
+
+Privacy policy:
+Microsoft Clarity - Privacy policy
+
+
+Expiry:
+10 minutes
+
+
+Name:
+ANONCHK
+
+
+Vendor:
+.c.clarity.ms
+
+
+
+
+Service:
+Google Analytics
+
+
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+
+
+Privacy policy:
+Google Analytics - Privacy policy
+
+
+Expiry:
+2 years
+
+
+Name:
+_ga
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Microsoft Clarity
+
+
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+
+
+Privacy policy:
+Microsoft Clarity - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+_clck
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Microsoft Azure
+
+
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+
+
+Privacy policy:
+Microsoft Azure - Privacy policy
+
+
+Expiry:
+30 minutes
+
+
+Name:
+ai_session
+
+
+Vendor:
+corporate.bang-olufsen.com
+
+
+
+
+Service:
+Microsoft Clarity
+
+
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+
+
+Privacy policy:
+Microsoft Clarity - Privacy policy
+
+
+Expiry:
+a day
+
+
+Name:
+_clsk
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Loom, Inc.
+
+
+Purpose:
+Collects information about the users and their activity on the website through embedded video players for analytics and reporting purposes.
+
+
+Privacy policy:
+Loom, Inc. - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+ajs%3Acookies
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Hotjar
+
+
+Purpose:
+Collects information about the users and their activity on the website through embedded elements with the purpose of analytics and reporting.
+
+
+Privacy policy:
+Hotjar - Privacy policy
+
+
+Expiry:
+a few seconds
+
+
+Name:
+_hjAbsoluteSessionInProgress
+
+
+Vendor:
+.www.bang-olufsen.com
+
+
+
+
+Service:
+Loom, Inc.
+
+
+Purpose:
+Collects information about the users and their activity on the website through embedded video players for analytics and reporting purposes.
+
+
+Privacy policy:
+Loom, Inc. - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+ajs%3Atest
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Typeform
+
+
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+
+
+Privacy policy:
+Typeform - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+__tld__
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Hotjar
+
+
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+
+
+Privacy policy:
+Hotjar - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+_hjTLDTest
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+
+
+
+
+
+Marketing
+
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and interesting to the individual user and thus more valuable for publishers and third-party advertisers.
+
+
+
+
+
+Service:
+Loom, Inc.
+
+
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the users across the web.
+
+
+Privacy policy:
+Loom, Inc. - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+ajs_anonymous_id
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+LinkedIn
+
+
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+
+
+Privacy policy:
+LinkedIn - Privacy policy
+
+
+Expiry:
+a day
+
+
+Name:
+lidc
+
+
+Vendor:
+.linkedin.com
+
+
+
+
+Service:
+Google Marketing Platform
+
+
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+
+
+Privacy policy:
+Google Marketing Platform - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+IDE
+
+
+Vendor:
+.doubleclick.net
+
+
+
+
+Service:
+Microsoft, Bing
+
+
+Purpose:
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+
+
+Privacy policy:
+Microsoft, Bing - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+MUID
+
+
+Vendor:
+.bing.com
+
+
+
+
+Service:
+Youtube, Google
+
+
+Purpose:
+Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+
+
+Privacy policy:
+Youtube, Google - Privacy policy
+
+
+Expiry:
+6 months
+
+
+Name:
+VISITOR_INFO1_LIVE
+
+
+Vendor:
+.youtube.com
+
+
+
+
+Service:
+Microsoft, Bing
+
+
+Purpose:
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+
+
+Privacy policy:
+Microsoft, Bing - Privacy policy
+
+
+Expiry:
+a day
+
+
+Name:
+_uetsid
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Google
+
+
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+
+
+Privacy policy:
+Google - Privacy policy
+
+
+Expiry:
+3 months
+
+
+Name:
+_gcl_au
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+LinkedIn
+
+
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+
+
+Privacy policy:
+LinkedIn - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+bcookie
+
+
+Vendor:
+.linkedin.com
+
+
+
+
+Service:
+LinkedIn
+
+
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+
+
+Privacy policy:
+LinkedIn - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+bscookie
+
+
+Vendor:
+.www.linkedin.com
+
+
+
+
+Service:
+Facebook
+
+
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+
+
+Privacy policy:
+Facebook - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+
+
+
+Vendor:
+www.facebook.com
+
+
+
+
+Service:
+Facebook
+
+
+Purpose:
+Identifies browsers for the purposes of providing advertising and site analytics services.
+
+
+Privacy policy:
+Facebook - Privacy policy
+
+
+Expiry:
+3 months
+
+
+Name:
+_fbp
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Google Marketing Platform
+
+
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+
+
+Privacy policy:
+Google Marketing Platform - Privacy policy
+
+
+Expiry:
+15 minutes
+
+
+Name:
+test_cookie
+
+
+Vendor:
+.doubleclick.net
+
+
+
+
+Service:
+LinkedIn
+
+
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+
+
+Privacy policy:
+LinkedIn - Privacy policy
+
+
+Expiry:
+a month
+
+
+Name:
+UserMatchHistory
+
+
+Vendor:
+.linkedin.com
+
+
+
+
+Service:
+LinkedIn
+
+
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+
+
+Privacy policy:
+LinkedIn - Privacy policy
+
+
+Expiry:
+6 months
+
+
+Name:
+li_gc
+
+
+Vendor:
+.linkedin.com
+
+
+
+
+Service:
+Microsoft, Bing
+
+
+Purpose:
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+
+
+Privacy policy:
+Microsoft, Bing - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+SRM_B
+
+
+Vendor:
+.c.bing.com
+
+
+
+
+Service:
+Microsoft, Bing
+
+
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+
+
+Privacy policy:
+Microsoft, Bing - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+_uetvid
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+LinkedIn
+
+
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+
+
+Privacy policy:
+LinkedIn - Privacy policy
+
+
+Expiry:
+a month
+
+
+Name:
+AnalyticsSyncHistory
+
+
+Vendor:
+.linkedin.com
+
+
+
+
+Service:
+LinkedIn
+
+
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+
+
+Privacy policy:
+LinkedIn - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+lang
+
+
+Vendor:
+.ads.linkedin.com
+
+
+
+
+Service:
+LinkedIn
+
+
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+
+
+Privacy policy:
+LinkedIn - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+lang
+
+
+Vendor:
+.linkedin.com
+
+
+
+
+Service:
+Youtube, Google
+
+
+Purpose:
+Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+
+
+Privacy policy:
+Youtube, Google - Privacy policy
+
+
+Expiry:
+Session
+
+
+Name:
+YSC
+
+
+Vendor:
+.youtube.com
+
+
+
+
+Service:
+Youtube, Google
+
+
+Purpose:
+Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+
+
+Privacy policy:
+Youtube, Google - Privacy policy
+
+
+Expiry:
+2 years
+
+
+Name:
+CONSENT
+
+
+Vendor:
+.youtube.com
+
+
+
+
+Service:
+Yahoo, Oath
+
+
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+
+
+Privacy policy:
+Yahoo, Oath - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+A3
+
+
+Vendor:
+.yahoo.com
+
+
+
+
+Service:
+Pinterest
+
+
+Purpose:
+Collects information about the users and their activity on the website through visual content and website elements for analytics and reporting purposes.
+
+
+Privacy policy:
+Pinterest - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+_pin_unauth
+
+
+Vendor:
+.corporate.bang-olufsen.com
+
+
+
+
+Service:
+Pinterest
+
+
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+
+
+Privacy policy:
+Pinterest - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+_pinterest_ct_ua
+
+
+Vendor:
+.ct.pinterest.com
+
+
+
+
+Service:
+Google
+
+
+Purpose:
+Remember your recent searches, your previous interactions with an advertiser's ads, or search results, and your visits to an advertiser's site to show you customized ads on Google.
+
+
+Privacy policy:
+Google - Privacy policy
+
+
+Expiry:
+2 years
+
+
+Name:
+CONSENT
+
+
+Vendor:
+.google.com
+
+
+
+
+Service:
+Hotjar
+
+
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+
+
+Privacy policy:
+Hotjar - Privacy policy
+
+
+Expiry:
+30 minutes
+
+
+Name:
+_hjSession_xxx
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Hotjar
+
+
+Purpose:
+Collects information about the website and its contents for reporting and security purposes.
+
+
+Privacy policy:
+Hotjar - Privacy policy
+
+
+Expiry:
+30 minutes
+
+
+Name:
+_hjFirstSeen
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Hotjar
+
+
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the users across the web.
+
+
+Privacy policy:
+Hotjar - Privacy policy
+
+
+Expiry:
+a year
+
+
+Name:
+_hjSessionUser_xxx
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+Hotjar
+
+
+Purpose:
+Collects information about the website and its contents for reporting and security purposes.
+
+
+Privacy policy:
+Hotjar - Privacy policy
+
+
+Expiry:
+2 minutes
+
+
+Name:
+_hjIncludedInSessionSample
+
+
+Vendor:
+www.bang-olufsen.com
+
+
+
+
+
+
+
+
+
+Unclassified
+
+We are in the process of classifying unclassified cookies together with the providers of the individual cookies.
+
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+a year
+
+
+Name:
+.AspNetCore.Culture
+
+
+Vendor:
+cloud.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+a year
+
+
+Name:
+.AspNetCore.Culture
+
+
+Vendor:
+www.cloud.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+Session
+
+
+Name:
+country
+
+
+Vendor:
+corporate.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+21 days
+
+
+Name:
+disableCountrySelect
+
+
+Vendor:
+corporate.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+Session
+
+
+Name:
+sess_id
+
+
+Vendor:
+corporate.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+21 days
+
+
+Name:
+homeCountry
+
+
+Vendor:
+corporate.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+21 days
+
+
+Name:
+userIp
+
+
+Vendor:
+corporate.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+a day
+
+
+Name:
+ln_or
+
+
+Vendor:
+.corporate.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+21 days
+
+
+Name:
+locale
+
+
+Vendor:
+corporate.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+21 days
+
+
+Name:
+correlationId
+
+
+Vendor:
+www.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+a month
+
+
+Name:
+homeCountry
+
+
+Vendor:
+www.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+Session
+
+
+Name:
+sess_id
+
+
+Vendor:
+www.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+a month
+
+
+Name:
+locale
+
+
+Vendor:
+www.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+21 days
+
+
+Name:
+userIp
+
+
+Vendor:
+www.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+a month
+
+
+Name:
+homeCountryRegion
+
+
+Vendor:
+www.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+a month
+
+
+Name:
+disableCountrySelect
+
+
+Vendor:
+www.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+Session
+
+
+Name:
+hideBasketReminderPopup
+
+
+Vendor:
+www.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+a month
+
+
+Name:
+country
+
+
+Vendor:
+www.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+a day
+
+
+Name:
+ln_or
+
+
+Vendor:
+.stores.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+a few seconds
+
+
+Name:
+_gat_yext
+
+
+Vendor:
+.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+an hour
+
+
+Name:
+cf_chl_prog
+
+
+Vendor:
+challenges.cloudflare.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+an hour
+
+
+Name:
+cf_chl_prog
+
+
+Vendor:
+support.bang-olufsen.com
+
+
+
+
+Service:
+
+
+
+Purpose:
+
+
+
+Expiry:
+an hour
+
+
+Name:
+cf_chl_2
+
+
+Vendor:
+support.bang-olufsen.com
+
+
+
+
+
+
+
+
+
+
+
+
+              Required
+            
+
+
+
+
+
+
+
+              Functional
+            
+
+
+
+
+
+
+
+              Statistical
+            
+
+
+
+
+
+
+
+              Marketing
+            
+
+
+
+
+
+
+
+Cookie policy
+
+Your consent applies to the following domains:
+cloud.bang-olufsen.com, corporate.bang-olufsen.com, bang-olufsen.com, dnatest.nft.bang-olufsen.org, dna.nft.bang-olufsen.com, stores.bang-olufsen.com, support.bang-olufsen.com
+The cookie policy was last updated on 11.11.2022
+
+
+
+
+
+Settings
+Accept all
+
+
+
+What is a cookie?
+A cookie is a small data file stored in your computer, tablet or smartphone. A cookie is not a program that can contain harmful malware or virus.
+How our website uses cookies
+Some cookies perform essential functions for our website. Cookies also help us get an overview of your visit to our website so we can continuously optimize and tailor the experience to your needs and interests. For example, cookies remember things like the items added to the shopping cart; whether you have visited our website before; if you are logged in; and the specific language and currency you prefer to see on the website. We also use cookies to target our ads specifically to you on other websites. In general, we use cookies as part of our service to present you with content that is as relevant to you as possible.
+You can see the specific services that store cookies and why they do it, under the different categories:
+
+Functional
+Statistical
+Marketing
+
+How long are cookies stored?
+The length of time a cookie is stored on your devices and browsers varies. The lifetime is calculated according to your last visit to the website. When a cookie expires, it is automatically deleted. All our cookies’ lifetimes are specified in our cookie policy.
+How to block or delete cookies
+You may at any time block all or just third-party cookies completely by changing the browser settings on your computer, tablet or smartphone. The location of these settings will depend on the browser you use. However, you should be aware that if you block all or just third-party cookies, there may be functions and services that you will be unable to use on the website (because these depend on cookies).
+You can opt-out of cookies from Google Analytics here.
+
+How can you delete cookies?
+It is easy to delete cookies that you have previously accepted. It depends on which browser (Chrome, Firefox, Safari, etc.) and device (smartphone, tablet, PC, Mac) you are using.  You can typically find this information under settings – Security and Privacy – but this may vary from one browser to another.  Specify which device/browser you are using (click the appropriate link):
+
+Internet Explorer
+Microsoft Edge
+Mozilla Firefox
+Google Chrome
+Opera
+Safari
+Flash cookies
+Apple
+Android
+Chrome, Android
+
+Changing your consent
+You can change your consent by either deleting cookies from your browser or by changing your original choice by clicking the link below:
+You can change your consent by clicking here
+Remember: If you use more than one browser, you must delete cookies in all of them.
+Do you have any questions?
+If you have any comments or questions relating to our information and/or processing of personal data, please feel welcome to contact us. 
+The cookie policy itself is updated once a month by Cookie Information. If you have any questions about our cookie policy, you are welcome to contact Cookie Information on their website.
+
+
+
+
+Functional
+Statistical
+Marketing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation and ContentSkip to main contentSkip to main footer  Speakers menu Speakers Headphones menu Headphones Televisions menu Televisions Soundbars menu Soundbars Explore  Support     Account   Find Store The gift of the futureVersatile. Updatable. Immortal. Bring Beosound Level home, and share decades-worth of musical memories.Discover moreThe Gift of Bang & OlufsenDiscover moreSpeakersheadphonesTelevisionsSoundbarsSince 1925.Your senses. Set free. pause Sound. Vision. It’s your pick.Portable speakersHome AudioEarphonesSmart homeExperience in storeUp close and personal.Come by one of our stores to hear, see and feel Bang & Olufsen yourself.Find store Need help?ALL THINGS ASSISTANCEProduct specifications. Returns. Repairs. Technical assistance. Find it all here.B&O SupportTalk to us.EXPERT ADVICE & GUIDANCENeed something specific? We love specifics. Get in touch and we´ll talk about it.Contact usStories of sound and vision On the Record.A canvas for your musicArt of the A9An extremely limited series of works by some of the world’s most exciting artists, using our iconic speaker as their canvas.Read MoreBalenciaga I Bang & Olufsen Speaker BagHaute Couture HI-FIOur new collaboration with Balenciaga, the Speaker Bag, is an example of the ideals and values we share with the legendary fashion houseWilliams F1 x Bang & OlufsenNever cutting cornersStriving for perfection: why our new partnership with the iconic F1 team is powered by a shared ethos. opens in a new tab  The House of Bang & OlufsenJoin our global community for exclusive benefits.New & limited productsExclusive eventsPersonalised contentSpecial offersBehind the scenesEmail *First name *Last name *By signing up to the House of Bang & Olufsen you accept that Bang & Olufsen as well as Bang & Olufsen branded shops can contact... Read moreSubscribesubmit  Choose country Select country and language : USA English USA  EnglishCustomer CareLogin/Create accountExclusive online servicesFAQService and SupportContact usFind storeOur PoliciesAccessibility opens in a new tab Counterfeit opens in a new tab Cookie Policy opens in a new tab Privacy Policy opens in a new tab Policies and termsOur CompanyCorporate PressInvestorsBecome a sales partnerFor industry professionalsPartners & B2BCareersBang & Olufsen CollectiveSubmit feedback to our CEODiscover Bang & Olufsen apps opens in a new tab The House of Bang & Olufsen© Bang & Olufsen 2022

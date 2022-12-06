@@ -1,0 +1,343 @@
+Routledge & CRC Press Policies - Cookie Policy
+Skip to main content
+Free standard shipping on all orders
+Search
+To hear autocomplete suggestions tab past the search button after typing keywords.
+0
+0
+Shop By Subject
+Instructors & Students
+Professional Practice
+Publish With Us
+T&Cs Terms & Conditions Shipping Policy Returns & Cancellations Inspection Copies Cookie Policy Accessibility
+Cookie Policy
+We have developed this cookie policy (the 'Cookie Policy') in order to explain how we use cookies and similar technologies (together, 'Cookies') on this website (the 'Website') and to demonstrate our firm commitment to the privacy of your personal information.
+The first time that you visit our Website, we notify you about our use of Cookies through a notification banner
+By continuing to use the Website, you consent to our use of Cookies as described in this Cookie Policy
+However, you can choose whether or not to continue accepting Cookies at any later time
+Information on how to manage Cookies is set out later in this Cookie Policy.
+Please note that our use of any personal information we collect about you is subject to our Privacy Policy.
+What are Cookies?
+Cookies are small text files containing user IDs that are automatically placed on your computer or other device by when you visit a website
+The Cookies are stored by the internet browser
+The browser sends the Cookies back to the website on each subsequent visit, allowing the website to recognise your computer or device
+This recognition enables the website provider to observe your activity on the website, deliver a personalised, responsive service and improve the website.
+Cookies can be 'Session Cookies' or 'Persistent Cookies'
+Session Cookies allow a website to link a series of your actions during one browser session, for example to remember the items you have added to a shopping basket
+Session Cookies expire after a browser session and are therefore not stored on your computer or device afterwards
+Persistent Cookies are stored on your computer or device between browser sessions and can be used when you make subsequent visits to the website, for example to remember your website preferences, such as language or font size.
+Cookies We Use and Their Purpose
+We use four types of Cookies - 'Strictly Necessary' Cookies, 'Performance' Cookies, 'Functionality' Cookies and 'Targeting' or 'Advertising' Cookies
+Each type of Cookies and the purposes for which we use them are described in this section
+To learn about the specific Cookies we use, please see our List of Cookies.
+'Strictly Necessary' Cookies enable you to move around the Website and use essential features
+For example, if you log into the Website, we use a Cookie to keep you logged in and allow you to access restricted areas, without you having to repeatedly enter your login details
+If you are registering for or purchasing a product or service, we will use Cookies to remember your information and selections, as you move through the registration or purchase process.
+Strictly Necessary Cookies are necessary for our Website to provide you with a full service
+If you disable them, certain essential features of the Website will not be available to you and the performance of the Website will be impeded.
+'Performance' Cookies collect information about how you use our Website, for example which pages you visit and if you experience any errors
+These Cookies don't collect any information that could identify you - all the information collected is anonymous
+We may use these Cookies to help us understand how you use the website and assess how well the Website performs and how we could improve it for you
+We may also use such Cookies to discover which parts of the Website interest you and measure how effective our advertising is.
+'Functionality' Cookies enable a website to provide you with specific services or a customised experience
+We may use these Cookies to provide you with services such as watching a video or adding user comments
+We may also use such Cookies to remember changes you make to your settings or preferences (for example, changes to text size or your choice of language or region) or offer you time-saving or personalised features.
+You can control whether or not Functionality Cookies are used, but disabling them may mean we are unable to provide you with some services or features of the Website.
+'Targeting' or 'Advertising' Cookies enable a website to show you relevant advertising or facilitate your use of third party services
+We may use these Cookies to provide information about your Website visit to advertisers, so that they can show you adverts more relevant to your interests, limit the number of times you see the same advert and measure the effectiveness of their advertising 
+We may also use such Cookies to make it easier for you to 'like' or 'share' Website content through your social network(s)
+The social networking websites may subsequently use information about your visit to target advertising to you on those websites
+Please see their website terms and policies for further information on such use.
+You can control whether or not Targeting or Advertising Cookies are, but disabling them may mean we are unable to provide you with some services or features of the Website.
+Strictly Necessary Cookies
+Performance Cookies
+Functionality Cookies
+Targeting or Advertising Cookies
+List of Cookies
+Cookie Name
+Possible Value
+Uses
+Necessary Cookies
+crc_size
+12,24,48
+Store the number of results you have chosen to see in search and browse pages (cookie will not be set you don't change the default setting)
+PHPSESSID
+Random string of letters and numbers
+To store the User's Session id in encrypted format
+crc_cart_id
+The encrypted cart ID
+This is used to save your cart for when you return to the site.
+crc_wishlist_id
+The encrypted wishlist ID
+This is used to save your wishlist for when you return to the site.
+Addthis Cookies
+__atuvc
+URL-encoded array of numbers Example: 7%7C35
+This cookie is associated with the AddThis social sharing widget
+__atuvs
+randomly generated string
+This cookie is associated with the AddThis social sharing widget
+loc
+geolocation cookie
+uit
+User id and login time tracking
+dt
+Date tracking cookies for determining expiration of other cookies
+di
+Date tracking cookies for determining expiration of other cookies
+uid
+User id and login time tracking
+uvc
+randomly generated number
+Detects how often the social sharing service, AddThis, encounters the same user.
+psc
+View counter cookie
+mus
+This cookie is associated with the AddThis social sharing widget
+ouid
+This cookie is associated with the AddThis social sharing widget
+Facebook Cookies
+reg_fb_gate
+it contains the first Facebook page visited by the web browser
+reg_fb_ref cookie
+randomly generated number
+it contains the last Facebook page visited by the web browser
+datr
+randomly generated number
+c_user
+UUser id and login time tracking
+lu
+randomly generated number
+s
+randomly generated number
+xs
+randomly generated number
+locale
+Geolocation cookie
+wd
+sb
+Google Cookies
+_ga
+number
+Registers a uniqueID that is used to generate statistical data on how the visitor uses the website.
+_gat
+number
+Used by Google Analytics to throttle request rate
+_gid
+string
+Registers a uniqueID that is used to generate statistical data on how the visitor uses the website.
+collect
+Used to send data to Google Analytics about the visitor's device and behaviour.Tracks the visitor across devices and marketing channels.
+_utma
+randomly generated number
+Used to distinguish users and sessions.
+_utmb
+randomly generated number
+Used to determine new sessions/visits.
+_utmc
+randomly generated number
+Operates in conjunction with the__utmbcookie to determine whether the user is in a new session/visit
+_utmt
+randomly generated number
+Used to throttle request rate.
+_utmz
+randomly generated number
+Stores the traffic source or campaign that explains how the user reached your site.
+__utmv
+randomly generated number
+Used to store visitor-level custom variable data
+This cookie is created when a developer uses the _setCustomVar method with a visitor level custom variable
+This cookie was also used for the deprecated _setVar method
+The cookie is updated every time data is sent to Google Analytics.
+1P_JAR
+randomly generated number
+These cookies are set via embedded youtube-videos
+They register anonymous statistical data on for example how many times the video is displayed and what settings are used for playback
+No sensitive data is collected unless you log in to your google account, in that case your choices are linked with your account, for example if you click “like” on a video
+For more information, read the general Google Privacy policy.
+SIDCC
+randomly generated string
+APISID
+randomly generated string
+HSID
+randomly generated string
+NID
+randomly generated string
+OGPC
+randomly generated number
+PREF
+randomly generated number
+SAPISID
+randomly generated string
+SID
+randomly generated string
+SSID
+randomly generated string
+Cloudflare Cookies
+__cfduid
+randomly generated string
+Cookie associated with sites using CloudFlare, used to speed up page load times
+It does not contain any user identification information
+_biz_dfsA
+randomly generated string
+Optimizely 3rd party – Cookies are used to remember users’ settings as well as for authentication and analytics.
+_biz_flagsA
+randomly generated string
+Optimizely 3rd party – Cookies are used to remember users’ settings as well as for authentication and analytics.
+_biz_nA
+randomly generated number
+Optimizely 3rd party – Cookies are used to remember users’ settings as well as for authentication and analytics.
+_biz_pendingA
+encoded url
+Optimizely 3rd party – Cookies are used to remember users’ settings as well as for authentication and analytics.
+_biz_uid
+randomly generated string
+Optimizely 3rd party – Cookies are used to remember users’ settings as well as for authentication and analytics.
+optimizelyBuckets
+randomly generated string
+3rd party Cookie set by the Optimizely website optimisation plaftform
+Used to store the page variants assigned to a user for A/B performance testing, to ensure the user gets a consistent experience 3rd party
+optimizelyEndUserId
+randomly generated string
+3rd party Cookie set by the Optimizely website optimisation plaftform
+This cookie is a unique user identifier
+optimizelySegments
+randomly generated string
+3rd party Cookie set by the Optimizely website optimisation plaftform.
+Pardot.com Cookies
+lpv XXX
+randomly generated string
+These cookies are placed in order to improve our website
+It gives us insight in the surfing behaviour of visitors
+pardot
+randomly generated string
+Pardot session cookie
+Visitor_id#
+randomly generated number
+The visitor cookie includes the name “visitor_id” plus the unique identifier, which is derived from the tracking code placed on your site
+The value stored is the unique ID for the visitor
+For example, cookie name “visitor_id12345″ stores the visitor value “123456789,” where 12345 is the account identifier and 123456789 represents the visitor ID
+This cookie is set by our tracking code on visitors and prospects.
+Visitor_id#-hash
+randomly generated number
+Visitor Cookie with Encrypted data
+dtCookie
+randomly generated string
+This is a unique identifier visitor cookie, used to recognise a user to the website
+mbox
+randomly generated string
+Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.
+webact
+encoded URL
+These cookies are used to collect information for sales and marketing purposes in order to make customer communications relevant and help us understand the performance of our marketing campaigns
+Any data collected is used only for internal purposes
+Igodigital Cookies
+igodigitaltc2
+randomly generated string
+This cookie is used to capture customer behavior to improve the quality of the experience of our online customers, including enhanced browsing experiences.
+igodigitalstdomain
+randomly generated number
+igodigitalst_crcpress
+randomly generated string
+ContentSquare
+Cookie
+Duration
+Description
+_cs_id
+13 months
+This cookie contains ContentSquare’s user identifier
+_cs_s
+30 minutes
+This cookie contains the number of pageviews within the running session for ContentSquare Solution
+_cs_vars
+session
+This cookie is used by ContentSquare to record custom variables
+_cs_ex
+30 days
+This cookies is used by ContentSquare to exclude some visitors from the collection
+_cs_c
+13 months
+This cookies is used by ContentSquare to save the user consent to be tracked
+_cs_optout
+13 months
+This cookies is used by ContentSquare to exclude some visitors from the collection
+First and Third Party Cookies
+The Cookies placed on your computer or device include 'First Party' Cookies, meaning Cookies that are placed there by us, or by third party service providers acting on our behalf
+Where such Cookies are being managed by third parties, we only allow the third parties to use the Cookies for our purposes, as described in this Cookie Policy, and not for their own purposes.
+The Cookies placed on your computer or device may also include 'Third Party' Cookies, meaning Cookies that are placed there by third parties
+These Cookies may include third party advertisers who display adverts on our Website and/or social network providers who provide 'like' or 'share' capabilities (see the above section on Targeting or Advertising Cookies)
+They may also include third parties who provide video content which is embedded on our Website (such as YouTube)
+Please see the website terms and policies of these third parties for further information on their use of Cookies.
+To learn about the specific First Party and Third Party Cookies used by our website, please see our List of Cookies.
+Managing Cookies
+You always have a choice over whether or not to accept Cookies
+When you first visit the Website and we notify you about our use of Cookies, you can choose not to consent to such use
+If you continue to use the Website, you are consenting to our use of Cookies for the time being
+However, you can choose not to continue accepting Cookies at any later time
+In this section, we describe ways to manage Cookies, including how to disable them.
+You can manage Cookies through the settings of your internet browser
+You can choose to block or restrict Cookies from being placed on your computer or device
+You can also review periodically review the Cookies that have been placed there and disable some or all of them
+You can learn more about how to manage Cookies on the following websites: www.allaboutcookies.org and www.youronlinechoices.com.
+Please be aware that if you choose not to accept certain Cookies, it may mean we are unable to provide you with some services or features of the Website.
+Changes to Cookie Policy
+In order to keep up with changing legislation and best practice, we may revise this Cookie Policy at any time without notice by posting a revised version on this Website
+So please check back periodically so that you are aware of any changes.
+Questions or Concerns
+If you have any questions or concerns about this Cookie Policy or our use of Cookies on the Website, please contact us by email to privacy@taylorandfrancis.com.
+You can also contact the Privacy Officer for the Informa PLC group at compliance.officer@informa.com.
+This Cookie Policy was last updated on May 22, 2018.
+Looking for our Privacy Policy?
+Our Privacy Policy can be found on our Taylor & Francis corporate website
+View our Privacy Policy »
+Back To Top
+© 2022 Informa UK Limited, an Informa Plc company
+Contact Us
+Customer Service
+Editorial Contacts
+Sales Contacts
+Rights and Permissions
+Become an Affiliate Partner Opens in new tab or window
+Refer a Friend Opens in new tab or window
+FAQs
+Customer Resources
+Authors
+Booksellers
+Instructors
+Librarians
+Press and Media
+Professionals
+Societies and Associations
+Students
+Our Products
+eBooks
+eBook+
+Book Series
+Online Platforms
+Open Access Books
+Focus Shortform Books
+About Us
+About Routledge
+About Taylor & Francis Opens in new tab or window
+Taylor & Francis Journals Opens in new tab or window
+Careers Opens in new tab or window
+Blog
+Topics
+Policies
+Shipping Information
+Returns and Cancellations
+Terms and Conditions
+Inspection Copies
+Cookie Policy
+Accessibility
+Privacy Policy Opens in new tab or window
+SOCIAL  NETWORKS
+Facebook - Opens in new tab or window       LinkedIn - Opens in new tab or window      Twitter - Opens in new tab or window       YouTube - Opens in new tab or window
+We use cookies to improve your website experience
+To learn how to manage your cookie settings, please see our Cookie Policy
+By continuing to use the website, you consent to our use of cookies.
+Accept
+The country you have selected will result in the following:
+Product pricing will be adjusted to match the corresponding currency.
+Continue
+Cancel

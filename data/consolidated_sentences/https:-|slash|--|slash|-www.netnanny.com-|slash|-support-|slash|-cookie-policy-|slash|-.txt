@@ -1,0 +1,103 @@
+Cookie Policy | Net NannyContact UsBusiness SolutionsBuy NowProduct PortfolioNet Nanny:All ProductsFamily Protection PassWindowsMac OS XAndroidiOSKindle FireSafeToNet:SafeToNet AppFeaturesAll FeaturesParental ControlsScreen Time ManagementWebsite BlockerBlock AppsTrack LocationInternet FilterBlock PornographyAlerts and ReportingFamily FeedParent DashboardYouTube MonitoringSocial Media ProtectionBlogSupportNet Nanny 10Net Nanny Older VersionsDownloadsMy SettingsMy SubscriptionNet Nanny 10 SettingsLegacy SettingsForgot Password?Buy NowNet Nanny Cookie Policy This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic
+We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services
+Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+For all other types of cookies we need your permission.This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.Please state your consent ID and date when you contact us regarding your consent
+Your consent applies to the following domains: www.netnanny.com Your current state: Deny
+Your current state: Do Not Sell My Personal Information
+Your current state: Allow selection (Necessary, Preferences, Statistics, Marketing)
+Your current state: Allow all
+Your consent ID: Consent date: Change your consent  |  Withdraw your consentDo Not Sell My Personal InformationCookie declaration last updated on 06/11/2022 by Cookiebot:        Necessary (20)         Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+The website cannot function properly without these cookies
+Name Provider Purpose Expiry Type    __stripe_mid www.netnanny.com This cookie is necessary for making credit card transactions on the website
+The service is provided by Stripe.com which allows online transactions without storing any credit card information
+1 year HTTP Cookie   __stripe_sid www.netnanny.com This cookie is necessary for making credit card transactions on the website
+The service is provided by Stripe.com which allows online transactions without storing any credit card information
+1 day HTTP Cookie   _GRECAPTCHA Google This cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website
+179 days HTTP Cookie   apay-session-set www.netnanny.com This cookie is used in conjunction with the payment window - The cookie is necessary for making secure transactions on the website
+1 year HTTP Cookie   AWSALB www.netnanny.com Registers which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+6 days HTTP Cookie   AWSALBCORS www.netnanny.com Registers which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+6 days HTTP Cookie   CONSENT          [x2]         GoogleYouTube Used to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+2 years HTTP Cookie   CookieConsent Cookiebot Stores the user's cookie consent state for the current domain 1 year HTTP Cookie   CraftSessionId www.netnanny.com Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes
+1 day HTTP Cookie   is_eu Pinterest Determines whether the user is located within the EU and therefore is subject to EU's data privacy regulations
+Session HTML Local Storage   language www.netnanny.com Saves the user's preferred language on the website
+1 day HTTP Cookie   ledgerCurrency www.netnanny.com Cookie set by Amazon Pay to indicate the type of currency the transaction will use
+1 day HTTP Cookie   m Stripe Determines the device used to access the website
+This allows the website to be formatted accordingly
+2 years HTTP Cookie   pa_enabled Solarwinds Determines the device used to access the website
+This allows the website to be formatted accordingly
+Persistent HTML Local Storage   rc::a Google This cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website
+Persistent HTML Local Storage   rc::b Google This cookie is used to distinguish between humans and bots
+Session HTML Local Storage   rc::c Google This cookie is used to distinguish between humans and bots
+Session HTML Local Storage   SESS# Amazon Preserves users states across page requests
+1 year HTTP Cookie   thirdPartyCookiesEnabled Pure Chat Determines whether the user has opted-out of third-party cookies
+1 day HTTP Cookie     Preferences (12)         Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+Name Provider Purpose Expiry Type    #__purechatLastCheckin prod.purechatcdn.com Set by Purechat to assist in managing site chat
+Persistent HTML Local Storage   #__purechatSessionStart prod.purechatcdn.com Set by Purechat to assist in managing site chat
+Persistent HTML Local Storage   _PCCID Pure Chat Identifies the visitor across devices and visits, in order to optimize the chat-box function on the website
+5 years HTTP Cookie   _PCCSID_# Pure Chat Set by Purechat to assist in managing site chat
+1 day HTTP Cookie   _purechatLocalStorageAccess Pure Chat Necessary for the functionality of the website's chat-box function
+Persistent HTML Local Storage   01234567-89ab-cdef-0123-456789abcdef__purechat_sessionStartTime prod.purechatcdn.com Pending Persistent HTML Local Storage   01234567-89ab-cdef-0123-456789abcdef__purechatPageStart prod.purechatcdn.com Pending Persistent HTML Local Storage   i prod.purechatcdn.com Allows the website to recoqnise the visitor, in order to optimize the chat-box functionality
+Persistent HTML Local Storage   lastCheckin_# prod.purechatcdn.com Set by Purechat to assist in managing site chat
+Persistent HTML Local Storage   s_# prod.purechatcdn.com Set by Purechat to assist in managing site chat
+Persistent HTML Local Storage   vc prod.purechatcdn.com Allows the website to recoqnise the visitor, in order to optimize the chat-box functionality
+Persistent HTML Local Storage   vn prod.purechatcdn.com Allows the website to recoqnise the visitor, in order to optimize the chat-box functionality
+Persistent HTML Local Storage     Statistics (16)         Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+Name Provider Purpose Expiry Type    _ga Cookiebot Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+2 years HTTP Cookie   _gat Cookiebot Used by Google Analytics to throttle request rate 1 day HTTP Cookie   _gid Cookiebot Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+1 day HTTP Cookie   _hjAbsoluteSessionInProgress Hotjar This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice
+1 day HTTP Cookie   _hjFirstSeen Hotjar This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website
+1 day HTTP Cookie   _hjIncludedInPageviewSample Hotjar Determines if the user's navigation should be registered in a certain statistical place holder
+1 day HTTP Cookie   _hjIncludedInSessionSample Hotjar Registers data on visitors' website-behaviour
+This is used for internal analysis and website optimization
+1 day HTTP Cookie   _hjSession_# Hotjar Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read
+1 day HTTP Cookie   _hjSessionUser_# Hotjar Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read
+1 year HTTP Cookie   _hjTLDTest Hotjar Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Session HTTP Cookie   collect Google Used to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels
+Session Pixel Tracker   FirstSession www.netnanny.com Used to distinguish between new or returning site traffic
+6 months HTTP Cookie   pa Solarwinds Registers the website's speed and performance
+This function can be used in context with statistics and load-balancing
+Persistent HTML Local Storage   purechat_acquisition_source www.netnanny.com Identifies the last page visited by the visitor
+This is used in order to make the chat-box function more relevant
+Persistent HTML Local Storage   purechat_chatServerUrl prod.purechatcdn.com This cookie is used to collect information about how the visitor interacts with the live chat function on the website
+Persistent HTML Local Storage   yt-player-headers-readable YouTube Used to determine the optimal video quality based on the visitor's device and network settings
+Persistent HTML Local Storage     Marketing (31)         Marketing cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+Name Provider Purpose Expiry Type    _fbp  Meta Platforms, Inc
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months HTTP Cookie   _gcl_au Cookiebot Used by Google AdSense for experimenting with advertisement efficiency across websites using their services
+3 months HTTP Cookie   _pin_unauth Pinterest Used by Pinterest to track the usage of services
+1 year HTTP Cookie   _uetsid Microsoft Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+1 day HTML Local Storage   _uetsid_exp Microsoft Contains the expiry-date for the cookie with corresponding name
+Persistent HTML Local Storage   _uetvid Microsoft Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+1 year HTML Local Storage   _uetvid_exp Microsoft Contains the expiry-date for the cookie with corresponding name
+Persistent HTML Local Storage   ads/ga-audiences Google Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites
+Session Pixel Tracker   fbssls_  Meta Platforms, Inc
+Pending Session HTML Local Storage   i/jot/embeds Twitter Inc
+Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+Session Pixel Tracker   IDE Google Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year HTTP Cookie   mid www.netnanny.com This cookie is used to identify the visitor through an application
+This allows the visitor to login to a website through their Instagram application for example
+2 months HTTP Cookie   MUID Microsoft Used widely by Microsoft as a unique user ID
+The cookie enables user tracking by synchronising the ID across many Microsoft domains
+1 year HTTP Cookie   pagead/landing          [x3]         Google Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Session Pixel Tracker   pid www.netnanny.com Used to identify the visitor across visits and devices
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers
+2 months HTTP Cookie   test_cookie Google Used to check if the user's browser supports cookies
+1 day HTTP Cookie   v3 Pinterest Used by Pinterest to track the usage of services
+Session Pixel Tracker   VISITOR_INFO1_LIVE YouTube Tries to estimate the users' bandwidth on pages with integrated YouTube videos
+179 days HTTP Cookie   YSC YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen
+Session HTTP Cookie   yt.innertube::nextId YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen
+Persistent HTML Local Storage   yt.innertube::requests YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen
+Persistent HTML Local Storage   ytidb::LAST_RESULT_ENTRY_KEY YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-cast-available YouTube Used to regulate the behavior of the integrated YouTube video player on other websites Session HTML Local Storage   yt-remote-cast-installed YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-connected-devices YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-device-id YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-fast-check-period YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-app YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-name YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   About UsPress RoomTestimonialsCustomersReturn PolicyPrivacy PolicyTerms and ConditionsTech SupportDocumentationAccuracy FeedbackOther BrandsZift Parent PortalFollow us on© 2018-2021 Content Watch Holdings, Inc
+All Rights Reserved.

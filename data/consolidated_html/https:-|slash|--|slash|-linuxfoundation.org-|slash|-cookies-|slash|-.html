@@ -1,0 +1,1508 @@
+<!DOCTYPE html><html><head><style><!----> .osano-cm-window{font-smooth:always;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothingz:auto;--fade-transition-time:700ms;display:block;font-family:Helvetica,Arial,Hiragino Sans GB,STXihei,Microsoft YaHei,WenQuanYi Micro Hei,Hind,MS Gothic,Apple SD Gothic Neo,NanumBarunGothic,sans-serif;font-size:16px;left:0;line-height:1;position:absolute;top:0;width:100%;z-index:2147483638}.osano-cm-window--context_amp{height:100%}.osano-visually-hidden{height:1px;left:-10000px;margin:-1px;opacity:0;overflow:hidden;position:absolute;width:1px}.osano-cm-button{border-radius:.25em;border-style:solid;border-width:thin;cursor:pointer;flex:1 1 auto;font-size:1em;font-weight:700;line-height:1;margin:.125em;min-width:6em;padding:.5em .75em;transition-duration:.2s;transition-property:background-color;transition-timing-function:ease-out}.osano-cm-button--type_icon{border-radius:50%;height:1em;line-height:0;min-width:1em;width:1em}.osano-cm-button:focus,.osano-cm-button:hover{outline:none}.osano-cm-close{stroke-width:1px;border-radius:50%;border-style:solid;border-width:2px;box-sizing:initial;cursor:pointer;height:20px;margin:.5em;min-height:20px;min-width:20px;order:0;outline:none;overflow:hidden;padding:0;text-decoration:none;transform:rotate(0deg);transition-duration:.2s;transition-property:transform,color,background-color,stroke,stroke-width;transition-timing-function:ease-out;width:20px;z-index:2}.osano-cm-close:focus,.osano-cm-close:hover{stroke-width:2px;transform:rotate(90deg)}.osano-cm-link{cursor:pointer;text-decoration:underline;transition-duration:.2s;transition-property:color;transition-timing-function:ease-out}.osano-cm-link:active,.osano-cm-link:hover{outline:none}.osano-cm-link:focus{font-weight:700;outline:none}.osano-cm-link--type_feature,.osano-cm-link--type_purpose,.osano-cm-link--type_specialFeature,.osano-cm-link--type_specialPurpose{cursor:help;display:block;-webkit-text-decoration:dashed;text-decoration:dashed}.osano-cm-link--type_denyAll{display:block;text-align:right}[dir=rtl] .osano-cm-link--type_denyAll{text-align:left}.osano-cm-link--type_vendor{display:block}.osano-cm-vendor-link{font-size:.75em}.osano-cm-list-item{margin:0}.osano-cm-list-item--type_term{border-top-style:solid;border-top-width:1px;font-size:.875rem;font-weight:400;margin-bottom:.25em;margin-top:.5em;padding:.5em .75rem 0;position:relative;top:-1px}.osano-cm-list-item--type_description{font-size:.75rem;font-weight:lighter;padding:0 .75rem}.osano-cm-list{list-style-position:outside;list-style-type:none;margin:0;padding:0}.osano-cm-list__list-item{text-indent:0}.osano-cm-list--type_description{margin:0 -1em}.osano-cm-list:first-of-type .osano-cm-list__list-item:first-of-type{border-top-width:0;margin-top:0;padding-top:0}.osano-cm-toggle{align-items:center;display:flex;flex-direction:row-reverse;justify-content:flex-start;margin:.25em 0;pointer-events:auto;position:relative}.osano-cm-toggle__label{margin:0 .5em 0 0}[dir=rtl] .osano-cm-toggle__label{margin:0 0 0 .5em}.osano-cm-toggle__switch{border-radius:14px;border-style:solid;border-width:2px;box-sizing:initial;color:transparent;display:block;flex-shrink:0;height:18px;line-height:0;margin:0;position:relative;text-indent:-9999px;transition-duration:.2s;transition-property:background-color;transition-timing-function:ease-out;width:40px}.osano-cm-toggle__switch:hover{cursor:pointer}.osano-cm-toggle__switch:after{border-radius:9px;border-width:0;height:18px;left:0;top:0;width:18px}.osano-cm-toggle__switch:before{border-radius:16px;border-width:2px;bottom:-6px;box-sizing:border-box;left:-6px;right:-6px;top:-6px}.osano-cm-toggle__switch:after,.osano-cm-toggle__switch:before{border-style:solid;content:"";margin:0;position:absolute;transform:translateX(0);transition-duration:.3s;transition-property:transform,left,border-color;transition-timing-function:ease-out}.osano-cm-toggle__switch:after:active,.osano-cm-toggle__switch:before:active{transition-duration:.1s}.osano-cm-toggle__switch:after:active{width:26px}.osano-cm-toggle__switch:before:active{width:34px}[dir=rtl] .osano-cm-toggle__switch:after{left:100%;transform:translateX(-100%)}.osano-cm-toggle__input{height:1px;left:-10000px;margin:-1px;opacity:0;overflow:hidden;position:absolute;width:1px}.osano-cm-toggle__input:disabled{cursor:default}.osano-cm-toggle--type_checkbox .osano-cm-toggle__switch{border-radius:4px;border-style:solid;border-width:1px;height:22px;width:22px}.osano-cm-toggle--type_checkbox .osano-cm-toggle__switch:after{background-color:transparent!important;border-bottom-width:2px;border-left-width:2px;border-radius:0;content:none;height:6px;left:3px;top:3px;transform:rotate(-45deg);transition-property:color;transition-timing-function:ease-out;width:12px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch{border-radius:4px;border-style:solid;border-width:1px;height:22px;width:22px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:after,.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:before{background-color:transparent!important;border-bottom-width:1px;border-radius:0;border-top-width:1px;content:none;height:0;left:-3px;top:7px;transition-property:color;transition-timing-function:ease-out;width:12px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:after{transform:translate(50%,50%) rotate(-45deg)}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:before{transform:translate(50%,50%) rotate(45deg)}.osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{left:100%;transform:translateX(-100%)}[dir=rtl] .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{left:0;transform:translateX(0)}.osano-cm-toggle__input:disabled+.osano-cm-toggle__switch{cursor:default}.osano-cm-toggle--type_checkbox .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{content:"";left:3px;top:3px;transform:rotate(-45deg)}.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after,.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:before{content:"";left:-3px;top:7px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{transform:translate(50%,50%) rotate(-45deg)}.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:before{transform:translate(50%,50%) rotate(45deg)}.osano-cm-toggle--type_checkbox .osano-cm-toggle__input:disabled+.osano-cm-toggle__switch,.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:disabled+.osano-cm-toggle__switch{opacity:.3}.osano-cm-widget{background:none;border:none;bottom:12px;cursor:pointer;height:40px;opacity:.9;outline:none;padding:0;position:fixed;transition:transform .1s linear 0s,opacity .4s linear 0ms,visibility 0ms linear 0ms;visibility:visible;width:40px;z-index:2147483636}.osano-cm-widget--position_right{right:12px}.osano-cm-widget--position_left{left:12px}.osano-cm-widget:focus{outline:solid;outline-offset:.2rem}.osano-cm-widget:focus,.osano-cm-widget:hover{opacity:1;transform:scale(1.1)}.osano-cm-widget--hidden{opacity:0;transition-delay:0ms,0ms,.4s;visibility:hidden}.osano-cm-widget--hidden:focus,.osano-cm-widget--hidden:hover{opacity:0;transform:scale(1)}:export{fadeTransitionTime:.7s}.osano-cm-dialog{align-items:center;box-sizing:border-box;font-size:1em;line-height:1.25;overflow:auto;padding:1.5em;position:fixed;transition-delay:0ms,0ms;transition-duration:.7s,0ms;transition-property:opacity,visibility;visibility:visible;z-index:2147483637}.osano-cm-dialog--hidden{opacity:0;transition-delay:0ms,.7s;visibility:hidden}.osano-cm-dialog--type_bar{box-sizing:border-box;display:flex;flex-direction:column;left:0;right:0}.osano-cm-dialog--type_bar .osano-cm-button{flex:none;margin:.125em auto;width:80%}@media screen and (min-width:768px){.osano-cm-dialog--type_bar{flex-direction:row}.osano-cm-dialog--type_bar .osano-cm-button{flex:1 1 100%;margin:.25em .5em;width:auto}}.osano-cm-dialog--type_box{flex-direction:column;max-height:calc(100vh - 2em);max-width:20em;width:calc(100vw - 2em)}.osano-cm-dialog__close{position:absolute;right:0;top:0}.osano-cm-dialog__list{margin:.5em 0 0;padding:0}.osano-cm-dialog__list .osano-cm-item{display:flex;margin-top:0}.osano-cm-dialog__list .osano-cm-item:last-child{margin-bottom:0}.osano-cm-dialog__list .osano-cm-toggle{flex-direction:row}[dir=rtl] .osano-cm-dialog__list .osano-cm-toggle{flex-direction:row-reverse}.osano-cm-dialog__list .osano-cm-label{white-space:nowrap}[dir=ltr] .osano-cm-dialog__list .osano-cm-label{margin-left:.375em}[dir=rtl] .osano-cm-dialog__list .osano-cm-label{margin-right:.375em}.osano-cm-dialog__buttons{display:flex;flex-wrap:wrap}.osano-cm-dialog--type_bar .osano-cm-dialog__content{flex:5;margin-bottom:.25em;width:100%}@media screen and (min-width:768px){.osano-cm-dialog--type_bar .osano-cm-dialog__content{max-height:30vh}}.osano-cm-dialog--type_box .osano-cm-dialog__content{display:flex;flex-direction:column;flex-grow:.0001;transition:flex-grow 1s linear}.osano-cm-dialog--type_bar .osano-cm-dialog__list{display:flex;flex-direction:column;flex-wrap:wrap;justify-content:flex-start;margin:.75em auto}@media screen and (min-width:376px){.osano-cm-dialog--type_bar .osano-cm-dialog__list{flex-direction:row}}@media screen and (min-width:768px){.osano-cm-dialog--type_bar .osano-cm-dialog__list{margin:.5em 0 0 auto}[dir=rtl] .osano-cm-dialog--type_bar .osano-cm-dialog__list{margin:.5em auto 0 0}}[dir=ltr] .osano-cm-dialog--type_bar .osano-cm-dialog__list .osano-cm-item{margin-right:.5em}[dir=rtl] .osano-cm-dialog--type_bar .osano-cm-dialog__list .osano-cm-item{margin-left:.5em}.osano-cm-dialog--type_bar .osano-cm-dialog__list .osano-cm-label{padding-top:0}.osano-cm-dialog--type_bar .osano-cm-dialog__buttons{flex:1;justify-content:flex-end;margin:0;width:100%}@media screen and (min-width:768px){.osano-cm-dialog--type_bar .osano-cm-dialog__buttons{margin:0 0 0 .5em;max-width:30vw;min-width:16em;position:-webkit-sticky;position:sticky;top:0;width:auto}[dir=rtl] .osano-cm-dialog--type_bar .osano-cm-dialog__buttons{margin:0 .5em 0 0}}.osano-cm-dialog--type_box .osano-cm-dialog__buttons{margin:.5em 0 0}.osano-cm-dialog--type_bar.osano-cm-dialog--position_top{top:0}.osano-cm-dialog--type_bar.osano-cm-dialog--position_bottom{bottom:0}.osano-cm-dialog--type_box.osano-cm-dialog--position_top-left{left:1em;top:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_top-right{right:1em;top:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_bottom-left{bottom:1em;left:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_bottom-right{bottom:1em;right:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_center{left:50%;top:50%;transform:translate(-50%,-50%)}.osano-cm-dialog--context_amp{height:100%;position:relative}.osano-cm-content__message{margin-bottom:1em;padding-bottom:1.5em;word-break:break-word}.osano-cm-drawer-links{margin:.5em 0 0}.osano-cm-drawer-links__link{display:block}.osano-cm-storage-policy{display:inline-block}.osano-cm-usage-list__list{list-style-position:inside;list-style-type:disc}.osano-cm-info-dialog{height:100vh;left:0;position:fixed;top:0;transition-delay:0ms,0ms;transition-duration:.2s,0ms;transition-property:opacity,visibility;visibility:visible;width:100vw;z-index:2147483638}.osano-cm-info-dialog--hidden{opacity:0;transition-delay:0ms,.2s;visibility:hidden}.osano-cm-info{-webkit-animation:delay-overflow .4s;animation:delay-overflow .4s;bottom:0;box-shadow:0 0 2px 2px #ccc;box-sizing:border-box;max-width:20em;overflow-x:visible;overflow-y:visible;position:fixed;top:0;transition-duration:.4s;transition-property:transform;width:100%}.osano-cm-info--position_left{left:0;transform:translate(-100%)}.osano-cm-info--position_right{right:0;transform:translate(100%)}.osano-cm-info--open{-webkit-animation:none;animation:none;overflow-x:hidden;overflow-y:auto;transform:translate(0)}.osano-cm-info-views{align-items:flex-start;display:flex;flex-direction:row;flex-wrap:nowrap;height:100%;transition-duration:.4s;transition-property:transform;width:100%}[dir=rtl] .osano-cm-info-views{flex-direction:row-reverse}.osano-cm-info-views__view{box-sizing:border-box;flex-shrink:0;width:100%}.osano-cm-info-views--position_0>:not(:first-of-type),.osano-cm-info-views--position_1>:not(:nth-of-type(2)),.osano-cm-info-views--position_2>:not(:nth-of-type(3)){max-height:100%;overflow:hidden}.osano-cm-view{height:0;padding:0 .75em 1em;transition-delay:.4s;transition-duration:0ms;transition-property:height,visibility;visibility:hidden;width:100%}.osano-cm-view__button{font-size:.875em;margin:1em 0 0;width:100%}.osano-cm-view--active{height:auto;transition-delay:0ms;visibility:visible}.osano-cm-header{margin:0 0 -1em;padding:1em 0;position:-webkit-sticky;position:sticky;top:0;z-index:1}.osano-cm-description{font-size:.75em;font-weight:300;line-height:1.375;margin:1em 0 0}.osano-cm-description:first-child{margin:0}.osano-cm-description:last-of-type{margin-bottom:1em}.osano-cm-drawer-toggle .osano-cm-label{font-size:.875em;margin:0 auto 0 0}[dir=rtl] .osano-cm-drawer-toggle .osano-cm-label{margin:0 0 0 auto}.osano-cm-info-dialog-header{align-items:center;display:flex;flex-direction:row-reverse;left:auto;min-height:3.25em;position:-webkit-sticky;position:sticky;top:0;width:100%;z-index:1}[dir=rtl] .osano-cm-info-dialog-header{flex-direction:row}.osano-cm-info-dialog-header__header{align-items:center;display:flex;flex:1 1 auto;font-size:1em;justify-content:flex-start;margin:0;order:1;padding:1em .75em}.osano-cm-info-dialog-header__description{font-size:.75em;line-height:1.375}.osano-cm-back,.osano-cm-info-dialog-header__close{position:relative}.osano-cm-back{flex:0 1 auto;margin:0 0 0 .5em;min-width:0;order:2;width:auto;z-index:2}[dir=rtl] .osano-cm-back{margin:0 .5em 0 0}.osano-cm-powered-by{align-items:center;display:flex;flex-direction:column;font-weight:700;justify-content:center;margin:1em 0}.osano-cm-powered-by__link{font-size:.625em;outline:none;text-decoration:none}.osano-cm-powered-by__link:focus,.osano-cm-powered-by__link:hover{text-decoration:underline}@-webkit-keyframes delay-overflow{0%{overflow-x:hidden;overflow-y:auto}}@keyframes delay-overflow{0%{overflow-x:hidden;overflow-y:auto}}.osano-cm-expansion-panel{border-bottom:1px solid rgba(0,0,0,.1);display:block;font-size:.75em;margin:0 -1.5em 1em;padding:1.5em 1.5em 0}.osano-cm-expansion-panel--expanded{border-bottom:none}.osano-cm-expansion-panel--empty,.osano-cm-expansion-panel--empty:not([open]){border-bottom:1px solid rgba(0,0,0,.1);padding-bottom:0}.osano-cm-expansion-panel__body{background-color:rgba(0,0,0,.1);line-height:1.25;list-style:none;margin:0 -1.5em;max-height:0;overflow:hidden;padding:0 1.5em;transition-delay:0ms,0ms,0ms,.3s;transition-duration:.3s,.3s,.3s,0s;transition-property:max-height,padding-top,padding-bottom,visibility;transition-timing-function:ease-out;visibility:hidden}.osano-cm-expansion-panel__toggle{cursor:pointer;display:block;line-height:1.25;margin:0 auto 1em 0;outline:none;position:relative}.osano-cm-expansion-panel__toggle:active,.osano-cm-expansion-panel__toggle:focus,.osano-cm-expansion-panel__toggle:hover{outline:none}[dir=rtl] .osano-cm-expansion-panel__toggle{margin:0 0 1em auto}.osano-cm-expansion-panel--expanded .osano-cm-expansion-panel__body{padding:1.25em 1.5em 1em;transition-delay:0ms,0ms,0ms,0ms;visibility:visible}.osano-cm-cookie-disclosure__title,.osano-cm-script-disclosure__title{border:0;clear:both;display:block;flex:0 1 30%;font-size:1em;font-weight:700;line-height:1.375;margin:0 0 .5em;padding:0}.osano-cm-cookie-disclosure__description,.osano-cm-script-disclosure__description{flex:0 1 70%;font-size:1em;line-height:1.375;margin:0 0 .5em;padding:0}.osano-cm-disclosure{border-bottom:none;display:block;font-size:.75em;margin:0 -1.5em 1em;padding:1.5em 1.5em 0}.osano-cm-disclosure--collapse{border-bottom:1px solid rgba(0,0,0,.1);padding-bottom:1em}.osano-cm-disclosure--empty,.osano-cm-disclosure--empty:not([open]){border-bottom:1px solid rgba(0,0,0,.1);padding-bottom:0}.osano-cm-disclosure__list{background-color:rgba(0,0,0,.1);line-height:1.25;list-style:none;margin:0 -1.5em;padding:1.25em 1.5em 1em}.osano-cm-disclosure__list:empty{border:none;padding:0 1.5em}.osano-cm-disclosure__list:first-of-type{margin-top:1em;padding:1.25em 1.5em 1em}.osano-cm-disclosure__list:first-of-type:empty{padding:1.75em 1.5em .75em}.osano-cm-disclosure__list:not(:first-of-type):not(:empty){border-top:1px solid rgba(0,0,0,.1)}.osano-cm-disclosure__list:empty+.osano-cm-disclosure__list:not(:empty){border:none;padding:0 1.5em}.osano-cm-disclosure__list:not(:empty)~.osano-cm-disclosure__list:empty+.osano-cm-disclosure__list:not(:empty){border-top:1px solid rgba(0,0,0,.1)}.osano-cm-disclosure__list>.osano-cm-list-item{line-height:1.25}.osano-cm-disclosure__list>.osano-cm-list-item:not(:first-of-type){border-top:1px solid rgba(0,0,0,.1);margin:1em -1.25em 0;padding:1em 1.25em 0}.osano-cm-disclosure__toggle{cursor:pointer;display:block;font-weight:700;line-height:1.25;margin:0 auto 0 0;outline:none;position:relative}.osano-cm-disclosure__toggle:focus,.osano-cm-disclosure__toggle:hover{text-decoration:underline}[dir=rtl] .osano-cm-disclosure__toggle{margin:0 0 0 auto}.osano-cm-disclosure--loading .osano-cm-disclosure__list{height:0;line-height:0;max-height:0}.osano-cm-disclosure--loading .osano-cm-disclosure__list>*{display:none}.osano-cm-disclosure--loading .osano-cm-disclosure__list:after{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;-webkit-animation-name:osano-load-scale;animation-name:osano-load-scale;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out;border-radius:100%;content:"";display:block;height:1em;position:relative;top:-.125em;transform:translateY(-50%);width:1em}.osano-cm-disclosure--collapse .osano-cm-disclosure__list{display:none}.osano-cm-disclosure--collapse .osano-cm-disclosure__list:after{content:none}.osano-cm-cookie-disclosure,.osano-cm-script-disclosure{display:flex;flex-wrap:wrap;margin:0}.osano-cm-cookie-disclosure__description:last-of-type,.osano-cm-cookie-disclosure__title:last-of-type,.osano-cm-script-disclosure__description:last-of-type,.osano-cm-script-disclosure__title:last-of-type{margin-bottom:0}@-webkit-keyframes osano-load-scale{0%{transform:translateY(-50%) scale(0)}to{opacity:0;transform:translateY(-50%) scale(1)}}@keyframes osano-load-scale{0%{transform:translateY(-50%) scale(0)}to{opacity:0;transform:translateY(-50%) scale(1)}} .osano-cm-window { direction: ltr; text-align: left; } .osano-cm-dialog { background: #252e39; color: #ffffff; } .osano-cm-dialog__close { color: #ffffff; stroke: #ffffff; } .osano-cm-dialog__close:focus { background-color: #ffffff; border-color: #ffffff; stroke: #252e39; } .osano-cm-dialog__close:hover { stroke: #ebebeb; } .osano-cm-dialog__close:focus:hover { stroke: #39424d; } .osano-cm-info-dialog { background: rgba(0,0,0,0.45); } .osano-cm-header, .osano-cm-info-dialog-header { background: #ffffff; background: linear-gradient( 180deg, #ffffff 2.5em, rgba(255,255,255,0) 100% ); } .osano-cm-info { background: #ffffff; color: #000; } .osano-cm-close { background-color: transparent; border-color: transparent; } .osano-cm-info-dialog-header__close { color: #000; stroke: #000; } .osano-cm-info-dialog-header__close:focus { background-color: #000; border-color: #000; stroke: #ffffff; } .osano-cm-info-dialog-header__close:hover { stroke: #141414; } .osano-cm-info-dialog-header__close:focus:hover { stroke: #ebebeb; } .osano-cm-disclosure__list:first-of-type::after { background-color: #14a7d0; } .osano-cm-disclosure__toggle, .osano-cm-expansion-panel__toggle { color: #14a7d0; } .osano-cm-disclosure__toggle:hover, .osano-cm-disclosure__toggle:active, .osano-cm-expansion-panel__toggle:hover, .osano-cm-expansion-panel__toggle:active { color: #14a7d0; } .osano-cm-disclosure__toggle:focus, .osano-cm-expansion-panel__toggle:focus { color: #28bbe4; } .osano-cm-button { background-color: #14a7d0; border-color: #ffffff; color: #ffffff; } .osano-cm-button--type_deny { background-color: #989; border-color: #fff; color: #fff; } .osano-cm-button:focus, .osano-cm-button:hover { background-color: #28bbe4; } .osano-cm-button--type_deny:focus, .osano-cm-button--type_deny:hover { background-color: #857485; } .osano-cm-link { color: #14a7d0; } .osano-cm-link:hover, .osano-cm-link:active { color: #14a7d0; } .osano-cm-link:focus { color: #28bbe4; } .osano-cm-toggle__switch { background-color: #d2cfff; } .osano-cm-toggle__switch::after { background-color: #ffffff; border-color: #ffffff; } .osano-cm-toggle__switch::before { border-color: transparent; } .osano-cm-toggle__input:checked + .osano-cm-toggle__switch { background-color: #37cd8f; border-color: #37cd8f; } .osano-cm-toggle__input:checked + .osano-cm-toggle__switch::after { background-color: #f4f4f4; border-color: #f4f4f4; } .osano-cm-toggle__input:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:hover + .osano-cm-toggle__switch { background-color: #bebbeb; border-color: #bebbeb; } .osano-cm-toggle__input:focus + .osano-cm-toggle__switch::before { border-color: #bebbeb; } .osano-cm-toggle__input:checked:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:checked:hover + .osano-cm-toggle__switch { background-color: #23b97b; border-color: #23b97b; } .osano-cm-toggle__input:checked:focus + .osano-cm-toggle__switch::before { border-color: #23b97b; } .osano-cm-toggle__input:disabled + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:hover + .osano-cm-toggle__switch { background-color: #928fbf; border-color: #928fbf; } .osano-cm-toggle__input:disabled + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:focus + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:hover + .osano-cm-toggle__switch::after { background-color: #bfbfbf; border-color: #bfbfbf; } .osano-cm-toggle__input:disabled + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:focus + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:hover + .osano-cm-toggle__switch::before { border-color: transparent; } .osano-cm-toggle__input:disabled:checked + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:checked:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:checked:hover + .osano-cm-toggle__switch { background-color: #008d4f; border-color: #008d4f; } .osano-cm-toggle__input:disabled:checked + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:checked:focus + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:checked:hover + .osano-cm-toggle__switch::after { background-color: #b4b4b4; border-color: #b4b4b4; } .osano-cm-toggle__input:disabled:checked + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:checked:focus + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:checked:hover + .osano-cm-toggle__switch::before { border-color: transparent; } <!----></style>
+    <meta charset="utf-8">
+    <meta name="description" content="The Linux Foundation cookie policy.">
+    <title>Cookies Policies | Linux Foundation</title>
+    
+    
+    <meta property="og:description" content="The Linux Foundation cookie policy.">
+    <meta property="og:title" content="Cookies Policies | Linux Foundation">
+    <meta name="twitter:description" content="The Linux Foundation cookie policy.">
+    <meta name="twitter:title" content="Cookies Policies | Linux Foundation">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="https://www.linuxfoundation.org/hs-fs/hub/8112310/hub_generated/template_assets/77282239896/1668016109675/2022_-_BZ_Linux_Foundation_Theme/assets/vendor/magnific.min.css">
+<link rel="stylesheet" href="https://www.linuxfoundation.org/hs-fs/hub/8112310/hub_generated/template_assets/85121828485/1668016110936/2022_-_BZ_Linux_Foundation_Theme/assets/css/partials/mega-header.min.css">
+<link rel="stylesheet" href="https://www.linuxfoundation.org/hs-fs/hub/8112310/hub_generated/module_assets/77362524751/1662236319360/module_77362524751_Main_Mega_Footer.min.css">
+<style>
+  @font-face {
+    font-family: "Roboto Slab";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Roboto_Slab/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Roboto_Slab/regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Roboto Slab";
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Roboto_Slab/300.woff2") format("woff2"), url("/_hcms/googlefonts/Roboto_Slab/300.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Open_Sans/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Open_Sans/regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Open_Sans/700.woff2") format("woff2"), url("/_hcms/googlefonts/Open_Sans/700.woff") format("woff");
+  }
+</style>
+
+    
+
+    
+    <link rel="canonical" href="https://www.linuxfoundation.org/legal/cookies">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-FBYHX832ZD&amp;l=dataLayer&amp;cx=c"></script><script id="demandbase_js_lib" async="" src="https://tag.demandbase.com/e8693e2ee5fcbf3b.min.js"></script><script async="" type="text/javascript" src="https://js.driftt.com/include/1668344400000/zxhkzyedc2xb.js"></script><script async="" type="text/javascript" src="https://www.google-analytics.com/analytics.js"></script><script src="https://js.hsleadflows.net/leadflows.js" type="text/javascript" id="LeadFlows-8112310" crossorigin="anonymous" data-leadin-portal-id="8112310" data-leadin-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="8112310" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.usemessages.com/conversations-embed.js" type="text/javascript" id="hubspot-messages-loader" data-loader="hs-scriptloader" data-hsjs-portal="8112310" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-banner.com/8112310.js" type="text/javascript" id="cookieBanner-8112310" data-cookieconsent="ignore" data-hs-ignore="true" data-loader="hs-scriptloader" data-hsjs-portal="8112310" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hscollectedforms.net/collectedforms.js" type="text/javascript" id="CollectedForms-8112310" crossorigin="anonymous" data-leadin-portal-id="8112310" data-leadin-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="8112310" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-analytics.net/analytics/1668344100000/8112310.js" type="text/javascript" id="hs-analytics"></script><script src="https://js.hsadspixel.net/fb.js" type="text/javascript" id="hs-ads-pixel-8112310" data-ads-portal-id="8112310" data-ads-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="8112310" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WWBXMJK"></script><script type="text/javascript" src="//d2c7xlmseob604.cloudfront.net/tracker.min.js" defer=""></script>
+<script>
+  $(document).ready( function() { 
+	SmartlingContextTracker.init({
+		orgId: '-BHEtmsmrUGOM8sNYfeBSQ'
+	});
+  });
+</script>
+
+<script src="https://cmp.osano.com/16A0DbT9yDNIaQkvZ/3b49aaa9-15ab-4d47-a8fb-96cc25b5543c/osano.js"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWBXMJK');</script>
+<!-- End Google Tag Manager -->
+<meta property="og:url" content="https://www.linuxfoundation.org/legal/cookies">
+<meta name="twitter:card" content="summary">
+<meta http-equiv="content-language" content="en">
+
+
+
+
+
+
+    <link href="https://www.linuxfoundation.org/hs-fs/hub/8112310/hub_generated/template_assets/77283435922/1668016117639/2022_-_BZ_Linux_Foundation_Theme/assets/css/main.min.css" rel="stylesheet">
+  <meta name="generator" content="HubSpot"><script async="" referrerpolicy="no-referrer-when-downgrade" type="text/javascript" src="https://app.hubspot.com/content-tools-menu/api/v1/tools-menu/has-permission?portalId=8112310&amp;callback=jsonpHandler"></script><style type="text/css" id="hs-form-stylee5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2">.fn-date-picker.pika-single{z-index:9999;display:block;position:relative;color:#333;background:#fff;border:1px solid #ccc;border-bottom-color:#bbb;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;*zoom:1}.fn-date-picker.pika-single.is-hidden{display:none}.fn-date-picker.pika-single.is-bound{position:absolute;box-shadow:0 5px 15px -5px rgba(0,0,0,.5)}.fn-date-picker.pika-single:after,.fn-date-picker.pika-single:before{content:" ";display:table}.fn-date-picker.pika-single:after{clear:both}.fn-date-picker .pika-lendar{float:left;width:240px;margin:8px}.fn-date-picker .pika-title{position:relative;text-align:center}.fn-date-picker .pika-title select{cursor:pointer;position:absolute;z-index:9998;margin:0;left:0;top:5px;filter:alpha(opacity=0);opacity:0}.fn-date-picker .pika-label{display:inline-block;*display:inline;position:relative;z-index:9999;overflow:hidden;margin:0;padding:5px 3px;font-size:14px;line-height:20px;font-weight:700;background-color:#fff}.fn-date-picker .pika-next,.fn-date-picker .pika-prev{display:block;cursor:pointer;position:relative;outline:none;border:0;padding:0;width:20px;height:30px;text-indent:20px;white-space:nowrap;overflow:hidden;background-color:transparent;background-position:50%;background-repeat:no-repeat;background-size:75% 75%;opacity:.5;*position:absolute;*top:0}.fn-date-picker .pika-next:hover,.fn-date-picker .pika-prev:hover{opacity:1}.fn-date-picker .pika-next.is-disabled,.fn-date-picker .pika-prev.is-disabled{cursor:default;opacity:.2}.fn-date-picker .is-rtl .pika-next,.fn-date-picker .pika-prev{float:left;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAeCAYAAAAsEj5rAAAAUklEQVR42u3VMQoAIBADQf8Pgj+OD9hG2CtONJB2ymQkKe0HbwAP0xucDiQWARITIDEBEnMgMQ8S8+AqBIl6kKgHiXqQqAeJepBo/z38J/U0uAHlaBkBl9I4GwAAAABJRU5ErkJggg==");*left:0}.fn-date-picker .is-rtl .pika-prev,.fn-date-picker .pika-next{float:right;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAeCAYAAAAsEj5rAAAAU0lEQVR42u3VOwoAMAgE0dwfAnNjU26bYkBCFGwfiL9VVWoO+BJ4Gf3gtsEKKoFBNTCoCAYVwaAiGNQGMUHMkjGbgjk2mIONuXo0nC8XnCf1JXgArVIZAQh5TKYAAAAASUVORK5CYII=");*right:0}.fn-date-picker .pika-select{display:inline-block;*display:inline}.fn-date-picker .pika-table{width:100%;border-collapse:collapse;border-spacing:0;border:0}.fn-date-picker .pika-table td,.fn-date-picker .pika-table th{width:14.285714285714286%;padding:0}.fn-date-picker .pika-table th{color:#999;font-size:12px;line-height:25px;font-weight:700;text-align:center}.fn-date-picker .pika-table abbr{border-bottom:none;cursor:help}.fn-date-picker .pika-button{cursor:pointer;display:block;-moz-box-sizing:border-box;box-sizing:border-box;outline:none;border:0;margin:0;width:100%;padding:5px;color:#666;font-size:12px;line-height:15px;text-align:right;background:#f5f5f5}.fn-date-picker .pika-button:hover{color:#fff!important;background:#ff8000!important;box-shadow:none!important;border-radius:3px!important}.fn-date-picker .is-today .pika-button{color:#3af;font-weight:700}.fn-date-picker .is-selected .pika-button{color:#fff;font-weight:700;background:#3af;box-shadow:inset 0 1px 3px #178fe5;border-radius:3px}.fn-date-picker .is-disabled .pika-button{pointer-events:none;cursor:default;color:#999;opacity:.3}.fn-date-picker .pika-week{font-size:11px;color:#999} .hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 .inputs-list.inline-list li{vertical-align:top;display:inline-block;word-wrap:break-word;padding-right:16px}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 .inputs-list.inline-list li:after{clear:both}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 .inputs-list.inline-list li input{float:left}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 .inputs-list.inline-list.inline-list-2 li{width:50%}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 .inputs-list.inline-list.inline-list-2 li:nth-child(2n){padding-right:0}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 .inputs-list.inline-list.inline-list-3 li{width:33%}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 .inputs-list.inline-list.inline-list-3 li:nth-child(3n){width:34%;padding-right:0}.hs-fieldtype-intl-phone.hs-input{padding:0;background:none;border:none;height:auto}.hs-fieldtype-intl-phone.hs-input:after{clear:both;content:" ";display:table}.hs-fieldtype-intl-phone.hs-input .hs-input{margin-bottom:0}.hs-fieldtype-intl-phone.hs-input input{width:68%!important;float:right}.hs-fieldtype-intl-phone.hs-input select{float:left;width:30%!important}@media (max-device-width:480px) and (min-device-width:320px),(max-width:400px){.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2>.hs-phone>.input>.hs-fieldtype-intl-phone.hs-input>input.hs-input{width:68%!important}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2>.hs-phone>.input>.hs-fieldtype-intl-phone.hs-input>select.hs-input{width:30%!important}}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 .hs-button{white-space:pre-wrap}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 .hs-richtext{word-break:break-word}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 fieldset{border:0;padding:0;margin:0;max-width:500px}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 fieldset.form-columns-1 .hs-input{width:95%}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 fieldset.form-columns-1 .input{margin-right:8px}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 fieldset.form-columns-1 input[type=checkbox],.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 fieldset.form-columns-1 input[type=radio]{width:auto}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 fieldset.form-columns-2 .hs-form-field{width:50%;float:left}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 fieldset.form-columns-2 .input{margin-right:8px}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 fieldset.form-columns-3 .hs-form-field{width:32.7%;float:left}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 fieldset.form-columns-3 .input{margin-right:8px}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 label.hs-hidden{visibility:hidden}.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 .hs-field-desc{width:100%}.hs-custom-style .hs-input,.hs-custom-style fieldset{max-width:100%}.hs-custom-style>div.form-columns-3 .hs-form-field,.hs-custom-style fieldset.form-columns-3 .hs-form-field{width:33.3%}.hs-custom-style>div>div:last-of-type .hs-input:not([type=checkbox]):not([type=radio]),.hs-custom-style fieldset>div:last-of-type .hs-input:not([type=checkbox]):not([type=radio]){width:100%;max-width:100%}.hs-custom-style>div input:not([type=image]):not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]):not([type=file]),.hs-custom-style fieldset input:not([type=image]):not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]):not([type=file]){box-sizing:border-box;padding:0 15px;min-height:27px}.hs-custom-style>div textarea,.hs-custom-style fieldset textarea{padding:10px 15px}.hs-custom-style .hs-dependent-field>div .hs-input:not([type=checkbox]):not([type=radio]){width:100%}@media (max-width:400px),(min-device-width:320px) and (max-device-width:480px){.hs-custom-style .hs-input:not([type=checkbox]):not([type=radio]),.hs-custom-style fieldset{margin-right:0!important;width:100%!important}form.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2:not(.hs-video-form) .form-columns-2 .hs-form-field,form.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2:not(.hs-video-form) .form-columns-3 .hs-form-field{float:none;width:100%}form.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2:not(.hs-video-form) .form-columns-2 .hs-form-field .hs-input,form.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2:not(.hs-video-form) .form-columns-3 .hs-form-field .hs-input{width:95%}form.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2:not(.hs-video-form) .form-columns-2 .hs-form-field input[type=checkbox],form.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2:not(.hs-video-form) .form-columns-2 .hs-form-field input[type=radio],form.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2:not(.hs-video-form) .form-columns-3 .hs-form-field input[type=checkbox],form.hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2:not(.hs-video-form) .form-columns-3 .hs-form-field input[type=radio]{width:auto}}.legal-consent-container .field.hs-form-field{margin-bottom:8px}.legal-consent-container .hs-field-desc.checkbox-desc{margin:-12px 0 0 21px}.legal-consent-container .hs-form-booleancheckbox-display input{float:left}.legal-consent-container .hs-form-booleancheckbox-display>span{display:block;margin-left:20px}.legal-consent-container .hs-form-booleancheckbox-display p{margin:0;display:inline}.legal-consent-container .hs-error-msgs label{color:#f2545b}.legal-consent-container~.hs_recaptcha{margin-top:18px}.cookie-reset-container{font-size:14px;margin-bottom:10px;text-align:right}#hs-outer-captcha-target,#hs-outer-captcha-target *{display:none;height:0;width:0}.hubspot-link__container{font-size:14px;padding-bottom:40px;position:relative;color:#9fa0a2;font-family:Helvetica Neue,Helvetica,Arial,sans-serif}.hubspot-link-text{color:#00a4bd;font-weight:400}.hubspot-link__container.sproket{color:#9fa0a2}.hubspot-link{color:#9fa0a2}.hubspot-link,.hubspot-link:hover{text-decoration:none}.hubspot-link:hover .hubspot-link-text{text-decoration:underline}.hubspot-link__icon{margin-bottom:-1px;margin-right:5px}.hubspot-link__container.sproket .hubspot-link__icon{width:30px;margin-right:0;float:left;margin-top:-9px;margin-left:-5px}</style><style type="text/css">.drift-conductor-item iframe,
+.drift-frame-controller {
+  display: block;
+  min-width: 0;
+  max-width: none;
+  min-height: 0;
+  max-height: none;
+}
+
+.drift-conductor-item iframe {
+  border: none !important;
+  background: transparent !important;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: 100% !important;
+}
+
+.drift-conductor-item.with-transition {
+  -webkit-transition: opacity .5s ease, -webkit-transform .5s ease;
+  transition: opacity .5s ease, -webkit-transform .5s ease;
+  -o-transition: opacity .5s ease, -o-transform .5s ease;
+  -moz-transition: opacity .5s ease, transform .5s ease, -moz-transform .5s ease;
+  transition: opacity .5s ease, transform .5s ease;
+  transition: opacity .5s ease, transform .5s ease, -webkit-transform .5s ease, -moz-transform .5s ease, -o-transform .5s ease;
+}
+
+.drift-frame-chat.with-transition.drift-frame-chat__takeover {
+  -webkit-transition: opacity .5s ease;
+  -o-transition: opacity .5s ease;
+  -moz-transition: opacity .5s ease;
+  transition: opacity .5s ease;
+}
+
+.drift-conductor-item.with-height-transition {
+  -webkit-transition: max-height .5s ease, opacity .5s ease, -webkit-transform .5s ease;
+  transition: max-height .5s ease, opacity .5s ease, -webkit-transform .5s ease;
+  -o-transition: max-height .5s ease, opacity .5s ease, -o-transform .5s ease;
+  -moz-transition: max-height .5s ease, opacity .5s ease, transform .5s ease, -moz-transform .5s ease;
+  transition: max-height .5s ease, opacity .5s ease, transform .5s ease;
+  transition: max-height .5s ease, opacity .5s ease, transform .5s ease, -webkit-transform .5s ease, -moz-transform .5s ease, -o-transform .5s ease;
+}
+
+.drift-conductor-item {
+  -webkit-transform: translateZ(0);
+     -moz-transform: translateZ(0);
+          transform: translateZ(0);
+}
+
+.drift-frame-controller {
+  bottom: 24px;
+}
+
+.drift-frame-controller-align-left {
+  left: 24px;
+}
+
+.drift-frame-controller-align-right {
+  right: 24px;
+}
+
+.drift-frame-chat:not(iframe) {
+  bottom: -webkit-calc(12px + 52px + 24px);
+  bottom: -moz-calc(12px + 52px + 24px);
+  bottom: calc(12px + 52px + 24px); /* vertical margin x 2 + widget icon size*/
+  width: 100%;
+  height: 100%;
+  min-width: 320px;
+  opacity: 0;
+  visibility: hidden;
+
+  -webkit-transform: translateY(88px);
+
+     -moz-transform: translateY(88px);
+
+      -ms-transform: translateY(88px);
+
+       -o-transform: translateY(88px);
+
+          transform: translateY(88px);
+}
+
+.drift-frame-chat:not(iframe).drift-chat-open {
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0px);
+     -moz-transform: translateY(0px);
+      -ms-transform: translateY(0px);
+       -o-transform: translateY(0px);
+          transform: translateY(0px);
+}
+
+.drift-frame-chat.drift-frame-chat__takeover:not(iframe):not(.drift-frame--mobile) {
+  min-width: 600px;
+}
+
+.drift-frame-chat-align-left {
+  left: 12px;
+}
+
+.drift-frame-chat-align-right {
+  right: 12px;
+}
+
+.drift-frame-takeover,
+.drift-frame-landingPage,
+.drift-frame-chat__takeover {
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+.drift-frame-chat__takeover.hide-frame {
+  visibility: hidden;
+}
+
+.drift-frame-emailCapture {
+  bottom: 0;
+  height: -webkit-calc(100% + 30px);
+  height: -moz-calc(100% + 30px);
+  height: calc(100% + 30px);
+}
+
+.drift-frame-emailCapture-align-left {
+  left: 0;
+}
+
+.drift-frame-emailCapture-align-right {
+  right: 0;
+}
+
+.drift-frame-slider {
+  bottom: 18px;
+  height: -webkit-calc(100% + 20px);
+  height: -moz-calc(100% + 20px);
+  height: calc(100% + 20px);
+}
+
+.drift-frame-slider-align-left {
+  left: 96px;
+}
+
+.drift-frame-slider-align-right {
+  right: 96px;
+}
+
+.drift-frame--mobile.drift-frame-slider-align-left {
+  left: 68px;
+}
+
+.drift-frame--mobile.drift-frame-slider-align-right {
+  right: 68px;
+}
+
+.drift-widget-content-box {
+  background: rgba(0,0,0,.5);
+  width: 100%;
+  height: 100%;
+
+  position: fixed;
+  z-index: 2147483647;
+  top: 0;
+  left: 0;
+}
+
+.drift-widget-content-box > * {
+  margin: 0 auto;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+     -moz-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+       -o-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  max-height: 80%;
+
+}
+
+@media
+(max-height: 685px),
+(min-width: 369px) and (max-width: 380px),
+(max-width: 367px),
+
+(min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait)
+
+{
+  .drift-frame--mobile.drift-frame-chat.drift-chat-open {
+    bottom: 0 !important;
+    right: 0;
+    left: 0;
+    z-index: 2147483647 !important;
+  }
+
+  .drift-frame--mobile.drift-frame-controller {
+    bottom: 0;
+  }
+
+  .drift-frame--mobile.drift-frame-controller.drift-frame-controller-align-left {
+    left: 0;
+  }
+
+  .drift-frame--mobile.drift-frame-controller.drift-frame-controller-align-right {
+    right: 0;
+  }
+
+
+  .drift-frame--mobile.drift-frame-controller.drift-chat-open {
+    display: none;
+  }
+
+  .drift-frame--mobile.drift-frame-slider {
+    bottom: 0;
+    max-width: 320px;
+  }
+
+  .drift-frame--mobile iframe.drift-frame-chat {
+    width: 1px !important;
+    min-width: 100%;
+
+    height: 1px !important;
+    min-height: 100%;
+  }
+
+  html.drift-widget-parent--chat-open,
+  html.drift-widget-parent--chat-open > body {
+    height: 100vh !important;
+    margin: 0 !important;
+    min-height: 0 !important;
+    overflow: hidden !important;
+    position: static !important;
+  }
+}
+
+@media only screen and (orientation: landscape) {
+  .drift-frame--mobile.drift-frame-controller.drift-chat-open {
+    display: none;
+  }
+
+  .drift-frame--mobile.drift-frame-controller {
+    bottom: 0;
+  }
+
+  .drift-frame--mobile.drift-frame-controller-align-right {
+    right: 0;
+  }
+
+  .drift-frame--mobile.drift-frame-controller-align-left {
+    left: 0;
+  }
+}
+
+.drift-frame-chat.widget--xs.drift-chat-open {
+  bottom: 0 !important;
+  right: 0 !important;
+  left: 0 !important;
+}
+
+.drift-frame-controller.widget--xs.drift-chat-open {
+  display: none;
+}
+
+</style></head>
+  
+   
+  
+  <body class=""><div data-nosnippet="" class="osano-cm-window" dir="ltr"><!----> <div hidden="" class="osano-visually-hidden"> <span id="osano-cm-aria.newWindow"><!---->Opens in a new window<!----></span> <span id="osano-cm-aria.external"><!---->Opens an external website<!----></span> <span id="osano-cm-aria.externalNewWindow"><!---->Opens an external website in a new window<!----></span> </div>  <div role="dialog" id="a7d44997-04ea-4ba3-aee0-26150969dc75" aria-describedby="a7d44997-04ea-4ba3-aee0-26150969dc75__label" class="osano-cm-window__dialog osano-cm-dialog osano-cm-dialog--position_bottom osano-cm-dialog--type_bar">  <button class="osano-cm-dialog__close osano-cm-close"> <svg width="20px" height="20px" viewBox="0 0 20 20" role="img" aria-labelledby="fb435b1c-f5ca-4da2-a320-2e53603776c9"> <title id="fb435b1c-f5ca-4da2-a320-2e53603776c9"><!---->Close this dialog<!----></title> <line role="presentation" x1="2" y1="2" x2="18" y2="18"></line> <line role="presentation" x1="2" y1="18" x2="18" y2="2"></line> </svg> </button>  <div class="osano-cm-dialog__content osano-cm-content">  <span id="a7d44997-04ea-4ba3-aee0-26150969dc75__label" class="osano-cm-content__message osano-cm-message"> This website stores data such as cookies to enable essential site functionality, as well as marketing, personalization, and analytics. By remaining on this website you indicate your consent.  </span>   <!----><a rel="noopener" tabindex="0" href="https://www.linuxfoundation.org/privacy-policy/" target="_blank" class="osano-cm-storage-policy osano-cm-content__link osano-cm-link" aria-describedby="osano-cm-aria.newWindow"><!---->Cookie Policy<!----></a><!---->   </div>  </div>   <button id="1fa49d2e-26bc-4d13-8083-405ecc91efab" class="osano-cm-window__widget osano-cm-widget osano-cm-widget--hidden osano-cm-widget--position_left" title="Cookie Preferences" aria-label="Cookie Preferences"> <svg width="40" height="40" viewBox="0 0 71.85 72.23" xmlns="http://www.w3.org/2000/svg"> <path d="m67.6 36.73a6.26 6.26 0 0 1 -3.2-2.8 5.86 5.86 0 0 0 -5.2-3.1h-.3a11 11 0 0 1 -11.4-9.5 6 6 0 0 1 -.1-1.4 9.2 9.2 0 0 1 .4-2.9 8.65 8.65 0 0 0 .2-1.6 5.38 5.38 0 0 0 -1.9-4.3 7.3 7.3 0 0 1 -2.5-5.5 3.91 3.91 0 0 0 -3.5-3.9 36.46 36.46 0 0 0 -15 1.5 33.14 33.14 0 0 0 -22.1 22.7 35.62 35.62 0 0 0 -1.5 10.2 34.07 34.07 0 0 0 4.8 17.6.75.75 0 0 0 .07.12c.11.17 1.22 1.39 2.68 3-.36.47 5.18 6.16 5.65 6.52a34.62 34.62 0 0 0 55.6-21.9 4.38 4.38 0 0 0 -2.7-4.74z" stroke-width="3" style="fill: rgb(255, 255, 255); stroke: rgb(41, 36, 106);"></path> <path d="m68 41.13a32.37 32.37 0 0 1 -52 20.5l-2-1.56c-2.5-3.28-5.62-7.15-5.81-7.44a32 32 0 0 1 -4.5-16.5 34.3 34.3 0 0 1 1.4-9.6 30.56 30.56 0 0 1 20.61-21.13 33.51 33.51 0 0 1 14.1-1.4 1.83 1.83 0 0 1 1.6 1.8 9.38 9.38 0 0 0 3.3 7.1 3.36 3.36 0 0 1 1.2 2.6 3.37 3.37 0 0 1 -.1 1 12.66 12.66 0 0 0 -.5 3.4 9.65 9.65 0 0 0 .1 1.7 13 13 0 0 0 10.5 11.2 16.05 16.05 0 0 0 3.1.2 3.84 3.84 0 0 1 3.5 2 10 10 0 0 0 4.1 3.83 2 2 0 0 1 1.4 2z" stroke-width="3" style="fill: rgb(255, 255, 255); stroke: rgb(41, 36, 106);"></path> <g style="fill: rgb(55, 205, 143);"> <path d="m26.6 31.43a5.4 5.4 0 1 1 5.4-5.43 5.38 5.38 0 0 1 -5.33 5.43z"></path> <path d="m25.2 53.13a5.4 5.4 0 1 1 5.4-5.4 5.44 5.44 0 0 1 -5.4 5.4z"></path> <path d="m47.9 52.33a5.4 5.4 0 1 1 5.4-5.4 5.32 5.32 0 0 1 -5.24 5.4z"></path> </g> </svg> </button>  <div role="dialog" aria-modal="true" id="720ef0ee-af7f-4886-91bc-8470501b9672" aria-labelledby="720ef0ee-af7f-4886-91bc-8470501b9672__label" aria-hidden="true" class="osano-cm-window__info-dialog osano-cm-info-dialog osano-cm-info-dialog--hidden"> <!----><span tabindex="0" aria-hidden="true" role="first"></span><!----> <div role="presentation" class="osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right"> <div role="presentation" class="osano-cm-info__info-dialog-header osano-cm-info-dialog-header"> <p role="heading" aria-level="1" id="720ef0ee-af7f-4886-91bc-8470501b9672__label" class="osano-cm-info-dialog-header__header osano-cm-header">  </p> <button class="osano-cm-info-dialog-header__close osano-cm-close"> <svg width="20px" height="20px" viewBox="0 0 20 20" role="img" aria-labelledby="a056e235-ea8c-4a20-a136-12ea78ad455f"> <title id="a056e235-ea8c-4a20-a136-12ea78ad455f"><!---->Close Cookie Preferences<!----></title> <line role="presentation" x1="2" y1="2" x2="18" y2="18"></line> <line role="presentation" x1="2" y1="18" x2="18" y2="2"></line> </svg> </button>  </div> <div role="presentation" class="osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0" style="transform: translateX(0%);">  </div> </div> <!----><span tabindex="0" aria-hidden="true" role="last"></span><!----> </div> <!----></div><style type="text/css">html.hs-messages-widget-open.hs-messages-mobile,html.hs-messages-widget-open.hs-messages-mobile body{overflow:hidden!important;position:relative!important}html.hs-messages-widget-open.hs-messages-mobile body{height:100%!important;margin:0!important}#hubspot-messages-iframe-container{display:initial!important;z-index:2147483647;position:fixed!important;bottom:0!important}#hubspot-messages-iframe-container.widget-align-left{left:0!important}#hubspot-messages-iframe-container.widget-align-right{right:0!important}#hubspot-messages-iframe-container.internal{z-index:1016}#hubspot-messages-iframe-container.internal iframe{min-width:108px}#hubspot-messages-iframe-container .shadow-container{display:initial!important;z-index:-1;position:absolute;width:0;height:0;bottom:0;content:""}#hubspot-messages-iframe-container .shadow-container.internal{display:none!important}#hubspot-messages-iframe-container .shadow-container.active{width:400px;height:400px}#hubspot-messages-iframe-container iframe{display:initial!important;width:100%!important;height:100%!important;border:none!important;position:absolute!important;bottom:0!important;right:0!important;background:transparent!important}</style>
+    
+      <div id="hs_cos_wrapper_language_switcher" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-language_switcher" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_language_switcher_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_language_switcher" style="" data-hs-cos-general-type="widget" data-hs-cos-type="language_switcher"></span></div>
+      <div id="hs_cos_wrapper_module_16560108726164" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+<section id="mega-menu" class="section--module_16560108726164
+                section--mega-menu
+                bg--black__slight
+                page_header">
+  
+   
+   <div class="top__bar
+               bg--secondary">
+      <div class="top__bar-wrapper
+                  section-wrapper
+                  flex-row
+                  jc--space-between">
+          
+         <p class="top__bar--callout text-color--white"><span style="color: #ffffff;">Join us at ONE Summit, the top open source networking event. <a href="https://events.linuxfoundation.org/one-summit-north-america/?utm_campaign=oct22promo&amp;utm_source=lforg&amp;utm_medium=homepage-ticker" rel="noopener" target="_blank" style="color: #ffffff;">Register today</a>.</span></p>
+         <div class="right-items
+                     flex-row
+                     align-items--center
+                     jc--end">
+           
+            <div class="menu--language"> 
+             
+              <svg class="icon--globe" width="13" height="12" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M6.33333 0.166748C3.11159 0.166748 0.5 2.77834 0.5 6.00008C0.5 9.22182 3.11159 11.8334 6.33333 11.8334C9.55507 11.8334 12.1667 9.22182 12.1667 6.00008C12.1667 2.77834 9.55507 0.166748 6.33333 0.166748ZM8.26892 8.57804C8.17718 8.6693 8.08098 8.76503 8.00289 8.84336C7.93256 8.91393 7.88293 9.00095 7.85776 9.09528C7.82224 9.22841 7.79355 9.36295 7.74556 9.49208L7.33653 10.5941C7.01287 10.6646 6.67792 10.7044 6.33333 10.7044V10.0604C6.37308 9.76352 6.15363 9.20747 5.80104 8.85489C5.65991 8.71376 5.58065 8.52229 5.58065 8.32259V7.56967C5.58065 7.29588 5.43317 7.0442 5.19348 6.91178C4.85548 6.72478 4.3747 6.46345 4.0454 6.29763C3.77537 6.16167 3.52557 5.98856 3.30094 5.78604L3.28212 5.7691C3.12149 5.6241 2.97886 5.46031 2.85733 5.28126C2.63669 4.95737 2.27728 4.42461 2.04372 4.07837C2.5252 3.00815 3.39291 2.14867 4.47114 1.68177L5.03589 1.96426C5.28616 2.0894 5.58065 1.90757 5.58065 1.62767V1.36188C5.76858 1.33153 5.95981 1.31225 6.15433 1.30495L6.81999 1.97061C6.967 2.11762 6.967 2.35589 6.81999 2.5029L6.70968 2.61298L6.46646 2.8562C6.39308 2.92958 6.39308 3.04884 6.46646 3.12223L6.57678 3.23254C6.65017 3.30593 6.65017 3.42518 6.57678 3.49857L6.38861 3.68674C6.35328 3.722 6.30539 3.7418 6.25548 3.74178H6.04402C5.99509 3.74178 5.94805 3.76083 5.91277 3.79518L5.67944 4.02216C5.65083 4.05001 5.63182 4.08623 5.62514 4.12559C5.61846 4.16495 5.62446 4.20541 5.64227 4.24114L6.00897 4.97478C6.07154 5.09991 5.98051 5.24716 5.84079 5.24716H5.70813C5.66273 5.24716 5.61899 5.23069 5.58488 5.20106L5.3666 5.01147C5.3172 4.96862 5.25751 4.93936 5.19338 4.92658C5.12925 4.91379 5.06289 4.91792 5.00084 4.93856L4.26767 5.18294C4.2117 5.20161 4.16302 5.23741 4.12853 5.28529C4.09404 5.33316 4.07549 5.39067 4.0755 5.44968C4.0755 5.55623 4.13572 5.65337 4.23098 5.70112L4.4916 5.83143C4.71294 5.94222 4.95709 5.99985 5.20454 5.99985C5.45198 5.99985 5.73589 6.64175 5.95722 6.75253H7.52729C7.72698 6.75253 7.91821 6.8318 8.05958 6.97293L8.38159 7.29494C8.51611 7.42952 8.59167 7.61202 8.59163 7.8023C8.59159 7.94648 8.56305 8.08924 8.50767 8.22237C8.45229 8.35549 8.37115 8.47636 8.26892 8.57804ZM10.3085 6.42935C10.1723 6.39524 10.0535 6.31174 9.97564 6.19484L9.55272 5.56046C9.49084 5.46778 9.45781 5.35884 9.45781 5.24739C9.45781 5.13595 9.49084 5.02701 9.55272 4.93432L10.0135 4.24326C10.0681 4.16164 10.1429 4.09531 10.2308 4.05156L10.5362 3.89891C10.8542 4.5321 11.0376 5.24434 11.0376 6.00008C11.0376 6.20401 11.0202 6.40371 10.9948 6.60082L10.3085 6.42935Z" fill="white"></path>
+              </svg>
+              <select class="menu--language__list" onchange="window.open(this.options[this.selectedIndex].value, '_self');"> 
+                  <option value="https://linuxfoundation.org/">English</option> 
+                  <option value="https://www.linuxfoundation.jp">Japan</option> 
+                  <option value="https://www.linuxfoundation.org/zh/chinese/">China</option> 
+                  <option value="https://linuxfoundation.eu">Europe</option>
+              </select> 
+            </div> 
+            <div class="top__bar-menu text-color--white"> <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16560108726164_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://openprofile.dev/" role="menuitem" target="_blank" rel="noopener">Sign In</a></li>
+ </ul>
+</div></span> </div>
+           
+             <a href="#search-popup" class="search-popup-link">
+               <svg width="18" height="18" class="icon icon-search header-search-icon" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                 <path d="M12.0409 0.757324C8.07935 0.757324 4.85339 3.98328 4.85339 7.94482C4.85339 9.66589 5.45703 11.2438 6.47058 12.4819L0.743042 18.2095L1.77625 19.2427L7.50378 13.5151C8.74194 14.5287 10.3198 15.1323 12.0409 15.1323C16.0024 15.1323 19.2284 11.9064 19.2284 7.94482C19.2284 3.98328 16.0024 0.757324 12.0409 0.757324ZM12.0409 2.19482C15.2247 2.19482 17.7909 4.76099 17.7909 7.94482C17.7909 11.1287 15.2247 13.6948 12.0409 13.6948C8.85706 13.6948 6.29089 11.1287 6.29089 7.94482C6.29089 4.76099 8.85706 2.19482 12.0409 2.19482Z" fill="white"></path>
+               </svg>
+             </a>
+           
+            <div id="search-popup" class="hs-search-field
+                        mfp-hide">
+                <h4>
+                  Search
+                </h4>
+                <div class="hs-search-field__bar">
+                  <form action="/hs-search-results" data-hs-cf-bound="true">
+                    
+                    <input type="text" class="hs-search-field__input" name="term" autocomplete="off" aria-label="Search" placeholder="Search the site...">
+                      <input type="hidden" name="type" value="SITE_PAGE">
+                      <input type="hidden" name="type" value="LANDING_PAGE">
+                      <input type="hidden" name="type" value="BLOG_POST">
+                      <input type="hidden" name="type" value="LISTING_PAGE">
+                  </form>
+                </div>
+                <ul class="hs-search-field__suggestions"></ul>
+            </div>
+           
+           
+         </div>
+      </div>
+   </div>
+  
+   
+   <header id="js-top-header" class="section-wrapper">
+      <div class="header__row header__main">
+         <div class="header_branding">
+            <a href="/?hsLang=en"> <img src="https://www.linuxfoundation.org/hubfs/LF%20Logo%20White.svg"> </a>
+         </div>
+         <div class="header_content
+            flex-row
+            jc--space-between
+            align-items--center         
+            pt--sm
+            pb--sm">
+            <div class="header-left">
+               <button class="burger-button menu-toggle" onclick="myFunction(this); openSlideMenu();" type="button"> <span></span> </button>
+            </div>
+            <div class="header-right">
+               <div class="header-button"> 
+                   <a class="hs-button
+                  hs-button--primary
+                  mt--none" href="https://www.linuxfoundation.org/about/join?hsLang=en">
+                  Join
+                  </a> 
+               </div>
+            </div>
+         </div>
+         
+      </div>
+   </header>
+   <nav class="mega-menu__nav-menu
+               bg--white
+      mega__menu" role="navigation">
+      <div class="mega__menu-content">
+         <div class="row">
+            <div id="burger-menu">
+               <div class="menu-items
+                           section-wrapper
+                           flex-row
+                           jc--space-between
+                           pt--md
+                           pb--md">
+                  
+                  <div class="menu__row-list
+                     open-menu--1">
+                     
+                     <div class="child-menu
+                        dropdown--1" aria-expanded="false">
+                        <p class="row-list-title letter__spacing">
+                           <input type="checkbox" class="menu_arrow menu_arrow-invert" name="menu_arrow" id="menu_arrow">
+                           <label for="menu_arrow dropdown--1"></label>
+                           ABOUT
+                        </p>
+                        <div class="menu-links">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16560108726164_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/about" role="menuitem" target="_self">About the LF</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/about/members" role="menuitem" target="_self">Corporate Members</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/about/leadership" role="menuitem" target="_self">Leadership</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/about/diversity-inclusivity" role="menuitem" target="_self">Diversity &amp; Inclusivity</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/careers" role="menuitem" target="_self">Careers</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/brand-guidelines" role="menuitem" target="_self">Brand Guidelines</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/about/contact" role="menuitem" target="_self">Contact Us</a></li>
+ </ul>
+</div></span> 
+                        </div>
+                     </div>
+                      
+                  </div>
+                  
+                  <div class="menu__row-list
+                     open-menu--2">
+                     
+                     <div class="child-menu
+                        dropdown--1" aria-expanded="false">
+                        <p class="row-list-title letter__spacing">
+                           <input type="checkbox" class="menu_arrow menu_arrow-invert" name="menu_arrow" id="menu_arrow">
+                           <label for="menu_arrow dropdown--1"></label>
+                           PROJECTS
+                        </p>
+                        <div class="menu-links">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16560108726164_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/projects" role="menuitem" target="_self">View All Projects</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/projects/hosting" role="menuitem" target="_self">Host Your Project</a></li>
+ </ul>
+</div></span> 
+                        </div>
+                     </div>
+                      
+                  </div>
+                  
+                  <div class="menu__row-list
+                     open-menu--3">
+                     
+                     <div class="child-menu
+                        dropdown--1" aria-expanded="false">
+                        <p class="row-list-title letter__spacing">
+                           <input type="checkbox" class="menu_arrow menu_arrow-invert" name="menu_arrow" id="menu_arrow">
+                           <label for="menu_arrow dropdown--1"></label>
+                           RESOURCES
+                        </p>
+                        <div class="menu-links">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16560108726164_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/blog" role="menuitem" target="_self">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/resources/publications" role="menuitem" target="_self">Publications</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/resources/open-source-guides" role="menuitem" target="_self">Open Source Guides</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/webinars" role="menuitem" target="_self">Webinars</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/resources/case-studies" role="menuitem" target="_self">Case Studies</a></li>
+ </ul>
+</div></span> 
+                        </div>
+                     </div>
+                     
+                     <div class="child-menu
+                        dropdown--2" aria-expanded="false">
+                        <p class="row-list-title letter__spacing">
+                           <input type="checkbox" class="menu_arrow menu_arrow-invert" name="menu_arrow" id="menu_arrow">
+                           <label for="menu_arrow dropdown--2"></label>
+                           NEWSROOM
+                        </p>
+                        <div class="menu-links">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16560108726164_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/press" role="menuitem" target="_self">Press Releases</a></li>
+ </ul>
+</div></span> 
+                        </div>
+                     </div>
+                      
+                  </div>
+                  
+                  <div class="menu__row-list
+                     open-menu--4">
+                     
+                     <div class="child-menu
+                        dropdown--1" aria-expanded="false">
+                        <p class="row-list-title letter__spacing">
+                           <input type="checkbox" class="menu_arrow menu_arrow-invert" name="menu_arrow" id="menu_arrow">
+                           <label for="menu_arrow dropdown--1"></label>
+                           LF RESEARCH
+                        </p>
+                        <div class="menu-links">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16560108726164_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/research" role="menuitem" target="_self">Latest Research</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/research/leadership" role="menuitem" target="_self">Leadership &amp; Advisory Board</a></li>
+ </ul>
+</div></span> 
+                        </div>
+                     </div>
+                     
+                     <div class="child-menu
+                        dropdown--2" aria-expanded="false">
+                        <p class="row-list-title letter__spacing">
+                           <input type="checkbox" class="menu_arrow menu_arrow-invert" name="menu_arrow" id="menu_arrow">
+                           <label for="menu_arrow dropdown--2"></label>
+                           LF TRAINING
+                        </p>
+                        <div class="menu-links">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16560108726164_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://training.linuxfoundation.org" role="menuitem" target="_blank" rel="noopener">Training Home</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://training.linuxfoundation.org/full-catalog/" role="menuitem" target="_blank" rel="noopener">Course Catalog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://training.linuxfoundation.org/resources/" role="menuitem" target="_self">Training Resources</a></li>
+ </ul>
+</div></span> 
+                        </div>
+                     </div>
+                      
+                  </div>
+                  
+                  <div class="menu__row-list
+                     open-menu--5">
+                     
+                     <div class="child-menu
+                        dropdown--1" aria-expanded="false">
+                        <p class="row-list-title letter__spacing">
+                           <input type="checkbox" class="menu_arrow menu_arrow-invert" name="menu_arrow" id="menu_arrow">
+                           <label for="menu_arrow dropdown--1"></label>
+                           EVENTS
+                        </p>
+                        <div class="menu-links">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16560108726164_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://events.linuxfoundation.org/" role="menuitem" target="_self">Upcoming Events</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://events.linuxfoundation.org/about/sponsor/" role="menuitem" target="_self">Sponsor</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://linuxfoundation.smapply.io/" role="menuitem" target="_self">Submit a Talk</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://events.linuxfoundation.org/about/code-of-conduct/" role="menuitem" target="_self">Code of conduct</a></li>
+ </ul>
+</div></span> 
+                        </div>
+                     </div>
+                      
+                  </div>
+                  
+                  <div class="menu__row-list
+                     open-menu--6">
+                     
+                     <div class="child-menu
+                        dropdown--1" aria-expanded="false">
+                        <p class="row-list-title letter__spacing">
+                           <input type="checkbox" class="menu_arrow menu_arrow-invert" name="menu_arrow" id="menu_arrow">
+                           <label for="menu_arrow dropdown--1"></label>
+                           LFX PLATFORM
+                        </p>
+                        <div class="menu-links">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16560108726164_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://lfx.linuxfoundation.org/" role="menuitem" target="_self">LFX Home</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://myprofile.lfx.linuxfoundation.org/" role="menuitem" target="_self">LFX Tools</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://community.lfx.dev/" role="menuitem" target="_self">LFX Community Forum</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://openprofile.dev/" role="menuitem" target="_self">Create an LFX Account</a></li>
+ </ul>
+</div></span> 
+                        </div>
+                     </div>
+                      
+                  </div>
+                   
+               </div>
+               <div class="mega__menu-footer">
+                  <div class="footer_content
+                              section-wrapper
+                               flex-row
+                               jc--space-between
+                               align-items--center
+                               pt--xs
+                               pb--xs">
+                    
+                     <div class="footer-left
+                                 col6
+                                 flex-row
+                                 align-items--center">
+                       
+                        <div class="header-button__wrapper
+                                    mobile-only">
+                          <div class="header-button"> 
+                               <a class="hs-button
+                              hs-button--primary
+                              mt--none" href="https://www.linuxfoundation.org/about/join?hsLang=en">
+                              Join
+                              </a> 
+                           </div>
+                         </div>
+                       
+                       
+                        <p class="footer-social-title
+                                  letter__spacing">Follow Us</p>
+                        <div class="footer-social-icons">
+                           
+                           
+                           
+                           <a href="https://twitter.com/linuxfoundation" target="_blank" rel="noopener">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" aria-hidden="true"><g id="Twitter1_layer"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></g></svg></span>
+                           </a> 
+                           
+                           
+                           <a href="https://www.facebook.com/TheLinuxFoundation" target="_blank" rel="noopener">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" aria-hidden="true"><g id="Facebook F2_layer"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></g></svg></span>
+                           </a> 
+                           
+                           
+                           <a href="https://www.youtube.com/user/TheLinuxFoundation" target="_blank" rel="noopener">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" aria-hidden="true"><g id="YouTube3_layer"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></g></svg></span>
+                           </a> 
+                           
+                           
+                           <a href="https://www.linkedin.com/company/208777" target="_blank" rel="noopener">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-hidden="true"><g id="LinkedIn In4_layer"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></g></svg></span>
+                           </a> 
+                           
+                           
+                           <a href="https://github.com/LF-Engineering" target="_blank" rel="noopener">
+                           <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" aria-hidden="true"><g id="GitHub5_layer"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></g></svg></span>
+                           </a>  
+                        </div>
+                     </div>
+                     <div class="footer-right
+                        col6
+                        align-items--center">
+                       <span id="hs_cos_wrapper_module_16560108726164_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16560108726164_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://openprofile.dev/" role="menuitem" target="_self">My Account</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://openprofile.dev/" role="menuitem" target="_self">Log In</a></li>
+ </ul>
+</div></span>
+                       
+                       <div class="menu--language
+                                   mobile-only"> 
+                         
+                          <svg class="icon--globe" width="18" height="18" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6.33333 0.166748C3.11159 0.166748 0.5 2.77834 0.5 6.00008C0.5 9.22182 3.11159 11.8334 6.33333 11.8334C9.55507 11.8334 12.1667 9.22182 12.1667 6.00008C12.1667 2.77834 9.55507 0.166748 6.33333 0.166748ZM8.26892 8.57804C8.17718 8.6693 8.08098 8.76503 8.00289 8.84336C7.93256 8.91393 7.88293 9.00095 7.85776 9.09528C7.82224 9.22841 7.79355 9.36295 7.74556 9.49208L7.33653 10.5941C7.01287 10.6646 6.67792 10.7044 6.33333 10.7044V10.0604C6.37308 9.76352 6.15363 9.20747 5.80104 8.85489C5.65991 8.71376 5.58065 8.52229 5.58065 8.32259V7.56967C5.58065 7.29588 5.43317 7.0442 5.19348 6.91178C4.85548 6.72478 4.3747 6.46345 4.0454 6.29763C3.77537 6.16167 3.52557 5.98856 3.30094 5.78604L3.28212 5.7691C3.12149 5.6241 2.97886 5.46031 2.85733 5.28126C2.63669 4.95737 2.27728 4.42461 2.04372 4.07837C2.5252 3.00815 3.39291 2.14867 4.47114 1.68177L5.03589 1.96426C5.28616 2.0894 5.58065 1.90757 5.58065 1.62767V1.36188C5.76858 1.33153 5.95981 1.31225 6.15433 1.30495L6.81999 1.97061C6.967 2.11762 6.967 2.35589 6.81999 2.5029L6.70968 2.61298L6.46646 2.8562C6.39308 2.92958 6.39308 3.04884 6.46646 3.12223L6.57678 3.23254C6.65017 3.30593 6.65017 3.42518 6.57678 3.49857L6.38861 3.68674C6.35328 3.722 6.30539 3.7418 6.25548 3.74178H6.04402C5.99509 3.74178 5.94805 3.76083 5.91277 3.79518L5.67944 4.02216C5.65083 4.05001 5.63182 4.08623 5.62514 4.12559C5.61846 4.16495 5.62446 4.20541 5.64227 4.24114L6.00897 4.97478C6.07154 5.09991 5.98051 5.24716 5.84079 5.24716H5.70813C5.66273 5.24716 5.61899 5.23069 5.58488 5.20106L5.3666 5.01147C5.3172 4.96862 5.25751 4.93936 5.19338 4.92658C5.12925 4.91379 5.06289 4.91792 5.00084 4.93856L4.26767 5.18294C4.2117 5.20161 4.16302 5.23741 4.12853 5.28529C4.09404 5.33316 4.07549 5.39067 4.0755 5.44968C4.0755 5.55623 4.13572 5.65337 4.23098 5.70112L4.4916 5.83143C4.71294 5.94222 4.95709 5.99985 5.20454 5.99985C5.45198 5.99985 5.73589 6.64175 5.95722 6.75253H7.52729C7.72698 6.75253 7.91821 6.8318 8.05958 6.97293L8.38159 7.29494C8.51611 7.42952 8.59167 7.61202 8.59163 7.8023C8.59159 7.94648 8.56305 8.08924 8.50767 8.22237C8.45229 8.35549 8.37115 8.47636 8.26892 8.57804ZM10.3085 6.42935C10.1723 6.39524 10.0535 6.31174 9.97564 6.19484L9.55272 5.56046C9.49084 5.46778 9.45781 5.35884 9.45781 5.24739C9.45781 5.13595 9.49084 5.02701 9.55272 4.93432L10.0135 4.24326C10.0681 4.16164 10.1429 4.09531 10.2308 4.05156L10.5362 3.89891C10.8542 4.5321 11.0376 5.24434 11.0376 6.00008C11.0376 6.20401 11.0202 6.40371 10.9948 6.60082L10.3085 6.42935Z" fill="black"></path>
+                          </svg>
+                         
+                          <a href="https://linuxfoundation.org/" target="_blank">English</a>&nbsp;|&nbsp;
+                          <a href="https://www.linuxfoundation.jp" target="_blank">Japan</a>&nbsp;|&nbsp;
+                          <a href="https://www.linuxfoundation.org/zh/chinese/?hsLang=en" target="_blank">China</a>&nbsp;|&nbsp;
+                          <a href="https://linuxfoundation.eu?hsLang=en" target="_blank">Europe</a>
+                        </div> 
+                    </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </nav>
+</section></div>
+    
+
+    <main id="main">
+      
+<main id="main-content" class="body-container-wrapper">
+    <div class="container-fluid main">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-section">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_widget_1662314064030" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+  
+  
+
+
+<section id="" class="section--widget_1662314064030
+                section--one-col
+                section--dark
+                bg--gradient
+                bg
+                
+                
+                align--left" style="
+                ">
+  <div class="one-col
+              
+              section-wrapper
+              
+              pt--md
+              pb--md" style="">
+    
+    <div class="one-col__wrapper">
+      <div class="one-col__container
+                  flex-row
+                  jc--space-between
+                  align-items--center">
+        
+        <div class="col12 one-col__inner
+                    align--center">
+          
+          
+            <h6>Policies</h6>
+          
+          
+            
+              <h1 class="one-col__title">Cookies</h1>
+            
+          
+          
+          
+          
+          
+        </div>
+        
+        <div class=" one-col__inner
+                    align--center">
+          
+          
+          
+        </div>
+        
+      </div>
+    </div>
+    
+  </div>
+  
+</section></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_widget_1662314056838" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+<section id="" class="section--widget_1662314056838
+                section--one-col
+                section--light
+                bg--white
+                bg
+                
+                
+                align--left" style="
+                ">
+  <div class="one-col
+              
+              section-wrapper
+              
+              pt--md
+              pb--md" style="">
+    
+    <div class="one-col__wrapper">
+      <div class="one-col__container
+                  flex-row
+                  jc--space-between">
+        
+        <div class="col12 one-col__inner">
+          
+          
+          
+          
+            <div class="one-col__supporting-content">
+              <div class="avia_textblock  " itemprop="text">
+<p><em>Last updated:&nbsp;April 15, 2020</em><br><br>The websites of The Linux Foundation and its open source projects (collectively, the “Sites”) use cookies, in combination with pixels, local storage objects, and similar devices (collectively, “cookies” unless otherwise noted) to distinguish you from other users of the Sites. This helps us provide you with a good experience, improve our service, and personalize ads and content that may be delivered to you while you use the Sites.</p>
+<p>This cookie policy (“Cookie Policy”) describes the types of the cookies we use on the Sites and our purposes for using them.</p>
+<p>If you have questions about this Cookie Policy, please contact us at&nbsp;<a href="mailto:privacy@linuxfoundation.org">privacy@linuxfoundation.org</a>. For a more complete description and a list of third party cookies that we currently use on the Sites, please see below. For more information about our privacy practices, please review our&nbsp;<a href="https://www.linuxfoundation.org/privacy/?hsLang=en">Privacy Policy</a>. We may update this Cookie Policy from time to time, so please check back periodically.</p>
+<p>Please read this Cookie Policy carefully for details about why we use cookies and the information they collect from and about you.</p>
+<p>&nbsp;</p>
+<h5><strong><span style="color: #0099ee;">Reject Cookies at Any Time</span></strong></h5>
+<p>If you do not wish to accept cookies in connection with your use of the Sites, you will need to delete, and block or disable cookies via your browser settings; see below for more information on how to do this. Please note that disabling cookies will affect the functionality of the Sites, and may prevent you from being able to access certain features on the Sites.</p>
+<p>&nbsp;</p>
+<h5><strong><span style="color: #0099ee;">What Is a Cookie?</span></strong></h5>
+<p>A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit the Sites.</p>
+<p>&nbsp;</p>
+<h5><strong><span style="color: #0099ee;">Key Concepts</span></strong></h5>
+<p>First and third-party cookies: whether a cookie is ‘first’ or ‘third’ party refers to the domain placing the cookie.</p>
+<ul>
+<li>First-party cookies&nbsp;are those set by a website that is being visited by the user at the time (e.g., cookies placed by linuxfoundation.org).</li>
+<li>Third-party cookies&nbsp;are cookies that are set by a domain other than that of the website being visited by the user. If a user visits a website and another entity sets a cookie through that website, this would be a third-party cookie.</li>
+</ul>
+<p>Persistent cookies: these cookies remain on a user’s device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.</p>
+<p>Session cookies: these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.</p>
+<p>&nbsp;</p>
+<h5><strong><span style="color: #0099ee;">How to Delete and Block our Cookies</span></strong></h5>
+<p>Most web browsers allow some control of most cookies through the browser settings. However, if you use your browser settings to block all cookies (including essential cookies), you may not be able to access all or parts of the Sites and some Site features will not function properly. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit the Sites.</p>
+<p>Changing your Cookie Settings. &nbsp;The browser &nbsp;settings for changing your cookies settings are usually found in the ‘options’ or ‘preferences’ menu of your internet browser. In order to understand these settings, the following links may be helpful. Otherwise you should use the ‘Help’ option in your internet browser for more details.</p>
+<ul>
+<li><a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences">Cookie settings in Firefox</a></li>
+<li><a href="https://support.google.com/chrome/answer/95647">Cookie settings in Chrome</a></li>
+<li><a href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac">Cookie settings in Safari</a></li>
+<li><a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy">Cookie settings in Microsoft Edge</a></li>
+<li><a href="https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies">Cookie settings in Internet Explorer</a></li>
+</ul>
+<p>More information.&nbsp;To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit&nbsp;<a href="https://www.aboutcookies.org/">https://www.aboutcookies.org/</a>&nbsp;or&nbsp;<a href="http://www.allaboutcookies.org/">http://www.allaboutcookies.org/</a>.</p>
+<p>&nbsp;</p>
+<h5><strong><span style="color: #0099ee;">What Cookies Do We Use and Why?</span></strong></h5>
+<p>Generally the Sites use cookies to distinguish you from other users of the Sites. This helps us to provide you with a good experience when you browse the Sites and also allows us to improve them.</p>
+<p>The cookies we may use on the Sites may be categorized as follows:</p>
+<ul>
+<li>Strictly necessary</li>
+<li>Performance</li>
+<li>Functionality</li>
+<li>Targeting</li>
+</ul>
+<p>Some cookies may fulfill more than one of these purposes.</p>
+<p>‘Strictly Necessary’&nbsp;cookies let you move around the Sites and use essential features like secure areas. Without these cookies, we cannot provide the requested services.</p>
+<p>We use these Strictly Necessary cookies to:</p>
+<ul>
+<li>Identify you as being logged in to the Sites and to authenticate you</li>
+<li>Make sure you connect to the right service on our Sites when we make any changes to the way it works</li>
+<li>For security purposes</li>
+</ul>
+<p>Accepting these cookies is a condition of using certain functionality of the Sites, so if you prevent these cookies we can’t guarantee how the Sites or the security on the Sites will perform during your visit.</p>
+<p>‘Performance’ cookies&nbsp;collect information about how you use the Sites, e.g. which pages you visit, and if you experience any errors. These cookies do not collect any information that could identify you and are only used to help us improve how the Sites work, understand what interests our users and measure the effectiveness of our advertising.</p>
+<p>We use performance cookies to:</p>
+<ul>
+<li>Carry out web analytics: Provide statistics on how the Sites are used</li>
+<li>Perform partner and affiliate program tracking: Provide feedback to partners and affiliate program third parties that one of our visitors also visited their site</li>
+<li>Obtain data on the number of users of the Sites that have viewed a part of the Sites</li>
+<li>Help us improve the Sites by measuring any errors that occur</li>
+<li>Test different designs for the Sites</li>
+</ul>
+<p>Some of our performance cookies are managed for us by third parties.</p>
+<p>‘Functionality’ cookies&nbsp;are used to provide services or to remember settings to improve your visit.</p>
+<p>We use ‘Functionality’ cookies for such purposes as:</p>
+<ul>
+<li>Remember settings you’ve applied such as layout, text size, preferences and colors</li>
+<li>Remember if we’ve already asked you if you want to fill in a survey</li>
+<li>Remember if you have engaged with a particular component or list on the Sites so that it won’t repeat</li>
+<li>Show you when you’re logged in to the Sites</li>
+<li>To provide and show embedded video content</li>
+</ul>
+<p>Some of our functionality cookies are managed for us by third parties.</p>
+<p>‘Targeting’ cookies&nbsp;are used to track your visit to the Sites, as well other websites, apps and online services, including the pages you have visited and the links you have followed, which allows us to display targeted ads to you on the Sites.</p>
+<p>We may use&nbsp;targeting cookies to:</p>
+<ul>
+<li>Display targeted ads within the Sites, including those displaying our training, certification and event opportunities.</li>
+<li>Limit how many times you see an ad.</li>
+<li>Improve how we deliver personalized ads and content, and to measure the success of ad campaigns on the Sites.</li>
+</ul>
+<p>&nbsp;</p>
+<h5><strong><span style="color: #0099ee;">Additional Information About Third Party Analytics in use on the Sites</span></strong></h5>
+<p>Facebook.&nbsp;For more information about what Facebook collects when you use Facebook buttons on the Sites or visit pages on the Sites that include these buttons, please see:&nbsp;<a href="https://www.facebook.com/about/privacy/">https://www.facebook.com/about/privacy/</a>.</p>
+<p>Twitter.&nbsp;For more information about what Twitter collects when you use Twitter buttons on the Sites or visit pages on the Sites that include these buttons, please see:&nbsp;<a href="https://twitter.com/en/privacy">https://twitter.com/en/privacy</a>.</p>
+<p>LinkedIn.&nbsp;For more information about what LinkedIn collects when you use LinkedIn buttons on the Sites or visit pages on the Sites that include these buttons, please see:&nbsp;<a href="https://www.linkedin.com/legal/privacy-policy">https://www.linkedin.com/legal/privacy-policy</a>.</p>
+<p>YouTube.&nbsp;For more information about what YouTube collects when you use YouTube buttons on the Sites or visit pages on the Sites that include these buttons, please see:&nbsp;<a href="https://www.youtube.com/static?template=privacy_guidelines">https://www.youtube.com/static?template=privacy_guidelines</a>.</p>
+<p>Google+.&nbsp;For more information about what Google collects when you use Google+ buttons on the Sites or visit pages on the Sites that include these buttons, please see:&nbsp;<a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>.</p>
+<p>Pardot.&nbsp;For more information about what Salesforce collects when you visit certain of the Sites, please see:&nbsp;<a href="https://help.salesforce.com/articleView?id=pardot_basics_cookies.htm">https://help.salesforce.com/articleView?id=pardot_basics_cookies.htm</a>.</p>
+<p>New Relic.&nbsp;For more information about what New Relic collects to assist with performance monitoring for certain of the Sites, please see:&nbsp;<a href="https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/new-relic-cookies-used-browser">https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/new-relic-cookies-used-browser</a>.</p>
+<p>Feathr.&nbsp;For more information about what Feathr collects when you visit certain of the Sites, please see:&nbsp;<a href="https://www.feathr.com/privacy-policy">https://www.feathr.com/privacy-policy</a>&nbsp;and&nbsp;<a href="https://privacy.feathr.co/">https://privacy.feathr.co/</a>.</p>
+<p>Google Analytics.&nbsp;Google Analytics is a web analytics service provided by Google, Inc. (“Google”). For more information about Google Analytics cookies, please see Google’s help pages and privacy policy:</p>
+<p><a href="https://policies.google.com/privacy">Google’s Privacy Policy</a></p>
+<p><a href="https://support.google.com/analytics/">Google Analytics Help pages</a></p>
+<p>Google has developed the Google Analytics opt-out browser add-on; if you want to opt out of Google Analytics, you can download and install the add-on for your web browser&nbsp;<a href="https://tools.google.com/dlpage/gaoptout">here</a>.</p>
+<p>Google uses cookies to help us analyze how users use the Sites. The information generated by the cookie about your use of the Sites (including your IP address) will be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymization, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. On behalf of the Sites, Google will use this information for the purpose of evaluating your use of the Sites, compiling reports on your activity for us and third parties who help operate and provide services related to the Sites. Google will not associate your IP address with any other data held by Google. You may refuse the use of these cookies by selecting the appropriate settings on your browser as discussed in this notice. However, please note that if you do this, you may not be able to use the full functionality of the Sites. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available at&nbsp;<a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</p>
+<p>Further information concerning the terms and conditions of use and data privacy can be found at&nbsp;<a href="https://www.google.com/analytics/terms/">https://www.google.com/analytics/terms/</a>&nbsp;or at&nbsp;<a href="https://policies.google.com/">https://policies.google.com/</a>.</p>
+<p>&nbsp;</p>
+<h5><strong><span style="color: #0099ee;">More Information About Cookies</span></strong></h5>
+<p>Internet Advertising Bureau</p>
+<p>A guide to behavioral advertising and online privacy that has been produced by the internet advertising industry can be found at&nbsp;<a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu/</a>.</p>
+<p>International Chamber of Commerce United Kingdom</p>
+<p>Information on the ICC (UK) UK cookie guide can be found on the ICC website section at&nbsp;<a href="http://www.international-chamber.co.uk/our-expertise/digitaleconomy">http://www.international-chamber.co.uk/our-expertise/digitaleconomy</a>.</p>
+<p>&nbsp;</p>
+<h5><strong><span style="color: #0099ee;">THIRD PARTY COOKIE LIST</span></strong></h5>
+<table style="height: 3919.69px;">
+<tbody>
+<tr style="height: 27.9861px;">
+<td style="width: 33%; height: 28px;"><strong>Domain</strong></td>
+<td style="width: 33%; height: 28px;"><strong>Technical Name</strong></td>
+<td style="width: 33%x; height: 28px;"><strong>Purpose</strong></td>
+</tr>
+<tr style="height: 503.681px;">
+<td style="width: 33%; height: 504px;">feathr.co</td>
+<td style="width: 33%; height: 504px;">feathr_session_id, f_id</td>
+<td style="width: 33%; height: 504px;">This information is used to enhance the users experience while visiting our Site, to measure the effectiveness of promotional placements, and tailoring the Site (including the ads and offers a user receives) to better match a user’s interests and preferences.</td>
+</tr>
+<tr style="height: 384.757px;">
+<td style="width: 33%; height: 385px;">Facebook.com</td>
+<td style="width: 33%; height: 385px;">fbq(‘track’, ‘InitiateCheckout’); and fbq(‘track’, ‘ViewContent’);</td>
+<td style="width: 33%; height: 385px;">This information is used to extend marketing reach and to tailor ad placements to those who made a specific action on our site such as starting a registration or visiting a certain page on the Site.</td>
+</tr>
+<tr style="height: 333.646px;">
+<td style="width: 33%; height: 334px;">go.pardot.compi.pardot.com
+<p>&nbsp;</p>
+<p>www2.thelinuxfoundation.org</p>
+</td>
+<td style="width: 134.514px; height: 334px;">pardot</td>
+<td style="width: 95.5556px; height: 334px;" rowspan="3">Pardot sets cookies for tracking purposes, and sets third-party cookies for redundancy. Using first-party and third-party cookies together is standard in the marketing automation industry. Pardot cookies do not store personally identifying information, they store only a unique identifier. Pardot tracks visitor and prospect activities on this website and on Pardot landing pages by setting cookies. These cookies are set in order to remember preferences (like form field values) when a visitor returns to this site.</td>
+</tr>
+<tr style="height: 331.372px;">
+<td style="width: 186.267px; height: 331px;">.pardot.comgo.pardot.com
+<p>&nbsp;</p>
+<p>www2.thelinuxfoundation.org</p>
+</td>
+<td style="width: 134.514px; height: 331px;">visitor_id6342</td>
+</tr>
+<tr style="height: 327.552px;">
+<td style="width: 186.267px; height: 328px;">.pardot.comgo.pardot.com
+<p>&nbsp;</p>
+<p>www2.thelinuxfoundation.org</p>
+</td>
+<td style="width: 134.514px; height: 328px;">visitor_id6342-hash</td>
+</tr>
+<tr style="height: 123.125px;">
+<td style="width: 186.267px; height: 123px;">.nr-data.net</td>
+<td style="width: 134.514px; height: 123px;">JSESSIONID</td>
+<td style="width: 95.5556px; height: 123px;">Set by New Relic to assist with performance monitoring.</td>
+</tr>
+<tr style="height: 693.958px;">
+<td style="width: 186.267px; height: 694px;">.twitter.com</td>
+<td style="width: 134.514px; height: 694px;">_twitter_sessct0
+<p>&nbsp;</p>
+<p>external_referer</p>
+<p>gt</p>
+<p>tfw_exp</p>
+</td>
+<td style="width: 95.5556px; height: 694px;">These cookies, provided by Twitter, are used in conjunction with social media plugins in order to allow following our Twitter accounts easily, share content via Twitter, and to display the latest tweet. Twitter makes use of cookies to improve its own service, to personalize content and enable additional features for logged-in Twitter users, and to target Twitter ads.</td>
+</tr>
+<tr style="height: 408.542px;">
+<td style="width: 186.267px; height: 409px;">.twitter.com</td>
+<td style="width: 134.514px; height: 409px;">guest_id</td>
+<td style="width: 95.5556px; height: 409px;">Used to identify you to Twitter. If you do not have a Twitter account or never accessed the Twitter.com website directly then Twitter will assign you a unique code to track your visit to the Twitter feed.</td>
+</tr>
+<tr style="height: 384.757px;">
+<td style="width: 186.267px; height: 385px;">.twitter.com</td>
+<td style="width: 134.514px; height: 385px;">personalization_id</td>
+<td style="width: 95.5556px; height: 385px;">Used by Twitter if you are logged in to Twitter to associate your device with your Twitter account. Twitter may also use this cookie for personalization across devices whether or not you are logged in to Twitter.</td>
+</tr>
+<tr style="height: 337.188px;">
+<td style="width: 186.267px; height: 337px;">.twitter.com</td>
+<td style="width: 134.514px; height: 337px;">syndication_guest_id</td>
+<td style="width: 95.5556px; height: 337px;">Used by Twitter to collect information about users’ browsing behavior for marketing purposes, including digital display and social media advertising.</td>
+</tr>
+</tbody>
+</table>
+</div>
+            </div>
+          
+          
+          
+          
+        </div>
+        
+      </div>
+    </div>
+    
+  </div>
+  
+</section></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div>
+</main>
+
+    </main>
+
+    
+      
+      <div id="hs_cos_wrapper_module_16613593312364" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+
+  <section id="sticky-form" class="section--module_16613593312364
+                  section--footer_form
+                  ">
+  
+    <div class="form__container
+                hs-form
+                
+                bg--secondary
+                
+                pb--md
+                pt--md">
+    <div class="section-wrapper">
+      
+      <div class="footer_form_title"><h3>Stay Connected with the Linux Foundation</h3></div>
+      
+      <div class="footer__form
+                  align-items--center">
+        <span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="form"><h3 id="hs_cos_wrapper_form_412233987_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text"></h3>
+
+<div id="hs_form_target_form_412233987" data-hs-forms-root="true"><form id="hsForm_e5c83800-1206-402c-9050-decfe094cca8_4373" method="POST" accept-charset="UTF-8" enctype="multipart/form-data" novalidate="" action="https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/8112310/e5c83800-1206-402c-9050-decfe094cca8" class="hs-form-private hsForm_e5c83800-1206-402c-9050-decfe094cca8 hs-form-e5c83800-1206-402c-9050-decfe094cca8 hs-form-e5c83800-1206-402c-9050-decfe094cca8_f4e793bd-513d-4a09-a1a8-64f89b734fd2 hs-form stacked hs-custom-form" target="target_iframe_e5c83800-1206-402c-9050-decfe094cca8_4373" data-instance-id="f4e793bd-513d-4a09-a1a8-64f89b734fd2" data-form-id="e5c83800-1206-402c-9050-decfe094cca8" data-portal-id="8112310" data-hs-cf-bound="true"><fieldset class="form-columns-3"><div class="hs_firstname hs-firstname hs-fieldtype-text field hs-form-field"><label id="label-firstname-e5c83800-1206-402c-9050-decfe094cca8_4373" class="" placeholder="Enter your First name" for="firstname-e5c83800-1206-402c-9050-decfe094cca8_4373"><span>First name</span></label><legend class="hs-field-desc" style="display: none;"></legend><div class="input"><input id="firstname-e5c83800-1206-402c-9050-decfe094cca8_4373" name="firstname" placeholder="" type="text" class="hs-input" inputmode="text" autocomplete="given-name" value=""></div></div><div class="hs_lastname hs-lastname hs-fieldtype-text field hs-form-field"><label id="label-lastname-e5c83800-1206-402c-9050-decfe094cca8_4373" class="" placeholder="Enter your Last name" for="lastname-e5c83800-1206-402c-9050-decfe094cca8_4373"><span>Last name</span></label><legend class="hs-field-desc" style="display: none;"></legend><div class="input"><input id="lastname-e5c83800-1206-402c-9050-decfe094cca8_4373" name="lastname" placeholder="" type="text" class="hs-input" inputmode="text" autocomplete="family-name" value=""></div></div><div class="hs_email hs-email hs-fieldtype-text field hs-form-field"><label id="label-email-e5c83800-1206-402c-9050-decfe094cca8_4373" class="" placeholder="Enter your Email" for="email-e5c83800-1206-402c-9050-decfe094cca8_4373"><span>Email</span><span class="hs-form-required">*</span></label><legend class="hs-field-desc" style="display: none;"></legend><div class="input"><input id="email-e5c83800-1206-402c-9050-decfe094cca8_4373" name="email" required="" placeholder="" type="email" class="hs-input" inputmode="email" autocomplete="email" value=""></div></div></fieldset><div class="hs_submit hs-submit"><div class="hs-field-desc" style="display: none;"></div><div class="actions"><input type="submit" class="hs-button primary large" value="SUBSCRIBE"></div></div><input name="hs_context" type="hidden" value="{&quot;formTarget&quot;:&quot;#hs_form_target_form_412233987&quot;,&quot;formInstanceId&quot;:&quot;4373&quot;,&quot;rawInlineMessage&quot;:&quot;Thanks for submitting the form. You have been added to the subscriber list.&amp;nbsp;&quot;,&quot;hsFormKey&quot;:&quot;111aa99cd08d387af5bfac84b697849d&quot;,&quot;pageUrl&quot;:&quot;https://www.linuxfoundation.org/legal/cookies&quot;,&quot;pageTitle&quot;:&quot;Cookies Policies | Linux Foundation&quot;,&quot;pageName&quot;:&quot;Cookies Policies | Linux Foundation&quot;,&quot;pageId&quot;:&quot;83932828714&quot;,&quot;userAgent&quot;:&quot;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/104.0.5112.48 Safari/537.36&quot;,&quot;timestamp&quot;:1668344246251,&quot;originalEmbedContext&quot;:{&quot;portalId&quot;:&quot;8112310&quot;,&quot;formId&quot;:&quot;e5c83800-1206-402c-9050-decfe094cca8&quot;,&quot;region&quot;:&quot;na1&quot;,&quot;target&quot;:&quot;#hs_form_target_form_412233987&quot;,&quot;isBuilder&quot;:false,&quot;isTestPage&quot;:false,&quot;formInstanceId&quot;:&quot;4373&quot;,&quot;formsBaseUrl&quot;:&quot;/_hcms/forms&quot;,&quot;css&quot;:&quot;&quot;,&quot;inlineMessage&quot;:&quot;Thanks for submitting the form. You have been added to the subscriber list.&amp;nbsp;&quot;,&quot;rawInlineMessage&quot;:&quot;Thanks for submitting the form. You have been added to the subscriber list.&amp;nbsp;&quot;,&quot;hsFormKey&quot;:&quot;111aa99cd08d387af5bfac84b697849d&quot;,&quot;pageTitle&quot;:&quot;Cookies Policies | Linux Foundation&quot;,&quot;pageUrl&quot;:&quot;https://www.linuxfoundation.org/legal/cookies&quot;,&quot;userAgent&quot;:&quot;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/104.0.5112.48 Safari/537.36&quot;,&quot;pageName&quot;:&quot;Cookies Policies | Linux Foundation&quot;,&quot;pageId&quot;:&quot;83932828714&quot;,&quot;contentType&quot;:&quot;standard-page&quot;,&quot;formData&quot;:{&quot;cssClass&quot;:&quot;hs-form stacked hs-custom-form&quot;},&quot;isCMSModuleEmbed&quot;:true},&quot;correlationId&quot;:&quot;f4e793bd-513d-4a09-a1a8-64f89b734fd2&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;embedType&quot;:&quot;REGULAR&quot;,&quot;embedAtTimestamp&quot;:&quot;1668344243167&quot;,&quot;formDefinitionUpdatedAt&quot;:&quot;1662996800964&quot;,&quot;__hsfp&quot;:1428961213,&quot;__hssc&quot;:&quot;160532258.1.1668344246208&quot;,&quot;__hstc&quot;:&quot;160532258.af9a46d3245394f17a38ae463e450d67.1668344246207.1668344246207.1668344246207.1&quot;,&quot;canonicalUrl&quot;:&quot;https://www.linuxfoundation.org/legal/cookies&quot;,&quot;contentType&quot;:&quot;standard-page&quot;,&quot;hutk&quot;:&quot;af9a46d3245394f17a38ae463e450d67&quot;,&quot;renderedFieldsIds&quot;:[&quot;firstname&quot;,&quot;lastname&quot;,&quot;email&quot;],&quot;captchaStatus&quot;:&quot;NOT_APPLICABLE&quot;,&quot;isInsideCrossOriginFrame&quot;:false,&quot;source&quot;:&quot;forms-embed-1.2310&quot;,&quot;sourceName&quot;:&quot;forms-embed&quot;,&quot;sourceVersion&quot;:&quot;1.2310&quot;,&quot;sourceVersionMajor&quot;:&quot;1&quot;,&quot;sourceVersionMinor&quot;:&quot;2310&quot;}"><iframe name="target_iframe_e5c83800-1206-402c-9050-decfe094cca8_4373" style="display: none;"></iframe></form></div>
+
+
+
+
+
+
+
+
+
+</span>
+      </div>
+    </div>
+  </div>
+  
+</section>
+  <footer class="section--module_16613593312364
+                 section--footer
+                 pt--xs">
+  <div class="footer
+              section-wrapper">
+    <div class="footer__wrapper">
+      <div class="footer__container
+                  flex-row
+                  jc--space-between">
+        <div class="footer__left
+                    pt--xs
+                    col4">
+          <div class="footer__logo">
+            <a href="https://8112310.hs-sites.com/en/test-only-home-page?hsLang=en">
+            <img src="https://www.linuxfoundation.org/hubfs/LF%20Logo%20White.svg" alt="LF Logo White" height="50" style="height:50px;">
+              </a>
+          </div>
+          <p class="footer__title">ABOUT THE LINUX FOUNDATION</p>
+           <p class="footer__content">The Linux Foundation provides a neutral, trusted hub for developers to code, manage, and scale open technology projects.</p>
+             <div class="footer__info-menu"><span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16613593312364_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/about" role="menuitem" target="_self">About the LF</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/about/leadership" role="menuitem" target="_self">Leadership</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/careers" role="menuitem" target="_self">Careers</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/about/members" role="menuitem" target="_self">Corporate Members</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/about/diversity-inclusivity" role="menuitem" target="_self">Diversity &amp; Inclusivity</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/brand-guidelines" role="menuitem" target="_self">Brand Guidelines</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/about/contact" role="menuitem" target="_self">Contact Us</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://linuxfoundation.store/" role="menuitem" target="_blank" rel="noopener">Store</a></li>
+ </ul>
+</div></span></div>
+               <div class="footer__social-links">
+                
+                  
+                    
+                  <a href="https://twitter.com/linuxfoundation" target="_blank" rel="noopener">
+                      <span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" aria-hidden="true"><g id="Twitter1_layer"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></g></svg></span></a>
+               
+                  
+                    
+                  <a href="https://www.facebook.com/TheLinuxFoundation" target="_blank" rel="noopener">
+                      <span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" aria-hidden="true"><g id="Facebook F2_layer"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></g></svg></span></a>
+               
+                  
+                    
+                  <a href="https://www.youtube.com/user/TheLinuxFoundation" target="_blank" rel="noopener">
+                      <span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" aria-hidden="true"><g id="YouTube3_layer"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></g></svg></span></a>
+               
+                  
+                    
+                  <a href="https://www.linkedin.com/company/208777" target="_blank" rel="noopener">
+                      <span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-hidden="true"><g id="LinkedIn In4_layer"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></g></svg></span></a>
+               
+                  
+                    
+                  <a href="https://github.com/LF-Engineering" target="_blank" rel="noopener">
+                      <span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" aria-hidden="true"><g id="GitHub5_layer"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></g></svg></span></a>
+                
+           </div>
+         </div>
+        <div class="footer__right
+                    col8
+                    pt--xs
+                    align-items--top">
+          <div class="footer__right-content">
+            <div class="footer__right-content-menu
+                        menu-items-footer
+                        flex-row">
+              
+              <div class="footer__row-list
+                          open-menu--1">
+                
+                <div class="menu-group col3">
+                  <div class="child-menu_links
+                              dropdown--1" aria-expanded="false">
+                    <input class="footer_menu_arrow 
+                                  footer_menu_arrow-invert" type="checkbox" name="footer_menu_arrow" id="footer_menu_arrow">
+                    <label for="footer_menu_arrow dropdown--1"></label>
+                     <p class="footer__menu-title
+                               letter__spacing">PROJECTS</p>
+                    <div class="menu-row"><span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16613593312364_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/projects" role="menuitem" target="_self">View All Projects</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/projects/hosting" role="menuitem" target="_self">Host Your Project</a></li>
+ </ul>
+</div></span></div>
+                  </div>
+                </div>
+                
+                <div class="menu-group col3">
+                  <div class="child-menu_links
+                              dropdown--2" aria-expanded="false">
+                    <input class="footer_menu_arrow 
+                                  footer_menu_arrow-invert" type="checkbox" name="footer_menu_arrow" id="footer_menu_arrow">
+                    <label for="footer_menu_arrow dropdown--2"></label>
+                     <p class="footer__menu-title
+                               letter__spacing">NEWSROOM</p>
+                    <div class="menu-row"><span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16613593312364_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/press" role="menuitem" target="_self">Press Releases</a></li>
+ </ul>
+</div></span></div>
+                  </div>
+                </div>
+                
+                <div class="menu-group col3">
+                  <div class="child-menu_links
+                              dropdown--3" aria-expanded="false">
+                    <input class="footer_menu_arrow 
+                                  footer_menu_arrow-invert" type="checkbox" name="footer_menu_arrow" id="footer_menu_arrow">
+                    <label for="footer_menu_arrow dropdown--3"></label>
+                     <p class="footer__menu-title
+                               letter__spacing">LF RESEARCH</p>
+                    <div class="menu-row"><span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16613593312364_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/research" role="menuitem" target="_self">Latest Research</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/research/leadership" role="menuitem" target="_self">Leadership &amp; Advisory Board</a></li>
+ </ul>
+</div></span></div>
+                  </div>
+                </div>
+                
+                <div class="menu-group col3">
+                  <div class="child-menu_links
+                              dropdown--4" aria-expanded="false">
+                    <input class="footer_menu_arrow 
+                                  footer_menu_arrow-invert" type="checkbox" name="footer_menu_arrow" id="footer_menu_arrow">
+                    <label for="footer_menu_arrow dropdown--4"></label>
+                     <p class="footer__menu-title
+                               letter__spacing">LFX PLATFORM</p>
+                    <div class="menu-row"><span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16613593312364_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://lfx.linuxfoundation.org" role="menuitem" target="_blank" rel="noopener">LFX Home</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://myprofile.lfx.linuxfoundation.org/" role="menuitem" target="_blank" rel="noopener">LFX Tools</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://community.lfx.dev/" role="menuitem" target="_blank" rel="noopener">LFX Community Forum</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://openprofile.dev/" role="menuitem" target="_blank" rel="noopener">Create an LFX Account</a></li>
+ </ul>
+</div></span></div>
+                  </div>
+                </div>
+                
+              </div>
+              
+              <div class="footer__row-list
+                          open-menu--2">
+                
+                <div class="menu-group col3">
+                  <div class="child-menu_links
+                              dropdown--1" aria-expanded="false">
+                    <input class="footer_menu_arrow 
+                                  footer_menu_arrow-invert" type="checkbox" name="footer_menu_arrow" id="footer_menu_arrow">
+                    <label for="footer_menu_arrow dropdown--1"></label>
+                     <p class="footer__menu-title
+                               letter__spacing">RESOURCES</p>
+                    <div class="menu-row"><span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16613593312364_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/blog" role="menuitem" target="_self">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/resources/publications" role="menuitem" target="_self">Publications</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/resources/open-source-guides" role="menuitem" target="_self">Open Source Guides</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/webinars" role="menuitem" target="_self">Webinars</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.linuxfoundation.org/resources/case-studies" role="menuitem" target="_self">Case Studies</a></li>
+ </ul>
+</div></span></div>
+                  </div>
+                </div>
+                
+                <div class="menu-group col3">
+                  <div class="child-menu_links
+                              dropdown--2" aria-expanded="false">
+                    <input class="footer_menu_arrow 
+                                  footer_menu_arrow-invert" type="checkbox" name="footer_menu_arrow" id="footer_menu_arrow">
+                    <label for="footer_menu_arrow dropdown--2"></label>
+                     <p class="footer__menu-title
+                               letter__spacing">EVENTS</p>
+                    <div class="menu-row"><span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16613593312364_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://events.linuxfoundation.org/about/calendar/" role="menuitem" target="_blank" rel="noopener">Upcoming Events</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://events.linuxfoundation.org/about/sponsor/" role="menuitem" target="_blank" rel="noopener">Sponsor an Event</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://linuxfoundation.smapply.io/" role="menuitem" target="_blank" rel="noopener">Submit a Talk</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://events.linuxfoundation.org/about/code-of-conduct/" role="menuitem" target="_blank" rel="noopener">Code of Conduct</a></li>
+ </ul>
+</div></span></div>
+                  </div>
+                </div>
+                
+                <div class="menu-group col3">
+                  <div class="child-menu_links
+                              dropdown--3" aria-expanded="false">
+                    <input class="footer_menu_arrow 
+                                  footer_menu_arrow-invert" type="checkbox" name="footer_menu_arrow" id="footer_menu_arrow">
+                    <label for="footer_menu_arrow dropdown--3"></label>
+                     <p class="footer__menu-title
+                               letter__spacing">LF TRAINING</p>
+                    <div class="menu-row"><span id="hs_cos_wrapper_module_16613593312364_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_16613593312364_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://training.linuxfoundation.org/" role="menuitem" target="_blank" rel="noopener">Training Home</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://training.linuxfoundation.org/full-catalog/" role="menuitem" target="_self">Course Catalog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://training.linuxfoundation.org/resources/" role="menuitem" target="_self">Training Resources</a></li>
+ </ul>
+</div></span></div>
+                  </div>
+                </div>
+                
+              </div>
+              
+            </div>
+          </div>
+          <div class="footer__info">
+            <p class="content_info"><span style="font-size: 14px; color: #ffffff;">Copyright © 2022 The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our <a href="/legal/trademark-usage?hsLang=en" rel="noopener" style="font-size: 14px; color: #ffffff;">Trademark Usage</a> page. Linux is a registered trademark of Linus Torvalds. <a href="/legal/terms/?hsLang=en" rel="noopener" style="font-size: 14px; color: #ffffff;">Terms of Use</a> | <a href="/legal/privacy-policy/?hsLang=en" rel="noopener" style="font-size: 14px; color: #ffffff;">Privacy Policy</a> | <a href="/legal/bylaws/?hsLang=en" rel="noopener" style="font-size: 14px; color: #ffffff;">Bylaws</a> | <a href="/legal/antitrust-policy/?hsLang=en" rel="noopener" style="font-size: 14px; color: #ffffff;">Antitrust Policy</a> | <a href="/legal/good-standing-policy/?hsLang=en" rel="noopener" style="font-size: 14px; color: #ffffff;">Good Standing Policy</a></span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer></div>
+    
+
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+<script>
+(function () {
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/_hcms/perf', true /*async*/);
+            xhr.setRequestHeader("Content-type", "application/json");
+            xhr.onreadystatechange = function () {
+                // do nothing.
+            };
+            var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+            function populateNetworkInfo(name, connection, info) {
+                if (name in connection) {
+                    info[name] = connection[name];
+                }
+            }
+            var networkInfo = {};
+            if (connection) {
+                ['type', 'effectiveType', 'downlink', 'rtt'].forEach(function(name) {
+                    populateNetworkInfo(name, connection, networkInfo);
+                });
+            }
+            var perfData = {
+                url: location.href,
+                portal: 8112310,
+                content: 83932828714,
+                group: -1,
+                connection: networkInfo,
+                timing: performance.timing
+            };
+            xhr.send(JSON.stringify(perfData));
+        }, 3000);  // Execute this 3 seconds after onload.
+    });
+})();
+</script>
+
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="https://www.linuxfoundation.org/hs-fs/hub/8112310/hub_generated/template_assets/80245626652/1668016110148/2022_-_BZ_Linux_Foundation_Theme/assets/js/magnific-popup.min.js"></script>
+<script src="https://www.linuxfoundation.org/hs-fs/hub/8112310/hub_generated/module_assets/76935915621/1668017286064/module_76935915621_Main_Mega_Header.min.js"></script>
+
+           <script>
+              function myFunction(x) {
+                x.classList.toggle("change");
+              }
+
+              function openSlideMenu() {
+                document.getElementById('burger-menu').classList.toggle("open");
+              }
+
+              function closeSlideMenu() {
+                document.getElementById('burger-menu').style.width = '0px';
+              }
+
+           </script> 
+         
+<script src="https://www.linuxfoundation.org/hs-fs/hub/8112310/hub_generated/template_assets/77282240621/1668016122452/2022_-_BZ_Linux_Foundation_Theme/assets/js/main.min.js"></script>
+<script src="https://www.linuxfoundation.org/hs-fs/hub/8112310/hub_generated/module_assets/77362524751/1662236318419/module_77362524751_Main_Mega_Footer.min.js"></script>
+
+    <!--[if lte IE 8]>
+    <script charset="utf-8" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+
+<script data-hs-allowed="true" src="/_hcms/forms/v2.js"></script>
+
+    <script data-hs-allowed="true" data-hubspot-rendered="true">
+        var options = {
+            portalId: '8112310',
+            formId: 'e5c83800-1206-402c-9050-decfe094cca8',
+            formInstanceId: '4373',
+            pageId: '83932828714',
+            region: 'na1',
+            
+            
+            
+            
+            pageName: "Cookies Policies | Linux Foundation",
+            
+            
+            
+            inlineMessage: "Thanks for submitting the form. You have been added to the subscriber list.&nbsp;",
+            
+            
+            rawInlineMessage: "Thanks for submitting the form. You have been added to the subscriber list.&nbsp;",
+            
+            
+            hsFormKey: "111aa99cd08d387af5bfac84b697849d",
+            
+            
+            css: '',
+            target: '#hs_form_target_form_412233987',
+            
+            
+            
+            
+            
+            contentType: "standard-page",
+            
+            
+            
+            formsBaseUrl: '/_hcms/forms/',
+            
+            
+            
+            formData: {
+                cssClass: 'hs-form stacked hs-custom-form'
+            }
+        };
+
+        options.getExtraMetaDataBeforeSubmit = function() {
+            var metadata = {};
+            
+
+            if (hbspt.targetedContentMetadata) {
+                var count = hbspt.targetedContentMetadata.length;
+                var targetedContentData = [];
+                for (var i = 0; i < count; i++) {
+                    var tc = hbspt.targetedContentMetadata[i];
+                     if ( tc.length !== 3) {
+                        continue;
+                     }
+                     targetedContentData.push({
+                        definitionId: tc[0],
+                        criterionId: tc[1],
+                        smartTypeId: tc[2]
+                     });
+                }
+                metadata["targetedContentMetadata"] = JSON.stringify(targetedContentData);
+            }
+
+            return metadata;
+        };
+
+        hbspt.forms.create(options);
+    </script>
+
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.linuxfoundation.org\/legal\/cookies"]);
+_hsq.push(["setPageId", "83932828714"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 83932828714,
+    "legacyPageId": "83932828714",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 83932828714,
+    "languageCode": "en",
+    
+}]);
+</script>
+
+<script src="/hs/scriptloader/8112310.js?businessUnitId=0" defer="" async="" id="hs-script-loader" type="text/javascript"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    ticks: 1668305647445,
+    page_id: 83932828714,
+    
+    content_group_id: 0,
+    portal_id: 8112310,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page",
+    analytics_page_id: "83932828714",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer="" src="/hs/hsstatic/HubspotToolsMenu/static-1.138/js/index.js"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWBXMJK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+    
+  
+
+<meta name="facebook-domain-verification" content="7flij7mix34esha4odgea0i5bb2iht">
+<script type="text/javascript" id="">!function(){var a=window.driftt=window.drift=window.driftt||[];if(!a.init){if(a.invoked)return void(window.console&&console.error&&console.error("Drift snippet included twice."));a.invoked=!0;a.methods="identify config track reset debug show ping page hide off on".split(" ");a.factory=function(c){return function(){var b=Array.prototype.slice.call(arguments);return b.unshift(c),a.push(b),a}};a.methods.forEach(function(c){a[c]=a.factory(c)});a.load=function(c){var b=3E5,d=Math.ceil(new Date/b)*b;b=
+document.createElement("script");b.type="text/javascript";b.async=!0;b.crossorigin="anonymous";b.src="https://js.driftt.com/include/"+d+"/"+c+".js";c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}}}();drift.SNIPPET_VERSION="0.3.1";drift.load("zxhkzyedc2xb");</script>
+<script type="text/javascript" id="">window.addEventListener("message",function(a){"hsFormCallback"===a.data.type&&"onFormSubmitted"===a.data.eventName&&window.dataLayer.push({event:"hubspot-form-success","hs-form-guid":a.data.id})});</script><script type="text/javascript" id="">(function(a,b,c,d,e){a=b.createElement(c);b=b.getElementsByTagName(c)[0];a.async=1;a.id=e;a.src=d;b.parentNode.insertBefore(a,b)})(window,document,"script","https://tag.demandbase.com/e8693e2ee5fcbf3b.min.js","demandbase_js_lib");</script><iframe owner="archetype" title="archetype" style="display: none; visibility: hidden;"></iframe><img style="display:none" alt="" aria-hidden="true" width="0" height="0" id="db_bw_pixel_ad" src="https://match.prod.bidr.io/cookie-sync/demandbase"><img style="display:none" alt="" aria-hidden="true" width="0" height="0" id="db_lr_pixel_ad" src="https://id.rlcdn.com/464526.gif"></body></html>

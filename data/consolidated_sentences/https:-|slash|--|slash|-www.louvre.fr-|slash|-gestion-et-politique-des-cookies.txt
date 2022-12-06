@@ -1,0 +1,116 @@
+Gestion et politique des cookiesGestion et politique des cookiesAller au contenuChers visiteurs,Ce site utilise des cookies, déposés par le Musée du Louvre, afin d’améliorer votre expérience de navigation
+Pour plus d’information sur les finalités et pour personnaliser vos préférences par type de cookies utilisés, cliquez sur « Gérer les préférences ».Vous pouvez modifier à tout moment vos préférences, et notamment retirer votre consentement pour l’utilisation de cookies, en cliquant sur « Cookies » en bas de chaque page du site.
+En savoir plusGérer les préférencesRefuser tout, sauf cookies techniquesTout accepterMenuHoraires & tarifsPlan, accès & transportsJours d’accès aux collectionsServices sur placeRestaurants & cafésVenir en familleVenir en groupeAccessibilitéF.A.Q.Le palaisLes jardinsLes parcoursLouvre+ExpositionsÉvénements & activitésVisites guidéesVie du muséeSoutenir le LouvreSe former et transmettreRecherche & conservationE-boutiqueLouvre+FrançaisLanguesEnglishFrançaisEspañol中文Louvre - Retour à l'accueil E-Boutique BilletterieVisiterDécouvrirEn ce momentprevious navigation elementnext navigation itemRetour à l'accueilSee all breadcrumbsGestion et politique des cookiesGestion et politique des cookiesGestion et politique des cookiesLe site internet du musée du Louvre utilise des cookies, déposés par le musée du Louvre ou par des tiers, afin d'améliorer votre expérience de navigation
+Cette politique a pour objet de vous permettre de comprendre ce que sont les cookies, quelle utilisation en est faite sur ce site et comment les gérer.
+Gérer les préférencesQu’est-ce qu’un cookie ?1
+Un cookie est un fichier texte susceptible d’être enregistré dans un espace dédié du disque dur de votre terminal à l’occasion de la consultation d’un service en ligne grâce à votre logiciel de navigation
+Le terminal désigne l’équipement matériel (ordinateur, tablette, smartphone…) que vous utilisez pour consulter ou voir s’afficher un site, une application, un contenu publicitaire, etc.2
+Un fichier cookie permet à son émetteur d’identifier le terminal dans lequel il est enregistré, et de renvoyer au site consulté certaines informations (par exemple un identifiant de session ou le choix d’une langue) pendant la durée de validité ou d’enregistrement dudit cookie
+Seul l'émetteur du cookie concerné est susceptible de lire ou de modifier les informations qui y sont contenues.3
+Lors de vos visites sur ce site, des cookies peuvent être installés sur votre terminal, par le musée du Louvre, ou par des tiers.4
+Certains cookies sont indispensables à l’utilisation du site, d’autres permettent par exemple d’améliorer votre expérience de navigation ou d’établir des statistiques
+La durée de vie de ces cookies diffère selon leurs finalités
+Certains disparaissent dès que vous quittez le site, d’autres demeurent sur votre équipement terminal jusqu’à expiration de leur durée de vie ou jusqu’à ce que vous les supprimiez.5
+L’ensemble des cookies utilisés sur le site internet du musée du Louvre, ainsi que les finalités et durées de validité de chaque cookie, sont détaillés dans "Les cookies utilisés sur notre site".6
+Le choix d’accepter globalement l’ensemble des cookies, de refuser des cookies ou de les paramétrer vous est proposé dès votre entrée sur le site internet du musée du Louvre
+Vous pouvez ensuite désactiver à tout moment et gratuitement les cookies auxquels vous avez consenti, à partir des possibilités de désactivation présentées dans "Gestion des cookies".Les cookies utilisés sur notre site7
+Les cookies utilisés sur notre site sont édités par le musée du Louvre, ou édités par des tiers.Les cookies édités par le musée du Louvre8
+Nous déposons sur notre site les cookies strictement nécessaires au fonctionnement du site (dits cookies « techniques »).9
+Les cookies techniques sont les cookies nécessaires au bon fonctionnement de notre site, utilisés par l’hébergeur pour la gestion technique du réseau
+Ils vous permettent d’utiliser les principales fonctionnalités du site
+Ils sont à ce titre indispensables, et ne peuvent donc pas être désactivés.10
+Il s'agit des cookies suivants :alertTimestamp
+Finalité : information sur l'affichage précédent de la fenêtre de message d'alerte
+Données collectées : identifiant de la popin d'alerte (LocalStorage)
+Durée de validité : selon les navigateurs, au vidage du LocalStoragelouvre_info_lang
+Finalité : information de la langue d'affichage du site choisie par l'utilisateur
+Données collectées : choix de l'utilisateur
+Durée de validité : 12 moislouvre_consent_technical
+Finalité : acceptation ou refus des cookies
+Données collectées : acceptation ou refus des cookies
+Durée de validité : 6 moislouvre_consent_google_analytics
+Finalité : acceptation ou refus des cookies
+Données collectées : acceptation ou refus des cookies
+Durée de validité : 6 moislouvre_consent_youtube
+Finalité : acceptation ou refus des cookies
+Données collectées : acceptation ou refus des cookies
+Durée de validité : 6 moisLes cookies édités par les tiers11
+Cette catégorie vise les cookies édités par des tiers au Musée du Louvre
+L'utilisation de cookies par des tiers sont soumis aux conditions d’utilisation déterminées par les tiers concernés.Cookies vidéo12
+Notre site contient des cookies émis par des sites de partage de vidéo (YouTube et Vimeo) ayant pour finalité de permettre à l’utilisateur de visionner directement sur notre site des contenus multimédia
+Vous pouvez consulter les conditions d’utilisation des cookies par YouTube et Vimeo directement sur leur site Internet.13
+Le service Vimeo utilise uniquement des cookies techniques nécessaires au bon fonctionnement du player Vimeo, sauf à ce que l’utilisateur soit connecté à un compte Vimeo personnel.
+Les cookies utilisés par le service YouTube sont des cookies de :
+Mesure d’audience et d’usage ;
+Préférences utilisateurs.
+14
+Il s'agit des cookies suivants :APISID
+Nom du tiers : YouTube
+Finalité : mesure d'audience et d'usage YouTube
+Données collectées : informations d'usage pour les vidéos hébergées sur YouTube
+Durée de validité : sessionSID
+Nom du tiers : YouTube
+Finalité : mesure d'audience et d'usage YouTube
+Données collectées : informations d'usage pour les vidéos hébergées sur YouTube
+Durée de validité : sessionSAPISID
+Nom du tiers : YouTube
+Finalité : mesure d'audience et d''usage YouTube
+Données collectées : informations d'usage pour les vidéos hébergées sur YouTube
+Durée de validité : sessionSSID
+Nom du tiers : YouTube
+Finalité : mesure d'audience et d'usage YouTube
+Données collectées : informations d'usage pour les vidéos hébergées sur YouTube
+Durée de validité : sessionHSID
+Nom du tiers : YouTube
+Finalité : mesure d'audience et d'usage YouTube
+Données collectées : informations d'usage pour les vidéos hébergées sur YouTube
+Durée de validité : sessionLOGIN_INFO
+Nom du tiers : YouTube
+Finalité : mesure d'audience et d'usage YouTube
+Données collectées : informations d'usage pour les vidéos hébergées sur YouTube
+Durée de validité : 13 moisPREF
+Nom du tiers : YouTube
+Finalité : préférences utilisateurs
+Données collectées : informations sur les préférences utilisateurs
+Durée de validité : 9 mois_VISITOR_INFO1_LIVE
+Nom du tiers : YouTube
+Finalité : préférences utilisateurs
+Données collectées : informations sur les préférences utilisateurs
+Durée de validité : 6 moisYSC
+Nom du tiers : YouTube
+Finalité : mesure d'audience et d'usage YouTube
+Données collectées : informations d'usage pour les vidéos hébergées sur YouTube
+Durée de validité : sessionGestion des cookies17
+Lors de votre première visite sur notre site, il vous est proposé d’accepter ou de refuser l’utilisation des cookies, de manière globale ou spécifique, ou enfin de paramétrer vos choix.18
+Si vous ne souhaitez pas que des cookies soient installés ou lus sur votre équipement terminal, un cookie de refus sera déposé sur votre équipement terminal, afin que le musée du Louvre enregistre l’information selon laquelle vous vous êtes opposé à l’utilisation de cookies
+De même, lorsque vous acceptez le recours aux cookies, un cookie de consentement est installé sur votre équipement terminal.19
+Ces cookies de refus ou de consentement demeurent sur votre équipement terminal pour une durée de douze (12) mois.20
+Vous pouvez, gratuitement et à tout moment, gérer vos souhaits concernant l’utilisation des cookies, et notamment refuser leur utilisation ou les supprimer, via les moyens suivants :
+module de gestion des cookies ;
+paramétrage du navigateur ;
+plateformes interprofessionnelles d’opposition.
+Attention : comme indiqué ci-avant, la prise en compte de votre refus d’installer un cookie repose sur le dépôt d’un cookie
+Par conséquent, si vous désactivez tous les cookies de votre terminal ou si vous changez de terminal, nous ne saurons plus que vous avez choisi cette option.Module de gestion des cookies21
+Notre site internet met à votre disposition un module de gestion des cookies qui vous permet, à tout moment, de choisir ou modifier les cookies que vous souhaitez accepter et ceux que vous souhaitez refuser.22
+Vous pouvez accéder à ce module grâce en cliquant sur "Gérer les préférences" en haut de page.Plateformes interprofessionnelles d’opposition23
+Plusieurs plateformes de professionnels de la publicité vous offrent également la possibilité de refuser ou d’accepter des cookies utilisés par les sociétés qui en sont adhérentes
+Ces mécanismes centralisés ne bloquent pas l’affichage des publicités mais empêchent seulement l’installation de cookies permettant d’adapter les publicités à vos centres d’intérêts et comportements.24
+Vous pouvez par exemple vous connecter sur le site www.youronlinechoices.com afin d’interdire l’installation de ces cookies sur votre équipement terminal
+Ce site est proposé par les professionnels de la publicité digitale regroupés au sein de l'association européenne EDAA (European Digital Advertising Alliance) et géré en France par l'Interactive Advertising Bureau France.25
+Vous pourrez ainsi connaître les entreprises inscrites à cette plateforme et qui vous offrent la possibilité de refuser ou d'accepter les cookies qu'elles utilisent pour adapter, selon les données qu’elles collectent, les publicités susceptibles d'être affichées sur votre navigateur : www.youronlinechoices.com/fr/controler-ses-cookies.26
+Cette plateforme européenne est partagée par des centaines de professionnels de la publicité sur Internet et constitue une interface centralisée vous permettant d'exprimer votre refus ou votre acceptation des cookies tel que ci-dessus précisé.Protection des données personnelles27
+Les cookies édités par le musée du Louvre ne traitent aucune donnée à caractère personnel vous concernant
+En revanche, les cookies tiers utilisés sur notre site internet dépendent de responsables de traitement externes qui sont susceptibles, si vous acceptez ces cookies, de traiter des données à caractère personnel vous concernant.28
+L’émission et l’utilisation de ces cookies par des tiers sont soumises à leur propre politique de protection de la vie privée et des données personnelles.29
+Les données collectées sont indispensables pour atteindre les objectifs poursuivis par chaque cookie
+Elles sont uniquement destinées aux services habilités de l’entreprise émettrice des cookies tiers.30
+Des données à caractère personnel vous concernant peuvent être transmises par YouTube et Vimeo à des prestataires situés dans des pays tiers non membre de l’Union européenne, à savoir les États-Unis.31.Ces transferts de données doivent être encadrés par une convention de flux transfrontières établie conformément aux clauses contractuelles types émises par la Commission européenne et actuellement en vigueur.32
+Les données à caractère personnel collectées via les cookies ne doivent pas être conservées plus longtemps que nécessaire pour atteindre la finalité du cookie.33
+Pour de plus amples informations concernant les traitements susceptibles d’être réalisés par les cookies tiers déposés sur notre site, vous pouvez vous reporter aux politiques de confidentialité et aux conditions générales d’utilisation de YouTube, Google et Vimeo.Pour aller plus loin…34
+Pour obtenir davantage d’informations sur les cookies, vous pouvez consulter le site internet de la Commission nationale informatique et libertés (CNIL) : https://www.cnil.fr/
+Et notamment les pages suivantes :
+https://www.cnil.fr/fr/cookies-et-autres-traceurs
+https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser
+https://www.cnil.fr/fr/les-conseils-de-la-cnil-pour-maitriser-votre-navigateur
+Restons en contactRecevez des nouvelles du Louvre selon vos goûts !
+Inscrivez-vousÀ proposL'établissement publicLe Louvre en France et dans le mondeRèglement de visitePrêts et dépôtsCommande publique et occupation domanialeActes administratifsNos sitesBilletterieBoutique en ligneCollectionsCorpusDon en ligneÉditionsPetite GaleriePresseNous contacterFAQContactsDonnez-nous votre avis !Offres d’emploiPrivatisations et tournagesLouvre ConseilSuivez-nousDevenez AmisRetrouvez tous nos avantages Mentions légalesDonnées personnellesCookiesAccessibilité : partiellement conformeCréditsCrédits photographiques

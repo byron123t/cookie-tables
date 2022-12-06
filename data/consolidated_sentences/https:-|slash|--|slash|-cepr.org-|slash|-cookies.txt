@@ -1,0 +1,268 @@
+Cookies | CEPR
+Skip to main content
+Mobile menu
+Search
+VoxEU
+Columns
+Blogs&Reviews
+VoxTalks
+VideoVox
+Vox Webcasts
+VoxEU Debates
+About VoxEU
+Research
+Programme Areas
+Research Policy Networks (RPNs)
+Research Projects and Networks
+Research Policies
+Data Sets
+Publications
+Publication Series
+Books and Reports
+Discussion Papers
+Covid Economics Papers
+Policy Papers
+Economic Policy Journal
+Search All Publications
+Archive
+Events
+Calls for Papers
+Forthcoming Events
+Past Events
+Event Series
+Audio and video
+Search all multimedia content
+VideoVox
+Vox Webcasts
+VoxTalks
+Webinar Videos
+About CEPR
+People
+News
+Press
+Governance
+Support CEPR
+Partners
+Jobs at CEPR
+Themes
+Search
+Themes
+Themes
+Key Themes
+Central Banking
+Climate Change
+Competition Policy
+Development & Growth
+Economic History
+Energy
+EU Economic Architecture
+Inflation
+Political Economy
+Poverty and income inequality
+Women in Economics
+Other Themes
+Business Cycles
+Covid 19
+Exchange Rates
+Finance & Fintech
+Health Economics
+International Finance
+International Trade
+Labour Markets
+Migration
+Monetary Policy
+Productivity and Innovation
+Taxation
+Active Debates
+The Economic Consequences of the War
+EU Economic Policy and Architecture after Covid
+Populism
+Main navigation
+VoxEU
+Columns
+Blogs&Reviews
+VoxTalks
+VideoVox
+Vox Webcasts
+VoxEU Debates
+About VoxEU
+Research
+Programme Areas
+Research Policy Networks (RPNs)
+Research Projects and Networks
+Research Policies
+Data Sets
+Publications
+Publication Series
+Books and Reports
+Discussion Papers
+Covid Economics Papers
+Policy Papers
+Economic Policy Journal
+Search All Publications
+Archive
+Events
+Calls for Papers
+Forthcoming Events
+Past Events
+Event Series
+Audio and video
+Search all multimedia content
+VideoVox
+Vox Webcasts
+VoxTalks
+Webinar Videos
+About CEPR
+People
+News
+Press
+Governance
+Support CEPR
+Partners
+Jobs at CEPR
+Secondary Menu
+About CEPR
+CEPR Offices
+User account menu
+Log in
+Secondary Menu
+About CEPR
+CEPR Offices
+User account menu
+Log in
+Themes
+Key Themes
+Central Banking
+Climate Change
+Competition Policy
+Development & Growth
+Economic History
+Energy
+EU Economic Architecture
+Inflation
+Political Economy
+Poverty and income inequality
+Women in Economics
+Other Themes
+Business Cycles
+Covid 19
+Exchange Rates
+Finance & Fintech
+Health Economics
+International Finance
+International Trade
+Labour Markets
+Migration
+Monetary Policy
+Productivity and Innovation
+Taxation
+Active Debates
+The Economic Consequences of the War
+EU Economic Policy and Architecture after Covid
+Populism
+Search the site
+Search
+Cookies
+List of cookies that we set and why
+CEPR uses Cookies in order to:
+Assist in controlling access to the CEPR website and its resources where applicable– e.g
+eBooks
+Improve the user experience on the website e.g
+save log in information to avoid you having to log in and out
+Provide information to Google Analytics for website use statistics
+The sections below set out to explain what Cookies are together with how and why CEPR use them
+We list all the cookies that are set on the CEPR website and what information we store in them.
+Please refer to our Privacy Policy if you want further details on how we use your personal information
+This policy may change from time, but if you are accessing this statement from the current version of our website, you are reading the latest version.If you have any questions about our use of Cookies, please email itsupport@cepr.org
+What are Cookies?
+When you visit a website with your mobile or desktop/laptop, you use a Web Browser to render the page and display data on the screen so that you can view and interact with it
+Web Browsers are capable of storing small data files, ‘Cookies’, that can hold a variety of information
+Just about all modern websites use Cookies in order to provide a better browsing experience.
+If the website you are visiting sets the Cookie, it is called a ‘first party cookie’
+The domain is listed when you inspect Cookies and only the host domain that is listed has access to the information in that Cookie
+When you see the domain ‘.cepr.org’ or ‘cepr.org, it is only CEPR (as we own this domain) that has access to the data held in the Cookie.
+‘Third party Cookies’, as the name implies, are those set by Third Party service providers e.g
+Twitter
+Again, if you look at the host domain, it will tell you who set it and who has access to it
+All Cookies are used to record data about the browsing experience and journey.
+Some Cookies are essential to the basic operation of a modern web site
+A good example on the CEPR site is ‘PHPSESSID’
+CEPR sites use the Drupal framework to create the site and Drupal is written in a language called PHP
+The Cookie labelled PHPSESSID stores essential ‘Session’ data used by PHP to manage interaction with the site.
+Do I have to accept control cookies? Can I control them?
+Every person has the right to use the settings in their browser to control Cookies, as well as express your preferences with third party services
+It is therefore possible to accept or reject cookies
+Before doing so, please be sure you understand the impact in respect of your use of the CEPR website.
+If you are concerned about advertising and the CEPR website, please do not be
+We are a non-profit organisation that does not use Cookie data to target advertisements.
+There are other organisations that help you make informed choices about things like targeted advertising and help you ‘opt out’
+Here are a couple of links that you might be interested in exploring, including links to tools for opting out of advertising.
+http://www.aboutads.info  - General information about digital advertising and tools to help you opt outhttp://www.youronlinechoices.com - General information about digital advertising and tools to help you opt outhttps://allaboutdnt.com/ - Information about your browser and ‘Do Not Track’ status and tools.
+Why the CEPR website uses Cookies
+CEPR uses first party Cookies for essential operational reasons
+We need to distinguish anonymous visitors to the website and those users with accounts
+We ensure that registered users are getting the correct information displayed to them and have access to the appropriate resources
+CEPR do not use Cookies for advertising purposes and you should never see adverts displayed on our sites.
+The only Third party cookies used on CEPR websites are those from:
+Google Analytics
+These Cookies are only used to track visitor statistics.
+Twitter
+We display a Twitter block on our site for the CEPR Twitter account
+Please see Twitters policy on the use of Cookies.
+Cookies that we set
+The specific types of first and third party cookies served through our Websites and the purposes they perform are described in further detail below:
+First Party Cookies
+CEPR
+These will be under the domain of .cepr.org and start with cepr_ e.g
+cepr_ident
+ALL of these Cookies are essential to using the website and should be accepted
+It is not possible to use the CEPR website properly without these cookies being present
+They store login and logout information to allow us to properly route and display the correct data for your account.
+Third Party Cookies
+Google
+These will be labelled _gid and _ga and they allow CEPR to track the use of the CEPR website through the Google Analytics service.
+Twitter
+A variety of cookies are used by twitter and any cookie that has the ‘.twitter.com’ or ‘twitter.com’ domain name is set and used by Twitter to track the tweets that are displayed on the front page of the CEPR website.
+Mailchimp
+In order to comply with bulk email legislation (i.e
+rules surrounding sending ‘spam’ emails) , we use a reputable third party ‘Bulk Email’ supplier, MailChimp
+To manage our email lists and ensure they are compliant with GDPR and general 'Anti Spam' regulations worldwide, we track, through MailChimp, the opening of these email through the use of a tracking technology called ‘Web Beacons’
+These beacons are tiny graphic images (‘gifs’) and when they are downloaded, they tell us whether the email has been opened, along with other information like the whether the email was forwarded to a friend using a special link we put in the email.If the automated downloaded of images is not set on the email client, we do not receive this information.
+Themes & Current Issues
+Business Cycles
+Central Banking
+Climate Change
+Competition Policy
+COVID-19
+Development & Growth
+Economic history
+Energy
+EU Economic Architecture
+Exchange Rates
+Finance and Fintech
+Financial Markets
+Financial Regulation and Banking
+Health Economics
+Inflation
+International Finance
+International trade
+Labour Markets
+Migration
+Monetary Policy
+Political Economy
+Poverty and Income Inequality
+Productivity and Innovation
+Taxation
+War in Ukraine
+Women in Economics
+Sign up to our newsletter
+follow us
+Copyright 2021 CEPR / designbysoapbox.com
+Contact Us
+Contact
+Cookies
+Privacy Policy
+We use cookies on this site to enhance your user experienceBy clicking the Accept button, you agree to us doing so.
+More info
+Accept
+No, thanks

@@ -1,0 +1,3457 @@
+<!DOCTYPE html><html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" style="" class=" inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color details no-touchevents js"><head>
+        <!-- Google Tag Manager -->
+    <script src="https://js-agent.newrelic.com/nr-1216.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P6TN6T"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-P6TN6T');</script>
+        <!-- End Google Tag Manager -->
+    <script src="https://www.googleoptimize.com/optimize.js?id=GTM-MQ2ZHTC"></script>
+    <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"4e700b12b6",applicationID:"83144027"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(9),c=t(10),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(11);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(8),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],7:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],8:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],9:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],10:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],11:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(9),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!M++){var t=T.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+T.offset],null,"api"),c("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===m.readyState&&o()}function o(){c("mark",["domContent",a()+T.offset],null,"api")}var a=t(5),c=t("handle"),f=t(9),u=t("ee"),s=t(7),d=t(2),p=t(3),l=d.getConfiguration("ssl")===!1?"http":"https",v=window,m=v.document,g="addEventListener",y="attachEvent",h=v.XMLHttpRequest,w=h&&h.prototype,b=!1;NREUM.o={ST:setTimeout,SI:v.setImmediate,CT:clearTimeout,XHR:h,REQ:v.Request,EV:v.Event,PR:v.Promise,MO:v.MutationObserver};var E=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1216.min.js"},O=h&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),T=e.exports={offset:a.getLastTimestamp(),now:a,origin:E,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(6),m[g]?(m[g]("DOMContentLoaded",o,p(!1)),v[g]("load",r,p(!1))):(m[y]("onreadystatechange",i),v[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var M=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(10),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"categoryLevel1":"Legal Information","categoryLevel2":"How we use cookies","categoryLevel3":"","categoryLevel4":"","categoryLevel5":""});</script>
+<link rel="canonical" href="https://www.alzheimers.org.uk/legal-information/cookies">
+<meta name="description" content="This page contains information about the cookies used by this website and other Alzheimer’s Society online platforms.">
+<link rel="mask-icon" href="/themes/custom/alzheimers/images/icons/safari-pinned-tab.svg">
+<link rel="icon" sizes="16x16" href="/themes/custom/alzheimers/images/icons/favicon-16x16.png">
+<link rel="icon" sizes="32x32" href="/themes/custom/alzheimers/images/icons/favicon-32x32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/alzheimers/images/icons/apple-touch-icon.png">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta property="og:site_name" content="Alzheimer's Society">
+<meta property="og:type" content="Information">
+<meta property="og:title" content="How we use cookies">
+<meta property="og:description" content="This page contains information about the cookies used by this website and other Alzheimer’s Society online platforms.">
+<meta property="og:image" content="https://www.alzheimers.org.uk/sites/default/files/media/images/image/2018-02/alzheimers-logo-desktop.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="This page contains information about the cookies used by this website and other Alzheimer’s Society online platforms.">
+<meta name="twitter:title" content="How we use cookies">
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<script>var ct_check_js_val = 'ddcbef41ff1b9bc2f2e35b1dbbcdc18b';var drupal_ac_antibot_cookie_value = '1fec4e918af53aaa5fc70a68c90db0bb1f42073d708e3d42571db08cb88f4a8e';var ct_use_cookies = 0;var ct_capture_buffer = 0;</script>
+<link rel="icon" href="/themes/custom/alzheimers/images/icons/favicon.ico" type="image/vnd.microsoft.icon">
+
+    <title>How we use cookies | Alzheimer's Society</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_JgZ8JYC8M9Rar6BprolD88P8CBOJiRCX8Tl-BTtA6-A.css">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_qc_cTBbCRH3F57hlSy_lNorC8HqyM7VrwW-6DWWfhy4.css">
+
+    <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7"></script>
+<script src="/core/misc/modernizr-additional-tests.js?v=3.11.7"></script>
+
+  </head>
+  <body class="page--node-39391 page-node-info-page" data-once="b-root form-single-submit detailsAria">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6TN6T"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    
+        
+      <div id="mm-0" class="mm-page mm-slideout"><div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <div class="node--type--info_page has-background-flower has-background-flower--" id="page">
+
+                <header id="region-header" class="region section is-paddingless-vertical">
+    <a class="skip-to-content button" href="#main">Skip to main content</a>
+    <div class="container">
+      
+
+
+  
+
+  <div class="spacer is-6">
+    <div id="block-contente48e9172-472c-4dfe-8aa9-0db127d6f6da" class="block">
+  
+    
+      <div class="pattern--header is-fullwidth-extended" id="site-header">
+  <div class="container">
+    <div class="columns is-mobile">
+              <div class="header--left column is-2-desktop is-3-tablet">
+          <div class="header--brand">
+            <a href="https://www.alzheimers.org.uk/">
+              
+  
+  
+  <div class="pattern--block entity-type--paragraph bundle--image view-mode--block">
+  <div class="image">
+    <img loading="lazy" src="/sites/default/files/styles/logo_desktop/public/media/images/image/2018-02/alzheimers-logo-desktop.png?itok=Xg6ZQpbN" width="500" height="526" alt="Alzheimer's Society">
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+  <div class="pattern--block entity-type--paragraph bundle--image view-mode--block">
+  <div class="image">
+    <img loading="lazy" src="/sites/default/files/styles/logo_desktop/public/media/images/image/2018-02/alzheimers-logo-mobile.png?itok=Tm7t9KGV" width="500" height="214" alt="Alzheimer's Society">
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+            </a>
+          </div>
+        </div>
+      
+              <div class="header--right column">
+                          <div class="header--top">
+                
+  <div class="pattern--block entity-type--paragraph bundle--block view-mode--default">
+  <nav role="navigation" aria-label="Top navigation" id="system-menu-block-top-navigation">
+        
+              <ul id="menu--top-navigation" class="menu--level--first">
+        
+                        
+      <li class="menu-item">
+        <a href="https://shop.alzheimers.org.uk/" data-item-background="blue-navy" data-mobile-main-item="1" title="Shop" class="item-link">Shop</a>
+              </li>
+    
+                        
+      <li class="menu-item">
+        <a href="/about-us/contact-us" data-item-background="blue-navy" title="Contact us" class="item-link" data-drupal-link-system-path="node/311">Contact us</a>
+              </li>
+    
+                        
+      <li class="menu-item">
+        <a href="/dementia-professionals" data-item-background="blue" class="item-link" data-drupal-link-system-path="node/441">Dementia professionals</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+</div>
+
+
+
+
+
+              </div>
+            
+                          <div class="header--main">
+                
+  
+  
+  <div class="pattern--block entity-type--paragraph bundle--helpline-and-talking-point view-mode--block">
+  
+  
+
+
+  
+
+  <div class="spacer is-6">
+    <div id="alzheimers-helpline-talking-point" class="block">
+  
+    
+      <div id="alzheimers-helpline-talking-point">
+  
+
+
+
+
+
+  <div class="pattern--cta-box pattern--cta-box--header-variant">
+            
+          <div class="pattern--cta-box--title">
+              <a href="https://www.alzheimers.org.uk/dementia-connect-support-line">Dementia Connect support line</a>
+          </div>
+  
+          <div class="pattern--cta-box--link">
+      <a href="tel:0333 150 3456" target="_self">0333 150 3456</a>
+    </div>
+  
+      
+  
+  </div>
+
+
+  <div class="hidden">
+    
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+  <div class="pattern--block entity-type--paragraph bundle--block view-mode--default">
+  <div class="views-exposed-form block" data-drupal-selector="views-exposed-form-acquia-search-page" id="views-exposed-filter-blockacquia-search-page">
+  
+    
+      <form action="/search" method="get" id="views-exposed-form-acquia-search-page" accept-charset="UTF-8" data-once="form-updated" data-drupal-form-fields="edit-keywords--2,edit-submit-acquia-search--2">
+  <div class="js-form-item form-item form-type-textfield js-form-type-textfield form-item-keywords js-form-item-keywords field">
+      <label for="edit-keywords--2" class="label">
+      <span class="label-icon"></span>
+      <span class="label-text">Search</span>
+  </label>
+        <input data-drupal-selector="edit-keywords" type="text" id="edit-keywords--2" name="keywords" value="" size="30" maxlength="128" class="form-text text input">
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2">
+<button data-drupal-selector="edit-submit-acquia-search-2" type="submit" id="edit-submit-acquia-search--2" name="Search" value="search" class="button js-form-submit form-submit submit">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 32 32" aria-hidden="true" focusable="false" class="svg-icon search-icon">
+    <path d="M12,4a7.988,7.988,0,0,1,6.517,12.624L17.73,17.73l-1.106.787A8,8,0,1,1,12,4m0-4a12,12,0,1,0,6.943,21.776l9.637,9.637a2,2,0,0,0,2.833-2.833l-9.637-9.637A11.988,11.988,0,0,0,12,0Z"></path>
+  </svg>
+  <span class="visually-hidden">Search</span>
+</button>
+</div>
+
+
+</form>
+
+  </div>
+
+</div>
+
+
+
+
+  
+  
+  <div class="pattern--block entity-type--paragraph bundle--cta view-mode--block">
+  
+  
+
+
+  <a href="/navigation/make-donation" class="pattern--button button button--style--">Donate now</a>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+              </div>
+                    </div>
+          </div>
+  </div>
+</div>
+
+
+  </div>
+
+  </div>
+
+<div id="navigation--main">
+  <nav role="navigation" aria-label="Main navigation" id="system-menu-block-main">
+                      
+    
+
+                  
+          <ul id="menu--main" class="menu--level--first" data-menu-level="0" role="menubar">
+    
+    
+    
+                                                          
+    
+                      
+                                <li class="menu--level--first--item" role="menuitem">
+        
+                                                    <a href="/about-dementia" aria-expanded="false" aria-haspopup="true" class="has-items-below menu--section--link-item" role="menuitem" title="About dementia" data-drupal-link-system-path="node/131">About dementia</a>
+
+                          
+    
+          <div data-menu-level="1" class="menu--level--second menu--section">
+        <ul class="columns is-multiline" role="menu">
+    
+    
+                                                                                                                                                
+          <ul class="menu--sub-section column is-one-fifth">              <li><a href="https://www.alzheimers.org.uk/about-dementia/symptoms-and-diagnosis/memory-loss-dementia-diagnosis" data-mobile-main-item="0" class="menu--sub-section--general-link menu--sub-section--link-item">Worried about memory problems?</a></li>
+                              <li><a href="/about-dementia/five-things-you-should-know-about-dementia" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/22406">Five things you should know about dementia</a></li>
+                              <li><a href="/get-support/publications-factsheets/the-dementia-guide" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/23131">The dementia guide - get your copy</a></li>
+                              <li><a href="https://www.alzheimers.org.uk/get-support/publications-factsheets/caring-person-dementia-practical-guide" title="Caring for a person with dementia: A practical guide" class="menu--sub-section--general-link menu--sub-section--link-item">Guide for carers - get your copy</a></li>
+      </ul>    
+                                                      
+                            
+                            
+                            
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/about-dementia/types-dementia" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Types of dementia" data-drupal-link-system-path="node/271">Types of dementia</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                                    
+    
+                      
+                                <li>
+        
+                              <a href="/about-dementia/types-dementia/what-is-dementia" class="menu--sub-section--link-item" role="menuitem" title="What is dementia?" data-drupal-link-system-path="node/71">What is dementia?</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/types-dementia/alzheimers-disease" class="menu--sub-section--link-item" role="menuitem" title="Alzheimer's disease" data-drupal-link-system-path="node/23931">Alzheimer's disease</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/types-dementia/vascular-dementia" class="menu--sub-section--link-item" role="menuitem" title="Vascular dementia" data-drupal-link-system-path="node/22586">Vascular dementia</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/types-dementia/frontotemporal-dementia" class="menu--sub-section--link-item" role="menuitem" title="Frontotemporal dementia" data-drupal-link-system-path="node/11726">Frontotemporal dementia</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="https://www.alzheimers.org.uk/about-dementia/types-dementia/what-causes-young-onset-dementia" class="menu--sub-section--link-item" role="menuitem" title="Young-onset dementia">Young-onset dementia</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/types-dementia" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/271">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/about-dementia/dementia-symptoms-and-diagnosis" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Symptoms and diagnosis" data-drupal-link-system-path="node/261">Symptoms and diagnosis</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                          
+    
+                      
+                                <li>
+        
+                              <a href="/about-dementia/symptoms-and-diagnosis/symptoms" class="menu--sub-section--link-item" role="menuitem" title="Dementia symptoms" data-drupal-link-system-path="node/681">Dementia symptoms</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/symptoms-and-diagnosis/dementia-diagnosis" class="menu--sub-section--link-item" role="menuitem" title="Dementia diagnosis" data-drupal-link-system-path="node/671">Dementia diagnosis</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="https://www.alzheimers.org.uk/about-dementia/symptoms-and-diagnosis/how-dementia-progresses/progression-stages-dementia" class="menu--sub-section--link-item" role="menuitem" title="Stages of dementia">Stages of dementia</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/symptoms-and-diagnosis/how-dementia-progresses/later-stages-dementia" class="menu--sub-section--link-item" role="menuitem" title="Later stages of dementia" data-drupal-link-system-path="node/39651">Later stages of dementia</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/dementia-symptoms-and-diagnosis" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/261">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/about-dementia/treatments" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Treatments" data-drupal-link-system-path="node/266">Treatments</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                          
+    
+                      
+                                <li>
+        
+                              <a href="/about-dementia/treatments/dementia-drugs" class="menu--sub-section--link-item" role="menuitem" title="Dementia drugs" data-drupal-link-system-path="node/686">Dementia drugs</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/treatments/alternative-therapies-dementia" class="menu--sub-section--link-item" role="menuitem" title="Alternative therapies" data-drupal-link-system-path="node/296">Alternative therapies</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/symptoms-and-diagnosis/talking-therapies" class="menu--sub-section--link-item" role="menuitem" title="Talking therapies" data-drupal-link-system-path="node/22896">Talking therapies</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/treatments/person-centred-care" class="menu--sub-section--link-item" role="menuitem" title="Person-centred care" data-drupal-link-system-path="node/24261">Person-centred care</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/treatments" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/266">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                                                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/about-dementia/dementia-risk-factors-and-prevention" data-mobile-main-item="0" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Risk factors and prevention" data-drupal-link-system-path="node/256">Risk factors and prevention</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                
+    
+                      
+                                <li>
+        
+                              <a href="/about-dementia/risk-factors-and-prevention/how-reduce-your-risk-alzheimers-and-other-dementias" class="menu--sub-section--link-item" role="menuitem" title="How to reduce your risk of dementia" data-drupal-link-system-path="node/10956">How to reduce your risk of dementia</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-dementia/risk-factors-and-prevention/what-can-increase-persons-risk-of-dementia" class="menu--sub-section--link-item" role="menuitem" title="What increases dementia risk?" data-drupal-link-system-path="node/10871">What increases dementia risk?</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="https://www.alzheimers.org.uk/about-dementia/risk-factors-and-prevention/is-dementia-hereditary" class="menu--sub-section--link-item" role="menuitem" title="Is dementia hereditary?">Is dementia hereditary?</a>
+
+                  </li>
+                                                            
+                                <li>
+        
+                              <a href="https://www.alzheimers.org.uk/about-dementia/dementia-risk-factors-and-prevention" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="More..">More..</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+          
+    
+            </ul>
+      </div>
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--level--first--item" role="menuitem">
+        
+                                                    <a href="/get-support" aria-expanded="false" aria-haspopup="true" class="has-items-below menu--section--link-item" role="menuitem" title="Get support" data-drupal-link-system-path="node/211">Get support</a>
+
+                          
+    
+          <div data-menu-level="1" class="menu--level--second menu--section">
+        <ul class="columns is-multiline" role="menu">
+    
+    
+                                                                                                                                                                                                                        
+          <ul class="menu--sub-section column is-one-fifth">              <li><a href="/find-support-near-you" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/86">Find support near you</a></li>
+                              <li><a href="/get-support/publications-factsheets" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/341">Publications and factsheets</a></li>
+                              <li><a href="/get-support/publications-factsheets/accessible-resources" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/391">Accessible resources</a></li>
+                              <li><a href="/get-support/your-dementia-support-services" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/371">Your support services</a></li>
+                              <li><a href="/get-support/dementia-talking-point-our-online-community" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/346">Online community</a></li>
+                              <li><a href="/get-support/publications-and-factsheets/dementia-together" title="Read Dementia together magazine" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/41846">Dementia together magazine</a></li>
+                              <li><a href="/get-support/cost-living-support-dementia" data-mobile-main-item="0" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/43776">Cost of living support</a></li>
+      </ul>    
+                      
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/get-support/daily-living" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Daily living" data-drupal-link-system-path="node/161">Daily living</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                
+    
+                      
+                                <li>
+        
+                              <a href="/get-support/daily-living/toilet-problems-continence" class="menu--sub-section--link-item" role="menuitem" title="Toilet problems and continence" data-drupal-link-system-path="node/23306">Toilet problems and continence</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/daily-living/washing-dressing" class="menu--sub-section--link-item" role="menuitem" title="Washing and bathing" data-drupal-link-system-path="node/11116">Washing and bathing</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/daily-living/eating-drinking" class="menu--sub-section--link-item" role="menuitem" title="Eating and drinking" data-drupal-link-system-path="node/22691">Eating and drinking</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/daily-living" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/161">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/get-support/help-dementia-care" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Help with care" data-drupal-link-system-path="node/226">Help with care</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                                    
+    
+                      
+                                <li>
+        
+                              <a href="/get-support/help-dementia-care/going-into-hospital" class="menu--sub-section--link-item" role="menuitem" title="Dementia hospital care" data-drupal-link-system-path="node/26961">Dementia hospital care</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/help-dementia-care/care-homes-who-decides-when" class="menu--sub-section--link-item" role="menuitem" title="Care homes" data-drupal-link-system-path="node/29816">Care homes</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/help-dementia-care/looking-after-yourself" class="menu--sub-section--link-item" role="menuitem" title="Carers: looking after yourself" data-drupal-link-system-path="node/23066">Carers: looking after yourself</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/help-dementia-care/end-life-care-dementia" class="menu--sub-section--link-item" role="menuitem" title="Dementia end of life care" data-drupal-link-system-path="node/23746">Dementia end of life care</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/help-dementia-care/health-and-social-care-professionals" class="menu--sub-section--link-item" role="menuitem" title="Health and social care professionals" data-drupal-link-system-path="node/11746">Health and social care professionals</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/help-dementia-care" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/226">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/get-support/staying-independent" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Staying independent" data-drupal-link-system-path="node/236">Staying independent</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                
+    
+                      
+                                <li>
+        
+                              <a href="/get-support/staying-independent/driving-dementia" class="menu--sub-section--link-item" role="menuitem" title="Driving" data-drupal-link-system-path="node/11431">Driving</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/staying-independent/what-equipment-improve-adapt-home-person-dementia" class="menu--sub-section--link-item" role="menuitem" title="Equipment, adaptations and improvements to the home" data-drupal-link-system-path="node/38491">Equipment, adaptations and improvements to the home</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/staying-independent/using-technology-everyday-life" class="menu--sub-section--link-item" role="menuitem" title="Using technology to help with everyday life" data-drupal-link-system-path="node/23246">Using technology to help with everyday life</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/staying-independent" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/236">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/get-support/legal-financial" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Legal and financial" data-drupal-link-system-path="node/231">Legal and financial</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                          
+    
+                      
+                                <li>
+        
+                              <a href="/get-support/legal-financial/who-pays-care" class="menu--sub-section--link-item" role="menuitem" title="Paying for care" data-drupal-link-system-path="node/24081">Paying for care</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/legal-financial/benefits-dementia" class="menu--sub-section--link-item" role="menuitem" title="Benefits for people affected by dementia" data-drupal-link-system-path="node/11336">Benefits for people affected by dementia</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/legal-financial/lasting-power-attorney" class="menu--sub-section--link-item" role="menuitem" title="Lasting power of attorney" data-drupal-link-system-path="node/23286">Lasting power of attorney</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/legal-financial/deprivation-liberty-safeguards-dols" class="menu--sub-section--link-item" role="menuitem" title="Deprivation of Liberty Safeguards" data-drupal-link-system-path="node/23631">Deprivation of Liberty Safeguards</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-support/legal-financial" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/231">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                            
+                            
+                            
+                            
+                                                            
+          
+    
+            </ul>
+      </div>
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--level--first--item" role="menuitem">
+        
+                                                    <a href="/get-involved" aria-expanded="false" aria-haspopup="true" class="has-items-below menu--section--link-item" role="menuitem" title="Get involved" data-drupal-link-system-path="node/191">Get involved</a>
+
+                          
+    
+          <div data-menu-level="1" class="menu--level--second menu--section">
+        <ul class="columns is-multiline" role="menu">
+    
+    
+                                                          
+    
+                      
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/get-involved/make-a-donation" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Donate" data-drupal-link-system-path="node/186">Donate</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                                    
+    
+                                                      
+                                <li>
+        
+                              <a href="https://www.alzheimers.org.uk/get-involved/make-donation" data-mobile-main-item="0" title="Make a donation" class="menu--sub-section--link-item" role="menuitem">Make a donation</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/make-donation/leave-gift-your-will" class="menu--sub-section--link-item" role="menuitem" title="Leave a gift in your Will" data-drupal-link-system-path="node/596">Leave a gift in your Will</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/donate/give-celebration" class="menu--sub-section--link-item" role="menuitem" title="Give in celebration" data-drupal-link-system-path="node/646">Give in celebration</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/make-donation/ways-to-give-in-memory" class="menu--sub-section--link-item" role="menuitem" title="Ways to give in memory" data-drupal-link-system-path="node/25901">Ways to give in memory</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/lottery" class="menu--sub-section--link-item" role="menuitem" title="The Big Win Weekly Lottery" data-drupal-link-system-path="node/37301">The Big Win Weekly Lottery</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/make-donation/donate-more-ways" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/651">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/get-involved/events-and-fundraising" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Events and fundraising" data-drupal-link-system-path="node/156">Events and fundraising</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                          
+    
+                      
+                                <li>
+        
+                              <a href="/get-involved/events-and-fundraising/join-event" class="menu--sub-section--link-item" role="menuitem" title="Join an event" data-drupal-link-system-path="node/591">Join an event</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/events-and-fundraising/organise-your-own-fundraising" class="menu--sub-section--link-item" role="menuitem" title="Organise your own fundraising" data-drupal-link-system-path="node/10721">Organise your own fundraising</a>
+
+                  </li>
+                                                            
+                                <li>
+        
+                              <a href="/about-us/our-people/our-corporate-partnerships" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Corporate partnerships" data-drupal-link-system-path="node/331">Corporate partnerships</a>
+
+                  </li>
+                                                            
+                                <li>
+        
+                              <a href="https://alzheimersevents.org.uk/ps/event/OYOFundraisingPack2022" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Request your fundraising pack">Request your fundraising pack</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/events-and-fundraising" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/156">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/get-involved/our-campaigns" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Campaign with us" data-drupal-link-system-path="node/176">Campaign with us</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                          
+    
+                                                      
+                                <li>
+        
+                              <a href="/get-involved/our-campaigns/quality-social-care" data-mobile-main-item="0" title="Quality social care" class="menu--sub-section--link-item" role="menuitem" data-drupal-link-system-path="node/40401">Quality social care</a>
+
+                  </li>
+                                                            
+                                <li>
+        
+                              <a href="https://www.alzheimers.org.uk/get-involved/our-campaigns/improve-dementia-diagnosis" data-mobile-main-item="0" title="Improve dementia diagnosis" class="menu--sub-section--link-item" role="menuitem">Improve dementia diagnosis</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/our-campaigns/campaigns-wales" class="menu--sub-section--link-item" role="menuitem" title="Wales" data-drupal-link-system-path="node/401">Wales</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/our-campaigns/campaigns-in-NI" class="menu--sub-section--link-item" role="menuitem" title="Northern Ireland" data-drupal-link-system-path="node/406">Northern Ireland</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/our-campaigns" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/176">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/get-involved/volunteering" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Volunteer" data-drupal-link-system-path="node/166">Volunteer</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                
+    
+                      
+                                <li>
+        
+                              <a href="/get-involved/volunteering/ways-volunteer" class="menu--sub-section--link-item" role="menuitem" title="Ways to volunteer" data-drupal-link-system-path="node/336">Ways to volunteer</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/volunteering/ways-volunteer/support-dementia-services" class="menu--sub-section--link-item" role="menuitem" title="Support our dementia services" data-drupal-link-system-path="node/22866">Support our dementia services</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/dementia-voice" class="menu--sub-section--link-item" role="menuitem" title="Take part in Dementia Voice opportunities" data-drupal-link-system-path="node/691">Take part in Dementia Voice opportunities</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/volunteering" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/166">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/get-involved/dementia-friendly-communities" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Dementia Friendly Communities" data-drupal-link-system-path="node/181">Dementia Friendly Communities</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                          
+    
+                      
+                                <li>
+        
+                              <a href="/get-involved/dementia-friendly-communities/making-your-community-more-dementia-friendly" class="menu--sub-section--link-item" role="menuitem" title="Making your community dementia friendly" data-drupal-link-system-path="node/426">Making your community dementia friendly</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/dementia-friendly-communities/dementia-teaching-resources" class="menu--sub-section--link-item" role="menuitem" title="Dementia teaching resources" data-drupal-link-system-path="node/35661">Dementia teaching resources</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/dementia-friendly-communities/make-your-organisation-more-dementia-friendly" class="menu--sub-section--link-item" role="menuitem" title="Make your organisation more dementia friendly" data-drupal-link-system-path="node/436">Make your organisation more dementia friendly</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/dementia-professionals/external-training" class="menu--sub-section--link-item" role="menuitem" title="External training" data-drupal-link-system-path="node/446">External training</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/get-involved/dementia-friendly-communities" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/181">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+          
+    
+            </ul>
+      </div>
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--level--first--item" role="menuitem">
+        
+                                                    <a href="/research" aria-expanded="false" aria-haspopup="true" class="has-items-below menu--section--link-item" role="menuitem" title="Research" data-drupal-link-system-path="node/216">Research</a>
+
+                          
+    
+          <div data-menu-level="1" class="menu--level--second menu--section">
+        <ul class="columns is-multiline" role="menu">
+    
+    
+                                                                                                                                      
+          <ul class="menu--sub-section column is-one-fifth">              <li><a href="/research/our-research/research-projects/current-projects" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/25921">Current projects</a></li>
+                              <li><a href="/about-dementia/dementia-risk-factors-and-prevention" data-mobile-main-item="0" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/256">Research on risk factors and prevention</a></li>
+                              <li><a href="/research/our-research/dementia-innovation" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/30996">Research innovation</a></li>
+                              <li><a href="/research/news-for-researchers" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/34786">News for researchers</a></li>
+      </ul>    
+                      
+                                                            
+                            
+                            
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/research/our-research" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Our research" data-drupal-link-system-path="node/251">Our research</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                
+    
+                      
+                                <li>
+        
+                              <a href="/research/our-research/why-do-we-fund-research" class="menu--sub-section--link-item" role="menuitem" title="Why do we fund research?" data-drupal-link-system-path="node/721">Why do we fund research?</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/research/our-research/what-research-alzheimers-society-funding" class="menu--sub-section--link-item" role="menuitem" title="Research we are funding" data-drupal-link-system-path="node/711">Research we are funding</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/research/our-research/research-strategy/governance" class="menu--sub-section--link-item" role="menuitem" title="How do we fund research?" data-drupal-link-system-path="node/29486">How do we fund research?</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/research/our-research" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/251">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/research/get-involved" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Get involved in research" data-drupal-link-system-path="node/246">Get involved in research</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                
+    
+                      
+                                <li>
+        
+                              <a href="/research/take-part-research/join-dementia-research" class="menu--sub-section--link-item" role="menuitem" title="Join Dementia Research" data-drupal-link-system-path="node/25401">Join Dementia Research</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/research/get-involved/our-research-network-volunteers" class="menu--sub-section--link-item" role="menuitem" title="Our Research Network volunteers" data-drupal-link-system-path="node/32576">Our Research Network volunteers</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/research/take-part-research/videos" class="menu--sub-section--link-item" role="menuitem" title="What’s it like to take part in research?" data-drupal-link-system-path="node/27181">What’s it like to take part in research?</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/research/get-involved" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/246">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/research/researchers" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="For researchers" data-drupal-link-system-path="node/241">For researchers</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                
+    
+                                                      
+                                <li>
+        
+                              <a href="/research/researchers/why-dementia-researchers-should-apply-our-grants-funding-schemes" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Why apply to us" data-drupal-link-system-path="node/43271">Why apply to us</a>
+
+                  </li>
+                                                            
+                                <li>
+        
+                              <a href="/research/researchers/grants" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Our research grants" data-drupal-link-system-path="node/25856">Our research grants</a>
+
+                  </li>
+                                                            
+                                <li>
+        
+                              <a href="/research/researchers/manage-your-grant" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Manage your grant" data-drupal-link-system-path="node/25286">Manage your grant</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/research/researchers" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/241">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+          
+    
+            </ul>
+      </div>
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--level--first--item" role="menuitem">
+        
+                                                    <a href="/about-us" aria-expanded="false" aria-haspopup="true" class="has-items-below menu--section--link-item" role="menuitem" title="About us" data-drupal-link-system-path="node/221">About us</a>
+
+                          
+    
+          <div data-menu-level="1" class="menu--level--second menu--section">
+        <ul class="columns is-multiline" role="menu">
+    
+    
+                                                                                                                                                                                                
+          <ul class="menu--sub-section column is-one-fifth">              <li><a href="/about-us/contact-us" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/311">Contact us</a></li>
+                              <li><a href="/about-us/who-we-are" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/29336">Who we are</a></li>
+                              <li><a href="/about-us/how-your-money-helps" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/24646">How your money helps</a></li>
+                              <li><a href="/about-us/working-us" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/696">Working for us</a></li>
+                              <li><a href="/about-us/wales" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/19391">Wales</a></li>
+                              <li><a href="/about-us/alzheimers-society-northern-ireland" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/19396">Northern Ireland</a></li>
+      </ul>    
+                      
+                            
+                            
+                            
+                            
+                            
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/about-us/our-dementia-programmes" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Our dementia programmes" data-drupal-link-system-path="node/286">Our dementia programmes</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                
+    
+                                                      
+                                <li>
+        
+                              <a href="/get-involved/time-dementia-programme" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Time for Dementia programme" data-drupal-link-system-path="node/41111">Time for Dementia programme</a>
+
+                  </li>
+                                                            
+                                <li>
+        
+                              <a href="/get-involved/dementia-voice" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Dementia Voice" data-drupal-link-system-path="node/691">Dementia Voice</a>
+
+                  </li>
+                                                            
+                                <li>
+        
+                              <a href="/about-us/our-dementia-programmes/carer-information-support-programme" data-mobile-main-item="0" title="Carer Information and Support Programme" class="menu--sub-section--link-item" role="menuitem" data-drupal-link-system-path="node/40916">Carer Information and Support Programme</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-us/our-dementia-programmes" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/286">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/about-us/our-people" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Our people" data-drupal-link-system-path="node/276">Our people</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                
+    
+                      
+                                <li>
+        
+                              <a href="/about-us/our-people/ambassadors" title="Ambassadors" class="menu--sub-section--link-item" role="menuitem" data-drupal-link-system-path="node/39891">Ambassadors</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-us/our-people/vice-presidents-patrons" class="menu--sub-section--link-item" role="menuitem" title="Vice-Presidents and Patrons" data-drupal-link-system-path="node/40581">Vice-Presidents and Patrons</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-us/our-people/trustees" class="menu--sub-section--link-item" role="menuitem" title="Trustees" data-drupal-link-system-path="node/40961">Trustees</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-us/our-people" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/276">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/about-us/policy-and-influencing" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Policy and influencing" data-drupal-link-system-path="node/141">Policy and influencing</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                
+    
+                      
+                                <li>
+        
+                              <a href="/about-us/policy-and-influencing/what-we-think" class="menu--sub-section--link-item" role="menuitem" title="What we think" data-drupal-link-system-path="node/24796">What we think</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-us/policy-and-influencing/national-policies" class="menu--sub-section--link-item" role="menuitem" title="National policies" data-drupal-link-system-path="node/501">National policies</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-us/policy-and-influencing/all-party-parliamentary-group-dementia" class="menu--sub-section--link-item" role="menuitem" title="All-Party Parliamentary Group on Dementia" data-drupal-link-system-path="node/31056">All-Party Parliamentary Group on Dementia</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-us/policy-and-influencing" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/141">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section column is-one-fifth">
+        
+                              <a href="/about-us/news-and-media" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="News and media" data-drupal-link-system-path="node/281">News and media</a>
+
+                          
+    
+    
+          <ul data-menu-level="2" class="menu--level--third">
+    
+                                                
+    
+                      
+                                <li>
+        
+                              <a href="/blog" title="Read our blog" class="menu--sub-section--link-item" role="menuitem" data-drupal-link-system-path="node/29521">Read our blog</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-us/news-and-media/latest-news" class="menu--sub-section--link-item" role="menuitem" title="Latest news" data-drupal-link-system-path="node/31001">Latest news</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-us/news-and-media/audio-and-video" class="menu--sub-section--link-item" role="menuitem" title="Audio and video" data-drupal-link-system-path="node/306">Audio and video</a>
+
+                  </li>
+                            
+                                <li>
+        
+                              <a href="/about-us/news-and-media" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/281">More...</a>
+
+                  </li>
+          
+          </ul>
+    
+    
+    
+  
+                  </li>
+          
+    
+            </ul>
+      </div>
+    
+    
+  
+                  </li>
+          
+    
+    
+          </ul>
+    
+  
+
+
+      </nav>
+  <nav id="mobile-nav" aria-label="Main mobile navigation">
+    <div id="menu--main--mobile" class="mobile-menu is-fullwidth-extended">
+      <button class="mobile-menu--trigger" aria-expanded="false">
+        See menu
+      </button><div class="mobile-menu--moved-link top-navigation--item"><a href="https://shop.alzheimers.org.uk/" data-item-background="blue-navy" data-mobile-main-item="1" title="Shop" class="item-link menu--section--link-item menu-item-name--shop">Shop</a></div>
+
+      <button class="mobile-menu--helpline" aria-expanded="false" aria-controls="mobile-menu-helpline--dropdown" role="button">
+        <span class="icon">
+          <i class="icon-phone"></i>
+        </span>
+        <span class="mobile-menu--helpline--text">Support line</span>
+      </button>
+
+      <div id="mobile-menu-helpline--dropdown" class="mobile-menu--helpline--dropdown has-text-centered">
+      <div class="mobile-version">
+      <p class="helpline-title">Dementia Connect support line</p>
+      <a href="/navigation/national-dementia-helpline" class="helpline-label">
+        Contact our <span class="helpline-link">Dementia Connect support line</span> for information, support and advice.
+      </a>
+      <a href="tel:0333 150 3456" class="helpline-number">0333 150 3456</a>
+    </div></div>
+
+      <button class="mobile-menu--search" aria-expanded="false" aria-controls="mobile-menu--search--dropdown" role="button">
+        <span class="icon">
+          <i class="icon-search"></i>
+        </span>
+        <span class="mobile-menu--search--text">Search</span>
+      </button>
+
+      <div id="mobile-menu--search--dropdown" class="mobile-menu--search--dropdown"><form action="/search" method="get" id="views-exposed-form-acquia-search-page" accept-charset="UTF-8" data-once="form-updated" data-drupal-form-fields="edit-keywords--2,edit-submit-acquia-search--2">
+  <div class="js-form-item form-item form-type-textfield js-form-type-textfield form-item-keywords js-form-item-keywords field">
+      <label for="edit-keywords--2" class="label">
+      <span class="label-icon"></span>
+      <span class="label-text">Search</span>
+  </label>
+        <input data-drupal-selector="edit-keywords" type="text" id="edit-keywords--2" name="keywords" value="" size="30" maxlength="128" class="form-text text input">
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2">
+<button data-drupal-selector="edit-submit-acquia-search-2" type="submit" id="edit-submit-acquia-search--2" name="Search" value="search" class="button js-form-submit form-submit submit">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 32 32" aria-hidden="true" focusable="false" class="svg-icon search-icon">
+    <path d="M12,4a7.988,7.988,0,0,1,6.517,12.624L17.73,17.73l-1.106.787A8,8,0,1,1,12,4m0-4a12,12,0,1,0,6.943,21.776l9.637,9.637a2,2,0,0,0,2.833-2.833l-9.637-9.637A11.988,11.988,0,0,0,12,0Z"></path>
+  </svg>
+  <span class="visually-hidden">Search</span>
+</button>
+</div>
+
+
+</form></div>
+    <nav role="navigation" aria-label="Main navigation" id="mm-system-menu-block-main" class="mm-menu mm-menu_offcanvas mm-menu_autoheight mm-menu_keyboardfocus mm-menu_fx-panels-zoom mm-menu_border-full" aria-hidden="true"><button class="mm-tabstart" tabindex="0" type="button" aria-hidden="true" role="presentation"></button><div class="mm-panels"><div id="mm-menu--main" class="mm-panel mm-panel_opened"><div class="mm-navbar" aria-hidden="true"><a class="mm-navbar__title">Menu</a></div><ul class="menu--level--first mm-listview" data-menu-level="0" role="menubar">
+    
+    
+    
+                                                          
+    
+                      
+                                <li class="menu--level--first--item mm-listitem" role="menuitem">
+        
+                                                    <a class="mm-btn_next mm-btn_fullwidth" href="#mm-1"><span class="mm-sronly">Open submenu (About dementia)</span></a><a href="/about-dementia" aria-expanded="false" aria-haspopup="true" class="has-items-below menu--section--link-item" role="menuitem" title="About dementia" data-drupal-link-system-path="node/131">About dementia</a>
+
+                          
+    
+          
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--level--first--item mm-listitem" role="menuitem">
+        
+                                                    <a class="mm-btn_next mm-btn_fullwidth" href="#mm-6"><span class="mm-sronly">Open submenu (Get support)</span></a><a href="/get-support" aria-expanded="false" aria-haspopup="true" class="has-items-below menu--section--link-item" role="menuitem" title="Get support" data-drupal-link-system-path="node/211">Get support</a>
+
+                          
+    
+          
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--level--first--item mm-listitem" role="menuitem">
+        
+                                                    <a class="mm-btn_next mm-btn_fullwidth" href="#mm-11"><span class="mm-sronly">Open submenu (Get involved)</span></a><a href="/get-involved" aria-expanded="false" aria-haspopup="true" class="has-items-below menu--section--link-item" role="menuitem" title="Get involved" data-drupal-link-system-path="node/191">Get involved</a>
+
+                          
+    
+          
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--level--first--item mm-listitem" role="menuitem">
+        
+                                                    <a class="mm-btn_next mm-btn_fullwidth" href="#mm-17"><span class="mm-sronly">Open submenu (Research)</span></a><a href="/research" aria-expanded="false" aria-haspopup="true" class="has-items-below menu--section--link-item" role="menuitem" title="Research" data-drupal-link-system-path="node/216">Research</a>
+
+                          
+    
+          
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--level--first--item mm-listitem" role="menuitem">
+        
+                                                    <a class="mm-btn_next mm-btn_fullwidth" href="#mm-21"><span class="mm-sronly">Open submenu (About us)</span></a><a href="/about-us" aria-expanded="false" aria-haspopup="true" class="has-items-below menu--section--link-item" role="menuitem" title="About us" data-drupal-link-system-path="node/221">About us</a>
+
+                          
+    
+          
+    
+    
+  
+                  </li>
+          
+    
+    
+          <li class="menu-item menu--level--first--item top-navigation--item mm-listitem">
+        <a href="https://shop.alzheimers.org.uk/" data-item-background="blue-navy" data-mobile-main-item="1" title="Shop" class="item-link menu--section--link-item">Shop</a>
+              </li><li class="menu-item menu--level--first--item top-navigation--item mm-listitem">
+        <a href="/about-us/contact-us" data-item-background="blue-navy" title="Contact us" class="item-link menu--section--link-item" data-drupal-link-system-path="node/311">Contact us</a>
+              </li><li class="menu-item menu--level--first--item top-navigation--item mm-listitem">
+        <a href="/dementia-professionals" data-item-background="blue" class="item-link menu--section--link-item" data-drupal-link-system-path="node/441">Dementia professionals</a>
+              </li></ul></div><div data-menu-level="1" class="menu--level--second menu--section mm-panel mm-hidden" id="mm-1" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-menu--main" aria-owns="mm-menu--main" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-menu--main">About dementia</a></div>
+        <ul class="is-multiline mm-listview" role="menu"><li class="menu--sub-section mm-listitem"><a href="/about-dementia" aria-expanded="false" aria-haspopup="true" class="menu--sub-section--parent-link-item" role="menuitem" title="About dementia" data-drupal-link-system-path="node/131">About dementia</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-menu--main" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+    
+                                                                                                                                                
+          <ul class="menu--sub-section is-one-fifth">              <li class="mm-listitem"><a href="https://www.alzheimers.org.uk/about-dementia/symptoms-and-diagnosis/memory-loss-dementia-diagnosis" data-mobile-main-item="0" class="menu--sub-section--general-link menu--sub-section--link-item">Worried about memory problems?</a></li>
+                              <li class="mm-listitem"><a href="/about-dementia/five-things-you-should-know-about-dementia" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/22406">Five things you should know about dementia</a></li>
+                              <li class="mm-listitem"><a href="/get-support/publications-factsheets/the-dementia-guide" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/23131">The dementia guide - get your copy</a></li>
+                              <li class="mm-listitem"><a href="https://www.alzheimers.org.uk/get-support/publications-factsheets/caring-person-dementia-practical-guide" title="Caring for a person with dementia: A practical guide" class="menu--sub-section--general-link menu--sub-section--link-item">Guide for carers - get your copy</a></li>
+      </ul>    
+                                                      
+                            
+                            
+                            
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-2"><span class="mm-sronly">Open submenu (Types of dementia)</span></a><a href="/about-dementia/types-dementia" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Types of dementia" data-drupal-link-system-path="node/271">Types of dementia</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-3"><span class="mm-sronly">Open submenu (Symptoms and diagnosis)</span></a><a href="/about-dementia/dementia-symptoms-and-diagnosis" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Symptoms and diagnosis" data-drupal-link-system-path="node/261">Symptoms and diagnosis</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-4"><span class="mm-sronly">Open submenu (Treatments)</span></a><a href="/about-dementia/treatments" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Treatments" data-drupal-link-system-path="node/266">Treatments</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                                                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-5"><span class="mm-sronly">Open submenu (Risk factors and prevention)</span></a><a href="/about-dementia/dementia-risk-factors-and-prevention" data-mobile-main-item="0" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Risk factors and prevention" data-drupal-link-system-path="node/256">Risk factors and prevention</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+          
+    
+            </ul>
+      </div><div id="mm-2" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-1" aria-owns="mm-1" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-1">Types of dementia</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/about-dementia/types-dementia" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Types of dementia" data-drupal-link-system-path="node/271">Types of dementia</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-1" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                                    
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/types-dementia/what-is-dementia" class="menu--sub-section--link-item" role="menuitem" title="What is dementia?" data-drupal-link-system-path="node/71">What is dementia?</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/types-dementia/alzheimers-disease" class="menu--sub-section--link-item" role="menuitem" title="Alzheimer's disease" data-drupal-link-system-path="node/23931">Alzheimer's disease</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/types-dementia/vascular-dementia" class="menu--sub-section--link-item" role="menuitem" title="Vascular dementia" data-drupal-link-system-path="node/22586">Vascular dementia</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/types-dementia/frontotemporal-dementia" class="menu--sub-section--link-item" role="menuitem" title="Frontotemporal dementia" data-drupal-link-system-path="node/11726">Frontotemporal dementia</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="https://www.alzheimers.org.uk/about-dementia/types-dementia/what-causes-young-onset-dementia" class="menu--sub-section--link-item" role="menuitem" title="Young-onset dementia">Young-onset dementia</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/types-dementia" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/271">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-3" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-1" aria-owns="mm-1" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-1">Symptoms and diagnosis</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/about-dementia/dementia-symptoms-and-diagnosis" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Symptoms and diagnosis" data-drupal-link-system-path="node/261">Symptoms and diagnosis</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-1" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                          
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/symptoms-and-diagnosis/symptoms" class="menu--sub-section--link-item" role="menuitem" title="Dementia symptoms" data-drupal-link-system-path="node/681">Dementia symptoms</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/symptoms-and-diagnosis/dementia-diagnosis" class="menu--sub-section--link-item" role="menuitem" title="Dementia diagnosis" data-drupal-link-system-path="node/671">Dementia diagnosis</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="https://www.alzheimers.org.uk/about-dementia/symptoms-and-diagnosis/how-dementia-progresses/progression-stages-dementia" class="menu--sub-section--link-item" role="menuitem" title="Stages of dementia">Stages of dementia</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/symptoms-and-diagnosis/how-dementia-progresses/later-stages-dementia" class="menu--sub-section--link-item" role="menuitem" title="Later stages of dementia" data-drupal-link-system-path="node/39651">Later stages of dementia</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/dementia-symptoms-and-diagnosis" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/261">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-4" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-1" aria-owns="mm-1" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-1">Treatments</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/about-dementia/treatments" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Treatments" data-drupal-link-system-path="node/266">Treatments</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-1" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                          
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/treatments/dementia-drugs" class="menu--sub-section--link-item" role="menuitem" title="Dementia drugs" data-drupal-link-system-path="node/686">Dementia drugs</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/treatments/alternative-therapies-dementia" class="menu--sub-section--link-item" role="menuitem" title="Alternative therapies" data-drupal-link-system-path="node/296">Alternative therapies</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/symptoms-and-diagnosis/talking-therapies" class="menu--sub-section--link-item" role="menuitem" title="Talking therapies" data-drupal-link-system-path="node/22896">Talking therapies</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/treatments/person-centred-care" class="menu--sub-section--link-item" role="menuitem" title="Person-centred care" data-drupal-link-system-path="node/24261">Person-centred care</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/treatments" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/266">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-5" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-1" aria-owns="mm-1" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-1">Risk factors and prevention</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/about-dementia/dementia-risk-factors-and-prevention" data-mobile-main-item="0" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Risk factors and prevention" data-drupal-link-system-path="node/256">Risk factors and prevention</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-1" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/risk-factors-and-prevention/how-reduce-your-risk-alzheimers-and-other-dementias" class="menu--sub-section--link-item" role="menuitem" title="How to reduce your risk of dementia" data-drupal-link-system-path="node/10956">How to reduce your risk of dementia</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-dementia/risk-factors-and-prevention/what-can-increase-persons-risk-of-dementia" class="menu--sub-section--link-item" role="menuitem" title="What increases dementia risk?" data-drupal-link-system-path="node/10871">What increases dementia risk?</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="https://www.alzheimers.org.uk/about-dementia/risk-factors-and-prevention/is-dementia-hereditary" class="menu--sub-section--link-item" role="menuitem" title="Is dementia hereditary?">Is dementia hereditary?</a>
+
+                  </li>
+                                                            
+                                <li class="mm-listitem">
+        
+                              <a href="https://www.alzheimers.org.uk/about-dementia/dementia-risk-factors-and-prevention" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="More..">More..</a>
+
+                  </li>
+          
+          </ul></div><div data-menu-level="1" class="menu--level--second menu--section mm-panel mm-hidden" id="mm-6" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-menu--main" aria-owns="mm-menu--main" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-menu--main">Get support</a></div>
+        <ul class="is-multiline mm-listview" role="menu"><li class="menu--sub-section mm-listitem"><a href="/get-support" aria-expanded="false" aria-haspopup="true" class="menu--sub-section--parent-link-item" role="menuitem" title="Get support" data-drupal-link-system-path="node/211">Get support</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-menu--main" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+    
+                                                                                                                                                                                                                        
+          <ul class="menu--sub-section is-one-fifth">              <li class="mm-listitem"><a href="/find-support-near-you" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/86">Find support near you</a></li>
+                              <li class="mm-listitem"><a href="/get-support/publications-factsheets" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/341">Publications and factsheets</a></li>
+                              <li class="mm-listitem"><a href="/get-support/publications-factsheets/accessible-resources" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/391">Accessible resources</a></li>
+                              <li class="mm-listitem"><a href="/get-support/your-dementia-support-services" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/371">Your support services</a></li>
+                              <li class="mm-listitem"><a href="/get-support/dementia-talking-point-our-online-community" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/346">Online community</a></li>
+                              <li class="mm-listitem"><a href="/get-support/publications-and-factsheets/dementia-together" title="Read Dementia together magazine" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/41846">Dementia together magazine</a></li>
+                              <li class="mm-listitem"><a href="/get-support/cost-living-support-dementia" data-mobile-main-item="0" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/43776">Cost of living support</a></li>
+      </ul>    
+                      
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-7"><span class="mm-sronly">Open submenu (Daily living)</span></a><a href="/get-support/daily-living" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Daily living" data-drupal-link-system-path="node/161">Daily living</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-8"><span class="mm-sronly">Open submenu (Help with care)</span></a><a href="/get-support/help-dementia-care" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Help with care" data-drupal-link-system-path="node/226">Help with care</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-9"><span class="mm-sronly">Open submenu (Staying independent)</span></a><a href="/get-support/staying-independent" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Staying independent" data-drupal-link-system-path="node/236">Staying independent</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-10"><span class="mm-sronly">Open submenu (Legal and financial)</span></a><a href="/get-support/legal-financial" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Legal and financial" data-drupal-link-system-path="node/231">Legal and financial</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                            
+                            
+                            
+                            
+                                                            
+          
+    
+            </ul>
+      </div><div id="mm-7" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-6" aria-owns="mm-6" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-6">Daily living</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/get-support/daily-living" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Daily living" data-drupal-link-system-path="node/161">Daily living</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-6" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/daily-living/toilet-problems-continence" class="menu--sub-section--link-item" role="menuitem" title="Toilet problems and continence" data-drupal-link-system-path="node/23306">Toilet problems and continence</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/daily-living/washing-dressing" class="menu--sub-section--link-item" role="menuitem" title="Washing and bathing" data-drupal-link-system-path="node/11116">Washing and bathing</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/daily-living/eating-drinking" class="menu--sub-section--link-item" role="menuitem" title="Eating and drinking" data-drupal-link-system-path="node/22691">Eating and drinking</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/daily-living" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/161">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-8" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-6" aria-owns="mm-6" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-6">Help with care</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/get-support/help-dementia-care" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Help with care" data-drupal-link-system-path="node/226">Help with care</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-6" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                                    
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/help-dementia-care/going-into-hospital" class="menu--sub-section--link-item" role="menuitem" title="Dementia hospital care" data-drupal-link-system-path="node/26961">Dementia hospital care</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/help-dementia-care/care-homes-who-decides-when" class="menu--sub-section--link-item" role="menuitem" title="Care homes" data-drupal-link-system-path="node/29816">Care homes</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/help-dementia-care/looking-after-yourself" class="menu--sub-section--link-item" role="menuitem" title="Carers: looking after yourself" data-drupal-link-system-path="node/23066">Carers: looking after yourself</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/help-dementia-care/end-life-care-dementia" class="menu--sub-section--link-item" role="menuitem" title="Dementia end of life care" data-drupal-link-system-path="node/23746">Dementia end of life care</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/help-dementia-care/health-and-social-care-professionals" class="menu--sub-section--link-item" role="menuitem" title="Health and social care professionals" data-drupal-link-system-path="node/11746">Health and social care professionals</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/help-dementia-care" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/226">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-9" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-6" aria-owns="mm-6" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-6">Staying independent</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/get-support/staying-independent" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Staying independent" data-drupal-link-system-path="node/236">Staying independent</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-6" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/staying-independent/driving-dementia" class="menu--sub-section--link-item" role="menuitem" title="Driving" data-drupal-link-system-path="node/11431">Driving</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/staying-independent/what-equipment-improve-adapt-home-person-dementia" class="menu--sub-section--link-item" role="menuitem" title="Equipment, adaptations and improvements to the home" data-drupal-link-system-path="node/38491">Equipment, adaptations and improvements to the home</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/staying-independent/using-technology-everyday-life" class="menu--sub-section--link-item" role="menuitem" title="Using technology to help with everyday life" data-drupal-link-system-path="node/23246">Using technology to help with everyday life</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/staying-independent" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/236">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-10" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-6" aria-owns="mm-6" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-6">Legal and financial</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/get-support/legal-financial" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Legal and financial" data-drupal-link-system-path="node/231">Legal and financial</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-6" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                          
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/legal-financial/who-pays-care" class="menu--sub-section--link-item" role="menuitem" title="Paying for care" data-drupal-link-system-path="node/24081">Paying for care</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/legal-financial/benefits-dementia" class="menu--sub-section--link-item" role="menuitem" title="Benefits for people affected by dementia" data-drupal-link-system-path="node/11336">Benefits for people affected by dementia</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/legal-financial/lasting-power-attorney" class="menu--sub-section--link-item" role="menuitem" title="Lasting power of attorney" data-drupal-link-system-path="node/23286">Lasting power of attorney</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/legal-financial/deprivation-liberty-safeguards-dols" class="menu--sub-section--link-item" role="menuitem" title="Deprivation of Liberty Safeguards" data-drupal-link-system-path="node/23631">Deprivation of Liberty Safeguards</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-support/legal-financial" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/231">More...</a>
+
+                  </li>
+          
+          </ul></div><div data-menu-level="1" class="menu--level--second menu--section mm-panel mm-hidden" id="mm-11" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-menu--main" aria-owns="mm-menu--main" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-menu--main">Get involved</a></div>
+        <ul class="is-multiline mm-listview" role="menu"><li class="menu--sub-section mm-listitem"><a href="/get-involved" aria-expanded="false" aria-haspopup="true" class="menu--sub-section--parent-link-item" role="menuitem" title="Get involved" data-drupal-link-system-path="node/191">Get involved</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-menu--main" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+    
+                                                          
+    
+                      
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-12"><span class="mm-sronly">Open submenu (Donate)</span></a><a href="/get-involved/make-a-donation" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Donate" data-drupal-link-system-path="node/186">Donate</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-13"><span class="mm-sronly">Open submenu (Events and fundraising)</span></a><a href="/get-involved/events-and-fundraising" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Events and fundraising" data-drupal-link-system-path="node/156">Events and fundraising</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-14"><span class="mm-sronly">Open submenu (Campaign with us)</span></a><a href="/get-involved/our-campaigns" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Campaign with us" data-drupal-link-system-path="node/176">Campaign with us</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-15"><span class="mm-sronly">Open submenu (Volunteer)</span></a><a href="/get-involved/volunteering" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Volunteer" data-drupal-link-system-path="node/166">Volunteer</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-16"><span class="mm-sronly">Open submenu (Dementia Friendly Communities)</span></a><a href="/get-involved/dementia-friendly-communities" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Dementia Friendly Communities" data-drupal-link-system-path="node/181">Dementia Friendly Communities</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+          
+    
+            </ul>
+      </div><div id="mm-12" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-11" aria-owns="mm-11" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-11">Donate</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/get-involved/make-a-donation" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Donate" data-drupal-link-system-path="node/186">Donate</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-11" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                                    
+    
+                                                      
+                                <li class="mm-listitem">
+        
+                              <a href="https://www.alzheimers.org.uk/get-involved/make-donation" data-mobile-main-item="0" title="Make a donation" class="menu--sub-section--link-item" role="menuitem">Make a donation</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/make-donation/leave-gift-your-will" class="menu--sub-section--link-item" role="menuitem" title="Leave a gift in your Will" data-drupal-link-system-path="node/596">Leave a gift in your Will</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/donate/give-celebration" class="menu--sub-section--link-item" role="menuitem" title="Give in celebration" data-drupal-link-system-path="node/646">Give in celebration</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/make-donation/ways-to-give-in-memory" class="menu--sub-section--link-item" role="menuitem" title="Ways to give in memory" data-drupal-link-system-path="node/25901">Ways to give in memory</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/lottery" class="menu--sub-section--link-item" role="menuitem" title="The Big Win Weekly Lottery" data-drupal-link-system-path="node/37301">The Big Win Weekly Lottery</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/make-donation/donate-more-ways" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/651">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-13" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-11" aria-owns="mm-11" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-11">Events and fundraising</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/get-involved/events-and-fundraising" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Events and fundraising" data-drupal-link-system-path="node/156">Events and fundraising</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-11" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                          
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/events-and-fundraising/join-event" class="menu--sub-section--link-item" role="menuitem" title="Join an event" data-drupal-link-system-path="node/591">Join an event</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/events-and-fundraising/organise-your-own-fundraising" class="menu--sub-section--link-item" role="menuitem" title="Organise your own fundraising" data-drupal-link-system-path="node/10721">Organise your own fundraising</a>
+
+                  </li>
+                                                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/our-people/our-corporate-partnerships" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Corporate partnerships" data-drupal-link-system-path="node/331">Corporate partnerships</a>
+
+                  </li>
+                                                            
+                                <li class="mm-listitem">
+        
+                              <a href="https://alzheimersevents.org.uk/ps/event/OYOFundraisingPack2022" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Request your fundraising pack">Request your fundraising pack</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/events-and-fundraising" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/156">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-14" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-11" aria-owns="mm-11" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-11">Campaign with us</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/get-involved/our-campaigns" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Campaign with us" data-drupal-link-system-path="node/176">Campaign with us</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-11" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                          
+    
+                                                      
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/our-campaigns/quality-social-care" data-mobile-main-item="0" title="Quality social care" class="menu--sub-section--link-item" role="menuitem" data-drupal-link-system-path="node/40401">Quality social care</a>
+
+                  </li>
+                                                            
+                                <li class="mm-listitem">
+        
+                              <a href="https://www.alzheimers.org.uk/get-involved/our-campaigns/improve-dementia-diagnosis" data-mobile-main-item="0" title="Improve dementia diagnosis" class="menu--sub-section--link-item" role="menuitem">Improve dementia diagnosis</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/our-campaigns/campaigns-wales" class="menu--sub-section--link-item" role="menuitem" title="Wales" data-drupal-link-system-path="node/401">Wales</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/our-campaigns/campaigns-in-NI" class="menu--sub-section--link-item" role="menuitem" title="Northern Ireland" data-drupal-link-system-path="node/406">Northern Ireland</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/our-campaigns" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/176">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-15" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-11" aria-owns="mm-11" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-11">Volunteer</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/get-involved/volunteering" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Volunteer" data-drupal-link-system-path="node/166">Volunteer</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-11" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/volunteering/ways-volunteer" class="menu--sub-section--link-item" role="menuitem" title="Ways to volunteer" data-drupal-link-system-path="node/336">Ways to volunteer</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/volunteering/ways-volunteer/support-dementia-services" class="menu--sub-section--link-item" role="menuitem" title="Support our dementia services" data-drupal-link-system-path="node/22866">Support our dementia services</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/dementia-voice" class="menu--sub-section--link-item" role="menuitem" title="Take part in Dementia Voice opportunities" data-drupal-link-system-path="node/691">Take part in Dementia Voice opportunities</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/volunteering" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/166">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-16" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-11" aria-owns="mm-11" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-11">Dementia Friendly Communities</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/get-involved/dementia-friendly-communities" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Dementia Friendly Communities" data-drupal-link-system-path="node/181">Dementia Friendly Communities</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-11" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                          
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/dementia-friendly-communities/making-your-community-more-dementia-friendly" class="menu--sub-section--link-item" role="menuitem" title="Making your community dementia friendly" data-drupal-link-system-path="node/426">Making your community dementia friendly</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/dementia-friendly-communities/dementia-teaching-resources" class="menu--sub-section--link-item" role="menuitem" title="Dementia teaching resources" data-drupal-link-system-path="node/35661">Dementia teaching resources</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/dementia-friendly-communities/make-your-organisation-more-dementia-friendly" class="menu--sub-section--link-item" role="menuitem" title="Make your organisation more dementia friendly" data-drupal-link-system-path="node/436">Make your organisation more dementia friendly</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/dementia-professionals/external-training" class="menu--sub-section--link-item" role="menuitem" title="External training" data-drupal-link-system-path="node/446">External training</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/dementia-friendly-communities" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/181">More...</a>
+
+                  </li>
+          
+          </ul></div><div data-menu-level="1" class="menu--level--second menu--section mm-panel mm-hidden" id="mm-17" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-menu--main" aria-owns="mm-menu--main" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-menu--main">Research</a></div>
+        <ul class="is-multiline mm-listview" role="menu"><li class="menu--sub-section mm-listitem"><a href="/research" aria-expanded="false" aria-haspopup="true" class="menu--sub-section--parent-link-item" role="menuitem" title="Research" data-drupal-link-system-path="node/216">Research</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-menu--main" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+    
+                                                                                                                                      
+          <ul class="menu--sub-section is-one-fifth">              <li class="mm-listitem"><a href="/research/our-research/research-projects/current-projects" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/25921">Current projects</a></li>
+                              <li class="mm-listitem"><a href="/about-dementia/dementia-risk-factors-and-prevention" data-mobile-main-item="0" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/256">Research on risk factors and prevention</a></li>
+                              <li class="mm-listitem"><a href="/research/our-research/dementia-innovation" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/30996">Research innovation</a></li>
+                              <li class="mm-listitem"><a href="/research/news-for-researchers" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/34786">News for researchers</a></li>
+      </ul>    
+                      
+                                                            
+                            
+                            
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-18"><span class="mm-sronly">Open submenu (Our research)</span></a><a href="/research/our-research" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Our research" data-drupal-link-system-path="node/251">Our research</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-19"><span class="mm-sronly">Open submenu (Get involved in research)</span></a><a href="/research/get-involved" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Get involved in research" data-drupal-link-system-path="node/246">Get involved in research</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-20"><span class="mm-sronly">Open submenu (For researchers)</span></a><a href="/research/researchers" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="For researchers" data-drupal-link-system-path="node/241">For researchers</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+          
+    
+            </ul>
+      </div><div id="mm-18" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-17" aria-owns="mm-17" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-17">Our research</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/research/our-research" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Our research" data-drupal-link-system-path="node/251">Our research</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-17" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/research/our-research/why-do-we-fund-research" class="menu--sub-section--link-item" role="menuitem" title="Why do we fund research?" data-drupal-link-system-path="node/721">Why do we fund research?</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/research/our-research/what-research-alzheimers-society-funding" class="menu--sub-section--link-item" role="menuitem" title="Research we are funding" data-drupal-link-system-path="node/711">Research we are funding</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/research/our-research/research-strategy/governance" class="menu--sub-section--link-item" role="menuitem" title="How do we fund research?" data-drupal-link-system-path="node/29486">How do we fund research?</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/research/our-research" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/251">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-19" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-17" aria-owns="mm-17" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-17">Get involved in research</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/research/get-involved" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Get involved in research" data-drupal-link-system-path="node/246">Get involved in research</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-17" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/research/take-part-research/join-dementia-research" class="menu--sub-section--link-item" role="menuitem" title="Join Dementia Research" data-drupal-link-system-path="node/25401">Join Dementia Research</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/research/get-involved/our-research-network-volunteers" class="menu--sub-section--link-item" role="menuitem" title="Our Research Network volunteers" data-drupal-link-system-path="node/32576">Our Research Network volunteers</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/research/take-part-research/videos" class="menu--sub-section--link-item" role="menuitem" title="What’s it like to take part in research?" data-drupal-link-system-path="node/27181">What’s it like to take part in research?</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/research/get-involved" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/246">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-20" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-17" aria-owns="mm-17" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-17">For researchers</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/research/researchers" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="For researchers" data-drupal-link-system-path="node/241">For researchers</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-17" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                
+    
+                                                      
+                                <li class="mm-listitem">
+        
+                              <a href="/research/researchers/why-dementia-researchers-should-apply-our-grants-funding-schemes" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Why apply to us" data-drupal-link-system-path="node/43271">Why apply to us</a>
+
+                  </li>
+                                                            
+                                <li class="mm-listitem">
+        
+                              <a href="/research/researchers/grants" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Our research grants" data-drupal-link-system-path="node/25856">Our research grants</a>
+
+                  </li>
+                                                            
+                                <li class="mm-listitem">
+        
+                              <a href="/research/researchers/manage-your-grant" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Manage your grant" data-drupal-link-system-path="node/25286">Manage your grant</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/research/researchers" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/241">More...</a>
+
+                  </li>
+          
+          </ul></div><div data-menu-level="1" class="menu--level--second menu--section mm-panel mm-hidden" id="mm-21" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-menu--main" aria-owns="mm-menu--main" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-menu--main">About us</a></div>
+        <ul class="is-multiline mm-listview" role="menu"><li class="menu--sub-section mm-listitem"><a href="/about-us" aria-expanded="false" aria-haspopup="true" class="menu--sub-section--parent-link-item" role="menuitem" title="About us" data-drupal-link-system-path="node/221">About us</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-menu--main" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+    
+                                                                                                                                                                                                
+          <ul class="menu--sub-section is-one-fifth">              <li class="mm-listitem"><a href="/about-us/contact-us" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/311">Contact us</a></li>
+                              <li class="mm-listitem"><a href="/about-us/who-we-are" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/29336">Who we are</a></li>
+                              <li class="mm-listitem"><a href="/about-us/how-your-money-helps" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/24646">How your money helps</a></li>
+                              <li class="mm-listitem"><a href="/about-us/working-us" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/696">Working for us</a></li>
+                              <li class="mm-listitem"><a href="/about-us/wales" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/19391">Wales</a></li>
+                              <li class="mm-listitem"><a href="/about-us/alzheimers-society-northern-ireland" class="menu--sub-section--general-link menu--sub-section--link-item" data-drupal-link-system-path="node/19396">Northern Ireland</a></li>
+      </ul>    
+                      
+                            
+                            
+                            
+                            
+                            
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-22"><span class="mm-sronly">Open submenu (Our dementia programmes)</span></a><a href="/about-us/our-dementia-programmes" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Our dementia programmes" data-drupal-link-system-path="node/286">Our dementia programmes</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-23"><span class="mm-sronly">Open submenu (Our people)</span></a><a href="/about-us/our-people" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Our people" data-drupal-link-system-path="node/276">Our people</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-24"><span class="mm-sronly">Open submenu (Policy and influencing)</span></a><a href="/about-us/policy-and-influencing" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="Policy and influencing" data-drupal-link-system-path="node/141">Policy and influencing</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+                            
+                                <li class="menu--sub-section is-one-fifth mm-listitem">
+        
+                              <a class="mm-btn_next mm-btn_fullwidth" href="#mm-25"><span class="mm-sronly">Open submenu (News and media)</span></a><a href="/about-us/news-and-media" class="has-items-below menu--sub-section--top-link-item menu--sub-section--link-item" role="menuitem" title="News and media" data-drupal-link-system-path="node/281">News and media</a>
+
+                          
+    
+    
+          
+    
+    
+    
+  
+                  </li>
+          
+    
+            </ul>
+      </div><div id="mm-22" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-21" aria-owns="mm-21" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-21">Our dementia programmes</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/about-us/our-dementia-programmes" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Our dementia programmes" data-drupal-link-system-path="node/286">Our dementia programmes</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-21" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                
+    
+                                                      
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/time-dementia-programme" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Time for Dementia programme" data-drupal-link-system-path="node/41111">Time for Dementia programme</a>
+
+                  </li>
+                                                            
+                                <li class="mm-listitem">
+        
+                              <a href="/get-involved/dementia-voice" data-mobile-main-item="0" class="menu--sub-section--link-item" role="menuitem" title="Dementia Voice" data-drupal-link-system-path="node/691">Dementia Voice</a>
+
+                  </li>
+                                                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/our-dementia-programmes/carer-information-support-programme" data-mobile-main-item="0" title="Carer Information and Support Programme" class="menu--sub-section--link-item" role="menuitem" data-drupal-link-system-path="node/40916">Carer Information and Support Programme</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/our-dementia-programmes" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/286">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-23" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-21" aria-owns="mm-21" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-21">Our people</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/about-us/our-people" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Our people" data-drupal-link-system-path="node/276">Our people</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-21" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/our-people/ambassadors" title="Ambassadors" class="menu--sub-section--link-item" role="menuitem" data-drupal-link-system-path="node/39891">Ambassadors</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/our-people/vice-presidents-patrons" class="menu--sub-section--link-item" role="menuitem" title="Vice-Presidents and Patrons" data-drupal-link-system-path="node/40581">Vice-Presidents and Patrons</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/our-people/trustees" class="menu--sub-section--link-item" role="menuitem" title="Trustees" data-drupal-link-system-path="node/40961">Trustees</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/our-people" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/276">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-24" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-21" aria-owns="mm-21" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-21">Policy and influencing</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/about-us/policy-and-influencing" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="Policy and influencing" data-drupal-link-system-path="node/141">Policy and influencing</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-21" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/policy-and-influencing/what-we-think" class="menu--sub-section--link-item" role="menuitem" title="What we think" data-drupal-link-system-path="node/24796">What we think</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/policy-and-influencing/national-policies" class="menu--sub-section--link-item" role="menuitem" title="National policies" data-drupal-link-system-path="node/501">National policies</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/policy-and-influencing/all-party-parliamentary-group-dementia" class="menu--sub-section--link-item" role="menuitem" title="All-Party Parliamentary Group on Dementia" data-drupal-link-system-path="node/31056">All-Party Parliamentary Group on Dementia</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/policy-and-influencing" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/141">More...</a>
+
+                  </li>
+          
+          </ul></div><div id="mm-25" class="mm-panel mm-hidden" aria-hidden="true"><div class="mm-navbar" aria-hidden="true"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-21" aria-owns="mm-21" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-21">News and media</a></div><ul data-menu-level="2" class="menu--level--third mm-listview"><li class="menu--sub-section mm-listitem"><a href="/about-us/news-and-media" class="menu--sub-section--top-link-item menu--sub-section--link-item menu--sub-section--parent-link-item" role="menuitem" title="News and media" data-drupal-link-system-path="node/281">News and media</a></li><li class="menu--sub-section mm-listitem"><a href="#mm-21" class="menu--sub-section--back-link-item menu--sub-section--link-item">Back</a></li>
+    
+                                                
+    
+                      
+                                <li class="mm-listitem">
+        
+                              <a href="/blog" title="Read our blog" class="menu--sub-section--link-item" role="menuitem" data-drupal-link-system-path="node/29521">Read our blog</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/news-and-media/latest-news" class="menu--sub-section--link-item" role="menuitem" title="Latest news" data-drupal-link-system-path="node/31001">Latest news</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/news-and-media/audio-and-video" class="menu--sub-section--link-item" role="menuitem" title="Audio and video" data-drupal-link-system-path="node/306">Audio and video</a>
+
+                  </li>
+                            
+                                <li class="mm-listitem">
+        
+                              <a href="/about-us/news-and-media" class="menu--sub-section--link-item" role="menuitem" title="More..." data-drupal-link-system-path="node/281">More...</a>
+
+                  </li>
+          
+          </ul></div></div>
+                      
+    
+
+                  
+          
+    
+  
+
+
+      <button class="mm-tabend" tabindex="0" type="button" aria-hidden="true" role="presentation"></button></nav></div>
+  </nav>
+</div>
+
+    </div>
+  </header>
+
+      
+  
+
+  <main role="main" id="main" class="section">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+
+          <a id="main-content" tabindex="-1"></a>
+                                      <div id="region-content-top" class="region">
+    
+
+
+  
+
+  <div class="spacer is-6">
+    <div id="system-breadcrumb-block" class="block">
+  
+    
+        <div class="is-fullwidth-extended">
+    <div class="container">
+      <nav role="navigation" aria-label="Breadcrumb" class="breadcrumb">
+        <ul>
+                      <li>
+                              <a href="/">Home</a>
+                          </li>
+                      <li>
+                              <a href="/legal-information">Legal Information</a>
+                          </li>
+                      <li>
+                              How we use cookies
+                          </li>
+                  </ul>
+      </nav>
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+
+
+  </div>
+
+                      
+                        <div id="region-content" class="region">
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+
+
+  
+
+  <div class="spacer is-6">
+    <div id="system-main-block" class="block">
+  
+    
+      <article class="node node-info-page view-mode-full">
+  <div id="content-start"></div>
+    <div class="node--title">
+    
+
+  <div class="spacer is-2">
+      
+
+
+<h1 class="page-title has-text-centered title is-2 is-marginless" data-content-type="title">
+  <span aria-hidden="true">
+    How we use cookies
+
+</span>
+    <span class="visually-hidden">
+    How we use cookies
+
+.</span>
+</h1>
+
+
+  </div>
+
+
+  </div>
+  
+    <div class="node--sub-header">
+          
+
+  <div class="spacer is-2">
+    <div class="summary has-text-centered is-size-5">
+      <p>This page contains information about the cookies used by this website and other Alzheimer’s Society online platforms.</p>
+
+  </div>
+
+
+  </div>
+
+      </div>
+  
+    <div class="node--content">
+        
+
+  <div class="spacer is-2">
+        <div class="field--field-table-of-content">
+      
+      <div class="field--field-content">
+              <div>
+<div class="table-of-contents is-fullwidth-extended">
+  <div class="container">
+        <div class="columns is-centered is-marginless is-gapless">
+      <div class="column is-8">
+        <div class="box has-background-gray is-box-table-of-contents has-padding--medium" data-once="PatternBox">
+      
+    <div class="box-body">
+                    
+      <div class="field--field-table-of-contents-item">
+      <ol>
+              <li><a href="/legal-information/privacy-security#content-start" hreflang="en">How we use personal information</a></li>
+              <li><strong class="visually-hidden">You are here: </strong>How we use cookies</li>
+              <li><a href="/legal-information/website-links-policy#content-start" hreflang="en">Website links policy</a></li>
+              <li><a href="/legal-information/personal-data#content-start" hreflang="en">How we use information about supporters</a></li>
+              <li><a href="/legal-information/how-we-use-our-volunteers-personal-information#content-start" hreflang="en">How we use information about volunteers</a></li>
+              <li><a href="/legal-information/how-we-use-employee-information#content-start" hreflang="en">How we use information about employees</a></li>
+              <li><a href="/legal-information/service-user-information#content-start" hreflang="en">How we use information about service users</a></li>
+            </ol>
+    </div>
+  
+          </div>
+  </div>
+
+      </div>
+    </div>
+      </div>
+</div>
+
+</div>
+          </div>
+  
+    </div>
+  
+  </div>
+
+
+
+
+  <div class="spacer is-2">
+    <div class="content is-fullwidth-extended has-padding-horizontal">
+      <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-6">
+          
+  <p>When you use our website, we add cookies to your device via your browser to give you the best experience of our website. By using our website we assume that you consent to our use of cookies.&nbsp;</p>
+
+<h2>What are cookies?&nbsp;</h2>
+
+<p>A cookie is a small text marker file sent by websites to your device browser to remember who you are and to track your use and preferences. &nbsp;</p>
+
+<p>Cookies are not viruses or spyware so will not damage your computer. &nbsp;</p>
+
+<p>Learn more about cookies on <a href="https://www.aboutcookies.org.uk/" target="_blank" title="This link opens in a new window">aboutcookies.org.uk</a></p>
+
+<p><!-- OneTrust Cookies Settings button start --><button class="ot-sdk-show-settings button" id="ot-sdk-btn">Cookie Settings</button><!-- OneTrust Cookies Settings button end --></p>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+
+  <div class="spacer is-2">
+    <div class="content is-fullwidth-extended has-padding-horizontal">
+      <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-6">
+          
+  <h2>How we use cookies</h2>
+
+<table border="3">
+	<thead>
+		<tr>
+			<th scope="col"><strong>Category of cookies</strong></th>
+			<th scope="col"><strong>Function</strong></th>
+			<th scope="col"><strong>How we use</strong></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="1">
+			<p><strong>Necessary cookies&nbsp;</strong></p>
+			</td>
+			<td>
+			<p>To enable essential functioning of our website to enable features to operate&nbsp;</p>
+			</td>
+			<td>
+			<p>They cannot be switched off in the Society’s systems and are usually only set in response to actions made by you making a request, for example logging in, filling in web forms or setting your privacy preferences. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+			<p><strong>Performance cookies&nbsp;</strong></p>
+			</td>
+			<td>
+			<p>To help us better understand how you engage with the website&nbsp;</p>
+			</td>
+			<td>
+			<p>These cookies allow us to count visits to our website and traffic sources so we can measure and improve the performance of our site. They help us to understand which of our website pages are the most and least popular, and to see how visitors move around our site. &nbsp;If you do not allow these cookies then some or all of these services may not function properly.</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+			<p><strong>Functionality cookies&nbsp;</strong></p>
+			</td>
+			<td>
+			<p>To track&nbsp;and remember choices&nbsp;</p>
+			</td>
+			<td>
+			<p>These cookies enable the website to provide enhanced functionality and personalisation. Functional cookies&nbsp;may be set by the Society&nbsp;or by third party providers whose services we have added to our website pages.&nbsp; If you do not allow these&nbsp;cookies&nbsp;then some or all of these services may not function properly.&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+			<p><strong>Targeting or advertising cookies &nbsp;</strong></p>
+			</td>
+			<td>
+			<p>To help target cost effective&nbsp;advertising&nbsp;</p>
+			</td>
+			<td>
+			<p paraeid="{b5a92f8e-7d06-47b9-b830-7eca9f178936}{129}" paraid="147532462">These cookies may remember that you have visited our website&nbsp;and this information could then be shared&nbsp;with other organisations (e.g. advertisers) so that you may then see our adverts relating to our work on other websites that you visit.&nbsp;This information may be used by those&nbsp;companies to build a profile of your interests and show you relevant adverts on other websites. These cookies do not store directly personal information but are based on uniquely identifying your browser and internet device and they may collect personal data in the form of an IP address. As with IP addresses generally, it may be possible for other organisations to identify you from that information by adding it to other information available to them about you.&nbsp;</p>
+
+			<p paraeid="{b5a92f8e-7d06-47b9-b830-7eca9f178936}{151}" paraid="1966144690">If you do not allow these cookies you will experience less targeted advertising. You may still see our adverts elsewhere&nbsp;online&nbsp;but these will not be connected to your previous activity on our website.&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+
+  <div class="spacer is-2">
+    <div class="content is-fullwidth-extended has-padding-horizontal">
+      <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-6">
+          
+  <h2>What information do we collect using cookies?</h2>
+
+<p>Ways we may use cookies to record information include:&nbsp;</p>
+
+<ul>
+	<li>which pages of our website you visit and engage with and the amount of time you spend on our site, and whether you have visited our website before or are a new visitor&nbsp;</li>
+	<li>the type of device and browser you use, and the geographic location associated with your IP address or device such as country, region etc.&nbsp;</li>
+	<li>how you came to our website&nbsp;</li>
+	<li>any error messages that you receive on the site&nbsp;</li>
+	<li>measuring the success of emails we send or our tv adverts, so that we can understand what stories and content people like the most.&nbsp;</li>
+</ul>
+
+<h2>Remove or disable cookies &nbsp;</h2>
+
+<p>We are working on ways to give you more choice about which cookies are set when you browse our sites. In the meantime, to block cookies, you should change the settings in your web browser. You can also delete cookies that have already been sent.</p>
+
+<p>Click on ‘help’ in your web browser and search for ‘cookies’ or click on the appropriate link below for the web browser that you are using: &nbsp;</p>
+
+<ul>
+	<li><strong><a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&amp;redirectslug=Enabling+and+disabling+cookies">Firefox</a>&nbsp;</strong>-&nbsp;Enable and disable cookies that websites use to track your preferences&nbsp;</li>
+	<li><strong><a href="https://support.apple.com/en-gb/HT201265">Safari</a></strong>&nbsp;- Managing Cookies&nbsp;</li>
+	<li><strong><a href="https://support.google.com/chrome/answer/95647?hl=en-GB">Google Chrome</a></strong>&nbsp;- Manage cookies&nbsp;</li>
+	<li><strong><a href="https://support.microsoft.com/en-us/kb/278835">Internet Explorer</a></strong>&nbsp;- How to manage cookies in Internet Explorer 9, How to delete cookie files in Internet Explorer&nbsp;</li>
+</ul>
+
+<p>You can find out more about cookies and how to delete them on the <a href="https://ico.org.uk/your-data-matters/online/cookies/&nbsp;">Information Commissioner’s Office (ICO) website</a>.</p>
+
+<h2>Cookies we use&nbsp;</h2>
+
+<p>This section lists the cookies used by Alzheimer’s Society.&nbsp;</p>
+
+<h3>Google Analytics &nbsp;</h3>
+
+<p>These cookies are provided by Google, Inc. Google Analytics enables us to evaluate and monitor the use of our website allowing us to understand our visitor's behaviour and allow us to make improvements. &nbsp;</p>
+
+<p>In addition, they may be used to deliver more relevant adverts to you when using Google products and services based on your visit to the Alzheimer's Society website.</p>
+
+<p><a href="https://support.google.com/analytics/answer/6004245" target="_blank">More information about Google Analytics cookies</a>.</p>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+
+  <div class="spacer is-2">
+    <div class="content is-fullwidth-extended has-padding-horizontal">
+      <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-6">
+          
+  <h3>Cookie details</h3>
+
+<table border="3">
+	<thead>
+		<tr>
+			<th scope="col"><strong>Cookie name</strong></th>
+			<th scope="col" style="width: 423px;"><strong>What it's used for</strong></th>
+			<th scope="col" style="width: 144px;"><strong>How long it's kept on your device</strong></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="1">
+			<p><strong>__utma&nbsp;</strong></p>
+			</td>
+			<td style="width: 423px;">
+			<p>To determine unique visitors to our site This cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.</p>
+			</td>
+			<td style="width: 144px;">
+			<p>Session</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+			<p><strong>__utmb&nbsp;</strong></p>
+			</td>
+			<td style="width: 423px;">
+			<p>This cookie is used to establish and continue a user session with our site&nbsp;</p>
+			</td>
+			<td style="width: 144px;">
+			<p>30 minutes</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+			<p><strong>__utmc&nbsp;</strong></p>
+			</td>
+			<td style="width: 423px;">
+			<p>Operated in conjunction with the __utmb cookie to determine whether or not to establish a new session for the user&nbsp;</p>
+			</td>
+			<td style="width: 144px;">
+			<p>Session</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1">
+			<p><strong>__utmz&nbsp;</strong></p>
+			</td>
+			<td style="width: 423px;">
+			<p>This cookie stores the type of referral used to reach the site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link. It is used to calculate search engine traffic, ad campaigns and page navigation within our own site.&nbsp;</p>
+			</td>
+			<td style="width: 144px;">
+			<p paraeid="{b5a92f8e-7d06-47b9-b830-7eca9f178936}{129}" paraid="147532462">Session</p>
+
+			<p paraeid="{b5a92f8e-7d06-47b9-b830-7eca9f178936}{151}" paraid="1966144690">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="1"><strong>__utmx</strong></td>
+			<td style="width: 423px;">This cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on your site. See the <a href="https://support.google.com/optimize/?hl=en" target="_blank" title="This link opens in a new window">Google Optimize Help Centre</a> for more information.&nbsp;</td>
+			<td style="width: 144px;">Session</td>
+		</tr>
+		<tr>
+			<td colspan="1"><strong>_dc_gtm_UA-2332956-1&nbsp;</strong></td>
+			<td style="width: 423px;">This cookie is used to throttle request rates to the server and keep the site running speedily.</td>
+			<td style="width: 144px;">One minute</td>
+		</tr>
+		<tr>
+			<td colspan="1"><strong>_ga</strong></td>
+			<td style="width: 423px;">This is used to distinguish users.&nbsp;</td>
+			<td style="width: 144px;">Two years</td>
+		</tr>
+		<tr>
+			<td colspan="1"><strong>mf_[website-id]</strong></td>
+			<td style="width: 423px;">1st party cookie, session lifetime: A cookie for identifying the current session on a website.</td>
+			<td style="width: 144px;">Session</td>
+		</tr>
+		<tr>
+			<td colspan="1"><strong>mf_user</strong></td>
+			<td style="width: 423px;">1st party cookie, persistent: A cookie for checking if the user is new or returning.</td>
+			<td style="width: 144px;">90 days</td>
+		</tr>
+	</tbody>
+</table>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+
+  <div class="spacer is-2">
+    <div class="content is-fullwidth-extended has-padding-horizontal">
+      <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-6">
+          
+  <h3>Google AdWords</h3>
+
+<p>We also make use of AdWords remarketing functionality. This allows us to target people who have previously visited our site with display advertising. In order to do this, we make use of AdWords remarketing tags that set information within a doubleclick.net cookie. Google serve their ads based on a visitor's interests and you can find out more information by visiting <a href="https://adssettings.google.com/" target="_blank" title="This link opens in a new window">Google Ad Preferences</a>.&nbsp;</p>
+
+<p>We also use Google's doubleclick.net cookie for conversion tracking purposes, to track the performance of our AdWords campaigns. If you visit certain pages on our website within 30 days of clicking on one of our ads, Google (and Alzheimer's Society) will be able to tell that your visit was a result of a click on one of these ads. &nbsp;</p>
+
+<h2>Third party cookies&nbsp;</h2>
+
+<p>If you use tools or services on our website that are delivered by other organisations, they may put cookies on your device. &nbsp;</p>
+
+<p>The tools and services on our website from other organisations are:&nbsp;</p>
+
+<ul>
+	<li><strong>Google forms, maps and YouTube videos</strong>&nbsp;- see&nbsp;<a href="https://support.google.com/youtube/answer/171780?hl=en-GB" target="_blank" title="This link opens in a new window">YouTube's embedding videos information&nbsp;page</a>&nbsp;and <a href="https://www.google.co.uk/intl/en-GB/policies/privacy/" target="_blank" title="This link opens in a new window">Google’s Privacy Policy</a> for more information</li>
+	<li><a href="https://www.facebook.com/help/cookies/" target="_blank" title="This link opens in a new window"><strong>Facebook</strong>&nbsp;</a></li>
+	<li><strong>Embedded <a href="https://twitter.com/privacy?lang=en" target="_blank" title="This link opens in a new window">Twitter</a> feeds</strong>&nbsp;</li>
+	<li><strong>Videos through <a href="https://vimeo.com/privacy" target="_blank" title="This link opens in a new window">Vimeo</a></strong></li>
+	<li><strong>Heatmaps, feedback polls, form tracking and surveys through <a href="https://www.hotjar.com/privacy/">Hotjar</a>&nbsp;and <a href="https://mouseflow.com/privacy/">Mouseflow</a></strong></li>
+	<li><strong>Surveys through <a href="https://ethn.io/privacy">Ethnio</a></strong>&nbsp;</li>
+	<li><strong>Our website is run through <a href="https://www.drupal.org/privacy" target="_blank" title="This link opens in a new window">Drupal</a></strong><a href="https://www.drupal.org/privacy" target="_blank" title="This link opens in a new window">&nbsp;</a></li>
+	<li><strong>Registering supporters for events</strong>&nbsp;<strong>through <a href="https://primoevents.com/privacy/" target="_blank" title="This link opens in a new window">Enthuse</a></strong></li>
+	<li><strong>Registering for fundraising events through <a href="https://www.cvent.com/en/privacy-policy.shtml">Cvent</a></strong><a href="https://www.cvent.com/en/privacy-policy.shtml"> </a></li>
+	<li><strong>Online donations &nbsp;through goDonate, which is provided by <a href="https://wpnc.agency/privacy" target="_blank" title="This link opens in a new window">WPNC</a></strong>. The donation form uses <a href="https://www.google.com/recaptcha/" target="_blank" title="This link opens in a new window">Google reCAPTCHA</a>, which is a tool that helps protect sites from spam and abuse. Read <a href="https://www.google.com/policies/privacy/">Google’s Privacy Policy</a> and <a href="https://www.google.com/policies/terms/" target="_blank" title="This link opens in a new window">Terms of Use </a>for more information.&nbsp;</li>
+	<li><strong>Our online shop uses an e-commerce platform supplied by <a href="https://welfordmedia.co.uk/privacy-policy" target="_blank" title="This link opens in a new window">Welford Media</a></strong></li>
+	<li><strong>Our online community <a href="https://forum.alzheimers.org.uk/help/privacy/">Talking Point</a> is through Xenforo</strong></li>
+	<li><strong>We measure response to TV advertising through <a href="https://www.adalyser.com/en/" target="_blank" title="This link opens in a new window">Adalyser</a></strong>&nbsp;</li>
+	<li><strong>Research grant applications are processed through <a href="https://grants.alzheimers.org.uk/Login.aspx?ReturnUrl=%2fIndex.aspx" target="_blank" title="This link opens in a new window">CC Grant Tracker</a></strong>&nbsp;</li>
+</ul>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+
+
+  <div class="spacer is-2">
+    <div class="table-of-content-pagination is-fullwidth-extended">
+  <div class="container">
+    <div class="columns is-centered is-gapless">
+      <div class="column is-6">
+        <div class="box has-background-gray has-padding--medium" data-once="PatternBox">
+      
+    <div class="box-body">
+                      <div class="columns is-mobile is-gapless">
+    <div class="column is-6">
+              <a href="/legal-information/privacy-security" aria-label="How we use personal information">
+          
+
+
+<h5 class="is-hidden-mobile title is-5 is-marginless" data-content-type="title">
+  <span aria-hidden="true">Previous Section</span>
+    <span class="visually-hidden">Previous Section.</span>
+</h5>
+
+          
+
+
+<h5 class="is-hidden-tablet title is-5 is-marginless" data-content-type="title">
+  <span aria-hidden="true">Previous</span>
+    <span class="visually-hidden">Previous.</span>
+</h5>
+
+        </a>
+        <div class="pagination-label is-hidden-mobile">
+          1. <a href="/legal-information/privacy-security" title="How we use personal information">How we use personal information</a>
+        </div>
+          </div>
+    <div class="column is-6 has-text-right">
+              <a href="/legal-information/website-links-policy" aria-label="Website links policy">
+          
+
+
+<h5 class="is-hidden-mobile title is-5 is-marginless" data-content-type="title">
+  <span aria-hidden="true">Next Section</span>
+    <span class="visually-hidden">Next Section.</span>
+</h5>
+
+          
+
+
+<h5 class="is-hidden-tablet title is-5 is-marginless" data-content-type="title">
+  <span aria-hidden="true">Next</span>
+    <span class="visually-hidden">Next.</span>
+</h5>
+
+        </a>
+        <div class="pagination-label is-hidden-mobile">
+          3. <a href="/legal-information/website-links-policy" title="Website links policy">Website links policy</a>
+        </div>
+          </div>
+  </div>
+
+          </div>
+  </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+<div class="spacer is-2 is-fullwidth-extended">
+  <div class="container">
+    <div class="columns is-centered is-gapless">
+      <div class="column is-6">
+        <div class="box has-background-gray is-box-alz-tags has-padding--medium" data-once="PatternBox">
+          <div class="box-header">
+                        
+
+
+<h5 class="title is-5 is-marginless" data-content-type="title">
+  <span aria-hidden="true">Categories</span>
+    <span class="visually-hidden">Categories.</span>
+</h5>
+
+    </div>
+    
+    <div class="box-body">
+                          <a href="/categories/about-society" hreflang="en">About the Society</a>  
+          </div>
+  </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  </div>
+  
+  </article>
+
+
+  </div>
+
+  </div>
+
+
+  </div>
+
+          
+                        <div id="region-content-bottom" class="region">
+    
+
+
+  
+
+  <div class="spacer is-6">
+    <div id="alz-related-content" class="block">
+  
+    
+      <div class="alz-related-content-block is-fullwidth-extended" data-alz-related-content="1">
+    <div class="alz-related-content-block__title">
+        
+
+
+<h2 class="title is-2 is-marginless" data-content-type="title">
+  <span aria-hidden="true">Further reading</span>
+    <span class="visually-hidden">Further reading.</span>
+</h2>
+
+    </div>
+    <header class="alz-related-content-block__subtitle">
+        <p>What kind of information would you like to read?<br>
+Use the button below to choose between help, advice and real stories.</p>
+    </header>
+    
+    <details class="related-content-form" data-once="details">
+        <summary role="button" aria-controls="related-content-form" data-alz-related-content-label="1">Decide what you see<span class="summary"></span></summary>
+        <div class="alz-related-content-block__filters is-fullwidth-extended has-background-white">
+            
+
+
+<h5 class="title is-5" data-content-type="title">
+  <span aria-hidden="true">Choose one or more options</span>
+    <span class="visually-hidden">Choose one or more options.</span>
+</h5>
+
+            
+
+  <div class="spacer is-3">
+    <ul class="alz-related-content__categories"><li><span class="alz-related-content__category" data-alz-related-content-category-id="101" data-alz-related-content-category-selected="1">Information</span>
+</li><li><span class="alz-related-content__category" data-alz-related-content-category-id="846" data-alz-related-content-category-selected="1">Advice</span>
+</li><li><span class="alz-related-content__category" data-alz-related-content-category-id="106" data-alz-related-content-category-selected="1">News</span>
+</li><li><span class="alz-related-content__category" data-alz-related-content-category-id="836" data-alz-related-content-category-selected="1">Real stories</span>
+</li><li><span class="alz-related-content__category" data-alz-related-content-category-id="111" data-alz-related-content-category-selected="1">Research</span>
+</li><li><span class="alz-related-content__category" data-alz-related-content-category-id="841" data-alz-related-content-category-selected="1">Support us</span>
+</li><li><span class="alz-related-content__category" data-alz-related-content-category-id="1481" data-alz-related-content-category-selected="1">Dementia directory</span>
+</li></ul>
+  </div>
+
+                        
+
+  <div class="spacer is-2">
+    We will remember your selection for future visits; you can change your choices at any time
+  </div>
+
+            <div><span class="alz-related-content__submit button" data-alz-related-content-role="submit">Apply</span>
+</div>
+        </div>
+    </details>
+    <div class="alz-related-content-block__slider" data-alz-related-content-items="39391"><div class="ajax-progress ajax-progress-throbber" aria-live="polite"><div class="throbber">&nbsp;</div><span class="visually-hidden">Loading.</span></div></div>
+</div>
+  </div>
+
+  </div>
+
+
+
+  <div class="spacer is-6">
+    <div id="alz-newsletter-subscribe" class="block">
+    <div class="box is-fullwidth-extended has-background-navy is-box-newsletter-signup has-padding--large" data-once="PatternBox">
+    <div class="container">
+          <div class="box-header">
+                        
+
+
+<h5 class="title is-5 is-marginless" data-content-type="title">
+  <span aria-hidden="true">Sign up for dementia support by email</span>
+    <span class="visually-hidden">Sign up for dementia support by email.</span>
+</h5>
+
+    </div>
+    
+    <div class="box-body">
+                    <div class="spacer is-5"><p>Our regular support email includes the latest dementia advice, resources, real stories and more.</p>
+</div><div class="spacer is-5"><p class="required-key">
+  Fields marked with <span class="required-key_asterisk">(*)</span> are required
+    <span class="visually-hidden">.</span>
+</p>
+<form class="alz-newsletter-subscribe-configurable" data-drupal-selector="alz-newsletter-subscribe-configurable" action="/legal-information/cookies" method="post" id="alz-newsletter-subscribe-configurable" accept-charset="UTF-8" data-once="form-updated" data-drupal-form-fields="edit-email,edit-firstname,edit-lastname,edit-submit">
+  <div class="js-form-item form-item form-type-email js-form-type-email form-item-email js-form-item-email field">
+      <label for="edit-email" class="js-form-required form-required label">
+      <span class="label-icon"></span>
+      <span class="label-text">Email</span>
+  </label>
+        <input data-drupal-selector="edit-email" type="email" id="edit-email" name="email" value="" size="60" maxlength="254" placeholder="Email" class="form-email required email input" required="required" aria-required="true">
+
+        </div>
+<div class="js-form-item form-item form-type-textfield js-form-type-textfield form-item-firstname js-form-item-firstname field">
+      <label for="edit-firstname" class="js-form-required form-required label">
+      <span class="label-icon"></span>
+      <span class="label-text">First name</span>
+  </label>
+        <input data-drupal-selector="edit-firstname" type="text" id="edit-firstname" name="FIRSTNAME" value="" size="60" maxlength="128" placeholder="First name" class="form-text required text input" required="required" aria-required="true">
+
+        </div>
+<div class="js-form-item form-item form-type-textfield js-form-type-textfield form-item-lastname js-form-item-lastname field">
+      <label for="edit-lastname" class="js-form-required form-required label">
+      <span class="label-icon"></span>
+      <span class="label-text">Last name</span>
+  </label>
+        <input data-drupal-selector="edit-lastname" type="text" id="edit-lastname" name="LASTNAME" value="" size="60" maxlength="128" placeholder="Last name" class="form-text required text input" required="required" aria-required="true">
+
+        </div>
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Sign up" class="button js-form-submit form-submit submit">
+<input autocomplete="off" data-drupal-selector="form-ppcsgnf2bpszlrt3eauyl9xfxgm4bzgxkume7s-aqao" type="hidden" name="form_build_id" value="form-pPCsGnf2bpsZLRT3EauyL9XfxGM4BZgXKuMe7S-aQAo" class="hidden">
+<input data-drupal-selector="edit-alz-newsletter-subscribe-configurable" type="hidden" name="form_id" value="alz_newsletter_subscribe_configurable" class="hidden">
+
+</form>
+</div><p>You can change what you receive at any time and we will never sell your details to third parties. Here’s our <a href="https://protect-eu.mimecast.com/s/zzSnC862qFXZZZRSXMuvr">Privacy Policy</a>.</p>
+
+          </div>
+    </div>
+  </div>
+
+</div>
+
+  </div>
+
+
+  </div>
+
+          
+        </div>
+      </div>
+    </div>  </main>
+
+          <footer id="region-footer" class="region section is-paddingless-vertical">
+    <div class="container">
+      
+
+
+  
+
+  <div class="spacer is-6">
+    <div id="block-contentb806bcdd-8e7d-4dc4-b7ae-c7f507dbd796" class="block">
+  
+    
+      <div class="pattern--footer is-fullwidth-extended" id="site-footer">
+  <div class="container">
+          <div class="footer--main">
+        <div class="columns is-multiline">
+                      <div class="footer--left column is-narrow">
+              <div class="footer--brand">
+                <a href="https://www.alzheimers.org.uk/">
+                  
+  
+  
+  <div class="pattern--block entity-type--paragraph bundle--image view-mode--block">
+  <div class="image">
+    <img loading="lazy" src="/sites/default/files/styles/logo_desktop/public/media/images/image/2018-02/alzheimers-logo-desktop.png?itok=Xg6ZQpbN" width="500" height="526" alt="Alzheimer's Society">
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+                </a>
+              </div>
+            </div>
+          
+                      <div class="footer--middle column">
+              
+  <div class="pattern--block entity-type--paragraph bundle--block view-mode--default">
+  <div id="system-menu-blockfooter" class="block">
+  
+      <h2 class="is-6 title">Useful links</h2>
+    
+                    <ul id="menu--footer">
+    
+          <li>
+        <a href="https://jobs.alzheimers.org.uk/e/careers/search/new" class="item-link">Jobs</a>
+      </li>
+          <li>
+        <a href="/about-us/working-us" class="item-link" data-drupal-link-system-path="node/696">Working for us</a>
+      </li>
+          <li>
+        <a href="/about-us/contact-us" class="item-link" data-drupal-link-system-path="node/311">Contact us</a>
+      </li>
+          <li>
+        <a href="/get-support/publications-factsheets" class="item-link" data-drupal-link-system-path="node/341">Publications and factsheets</a>
+      </li>
+          <li>
+        <a href="/dementia-professionals" class="item-link" data-drupal-link-system-path="node/441">Training and conferences</a>
+      </li>
+          <li>
+        <a href="/blog" title="Real stories about dementia" class="item-link" data-drupal-link-system-path="node/29521">Blog</a>
+      </li>
+          <li>
+        <a href="/legal-information" class="item-link" data-drupal-link-system-path="node/24771">Legal information</a>
+      </li>
+          <li>
+        <a href="/legal-information/cookies" title="How we use cookies" class="item-link is-active" data-drupal-link-system-path="node/39391">Cookies</a>
+      </li>
+          <li>
+        <a href="https://www.alzheimers.org.uk/websiteissues" title="Report a website problem" class="item-link">Report a website problem</a>
+      </li>
+    
+    </ul>
+  
+
+
+  </div>
+
+</div>
+
+
+
+
+
+            </div>
+          
+                      <div class="footer--right column is-narrow">
+                              
+  <div class="pattern--block entity-type--paragraph bundle--block view-mode--default">
+  <nav role="navigation" aria-label="Connect with us on" id="system-menu-block-social">
+    
+        
+              <ul id="menu--social" class="menu--level--first">
+        
+                                                                            
+      <li class="menu-item">
+        <a href="https://en-gb.facebook.com/alzheimerssocietyuk/" target="_blank" title="Facebook" class="item-link item-link-icon icon-facebook">            <span class="visually-hidden">Facebook</span>
+          </a>
+              </li>
+    
+                                                                            
+      <li class="menu-item">
+        <a href="https://twitter.com/alzheimerssoc" target="_blank" title="Twitter" class="item-link item-link-icon icon-twitter">            <span class="visually-hidden">Twitter</span>
+          </a>
+              </li>
+    
+                                                                            
+      <li class="menu-item">
+        <a href="https://www.instagram.com/alzheimerssoc/" target="_blank" title="Instagram" class="item-link item-link-icon icon-instagram">            <span class="visually-hidden">Instagram</span>
+          </a>
+              </li>
+    
+                                                                            
+      <li class="menu-item">
+        <a href="https://www.youtube.com/user/AlzheimersSociety" data-item-background="blue" target="_blank" title="Youtube" class="item-link item-link-icon icon-youtube">            <span class="visually-hidden">Youtube</span>
+          </a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+</div>
+
+
+
+
+
+                          </div>
+                  </div>
+      </div>
+    
+    
+            <div class="footer--bottom pattern-fullwidth is-fullwidth-extended">
+    <div class="container">
+            <div class="columns">
+                  <div class="footer--bottom--left column is-narrow">
+            
+  
+  
+  <div class="pattern--block entity-type--paragraph bundle--image view-mode--block">
+  <div class="image">
+    <img loading="lazy" src="/sites/default/files/styles/logo_desktop/public/media/images/image/2018-02/fundraising-regulator-logo.png?itok=8IONtElT" width="500" height="156" alt="Registered with Fundraising Regulator">
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+          </div>
+        
+                  <div class="footer--bottom--right column">
+            
+  
+  
+  <div class="pattern--block entity-type--paragraph bundle--wysiwyg view-mode--block">
+  
+  <p>All content © 2022 Alzheimer's Society.</p>
+
+<p>Registered office at Alzheimer's Society, 43-44 Crutched Friars, London, EC3N 2AE</p>
+
+<p>Alzheimer's Society is a registered Charity No. 296645. Registered as a company limited by guarantee and registered in England No. 2115499</p>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+          </div>
+              </div>
+    
+    </div>
+  </div>
+
+    
+  </div>
+</div>
+
+
+  </div>
+
+  </div>
+
+
+    </div>
+  </footer>
+
+  
+</div>
+
+  </div><div style="display: none; visibility: hidden;">
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="8a78a85e-196e-4082-b6ec-4cb146a4f348"></script>
+<script type="text/javascript">function OptanonWrapper(){};</script>
+</div><div id="drupal-live-announce" class="visually-hidden" aria-live="polite" aria-busy="false"></div></div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/39391","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"alz_gtm_datalayer\/datalayer_events,alz_personalisation\/related-content-block,alzheimers\/alzheimers-js,alzheimers\/global-styles,blazy\/blazy,blazy\/classlist,blazy\/load,blazy\/loading,blazy\/polyfill,blazy\/promise,blazy\/raf,blazy\/webp,cleantalk\/apbct-public,core\/drupal.collapse,paragraphs\/drupal.paragraphs.unpublished,slick\/slick.easing,slick\/slick.load,system\/base,ui_patterns\/block.style,ui_patterns\/box.style,ui_patterns\/button.style,ui_patterns\/content.style,ui_patterns\/cta_box.style,ui_patterns\/footer.style,ui_patterns\/fullwidth.style,ui_patterns\/header.style,ui_patterns\/icon.style,ui_patterns\/image.style,ui_patterns\/node.style,ui_patterns\/page_title.style,ui_patterns\/spacer.style,ui_patterns\/summary.style,ui_patterns\/table_of_contents.style,ui_patterns\/table_of_contents_pagination.style,ui_patterns\/teaser.style,ui_patterns\/title.style","theme":"alzheimers","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/search":true},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"loader":true,"unblazy":false},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"pauseOnHover":true,"pauseOnDotsHover":false,"pauseOnFocus":true,"autoplaySpeed":3000,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35000000000002002,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"user":{"uid":0,"permissionsHash":"40b442ea954d354d67af779f17d859d09d11246f675797fa9b5c202f29580ee4"}}</script>
+<script src="/sites/default/files/js/js_6lPGgZZlizmhZSYW75QowQPrJzkeQkGeK0E2CI2Cr2U.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/plugins/CSSPlugin.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/easing/EasePack.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenLite.min.js"></script>
+<script src="/themes/custom/alzheimers/libraries/ScrollMagic/scrollmagic/minified/ScrollMagic.min.js?rko1u8"></script>
+<script src="/sites/default/files/js/js_Dh-PunctoXsBUV_kvIUVgcoYCBbI68FHIxzBpKIKGhg.js"></script>
+<script src="/modules/custom/alz_personalisation/js/related-content-block.js?rko1u8"></script>
+<script src="/sites/default/files/js/js_IcJmzkwg1M-e3QD-imrUoUYkzOcbNYqNqgYNPJwbiC8.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4e700b12b6","applicationID":"83144027","transactionName":"NQFQZBcFV0pWAkxfCQxLc1MRDVZXGBFZUQM9B1NTDQE=","queueTime":0,"applicationTime":32,"atts":"GUZTEl8fREQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>

@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+Privacy Policy • Cryout Creations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Cryout Creations Free WordPress Themes and Plugins 
+
+
+ Skip to content 
+
+
+MENUThemesFeaturedBravada PlusEsotera PlusRoseta PlusKahuna PlusAnima PlusSeptera PlusFluida PlusPlus ThemesAnima PlusBravada PlusEsotera PlusFluida PlusKahuna PlusRoseta PlusSeptera PlusBravada PlusFree ThemesAnimaBravadaEsoteraFluidaKahunaMantraNirvanaParabolaRosetaSepteraTemperaVerbosaZombie ApocalypseChild ThemesArcanumCodexLiquidoMysticReservoirSundownVerdantPluginsSerious SliderSerious Theme SettingsSysInfoThemeSwitchPricingSupportPriority SupportCustomizationDocumentationForumBlog Account
+
+E-mail or username:
+
+
+Password:
+
+ Remember Me
+
+
+Create an account
+
+Number of items in cart: 0
+
+Your cart is empty.
+Subtotal: €0.00
+VAT: €0.00
+Total: €0.00
+Checkout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy 
+
+We’re privacy freaks. Cryout Creations does not track you as an individual and we do our best to collect and request as little information from you as we legally and technically need to.
+Website
+For both your and our convenience we use third party services that can be considered trackers or which can collect visitor data:
+
+Tawk.to for providing live chat on our site – this is active only on selected site sections
+Akismet for screening comments and forum posts for spam
+hCaptcha for protecting the contact forms from spam
+
+You can opt to block this functionality on our website (and any other website) at any time by blocking third party scripts. You can do so with plenty of browser extensions: Firefox, Opera, Chrome, (new) Edge, Safari.
+We rely on external services for the processing of payments, handling of emails or live chat support:
+
+When making a purchase the personal information you provide will be processed and stored by our payment processors 2Checkout or PayPal according to their privacy policies.
+If you subscribe to our newsletter your name and e-mail address will be processed by our emailing services provider, Mailerlite.
+If you use our live chat system, any information you enter in the live chat window is accessible and can be processed by our live chat provider, Tawk.to.
+
+Our website uses SSL encryption to ensure privacy and security between your browser and our server at any time. We never receive nor store any payment information (such as card details) and we use password hashing and salting for your account security. We also use account locking policies to protect against brute force attacks or password guessing.
+We store the information you enter upon registration, in the forum, through our support system or when making an order only in connection to providing you the purchased products or services or for support. You can request we completely delete this information from our system at any time after you are no longer using our services in accordance with the EU GDRP.
+Keep in mind that if you have made a purchase with us we are legally obligated to keep some records of the transaction(s) for a specific amount of time.
+Themes and Plugins
+None of our free and premium themes and plugins collect any visitor and/or (administration) user information in any form or manner. None of the functionality they provide requires any individualized interaction with visitors and we don’t believe personal information collection would help us make our creations better in any way.
+None of our free themes and plugins include any phone-home functionality. They are published in the WordPress.org repository and none of your interaction with the repository (searches, downloads, updates) ever reaches us in any form.
+Our premium themes do include auto-update functionality, which gives us the site URL, configured license key, WordPress version and server IP the connection is made from when your WordPress site checks for updates. No other information and at no other point is it transmitted beside the update availability checks. We only use this information to process licensing status and provide your site with the available files.
+Cookies
+We both love and hate cookies
+This website does make use of cookies. These are used to ensure proper running of some of the website functionality (comments, account management). You can always completely disable cookies in your browser. Your browser also provides the option to delete all previously stored cookies.
+ 
+ 
+
+
+
+PHPSESSID
+This is a general purpose cookie used to maintain user session variables. It is normally a random generated number used by the site to identify a visitor for the duration of the visit. This cookie is automatically deleted when the browser is closed.
+
+
+wordpress_logged_in__, wordpress_sec__
+These cookies are used by WordPress to maintain authentication status. They are only set if you have an account on our site and you sign in. These get deleted when the browser is closed, unless you’ve checked the “remember login” option, in which case they expire after 30 days.
+
+
+cryout-cookies-notice
+This is, ironically, a cookie used to remember that you have seen and closed the cookie notification message. It expires 30 days from closing the notification.
+
+
+tawkuuid
+This cookie is used for the functionality of the live chat on specific site sections. It helps maintain the live chat status between pages. It expires in 6 months from the last time it was set.
+
+
+
+
+
+
+
+None of the information gathered via cookies identifies you as a person but for functionality purposes it can identify your browser.
+Last updated 2022-05-30
+
+
+
+
+
+
+
+ 
+
+
+BasketNumber of items in cart: 0
+
+Your cart is empty.
+Subtotal: €0.00
+VAT: €0.00
+Total: €0.00
+Checkout
+
+
+
+Premium WordPress Themes
+Amazing New Features
+
+
+
+Eso Plus
+
+It's more than a theme
+
+
+
+				Get it now!
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+ResourcesDocumentation
+Tutorials
+OpenCart Archives
+Support Forum
+News & Blog
+ServicesThemes
+Plugins
+Pricing
+Priority Support
+Customization
+CompanyAbout Us
+Terms and Conditions
+Online Dispute Resolution
+Privacy Policy
+Contact
+ 
+
+
+
+
+Stay up to date
+Are you enjoying our creations? Subscribe and we'll let you know when we release more goodies.
+
+
+
+
+
+
+
+
+Working...
+
+
+
+
+
+
+
+
+Thank you for signing up. We'll only bother you when we bake fresh goodies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2011-2022, Cryout Creations Srl •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Engineered in Europe
+				
+
+
+
+
+
+
+   
+
+
+Our site uses some cookies. See the cookies policy for more info.
+Accept
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,111 @@
+Details about cookies on GOV.WALES | GOV.WALES
+Skip to main content
+We've saved some files called cookies on your device
+These cookies are:essential for the site to workWe would also like to save some cookies to help:improve our website by collecting and reporting information on how you use ittailor communicationsAccept cookiesChange cookie settings
+Home
+Search
+EnglishCymraeg
+You are here:
+Home
+Details about cookies on GOV.WALES
+Details about cookies on GOV.WALES
+Lists the cookies on GOV.WALES and explains their purpose.
+Use of cookies by GOV.WALES
+Cookies are small text files sent to your computer or mobile device by the websites that you visit
+They help make websites work better and provide information to the owners of the site
+For instance, we use language cookies to know what language you would like the web site displayed to you in, we also use YouTube cookies to embed videos in pages and Google Analytics cookies to track users’ behaviour whilst on the site
+By understanding how people use our site, we can improve the navigation and content to better meet people’s needs
+The information collected by GOV.WALES includes IP address, pages visited, browser and operating system
+The data will not be used to identify any user personally
+The cookies we use on our site are:
+Cookie
+Name
+Purpose
+Expires
+Language version
+langPrefWAG
+This cookie is created by the content management system and is essential for the site to display to correct language version of the site.
+When you close your browser
+Session Tracking
+JSessionID
+To track a session when cookies are disabled
+This allows the browser to preserve your session.
+At end of session
+GoogleAnalytics
+_ga
+This cookie is used to find out how visitors use our site
+We use the information to help us improve the site
+The cookie collects information in an anonymous form, including demographic information, the number of visitors to the site, whether they have visited before and the pages they visit.
+2 years
+CookieControl
+civicAllowCookies
+civicShowCookieIcon
+This cookie records whether a user has accepted the use of cookies on our site.
+10 hours
+YouTube
+VISITOR_INFO1_LIVE
+PREF
+These cookies are essential for the display of YouTube videos on our site.
+8 months
+YouTube
+use_hitbox
+At end of session
+TikTok
+_ttp
+To measure and improve the performance of your advertising campaigns and to personalize the user's experience (including ads) on TikTok
+13 months
+Adalyser captures a truncated IP address to allow us to identify the country from which a user is visiting the site, to allow us to measure the effectiveness of TV campaigns
+They do not associate this with any other information about a user and so are unable to identify individuals through this.
+Adalyser tracking sets the below cookies:
+Cookie
+Name
+Purpose
+Expires
+Adalyser Session
+__adal_se
+To determine whether a user has an active session.
+At end of session
+Adalyser Campaign
+__adal_ca
+To store which advertising campaign drove a user to visit.
+6 months
+Adalyser Conversion Window
+__adal_cw
+To tie back any conversion events to a user's earlier visit.
+7 days
+Adalyser Device ID
+__adal_id
+To store an Adalyser generated device ID.
+2 years
+Web browsers allow some control of cookies through browser settings
+To find out more about cookies and how to manage them, visit www.allaboutcookies.org.
+What information do we collect?
+We use Google Analytics cookies and Crazy Egg page tracking to help monitor user activity, and to identify where improvements can be made to the site
+We do not collect any personal information (e.g
+your name or address) that would be able to identify you.
+Google Analytics cookies are a web service provided by Google Inc
+(‘Google’) and help to gather and analyse user activity
+The information gathered about your use of the web site (including your anonymised IP address) will be transmitted to, and stored on Google servers in the United States
+Please see the Google privacy policy, and Google's Terms of Service for detailed information.
+Google will use this information to produce user activity reports for this website
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf.
+Google will not associate your IP address with any other data previously held
+You may refuse the use of cookies by selecting the appropriate settings on your browser
+Please note that if cookies are disabled, you may not be able to use the full functionality of this website
+By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+Crazy Egg page tagging keeps a record of user clicks through our web site, identifying how often links are clicked and if users scroll on pages so that we may identify and make improvements where needed
+Please see the Crazy Egg privacy policy for further information.
+Report anything wrong with this page
+Share this page
+Share this page via Twitter
+Share this page via Facebook
+Share this page via Email
+Back to top
+Contact us
+Accessibility
+Copyright statement
+Cookies
+Privacy
+Terms and conditions
+Alternative languages
+Home

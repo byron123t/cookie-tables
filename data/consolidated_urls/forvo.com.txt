@@ -1,0 +1,2 @@
+https://forvo.com/cookie-policy/
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=en

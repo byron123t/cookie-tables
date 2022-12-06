@@ -1,0 +1,5 @@
+https://plausible.io/blog/google-analytics-cookies
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+https://policies.google.com/privacy
+https://policies.google.com/technologies/cookies
+https://policies.google.com/technologies/ads

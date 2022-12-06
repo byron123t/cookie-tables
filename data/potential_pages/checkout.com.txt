@@ -1,0 +1,3 @@
+https://www.checkout.com/legal/cookie-policy
+https://help.salesforce.com/s/articleView?language=en_US&id=pardot_basics_cookies.htm&type=5
+https://help.salesforce.com/s/articleView?id=sf.pardot_basics_cookies.htm&type=5

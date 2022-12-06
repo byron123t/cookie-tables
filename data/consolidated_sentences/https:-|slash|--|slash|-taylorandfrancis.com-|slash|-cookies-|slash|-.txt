@@ -1,0 +1,220 @@
+Cookies - Taylor & Francis
+Skip to content
+United States
+Australia
+China
+India
+Japan
+Singapore
+South Africa
+United Kingdom
+Careers
+Contact Us
+Help
+Who We Serve
+Academia
+Authors
+Journal Authors
+Book Authors
+Faculty/Instructors
+Librarians
+Journal Editors
+Industry & Government
+Practitioners
+R&D Professionals
+Authors
+Government
+Healthcare Professionals
+Marketing & Brand Managers
+Partners
+Societies
+Booksellers
+Funders
+Knowledge
+Medicine & Healthcare
+Education
+Business & Management
+Psychology
+Environmental Sciences
+Bioscience
+Computer & Information Sciences
+Mathematics
+Engineering
+Civil
+Electrical
+Industrial & Manufacturing
+Mechanical
+Chemical Engineering
+Automotive Engineering
+Energy and Oil
+Materials Science Research
+More
+Services
+News & Insights
+Wikipedia Editors Get Easier Access to Taylor & Francis Journals in Renewed AgreementNovember 8, 2022 - An Enhanced Partnership Between The Wikipedia Library and Taylor & Francis Helps Editors of the Online Encyclopedia Cite the Latest Relevant Research.David Johnston MP Visits Taylor & FrancisNovember 7, 2022 - Member of Parliament for Wantage and Didcot Discusses the Impact of Research and the Role of UK Publishers with Leading Knowledge Services Provider.
+Newsroom
+Insights, analysis, and blogs
+In the News
+Events
+About
+Company
+Our Brands
+Executive Leadership Team
+Our History
+Careers
+Our Policies
+Corporate Responsibility
+Search
+Search
+HomeCookies
+We use cookies to improve your website experience
+To learn about our use of cookies and how you can manage your cookie settings, please see our Cookie Policy
+By closing this message, you are consenting to our use of cookies.
+close
+Cookies
+We have developed this cookie policy (the “Cookie Policy”) to explain how we use cookies and similar technologies (together, “Cookies”) on this website (the “Website”) and to demonstrate our firm commitment to the privacy of your personal information.
+The first time that you visit our Website, we notify you about our use of Cookies through a notification banner
+By continuing to use the Website, you consent to our use of Cookies as described in this Cookie Policy
+However, you can choose whether or not to continue accepting Cookies at any later time
+Information on how to manage Cookies is set out later in this Cookie Policy.
+Please note that our use of any personal information we collect about you is subject to our Privacy Policy.
+What are Cookies?
+Cookies are small text files containing user IDs that are automatically placed on your computer or device by when you visit a website
+The Cookies are stored by the internet browser
+The browser sends the Cookies back to the website on each subsequent visit, allowing the website to recognise your computer or device
+This recognition enables the website provider to observe your activity on the website, deliver a personalised, responsive service and improve the website.
+Cookies can be ‘Session Cookies’ or ‘Persistent Cookies’
+Session Cookies allow a website to link a series of your actions during one browser session, for example, to remember the items you have added to a shopping basket
+Session Cookies expire after a browser session and are therefore not stored on your computer or device afterward
+Persistent Cookies are stored on your computer or device between browser sessions and can be used when you make subsequent visits to the website, for example, to remember your website preferences, such as language or font size.
+Cookies We Use and Their Purpose
+We use 3 types of Cookies:
+Strictly Necessary Cookies
+Performance Cookies
+Functionality Cookies
+Each type of Cookies and the purposes for which we use them are described in this section.
+Strictly Necessary Cookies
+‘Strictly Necessary’ Cookies enable you to move around the Website and use essential features
+For example, if you log into the Website, we use a Cookie to keep you logged in and allow you to access restricted areas, without you having to repeatedly enter your login details
+If you are registering for or purchasing a product or service, we will use Cookies to remember your information and selections, as you move through the registration or purchase process
+Strictly Necessary Cookies are necessary for our Website to provide you with a full service
+If you disable them, certain essential features of the Website will not be available to you and the performance of the Website will be impeded.
+WordPress cookies
+WordPress_[hash] – On login, to store your authentication details
+Its use is limited to the admin console area, /wp-admin/
+wordpress_logged_in_[hash] – After login, which indicates when you’re logged in, and who you are, for most interface use
+wp-settings-{time}-[UID] – The number on the end is your individual user ID from the users database table
+This is used to customize your view of admin interface, and possibly also the main site interface.
+Performance Cookies
+‘Performance’ Cookies collect information about how you use our Website, for example, which pages you visit and if you experience any errors
+These Cookies don’t collect any information that could identify you – all the information collected is anonymous
+We may use these Cookies to help us understand how you use the website and assess how well the Website performs and how we could improve it for you
+We may also use such Cookies to discover which parts of the Website interest you and measure how effective our advertising is.
+Google __utma – Used to distinguish users and sessions
+The cookie is created when the javascript library executes and no existing __utma cookies exists
+The cookie is updated every time data is sent to Google Analytics.
+Google __utmt – Used to throttle request rate.
+Google __utmb – Used to determine new sessions/visits
+The cookie is created when the javascript library executes and no existing __utmb cookies exists
+The cookie is updated every time data is sent to Google Analytics.
+Google __utmc – Not used in ga.js
+Set for interoperability with urchin.js
+Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.
+Google __utmz – Stores the traffic source or campaign that explains how the user reached your site
+The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.
+Google __utmv – Used to store visitor-level custom variable data
+This cookie is created when a developer uses the _setCustomVar method with a visitor level custom variable
+This cookie was also used for the deprecated _setVar method
+The cookie is updated every time data is sent to Google Analytics.
+HotJar hjClosedSurveyInvites – This cookie is set once a visitor interacts with a Survey invitation modal pop-up
+It is used to ensure that the same invite does not re-appear if it has already been shown.
+HotJar _hjDonePolls – This cookie is set once a visitor completes a Poll using the Feedback Poll widget
+It is used to ensure that the same Poll does not re-appear if it has already been filled in.
+HotJar _hjMinimizedPolls – This cookie is set once a visitor minimizes a Feedback Poll widget
+It is used to ensure that the widget stays minimized when the visitor navigates through your site.
+HotJar _hjDoneTestersWidgets – This cookie is set once a visitor submits their information in the Recruit User Testers widget
+It is used to ensure that the same form does not re-appear if it has already been filled in.
+HotJar _hjMinimizedTestersWidgets – This cookie is set once a visitor minimizes a Recruit User Testers widget
+It is used to ensure that the widget stays minimized when the visitor navigates through your site.
+HotJar _hjDoneSurveys – This cookie is set once a visitor completes a survey
+It is used to only load the survey content if the visitor hasn’t completed the survey yet.
+HotJar _hjIncludedInSample – This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate Heatmaps, Funnels, Recordings, etc.`
+HotJar _hjShownFeedbackMessage – This cookie is set when a visitor minimizes or completes Incoming Feedback
+This is done so that the Incoming Feedback will load as minimized immediately if they navigate to another page where it is set to show.
+Functionality Cookies
+‘Functionality’ Cookies enable a website to provide you with specific services or a customised experience
+We may use these Cookies to provide you with services such as watching a video or adding user comments
+We may also use such Cookies to remember changes you make to your settings or preferences (for example, changes to text size or your choice of language or region) or offer you time-saving or personalised features.
+When visitors comment on your blog, they too get cookies stored on their computer
+This is purely a convenience so that the visitor won’t need to re-type all their information again when they want to leave another comment
+Three cookies are set for commenters:
+WordPress comment_author_{HASH}
+WordPress comment_author_email_{HASH}
+WordPress comment_author_url_{HASH}
+The commenter cookies are set to expire a little under one year from the time they’re set.
+First and Third Party Cookies
+The Cookies placed on your computer or device include ‘First Party’ Cookies, meaning Cookies that are placed there by us, or by third-party service providers acting on our behalf
+Where such Cookies are being managed by third parties, we only allow the third parties to use the Cookies for our purposes, as described in this Cookie Policy, and not for their own purposes.
+The Cookies placed on your computer or device may also include ‘Third Party’ Cookies, meaning Cookies that are placed there by third parties
+These Cookies may include third-party advertisers who display adverts on our Website and/or social network providers who provide ‘like’ or ‘share’ capabilities (see the above section on Targeting or Advertising Cookies)
+They may also include third parties who provide video content which is embedded on our Website (such as YouTube)
+Please see the website terms and policies of these third parties for further information on their use of Cookies.
+You can find out about third party cookies here:
+Google = https://www.google.com/policies/technologies/cookies/
+HotJar = https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookies
+Managing Cookies
+If you continue to use the Website, you are consenting to our use of Cookies for the time being
+However, you can choose not to continue accepting Cookies at any later time
+In this section, we describe ways to manage Cookies, including how to disable them.
+You can manage Cookies through the settings of your internet browser
+You can choose to block or restrict Cookies from being placed on your computer or device
+You can also periodically review the Cookies that have been placed there and disable some or all of them.
+The following links may be helpful, or you can use the “Help” option in your browser.
+Internet Explorer – http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies#ie=ie-10
+Firefox – https://support.mozilla.org/en-US/products/firefox/protect-your-privacy/cookies
+Chrome – https://support.google.com/chrome/answer/95647?hl=en&amp;ref_topic=14666
+Safari web – https://support.apple.com/kb/PH17191?locale=en_US
+iOS – http://support.apple.com/kb/HT1677
+You can learn more about how to manage Cookies on the following websites: www.allaboutcookies.org and www.youronlinechoices.com.
+Please be aware that if you choose not to accept certain Cookies, it may mean we are unable to provide you with some services or features of the Website.
+Flash Cookies and How to Manage Them
+We may provide videos and other content through the Website using Adobe Flash Player, which uses ‘Flash Cookies’ (also known as ‘Local Shared Objects’) to provide useful features such as auto-resume and the ability to save your preferences
+Flash Cookies are placed on your computer or device in much the same as other Cookies
+However, it is not possible to manage them in the same way through your internet browser settings
+You can learn more about how to manage Flash Cookies on www.allaboutcookies.org
+Please be aware that if you choose not to accept Flash Cookies, you will be unable to view certain content, such as videos.
+Changes to Cookie Policy
+To keep up with changing legislation and best practice, we may revise this Cookie Policy at any time without notice by posting a revised version on this Website
+So please check back periodically so that you are aware of any changes.
+Questions or Concerns
+If you have any questions or concerns about this Cookie Policy or our use of Cookies on the Website, please contact us by email to privacy@taylorandfrancis.com
+You can also contact the Privacy Officer for the Informa plc group at compliance.officer@informa.com
+This Cookie Policy was last updated on 08/10/2018.
+Contact us
+Advertising
+Customer Service
+Journals editorial contacts
+Newsroom
+Rights & permissions
+Books
+Journals Rights and Permissions
+Global office teams
+Discover our Beijing Office
+Discover our Boca Raton office
+Discover our Cape Town Office
+Discover our New Delhi office
+Discover our Milton Park office
+Discover our Melbourne Office
+Discover our Singapore Office
+Global directory
+Scroll to Top
+Accessibility
+Privacy Center
+Cookies
+Contact
+Terms & Conditions
+© 2022 Informa UK Limited, an Informa Group Company.
+Registered office is 5 Howick Place, London, SW1P 1WG.
+Registered in England and Wales Number 1072954
+Registered for VAT: GB 365 4626 36.
+×

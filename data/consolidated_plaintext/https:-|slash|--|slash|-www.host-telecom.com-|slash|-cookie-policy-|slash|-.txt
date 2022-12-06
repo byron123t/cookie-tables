@@ -1,0 +1,571 @@
+
+
+
+
+
+Cookie Policy | Host-telecom.com
+
+
+
+
+
+
+
+Cookie Policy | Host-telecom.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Center Services
+
+Dedicated Servers
+Colocation
+Dedicated Server as a Gift
+Dedicated Racks
+Managed Services
+Support
+
+
+Cloud
+
+Virtual Data Center (VDC, IaaS)
+Virtual Servers (VPS/VDS)
+Cloud Storage
+Cloud Backup
+Container-As-A-Service
+
+
+Partners
+
+Partner program
+Technology Partners
+
+
+About Us
+
+Data center
+About Host-telecom.com
+Contacts
+Documents
+Payment Options
+Blog
+FAQ
+Guides
+For Mass Media
+
+
+ 
+
+
+
+ My
+                            Account 
+
+
+						en                    
+
+Čeština
+
+
+
+
+
+
+
+				+420 391 000 777            
+
+
+
+
+
+
+
+Main page / Cookie Policy 
+
+ Request a call back
+ +420 391 000 777
+
+
+
+
+
+
+
+
+Cookie Policy 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.
+
+Last Revised: 2019-01-12 14:11
+Host-telecom.com, s.r.o., registered address Pod Rafandou 906, Veselí nad Lužnicí II, Veselí nad Lužnicí, 39181, Czech Republic (hereinafter referred to as the “Company,” or “ we” ), shall undertake to ensure the security of personal information and the protection of rights of the visitors of the website (hereinafter referred to as the “Visitors” ) while you use Host-telecom.com group websites including but not limited to www.host-telecom.com , www.host-telecom.cz , (hereinafter referred to as the “Website” ) and the content of it.
+1. GENERAL INFORMATION ABOUT COOKIES
+We use the cookies on our Website, to customize the functioning of our Website as much as possible, and can contribute to ease of use when navigating our Website.
+What is a cookie?
+A cookie is a small file placed onto your device that enables our Website features and functionality. For example, cookies enable us to identify your device, secure your access to the Website. They enable the Website to store the data, such as:
+
+Login data (IP address of the logging-in device, login time, location from which the login is attempted);
+Type of browser;
+Demographic data (age group, sex);
+Data about the fact how you browse the Website (which sections you visit, what products are you interested in).
+
+Objectives, aims
+We use the cookies to:
+
+Ensure efficient and safe functioning of the Website; we use cookies to enable and support our security features, and to help us detect malicious activity on our Website;
+Understand, improve, and research products, features, and services, including when you access our Website from other websites, applications, or devices such as your work computer or your mobile device;>
+Recognize the returning visitors of the Website; cookies help us show you the right information and personalize your experience; cookies also help avoiding re-registration or re-filling of the information by you each time you visit the Website;
+Analyse your habits so that the functioning of the Website would be convenient, efficient and would conform to your needs and expectations, for example, by ensuring that the Visitors would, without difficulty, find everything they are looking for;
+Measure the flows of the information and data being sent to our Website; we use the cookies for accumulation of statistical data about the number of users of the Website and their use of the Website;
+Targeting and advertising; by using the cookies we may collect information so that only relevant content is displayed for the browser by creating different target groups; we may use cookies to show you relevant advertising both on and off our Website.
+
+We may, to the extent allowed by applicable laws, link the data, received from the cookies, with other information obtained about you from other legal sources (i.e., information about the use of the services, online account, our Loyalty program, etc.).
+2. COOKIES USED ON THE WEBSITE
+Each time you visit our Website, the long-term (persistent) cookies may be created, which stay in your browser after you sign-up and will be read by us when you return to our Website or a partner site that uses our services, and not deleted after you finish browsing our Website, and the short-term (session) cookies, which expire or are deleted after you finish browsing our Website (i.e., they usually last during the current visit to our Website or browsing session).
+Many web browsers allow you to manage your preferences. You can set your browser to refuse cookies or delete certain cookies. You may be able to manage other technologies in the same way that you manage cookies using your browser's preferences.
+However, we note that the necessary cookies, as specified below, are necessary for functioning of our Website, and in case of your objections, we will not be sure about functioning of the Website or any of its portions or functionalities.
+We recite below the main types of cookies used on the Website according to their types, collected data, and duration of storage.
+2.1. Cookies used by the Company
+Strictly necessary cookies
+These cookies are required for the operation of our Website. They include, for example, cookies that enable storage of information filled by you during the browsing session, enable you to log into secure areas of our Website. Without these cookies operation of the Website would be impossible or its functioning may be severely affected.
+Functional cookies
+These improve the functional performance of our Website and make it easier for you to use. These cookies remember the settings selected by the Visitors (for example, the settings of language and time zone). With the use of these cookies, the Visitors may avoid the changes of settings during each visit of the Website. These cookies also remember changes made by you in the Website (for example, in case you leave comment on the Website). These cookies do not track your behaviour in other websites.
+Analytical / performance cookies
+These cookies show us if the Visitor has visited our Website before. The analytic cookies allow us to recognise and count the number of users of our website and see how such users navigate through our Website. We also use cookies to understand, improve, and research products, features, and services. For instance, analytical cookies may show us, which websites are visited more frequently, help us to record dysfunctionalities of the Website, etc.
+Marketing, targeting and advertising cookies
+These cookies record your visit to our website, the pages you have visited and the links you have followed. We will then use this information to make advertising displayed on it more relevant to your interests. The advertising cookies let us know whether you have already seen the specific advertisement or a certain type of advertisement, and how much time has elapsed since you saw it. We may use the cookies set by another entity so that we could provide the advertisement oriented more specifically to you. They are also used so that we could see the certain advertisements only a certain number of times and that it would help to measure the efficiency of advertising.
+All information about the cookies used by us is recorded below:
+
+
+
+Name of the cookieDescription/TypeMoment of creationDurationData used/collected
+PHPSESSIDStandard cookie for upholding the session. Necessary cookieEntering the WebsiteUntil closing the Website pageUnique identifier
+Google DoubleClickGoogle Marketing campaign cookieEntering the website30 daysUsed to measure the effectiveness of its online marketing campaigns.
+Google AnalyticsGoogle Web Analytics cookieEntering the website90 daysGoogle Analytics sets a cookie in order to evaluate use of our services and compile a report for us.
+LaSIDLadesk Support portal cookieEntering the websiteUnlimitedvisitor session identifier
+LaVisitorIdLadesk Support portal cookieEntering the website30 daysused to recognize the visitor on each visit of your pages where the widget integration code is added
+LaVisitorNewLadesk Support portal cookieEntering the website1 dayinformation if this is a new or returning visitor, automatic invitations may display depending on this attribute
+System cookies by Host-telecom.comOur own system cookiesEntering the website30 daysUsed to identify if user came from our free portal, what is added to the cart, check if user is logged in or not.
+IntercomCookies added by Intercom support softwareLogging into members area90 daysUsed to identify user, log him into the intercom widget
+FacebookCookies added by facebookLogging in with Facebook loginUsed to identify user who logged in using facebook login.
+GoogleCookies added by google loginLogging in with GoogleUsed to identify user who used google auth to login / sign up to Host-telecom.com.
+
+
+
+2.2. Third-party cookies
+Advertising cookies - some ads you can see on our Website have been provided by other legal entities. Some of these entities use their own cookies by analysing how many people have seen the specific advertisement or how many people have seen it more than once. The companies creating such cookies apply the policies prepared by themselves and we have no influence on the creation or storage of such cookies. We recommend you to take a separate interest in the Privacy Policy or the Cookie Policy of those companies, which will be placed on their websites.
+Other third-party cookies - in some web pages of our Website, the other entities (for example, social networks) may also use their own anonymous cookies designed so that the programmes or applications developed by them would suit your needs. Due to the specific features of the functioning of the cookies, our Website does not have access to the information transmitted by these cookies, likewise other entities do not have access to the information collected by the cookies set by us.
+Such other type of third-party cookies used on our Website may include:
+Necessary cookies:
+
+cart-en-us
+nlsrid124590
+000user_id
+rcid
+cartItemsCount
+V_auth
+A_auth
+cookie_consent
+em_p_uid
+em_cdn_uid
+"Intercom""Ladesk"
+
+Functional cookies:
+
+"Google"
+"Facebook"
+
+Analytical cookies:
+
+"Google Analytics"
+
+We use Google Analytics, a web analysis service provided by Google, Inc (hereinafter referred to as "Google"). The information collected by Google Analytics is transmitted to and stored with Google. Google may transmit the information collected by Google Analytics to the third parties as required by the law or when those third parties process the information in the name of Google.
+We recommend consulting the Google Privacy and Cookies Policy on a separate and regular basis.
+Marketing, targeting and advertising cookies:
+
+"Adwords retargeting"
+"Facebook retargeting"
+
+3.REFUSAL OR BLOCKING THE COOKIES
+Many web browsers are set so that they would automatically accept cookies. The Visitors may, at their discretion, block or delete cookies and similar unique identifiers, if the settings of their browser or device enable them to do so. Nevertheless, if you refuse or block the cookies or other similar technologies, some functions of the Website may be inaccessible to you or they may operate not so efficiently.
+Nevertheless, we draw your attention that necessary cookies are necessary for functioning of our Website, and in case of your objections, we will not be sure about functioning of the Website.
+You may require that we delete all the data about you, as collected and processed with the help of the cookies, by contacting to the email address gdpr@host-telecom.com. Such data will be deleted not later than within 28 days after contacting to the above-mentioned email address.
+You may find more information about how to delete cookies, as well as the other useful information related to the use of the cookies, on the website http://www.allaboutcookies.org/.
+4. GENERAL
+This Cookie Policy may be updated by the Company.
+The Company will inform the Visitors about the updates, by providing the new version of the Cookie Policy. For this reason, we recommend that you periodically visit our Website, where you will always find the latest version of this Cookie Policy.
+This Cookie Policy shall be applied from the date of announcement of it on the Website.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Host-telecom.com
+Data Center
+EU project
+Documents
+Contacts
+Feedback
+Account
+Site map
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+Dedicated servers
+Dedicated racks
+Colocation
+Virtual servers
+Cloud storage
+Container as a service
+Managed services
+Migration from VMware
+Virtual data center
+Cloud backup
+Servers control panel
+Deals and Promotions
+FAQ
+Guides
+
+
+
+Contact us
+
+
+Contact forms
+ Request a call back
+ Common questions
+ Technical support
+
+
+Direct way
++420 391 000 777
+info@host-telecom.com
+support@host-telecom.com
+
+
+
+Social media
+
+
+
+
+
+
+DC
+Pod Rafandou 906, Veselí nad Lužnicí, Czech Republic, 39181.
+
+
+
+
+
+
+Host-telecom.com, s.r.o. implements the project Host-Telecom.com — the expansion of the data processing center in Veseli nad Lužnici (CZ.01.4.04/0.0/0.0/16_078/0009386), the purpose of which is the implementation of large investments in the expansion of the data processing center in Veseli nad Lužnici by purchasing a large number of modern high-performance servers. This project is supported by financial support from the European Union (OPPIK).
+
+
+
+
+Privacy Policy | Refund Policy | Terms of Service | Abuse policy
+
+
+
+
+© Host-telecom.com, s.r.o. ID 26103133, Strážkovice 43, 374 01 Strážkovice, Czech Republic.
+
+
+
+
+
+
+
+
+
+
+
+
+We will be happy to call you back
+×
+
+
+
+Name*Phone*When will it be more convenient?NowTodayTomorrowWhat is your timezone?UTC+0 (London, Dublin, Lisbon, Abidjan, Accra, Dakar)UTC+1 (Berlin, Rome, Paris, Madrid, Warsaw, Lagos, Kinshasa, Algiers, Casablanca)UTC+2 (Cairo, Johannesburg, Khartoum, Kyiv, Bucharest, Athens, Jerusalem, Sofia)UTC+3 (Moscow, Istanbul, Riyadh, Baghdad, Addis Ababa, Doha)UTC+3:30 (Tehran)UTC+4 (Dubai, Baku, Tbilisi, Yerevan, Samara)UTC+4:30 (Kabul)UTC+5 (Karachi, Tashkent, Yekaterinburg)UTC+5:30 (Mumbai, Colombo)UTC+5:45 (Kathmandu)UTC+6 (Dhaka, Almaty, Omsk)UTC+6:30 (Yangon)UTC+7 (Jakarta, Ho Chi Minh City, Bangkok, Krasnoyarsk)UTC+8 (Shanghai, Taipei, Kuala Lumpur, Singapore, Perth, Manila, Makassar, Irkutsk)UTC+8:45 (Eucla)UTC+9 (Tokyo, Seoul, Pyongyang, Ambon, Chita)UTC+9:30 (Adelaide)UTC+10 (Sydney, Port Moresby, Vladivostok)UTC+10:30 (Lord Howe Island)UTC+11 (Nouméa)UTC+12 (Auckland, Suva, Petropavlovsk-Kamchatsky)UTC+12:45 (Chatham Islands)UTC+13 (Phoenix Islands, Tokelau, Samoa, Tonga)UTC+14 (Line Islands)UTC−12 (Baker Island, Howland Island)UTC−11 (American Samoa, Niue)UTC−10 (Aleutian Islands, Hawaii, Johnston Atoll, Cook Islands, French Polynesia)UTC−9:30 (Marquesas Islands)UTC−9 (Alaska, Gambier Islands)UTC−8 (Los Angeles, Vancouver, Tijuana)UTC−7 (Denver, Edmonton, Ciudad Juárez)UTC−6 (Mexico City, Chicago, Guatemala City, Tegucigalpa, Winnipeg, San José, San Salvador)UTC−5 (New York, Toronto, Havana, Lima, Bogotá, Kingston, Quito)UTC−4 (Santiago, Santo Domingo, Manaus, Caracas, La Paz, Halifax)UTC−3:30 (St. John’s)UTC−3 (São Paulo, Buenos Aires, Montevideo)UTC−2 (Fernando de Noronha, South Georgia and the South Sandwich Islands)UTC−1 (Cape Verde, Ittoqqortoormiit and surrounding area, Azores islands)What time should we call?09:00-11:0011:00-13:0013:00-15:0015:00-17:0017:00-19:0019:00-21:00NameThis field is for validation purposes and should be left unchanged.
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+We are happy to answer your questions
+×
+
+
+
+Name*Email*
+
+Subject*Message*Two and 2 more?*PhoneThis field is for validation purposes and should be left unchanged.
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+We are happy to answer your questions
+×
+
+
+
+Name*Email*
+
+Subject*Message*CommentsThis field is for validation purposes and should be left unchanged.
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spelling error report
+
+The following text will be sent to our editors:
+
+
+
+
+Your comment (optional):
+
+
+
+
+
+
+Send
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+

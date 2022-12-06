@@ -1,0 +1,3 @@
+https://www.igvita.com/2016/08/26/stop-cross-site-timing-attacks-with-samesite-cookies/
+https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-cookie-same-site-00
+https://datatracker.ietf.org/doc/html/draft-west-first-party-cookies

@@ -1,0 +1,1953 @@
+
+
+
+
+Cookies We Use | Qualys
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cloud Platform
+
+
+
+
+										Cloud Apps
+									
+
+
+
+
+
+
+Overview – Qualys IT, Security and Compliance apps are natively integrated, each sharing the same scan data for a single source of truth.
+Subscription Options – Pricing depends on the number of apps, IP addresses, web apps and user licenses.
+
+
+
+
+
+Asset Management
+
+
+
+Global AssetView – It’s Free! Unlimited Assets
+
+
+CyberSecurity Asset Management - New
+
+
+Certificate Inventory
+
+
+
+
+
+
+IT Security
+
+
+
+Vulnerability Management, Detection & Response - Most Popular
+
+
+Threat Protection
+
+
+Continuous Monitoring
+
+
+Patch Management
+
+
+Custom Assessment and Remediation
+
+
+Multi-Vector EDR
+
+
+Certificate Assessment
+
+
+SaaS Detection & Response
+
+
+Context XDR
+
+
+
+
+
+
+Compliance
+
+
+
+Policy Compliance
+
+
+Security Configuration Assessment
+
+
+PCI ASV Compliance
+
+
+File Integrity Monitoring
+
+
+Security Assessment Questionnaire
+
+
+Out-of-Band Configuration Assessment
+
+
+
+
+
+
+Cloud / Container Security
+
+
+
+TotalCloud - New
+
+
+Cloud Inventory
+
+
+Cloud Security Assessment
+
+
+Container Security
+
+
+
+
+
+
+Web App Security
+
+
+
+Web App Scanning
+
+
+Web App Firewall
+
+
+
+
+
+
+
+
+
+
+
+
+										Solutions
+									
+
+
+
+
+
+
+Overview
+
+
+Infrastructure security
+
+
+Threat Protection
+
+
+Cloud infrastructure security
+
+
+Endpoint security
+
+
+DevOps
+
+
+Compliance
+
+
+PCI Compliance
+
+
+Web app security
+
+
+Government
+
+
+
+
+
+
+
+
+										More
+									
+
+
+
+
+
+
+
+
+Customers
+
+
+
+Overview
+
+
+Best practices
+
+
+Success stories
+
+
+Testimonials
+
+
+
+
+
+
+Partners
+
+
+
+Overview
+
+
+Partner program
+
+
+VAD partners
+
+
+VAR resellers
+
+
+MSP/MSSP partners
+
+
+Consultants and MSPs
+
+
+Integration partners
+
+
+Partner FAQs
+
+
+Find a partner
+
+
+
+
+
+
+Company
+
+
+
+About us
+
+
+Our team
+
+
+Investor relations
+
+
+News
+
+
+Awards
+
+
+Events
+
+
+Careers
+
+
+
+
+
+
+Support
+
+
+
+Overview
+
+
+Free training
+
+
+Resources
+
+
+Community
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Community
+
+
+
+
+
+
+
+Overview
+
+
+
+Discuss
+
+
+
+Blog
+
+
+
+Training
+
+
+
+Docs
+
+
+
+Resources
+
+
+
+
+
+
+
+Login
+
+
+
+
+
+
+US Platform 1
+
+
+US Platform 2
+
+
+US Platform 3
+
+
+US Platform 4
+
+
+CA Platform 1
+
+
+EU Platform 1
+
+
+EU Platform 2
+
+
+IN Platform 1
+
+
+AE Platform 1
+
+
+UK Platform 1
+
+
+AU Platform 1
+
+
+PCI Platform
+
+
+
+What’s my platform?
+
+
+
+
+
+
+Contact us
+
+
+
+
+Contact us below to request a quote, or for any product-related questions
+
+
+
+Chat with us
+
+
+
+Schedule a demo
+
+
+
++1 800 745 4355
+
+
+
+Request a call or email
+
+
+
+Global offices and contacts
+
+
+
+
+
+
+
+ 
+										Create Account. It’s Free!
+
+
+
+
+Try PM for free
+
+
+
+
+Try VMDR for free
+
+
+
+
+Try CS for free
+
+
+
+
+Sign up for TotalCloud
+
+
+
+
+Try CSAM for free
+
+
+
+
+Try PCI for free
+
+
+
+
+Try Policy Compliance for free
+
+
+
+
+Try VMDR for Mobile Devices
+
+
+
+
+Try SaaSDR for free
+
+
+
+
+Try Multi-Vector EDR for Free
+
+
+
+
+Try CAR for Free
+
+
+
+
+Request a Demo
+
+
+
+
+Try it
+
+
+
+
+
+
+Qualys Cloud Platform
+
+
+
+Cloud Platform - Free Trial
+
+
+
+
+Free Services
+
+
+
+60-Day Remote Endpoint Protection
+
+
+Global AssetView
+
+
+Community Edition
+
+
+SSL Labs
+
+
+CertView
+
+
+CloudView
+
+
+API Security Assessment
+
+
+BrowserCheck
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+Resources (guides, whitepapers, etc.)
+Qualys Cloud Apps
+Free trial
+News
+Events calendar
+Qualys Community
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+Cloud Platform
+
+
+Cloud Platform Apps
+
+
+Solutions
+
+
+Customers
+
+
+Partners
+
+
+Community
+
+
+Support
+
+
+Company
+
+
+Login
+
+
+Contact us
+
+
+
+
+
+
+
+
+
+
+
+
+Quick Links
+
+
+Resources (guides, whitepapers, etc.)
+
+
+Qualys Cloud Apps
+
+
+News
+
+
+Events calendar
+
+
+Qualys Community
+
+
+
+
+Try it
+
+
+
+
+
+
+Back
+
+						Cloud Platform
+					
+
+
+
+Cloud Platform
+
+
+
+
+
+Back
+
+						Solutions
+					
+
+
+
+Overview
+
+
+
+
+							Infrastructure security
+						
+
+
+
+
+							Threat Protection
+						
+
+
+
+
+							Cloud infrastructure security
+						
+
+
+
+
+							Endpoint security
+						
+
+
+
+
+							DevOps
+						
+
+
+
+
+							Compliance
+						
+
+
+
+
+							PCI Compliance
+						
+
+
+
+
+							Web app security
+						
+
+
+
+
+							Government
+						
+
+
+
+
+
+Back
+
+						Cloud Platform Apps
+					
+
+
+
+Overview
+
+
+
+
+							Asset Management
+						
+
+
+Global AssetView – It’s Free! Unlimited Assets
+
+
+CyberSecurity Asset Management – New
+
+
+Certificate Inventory
+
+
+
+
+							IT Security
+						
+
+
+Vulnerability Management, Detection & Response – Most Popular
+
+
+Threat Protection
+
+
+Continuous Monitoring
+
+
+Patch Management
+
+
+Custom Assessment and Remediation
+
+
+Multi-Vector EDR
+
+
+Certificate Assessment
+
+
+Secure Access Control
+
+
+SaaS Detection & Response
+
+
+Context XDR
+
+
+
+
+							Compliance
+						
+
+
+Policy Compliance
+
+
+Security Configuration Assessment
+
+
+PCI ASV Compliance
+
+
+File Integrity Monitoring
+
+
+Security Assessment Questionnaire
+
+
+
+
+							Cloud & Container Security
+						
+
+
+TotalCloud - New
+
+
+Cloud Inventory
+
+
+Cloud Security Assessment
+
+
+Container Security
+
+
+
+
+							Web App Security
+						
+
+
+Web App Scanning
+
+
+Web App Firewall
+
+
+
+
+
+Back
+
+						Customers
+					
+
+
+
+Overview
+
+
+Best practices
+
+
+Success stories
+
+
+Testimonials
+
+
+
+
+
+Back
+
+						Partners
+					
+
+
+
+Overview
+
+
+Partner program
+
+
+VAD partners
+
+
+VAR resellers
+
+
+MSP/MSSP partners
+
+
+Consultants and MSPs
+
+
+Integration partners
+
+
+Partner FAQs
+
+
+Find a partner
+
+
+
+
+
+Back
+
+						Community
+					
+
+
+
+Overview
+
+
+Discuss
+
+
+Docs
+
+
+Blog
+
+
+Resources
+
+
+
+
+
+Back
+
+						Support
+					
+
+
+
+Overview
+
+
+Free training
+
+
+
+
+
+Back
+
+						Company
+					
+
+
+
+About us
+
+
+Our team
+
+
+Investor relations
+
+
+News
+
+
+Awards
+
+
+Events
+
+
+Careers
+
+
+
+
+
+Back
+
+						Login
+					
+
+
+
+US Platform 1
+
+
+US Platform 2
+
+
+US Platform 3
+
+
+CA Platform 1
+
+
+PCI Platform
+
+
+EU Platform 1
+
+
+EU Platform 2
+
+
+IN Platform 1
+
+
+AE Platform 1
+
+
+UK Platform 1
+
+
+AU Platform 1
+
+
+What's my platform?
+
+
+
+
+
+Back
+
+						Contact us
+					
+
+
+
+Contact us below to request a quote, or for any product-related questions
+
+
+Chat with us
+
+
+Schedule a demo
+
+
++1 800 745 4355
+
+
+Request a call or email
+
+
+Global offices and contacts
+
+
+
+
+
+Back
+
+						Try it
+					
+
+
+
+
+
+							Qualys Cloud Platform
+						
+
+
+Cloud Platform - Free Trial
+
+
+
+
+							Free Services
+						
+
+
+60-Day Remote Endpoint Protection
+
+
+Global AssetView
+
+
+Community Edition
+
+
+SSL Labs
+
+
+CertView
+
+
+CloudView
+
+
+API Security Assessment
+
+
+BrowserCheck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Cookies We Use
+					
+Effective Date: September 28, 2020
+
+This document describes the different types of cookies that may be applied on Qualys Cloud Platform and Cloud Apps ("Cloud Services"); and Qualys websites ("the Site") including www.qualys.com, community.qualys.com, lps.qualys.com, and blog.qualys.com.
+This document supplements the Privacy Policy.
+Cookie Policy
+
+							Our Use of Cookies and Your Options
+						
+
+
+								By using a Qualys Web site with your browser settings adjusted to accept cookies you consent to our use of
+								cookies and
+								other tools to provide the products and services available on those sites.
+							 If you would like to modify your browser to
+							notify you when you receive a new cookie or to disable cookies altogether, please refer to Managing Cookies below.
+						
+
+							Cookies and How We Use Them
+						
+
+							Cookies are small text files that may be placed on your Web browser when you visit our Web sites or when you view
+							advertisements, we have placed on other Web sites. Cookies allow your browser to remember some specific information
+							which the Web server can later retrieve and use. When you quit your browser, some cookies are stored in your
+							computer’s
+							memory, while some expire or disappear.
+						
+
+							Cookies are used primarily for administrative purposes, to improve your experience with our Web sites. Examples of
+							this
+							would include the use of cookies:
+						
+
+
+								To improve site security by “authenticating” you (i.e., verify that you are who you say you are) when you
+								sign-in to
+								our site.
+							
+
+								To keep track of your specified preferences such as language, time zone and timeouts after periods of
+								inactivity.
+							
+
+								To allow you to navigate our sites more easily by “remembering” your identity so that you do not have to input
+								your password multiple times as you move between pages or services.
+							
+
+
+							In addition to administrative uses, we may also use cookies in one or more of the following ways, depending on the
+							Web
+							site you are using:
+						
+
+
+								To conduct research and analytics to improve our Web sites and our products and services. This includes
+								compiling
+								statistical information concerning, among other things, the frequency of your use of our Web sites, the pages
+								visited
+								and the length of each visit.
+							
+
+								To display Qualys advertisements when you visit Web sites of third parties with whom we have marketing
+								relationships
+								and to help us gauge the effectiveness of our advertising efforts. These parties may gather information
+								concerning your
+								use of other Web sites and provide us with de-identified information about you (such as demographic information
+								or the
+								names of sites where you have been shown ads) which we may use to provide you with more relevant and useful
+								advertising.
+							
+
+
+							This paragraph applies only to the www.qualys.com Web site. Our site may use
+							third parties to serve advertisements as
+							described immediately above. These Cookies may be used to shared data with advertisers so that ads you see are more
+							relevant and/or are of interest to you, allow you to share certain pages with social networks or allow you to post
+							comments on our Site.
+						
+
+							If you would like more information about this practice, and to learn how to opt out of it on the particular device
+							on
+							which you are accessing this Privacy and Cookies Policy, please visit http://optout.aboutads.info/#/. For more
+							information on how we collect and use information that is identifiable to you, please refer to our Privacy Policy.
+						
+
+							Managing Cookies
+						
+
+							The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies,
+							how
+							to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally,
+							you
+							can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings
+							or
+							visiting the Web site of its manufacturer. Some of our sites employ “functionality cookies” that help the site
+							remember
+							your settings and preferences for use when you visit the site in the future. This provides a more tailored and
+							pleasant
+							user experience. These cookies store information in multiple places. On those sites using functionality cookies, you
+							will find a “Delete Cookies” feature on every page that will allow you to delete these cookies completely from your
+							device. Please note that, if you decline to use cookies, you may experience reduced functionality and, for sites
+							using
+							authentication-related cookies, declining cookies will prevent you from using the Web site altogether. To learn more
+							about what cookies are set on your computer as you browse the Web and how to manage or delete them, visit below
+							links
+							for your specific browser:
+						
+
+							(a) Chrome Browser Support 
+							(b) Firefox Browser Support
+							(c) Opera Browser Support
+							(d) IE Browser Support
+							(e) Safari Browser Support
+							(f) Edge Browser Support
+
+Cloud Services
+Qualys Cloud Services use 1st party cookies (which are set by the website being visited).
+1st Party Cookies
+
+
+
+Cookie Name
+Description
+Expiration
+Type
+
+
+DWRSESSIONID
+Qualys cookie for session management
+Session
+Functionality
+
+
+QualysSession
+Qualys cookie for session management
+Session
+Functionality
+
+
+NSC_xxxxx
+Identifies which load balancer you are on to load balance across multiple servers
+Session
+Functionality
+
+
+QualysExtSession
+Forgot password page cookie
+Session
+Functionality
+
+
+PCIMerchantSession
+PCI Merchant Session Cookie
+Session
+Functionality
+
+
+PCIAdminSession
+PCI Admin Session Cookie
+Session
+Functionality
+
+
+PCIBankSession
+PCI Bank session cookie
+Session
+Functionality
+
+
+
+The Site
+Qualys websites use both 1st party cookies (which are set by the website being visited) and 3rd party cookies (which are set by a server located outside the domain of Qualys websites).
+1st Party Cookies
+
+
+
+Cookie Name
+Description
+Expiration
+Type
+
+
+leadsource
+Qualys tracking cookie used to track where leads (users) come from
+2 months
+Targeting / Profiling
+
+
+qualys.homepage.banner.notice
+Qualys homepage banner cookie to track if user closes banner
+1 day
+Functionality
+
+
+qualys.free-trial.overlay
+Qualys free trial overlay cookie to track if user closes the overlay
+1 day
+Functionality
+
+
+dnt
+Consent to place cookies (do not track) on Qualys websites
+1 year
+Functionality
+
+
+qualys_liked_posts
+Tracks which blog posts a user has liked
+1 year
+Analytics
+
+
+qualys_liked_comments
+Tracks which comments a user has liked
+1 year
+Analytics
+
+
+
+3rd Party Cookies
+
+
+
+Cookie Vendor Name
+Description
+Expiration
+Type
+
+
+Google Analytics
+Web traffic tracking
+1 or 2 years
+Analytical / Performance
+
+
+Marketo
+Records last visit and activity, analyzes browsing activity across sites to establish user profile
+2 years
+Targeting / Profiling
+
+
+Microsoft
+Microsoft Bing Ads Universal Event Tracking (UET) tracking cookie
+30 minutes
+Targeting / Profiling
+
+
+DoubleClick by Google
+Analyzes audience to improve Site design and content – conversion tracking and retargeting
+2 years
+Targeting / Profiling
+
+
+BIG Ip F5 Load Balancer
+Identifies which load balancer you are on to load balance across multiple servers
+Session
+Strictly Necessary
+
+
+Pingdom
+To measure website performance and uptime
+1 year
+Analytical / Performance
+
+
+Google Ad Services
+Google advertising
+1 year
+Targeting / Profiling
+
+
+LinkedIn Ads
+LinkedIn advertising
+1 year
+Targeting / Profiling
+
+
+AppNexus
+Advertising exchange
+1 year
+Targeting / Profiling
+
+
+Facebook
+Facebook custom audience / advertising
+1 year
+Targeting / Profiling
+
+
+Drift
+Live chat
+1 year
+Strictly Necessary
+
+
+Coveo
+Search engine
+27 years
+Targeting / Profiling
+
+
+Bizible
+Marketing attribution and revenue planning
+1 year
+Targeting / Profiling
+
+
+Wordpress Jetpack
+To store the user's usage history
+Session
+Statistics
+
+
+Albacross
+To help identify potential B2B customers and uniquely identifies their session
+1 year
+Authentication token
+
+
+
+
+
+
+
+
+
+
+
+
+
+							Is your web server's SSL/TLS configuration secure?
+							Find out for free.
+
+
+							See the power of Qualys, instantly. We don’t use the domain names or the
+							test results, and we never will.
+						
+
+
+
+
+
+Go
+
+
+
+
+								More free services
+							
+
+
+
+										60-Day Remote Endpoint Protection
+
+
+
+										Global AssetView
+
+
+
+										Community Edition
+
+
+
+										CertView
+
+
+
+										CloudView
+
+
+
+										API Security Assessment
+
+
+
+										SSL Labs
+
+
+
+										BrowserCheck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cloud Platform
+
+
+Qualys Cloud Platform
+
+
+Private Cloud Platform
+
+
+Private Cloud Platform Appliance
+
+
+Public Cloud Integrations
+
+
+Cloud Agent
+
+
+
+
+Cloud Apps
+
+
+Overview
+
+
+Global AssetView – It's Free!
+
+
+CyberSecurity Asset Management
+
+
+Certificate Inventory
+
+
+Vulnerability Management, Detection and Response
+
+
+Threat Protection
+
+
+Continuous Monitoring
+
+
+Multi-Vector EDR
+
+
+Patch Management
+
+
+Custom Assessment and Remediation
+
+
+Certificate Assessment
+
+
+SaaS Detection & Response
+
+
+Context XDR
+
+
+TotalCloud
+
+
+Cloud Inventory
+
+
+Cloud Security Assessment
+
+
+Container Security
+
+
+Web App Scanning
+
+
+Web App Firewall
+
+
+Policy Compliance
+
+
+Security Configuration Assessment
+
+
+PCI ASV Compliance
+
+
+File Integrity Monitoring
+
+
+Security Assessment Questionnaire
+
+
+Out-of-Band Configuration Assessment
+
+
+
+
+Subscriptions
+
+
+Cloud Apps “a la carte”
+
+
+
+
+Free trials & apps
+
+
+Qualys Cloud Platform
+
+
+Qualys VMDR
+
+
+60-Day Remote Endpoint Protection
+
+
+Global AssetView – It's Free!
+
+
+
+
+Partners
+
+
+Overview
+
+
+Partner program
+
+
+VAD partners
+
+
+VAR resellers
+
+
+MSP/MSSP partners
+
+
+Consultants and MSPs
+
+
+Integration partners
+
+
+Partner FAQs
+
+
+Find a partner
+
+
+
+
+Solutions
+
+
+Overview
+
+
+Infrastructure security
+
+
+Cloud Security
+
+
+Endpoint security
+
+
+DevOps
+
+
+Compliance
+
+
+PCI Compliance
+
+
+Web App Security
+
+
+Government
+
+
+
+
+Company
+
+
+About us
+
+
+Careers
+
+
+Investor relations
+
+
+Our team
+
+
+News
+
+
+Events
+
+
+Contact
+
+
+Qualys Merchandise Store
+
+
+
+
+Resources
+
+
+Community
+
+
+Docs
+
+
+Support
+
+
+Free training
+
+
+Blog
+
+
+Resources
+
+
+Sitemap
+
+
+
+
+
+
+
+Free trial
+
+
+Sales +1 800 745 4355
+
+
+Schedule a demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						© 2022 Qualys, Inc.  All rights reserved. 
+						
+							Privacy Policy. 
+						
+							Trust. 
+						
+							Cookie Consent. 
+					
+
+
+
+
+
+
+
+
+
+
+
+
+Log4Shell Response
+
+See updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

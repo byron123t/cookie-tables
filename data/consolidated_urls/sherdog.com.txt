@@ -1,0 +1,4 @@
+https://www.mandatory.com/privacy
+https://www.mandatory.com/cookies
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+https://support.google.com/analytics/answer/6004245

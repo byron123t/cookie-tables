@@ -1,0 +1,2 @@
+https://www.wizardingworld.com/privacy#child
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage

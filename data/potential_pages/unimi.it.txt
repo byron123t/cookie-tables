@@ -1,0 +1,2 @@
+https://matomo.org/subcategory/cookies/
+https://matomo.org/faq/how-to/how-do-i-enforce-tracking-without-cookies/

@@ -1,0 +1,232 @@
+Cookies | Admixer
+Products
+For advertisers
+Demand Side Platformpurchase audiences at scale across all digital media
+Data Management Platformprecise audience targeting
+Agency Tech Stackmake revenue from your own adtech ecosystem
+In-House DSPfor enterprise to bring programmatic in-house
+For publishers
+Header Biddingsmart way to monetize websites
+Supply Side Platformdrive more revenue to your website, app, and SSP
+Network Platformfor advertising networks creation and management
+Google AdManager 360
+For Ad Traders
+RTB StackWhite-label Ad Exchange for all types of ad formats
+Company
+About us
+Our Partners
+Events
+Careers
+Contact us
+Documentation
+AdTech Development
+Blog
+Talk to an Expert
+en
+My account
+audienceTargeting
+blacklist
+geoTargeting
+platformTargeting
+timeTargeting
+urlTargeting
+Internal___Blog
+retargetingGroups
+Internal___Trgeting
+Internal___Report
+Internal___MultiFOrmats
+Internal___LaunchMulti
+Internal___BlackList
+Internal__SSP
+Internal__NewDeal
+default
+banner
+mobile
+teaser
+video
+facebook
+globe
+user
+arrowRight
+allformats
+audience
+betterSources
+campaigns
+clock
+crm
+customCreatives
+eventTrackers
+frequency
+impressions
+internalSources
+inventory
+linkedIn
+more
+network
+pdf
+platform
+priority
+report
+rich
+send
+sitePreview
+sites
+slideshare
+urls
+viewSettings
+wallet
+weStars
+Clients
+Users Choices
+With GDPR coming into force, we will provide users with the possibility to access and manage data that is collected by the Admixer services in the course of their activities.
+Also, click the button if you would like us to stop collecting information about your online activity.
+Strictly Necessary Cookies
+Obligatory Settings Cookie
+wp-settings-time-1
+WordPress uses this cookie to customize your view of the admin interface, and possibly also the main site interface
+This persistent cookie is used to customize the user’s view.
+Duration: 1 year
+Test Cookie
+wordpress_test_cookie
+WordPress sets a test cookie (wordpress_test_cookie) for every visitor to check if the browser accepts cookies
+More cookies are only set if the user logs in or if a plugin or theme is used that sets cookies for any other purposes.
+Duration: session
+Users Roles
+wam_assigned_roles[Х]
+Keep track of the user’s role
+Not used if you are a normal web user.
+Duration: session
+PHP Serialized State Data Cookie
+PHPSESSID
+The PHPSESSID cookie is native to PHP and enables websites to store serialized state data
+On the Action website, it is used to establish a user session and to pass state data via a temporary cookie, which is commonly referred to as a session cookie.
+Duration: session
+Log In Cookie
+wordpress_logged_in_[Х]
+This session cookie indicates when you are logged in, and who you are, for most interface use
+Not used if you are a normal web user.
+Duration: session
+User View Cookie
+wp-settings-1
+This session cookie is used to customize the user’s view
+Not used if you are a normal web user.
+Duration: session
+Polylang Cookie
+pll_language
+Used to to define the language during browsing and to store language settings
+https://polylang.pro/privacy-policy/
+Duration: 1 year
+3rd Party Cookies List
+Google Analytics User ID Cookie
+_gid
+Used to identify unique users.
+https://policies.google.com/privacy?hl=en-US
+Duration: 24 hours
+Google Analytics Pageview Cookie
+_ga
+Used to count and track pageviews.
+https://policies.google.com/privacy?hl=en-US
+Duration: 2 years
+Google Adsense Cookie
+_gcl_au
+This cookie is used by Google Adsense to conduct experiments to test the effectiveness of advertisements on various websites that use the services of this service.
+https://policies.google.com/privacy?hl=en-US
+Duration: 8 weeks
+Leadfeeder Cookie
+_lfa
+Used to store and track audience reach
+The cookie is set for the website domain only, Leadfeeder does not use 3rd party cookies.
+https://www.leadfeeder.com/privacy/
+https://www.leadfeeder.com/leadfeeder-and-gdpr
+Duration: 2 years
+LinkedIn Cookie
+https://ru.linkedin.com/legal/l/cookie-table?
+Facebook Cookie
+_fbp
+Used to store and track visits across websites.
+https://developers.facebook.com/docs/privacy/
+Duration: 3 months
+Manage cookies
+OPT-OUT of your data processing
+If you do not want you to be processed by a programmatic platform, click here,  and we will make sure the information is deleted.
+After pressing the button, the selection of ads will be carried out without taking into account the actions you take on the Internet.
+Please note that by opting out, you still will receive advertising when you visit any websites.
+Worldwide Traffic
+Shorten the supply chain
+Buy verified ad inventory in global digital media and apps directly.
+Learn more
+Admixer.DSP
+Take control of media buying with the largest demand-side platform in Eastern Europe
+Admixer.DSP provides access to premium Web, In-App, CTV, and DOOH inventory without middlemen.
+Learn more
+Agency Tech Stack
+A solution for centralized media buying, managing programmatic deals and audience data for large media agencies
+Admixer.ATS provides agencies with direct access to web, in-app, CTV, and DOOH inventory.
+Learn more
+Admixer Header Bidding
+Enjoy higher competition for each impression and maximize yield with a fully managed solution to connect to multiple monetizers simultaneously.
+Learn more
+Worldwide Traffic
+Admixer.DSP
+Admixer.ATS
+Admixer Header Bidding
+Previous
+Next
+Keep up with adtech updates
+Adtech Insights
+User Identification (User ID)
+Unidentified users have very limited access to anything around the web
+User identification is an essential step to providing a safe and secure...
+Adtech Insights
+Exploring the Market of CTV Monetization: Key Webinar Takeaways
+Exploring the Market of CTV Monetization: Key Webinar Takeaways
+Explained
+Die Another Day: How Life-Extension of 3P Cookies Will Affect the Industry?
+Die Another Day: How Life-Extension of 3P Cookies Will Affect the Industry?
+Adtech Insights
+Device Fingerprinting: Pros and Cons of the Controversial Method
+Device Fingerprinting: Pros and Cons of the Controversial Method
+Company
+Blog
+Careers
+Contact us
+Partners
+About us
+Events
+HelpDesk
+Press Kit
+Our products
+For advertisers
+Demand Side Platform
+DMP
+Admixer.Creatives
+Worldwide Traffic
+Agengy Tech Stack
+In-House AdTech Stack
+For publishers
+SSP
+Publisher
+Network
+App Monetization
+Monetization Approach
+Header Bidding
+Player.Best
+Admixer ID
+Google AdManager 360
+For Ad Traders
+RTB Stack
+We are partners
+Privacy Policy
+Cookies
+Help
+© Admixer, 2022
+Thank you!
+We received your request and our manager is already preparing a letter for you!While you are waiting, visit our blog
+Return
+Check blog
+EROR
+Return
+Check blog
+We use cookies and other technologies to improve your online experience
+By using this site, you consent to this use as described in our        Privacy Policy
+Ok

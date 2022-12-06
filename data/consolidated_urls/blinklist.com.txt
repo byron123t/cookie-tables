@@ -1,0 +1,8 @@
+https://blinklist.com/privacy/how-to-disable-cookies/
+https://security.stackexchange.com/questions/126261/can-cookies-carry-viruses
+https://security.stackexchange.com/questions/tagged/cookies
+https://security.stackexchange.com/questions/73406/the-spring-security-framework-recommends-against-using-double-submit-cookies-to?rq=1
+https://security.stackexchange.com/questions/121435/signing-double-submit-cookies-where-the-value-is-a-pseudo-random-string-and-a-s?rq=1
+https://security.stackexchange.com/questions/263843/what-are-the-security-issues-with-setting-cookies-for-subdomains
+https://security.stackexchange.com/questions/264171/why-do-big-sites-use-cookies-and-not-openid-connect
+https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html#Double_Submit_Cookies

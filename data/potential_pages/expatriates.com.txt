@@ -1,0 +1,3 @@
+https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US#w_delete-cookies-for-a-single-site
+https://support.mozilla.org/en-US/products/firefox/protect-your-privacy/cookies
+https://support.mozilla.org/en-US/kb/third-party-cookies-firefox-tracking-protection

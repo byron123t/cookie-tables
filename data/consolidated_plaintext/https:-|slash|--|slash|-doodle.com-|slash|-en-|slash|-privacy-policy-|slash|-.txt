@@ -1,0 +1,145 @@
+Privacy Policy | Doodle | DoodleThis app works best with JavaScript enabled.
+ProductUse casesProfessionalPricingLearnContactLog inSign upCreate a DoodleNavigation<- Legal NoticePrivacy PoliciesYour data at DoodleLog dataCookiesAdvertisingSocial LoginOutdated and completed pollsInactive accountsUnauthorized accessInviting from DoodleContacts integrationCalendar integrationCommunication between you and DoodleFor user surveys and market researchPayment processingLocation of dataTransfer of Personal Data abroadSharing personal informationData retentionLegal basisYour rightsContact personChangesPrivacy Policy1. Privacy PolicyAt Doodle, we’re serious about the security of the data on our servers and the protection of the privacy of our users.  We employ several security professionals that work exclusively on technical and organizational security during operations and further development of the product. You can meet them on our team page. We continually take steps to protect your information against loss, misuse, unauthorized access, unauthorized disclosure, manipulation, or destruction.    As a basic principle, the Swiss Federal Data Protection Act (FADP) applies to the processing of your personal data. In certain circumstances, for example if you access our offers from a Member State of the European Union, the European Data Protection Regulation 2016/679 (GDPR) may also apply. If you access our services from the State of California, USA, the California Consumer Privacy Act of 2018 (CCPA) may also apply.Doodle AG participates in the IAB Transparency and Consent Framework 2.0 (IAB TCF 2.0 or Framework), an industry standard that allows all participants in the digital advertising market (publishers, advertisers, technology service providers, etc.) to transparently inform end users about the processing of your personal data and to give you the opportunity to agree or disagree with it. As a participant in the IAB TCF 2.0, Doodle AG adheres to the technical and legal (guidelines) requirements of the framework and offers you, the end user, the opportunity to manage your privacy settings via a Consent Management Platform (CMP). Doodle AG uses the CMP solutions from OneTrust (Web; CMP ID # 28) and TX Group AG (Mobile Native; CMP ID # 359). This takes you to your personal privacy cockpit, where you can change your privacy settings at any time. These are taken into account and adhered to by all participants in the framework, including Doodle AG. You can also find a link to the privacy settings in the footer of our digital products.
+This Privacy Policy describes how the data is handled at Doodle. Please also consult our general data processing terms and your rights and disclosures required by the CCPA.
+2. Your data at DoodleWhen you use Doodle, you send pieces of data to Doodle; this can be a name, an e-mail address, or information relating to your appointment. Other data is generated implicitly by your use of Doodle, e.g. log data. We use this information for internal analytical purposes to improve the product for you. Furthermore we employ other companies to perform tasks on our behalf and may need to share this information with them to provide services to you. We do not sell your data to third parties.
+3. Log dataDoodle records certain requests and transactions in log files. This log data is used for troubleshooting, statistics, analytics, quality assurance, and to monitor system security and can be analyzed to that end. Doodle can publish anonymous statistics under the condition that no personally identifiable information can be derived from such statistics.Doodle also uses Google Analytics and Google Firebase Analytics (for iOS and Android apps) to compile usage statistics. These services are provided by Space Pencil, Inc. and by Google, Inc., respectively. Their privacy policies can be found at http://www.google.com/privacy and https://firebase.google.com/terms/analytics. Doodle anonymizes IP addresses before they are sent to Google Analytics.Doodle also employs NET-Metrix and AGOF to certify its traffic statistics in Switzerland and Germany. Detailed information (in German) on how this certification works and what information is collected can be found here: NET-Metrix and AGOF. An appendix at the end of the German version of this policy also provides further information on how information is collected for web traffic that originates from Germany.Doodle works with Crashlytics, Inc (“Crashlytics”) and Bit Stadium GmbH (“HockeyApp”) to report any bug affecting our iOS and Android Apps. HockeyApp’s software is built into our iOS App and Crashlytics’ software is built into our Android App. If either app crashes during normal use, the app will send certain information about the incident to Crashlytics or HockeyApp as applicable. This information consists of the device type, OS version and certain hardware information about your mobile device, and the time of the crash, the state of the application at the time of the crash, and stack traces. The information does not include your IP address or any other information that could be used to identify you or your mobile device individually, and does not include any other information from your mobile device. Click here to review Crashlytics’ privacy policy, and here for HockeyApp’s privacy policy.This website is using Tidio, a chat platform that connects users with Doodle’s customer support. It will only collect email addresses, names and phone numbers with the consent of users, in order to start a chat. The messages and data exchanged are stored within the Tidio application. For more information, please refer to their Privacy Policy.Doodle is not using these messages or data other than to follow up on users’ registered issues or inquiries. Your personal data will be processed and transmitted in accordance with the General Data Protection Regulations (GDPR).4. CookiesWhen you use Doodle, the service can store cookies on your computer. Cookies are little pieces of information that can help identify your browser and that can store information for future visits, e.g. your language preferences. Doodle uses cookies to track usage, to improve ease-of-use and the overall user experience, and to manage advertising inventories.Most Internet browsers automatically accept cookies. You may however configure your browser at any time in such a manner that no cookies are saved on your computer or that an indication always appears when you receive a new cookie.Doodle’s services may in principle be used without accepting cookies, although individual functions may thereby be limited.You can choose to disable cookies but this may limit your ability to use Doodle’s service.
+5. Social LoginDoodle employs third party tools to provide you with the convenience you are used to from elsewhere on the internet to sign in to Doodle with one click (so called “social login”). Some of these tools can track your actions when you interact with them. At Doodle you can sign in with Google, Microsoft, Facebook or your email/password. Please refer to the terms of the respective providers for further guidance:Google https://policies.google.com/privacyMicrosoft https://privacy.microsoft.comFacebook https://www.facebook.com/policy.php 
+
+6. AdvertisingAdvertising is one of Doodle’s revenue streams. Therefore, Doodle displays advertisements on some of the services, e.g. on certain web pages or in e-mails. These advertisements can be targeted based on the information that is available to Doodle, e.g. language, IP address, poll content, etc. This targeting is always an automated process; none of the information used for targeting is analyzed manually or made available to advertising customers. In some cases, Doodle displays advertisements from Google’s AdSense or AdExchange network. These advertisements can be targeted based on the poll content. Google does not disclose that information and only uses it for the intended purpose. You can review Google’s Ads Privacy Policy here: http://www.google.com/policies/privacy/ads/. Furthermore, you can use Google’s Ads Preferences Manager to configure the right ads settings for you. We also use other third-party advertising companies to serve ads when you visit our Web site. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp.Doodle’s paid services (Premium Doodle) are ads-free.
+7. Outdated and completed pollsYou can delete outdated or completed (or, in fact, any) polls manually at any time using the admin link. When deleting a poll, that poll’s information will be deleted from the Doodle application databases but may be archived in some other form for internal analytical purposes to improve the product for you. Log data will not be deleted. Furthermore, outdated polls are automatically deleted from time to time, but no earlier than 30 days after the last date in the poll, or 30 days after the last access to a poll without dates. Polls created with premium accounts will not be deleted automatically as long as the subscription remains active. Should the subscription expire, the deletion rules mentioned above apply to all polls associated to the account after 30 days of expiry.
+8. Inactive accountsDoodle can delete user accounts if they remain inactive (i.e. not accessed) for 1 year or longer.
+9. Unauthorized accessDoodle implements several mechanisms to prevent unauthorized access to polls, accounts, or other data.To access a poll, you use the unique link which Doodle provides and which contains a random access code. This link is an important element to prevent unauthorized access to a poll. You should send this link only to authorized people, i.e., the people you wish to participate in your poll. 
+
+User-accounts are protected by passwords. You should choose a secure password and ensure its confidentiality to prevent unauthorized access to your account.
+
+10. Inviting from DoodleAs an option, you can contact and invite people to participate in a poll from Doodle. In this case, Doodle needs to know the e-mail addresses of the people to be contacted. You can enter these e-mail addresses in the corresponding form. Doodle stores these e-mail addresses in your user-account for your convenience; Doodle will be able to offer you the same contacts again next time you use the service. You can have Doodle delete all stored e-mail addresses any time using the corresponding function in your user-account.General remark: Like all other personal information, Doodle will not share participants’ e-mail addresses with third parties. Doodle will not send any e-mail communication to participants’ e-mail addresses without a without a lawful ground.
+11. Contacts integrationAs an alternative (or complement) to the Doodle contacts, you can use your existing Google contacts to gain access to the e-mail addresses of the people to be contacted. In this case, you authorize Doodle to access your Google contacts. Your Google contacts will still be stored at Google. Please note also: The process of accessing your Google contacts is set up (thanks to OAuth) to make sure that Doodle at no time has access to your Google password.
+12. Calendar integrationYou can connect Doodle with your calendar to make the scheduling process even easier and more efficient. There are two types of calendars: online and offline.Online calendars like Google calendar are constantly accessible via their respective interfaces. Doodle can store certain calendar data to improve performance (caching) and to personalise scheduling.In either case, calendar data on Doodle can be deleted at any time.
+13. Communication between you and DoodleIf you send Doodle a message, this message can be stored to process it, to compile statistical information, to improve our services and support, or to get in touch with you.
+14. For user surveys and market researchWe use the data you provide exclusively to improve the user experience and to further develop our products. The results consist solely of aggregated and anonymous data. If you have given your consent, you may also be contacted by other companies of the TX Group for example to participate in other user surveys.
+15. Payment processingDoodle supports the leading payment processing provider, PayPal. You can find their privacy policies here: PayPal. To make payments as easy and user-friendly as possible, Doodle sends your name and e-mail address to Paypal during a payment process. All this information would be requested by the provider anyway. Doodle furthermore employs Stripe for credit card payments. You can find the privacy policy here.
+16. Location of dataThe Doodle databases are located on cloud servers in Ireland and Frankfurt.
+17. Transfer of Personal Data abroadWe are entitled to transfer your Personal Data abroad, including to third party companies (designated service providers) insofar as this is expedient for the Data Processing described in this Privacy Statement. The recipients will be obliged to protect Your Data to the same extent as ourselves. If the level of data protection in a particular country is lower than that applicable in Switzerland, we will ensure under contract that the level of protection for your Personal Data is equivalent to that applicable in Switzerland. We shall ensure this through one or more of the following measures:by concluding EU Model Clauses with the appointed service providers, cf. through the appointed service providers having in place Binding Corporate Rules (BCR) that are recognised by a European data protection authority, cf. 
+18. Sharing personal informationDoodle uses personal information according to the Terms of Service and this Privacy Policy.Doodle may share personal information with other companies or individuals only in the following limited circumstances: (i) Doodle has your consent; (ii) Doodle has good faith that there is a legal obligation to share the data; (iii) Doodle needs to access or share the data to protect the security of the service or of others users’ data; (iv) Doodle needs to access or share the data to protect Doodle’s rights and property or to enforce the Terms of Service.
+19. Data retentionWe shall only retain your data for as long as is legally necessary or in accordance with the purpose for which they were processed. If we carry out analyses, we shall store your data until the analysis has been concluded. If we store your data on the basis of a contractual relationship with you, these data will remain stored for at least the duration of the contractual relationship and at most for the duration of the limitation periods within which any claims may be brought by or against us, or for the duration of statutory or contractual duties of retention.
+20. Legal basisWe shall only process your Personal Data in accordance with principles of data protection and if there is a legal basis to do so. If in furtherance of the establishment or implementation of our contract, it shall serve as the legal basis. Otherwise, we have an interest in continuously improving our Offers, adjusting our Offers in line with your needs and showing you advertising that may be of interest to you. This is necessary in order to develop our Offers further, as well as to be able to finance and guarantee the security of our Offers. We act on the presumption that our interests are predominant. If you have consented to data Processing, this consent will apply.
+21. Right of erasureIn accordance with applicable European legislation you can delete your account and the events you own from the system in the account section of Sites. It is however possible that another user invites, or informs, you about an event again in the future. If you don’t want this either we can block your email address.
+22. Your rightsYou have the right to exercise your data protection rights at any time and to request information as to whether and which Personal Data relating to you has been processed by us. You may also arrange for your Personal Data to be corrected, blocked or cancelled at any time in writing, enclosing appropriate proof of your identity, by email.We reserve the right to exchange correspondence with you in this regard.Please note that we may be required to retain your Personal Data in part even after a request for blocking or cancellation under the terms of our statutory or contractual retention requirements (such as for accounting purposes) and in such an eventuality will only block your Personal Data insofar as necessary for this purpose. In addition, the cancellation of your Personal Data may have the effect that you are no longer able to acquire or use the services registered by you. Under certain circumstances, you have the right to require us to provide you or a third party specified by you with your personal data in a commonly used format.In addition, you have the right to make a complaint concerning the data processing in question with the competent supervisory authority. You can do this with the supervisory authority at your place of residence, at your place of work or at the place of the alleged data breach. Your personal privacy cockpit offers you further information on the various systems and providers that we use, as well as the option to change your privacy settings at any time.
+23. Contact personIf you have questions regarding data protection, need information or want your data to be deleted please contact our data protection office via email.The contact details for our Data Protection Officer are as follows:Doodle AG
+
+Data Protection Officer
+
+Werdstrasse 218004 Zürich
+
+Switzerland
+For requests from the EU area, you can contact our representative (art. 27 GDPR):ePrivacy GmbH
+
+Große Bleichen 21
+
+20354 Hamburg
+
+Germanyhttps://www.eprivacy.eu  
+24. ChangesDoodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at doodle.com/privacy-policy.
+CompanyAbout UsCareersTX VenturesPopular FeaturesBooking pageGroup polls1:1 MeetingsLearnCase StudiesResearch & ReportsWebinarsTutorialsSupportHelp CenterContact SalesLegal NoticePrivacy SettingsEnglishWe Care About Your PrivacyWe and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time in the privacy policy page. These choices will be signaled to our partners and will not affect browsing data.Privacy PolicyWe and our partners process data to provide:Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised ads and content, ad and content measurement, audience insights and product development. 
+                List of Partners
+                Accept All Show PurposesAbout Your PrivacyThis website uses cookies to personalize your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential to enable basic functionalities. We also use third-party cookies that help us analyse and understand how you use this website and to serve you basic ads. These cookies will be stored in your browser only with your consent. You also have the option to opt out of cookies we deploy based on a legitimate interest.
+            Privacy PolicyAllow All Manage Consent PreferencesStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.View Vendor Details‎Performance Cookies  Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.View Vendor Details‎Functional Cookies  Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.View Vendor Details‎Targeting Cookies  Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.View Vendor Details‎Social Media Cookies  Social Media Cookies These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.View Vendor Details‎Store and/or access information on a device  Store and/or access information on a device Cookies, device identifiers, or other information can be stored or accessed on your device for the purposes presented to you.List of IAB Vendors‎ | View Full Legal Text Opens in a new TabPersonalised ads and content, ad and content measurement, audience insights and product development  Personalised ads and content, ad and content measurement, audience insights and product development Select basic ads  Switch Label Ads can be shown to you based on the content you’re viewing, the app you’re using, your approximate location, or your device type.
+
+
+
+
+Object to Legitimate Interests
+                        
+
+
+                        Remove Objection
+                    
+Create a personalised ads profile  Switch Label A profile can be built about you and your interests to show you personalised ads that are relevant to you.
+
+
+
+
+Object to Legitimate Interests
+                        
+
+
+                        Remove Objection
+                    
+Select personalised ads  Switch Label Personalised ads can be shown to you based on a profile about you.
+
+
+
+
+Object to Legitimate Interests
+                        
+
+
+                        Remove Objection
+                    
+Create a personalised content profile  Switch Label A profile can be built about you and your interests to show you personalised content that is relevant to you.
+
+
+
+
+Object to Legitimate Interests
+                        
+
+
+                        Remove Objection
+                    
+Select personalised content  Switch Label Personalised content can be shown to you based on a profile about you.
+
+
+
+
+Object to Legitimate Interests
+                        
+
+
+                        Remove Objection
+                    
+Measure ad performance  Switch Label The performance and effectiveness of ads that you see or interact with can be measured.
+
+
+
+
+Object to Legitimate Interests
+                        
+
+
+                        Remove Objection
+                    
+Measure content performance  Switch Label The performance and effectiveness of content that you see or interact with can be measured.
+
+
+
+
+Object to Legitimate Interests
+                        
+
+
+                        Remove Objection
+                    
+Apply market research to generate audience insights  Switch Label Market research can be used to learn more about the audiences who visit sites/apps and view ads.
+
+
+
+
+Object to Legitimate Interests
+                        
+
+
+                        Remove Objection
+                    
+Develop and improve products  Switch Label Your data can be used to improve existing systems and software, and to develop new products
+
+
+
+
+Object to Legitimate Interests
+                        
+
+
+                        Remove Objection
+                    
+List of IAB Vendors‎ | View Full Legal Text Opens in a new TabView Vendor Details‎Use precise geolocation data  Use precise geolocation data Your precise geolocation data can be used in support of one or more purposes. This means your location can be accurate to within several meters.List of IAB Vendors‎ | View Full Legal Text Opens in a new TabActively scan device characteristics for identification  Actively scan device characteristics for identification Your device can be identified based on a scan of your device's unique combination of characteristics.List of IAB Vendors‎ | View Full Legal Text Opens in a new TabEnsure security, prevent fraud, and debugAlways ActiveYour data can be used to monitor for and prevent fraudulent activity, and ensure systems and processes work properly and securely.List of IAB Vendors‎ | View Full Legal Text Opens in a new TabTechnically deliver ads or contentAlways ActiveYour device can receive and send information that allows you to see and interact with ads and content.List of IAB Vendors‎ | View Full Legal Text Opens in a new TabMatch and combine offline data sourcesAlways ActiveData from offline data sources can be combined with your online activity in support of one or more purposesList of IAB Vendors‎ | View Full Legal Text Opens in a new TabLink different devicesAlways ActiveDifferent devices can be determined as belonging to you or your household in support of one or more of purposes.List of IAB Vendors‎ | View Full Legal Text Opens in a new TabReceive and use automatically-sent device characteristics for identificationAlways ActiveYour device might be distinguished from other devices based on information it automatically sends, such as IP address or browser type.List of IAB Vendors‎ | View Full Legal Text Opens in a new TabBack ButtonPerformance Cookies  Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label labelView CookiesNamecookie nameReject All Confirm My Choices

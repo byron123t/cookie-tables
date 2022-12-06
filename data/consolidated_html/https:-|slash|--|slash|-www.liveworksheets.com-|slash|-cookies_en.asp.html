@@ -1,0 +1,1011 @@
+<!DOCTYPE html><html><head>
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-2GFGX0BT4S&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NBC6KJS"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/jF-AgDWy8ih0GfLx4Semh9UK/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-1eZXe/MLiopvjKxX8F0I+6LXJu6cDaNupm7t7qbmZNrERttjt+hLGDuOPUES/50P"></script><script src="https://www.recaptcha.net/recaptcha/api.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+
+<!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NBC6KJS');</script>
+<!-- End Google Tag Manager -->
+
+
+<meta http-equiv="Content-Language" content="en">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Live Worksheets - Cookies configuration</title>
+<meta name="keywords" content="live worksheets, online worksheets maker, interactive worksheets, Cookies configuration">
+<meta name="description" content="Live Worksheets - Cookies policy">
+<link rel="stylesheet" href="/style.css?v=247&amp;ts=1" type="text/css">
+
+<script language="javascript">
+var mostrandologin = 0;
+var mostrandomenuteachers = 0;
+var mostrandomenuworksheets = 0;
+var mostrandomenuworkbooks = 0;
+
+function mostrarLogin() {
+	if (mostrandologin < 1) {
+		document.getElementById("capalogin").style.display = "block";
+		mostrandologin = 1;
+	} else {
+		document.getElementById("capalogin").style.display = "none";
+		mostrandologin = 0;
+	}
+}
+
+function mostrarLogin2() {
+	if (mostrandologin < 1) {
+		document.getElementById("teachersloginspan").style.display = "block";
+		mostrandologin = 1;
+	} else {
+		document.getElementById("teachersloginspan").style.display = "none";
+		mostrandologin = 0;
+	}
+}
+
+function closeLogin() {
+		document.getElementById("capalogin").style.display = "none";
+		mostrandologin = 0;
+}
+
+
+function ejecutaronload() {
+
+thisurl = window.location.href;
+separarurl = thisurl.split("liveworksheets.co");
+document.getElementById("linktospanish").href = "https://es.liveworksheets.co" + separarurl[1];
+document.getElementById("linktoenglish").href = "https://www.liveworksheets.co" + separarurl[1];
+
+
+
+	if (separarurl[0].indexOf("es.") > 0 ) {
+	document.getElementById("spanlinktospanish").innerHTML = "Español";
+	} else {
+	document.getElementById("spanlinktoenglish").innerHTML = "English";
+	}
+
+}
+
+var idiomasdebusquedaordenados = 0;
+
+function mostrarbusquedaavanzada() {
+	$( "#capabusquedaavanzada").toggleClass('active');
+	// if (document.getElementById("capabusquedaavanzada")) {
+	// 	$( "#capabusquedaavanzada").toggleClass('active');
+	// 	$( "#capabusquedaavanzada").animate({
+	// 		height: "250px"
+	// 	}, 500, function() {
+	// 		window.addEventListener('click', clickedoutsidebusquedaavanzada, false);
+	// 	});
+	// }
+	// } else {
+	// 	$( "#capabusquedaavanzada").removeClass('active');
+	// 	$( "#capabusquedaavanzada").animate({
+	// 		height: "0px"
+	// 	}, 500, function() {
+	// 		window.removeEventListener('click', clickedoutsidebusquedaavanzada, false);
+	// 	});
+	// }
+	if (idiomasdebusquedaordenados == 0) {
+		ordenarIdiomasBusqueda();
+		idiomasdebusquedaordenados = 1;
+	}
+}
+ 
+var clickedoutsidebusquedaavanzada = function (event) {
+	if (document.getElementById('capabusquedaavanzada').contains(event.target)){
+		
+	} else{
+		mostrarbusquedaavanzada();
+		
+	}
+};
+
+
+function desplegarmenuteachers() {
+	console.log('firing');
+	if (document.getElementById("teachersmenu")) {
+		$( "#teachersmenu").toggleClass('active');
+		$("#teachersdropdowntriangle").toggleClass('active');
+	} 
+	// if (document.getElementById("teachersmenu")) {
+	// 	$( "#teachersmenu").animate({
+	// 		height:  pixeles + "px",
+	// 		display: "flex"
+	// 	}, 500, function() {
+	// 		document.getElementById("teachersdropdowntriangle").style.transform = "rotate(180deg)";// Animation complete.
+	// 		window.addEventListener('click', clickedoutsideteachersmenu, false);
+	// 	});
+		
+	// } else {
+	// 	$( "#teachersmenu").animate({
+	// 		height: "36px",
+	// 		display: "none"
+	// 	}, 500, function() {
+	// 		document.getElementById("teachersdropdowntriangle").style.transform = "rotate(0deg)";// Animation complete.
+	// 	});
+	// }
+}
+
+function desplegarmenuteacherssinodesplegado(pixeles) {
+	if (document.getElementById("teachersmenu").offsetHeight < 50) {
+		$( "#teachersmenu").animate({
+			height:  pixeles + "px"
+		}, 500, function() {
+			document.getElementById("teachersdropdowntriangle").style.transform = "rotate(180deg)";// Animation complete.
+			window.addEventListener('click', clickedoutsideteachersmenu, false);
+		});
+	}
+}
+
+function openMobileNav() {
+	$('#capamenu .main-menu').toggleClass('active');
+}
+
+var clickedoutsideteachersmenu = function (event) {
+	if (document.getElementById('teachersmenu').contains(event.target)){
+		
+	} else{
+		desplegarmenuteachers(36);
+		window.removeEventListener('click', clickedoutsideteachersmenu, false);
+	}
+};
+
+function showSubMenu(elem) {
+	elem.nextElementSibling.classList.toggle('active');
+}
+
+var clickedoutsidemakeinteractiveworkbooks = function (event) {
+	if (document.getElementById('makeinteractiveworkbooksdiv').contains(event.target)){
+		
+	} else{
+		desplegarmakeinteractiveworkbooks(30);
+		window.removeEventListener('click', clickedoutsidemakeinteractiveworkbooks, false);
+	}
+};
+
+
+ 
+var mostusedlangs = [["English","en"],["Spanish","es"],["Malay","ms"],["Indonesian","id"],["Arabic","ar"],["Thai","th"],["Portuguese","pt"],["Vietnamese","vi"],["Chinese","zh"],["Catalan","ca"],["French","fr"],["Greek (modern)","el"],["Italian","it"],["Ukrainian","uk"],["German","de"]];
+
+function ordenarIdiomasBusqueda() {
+	var opcionesmostradas = 0;
+	var selElem = document.getElementById("languagebusqueda");
+    var tmpAry = new Array();
+    for (var i=0;i<selElem.options.length;i++) {
+        tmpAry[i] = new Array();
+        tmpAry[i][0] = selElem.options[i].text;
+        tmpAry[i][1] = selElem.options[i].value;
+    }
+    tmpAry.sort();
+    while (selElem.options.length > 0) {
+        selElem.options[0] = null;
+    }
+    
+    for (var i=0;i<tmpAry.length;i++) {
+    	if (tmpAry[i][1].toLowerCase() == "") {
+	        var op = new Option(tmpAry[i][0], tmpAry[i][1]);
+	        selElem.options[0] = op;
+	        opcionesmostradas++;
+        }
+    }
+    
+    for (var i=0;i<mostusedlangs.length;i++) {
+	        var op = new Option(mostusedlangs[i][0], mostusedlangs[i][1]);
+	        selElem.options[opcionesmostradas] = op;
+	        opcionesmostradas++;
+    }
+        
+    for (var i=0;i<tmpAry.length;i++) {
+        var op = new Option(tmpAry[i][0], tmpAry[i][1]);
+        selElem.options[opcionesmostradas] = op;
+        opcionesmostradas++;
+    }
+    return;
+}
+
+var numerodemensajesemergentes = 0;
+
+function mensajeemergente(texto,anchuramensaje,alturamensaje) {
+	var elemDiv = document.createElement('div');
+	elemDiv.setAttribute("id", "mensajeemergente" + numerodemensajesemergentes);
+	elemDiv.style.cssText = ' padding-left: 10px; padding-right: 10px;position:fixed;width:' + anchuramensaje + 'px;height:' + alturamensaje + 'px;z-index: 36000000;top:0;bottom:0;left:0;right:0;margin-top:auto;margin-bottom:auto;margin-left:auto;margin-right:auto; background-color: #FFFFFF;border: 1px solid #999999;border-radius: 0px;box-shadow: 0px 0px 8px #999999;';
+	var elhtml = '<div style="position:absolute;top:5px;right:5px;width:15px;height:20px;"><span class="enlace" style="font-size:16px" onclick="ocultarmensajeemergente(' + numerodemensajesemergentes + ')">x</span></div>';
+	elhtml = elhtml + '<table width="100%" height="100%"><tr><td valign="middle" align="center">';
+	elhtml = elhtml + texto;
+	elhtml = elhtml + '</td></tr></table>';
+	elemDiv.innerHTML = elhtml;
+	document.body.appendChild(elemDiv);
+	numerodemensajesemergentes = numerodemensajesemergentes + 1;
+}
+
+function ocultarmensajeemergente(numero) {
+    var element = document.getElementById("mensajeemergente" + numero);
+    element.parentNode.removeChild(element);
+}
+
+
+</script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+</head>
+
+<body onload="ejecutaronload()">
+
+<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NBC6KJS"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<header class="site-header">
+	<div class="site-header-interior">
+		<div class="site-header-top">
+			<div class="site-logo">
+				<div id="capalogo">
+					<a href="https://www.liveworksheets.com" title="Live Worksheets - homepage"><img id="wswo" class="qwertyuiopasdfghjklzxcvbnm" alt="Live Worksheets" src="https://files.liveworksheets.com/images/logomayusculasblanco.png" border="0" width="300"></a>
+				</div>
+			</div>
+			<div class="site-search">
+				<div id="capabuscar">
+					<form id="formulariodebusqueda" method="GET" action="https://www.liveworksheets.com/search.asp">
+						<input name="content" type="text" placeholder="Search interactive worksheets">
+						<img onclick="document.getElementById('formulariodebusqueda').submit()" src="https://files.liveworksheets.com/images/searchicon.png">
+					</form>
+						
+						<span class="enlaceblanco" style="font-size:12px" onclick="mostrarbusquedaavanzada()">Advanced search</span>
+					
+				</div>
+				<div id="capabusquedaavanzada">
+					<div class="capabusquedaavanzada-inner">
+						<span class="enlaceblanco" onclick="mostrarbusquedaavanzada()">x</span>
+						<form method="GET" action="https://www.liveworksheets.com/search.asp">
+							<span>Advanced search</span>
+							<div id="advanced-filter">
+								Content: 
+									<input type="text" name="content" id="contentbusqueda">
+								Language:
+									<select id="languagebusqueda" name="language">
+										<option value="">      </option>
+										
+											<option value="aa">Afar</option>
+										
+											<option value="ab">Abkhaz</option>
+										
+											<option value="ae">Avestan</option>
+										
+											<option value="af">Afrikaans</option>
+										
+											<option value="ak">Akan</option>
+										
+											<option value="am">Amharic</option>
+										
+											<option value="an">Aragonese</option>
+										
+											<option value="ar">Arabic</option>
+										
+											<option value="as">Assamese</option>
+										
+											<option value="at">Asturianu</option>
+										
+											<option value="ah">Athabascan</option>
+										
+											<option value="av">Avaric</option>
+										
+											<option value="ay">Aymara</option>
+										
+											<option value="az">Azerbaijani</option>
+										
+											<option value="ba">Bashkir</option>
+										
+											<option value="be">Belarusian</option>
+										
+											<option value="bg">Bulgarian</option>
+										
+											<option value="bh">Bihari</option>
+										
+											<option value="bi">Bislama</option>
+										
+											<option value="bm">Bambara</option>
+										
+											<option value="bn">Bengali, Bangla</option>
+										
+											<option value="bo">Tibetan Standard, Tibetan, Central</option>
+										
+											<option value="br">Breton</option>
+										
+											<option value="bs">Bosnian</option>
+										
+											<option value="ca">Catalan</option>
+										
+											<option value="ce">Chechen</option>
+										
+											<option value="ch">Chamorro</option>
+										
+											<option value="co">Corsican</option>
+										
+											<option value="cr">Cree</option>
+										
+											<option value="cs">Czech</option>
+										
+											<option value="cu">Old Church Slavonic, Church Slavonic,Old Bulgarian</option>
+										
+											<option value="cv">Chuvash</option>
+										
+											<option value="cy">Welsh</option>
+										
+											<option value="da">Danish</option>
+										
+											<option value="de">German</option>
+										
+											<option value="dv">Divehi, Dhivehi, Maldivian</option>
+										
+											<option value="dz">Dzongkha</option>
+										
+											<option value="ee">Ewe</option>
+										
+											<option value="el">Greek (modern)</option>
+										
+											<option value="en">English</option>
+										
+											<option value="eo">Esperanto</option>
+										
+											<option value="es">Spanish</option>
+										
+											<option value="et">Estonian</option>
+										
+											<option value="eu">Basque</option>
+										
+											<option value="fa">Persian (Farsi)</option>
+										
+											<option value="ff">Fula, Fulah, Pulaar, Pular</option>
+										
+											<option value="fi">Finnish</option>
+										
+											<option value="fj">Fijian</option>
+										
+											<option value="fo">Faroese</option>
+										
+											<option value="fr">French</option>
+										
+											<option value="fy">Western Frisian</option>
+										
+											<option value="ga">Irish</option>
+										
+											<option value="gd">Scottish Gaelic, Gaelic</option>
+										
+											<option value="gl">Galician</option>
+										
+											<option value="gn">Guaraní</option>
+										
+											<option value="gu">Gujarati</option>
+										
+											<option value="gv">Manx</option>
+										
+											<option value="ha">Hausa</option>
+										
+											<option value="he">Hebrew (modern)</option>
+										
+											<option value="hi">Hindi</option>
+										
+											<option value="ho">Hiri Motu</option>
+										
+											<option value="hr">Croatian</option>
+										
+											<option value="ht">Haitian, Haitian Creole</option>
+										
+											<option value="hu">Hungarian</option>
+										
+											<option value="hy">Armenian</option>
+										
+											<option value="hz">Herero</option>
+										
+											<option value="ia">Interlingua</option>
+										
+											<option value="id">Indonesian</option>
+										
+											<option value="ie">Interlingue</option>
+										
+											<option value="ig">Igbo</option>
+										
+											<option value="ii">Nuosu</option>
+										
+											<option value="ik">Inupiaq</option>
+										
+											<option value="io">Ido</option>
+										
+											<option value="is">Icelandic</option>
+										
+											<option value="it">Italian</option>
+										
+											<option value="iu">Inuktitut</option>
+										
+											<option value="ja">Japanese</option>
+										
+											<option value="jv">Javanese</option>
+										
+											<option value="ka">Georgian</option>
+										
+											<option value="kaa">Karakalpak</option>
+										
+											<option value="kg">Kongo</option>
+										
+											<option value="ki">Kikuyu, Gikuyu</option>
+										
+											<option value="kj">Kwanyama, Kuanyama</option>
+										
+											<option value="kk">Kazakh</option>
+										
+											<option value="kl">Kalaallisut, Greenlandic</option>
+										
+											<option value="km">Khmer</option>
+										
+											<option value="kn">Kannada</option>
+										
+											<option value="ko">Korean</option>
+										
+											<option value="kr">Kanuri</option>
+										
+											<option value="ks">Kashmiri</option>
+										
+											<option value="ku">Kurdish</option>
+										
+											<option value="kv">Komi</option>
+										
+											<option value="kw">Cornish</option>
+										
+											<option value="ky">Kyrgyz</option>
+										
+											<option value="la">Latin</option>
+										
+											<option value="lb">Luxembourgish, Letzeburgesch</option>
+										
+											<option value="lg">Ganda</option>
+										
+											<option value="li">Limburgish, Limburgan, Limburger</option>
+										
+											<option value="ln">Lingala</option>
+										
+											<option value="lo">Lao</option>
+										
+											<option value="lt">Lithuanian</option>
+										
+											<option value="lu">Luba-Katanga</option>
+										
+											<option value="lv">Latvian</option>
+										
+											<option value="mg">Malagasy</option>
+										
+											<option value="mh">Marshallese</option>
+										
+											<option value="mi">Māori</option>
+										
+											<option value="mk">Macedonian</option>
+										
+											<option value="ml">Malayalam</option>
+										
+											<option value="mn">Mongolian</option>
+										
+											<option value="mr">Marathi (Marāṭhī)</option>
+										
+											<option value="ms">Malay</option>
+										
+											<option value="mt">Maltese</option>
+										
+											<option value="my">Burmese</option>
+										
+											<option value="na">Nauruan</option>
+										
+											<option value="nb">Norwegian Bokmål</option>
+										
+											<option value="nd">Northern Ndebele</option>
+										
+											<option value="ne">Nepali</option>
+										
+											<option value="ng">Ndonga</option>
+										
+											<option value="nl">Dutch</option>
+										
+											<option value="nn">Norwegian Nynorsk</option>
+										
+											<option value="no">Norwegian</option>
+										
+											<option value="nr">Southern Ndebele</option>
+										
+											<option value="nv">Navajo, Navaho</option>
+										
+											<option value="ny">Chichewa, Chewa, Nyanja</option>
+										
+											<option value="oc">Occitan</option>
+										
+											<option value="oj">Ojibwe, Ojibwa</option>
+										
+											<option value="om">Oromo</option>
+										
+											<option value="or">Oriya</option>
+										
+											<option value="os">Ossetian, Ossetic</option>
+										
+											<option value="pa">Eastern Punjabi, Eastern Panjabi</option>
+										
+											<option value="pi">Pāli</option>
+										
+											<option value="pl">Polish</option>
+										
+											<option value="ps">Pashto, Pushto</option>
+										
+											<option value="pt">Portuguese</option>
+										
+											<option value="qu">Quechua</option>
+										
+											<option value="rm">Romansh</option>
+										
+											<option value="rn">Kirundi</option>
+										
+											<option value="ro">Romanian</option>
+										
+											<option value="ru">Russian</option>
+										
+											<option value="rw">Kinyarwanda</option>
+										
+											<option value="sa">Sanskrit (Saṁskṛta)</option>
+										
+											<option value="sc">Sardinian</option>
+										
+											<option value="sd">Sindhi</option>
+										
+											<option value="se">Northern Sami</option>
+										
+											<option value="sg">Sango</option>
+										
+											<option value="si">Sinhalese, Sinhala</option>
+										
+											<option value="sk">Slovak</option>
+										
+											<option value="sl">Slovene</option>
+										
+											<option value="sm">Samoan</option>
+										
+											<option value="sn">Shona</option>
+										
+											<option value="so">Somali</option>
+										
+											<option value="sq">Albanian</option>
+										
+											<option value="sr">Serbian</option>
+										
+											<option value="ss">Swati</option>
+										
+											<option value="st">Southern Sotho</option>
+										
+											<option value="su">Sundanese</option>
+										
+											<option value="sv">Swedish</option>
+										
+											<option value="sw">Swahili</option>
+										
+											<option value="ta">Tamil</option>
+										
+											<option value="te">Telugu</option>
+										
+											<option value="tg">Tajik</option>
+										
+											<option value="th">Thai</option>
+										
+											<option value="ti">Tigrinya</option>
+										
+											<option value="tk">Turkmen</option>
+										
+											<option value="tl">Tagalog</option>
+										
+											<option value="tn">Tswana</option>
+										
+											<option value="to">Tonga (Tonga Islands)</option>
+										
+											<option value="tr">Turkish</option>
+										
+											<option value="ts">Tsonga</option>
+										
+											<option value="tt">Tatar</option>
+										
+											<option value="tw">Twi</option>
+										
+											<option value="ty">Tahitian</option>
+										
+											<option value="ug">Uyghur</option>
+										
+											<option value="uk">Ukrainian</option>
+										
+											<option value="ur">Urdu</option>
+										
+											<option value="uz">Uzbek</option>
+										
+											<option value="va">Valencian</option>
+										
+											<option value="ve">Venda</option>
+										
+											<option value="vi">Vietnamese</option>
+										
+											<option value="vo">Volapük</option>
+										
+											<option value="wa">Walloon</option>
+										
+											<option value="wo">Wolof</option>
+										
+											<option value="xh">Xhosa</option>
+										
+											<option value="yi">Yiddish</option>
+										
+											<option value="yo">Yoruba</option>
+										
+											<option value="za">Zhuang, Chuang</option>
+										
+											<option value="zh">Chinese</option>
+										
+											<option value="zu">Zulu</option>
+										
+					
+									</select>
+								Subject: 
+									<input type="text" name="subject" id="subjectbusqueda">
+								Grade/level: 
+									<input type="text" name="level" id="levelbusqueda" size="26">
+								Age:
+									<select id="agebusqueda" name="age">
+										<option value=""> </option>
+										<option value="3">3</option>
+										<option value="4">4</option>
+										<option value="5">5</option>
+										<option value="6">6</option>
+										<option value="7">7</option>
+										<option value="8">8</option>
+										<option value="9">9</option>
+										<option value="10">10</option>
+										<option value="11">11</option>
+										<option value="12">12</option>
+										<option value="13">13</option>
+										<option value="14">14</option>
+										<option value="15">15</option>
+										<option value="16">16</option>
+										<option value="17">17</option>
+										<option value="18">18+</option>
+									</select>
+								Search:
+									<select id="searchin" name="searchin">
+										<option value="all" selected="">All worksheets</option>
+										<option value="followed">Only my followed users</option>
+										<option value="favourites">Only my favourite worksheets</option>
+										<option value="own">Only my own worksheets</option>
+									</select>				
+								<input type="submit" value="Search" name="Search">
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="site-language">
+				<div id="capacambiaridioma">
+					<div class="language-container">
+						<span id="spanlinktoenglish">English</span>
+						<span> - </span>
+						<span id="spanlinktospanish">
+							<a class="enlace" style="color:#ffffff" href="https://es.liveworksheets.com/cookies_en.asp" id="linktospanish">Español</a>
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="site-header-bottom">
+			<div id="capamenu">
+				<nav>
+					<ul class="main-menu">
+						<li class="menu-item">
+							<a class="enlacesmenu" href="https://www.liveworksheets.com">Home</a>
+						</li>
+						<li class="menu-item">
+							<a class="enlacesmenu" href="https://www.liveworksheets.com/aboutthis_en.asp">About this site</a>
+						</li>
+						<li class="menu-item">
+							<a class="enlacesmenu" href="https://www.liveworksheets.com/worksheets/en">Interactive worksheets</a>
+						</li>
+						<li class="menu-item menu-item-has-children">
+							<span class="enlacesmenu" onclick="showSubMenu(this)">Make interactive worksheets</span>
+							<ul class="sub-menu">
+								<li class="sub-menu-item">
+									<a class="enlacesmenu" href="https://www.liveworksheets.com/lwsmaker/gettingstarted.asp">Tutorial</a>
+								</li>
+								<li class="sub-menu-item">
+									
+										<a class="enlacesmenu" href="https://youtu.be/V5AM_qToJyc">Video tutorial</a>
+									
+								</li>
+								<li class="sub-menu-item">
+									<a class="enlacesmenu" href="https://www.liveworksheets.com/lwsmaker/index.asp">Get started</a>
+								</li>
+							</ul>
+						</li>
+						<li class="menu-item menu-item-has-children">
+							<span class="enlacesmenu" onclick="showSubMenu(this)">Make interactive workbooks</span>
+							<ul class="sub-menu">
+								<li class="sub-menu-item">
+									
+										<a class="enlacesmenu" href="https://youtu.be/yQYNnSvqM24">Video tutorial</a>
+									
+								</li>
+								
+							</ul>
+						</li>
+							
+							<li class="menu-item">
+								<a class="enlacesmenu" href="https://www.liveworksheets.com/help/">Help</a>
+							</li>
+						
+					</ul>
+				</nav>
+				<div class="mobile-nav">
+					<span id="hamburger-menu" onclick="openMobileNav()"></span>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+<div class="site-sub-menu">
+	<div id="students-access-tab" class="site-sub-menu-tab">
+		<a class="enlacesmenu" href="https://www.liveworksheets.com/workbooks">Students access</a>
+	</div>
+	<div id="teachers-access-tab" class="site-sub-menu-tab">
+		
+			<span class="enlacesmenu" onclick="desplegarmenuteachers()">Teachers access&nbsp;&nbsp;<img id="teachersdropdowntriangle" src="https://files.liveworksheets.com/images/dropdownwhite.png"></span>
+		
+
+		<div id="teachersmenu">
+			
+				<form id="formulariologin" method="POST" action="https://www.liveworksheets.com/login.asp">
+				
+					<br>
+					<font color="#FFFFFF" style="font-size: 11pt">Username or email: </font><br>
+					<input type="text" id="usernamelogin" name="usernamelogin" size="30" onchange="this.value=this.value.trim()" style="box-sizing:content-box;background-color:#edeff0;height:20px;width:160px;font-size:14px;border-radius: 3px;border: 1px solid #d4d3d3;">
+					<br><br>
+					<font color="#FFFFFF" style="font-size: 11pt">Password: </font><br>
+					<input type="password" id="passwordlogin" name="passwordlogin" size="20" onchange="this.value=this.value.trim()" style="box-sizing:content-box;background-color:#edeff0;height:20px;width:160px;font-size:14px;border-radius: 3px;border: 1px solid #d4d3d3;"><br>
+					<font color="#FFFFFF" size="2">
+					<input type="checkbox" name="rememberme" value="yes">Remember me
+					</font>
+					<br><br>
+					<div style="display: flex; justify-content: center;" class="g-recaptcha" data-sitekey="6LfHPSITAAAAANnxZdFw1TIBEaS4UgsMSSH-zsZi"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&amp;k=6LfHPSITAAAAANnxZdFw1TIBEaS4UgsMSSH-zsZi&amp;co=aHR0cHM6Ly93d3cubGl2ZXdvcmtzaGVldHMuY29tOjQ0Mw..&amp;hl=en&amp;v=jF-AgDWy8ih0GfLx4Semh9UK&amp;size=normal&amp;cb=350x3gwovuur" width="304" height="78" role="presentation" name="a-8rtzui9w1f30" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+					<br><br>
+					<input type="submit" value="Enter" name="Send" style="box-sizing:content-box;background-color:#ffffff;height:20px;width:100px;font-size:14px;border-radius: 3px;border: 1px solid #d4d3d3;"><br><br>
+				</form>
+				<a class="enlacesmenu" href="https://www.liveworksheets.com/register/register.asp">Register</a>
+				<a class="enlacesmenu" href="https://www.liveworksheets.com/myaccount/forgotmypassword.asp">Forgot my password</a>
+			
+		</div>
+	</div>
+</div>
+
+<div class="capalogin" id="capalogin">
+	<div class="capalogin-inner">
+		<p id="logintitle">Log in: </p>
+		
+			<form id="formulariologin" method="POST" action="https://www.liveworksheets.com/login.asp">
+		
+			<label class="login-label" for="usernamelogin">Username or email:</label>
+			<input type="text" id="usernamelogin" name="usernamelogin" size="30" onchange="this.value=this.value.trim()">
+			<label class="login-label" for="passwordlogin">Password:</label>
+			<input type="password" id="passwordlogin" name="passwordlogin" size="20" onchange="this.value=this.value.trim()">
+			<span>
+				<label for="rememberme">Remember me</label>
+				<input type="checkbox" name="rememberme" id="rememberme" value="yes">
+			</span>
+			<input type="submit" value="Enter" name="Send">
+			<a class="enlaceblanco" href="https://www.liveworksheets.com/register/register.asp">Register</a>
+			<a class="enlaceblanco" href="https://www.liveworksheets.com/myaccount/forgotmypassword.asp">Forgot my password</a>
+			<span class="enlaceblanco" onclick="closeLogin()">Close</span>
+		</form>
+	</div>
+</div>
+<div class="capalogin" id="capafollow"></div>
+<p align="center">&nbsp;</p>
+<div id="capacontenido" class="capacontenido" style="width:1160px;position:relative">
+<div style="width:1000px;position:relative;top:0px;left:80px">
+
+
+    <p align="left"><b><font face="Arial" size="5">Cookies configuration</font></b></p>
+    <div class="divcontenido">
+        <p align="justify" style="margin-left: 10px; margin-right: 10px">
+        </p><form method="post">
+        <font face="Arial" color="#333333"><br>
+        This website and our <a class="enlace" href="advertisingpartners_en.asp">advertising partners</a> use cookies and other similar technologies to offer a better service, to show relevant ads and to analyze anonymous visitors' statistics.<br>
+        You can choose here the cookies that you allow us to use:<br><br>
+        <input type="checkbox" name="functional" value="yes" checked="" disabled="">&nbsp;<b>Technical or functional cookies</b><br>
+        These cookies are created by this website and are neccessary to offer the web service. These cookies store information about your own preferences, user identification, etc.<br><br>
+        <input type="checkbox" name="personalizedads" value="yes" checked="">&nbsp;<b>Personalized ads</b><br>
+        These cookies are added by a third party (Google Adsense) to show you personalized ads based on your interests and navigation history. These ads allow us to offer a free service.<br><br>
+        
+        <input type="checkbox" name="youtube" value="yes" checked="">&nbsp;<b>Youtube cookies</b><br>
+        Youtube videos embedded in worksheets may also add cookies for tracking purposes. If you disable these cookies, youtube videos won't be displayed in the site.<br><br>
+        <input type="checkbox" name="statistics" value="yes" checked="">&nbsp;<b>Statistics cookies</b><br>
+        These cookies are added by a third party (Google Analytics). We use these cookies to analyze anonymous visitors' statistics (number of visitors, their country, procedence, etc.)<br><br>
+        </font><p></p>
+        <div align="center">
+        <input type="hidden" name="enviando" value="yes">
+        <input type="hidden" name="rdt" value="">
+        <input type="submit" value="Save preferences">
+        </div>
+        </form>
+        <p align="justify" style="margin-left: 10px; margin-right: 10px">&nbsp;</p>
+        <p align="justify" style="margin-left: 10px; margin-right: 10px">&nbsp;</p></div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+<style>
+	#url-message-popup {
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		background-color: rgba(0,0,0,.4);
+		display: flex;
+		opacity: 1;
+		z-index: 10000;
+		height: inherit;
+		align-items: center;
+		justify-content: center;
+		padding: 1rem;
+		-webkit-transition: opacity .7s ease-out;
+		-moz-transition: opacity .7s ease-out;
+		-o-transition: opacity .7s ease-out;
+		transition: opacity .7s ease-in-out;		
+	}
+	#url-message-popup.hidden {
+		display: none !important;
+		opacity: 0;
+		height: 0;
+		z-index: -1;
+		-webkit-transition: opacity .7s ease-out;
+		-moz-transition: opacity .7s ease-out;
+		-o-transition: opacity .7s ease-out;
+		transition: opacity .7s ease-in-out;
+	}
+	#url-message-popup .url-message-popup-inner {
+		background-color: #0a4073;
+		color: #ffffff;
+		position: relative;
+		padding: 2rem;
+		max-width: 700px;
+	}
+	#url-message-popup #url-message-popup-close {
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		background-color: #ffffff;
+		color: #0a4073;
+		padding: 0px 5px;
+		border-radius: 50px;
+		cursor: pointer;
+		font-weight: 600;
+		line-height: 1.4;
+	}
+	#url-message-popup #url-message-popup-content {
+		font-weight: 500;
+		font-size: 2rem;
+    margin-bottom: 0;
+	}
+</style>
+
+
+
+<div id="url-message-popup" class="hidden">
+  <div class="url-message-popup-inner">
+    <div id="url-message-popup-close" onclick="closeUrlMessagePopup()">X</div>
+    <div class="url-message-popup-content">
+      <p id="url-message-popup-content"></p>
+    </div>
+  </div>
+</div>
+
+<div id="capabottommenu">
+  <nav class="footer-menu" title="Footer Menu">
+    <ul>
+      <li>
+        <a class="enlace" href="https://www.liveworksheets.com/terms_of_use_en.asp">Terms of use</a>
+      </li>
+      <li>
+        <a class="enlace" href="https://www.liveworksheets.com/privacypolicy_en.asp">Privacy policy</a>
+      </li>
+      <li>
+        <a class="enlace" href="https://www.liveworksheets.com/cookies_en.asp">Cookies configuration</a>
+      </li>
+      <li>
+        <a class="enlace" href="https://www.liveworksheets.com/reportcopyright.asp">Report copyright infringement</a>
+      </li>
+      <li>
+        <a class="enlace" href="https://www.liveworksheets.com/contact.asp">Contact</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+
+    
+
+        //check the window.innerwidth compared to line above 
+        //update the viewport scale value to be used on the liveworksheet detail pages 8/10/2022
+  (function(){
+        //Necessary for the liveworksheets to be view on mobile
+        var scale_width = Math.min(  window.innerWidth, screen.width );
+		    document.cookie = "screen_w=" + scale_width;
+
+   })();
+</script>
+<script type="text/javascript" language="JavaScript">
+  var url_message_popup = document.getElementById('url-message-popup');
+
+	function closeUrlMessagePopup() {
+		url_message_popup.classList.add("hidden");
+	}
+  var url = new URL(window.location.href);
+
+  let url_parameters = ['login', 'test'];
+  let show_message_modal = false;
+
+  for (var i = 0; i < url_parameters.length; i++) {
+      if (url.searchParams.get(url_parameters[i])) {
+        show_message_modal = true;
+      }   
+  }
+  var url_message = url.searchParams.get('msg');
+  var url_message_content = document.getElementById('url-message-popup-content');
+
+  if (show_message_modal == true) {
+    if (url_message) {
+      url_message = url_message.replaceAll('+', ' ');
+      url_message_content.innerHTML = url_message;
+      url_message_popup.classList.remove("hidden");
+    }
+  }
+
+
+  /** 
+   * Search Form validation
+   * 
+   * On Submit
+   * 
+   * Replace Domain Names with empty string
+   **/
+  $(function(){
+      $("#formulariodebusqueda").on("submit",function(evt){
+
+        $("input[name=content]").each(function() {
+              if(this.value.length > 0){
+                  //Remove URLS with http
+                  this.value = this.value.replace(/(?:https?|ftp):\/\/[\n\S]+/g, '');
+                  this.value  = this.value.replace(/[a-zA-Z0-9][a-zA-Z0-9-]{1,61}[a-zA-Z0-9](?:\.[a-zA-Z]{2,})+/, ''); //domain name
+
+              }
+        });
+
+      });
+  });
+</script>
+
+
+<div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" src="https://www.recaptcha.net/recaptcha/api2/bframe?hl=en&amp;v=jF-AgDWy8ih0GfLx4Semh9UK&amp;k=6LfHPSITAAAAANnxZdFw1TIBEaS4UgsMSSH-zsZi" name="c-8rtzui9w1f30" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div></body></html>

@@ -1,0 +1,236 @@
+NHS account cookies policy - Version 2.6 - 2 September 2022 - NHS
+Cookies on the NHS website
+We've put some small files called cookies on your device to make our site work.
+We'd also like to use analytics cookies
+These send information about how our site is used to services called Adobe Analytics, Hotjar and Google Analytics
+We use this information to improve our site.
+Let us know if this is OK
+We'll use a cookie to save your choice
+You can read more about our cookies before you choose.
+I'm OK with analytics cookies
+Do not use analytics cookies
+You can change your cookie settings at any time using our cookies page.
+Skip to main content
+Search the NHS website
+When autocomplete results are available use up and down arrows to review and enter to select
+Touch device users, explore by touch or with swipe gestures.
+Search
+My account
+Health A-Z
+NHS services
+Live Well
+Mental health
+Care and support
+Pregnancy
+Home
+NHS services
+Browse
+More
+Home
+NHS App and your NHS account
+NHS account legal and cookies
+Back to
+NHS account legal and cookies
+NHS account cookies policy
+Version 2.6, 2 September 2022Minor update to add 6 HotJar cookies and 1 necessary cookie
+We have also removed 2 Adobe Analytics cookies that we no longer use.
+This cookies policy relates to the service provided by NHS Digital, giving you access to certain NHS services through our national digital channels
+We now call this service your NHS account
+You can continue to log in to your NHS account using the NHS App (formerly known as the native version) or NHS website (formerly known as the browser version) in the same way as you did previously
+This cookies policy covers the use of your NHS account in both channels.Your use of the NHS website other than for the services available in your NHS account will continue to be covered by the NHS website terms and conditions, privacy policy, cookies policy and other policies.NHS Digital ("we" or "us") uses cookies to deliver the NHS account, through the NHS App ("NHS App") or the NHS website.The information set out in this policy is provided in addition to the NHS account privacy policy and should be read alongside it.We put small files called cookies on your device (for example, your phone).Cookies are widely used to make websites and apps work, or work more efficiently, as well as to provide services and functionalities for users.We use two types of cookie on your NHS account:cookies that we need to put on your device for the your NHS account to work ("strictly necessary cookies")optional analytic cookies to collect information about how your NHS account is used to help us improve it (sometimes referred to as "performance cookies")We ask you to accept our cookies policy when you accept the NHS account terms of use and privacy policy
+In doing so, you agree to let us put the strictly necessary cookies on your device.The first time you log in we also offer you the choice of accepting or declining the optional analytic cookies that help us improve its performance.
+Important:
+Important
+If you're using a public computer, make sure you:log out of your NHS accountdelete any health record documents you may have downloadeddelete any cookies from the web browser
+Strictly necessary cookies we need to setThe strictly necessary cookies we need to put on your device for your NHS account to work are:
+Name, purpose and expiry of strictly necessary cookies
+Name
+Purpose
+Expires
+HideBiometricBanner
+This cookie tells us if you can see the biometric banner
+The biometric banner asks you if you want to log in using biometric data, for example facial recognition.
+5 years
+nhso.session
+NHS account session cookie
+This is set when you log in to the app
+It makes temporary use of your personal information previously collected by us, only holding information for the duration of your session
+It is required by various features in your NHS account and is deleted when your session ends.
+When you close the app or browser window or sign out
+NHSO-Session-Id
+NHS account session cookie
+This is set when you log in to the app
+It makes temporary use of your personal information previously collected by us, only holding information for the duration of the session
+It's used to ensure you're securely logged in and your information is secure, and is deleted when your session ends.
+When you close the app or browser window or sign out
+nhso.auth
+NHS account session cookie
+This is set before you log in
+It contains information used for login purposes
+It does not collect, store or make use of any of your personal information and cannot be used to identify you.
+When you sign in
+nhso.terms
+NHS account session cookie
+This is set when you sign in
+It temporarily stores whether you have accepted the conditions of use and optional analytic cookies, to improve the performance of your NHS account
+It does not collect, store or make use of any of your personal information and cannot be used to identify you.
+When you close the app or browser window or sign out
+nhso.notifications-prompt-###
+This lets us know if you’re logging in for the first time so we can show you a prompt to turn notifications on or off.
+365 days
+NHSO-Session-Expiry
+This lets us know how long it is before your session automatically times out due to inactivity so we can keep your data secure.
+The end of the session
+SkipPreRegistrationPage
+This lets us know you have previously logged in so we do not show you the pre-registration page again.
+5 years
+Optional analytic cookiesWe use software called Adobe Analytics and Hotjar to collect performance data about how people use their NHS account
+The information helps us to improve the NHS account.Your "client IP address" is transmitted to Adobe Analytics and Hotjar as part of performance data but is not stored
+This means we cannot identify you
+No other personal information (for example, your name or address) is collected.We do not allow Adobe or Hotjar to use or share our analytics data.You can choose whether to allow optional analytic cookies from your NHS account
+To change your preference:Go to More.Select Account and settings.Select Legal and cookies.Then select Manage cookies.Switch Allow optional analytic cookies on or off.When you change your preference, it applies to all the devices you use to log in to your NHS account.Cookies set by Adobe Analytics
+Name, purpose and expiry of cookies set by Adobe Analytics
+Name
+Purpose
+Expires
+s_cc
+This lets us know if your browser allows cookies.
+When you close your browser
+s_sq
+This lets us know what the previous link you clicked on was.
+When you close your browser
+AMCV_###@AdobeOrg
+This lets us know your unique visitor ID when you use our platform.
+2 years
+AMCVS_###@AdobeOrg
+This is set when you first log in
+It lets us know your unique visitor ID each time you use our platform.
+2 years
+gpv
+This stores information which lets us know how many of our pages you visited.
+The end of the session.
+s_ppv
+This stores information which lets us know how far you scroll down the page.
+The end of the session
+s_tp
+This lets us know how much of the page you viewed.
+The end of the session
+s_getNewRepeat
+This lets us know if you're logging in for the first time.
+1 month
+Cookies set by Hotjar
+Name, purpose and expiry of cookies set by Hotjar
+Name
+Purpose
+Expires
+ajs_anonymous_id
+Hotjar cookie
+This cookie creates a random identification for users who want to stay anonymous.
+365 days
+_ga
+Hotjar cookie
+This cookie helps us to tell the difference between you and someone else.
+2 years
+_gid
+Hotjar cookie
+This cookie helps us to tell the difference between you and someone else.
+1 day
+hjid
+Hotjar cookie
+This cookie is set when a visitor first lands on a page with the Hotjar script
+It is used to persist the Hotjar User ID, unique to that site on the browser
+This ensures that behaviour in subsequent visits to the same site will be attributed to the same user ID.
+365 days
+hjClosedSurveyInvites
+Hotjar persistent cookie
+This cookie is set once a visitor interacts with a survey invitation modal pop-up
+It's used to ensure that the same invite does not reappear if it's already been shown.
+365 days
+hjDonePolls
+Hotjar persistent cookie
+This cookie is set once a visitor completes a poll using the feedback poll widget
+It's used to ensure that the same poll does not reappear if it's already been filled in.
+365 days
+_hjFirstSeen
+Hotjar cookie
+This cookie is used to detect your first session.
+The end of the session
+hjMinimizedPolls
+Hotjar persistent cookie
+This cookie is set once a visitor minimises a feedback poll widget
+It's used to ensure that the widget stays minimised when the visitor navigates through your site.
+365 days
+hjDoneTestersWidgets
+Hotjar persistent cookie
+This cookie is set once a visitor submits their information in the recruit user testers widget
+It's used to ensure that the same form does not reappear if it's already been filled in.
+365 days
+hjMinimizedTestersWidgets
+Hotjar persistent cookie
+This cookie is set once a visitor minimises a recruit user testers widget
+It's used to ensure that the widget stays minimised when the visitor navigates through your site.
+365 days
+hjIncludedInSample
+Hotjar persistent cookie
+This session cookie is set to let Hotjar know whether that visitor is included in the sample used to generate funnels.
+365 days
+_hjSession_###
+Hotjar cookie
+This cookie keeps information from your session
+It also records your activity as a single session.
+30 minutes
+_hjSessionUser_###
+Hotjar cookie
+This cookie detects the first page you use when you log in to your NHS account
+It also recognises your next visit.
+365 days
+hjShownFeedbackMessage
+Hotjar persistent cookie
+This cookie is set when a visitor minimises or completes incoming feedback
+This is done so the incoming feedback will load as minimised immediately if they navigate to another page where it's set to show.
+365 days
+_hjAbsoluteSessionInProgress
+Hotjar cookie
+This cookie is used to detect the first pageview session of a user.
+30 minutes
+_hjIncludedInPageviewSample
+Hotjar cookie
+This cookie is set to let Hotjar know whether that user is included in the data sampling defined by your site's pageview limit.
+30 minutes
+_hjIncludedInSessionSample
+Hotjar cookie
+This cookie is set to let Hotjar know whether that user is included in the data sampling defined by your site's daily session limit.
+30 minutes
+Your cookie choicesThe majority of devices and browsers will allow you to alter the settings used for cookies and disable and enable them as you require.You can select your cookie preferences so that you do not get any cookies (except strictly necessary cookies) if you prefer not to receive them.You can also delete the cookies already on your device, and you can set your browser or device to prevent them being placed.Please be aware that if you set your preferences to not allow cookies, it could limit the functionality of your NHS account as it needs the strictly necessary ones to function.Changes to this cookie policyThe NHS account's terms of use, privacy policy and cookies policy may change
+We'll inform you and request your continued agreement if we make any significant changes to the NHS account's terms of use, privacy policy or cookies policy.Version historyVersion 2.5, 6 April 2022 - minor update to remove BetaCookieVersion 2.4, 5 April 2022 - minor update to describe the way we talk about access to certain NHS services through our national digital channelsVersion 2.3, 17 January 2022 - minor update to better describe how we use optional analytic cookies and how you can manage your cookie preferencesVersion 2.2, 16 January 2020 - minor update to better describe how we use optional analytic cookies and how you can manage your cookie preferencesVersion 2.1, 27 November 2019 - minor update to better describe how we use optional analytic cookies and how you can manage your cookie preferences if you use multiple devicesVersion 2, 18 December 2018 - significant update for the app's public release in the Apple and Google Play storesVersion 1, 26 September 2018 - original version for the app's private beta releaseIf you would like to view a previous version, contact the NHS App team.
+More in
+NHS account legal and cookies
+NHS account cookies policy
+NHS account accessibility statement
+NHS account terms of use
+NHS account privacy policy
+NHS App open source licences
+Page last reviewed: 5 April 2022
+Next review due: 5 September 2024
+Support links
+Home
+Health A to Z
+Live Well
+Mental health
+Care and support
+Pregnancy
+NHS services
+Coronavirus (COVID-19)
+NHS App
+Find my NHS number
+Your health records
+About the NHS
+Healthcare abroad
+Contact us
+Other NHS websites
+Profile editor login
+About us
+Accessibility statement
+Our policies
+Cookies
+© Crown copyright

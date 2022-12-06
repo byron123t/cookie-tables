@@ -1,0 +1,929 @@
+
+Cookie policy | Taylor & Francis Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Access provided by University of Michigan
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+ | 
+
+Register
+
+
+
+
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Cookies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookies
+
+
+
+
+
+We have developed this cookie policy (the “Cookie Policy”) in order to explain how we use cookies and similar technologies (together, “Cookies”) on this website (the “Website”) and to demonstrate our firm commitment to the privacy of your personal information.
+The first time that you visit our Website, we notify you about our use of Cookies through a notification banner.  By continuing to use the Website, you consent to our use of Cookies as described in this Cookie Policy.  However, you can choose whether or not to continue accepting Cookies at any later time.  Information on how to manage Cookies is set out later in this Cookie Policy.
+Please note that our use of any personal information we collect about you is subject to our Privacy Policy.
+What are Cookies?
+Cookies are small text files containing user IDs that are automatically placed on your computer or other device by when you visit a website.  The Cookies are stored by the internet browser.  The browser sends the Cookies back to the website on each subsequent visit, allowing the website to recognise your computer or device.  This recognition enables the website provider to observe your activity on the website, deliver a personalised, responsive service and improve the website.
+Cookies can be ‘Session Cookies’ or ‘Persistent Cookies’.  Session Cookies allow a website to link a series of your actions during one browser session, for example, to remember the items you have added to a shopping basket.  Session Cookies expire after a browser session and are therefore not stored on your computer or device afterwards.  Persistent Cookies are stored on your computer or device between browser sessions and can be used when you make subsequent visits to the website, for example to remember your website preferences, such as language or font size.
+First and third-party Cookies
+The Cookies placed on your computer or device include ‘First Party’ Cookies, meaning Cookies that are placed there by us, or by third party service providers acting on our behalf. Where such Cookies are being managed by third parties, we only allow the third parties to use the Cookies for our purposes, as described in this Cookie Policy, and not for their own purposes.
+The Cookies placed on your computer or device may also include ‘Third Party’ Cookies, meaning Cookies that are placed there by third parties. These Cookies may include third party advertisers who display adverts on our Website and/or social network providers who provide ‘like’ or ‘share’ capabilities (see the above section on Targeting or Advertising Cookies). They may also include third parties who provide video content which is embedded on our Website (such as YouTube). Please see the website terms and policies of these third parties for further information on their use of Cookies.
+To learn about the specific First Party and Third Party Cookies used by our Website, please see the breakdown below.
+Cookies we use and their purpose
+We use various types of Cookies - ‘Strictly necessary’ Cookies, ‘Performance’ Cookies, ‘Functionality’ Cookies and ‘Targeting’ cookies. Each type of cookie and the purposes for which we use them are described in this section.
+Cookie list
+A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set by us and called first-party cookies. We also use third-party cookies – which are cookies from a domain different than the domain of the website you are visiting – for our advertising and marketing efforts. More specifically, we use cookies and other tracking technologies for the following purposes:
+Strictly necessary cookies
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+
+
+Cookie subgroupCookiesCookies usedLifespan
+
+www.tandfonline.com
+JSESSIONID
+MAID
+PLUID
+
+First party
+Session
+300 days
+1 year
+
+
+
+Cloudflare
+__cf_bm
+Third party
+30 mins
+
+
+scienceconnect.io
+iam
+Third party
+Session
+
+
+
+
+
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and we will not be able to monitor its performance.
+
+
+
+Cookie subgroupCookiesCookies usedLifespan
+
+www.tandfonline.com
+SERVER
+First party
+Session
+
+
+Google
+_ga
+_gcl_au
+_gid
+gat_UA
+NID
+1P_JAR
+
+Third party
+2 years
+455 days
+24 hours
+1 minute
+180 days
+30 days
+
+
+
+pardot.com
+visitor_id<accountid>
+lpv
+visitor_id<accountid>-hash
+
+Third party
+3650 days
+30 minutes
+3650 days
+
+
+
+Addthis.com
+__atuvs
+__atuvc
+loc
+uvc
+ouid
+uid
+na_id
+loc
+vc
+um
+
+Third party
+30 minutes
+390 days
+13 months
+13 months
+13 months
+1 Year
+1 Year
+1 Year
+1 Year
+13 months
+
+
+
+alexametrics.com
+__auc
+__asc
+
+Third party
+1 Year
+30 minutes
+
+
+orcid.org
+_gat
+_ga
+X-Mapping-fjhppofk
+Third party
+1 minute
+1 minute
+Session
+
+
+Twitter
+_ga
+_gid
+
+Third party
+2 years
+1 day
+
+
+Hotjar
+_hjid
+_hjFirstSeen
+_hjIncludedInSessionSample
+_hjAbsoluteSessionInProgress
+Third party
+1 year
+30 mins
+30 mins
+30 mins
+
+
+codeocean.com
+_gid
+_ga
+
+Third party
+1 day
+2 years
+
+
+annotations.scitrus.com
+_ga
+_gid
+
+Third party
+2 years
+1 day
+
+
+
+
+
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+
+
+Cookie subgroupCookiesCookies usedLifespan
+
+www.tandfonline.com
+MACHINE_LAST_SEEN
+I2KBRCK
+Timezone
+displayMathJaxFormula
+CookiePolicy
+AUTO_SIGNIN
+SeamlessAccess_OptOut
+
+First party
+300 Days
+1 year
+Session
+1 year
+1 year
+60 days
+1 year
+
+
+
+addthis.com
+sshs
+di2
+
+Third party
+13 months
+1 year
+
+
+
+Twitter
+personalization_id
+guest_id
+ct0
+external_referer
+_twitter_sess
+
+Third party
+2 years
+2 years
+twitter dependent
+7 days
+Session
+
+
+
+ReadSpeaker
+ReadSpeakerSettings
+_rspkrLoadCore
+
+Third party
+5 Days
+Session
+
+
+
+scholar.google.com
+GSP
+Third party
+2 years
+
+
+Figshare.com
+fig_tracker_client
+Third party
+1 year
+
+
+sketchfab.com
+sb_csrftoken
+Third party
+1 year
+
+
+
+
+
+
+Targeting Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+
+
+Cookie subgroupCookiesCookies usedLifespan
+
+Google
+__gads
+Third party.
+390 days
+
+
+Linkedin
+Li_sugr
+bcookie
+lidc
+UserMatchHistory
+AnalyticsSyncHistory
+lang
+aam_uuid
+AMCV_<variable name>@AdobeOrg
+li_rm
+
+Third party
+3 months
+2 years
+1 day
+30 days
+30 days
+Session
+1 month
+6 months
+1 year
+
+
+
+doubleclick
+IDE
+Third party
+2 years
+
+
+Facebook.com
+sb
+wd
+datr
+fr
+
+Third party
+2 years
+7 days
+2 years
+*facebook dependent
+
+
+
+Demdex
+dpm
+dextp
+demdex
+
+Third party
+6 months
+Session
+Session
+
+
+
+
+
+
+COOKIES SETTINGS
+Managing Cookies
+You always have a choice over whether or not to accept Cookies. When you first visit the Website and we notify you about our use of Cookies, you can choose not to consent to such use. If you continue to use the Website, you are consenting to our use of Cookies for the time being. However, you can choose not to continue accepting Cookies at any later time. In this section, we describe ways to manage Cookies, including how to disable them.
+You can manage Cookies through the settings of your internet browser.  You can choose to block or restrict Cookies from being placed on your computer or device.  You can also periodically review the Cookies that have been placed there and disable some or all of them.
+You can learn more about how to manage Cookies on the following websites: www.allaboutcookies.org and www.youronlinechoices.com.
+Please be aware that if you choose not to accept certain Cookies, it may mean we are unable to provide you with some services or features of the Website.
+Changes to Cookie Policy
+In order to keep up with changing legislation and best practice, we may revise this Cookie Policy at any time without notice by posting a revised version on this Website. So please check back periodically so that you are aware of any changes.
+Questions or Concerns
+If you have any questions or concerns about this Cookie Policy or our use of Cookies on the Website, please contact us by email to privacy@taylorandfrancis.com
+You can also contact the Privacy Officer for the Informa plc group at GroupDPO@informa.com
+This Cookie Policy was last updated February 2022.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Browse journals by subject
+
+
+
+Back to top 
+
+
+
+
+
+
+Area Studies
+
+
+Arts
+
+
+Behavioral Sciences
+
+
+Bioscience
+
+
+Built Environment
+
+
+Communication Studies
+
+
+Computer Science
+
+
+Earth Sciences
+
+
+Economics, Finance, Business & Industry
+
+
+Education
+
+
+Engineering & Technology
+
+
+Environment & Agriculture
+
+
+Environment and Sustainability
+
+
+Food Science & Technology
+
+
+Geography
+
+
+Global Development
+
+
+Health and Social Care
+
+
+Humanities
+
+
+Information Science
+
+
+Language & Literature
+
+
+Law
+
+
+Mathematics & Statistics
+
+
+Medicine, Dentistry, Nursing & Allied Health
+
+
+Museum and Heritage Studies
+
+
+Physical Sciences
+
+
+Politics & International Relations
+
+
+Social Sciences
+
+
+Sports and Leisure
+
+
+Tourism, Hospitality and Events
+
+
+Urban Studies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information for
+
+Authors
+R&D professionals
+Editors
+Librarians
+Societies
+
+
+
+
+
+
+
+
+
+
+
+Open access
+
+Overview
+Open journals
+Open Select
+Dove Medical Press
+F1000Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opportunities
+
+Reprints and e-prints
+Advertising solutions
+Accelerated publication
+Corporate access solutions
+
+
+
+
+
+
+
+
+
+
+
+Help and information
+
+Help and contact
+Newsroom
+All journals
+Books
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Keep up to date
+
+Register to receive personalised research and resources by email
+
+
+Sign me up
+
+
+
+
+
+
+
+
+
+
+Taylor and Francis Group Facebook page
+
+
+
+
+
+
+
+Taylor and Francis Group Twitter page
+
+
+
+
+
+
+
+Taylor and Francis Group Linkedin page
+
+
+
+
+
+
+
+
+Taylor and Francis Group Youtube page
+
+
+
+
+
+
+
+Taylor and Francis Group Weibo page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2022 Informa UK Limited
+Privacy policy
+Cookies
+Terms & conditions
+Accessibility
+Registered in England & Wales No. 3099067
+5 Howick Place | London | SW1P 1WG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AcceptCookie Policy
+We use cookies to improve your website experience. To learn about our use of cookies and how you can manage your cookie settings, please see our Cookie Policy. By closing this message, you are consenting to our use of cookies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

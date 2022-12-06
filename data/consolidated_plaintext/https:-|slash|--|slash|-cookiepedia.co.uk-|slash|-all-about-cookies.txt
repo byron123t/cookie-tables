@@ -1,0 +1,226 @@
+
+
+What are cookies? | Cookiepedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All About Cookies
+
+What are Cookies?
+Types of Cookies
+Online Tracking Technologies
+The Benefits of Cookies
+Cookies and Online Privacy
+
+How to Manage Cookies
+
+Google Chrome
+Firefox
+Firefox (iOS)
+Firefox (Android)
+Safari (Desktop)
+Safari (Mobile)
+Microsoft Edge
+Internet Explorer
+Opera
+New Cookie Controls for Chrome
+
+
+IAB Legal Text
+
+
+
+EU Cookie Directive
+
+EU Cookie Directive
+Cookie Laws Across Europe
+Cookie Law in the UK
+Cookie Law Compliance Guidance
+Cookies Consent
+How To Complain About Cookies
+
+
+
+The Cookiepedia Database
+
+About Cookiepedia
+Using Cookiepedia
+How We Classify Cookies
+Cookies and Privacy Policy
+
+
+
+Free Website Scan
+
+
+
+
+
+
+
+
+
+
+
+
+website
+cookie
+3rd party host
+
+
+
+
+
+
+
+
+
+What Are Cookies?
+
+Cookies are pieces of data, normally stored in text files, that websites place on visitors' computers to store a range of information, usually specific to that visitor - or rather the device they are using to view the site - like the browser or mobile phone.
+They were created to overcome a limitation in web technology. Web pages are 'stateless' - which means that they have no memory, and cannot easily pass information between each other. So, cookies provide a kind of memory for web pages.
+Cookies allow you to login on one page, then move around to other pages and stay logged in. They allow you to set preferences for the display of a page, and for these to be remembered the next time you return to it.
+Cookies can also be used to watch the pages you visit between sites, which allows advertisers to build up a picture of your interests. Then when you land on a site that shows one of their adverts - they can tailor it to those interests. This is known as 'behavioural advertising'.
+Almost all websites use cookies in some way or another, and every page you visit in those sites writes cookies to your computer and receives them back from it.
+Cookies are incredibly useful – they allow modern websites to work the way people have come to expect – with every increasing levels of personalisation and rich interactive functionality.
+However, they can also be used to manipulate your web experience in ways you might not expect, or like. It could be to your benefit, or the benefit of someone else – even a business or organisation that you have never had any direct contact with, or perhaps heard of.
+It is impossible to tell just by looking at them, whether particular cookies are benefitting you or another party. You have to rely on the website you are visiting to tell you how it uses cookies.
+Learn more about the different Types of Cookies, and Other Tracking Technologies
+
+
+
+All About Cookies
+
+What Are Cookies?
+Types of Cookies
+Online Tracking Technologies
+The Benefits of Cookies
+Cookies and Online Privacy
+How to Manage Cookies
+
+Google Chrome
+Firefox
+Firefox (iOS)
+Firefox (Android)
+Safari (Desktop)
+Safari (Mobile)
+Microsoft Edge
+Internet Explorer
+Opera
+New Cookie Controls for Chrome
+
+
+IAB Legal Text
+
+
+
+
+Sign Up for Free
+
+
+
+
+
+
+
+
+
+
+
+
+                            Simplify compliance with ePrivacy and GDPR
+                        
+
+
+
+                                    Cookie Banner
+                                
+
+                                    Cookie Notice
+                                
+
+                                    Website Scanner
+                                
+
+
+
+                                    Cookie Preferences
+                                
+
+                                    Records of Consent
+                                
+
+                                    Do not Track
+                                
+
+
+Sign Up for Free
+
+
+                            Get started for free. Upgrade anytime.
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+© 2020 Cookiepedia. All Rights Reserved.
+
+
+
+Cookie Notice |
+                    Privacy Notice |
+                    Terms of Use |
+                    Contact Us
+
+
+
+
+
+
+
+Privacy Preference CenterWhen you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience.
+
+Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+
+In some cases, data obtained from cookies is shared with third parties and may be considered a “sale of personal information” under the California Consumer Privacy Act (CCPA). You can exercise your right to opt-out of that sharing at any time by disabling cookies.Allow All Manage Consent PreferencesStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.Analytics Cookies  Analytics Cookies These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.Back ButtonBackVendor Search  Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label label Confirm My ChoicesBy clicking “Accept All”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Reject Cookies Accept All Manage Settings 

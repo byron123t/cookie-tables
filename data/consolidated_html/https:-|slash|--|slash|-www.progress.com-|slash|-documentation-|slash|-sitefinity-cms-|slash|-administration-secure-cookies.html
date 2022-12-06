@@ -1,0 +1,1301 @@
+<!DOCTYPE html><html lang="en" class="k-webkit k-webkit104"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700"><link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+   
+    <!-- OneTrust Cookies Consent Notice (Production CDN, sitefinity.com, en-GB) start -->
+    <script src="https://cdn.cookielaw.org/consent/f9397248-1dbe-47fc-9dbf-c50e7dd51096/otSDKStub.js" data-language="en" type="text/javascript" charset="UTF-8" data-domain-script="f9397248-1dbe-47fc-9dbf-c50e7dd51096"></script>
+
+    <script>
+        window.OptanonGroups = { "StrictlyNecessaryCookies": "1", "PerformanceCookies": "2", "FunctionalCookies": "3", "TargetingCookies": "4" };
+
+        function isOptanonGroupActive(groupId) {
+            var groupMatchKey = ',' + groupId + ',';
+
+            return window.OptanonActiveGroups.indexOf(groupMatchKey) !== -1;
+        }
+    </script>
+
+    <!-- OneTrust Cookies Consent Notice (Production CDN, sitefinity.com, en-GB) end -->
+
+    <!-- Google Tag Manager -->
+    <script type="text/plain" class="optanon-category-1">(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TX8G7Q');</script>
+    <!-- End Google Tag Manager -->
+<link rel="canonical" href="https://www.progress.com/documentation/sitefinity-cms/administration-secure-cookies"><meta name="sfdocversion" content="sf143"><link href="/documentation/sitefinity-cms/Styles/dist/css/main.min.css?p=1" media="all" rel="stylesheet" type="text/css"><meta name="Generator" content="Sitefinity 13.1.7425.0 PU"><link href="/documentation/sitefinity-cms/Telerik.Web.UI.WebResource.axd?d=PMrIT5dOWaVYIcpFWUE4nIP3W4AS0j5PHOEjDVSnRPJcxmtNoJWNt57UZAAilVtIGiVuj8wQRDPePkWVdfUZTjjtSDA4IlZNoK9Z9bslTYb3uicp0&amp;t=637856225248051438&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d13.1.7425.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3a8bd4df2c-e51c-4df7-87a4-4ea7261be27c%3a7a90d6a" type="text/css" rel="stylesheet"><title>
+	 Secure cookies - Sitefinity CMS Security
+</title><meta name="description" content="Use this procedure to secure cookies for claims and forms authentication."><script src="https://cdn.cookielaw.org/scripttemplates/6.9.0/otBannerSdk.js" async="" type="text/javascript"></script></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TX8G7Q"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+	<form method="post" action="./administration-secure-cookies" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl06_TSM" id="ctl06_TSM" value=";;System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35:en-US:5bc44d53-7cae-4d56-af98-205692fecf1f:ea597d4b:b25378d2">
+<input type="hidden" name="ctl07_TSSM" id="ctl07_TSSM" value=";Telerik.Sitefinity.Resources, Version=13.1.7425.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en:8bd4df2c-e51c-4df7-87a4-4ea7261be27c:7a90d6a">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Ude4KoD4/+/bF10JOnxKX2d8jgpn8RvccSvW94L23vtLUo0j0cCdhHN65ni7IsGqntg3hGYoVB0kiVP1gcVVgi+WnpCNTB0DmeVzGNs2eSGXEfXRJnVK5Lu7l5tQ875YhHRjYciIYpl6kUpHk6IDRSMepNt0LGOHdBZF+UY46ubXS61JeJbcyDMQmEFCvUD3GmJ/06Z+LVCjbSACkX4OZeNvy7t8utlr7u4L9ar2s7KYgmjBXbtdlngXd8e/ArWCEzeE8VFZ4OZbh6R6N1IW5GcZOigq5fah9nXw17TDIo9hZDEH+n7BzpOPGcWAQF4u36PEb6ZcAC3rh8DHMGMFT2HnZHZ8hHGhZydGGP2KJB3NxUtqxyEswdGWoAUoQTyi8MNTskzwjaTpkFzS5Dn6N2qEJ6jZSppeYsMpwUX/sX3mIuYhZP26B1pSrpOX0jOiSwJBhTnWl72/ddg5fybfb74y6fc=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/documentation/sitefinity-cms/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZF-vTk6UxqEos8WrW3FIzhFS6FlvMO8B6emhj3nnFEwWBgFkgA2&amp;t=637823365705833095" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"en","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, MMMM d, yyyy h:mm:ss tt","LongDatePattern":"dddd, MMMM d, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM d","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"M/d/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]},"eras":[1,"A.D.",null,0]};//]]>
+</script>
+
+<script src="/documentation/sitefinity-cms/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl06_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3a5bc44d53-7cae-4d56-af98-205692fecf1f%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script src="/documentation/sitefinity-cms/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/Mvc/Scripts/SearchBox/Search-box.min.js?v=MTMuMS43NDI1LjA%3d" type="text/javascript"></script>
+<script src="/documentation/sitefinity-cms/Frontend-Assembly/VerticalNavigation/Scripts/kendo.core.min.js?v=MS4wLjAuMA%3d%3d" type="text/javascript"></script>
+<script src="/documentation/sitefinity-cms/Frontend-Assembly/VerticalNavigation/Scripts/kendo.data.min.js?v=MS4wLjAuMA%3d%3d" type="text/javascript"></script>
+<script src="/documentation/sitefinity-cms/Frontend-Assembly/VerticalNavigation/Scripts/kendo.treeview.min.js?v=MS4wLjAuMA%3d%3d" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAFE1471">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="3EzhOwJHV+/w7NxbbbbwSzd6w70l8aKR9wuhV8KAlKcWYqzQLgmqvAKDJN0uN36n/jrPHw/iclmVBNqljzdqiOCC8tPH91PQCZ3dOQC1Y7mGo/YMdwGHPFZvzR9QmMx0ZpSnrYFp/BIEcUgil8jGAkfiqqNf1BpcLcmfMmayr0JXaN2pHsCw1tsfivVGjvoCDU1v9bis5h86bU2deoRFmOyP9ikqEKkwg3pWuv77yDXtZ5004yy6KXDGFvUvuG40bphrUjeh5goHaAwSoo5fPcl96jqY07qOZqa4g0OYfXMi6mAh2jiaMG7qiTAJ+w90koB366g/AsJwAqODcXPmqmV5N+5kSbdDw81eeTS/okPkbI/wJpNm1aoo9yEa8ilccZN42g==">
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl06', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+<input type="hidden" name="ctl00$ctl06" id="ctl06">
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.setServerId("ctl06", "ctl00$ctl06");
+Sys.Application._enableHistoryInScriptManager();
+//]]>
+</script>
+
+		<header class="sf-top-toolbar">
+                <div class="sf-container">
+			        
+<div class="sf-row" data-sf-element="Row">
+    <div id="topstrip_T70B62CE7001_Col00" class="sf_colsIn sf-row__col -col-3 -align-self-center" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="sfContentBlock"><span itemscope="itemscope" itemtype="http://schema.org/TechArticle"><div id="logo"><a href="/documentation/sitefinity-cms/" class="sf-logo"><img src="/documentation/sitefinity-cms/sf-images/default-source/default-album/sitefinity-cms-logo_u5.png?sfvrsn=f4f641cc_2" alt="sitefinity-cms-logo_u5" data-displaymode="Original"><span class="-sf-txt-hint -sf-txt-upper-case">Documentation</span></a></div></span>
+
+</div>
+    </div>
+    <div id="topstrip_T70B62CE7001_Col01" class="sf_colsIn sf-row__col -col-2" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="sf-row -row sf-site-selector">
+
+    <a id="sfVersionSelector" class="-top">Version Sitefinity 14.3 <i class="sf-icon -light -size-xs fa fa-caret-down" aria-hidden="true"></i></a>
+    <div id="sfVersionSelectorDropdown" class="sf-dropdown -sf-hidden">
+
+                <a href="https://www.progress.com/documentation/sitefinity-cms/administration-secure-cookies" class="sf-dropdown__item -active">Sitefinity 14.3</a>
+                <a href="http://www.progress.com/documentation/sitefinity-cms/142/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 14.2</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/141/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 14.1</a>
+                <a href="http://www.progress.com/documentation/sitefinity-cms/140/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 14.0</a>
+                <a href="http://www.progress.com/documentation/sitefinity-cms/133/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 13.3</a>
+                <a href="http://www.progress.com/documentation/sitefinity-cms/132/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 13.2</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/131/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 13.1</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/130/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 13.0</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/122/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 12.2</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/121/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 12.1</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/120/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 12.0</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/112/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 11.2</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/111/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 11.1</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/110/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 11.0</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/102/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 10.2</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/101/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 10.1</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/10/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 10.0</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/92/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 9.2</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/91/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 9.1</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/90/administration-secure-cookies" class="sf-dropdown__item ">Sitefinity 9.0</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/82/" class="sf-dropdown__item ">Sitefinity 8.2</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/81/" class="sf-dropdown__item ">Sitefinity 8.1</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/80/" class="sf-dropdown__item ">Sitefinity 8.0</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/73/" class="sf-dropdown__item ">Sitefinity 7.3</a>
+                <a href="https://www.progress.com/documentation/sitefinity-cms/72/" class="sf-dropdown__item ">Sitefinity 7.2</a>
+    </div>
+</div>
+
+<script>
+    jQuery("#sfVersionSelector").click(
+        function () {
+            jQuery("#sfVersionSelector").toggleClass("-active");
+            jQuery("#sfVersionSelectorDropdown").toggleClass("-sf-hidden");
+        }
+    );
+</script>
+    </div>
+    <div id="topstrip_T70B62CE7001_Col02" class="sf_colsIn sf-row__col -col-7" data-sf-element="Column 3" data-placeholder-label="Column 3"><div class="sf-row -justify-content-end sf-top-nav" data-sf-element="Row">
+    <div id="topstrip_T70B62CE7004_Col00" class="sf_colsIn sf-row__col -col-12 -no-flex" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<nav class="-multiple-externals">
+    <ul class="-list-style-none sf-row -no-wrap">
+
+
+        <li>
+                <a class="-top -sf-txt-nowrap " href="/documentation/sitefinity-cms/tutorials-hub" target="_self">
+                    Tutorials
+                </a>
+
+        </li>
+        <li>
+                <a class="-top -sf-txt-nowrap " href="/documentation/sitefinity-cms/best-practices-hub" target="_self">
+                    Best Practices
+                </a>
+
+        </li>
+        <li>
+                <a class="-top -sf-txt-nowrap " href="/documentation/sitefinity-cms/troubleshooting-hub" target="_self">
+                    Troubleshooting
+                </a>
+
+        </li>
+        <li>
+                <a class="-top -sf-txt-nowrap " href="https://knowledgebase.progress.com/#sort=relevancy&amp;f:@sfdcproductgroup=[Sitefinity]" target="_blank">
+                    Knowledge base
+                    <em class="fa fa-external-link side-menu-icon -sf-ml-4xs"></em>
+                </a>
+
+        </li>
+        <li>
+                <a class="-top -sf-txt-nowrap " href="https://www.progress.com/documentation/sitefinity-cms/insight" target="_self">
+                    Sitefinity Insight docs
+                    <em class="fa fa-exchange side-menu-icon -sf-ml-4xs"></em>
+                </a>
+
+        </li>
+        <li>
+                <a class="-top -sf-txt-nowrap " href="https://www.progress.com/documentation/sitefinity-cms/cloud" target="_self">
+                    Sitefinity Cloud docs
+                    <em class="fa fa-exchange side-menu-icon -sf-ml-4xs"></em>
+                </a>
+
+        </li>
+    </ul>
+</nav>
+
+
+
+    </div>
+</div>
+
+    </div>
+</div>
+
+
+
+                </div>
+		</header>
+        <aside>
+            <div class="sf-container -search">
+			    
+<div class="sf-row -justify-content-end -sf-pt-5xl -sf-pb-m" data-sf-element="Row">
+    <div id="header_T70B62CE7021_Col00" class="sf_colsIn sf-row__col -col-12 -no-flex" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="sf-button-group -search">
+    <div class="sf-input">
+
+        <input type="text" placeholder="Search the Sitefinity 14.3 documentation..." id="d32a570c-4504-46bf-a32f-c274cb7a9100" value="" class="sf-input__field ui-autocomplete-input" autocomplete="off">
+    </div>
+<button type="button" id="9734eae1-7812-4f28-a7db-8da729bab1d2" class="sf-button -icon" title="Search"><i class="fa fa-search sf-icon -size-s sf-button__icon"></i></button>
+<input type="hidden" data-sf-role="resultsUrl" value="/documentation/sitefinity-cms/search-results">
+<input type="hidden" data-sf-role="indexCatalogue" value="azure-search-index-143">
+<input type="hidden" data-sf-role="wordsMode" value="AllWords">
+<input type="hidden" data-sf-role="disableSuggestions" value="false">
+<input type="hidden" data-sf-role="minSuggestionLength" value="3">
+<input type="hidden" data-sf-role="suggestionFields" value="Title">
+<input type="hidden" data-sf-role="language" value="en">
+<input type="hidden" data-sf-role="suggestionsRoute" value="/documentation/sitefinity-cms/restapi/search/suggestions">
+<input type="hidden" data-sf-role="searchTextBoxId" value="#d32a570c-4504-46bf-a32f-c274cb7a9100">
+<input type="hidden" data-sf-role="searchButtonId" value="#9734eae1-7812-4f28-a7db-8da729bab1d2">
+    
+</div>
+
+
+
+    </div>
+</div>
+
+            </div>
+        </aside>
+		<main>
+            <div class="sf-container">
+			    
+<div class="sf-row" data-sf-element="Row">
+    <div id="content_TAE4E6669004_Col00" class="sf_colsIn sf-row__col -col-3 -sf-pb-3xl -sf-pr-xl -sf-pl-2xs" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+
+
+
+
+
+
+
+<div id="navContainer" class="sf-main-nav sf-row -no-wrap -current">
+    <div id="topicsContainer" class="sf-row__col -col-12 -no-flex sf-main-nav__all-topics">
+        <h2 class="-sf-mb-2xs -sf-ml-3xs">Topics</h2>
+        <ul class="-list-style-none -sf-txt-large">
+                <li>
+                    <a class="-nav -top-level" onclick="loadTopicDataInNavigation('1D3849B4-2BBC-6D27-AD54-FF0100E02F5F', '1D3849B4-2BBC-6D27-AD54-FF0100E02F5F', 'Installation', false);">
+                        <div class="sf-row -no-wrap ">
+                            <span>Installation</span>
+                            <span class="-align-self-center -sf-ml-auto sf-icon -size-xs fa fa-angle-right"></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="-nav -top-level" onclick="loadTopicDataInNavigation('553B49B4-2BBC-6D27-AD54-FF0100E02F5F', '553B49B4-2BBC-6D27-AD54-FF0100E02F5F', 'Deploy and upgrade', false);">
+                        <div class="sf-row -no-wrap ">
+                            <span>Deploy and upgrade</span>
+                            <span class="-align-self-center -sf-ml-auto sf-icon -size-xs fa fa-angle-right"></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="-nav -top-level" onclick="loadTopicDataInNavigation('645149B4-2BBC-6D27-AD54-FF0100E02F5F', '645149B4-2BBC-6D27-AD54-FF0100E02F5F', 'Setup and maintenance', false);">
+                        <div class="sf-row -no-wrap ">
+                            <span>Setup and maintenance</span>
+                            <span class="-align-self-center -sf-ml-auto sf-icon -size-xs fa fa-angle-right"></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="-nav -top-level" onclick="loadTopicDataInNavigation('947C49B4-2BBC-6D27-AD54-FF0100E02F5F', '947C49B4-2BBC-6D27-AD54-FF0100E02F5F', 'Security', false);">
+                        <div class="sf-row -no-wrap ">
+                            <span>Security</span>
+                            <span class="-align-self-center -sf-ml-auto sf-icon -size-xs fa fa-angle-right"></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="-nav -top-level" onclick="loadTopicDataInNavigation('998649B4-2BBC-6D27-AD54-FF0100E02F5F', '998649B4-2BBC-6D27-AD54-FF0100E02F5F', 'Site components', false);">
+                        <div class="sf-row -no-wrap ">
+                            <span>Site components</span>
+                            <span class="-align-self-center -sf-ml-auto sf-icon -size-xs fa fa-angle-right"></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="-nav -top-level" onclick="loadTopicDataInNavigation('37AE49B4-2BBC-6D27-AD54-FF0100E02F5F', '37AE49B4-2BBC-6D27-AD54-FF0100E02F5F', 'Design and frontend', false);">
+                        <div class="sf-row -no-wrap ">
+                            <span>Design and frontend</span>
+                            <span class="-align-self-center -sf-ml-auto sf-icon -size-xs fa fa-angle-right"></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="-nav -top-level" onclick="loadTopicDataInNavigation('70B149B4-2BBC-6D27-AD54-FF0100E02F5F', '70B149B4-2BBC-6D27-AD54-FF0100E02F5F', 'Content management', false);">
+                        <div class="sf-row -no-wrap ">
+                            <span>Content management</span>
+                            <span class="-align-self-center -sf-ml-auto sf-icon -size-xs fa fa-angle-right"></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="-nav -top-level" onclick="loadTopicDataInNavigation('0CC049B4-2BBC-6D27-AD54-FF0100E02F5F', '0CC049B4-2BBC-6D27-AD54-FF0100E02F5F', 'Digital marketing', false);">
+                        <div class="sf-row -no-wrap ">
+                            <span>Digital marketing</span>
+                            <span class="-align-self-center -sf-ml-auto sf-icon -size-xs fa fa-angle-right"></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="-nav -top-level" onclick="loadTopicDataInNavigation('5DC949B4-2BBC-6D27-AD54-FF0100E02F5F', '5DC949B4-2BBC-6D27-AD54-FF0100E02F5F', 'Development', false);">
+                        <div class="sf-row -no-wrap ">
+                            <span>Development</span>
+                            <span class="-align-self-center -sf-ml-auto sf-icon -size-xs fa fa-angle-right"></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="-nav -top-level" onclick="loadTopicDataInNavigation('071C4AB4-2BBC-6D27-AD54-FF0100E02F5F', '071C4AB4-2BBC-6D27-AD54-FF0100E02F5F', 'Headless API', false);">
+                        <div class="sf-row -no-wrap ">
+                            <span>Headless API</span>
+                            <span class="-align-self-center -sf-ml-auto sf-icon -size-xs fa fa-angle-right"></span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="-nav -top-level" onclick="loadTopicDataInNavigation('07254AB4-2BBC-6D27-AD54-FF0100E02F5F', '07254AB4-2BBC-6D27-AD54-FF0100E02F5F', '.NET Core Renderer', false);">
+                        <div class="sf-row -no-wrap ">
+                            <span>.NET Core Renderer</span>
+                            <span class="-align-self-center -sf-ml-auto sf-icon -size-xs fa fa-angle-right"></span>
+                        </div>
+                    </a>
+                </li>
+        </ul>
+    </div>
+    <div id="kendonavContainer" class="sf-row__col -col-12 -no-flex sf-main-nav__current-topic">
+        <a onclick="loadAllTopics();"><span class="sf-icon -size-xs -color-inherit fa fa-angle-left"></span> All topics</a>
+        <h2 id="topicTitle" class="-sf-mb-2xs -sf-mt-s">Security</h2>
+        <div id="kendonav" style="display: none;" data-role="treeview" class="k-widget k-treeview" tabindex="0"><ul class="k-group k-treeview-lines" role="tree"></ul></div>
+        <div id="kendonavLoading" class="">
+            <div class="sf-loader -skeleton -side-content -darker">
+                <div class="sf-loader__content"></div>
+            </div>
+            <div class="sf-loader -skeleton -side-content -darker">
+                <div class="sf-loader__content"></div>
+            </div>
+            <div class="sf-loader -skeleton -side-content -darker">
+                <div class="sf-loader__content"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script id="treeview-template" type="text/kendo-ui-template">
+    #: item.Title #
+</script>
+
+
+<script type="text/javascript">
+    var serviceUrl = "/documentation/sitefinity-cms/Sitefinity/Public/Services/CustomNavigation/CustomNavigationService.svc";
+    var currentId = "CB7E49B4-2BBC-6D27-AD54-FF0100E02F5F";
+    var siteId = "e83549b4-2bbc-6d27-ad54-ff0100e02f5f";
+    var rootNodeUrl = "/security-protect-your-system";
+    var topicTitle = "Security";
+    var topicId = "947C49B4-2BBC-6D27-AD54-FF0100E02F5F";
+    var dataSourceCash = {};
+
+    function loadAllTopics() {
+        var treeview = $("#kendonav").data("kendoTreeView");
+        dataSourceCash[topicId] = treeview.dataSource;
+        toggleTopicsNavigationContainer();
+    }
+
+    function toggleTopicsNavigationContainer() {
+        jQuery("#navContainer").toggleClass("-all").toggleClass("-current");
+        //jQuery("#topicsContainer").toggleClass("-sf-hidden");
+        //jQuery("#kendonavContainer").toggleClass("-sf-hidden");
+    }
+
+    function toggleKendoNavLoading(loading) {
+        if (loading) {
+            jQuery("#kendonav").hide();
+            jQuery("#kendonavLoading").show();
+        } else {
+            setTimeout(function () {
+                jQuery("#kendonav").show();
+                jQuery("#kendonavLoading").hide();
+            }, 500);
+        }
+    }
+
+    function loadTopicDataInNavigation(currentId, newTopicId, newTopicTitle, isInitialLoad) {
+        topicTitle = newTopicTitle;
+        topicId = newTopicId;
+
+        jQuery("#topicTitle").text(topicTitle);
+
+        if (!isInitialLoad) {
+            toggleKendoNavLoading(true);
+            toggleTopicsNavigationContainer();
+        }
+
+        var treeview = $("#kendonav").data("kendoTreeView");
+
+        if (dataSourceCash[topicId]) {
+            treeview.setDataSource(dataSourceCash[topicId]);
+        } else {
+            treeview.setDataSource(new kendo.data.HierarchicalDataSource(
+                {
+                    transport: {
+                        read: {
+                            url: serviceUrl + "?current=" + currentId + "&sf_site=" + siteId + "&sf_site_temp=1",
+                            dataType: "json"
+                        }
+                    },
+                    schema: {
+                        model: {
+                            id: "Id",
+                            hasChildren: "HasChildren",
+                            children: "Children",
+                        },
+                        data: "Nodes"
+                    }
+                }
+            ));
+        }
+    }
+
+    function initialize() {
+        var treeview = jQuery("#kendonav").kendoTreeView({
+            template: kendo.template($("#treeview-template").html()),
+            dataTextField: "Title",
+            dataUrlField: "NavigateUrl",
+            dataBound: function (e) {
+                var node = e.node,
+                    dataItem = this.dataItem(node);
+
+                if (dataItem && dataItem.IsGroupPage) {
+                    node.find("span.k-i-collapse")[0].remove();
+                    node.find("a.k-link")[0].remove();
+                    $(node).addClass("sfSidebarGroup");
+                    $(node.find("div")[0]).append("<h2 class='-sf-top-separator'>" + dataItem.Title + "</h2>");
+                }
+                toggleKendoNavLoading(false);
+            },
+            expand: function (e) {
+                var node = e.node,
+                    dataItem = this.dataItem(node);
+
+                if (!dataItem.children.data().length) {
+                    //$(node).addClass("sfExpand");
+
+                    var onAjaxSuccess = function (data, jqXHR, textStatus) {
+
+                        var newItems = data.Nodes.length;
+                        for (var dataCounter = 0; dataCounter < newItems; dataCounter++) {
+                            var newItem = data.Nodes[dataCounter];
+                            dataItem.append(newItem);
+                        }
+
+                        //$(".sfExpand").removeClass("sfExpand");
+                    };
+
+                    jQuery.ajax({
+                        url: serviceUrl + "?id=" + dataItem.Id + "&sf_site=" + siteId + "&sf_site_temp=1",
+                        dataType: "json",
+                        success: onAjaxSuccess
+                    });
+                }
+            }
+        });
+
+        //jQuery("#topicsContainer").removeClass("hidden");
+        //jQuery("#kendonavContainer").removeClass("hidden");
+        loadTopicDataInNavigation(currentId, topicId, topicTitle, true);
+    }
+
+    initialize();
+</script>
+
+    </div>
+    <div id="content_TAE4E6669004_Col01" class="sf_colsIn sf-row__col -col-9 -sf-pb-3xl -sf-pl-xl -sf-border-lightest -sf-border-left -sf-left-search-separator" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div>
+    <nav class="sf-breadcrumb" aria-label="Full path to the current page">
+        
+                <a href="/documentation/sitefinity-cms">Home</a> <i class="sf-icon -color-inherit -size-2xs fa fa-angle-right" aria-hidden="true"></i>
+                <a href="/documentation/sitefinity-cms/administration-security-settings"> Web security settings</a> <i class="sf-icon -color-inherit -size-2xs fa fa-angle-right" aria-hidden="true"></i>
+                <span aria-current="page"> Secure cookies</span>
+        
+    </nav>
+</div><div class="sf-row sf-article" data-sf-element="Row">
+    <div id="content_TA5207132002_Col00" class="sf_colsIn sf-row__col -col-9" data-sf-element="Column 1" data-placeholder-label="Article"><div class="sfContentBlock"><span itemscope="itemscope" itemtype="http://schema.org/TechArticle"><h1><span itemprop="name"> Secure cookies</span></h1><div class="sf-page-index__wrapper"><div class="sf-page-index" style="--page-index-left-offset:100%; --page-index-position:absolute;"><h5>This article contains</h5><ul class="-list-style-none -sf-ml-zero -sf-mt-2xs -sf-txt-base"><li class="-sf-mt-4xs"><a href="/documentation/sitefinity-cms/administration-secure-cookies#claims-authentication-nbsp-">Claims authentication&nbsp;</a></li><li class="-sf-mt-4xs"><a href="/documentation/sitefinity-cms/administration-secure-cookies#forms-authentication-nbsp-">Forms authentication &nbsp;</a></li><li class="-sf-mt-4xs"><a href="/documentation/sitefinity-cms/administration-secure-cookies#list-of-cookies">List of cookies</a></li></ul></div></div><p class="note-info"><strong>PREREQUISITES</strong>: You must have installed SSL on your site and you must have configured all backend pages to require SSL. <br>
+For more information, see <a href="/documentation/sitefinity-cms/administration-configure-ssl" title="" class="" target="">Administration: Configure SSL</a>.</p>
+<a href="/documentation/sitefinity-cms/administration-secure-cookies#claims-authentication-nbsp-" name="claims-authentication-nbsp-"><h2>Claims authentication&nbsp;</h2></a>
+<p>The <code>.AspNet.Cookies</code> is the cookie of the relaying party. The cookie of the STS depends on the protocol you use. It is one of the following:</p>
+<ul>
+    <li> <code>idsrv</code><br>
+    For OpenID Connect </li>
+    <li><code>.ASPXAUTH</code><br>
+    For&nbsp;WRAP/SWT.</li>
+</ul>
+<h3>Relying party&nbsp;</h3>
+<p>To configure the security of the Relying party <code>.AspNet.Cookies</code> cookie, perform the following:</p>
+<ol>
+    <li>Navigate to <em>Administration </em>»&nbsp;<em>Settings </em>»&nbsp;<em>Advanced</em>.</li>
+    <li>In the left pane, expand&nbsp;<em>Authentication </em>and click <em>RelyingParty</em>.</li>
+    <li>In the&nbsp;<em>Authentication cookie security</em> dropdown box, select one of the following:
+    <ul class="BulletList">
+        <li><em>SameAsRequest</em><br>
+        This is the default value. This way,&nbsp;the cookie is automatically secured, if the site is under SSL.</li>
+        <li><em>Always</em><br>
+        The cookie is always secured and must be served under HTTPS.</li>
+        <li><em>Never</em><br>
+        The cookie is not secured.</li>
+    </ul>
+    </li>
+    <li>Save your changes.</li>
+</ol>
+<h3>STS (OpenID Connect)</h3>
+<p>In OpenId Connect, the Security Token Service cookie <code>idsrv</code> is always configured as <em>SameAsRequest</em>.</p>
+<h3>STS (WRAT/SWT)</h3>
+<p>To secure the STS cookie in WRAP/SWT, perform the following:&nbsp;</p>
+<ol>
+    <li>Open the <code>web.config</code> file of the STS webapp.&nbsp;</li>
+    <li>Inside section&nbsp;<code>&lt;system.web&gt;</code>, find <code>&lt;authentication mode="None" /&gt;</code> and replace it with the following:
+    <script src="https://gist.github.com/sitefinitySDK/72018896a3dab83d6b166b39e8cd95c1.js"></script><link rel="stylesheet" href="https://github.githubassets.com/assets/gist-embed-598610950903.css"><div id="gist82529668" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-sts_web_config-xml" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-xml  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc="" class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip="" data-tagsearch-lang="XML" data-tagsearch-path="STS_web_config.xml">
+        <tbody><tr>
+          <td id="file-sts_web_config-xml-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-sts_web_config-xml-LC1" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">authentication</span> <span class="pl-e">mode</span>=<span class="pl-s"><span class="pl-pds">"</span>None<span class="pl-pds">"</span></span>&gt; </td>
+        </tr>
+        <tr>
+          <td id="file-sts_web_config-xml-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-sts_web_config-xml-LC2" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">forms</span> <span class="pl-e">requireSSL</span>=<span class="pl-s"><span class="pl-pds">"</span>true<span class="pl-pds">"</span></span>/&gt; </td>
+        </tr>
+        <tr>
+          <td id="file-sts_web_config-xml-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-sts_web_config-xml-LC3" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">authentication</span>&gt;</td>
+        </tr>
+  </tbody></table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/sitefinitySDK/72018896a3dab83d6b166b39e8cd95c1/raw/729f80c21852ae33a626191e284aa701caa6dfee/STS_web_config.xml" style="float:right">view raw</a>
+        <a href="https://gist.github.com/sitefinitySDK/72018896a3dab83d6b166b39e8cd95c1#file-sts_web_config-xml">
+          STS_web_config.xml
+        </a>
+        hosted with ❤ by <a href="https://github.com">GitHub</a>
+      </div>
+    </div>
+</div>
+
+    </li>
+    <li>Save and close the <code>web.config</code> and restart the application.<br>
+    The <code>.ASPXAUTH</code> cookie is secured.</li>
+    <li>Run your project and clear all browser cookies.￼&nbsp;</li>
+</ol>
+<a href="/documentation/sitefinity-cms/administration-secure-cookies#forms-authentication-nbsp-" name="forms-authentication-nbsp-"><h2>Forms authentication &nbsp;</h2></a>
+<p>The <code>.SFAUTH</code> is the cookie connected to Forms authentication.&nbsp;<br>
+To secure the <code>.SFAUTH</code> cookie, perform the following:&nbsp;</p>
+<ol>
+    <li>In Sitefinity CMS backend, click <em>Administration </em>» <em>Settings </em>» <em>Advanced </em>» <em>Security</em>. &nbsp;</li>
+    <li>Select <em>AuthCookieRequireSsl </em>checkbox.&nbsp;</li>
+    <li>Restart the application.&nbsp;</li>
+    <li>Run your project and clear all browser cookies. &nbsp;<br>
+    &nbsp;</li>
+</ol>
+<a href="/documentation/sitefinity-cms/administration-secure-cookies#list-of-cookies" name="list-of-cookies"><h2>List of cookies</h2></a>
+<p>The following table lists cookies that Sitefinity CMS uses.</p>
+<table>
+    <colgroup><col><col><col></colgroup>
+    <tbody>
+        <tr>
+            <td><strong>Cookie</strong></td>
+            <td><strong>Description&nbsp;</strong></td>
+            <td><strong>Expires</strong>&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">sf-trckngckie</span>&nbsp;</code><br>
+            </td>
+            <td>Logs the page visit.</td>
+            <td>180 days</td>
+        </tr>
+        <tr>
+            <td><span class="Code">sf-tracking-consent</span></td>
+            <td>Saves the tracking consent choice, made by visitors.&nbsp;</td>
+            <td>9999 days&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">sf-site&nbsp;</span></code><br>
+            </td>
+            <td>In multisite environment, remembers the ID of the current site.&nbsp;</td>
+            <td>2 years&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code>sf-prs-ss</code></td>
+            <td>Holds the time of first page visit.</td>
+            <td>&nbsp;Session</td>
+        </tr>
+        <tr>
+            <td><code>sf-prs-lu</code></td>
+            <td>Saves the landing URL.</td>
+            <td>&nbsp;Session</td>
+        </tr>
+        <tr>
+            <td><code>sf-prs-vp</code></td>
+            <td>Saves the visited pages that are part of personalization segments.</td>
+            <td>&nbsp;Session</td>
+        </tr>
+        <tr>
+            <td><code>sf-prs-vu</code></td>
+            <td>Saves the visited URLs that are part of personalization segments.</td>
+            <td>&nbsp;Session</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">ASP.NET_SessionId&nbsp;</span></code><br>
+            </td>
+            <td>Contains information about the browser session and enables visitors to log into the website.&nbsp;</td>
+            <td>Session&nbsp;</td>
+        </tr>
+        <tr>
+            <td><span class="Code">.<code>ASPXAUTH</code></span></td>
+            <td>Determines whether a user is authenticated.&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">.SFAUTH</span></code>&nbsp;(configurable)&nbsp;</td>
+            <td>Used for authentication tickets caching.&nbsp;</td>
+            <td>600 minutes by default (configurable)&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">.SFROLES</span></code>&nbsp;(configurable)&nbsp;</td>
+            <td>Used to cache user roles.&nbsp;</td>
+            <td>30 minutes by default (configurable)&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">.SFLOG</span> </code>(configurable)&nbsp;</td>
+            <td>Used to pass the reason to login form and to display the reason.&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">.AspNet.Cookies</span><br>
+            </code></td>
+            <td>The relying party cookie (claims authentication mode) that is used to cache authentication information. You can configure it in the <code><span class="Code">AuthenticationConfig</span></code>. Expiration depends on the <em>Remember me</em> checkbox.<br>
+            </td>
+            <td>Sliding, 600 minutes or session (configurable)&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">.AspNet.Temp.Cookies</span></code></td>
+            <td>Helper relying party cookie during authentication.<br>
+            </td>
+            <td>5 minutes</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">SF-TokenId&nbsp;</span></code><br>
+            </td>
+            <td>Handles the claims token (claims authentication mode). Could be configured in the&nbsp;<code><span class="Code">SecurityConfig</span></code>&nbsp;file.<br>
+            </td>
+            <td>118 minutes by default (configurable)&nbsp;</td>
+        </tr>
+        <tr>
+            <td><span class="Code">sf_timezoneoffset</span>&nbsp;</td>
+            <td>Stores the value of the UTC time zone offset for the particular user, that is, the timezone difference between UTC and the user's local time, in minutes. This cookie is stored only for logged in users.&nbsp;</td>
+            <td>Session&nbsp;</td>
+        </tr>
+        <tr>
+            <td><span class="Code"><code>sfExpPages_ + rootNodeKey</code>&nbsp;</span></td>
+            <td>Saves the key of the node expanded in the backend.&nbsp;</td>
+            <td>1 year&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">shoppingCartId&nbsp;</span></code><br>
+            </td>
+            <td>Holds the ID of the customer's shopping cart.&nbsp;</td>
+            <td>6 months&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">selectedDisplayCurrency</span>&nbsp;</code><br>
+            </td>
+            <td>Holds the display currency selected by the customer.&nbsp;</td>
+            <td>Session&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">_mkto_trk&nbsp;</span></code><br>
+            </td>
+            <td>Used to get the Munchkin token - only for Marketo connector.&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">VisitorsCounterUniqueId</span>&nbsp;</code><br>
+            </td>
+            <td>Used for counting web visits as a unique parameter.&nbsp;</td>
+            <td>Persistent</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">sf-abissuesckie&nbsp;</span></code><br>
+            </td>
+            <td>Used in the issues grid of email campaigns A/B test.&nbsp;</td>
+            <td>2 years&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">sf-issuesckie</span>&nbsp;</code><br>
+            </td>
+            <td>Used in the issues grid of email campaigns.&nbsp;</td>
+            <td>2 years&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">cartOrderId</span>&nbsp;</code><br>
+            </td>
+            <td>Used to cache current cart order ID - only if configured.&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">idsrv</span></code><br>
+            </td>
+            <td>IdentityServer3 cookie used to cache information about the current user. Expiration depends on <em>Remember me</em> checkbox. Configuration in <code><span class="Code">AuthenticationConfig</span></code>.<br>
+            </td>
+            <td>30 days or session (configurable)</td>
+        </tr>
+        <tr>
+            <td><code><span class="Code">OpenIdConnect.nonce</span></code><br>
+            </td>
+            <td>Used to validate the identity token received from the Identity Provider (IdenityServer). It is a session cookie, but the information contained expires in 1 hour<br>
+            </td>
+            <td>Session</td>
+        </tr>
+        <tr>
+            <td>
+            <div>
+            <p><span class="Code">sf_abtests</span></p>
+            </div>
+            </td>
+            <td>
+            <div>
+            <p>Once you start an A/B test, this cookie stores the&nbsp;IDs of the page variations, already visited by contacts.</p>
+            </div>
+            </td>
+            <td>30 years</td>
+        </tr>
+    </tbody>
+</table>
+<br></span>
+
+</div>
+    </div>
+</div>
+<div class="sf-row" data-sf-element="Row">
+    <div id="content_TA5207132018_Col00" class="sf_colsIn sf-row__col -col-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div>
+</div>
+
+
+
+
+    </div>
+</div>
+<div class="sf-row" data-sf-element="Row">
+    <div id="content_TA5207132020_Col00" class="sf_colsIn sf-row__col -col-9" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="sf-row" data-sf-element="Row">
+    <div id="content_TA5207132012_Col00" class="sf_colsIn sf-row__col -col-12" data-sf-element="Column 1" data-placeholder-label="Additional resources">
+    </div>
+</div>
+<div class="sf-row -sf-top-separator" data-sf-element="Row">
+    <div id="content_TA5207132022_Col00" class="sf_colsIn sf-row__col -col-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div>
+    <div class="sfContentBlock sf-Long-text"><h2 class="-sf-mb-2xs">Want to learn more?</h2><p class="-sf-txt-large -sf-mb-2xs">Sign up for our free beginner training. Boost your credentials through advanced courses and certification. <br><a href="https://www.progress.com/services/education/sitefinity/basic-sitefinity-developer-certification?utm_source=documentation&amp;utm_medium=banner&amp;utm_campaign=sitefinity-training" target="_blank">Register for Sitefinity training and certification.</a></p></div>    
+</div>
+    </div>
+</div>
+<div>
+
+
+</div>
+<div class="sf-row -sf-top-separator" data-sf-element="Row">
+    <div id="content_TA5207132021_Col00" class="sf_colsIn sf-row__col -col-4" data-sf-element="Column 1" data-placeholder-label="Column 1"><input type="hidden" name="ctl00$content$TA5207132009$hdnFeedbackServiceUrl" id="content_TA5207132009_hdnFeedbackServiceUrl" value="/documentation/sitefinity-cms/FeedbackService/CreateFeedback">
+<input type="hidden" name="ctl00$content$TA5207132009$hdnPageId" id="content_TA5207132009_hdnPageId" value="cb7e49b4-2bbc-6d27-ad54-ff0100e02f5f">
+<input type="hidden" name="ctl00$content$TA5207132009$hdnPageTitle" id="content_TA5207132009_hdnPageTitle" value=" Secure cookies">
+<input type="hidden" name="ctl00$content$TA5207132009$hdnNoAdditionalFeedbackText" id="content_TA5207132009_hdnNoAdditionalFeedbackText" value="(No additional feedback)">
+<input type="hidden" name="ctl00$content$TA5207132009$hdnFeedbackCookieName" id="content_TA5207132009_hdnFeedbackCookieName" value="sf_docfeedback">
+
+
+<div id="content_TA5207132009_pnlMainFeedback" class="sf-feedback">
+	
+    <h2 class="-sf-mb-2xs">Was this article helpful?</h2>
+   
+   <div id="feedback-buttons">
+        <div id="content_TA5207132009_initialButtonArea">
+		
+            <a onclick="return false;" id="content_TA5207132009_lnkYes" class="sf-button" href="javascript:__doPostBack('ctl00$content$TA5207132009$lnkYes','')">Yes</a>
+            <a onclick="return false;" id="content_TA5207132009_lnkNo" class="sf-button" href="javascript:__doPostBack('ctl00$content$TA5207132009$lnkNo','')">No</a>
+        
+	</div>
+    </div>
+
+    <div id="content_TA5207132009_additionalFeedbackArea" style="display:none">
+		
+        <div id="update-cookie-settings">
+            <p>To submit feedback, please update your cookie settings and allow the usage of <em>Functional</em> cookies.</p>
+            <div id="cookie-settings-btn">
+                <a class="optanon-show-settings">Cookie Settings</a>
+            </div>
+        </div>
+        <div id="additional-feedback" class="sf-feedback-form">
+            <div class="sf-feedback-form__wrapper">
+                <a onclick="return false;" id="content_TA5207132009_closeFeedbackArea" class="fa fa-close sf-feedback-form__close" href="javascript:__doPostBack('ctl00$content$TA5207132009$closeFeedbackArea','')"></a>
+                <div id="additional-feedback-header">
+                    <h2>Would you like to submit additional feedback?</h2>
+                    <p class="-sf-txt-large -sf-mt-4xs">Your feedback about this content is important</p>
+                </div>
+
+                <div id="additional-feedback-form">
+                    <div class="form-group sf-field">
+                        <label class="sf-field__label">How helpful is this article?</label>
+                        <div class="sf-field__content">
+                            <span class="sf-radio"><input id="content_TA5207132009_radioRating_3" type="radio" name="ctl00$content$TA5207132009$radioHowHelpfulIsThisArticle" value="radioRating_3"><label for="content_TA5207132009_radioRating_3">Very helpful</label></span>
+                            <span class="sf-radio"><input id="content_TA5207132009_radioRating_2" type="radio" name="ctl00$content$TA5207132009$radioHowHelpfulIsThisArticle" value="radioRating_2"><label for="content_TA5207132009_radioRating_2">Somewhat helpful</label></span>
+                            <span class="sf-radio"><input id="content_TA5207132009_radioRating_1" type="radio" name="ctl00$content$TA5207132009$radioHowHelpfulIsThisArticle" value="radioRating_1"><label for="content_TA5207132009_radioRating_1">Not helpful</label></span>
+                        </div>
+                    </div>
+                
+                    <div class="form-group  sf-field">
+                        <label class="sf-field__label">How can we improve this article?<span>(Optional)</span></label>
+                        <div id="content_TA5207132009_pnlHowToImprove" class="sf-field__content">
+			
+                            
+                                    <div class="checkbox sf-checkbox">
+                                        <input type="checkbox" id="improve_chka17ae510-f2c1-48c3-9a87-cd0690a1db3d">
+                                        <label for="improve_chka17ae510-f2c1-48c3-9a87-cd0690a1db3d">Fix typos or links</label>
+                                    </div>
+                                
+                                    <div class="checkbox sf-checkbox">
+                                        <input type="checkbox" id="improve_chkaa675720-b26e-4da4-abd1-b5dae1fdbf20">
+                                        <label for="improve_chkaa675720-b26e-4da4-abd1-b5dae1fdbf20">Fix incorrect information</label>
+                                    </div>
+                                
+                                    <div class="checkbox sf-checkbox">
+                                        <input type="checkbox" id="improve_chkf0a85bb3-2ee8-489a-a287-1b6767e90768">
+                                        <label for="improve_chkf0a85bb3-2ee8-489a-a287-1b6767e90768">Add or update code samples</label>
+                                    </div>
+                                
+                                    <div class="checkbox sf-checkbox">
+                                        <input type="checkbox" id="improve_chk4b6aa0bb-21b2-422a-8e99-f863c511f6ba">
+                                        <label for="improve_chk4b6aa0bb-21b2-422a-8e99-f863c511f6ba">Add or update illustrations</label>
+                                    </div>
+                                
+                                    <div class="checkbox sf-checkbox">
+                                        <input type="checkbox" id="improve_chk2670a46c-1808-4679-b7b9-2ae74745b9be">
+                                        <label for="improve_chk2670a46c-1808-4679-b7b9-2ae74745b9be">Add information about...</label>
+                                    </div>
+                                
+                        
+		</div>
+                    </div>
+
+                    <div class="form-group  sf-field sf-input">
+                        <textarea name="ctl00$content$TA5207132009$txtFreeFeedbackArea" rows="2" cols="20" id="content_TA5207132009_txtFreeFeedbackArea" placeholder="Please tell us more about your experience with this article (Optional)..."></textarea>
+                    </div>
+
+                    <div class="form-group submit">
+                        <a onclick="return false;" id="content_TA5207132009_lnkSendAdditionalFeedback" class="sf-button -action -large" href="javascript:__doPostBack('ctl00$content$TA5207132009$lnkSendAdditionalFeedback','')">Send feedback</a>
+                        <a onclick="return false;" id="content_TA5207132009_lnkDontSendAdditionalFeedback" class="sf-button -large" href="javascript:__doPostBack('ctl00$content$TA5207132009$lnkDontSendAdditionalFeedback','')">Cancel</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+	</div>
+
+</div>
+
+<div id="content_TA5207132009_pnlThankyou" class="sf-notification -success -sf-txt-align-center" style="display:none;">
+	
+    <div class="sf-notification__content">Thank you for your feedback!</div>
+
+</div>
+
+
+<script type="text/javascript">
+    var sendFeedback = false;
+    var appendAdditionalFeedback = false;
+    var feedbackServiceUrl = null;
+    var pageTitle = null;
+    var pageId = null;
+    var pnlHowToImprove = null;
+    var rating = 0;
+    var isAnonymousUser = true;
+    var radioButtonRenderedName = null;
+    var noAdditionalFeedbackText = null;
+    var feedbackCookieName = null;
+    var cookieGroupId = 3;
+
+    /// <summary>
+    /// Creates a cookie with a specified name and value
+    /// </summary>
+    function setCookie(cname, cvalue) {
+        document.cookie = cname + "=" + cvalue + ";";
+    }
+
+    /// <summary>
+    /// Returns the value store in the cookie
+    /// </summary>
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+
+    /// <summary>
+    /// Runs when the page loads. 
+    /// Initializes the server control ids, event handlers and values of hidden server vars.
+    /// </summary>
+    $(function () {
+        feedbackServiceUrl = "/documentation/sitefinity-cms/FeedbackService/CreateFeedback";
+        pageTitle = " Secure cookies";
+        pageId = "cb7e49b4-2bbc-6d27-ad54-ff0100e02f5f";
+        pnlHowToImprove = $("#content_TA5207132009_pnlHowToImprove");
+        radioButtonRenderedName = $("#content_TA5207132009_radioRating_1").attr("name");
+        noAdditionalFeedbackText = "(No additional feedback)";
+        feedbackCookieName = "sf_docfeedback";
+
+        $("#content_TA5207132009_lnkYes").click(function () { initialFeedback(3); });
+        $("#content_TA5207132009_lnkNo").click(function () { initialFeedback(1); });
+        $("#content_TA5207132009_lnkSendAdditionalFeedback").click(function () { additionalFeedback(true); });
+        $("#content_TA5207132009_lnkDontSendAdditionalFeedback").click(function () { sendFeedbackCancel(); });
+        $("#content_TA5207132009_closeFeedbackArea").click(function () { sendFeedbackCancel(); });
+        $("#cookie-settings-btn").click(function () { sendFeedbackCancel(); });
+
+        if (isOptanonGroupActive(cookieGroupId)) {
+            var feedbackCookie = getCookie(feedbackCookieName);
+            if (feedbackCookie && feedbackCookie.indexOf(pageId) >= 0) {
+                $("#content_TA5207132009_pnlMainFeedback").hide();
+                $("#content_TA5207132009_pnlThankyou").show();
+            }
+        }
+    });
+
+    /// <summary>
+    /// Runs when the page unloads. 
+    /// Posts the feedback from the user, if there's anything pending to post.
+    /// </summary>
+    //$(window).unload(postFeedback);
+
+    /// <summary>
+    /// Event handler when the user submits initial feedback ("Was this article helpful? (y/n)")
+    /// Stores the user's selection (initially chacks the relevant radio button) and reveals the additional feedback panel.
+    /// </summary>
+    /// <param name="initialRating">Initial rating value for the radio button to be checked. "Yes" = 3, "No" = 3</param>
+    function initialFeedback(initialRating) {
+        if (isOptanonGroupActive(cookieGroupId)) {
+            $("#additional-feedback").show();
+            $("#update-cookie-settings").hide();
+
+            sendFeedback = true;
+            $("#content_TA5207132009_initialButtonArea").css('visibility', 'hidden');;
+            $("#content_TA5207132009_additionalFeedbackArea").slideToggle();
+            $("input[type=radio][name='" + radioButtonRenderedName + "'][value='radioRating_" + initialRating + "']").prop("checked", true);
+        } else {
+            $("#additional-feedback").hide();
+            $("#update-cookie-settings").show();
+            $("#content_TA5207132009_additionalFeedbackArea").slideToggle();
+        }
+    }
+
+    /// <summary>
+    /// Event handler when the user clicks "Send additional feedback" .
+    /// Sets the global variable appendAdditionalFeedback (boolean) to the relevant value and posts the feedback comment to the server.
+    /// </summary>
+    /// <param name="shouldappend">True if additional feedback should be posted. False otherwise.</param>
+    function additionalFeedback(shouldappend) {
+        appendAdditionalFeedback = shouldappend;
+        $("#content_TA5207132009_pnlMainFeedback").addClass("loading");
+        postFeedback();
+    }
+
+    /// <summary>
+    /// Event handler when the user clicks "No thanks, don't send additional feedback".
+    /// Closes the feedback area dialog and restores the button area.
+    /// </summary>
+    function sendFeedbackCancel() {
+        $("#content_TA5207132009_initialButtonArea").css('visibility', 'visible');;
+        $("#content_TA5207132009_additionalFeedbackArea").slideToggle();
+    }
+
+    /// <summary>
+    /// Posts the feedback from the user to the server, if there's anything to post.
+    /// 1. Posts the data to the feedback service with the rating set by the user (1 - 3).
+    /// 2. Appends additional feedback: Adds the checkboxes strings to the comment's body.
+    /// 3. Appends additional feedback: Adds the textual feedback from the user to the comment's body.
+    /// 4. Shows "Thank you for submitting your feedback!" message.
+    /// </summary>
+    function postFeedback() {
+        if (!sendFeedback)
+            return;
+
+        var checkedRdioId = $("input:radio[name='" + radioButtonRenderedName + "']:checked").prop("id");
+        rating = checkedRdioId.substring(checkedRdioId.indexOf("radioRating")).split("_")[1];
+
+        var additionalFeedback = "";
+        if (appendAdditionalFeedback) {
+            var commentCheckboxes = pnlHowToImprove.find("input[type=checkbox]:checked");
+            if (commentCheckboxes.length > 0) {
+                additionalFeedback += "Checked options:<br/>";
+                for (var i = 0; i < commentCheckboxes.length; i++) {
+                    additionalFeedback += " + " + $("label[for=" + commentCheckboxes[i].id + "]").text() + "<br/>";
+                }
+            }
+            var textFeedback = $("#content_TA5207132009_txtFreeFeedbackArea").val();
+            if (textFeedback) {
+                additionalFeedback += "Textual feedback:<br/>";
+                additionalFeedback += $("#content_TA5207132009_txtFreeFeedbackArea").val() + "<br/>";
+            }
+        }
+        if (!additionalFeedback) {
+            additionalFeedback = noAdditionalFeedbackText;
+        }
+        var data = {
+            "feedbackData": {
+                "Message": additionalFeedback,
+                "Rating": rating,
+                "PageTitle": pageTitle,
+                "PageId": pageId,
+                "AbsoluteUrl": document.location.href
+            }
+        };
+
+        $.ajax({
+            url: feedbackServiceUrl,
+            type: "POST",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            data: JSON.stringify(data),
+            async: false,
+            success: function (result) {
+            },
+            error: function (xhr, status, error) {
+            },
+            complete: function (xhr, status) {
+                sendFeedback = false;
+                $("#content_TA5207132009_pnlMainFeedback").removeClass("loading");
+                $("#content_TA5207132009_pnlMainFeedback").hide();
+                $("#content_TA5207132009_pnlThankyou").slideToggle();
+
+                if (isOptanonGroupActive(cookieGroupId)) {
+                    var feedbackCookie = getCookie(feedbackCookieName);
+                    if (!feedbackCookie) {
+                        feedbackCookie = pageId;
+                    } else {
+                        feedbackCookie += "#" + pageId;
+                    }
+
+                    setCookie(feedbackCookieName, feedbackCookie);
+                }
+            }
+        });
+    }
+</script>
+
+    </div>
+    <div id="content_TA5207132021_Col01" class="sf_colsIn sf-row__col -col-8" data-sf-element="Column 2" data-placeholder-label="Column 2"><div class="sf-row -justify-content-end" data-sf-element="Row">
+    <div id="content_TA5207132016_Col00" class="sf_colsIn sf-row__col -col-12 -no-flex" data-sf-element="Column 1" data-placeholder-label="Column 1">    <h2 class="-sf-mb-2xs">Next article</h2>
+    <a class="-sf-txt-large" href="/documentation/sitefinity-cms/administration-enable-http-strict-transport-security-(hsts)"> Enable HTTP Strict Transport Security (HSTS)</a>
+
+    </div>
+</div>
+
+    </div>
+</div>
+
+    </div>
+</div>
+
+
+<div class="sf-row" data-sf-element="Row">
+    <div id="content_TA5207132019_Col00" class="sf_colsIn sf-row__col -col-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+</div>
+
+    </div>
+</div>
+
+            </div>
+		</main>
+		<footer>
+            <div class="sf-container">
+	            
+<div class="sf-row -sf-pt-4xl -sf-pb-2xl" data-sf-element="Row">
+    <div id="footer_T70B62CE7006_Col00" class="sf_colsIn sf-row__col -col-6" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="sf-row" data-sf-element="Row">
+    <div id="footer_T70B62CE7007_Col00" class="sf_colsIn sf-row__col -col-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<nav>
+    <ul class="-list-style-none">
+            <li class="-sf-mb-2xs">
+                    <a class="-footer" href="/documentation/sitefinity-cms/getting-started" target="_self">Installation</a>
+            </li>
+            <li class="-sf-mb-2xs">
+                    <a class="-footer" href="/documentation/sitefinity-cms/tutorials-hub" target="_self">Tutorials</a>
+            </li>
+            <li class="-sf-mb-2xs">
+                    <a class="-footer" href="/documentation/sitefinity-cms/best-practices-hub" target="_self">Best Practices</a>
+            </li>
+            <li class="-sf-mb-2xs">
+                    <a class="-footer" href="/documentation/sitefinity-cms/troubleshooting-hub" target="_self">Troubleshooting</a>
+            </li>
+            <li class="-sf-mb-2xs">
+                    <a class="-footer" href="https://knowledgebase.progress.com/#sort=relevancy&amp;f:@sfdcproductgroup=[Sitefinity]" target="_self">Knowledge base</a>
+            </li>
+            <li class="-sf-mb-2xs">
+                    <a class="-footer" href="https://www.progress.com/documentation/sitefinity-cms/insight" target="_self">Sitefinity Insight docs</a>
+            </li>
+            <li class="-sf-mb-2xs">
+                    <a class="-footer" href="https://www.progress.com/documentation/sitefinity-cms/cloud" target="_self">Sitefinity Cloud docs</a>
+            </li>
+    </ul>
+</nav>
+
+    </div>
+    <div id="footer_T70B62CE7007_Col01" class="sf_colsIn sf-row__col -col-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<nav>
+    <ul class="-list-style-none">
+            <li class="-sf-mb-2xs">
+                    <a class="-footer" href="https://www.progress.com/sitefinity-cms/whats-new" target="_self">What's new</a>
+            </li>
+            <li class="-sf-mb-2xs">
+                    <a class="-footer" href="https://www.progress.com/legal/privacy-center" target="_self">Privacy Center</a>
+            </li>
+            <li class="-sf-mb-2xs">
+                    <a class="-footer" href="https://www.progress.com/sitefinity-cms" target="_self">About Sitefinity</a>
+            </li>
+            <li class="-sf-mb-2xs">
+                    <a class="-footer" href="mailto:sitefinitysales@progress.com" target="_self">Contact us</a>
+            </li>
+    </ul>
+</nav>
+<div class="sfContentBlock"><span itemscope="itemscope" itemtype="http://schema.org/TechArticle"><p class="-sf-txt-hint">+1-888-365-2779</p></span>
+
+</div>
+    </div>
+</div>
+
+    </div>
+    <div id="footer_T70B62CE7006_Col01" class="sf_colsIn sf-row__col -col-6" data-sf-element="Column 2" data-placeholder-label="Column 2"><div class="sf-row -justify-content-end" data-sf-element="Row">
+    <div id="footer_T70B62CE7008_Col00" class="sf_colsIn sf-row__col -col-12 -no-flex" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="sfContentBlock"><span itemscope="itemscope" itemtype="http://schema.org/TechArticle"><p class="-sf-txt-large -sf-txt-hint -sf-mb-3xs">New to Sitefinity?</p>
+<a href="https://www.progress.com/sitefinity-cms/sign-up-for-demo" class="sf-button -action -large">Request a demo</a>
+<a href="https://www.progress.com/sitefinity-cms/try-now" class="sf-button -large">Try now</a></span>
+
+</div>
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="sf-row -sf-pt-2xs -sf-mb-zero -sf-border-top -sf-border-lightest -sf-txt-hint -align-items-center" data-sf-element="Row">
+    <div id="footer_T51A17544024_Col00" class="sf_colsIn sf-row__col -col-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div>
+    <div class="sfContentBlock sf-Long-text"><p class="-sf-mb-3xs">Copyright © 2022 Progress Software Corporation and/or its subsidiaries or affiliates. All Rights Reserved.</p><p class="-sf-txt-small">Progress, Telerik, Ipswitch, and certain product names used herein are trademarks or registered trademarks of Progress Software <br>Corporation and/or one of its subsidiaries or affiliates in the U.S. and/or other countries. See <a href="https://www.progress.com/legal/trademarks" class="-footer"><strong>Trademarks</strong></a> for appropriate markings.</p></div>    
+</div>
+    </div>
+    <div id="footer_T51A17544024_Col01" class="sf_colsIn sf-row__col -col-6 -sf-txt-align-right" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div>
+    <div class="sfContentBlock sf-Long-text"><p>Powered by <a class="-footer" href="https://www.progress.com/sitefinity-cms">Progress Sitefinity</a></p></div>    
+</div>
+    </div>
+</div>
+<div class="sfContentBlock"><span role="button" class="sf-up"><span class="sf-button -circle -icon"><em class="sf-button__icon sf-icon -size-l fa fa-angle-up"></em></span>
+</span>
+
+</div>
+
+
+<script>
+    (function () {
+        var originaljQueryCookie = jQuery.cookie;
+        if (!originaljQueryCookie) return;
+
+        var cookieToOptanonGroupMap = {
+            'sf_timezoneoffset': 3
+        };
+
+        jQuery.cookie = function (name) {
+            if (cookieToOptanonGroupMap[name] && !isOptanonGroupActive(cookieToOptanonGroupMap[name])) {
+                return undefined;
+            }
+
+            return originaljQueryCookie.apply(this, arguments);
+        };
+    })();
+</script>
+
+<script type="text/javascript" src="/documentation/sitefinity-cms/Styles/dist/js/main.min.js"></script>
+
+<script type="text/javascript" src="/documentation/sitefinity-cms/Styles/dist/js/article.min.js"></script>
+
+<script type="text/javascript">
+const pi = new sfPageIndex({
+    titles: ".sf-article h2",
+    indexAfter: ".sf-article h1",
+  minItems: 2,
+  indexTitle: "This article contains",
+  excludedUrls: ["/api-changes-in-sitefinity-cms", "/database-changes-in-sitefinity-cms"]
+});
+
+const al = new sfSmoothScrollToAnchor(".sf-page-index a, .sf-article a[name]");
+
+const articleLabel = new sfArticleLabel({   indexAfter: ".sf-article h1",   tags: ".sf-chip" });
+</script>
+
+            </div>
+		</footer>
+	
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl06_TSM');;(function() {
+                        function loadHandler() {
+                            var hf = $get('ctl07_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Sitefinity.Resources, Version=13.1.7425.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en:8bd4df2c-e51c-4df7-87a4-4ea7261be27c:7a90d6a';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();//]]>
+</script>
+</form><script type="text/javascript">
+$('ins[class^="reU"]').remove();
+$('del[class^="reU"]').each(function(index, element){ 
+	$(element).replaceWith(element.innerHTML);
+});
+</script>
+    <script src="https://cdn.jsdelivr.net/npm/css-vars-ponyfill@2"></script>
+    <script>
+        if (cssVars) {
+            cssVars();
+        }
+    </script>
+
+
+<ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front sf-autocomplete" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div></body></html>

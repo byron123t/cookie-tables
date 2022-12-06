@@ -1,0 +1,882 @@
+
+
+
+
+
+
+Cookie Policy | Nanit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Up to 30% off your holiday gifts! Shop early, rest easy.           Shop now
+
+
+        20% off our Best Sellers Bundle, parents’ top picks!           Shop now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Shop
+                                  
+
+
+
+
+
+
+
+
+                                  Gifts
+                                                                  
+
+
+
+
+
+
+
+                                  Shop All
+                                                                  
+
+
+
+
+
+
+
+                                  Nanit Pro Camera
+                                                                  
+
+
+
+
+
+
+
+                                  Bundle & Save
+                                                                  
+
+
+
+
+
+
+
+                                  Accessories
+                                                                  
+
+
+
+
+
+
+
+                                  Breathing Wear
+                                                                  
+
+
+
+
+
+
+
+                                  Sleep Wear
+                                                                  
+
+
+
+
+
+
+
+                                  Sheets
+                                                                  
+
+
+
+
+
+
+
+
+                  Explore the App
+                                  
+
+
+
+                  About
+                                  
+
+
+
+                  Blog
+                                  
+
+
+
+                  Community
+                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+Cart
+
+
+
+
+
+
+Country
+
+
+
+
+
+
+United States
+
+
+Canada
+
+
+United Kingdom
+
+
+Global
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookie Policy
+
+
+
+ We use in our site https://www.nanit.com/ (“Site”) cookies and similar files or technologies to automatically collect and store information about your computer, device, and Site usage, in order to improve their performance and enhance your user experience. We use the general term “cookies” in this policy to refer to these technologies and all such similar technologies that collect information automatically when you are using our Site where this policy is posted.  You can find out more about cookies and how to control them in the information below.If you do not accept the use of these cookies, please disable them using the instructions in this cookie policy or by changing your browser settings so that cookies from this Site cannot be placed on your computer or mobile device. Important: disabling cookies on this Site may seriously cripple the user experience and other features on the Site, to the point of rendering them useless.In this Cookies Policy, we use the term Nanit (and "we", "us" and "our") to refer to Udisense, Inc. Our Privacy Policy is available at https://www.nanit.com/legal/privacy.What is a cookie?Cookies are computer files containing small amounts of information which are downloaded to your computer or mobile device when you visit a website.  Cookies can then be sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are widely used in order to make websites work, or to work more efficiently, as well as to provide information to the owners of the website.Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. Cookies may tell us, for example, whether you have visited our Site before or whether you are a new visitor.There are two broad categories of cookies:First party cookies, served directly by us to your computer or mobile device.Third party cookies, which are served by a third party on our behalf.  We use third party cookies for performance, analytics, marketing and other technologies, and social media purposes.Cookies can remain on your computer or mobile device for different periods of time. Some cookies are 'session cookies', meaning that they exist only while your browser is open. These are deleted automatically once you close your browser. Other cookies are 'permanent cookies', meaning that they survive after your browser is closed. They can be used by websites to recognize your computer when you open your browser and browse the Internet again.Web beacons:Cookies are not the only way to recognize or track visitors to a website. We may use other, similar technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs"). These are small graphics files that contain a unique identifier that enable us to recognize when someone has visited our website. This allows us, for example, to monitor the traffic patterns of users from one page within our website to another, to deliver or communicate with cookies, to understand whether you have come to our website from an online advertisement displayed on a third party website, to improve website performance and to measure the success of email marketing campaigns. In most instances, these technologies are reliant on cookies to function, and therefore declining cookies prevents them from functioning.If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies as described further below. If you turn off cookies, web beacon and other technologies will still detect your visits to our Site; however, they will not be associated with information otherwise stored in cookies.Targeted advertisingThird parties may drop cookies on your computer or mobile device to serve advertising through our website. These companies may use information about your visits to this and other websites in order to provide relevant advertisements about goods and services that you may be interested in. They may also employ technology that is used to measure the effectiveness of advertisements. The information collected through this process does not enable us or them to identify your name, contact details or other personally identifying details unless you choose to provide these to us.How do we use cookies?We use cookies to:track traffic flow and patterns of travel in connection with our Site;understand the total number of visitors to our Sites on an ongoing basis and the types of internet browsers (e.g. Chrome, Firefox, Safari, or Internet Explorer) and operating systems (e.g. Windows or Mac) used by our visitors;monitor the performance of our Site and to continually improve it; andcustomize and enhance your online experience.What types of cookies do we use?The types of cookies used by us in connection with the Site can be considered 'essential website cookies', 'analytics and performance cookies', 'marketing', 'unclassified', and 'other technologies'. We've set out some further information below, and the purposes of the cookies we set in the following table.   1. Cookies necessary for essential website purposes (21)         These cookies are essential to provide you with services available through this Site and to use some of its features, such as access to secure areas. Without these cookies we will not be able to provide services that you require, such as transactional pages and secure login accounts.          Cookie Name Provider Expiry Purpose    #.#-#-#-#-#.ack consumer.feel.tech Persistent Used to contain user’s survey and quiz answers in Local Storage.   #.#-#-#-#-#.inProgress consumer.feel.tech Persistent Used to contain user’s survey and quiz answers in Local Storage.   #.#-#-#-#-#.queue consumer.feel.tech Persistent Used to contain user’s survey and quiz answers in Local Storage.   #.#-#-#-#-#.reclaimEnd consumer.feel.tech Persistent Used to contain user’s survey and quiz answers in Local Storage.   #.#-#-#-#-#.reclaimStart consumer.feel.tech Persistent Used to contain user’s survey and quiz answers in Local Storage.   #.jpg imgix.net Session Pending   __cf_bm getmulberry.com 1 day This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.   __cfruid getmulberry.com Session This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.    ci_session woobox.com 1 day Preserves users states across page requests.   CONSENT           [x2]                 google.comyoutube.com 2 years Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.     CookieConsent nanit.com 1 year Stores the user's cookie consent state for the current domain   cookietest nanit.com Session This cookie is used to determine if the visitor has accepted the cookie consent box.   CraftSessionId nanit.com Session Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.   debug consumer.feel.tech Persistent This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.   DUMMY_COOKIE affirm.com Session Necessary for the website’s payment-plan-function upon checking out.   gdpr id5-sync.com 1 day Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry.     i p.yotpo.com Session Registers the website's speed and performance. This function can be used in context with statistics and load-balancing.   is_eu nanit.com Session Determines whether the user is located within the EU and therefore is subject to EU's data privacy regulations.    t_v2_s affirm.com 2 years Necessary for the website’s payment-plan-function upon checking out.   visitor_id woobox.com 1 year Preserves the visitor's session state across page requests.     2. Preferences (3)         Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.          Cookie Name Provider Expiry Purpose    io_f604be51-ccf5-4d26-9cc2-3c44e1fdceb9 nanit.com Persistent Unique user ID that recognizes the user on returning visits.   locale nanit.com 14 days The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.   wistia-video-progress-# nanit.com Persistent Contains a timestamp for the website’s video-content. This allows the user to resume watching without having to start over, if the user leaves the video or website.       3. Performance / Analytics Cookies (40)         We use performance/analytics cookies to analyze how the website is accessed, used, or is performing. We do this in order to provide you with a better user experience and to maintain, operate and continually improve the website. For example, these cookies allow us to:Better understand our website visitors so that we can improve how we present our content;Test different design ideas for particular pages, such as our homepage;Collect information about Site visitors such as where they are located and what browsers they are using;Determine the number of unique users of the website;Improve the website by measuring any errors that occur; andConduct research and diagnostics to improve product offerings.           Cookie Name Provider Expiry Purpose    #_pastviews woobox.com 1 day Pending   #_visit woobox.com 1 day Pending   _ga nanit.com 2 years Registers a unique ID that is used to generate statistical data on how the visitor uses the website.   _ga_# nanit.com 2 years Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.    _gat nanit.com 1 day Used by Google Analytics to throttle request rate   _gid nanit.com 1 day Registers a unique ID that is used to generate statistical data on how the visitor uses the website.   _hjAbsoluteSessionInProgress nanit.com 1 day This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.   _hjFirstSeen nanit.com 1 day This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.   _hjIncludedInPageviewSample nanit.com 1 day Determines if the user's navigation should be registered in a certain statistical place holder.   _hjIncludedInSessionSample nanit.com 1 day Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.    _hjRecordingLastActivity nanit.com Session Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.   _hjSession_# nanit.com 1 day Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.   _hjSessionUser_# nanit.com 1 year Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.   _hjTLDTest nanit.com Session Detects the SEO-ranking for the current website. This service is part of a third-party statistics and analysis service.    _omappvp nanit.com 11 years This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.   _omappvs nanit.com 1 day This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.   _opt_expid nanit.com 1 day This cookie is set in order to make split-tests on the website, which optimizes the website's relevance towards the visitor. The cookie functions by making smaller alterations on the website and measuring the results.     _sp_id.# nanit.com 2 years Used by Snowplow Analytics to track how users are browsing and engaging with a website.   _sp_ses.# nanit.com 1 day Used by Snowplow Analytics to track how users are browsing and engaging with a website.   3060738.3440491 affirm.com 2 years Necessary for the website’s payment-plan-function upon checking out.   ajs_anonymous_id nanit.com 1 year This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.   cksync.php media.net Session This cookie is used to determine if cookie data synchronization is enabled or disabled – cookie data synchronization is used to synchronize and gather visitor data on several domains.   collect google-analytics.com Session Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.   hjViewportId nanit.com Session Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.   loglevel nanit.com Persistent Collects data on visitor interaction with the website's video-content - This data is used to make the website's video-content more relevant towards the visitor.     mavenoid-embedded-visitor-id nanit.com Persistent Registers a unique ID that is used to generate statistical data on how the visitor uses the website.   n_stored_page_visit nanit.com Persistent Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.   omVisits nanit.com Persistent This cookie is used to identify the frequency of visits and how long the visitor is on the website. The cookie is also used to determine how many and which subpages the visitor visits on a website – this information can be used by the website to optimize the domain and its subpages.   omVisitsFirst nanit.com Persistent This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.   PugT pubmatic.com 29 days Used to determine the number of times the cookies have been updated in the visitor's browser. Used to optimize the website's server efficiency.     rl_anonymous_id consumer.feel.tech Persistent Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.    rl_group_id consumer.feel.tech Persistent Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.    rl_group_trait consumer.feel.tech Persistent Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.    rl_trait consumer.feel.tech Persistent Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.    rl_user_id consumer.feel.tech Persistent Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.    u_scsid nanit.com Session Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.    undefined nanit.com Persistent Collects data on visitor interaction with the website's video-content - This data is used to make the website's video-content more relevant towards the visitor.     visitor-id media.net 1 year This cookie is used to collect information on the visitor. This information will be stored for internal analytics at the website's operator – Internal analytics is used by websites to optimize their domains.   wistia nanit.com Persistent Used by the website to track the visitor's use of video-content - The cookie roots from Wistia, which provides video-software to websites.   X-AB sc-static.net 1 day This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.      4. Marketing (118)         We use marketing cookies to deliver many types of targeted digital marketing.. We do this in order to provide you with a better user experience and to maintain, operate and continually improve the website. The cookie store user data and behavior information, which allows advertising services to target audience according to variables. For example, these cookies allow us to:Observe the site performance and generate retargeting (Site retargeting, search retargeting, etc).Maintain and improve the website and our products          Cookie Name Provider Expiry Purpose    _/ad/75aa344edeef4dbfa3b3dd7cb5f40e6f/pixel q.quora.com Session Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.    __attentive_cco nanit.com 60 years Used for reporting and optimization of marketing text messages.    __attentive_dv nanit.com 1 day Used for reporting and optimization of marketing text messages.    __attentive_id nanit.com 60 years Used for reporting and optimization of marketing text messages.    __attentive_pv nanit.com 1 day Used for reporting and optimization of marketing text messages.    __attentive_ss_referrer nanit.com 1 day Used for reporting and optimization of marketing text messages.    __mpq_#_# nanit.com Persistent Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.    __tld__ nanit.com Session Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.    _attn_ nanit.com 10 years Used for reporting and optimization of marketing text messages.    _fbc nanit.com 3 months This cookie is used by Facebook to target advertisement based on user behavior and preferences across multiple websites. The cookie contains an encrypted ID which allows Facebook to identify the user across websites.     _fbp nanit.com 3 months Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.   _gac_UA-# nanit.com 3 months Stores information about ad campaigns from Google Adwords to show targeted ads to the visitor.   _gaexp nanit.com 76 days This cookie is used by Google Analytics to determine if the visitor is involved in their marketing experiments.   _gaexp_rc nanit.com 1 day Determines whether the user is assigned to a specific content-experiment to optimize website content and advertisement efforts.   _gcl_au nanit.com 3 months Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.      _gcl_aw nanit.com 3 months Used to measure the efficiency of the website’s advertisement efforts, by collecting data on the conversion rate of the website’s ads across multiple websites.   _hjRecordingEnabled nanit.com Session This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.   _kuid_ krxd.net 179 days Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.   _pin_unauth nanit.com 1 year Used by Pinterest to track the usage of services.   _pinterest_ct_ua pinterest.com 1 year Used by Pinterest to track the usage of services.   _rdt_uuid nanit.com 3 months Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.    _schn nanit.com Session Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes.   _scid nanit.com 13 months Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.   _uetsid nanit.com 1 day Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.    _uetsid_exp nanit.com Persistent Contains the expiry-date for the cookie with corresponding name.    _uetvid nanit.com 1 year Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.    _uetvid_exp nanit.com Persistent Contains the expiry-date for the cookie with corresponding name.    0 360yield.com Session Pending   0123456789# 360yield.com 3 months Pending   -1 360yield.com 3 months Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.   A3 yahoo.com 1 year Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.   ads/ga-audiences google.com Session Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.   AdServer/Pug pubmatic.com Session Sets a timestamp for when the visitor entered the website. This is used for analytical purposes on the website.    ajs_user_id nanit.com Persistent Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.    ajs_user_traits nanit.com Persistent Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.    am_tokens exchange.mediavine.com 13 days Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.   am_tokens_eu-v1 exchange.mediavine.com 13 days Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.   bt3 thebrighttag.com 1 year Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.    btv3.cr thebrighttag.com 29 days Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.   c bidswitch.net 1 year Regulates synchronisation of user identification and exchange of user data between various ad services.   callback id5-sync.com 1 day Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.    car id5-sync.com 1 day Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.   cf id5-sync.com 1 day Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.   cip id5-sync.com 1 day Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.   CMID casalemedia.com 1 year Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.   CMPRO casalemedia.com 3 months Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.     CMPS casalemedia.com 3 months Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.   CMTS casalemedia.com 3 months Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.   cnac id5-sync.com 1 day Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.   criteo exchange.mediavine.com 13 days Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.   criteo_write_test nanit.com 1 day Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.   cs thebrighttag.com Session This cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.   cto_bundle nanit.com 13 months Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.   cto_tld_test nanit.com 1 day Used to identify the visitor across visits and devices. This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.    data-c media.net 29 days Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.   data-c-ts media.net 29 days Collects data on the user across websites - This data is used to make advertisement more relevant.   demconf.jpg demdex.net Session Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.    demdex demdex.net 179 days Via a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads.   dis/rtb/appnexus/cookiematch.aspx criteo.com Session Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.   dis/rtb/google/cookiematch.aspx criteo.com Session Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.   dpm demdex.net 179 days Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.   eng_mt nanit.com Persistent Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.    IDE doubleclick.net 1 year Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.   IDSYNC analytics.yahoo.com 1 year Used to identify the visitor across visits and devices. This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.    io_token_# iesnare.com 1 year Used by the website to detect any fraud and ensure brand safety management on the website.     KRTBCOOKIE_# pubmatic.com 29 days Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.   mp_#_mixpanel nanit.com 1 year Pending   MUID bing.com 1 year Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.   mv_tokens exchange.mediavine.com 13 days Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.   mv_tokens_eu-v1 exchange.mediavine.com 13 days Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.   mv_tokens_invalidate-verizon-pushes exchange.mediavine.com 13 days Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.   n_browser_data nanit.com Persistent Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.    pixel adform.net Session Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.   pixel yotpo.com 1 year Determines which products the user has viewed, allowing the website to promote related products.    redir smartadserver.com Session Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.   rl_page_init_referrer consumer.feel.tech Persistent Registers how the user has reached the website to enable pay-out of referral commission fees to partners.   rl_page_init_referring_domain consumer.feel.tech Persistent Registers how the user has reached the website to enable pay-out of referral commission fees to partners.   rp.gif alb.reddit.com Session Necessary for the implementation of the Reddit.com's share-button function.   rum casalemedia.com Session Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.   s/966/9.gif id5-sync.com Session Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.   sc_at snapchat.com 1 year Used by Snapchat to implement advertisement content on the website - The cookie detects the efficiency of the ads and collects visitor data for further visitor segmentation.   sp.pl analytics.yahoo.com Session Registers user behaviour and navigation on the website, and any interaction with active campaigns. This is used for optimizing advertisement and for efficient retargeting.     sync           [x4]                 bidswitch.netmatching.ivitrack.comtremorhub.comyieldmo.com Session Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.    test_cookie doubleclick.net 1 day Used to check if the user's browser supports cookies.   tracker_device           [x2]                 affirm.comnanit.com 2 years Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.   tt_appInfo nanit.com Session Used by the social networking service, TikTok, for tracking the use of embedded services.   tt_pixel_session_index nanit.com Session Used by the social networking service, TikTok, for tracking the use of embedded services.   tt_sessionId nanit.com Session Used by the social networking service, TikTok, for tracking the use of embedded services.   tuuid           [x2]                 360yield.combidswitch.net 3 months Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.   tuuid_lu           [x2]                 360yield.combidswitch.net 3 months Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.     u_sclid nanit.com Persistent Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.   uid criteo.com 1 year Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.   ul_cb/sync bidswitch.net Session Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.   um 360yield.com 3 months Registers the visitor's behavior on social media - can be used to optimize ad-relevance and general targeting.   umeh 360yield.com 3 months Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.    uuid2 adnxs.com 3 months Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.   v3 pinterest.com Session Used by Pinterest to track the usage of services.   varchar (72) 360yield.com Session Pending   visitor/sync omnitagjs.com Session This cookie is used to assign specific visitors into segments, this segmentation is based on visitor behavior on the website - the segmentation can be used to target larger groups.   VISITOR_INFO1_LIVE youtube.com 179 days Tries to estimate the users' bandwidth on pages with integrated YouTube videos.   xuid 3lift.com Session Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.   YSC youtube.com Session Registers a unique ID to keep statistics of what videos from YouTube the user has seen.   yt.innertube::nextId youtube.com Persistent Registers a unique ID to keep statistics of what videos from YouTube the user has seen.   yt.innertube::requests youtube.com Persistent Registers a unique ID to keep statistics of what videos from YouTube the user has seen.   ytidb::LAST_RESULT_ENTRY_KEY youtube.com Persistent Stores the user's video player preferences using embedded YouTube video   yt-remote-cast-available youtube.com Session Stores the user's video player preferences using embedded YouTube video   yt-remote-cast-installed youtube.com Session Stores the user's video player preferences using embedded YouTube video   yt-remote-connected-devices youtube.com Persistent Stores the user's video player preferences using embedded YouTube video   yt-remote-device-id youtube.com Persistent Stores the user's video player preferences using embedded YouTube video   yt-remote-fast-check-period youtube.com Session Stores the user's video player preferences using embedded YouTube video   yt-remote-session-app youtube.com Session Stores the user's video player preferences using embedded YouTube video   yt-remote-session-name youtube.com Session Stores the user's video player preferences using embedded YouTube video     5. Unclassified (19)         Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.          Cookie Name Provider Expiry Purpose    #-#-#-#-# nanit.com Persistent Pending   __attentive_utm_param_campaign nanit.com Session Pending   __attentive_utm_param_content nanit.com Session Pending   __attentive_utm_param_medium nanit.com Session Pending   __attentive_utm_param_source nanit.com Session Pending   __mgAnalyticsSetOnce nanit.com Persistent Pending   __mplss_0123wxyz nanit.com Persistent Pending   __os_js_px_sssi js.onsched.com 1 day Pending   _adlClkID nanit.com 29 days Pending   am_tokens_invalidate-verizon-pushes exchange.mediavine.com 13 days Pending   globalRegionPopup nanit.com 14 days Pending   globalRegionPopupDisplayed nanit.com 14 days Pending   iev           [x2]                 csm.fr.eu.criteo.netcsm.nl.eu.criteo.net Session Pending   last_referrer_data babylist.com Session Pending   ld:#:$diagnostics nanit.com Persistent Pending   NANITWEB_TOKEN_CSRF nanit.com Session Pending   persist:fc-consumer consumer.feel.tech Persistent Pending   sas_m_awin nanit.com 1 year Pending       Cookie declaration last updated on 28/10/2022 by Cookiebot:   Your current consent preferences Your consent applies to the following domains: www.nanit.com Your current state: Deny. Your current state: Do Not Sell My Personal Information. Your current state: Allow selection (Necessary, Preferences, Analytics, Marketing). Your current state: Allow all. Your consent ID: Consent date: Change your consent  |  Withdraw your consentDo Not Sell My Personal Information  
+
+
+How to control or delete cookies
+Most browsers allow you to change your cookie settings. These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings and learn how to use them, please consult the “Help” function of your browser, or the documentation published online for your particular browser type and version.
+However, please note that if you choose to refuse cookies you may not be able to use the full functionality of our Site.
+The following pages have information on how to change your cookies settings for the different browsers:
+
+Cookie settings in Chrome
+Cookie settings in Firefox
+Cookie settings in Internet Explorer
+Cookie settings in Safari and iOS
+
+
+
+Third Party Websites' Cookies
+When using our website, you may be directed to other websites for such activities as surveys, to make payment in currency other than U.S. dollars, or for job applications. These websites may use their own cookies. We do not have control over the placement of cookies by other websites you visit, even if you are directed to them from our website.
+If you use the buttons that allow you to share products and content with your friends via social networks like Google, Twitter and Facebook, these companies may set a cookie on your computer memory. Find out more about these here:
+
+https://www.facebook.com/about/privacy
+http://twitter.com/privacy
+http://www.google.com/intl/en-GB/policies/privacy
+
+
+
+Need More Information?
+If you would like to find out more about cookies and their use on the Internet, you may find the following link useful: All About Cookies
+
+
+Cookies that have been set in the past
+If you have disabled one or more Cookies, we may still use information collected from cookies prior to your disabled preference being set, however, we will stop using the disabled cookie to collect any further information.
+
+
+Contact us
+If you have any questions or comments about this cookies policy, or privacy matters generally, please contact us via email at privacy@nanit.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stay in the Know.
+Get exclusive savings and expert advice right to your inbox.
+
+
+email
+
+
+
+❯
+Sending...
+
+
+Something wen't wrong, please try again later.
+Subscribed successfully!
+
+
+Get the App
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Shop          
+
+
+Shop All 
+
+Nanit Pro 
+
+Breathing Wear 
+
+Smart Sheets 
+
+Accessories 
+
+Multi-Packs 
+
+Bundle Builder 
+
+Gift Cards 
+
+Sales + Promotions 
+
+
+
+
+            Support          
+
+
++1-866-MYNANIT 
+
+Submit a Ticket 
+
+Video Chat with an Expert 
+
+Return Policy 
+
+Buy Now, Pay Later 
+
+Shipping FAQs 
+
+FAQs 
+
+Server Status 
+
+Military Discount 
+
+Warranty 
+
+
+
+
+            Company          
+
+
+About 
+
+Careers 
+
+Blog 
+
+Community 
+
+
+
+
+            Partnership          
+
+
+Registry 
+
+Retailers 
+
+For Business 
+
+Research 
+
+International 
+
+
+
+
+            Social          
+
+
+Instagram 
+
+TikTok 
+
+Twitter 
+
+Pinterest 
+
+YouTube 
+
+Facebook 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Shop                
+
+
+
+
+
+
+
+ 
+
+
+Shop All
+
+
+Nanit Pro
+
+
+Breathing Wear
+
+
+Smart Sheets
+
+
+Accessories
+
+
+Multi-Packs
+
+
+Bundle Builder
+
+
+Gift Cards
+
+
+Sales + Promotions
+
+
+
+
+
+                  Support                
+
+
+
+
+
+
+
+ 
+
+
++1-866-MYNANIT
+
+
+Submit a Ticket
+
+
+Video Chat with an Expert
+
+
+Return Policy
+
+
+Buy Now, Pay Later
+
+
+Shipping FAQs
+
+
+FAQs
+
+
+Server Status
+
+
+Military Discount
+
+
+Warranty
+
+
+
+
+
+                  Company                
+
+
+
+
+
+
+
+ 
+
+
+About
+
+
+Careers
+
+
+Blog
+
+
+Community
+
+
+
+
+
+                  Partnership                
+
+
+
+
+
+
+
+ 
+
+
+Registry
+
+
+Retailers
+
+
+For Business
+
+
+Research
+
+
+International
+
+
+
+
+
+                  Social                
+
+
+
+
+
+
+
+ 
+
+
+Instagram
+
+
+TikTok
+
+
+Twitter
+
+
+Pinterest
+
+
+YouTube
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+Get the App
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms and Conditions
+
+
+Acceptable Use Policy
+
+
+Community Participation Guidelines
+
+
+Privacy
+
+
+Cookies
+
+
+Retailers
+
+
+MAP Policy
+
+
+Open Source
+
+
+Compliance
+
+
+Warranty
+
+
+Referral Program Terms
+
+
+Accessibility Statement
+
+
+
+
+
+
+Disclaimer
+Nanit is not a medical device. Nanit is a connected product designed and intended to continuously learn from the data it collects to help you understand your baby's sleep patterns. It is not intended to diagnose, treat or cure any disease or other condition, including but not limited to, Sudden Infant Death Syndrome (SIDS). False positive or false negative readings about your baby’s breathing patterns are a potential risk of Nanit. Height measurements are assessed using computer vision algorithms and are estimated - Nanit makes no guarantee that they are 100% accurate. Medical decisions should never be made using Nanit growth data. Nanit should not substitute for the care and oversight of an adult or consultation with medical professionals.
+
+
+
+
+
+
+
+
+
+      Copyright © 2019 Nanit.
+    
+
+
+
+
+
+
+
+Plus
+
+Close
+
+
+
+
+Shopping cart
+
+
+
+
+
+
+
+Your cart is currently empty
+Keep Shopping
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+Plus
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to Nanit!
+
+You are entering our US site.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nanit ships around the world.
+
+Shop International
+
+
+
+
+
+Close
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

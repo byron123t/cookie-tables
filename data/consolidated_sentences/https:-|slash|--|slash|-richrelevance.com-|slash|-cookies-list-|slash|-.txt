@@ -1,0 +1,265 @@
+Cookies List - RichRelevance
+sikiş hikayeleri
+xnxx
+sex hikayeleri
+rokettube
+olgun porno
+bakire porno
+türkçe porno
+milf porno
+olgun porno
+sex izle
+brazzers
+hd porno
+Demo Request
+Login
+Products
+ModulesPlatformPersonalized ContentPersonalization AIPersonalized Browse & NavPersonalization as a ServicePersonalized RecommendationsPersonalization CloudPersonalized SearchCustomer Marketing ToolsCustomer Data Platform
+Solutions
+VerticalsIndustry ChallengesRetail
+Apparel
+Beauty
+Consumer Electronics
+Department Stores
+DIY
+Grocery
+Luxury
+Hyper-PersonalizationBranded Manufacturers / CPGIndividualizationTravel & HospitalityOmnichannel PersonalizationB2BBehavioral MessagingFinancial ServicesSite OptimizationUnified Customer ProfileIn Store Digital PersonalizationGDPR5 ways to reduce cart abandonment
+ResourcesCustomers
+Case StudiesCustomer Success
+About
+LeadershipNewsroomCareersPartnersEventsContactBlog
+Demo Request
+Login
+US
+UK
+FR
+DE
+BR
+JP
+ES
+Products
+ModulesPlatformPersonalized ContentPersonalization AIPersonalized Browse & NavPersonalization as a ServicePersonalized RecommendationsPersonalization CloudPersonalized SearchCustomer Marketing ToolsCustomer Data Platform
+Solutions
+VerticalsIndustry ChallengesRetail
+Apparel
+Beauty
+Consumer Electronics
+Department Stores
+DIY
+Grocery
+Luxury
+Hyper-PersonalizationBranded Manufacturers / CPGIndividualizationTravel & HospitalityOmnichannel PersonalizationB2BBehavioral MessagingFinancial ServicesSite OptimizationUnified Customer ProfileIn Store Digital PersonalizationGDPR5 ways to reduce cart abandonment
+ResourcesCustomers
+Case StudiesCustomer Success
+About
+LeadershipNewsroomCareersPartnersEventsContactBlog
+Products
+Modules
+Personalized Content
+Personalized Browse & Nav
+Personalized Recommendations
+Personalized Search
+Customer Marketing Tools
+Retail Analytics
+Customer Data Platform
+Platform
+Personalization AI
+Personalization-as-a-Service
+Personalization Cloud
+Solutions
+Verticals
+Retail
+Apparel
+Beauty
+Consumer Electronics
+Department Stores
+DIY
+Grocery
+Luxury
+Branded Manufacturers / CPG
+Travel & Hospitality
+Financial Services
+Industry Challenges
+Hyper-Personalization
+Individualization
+Omnichannel Personalization
+Behavioral Messaging
+Site Optimization
+Unified Customer Profile
+In Store Digital Personalization
+GDPR
+Resources
+Customers
+Case Studies
+Customer Success
+About
+About RichRelevance
+Leadership
+Newsroom
+Careers
+Partners
+Events
+Contact
+Blog
+COOKIE TABLE
+Cookies That may Be Used by Retailers
+Category (Administrative, Behavior, MVT)
+Cookie Description
+Persistence*
+Purpose
+Name
+Comments
+Administrative
+Browser Acceptance
+Session
+Does the browser accept session cookies?
+m
+Administrative
+Browser Acceptance
+1 year
+Does the browser accept persistent cookies?
+n
+Behavior
+Campaign view frequency
+1 year
+Third party pixel frequency
+tppf
+Administrative
+Session
+30 min
+Visitor has been inactive for 30 minutes and no longer considered to be in session (used when calculating how great an impact recent behavior should have on content shown)
+s
+Administrative
+Region ID
+1 year
+Region the visitor is in (regions are defined by the site)
+ric
+Not dropped on a visitor unless the site has regional product pricing and availability
+Administration
+RichReach Opt Out
+10 years
+Current browser has opted out of seeing “RichReach” (retargeting placements)
+prooc
+Administration
+Cookie Opt Out
+10 years
+Current browser has opted out of behavior, MVT, and other administrative cookies
+coo
+Administration
+User GUID
+1 year
+Tracks a visitor across sessions
+uc
+Renewable
+Behavior
+Recent Search
+Session
+Recent search terms entered through this browser on the merchant partner’s site
+sthc
+Behavior
+Do not use
+1 day
+Purchased products that should not be used for recommendations
+mrdu
+Not dropped on a visitor unless they take specific actions within MyRecs
+Behavior
+RichPromo Engagement
+1 year
+Views and clicks on RichPromo campaign placements that have been set to not show after the current browser has clicked or viewed them X times
+rp2er
+Not dropped on a visitor unless the site is using RichPromo and its engagement rules
+Behavior
+Ad View Frequency
+1 year
+Number of times a visitor has seen a RichAd
+avf
+Not dropped on a visitor unless the site is using RichAds
+Behavior
+Added to Registry
+1 year
+Products have been added to a registry (baby or wedding)
+atrhc
+Not dropped on a visitor unless the site is using Registry
+Behavior
+Category Views
+1 year
+Category pages a browser has recently viewed
+Cv
+Behavior
+Added to Cart
+1 year
+Items that have been recently added to cart
+ca, pendprch
+Behavior
+Search Terms
+1 year
+Terms browser has searched
+psthc, uhs
+Behavior
+Items Purchased
+1 year
+Items that have been recently purchased
+p
+Behavior
+Items Viewed
+1 year
+Items that have been recently viewed
+pv
+MVT
+Treatment
+1 year
+Current browser is in the “a” or “b” side of an a/b test
+utidc
+Not dropped on a visitor unless the site is running an A/B test
+MVT
+Multivariate Test Treatment
+1 year
+Used to determine which treatment (a vs
+b vs
+n) of a multivariate test the current browser is in
+mvtid
+Not dropped on a visitor unless the site is running an multivariate test
+Back to Opt-Out
+About Us RichRelevance is the global leader in omnichannel personalization and is used by more than 200 multinational companies to deliver the most relevant and innovative customer experiences across web, mobile and in store.
+Quick Links
+About
+Customers
+Resources
+Verticals
+Newsroom
+Blog
+Contact
+Privacy
+Cookie Opt out
+Recent Posts
+RichRelevance Announces New Shopify Connector
+December 8, 2020
+Price Chopper Supermarkets selects Manthan-RichRelevance to deliver on Omnichannel Personalization
+December 1, 2020
+Miinto uses RichRelevance Personalization to Drive 47% Growth for Lockdown affected Independent Boutiques
+September 14, 2020
+Request a demo Find out why the largest brands rely on RichRelevance for their Omnichannel Personalization.
+REQUEST A DEMO
+Copyright © 2022 RichRelevance
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits
+By clicking “Accept”, you consent to the use of ALL the cookies.Read MoreCookie settingsACCEPTPrivacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website
+Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities...
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly
+This category only includes cookies that ensures basic functionalities and security features of the website
+These cookies do not store any personal information.
+Analytics
+Analytics
+Analytical cookies are used to understand how visitors interact with the website
+These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Targeting
+Targeting
+Targeting cookies are used to provide visitors with relevant ads and marketing campaigns
+These cookies track visitors across websites and collect information to provide customized ads.
+SAVE & ACCEPT

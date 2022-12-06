@@ -1,0 +1,411 @@
+Cookie policy | Informatica
+Informatica uses cookies to enhance your user experience, improve the quality of our website, and deliver advertising and other content tailored to your interests
+Some jurisdictions’ privacy laws offer their residents specific privacy rights, which we respect as described in our privacy policy
+To exercise rights that you may have related to cookies, including opt-out of sharing information with third parties for advertising purposes, select "More Info" or see this "Do Not Sell My Personal Information" link
+Accept Decline All More Info
+Skip to main content
+Informatica World Tour Virtual Fall Launch - November 17
+REGISTER NOW
+→
+About Us
+About Us
+News
+Investor Relations
+Leadership
+Awards & Recognition
+Careers
+Diversity and Inclusion
+Social Responsibility
+Contact Sales
+Pricing
+Contact and Locations
+Live Demos
+Support
+Certification & Training
+Customer Support
+Documentation
+Community
+Professional Services
+Success Offerings
+USA
+Argentina
+Australia
+Brazil
+Canada
+Chile
+China
+Columbia
+Costa Rica
+Ecuador
+France
+Germany
+Hong Kong
+India
+Italy
+Japan
+Korea
+Mexico
+Netherlands
+New Zealand
+Peru
+Portugal
+Southeast Asia
+Spain
+Sweden
+Switzerland (French)
+Switzerland (German)
+Taiwan
+United Kingdom
+United Arab Emirates
+United States
+More
+|
+Log Out
+Login
+Informatica Cloud
+Informatica Community
+Partner Portal
+your informatica account
+Login
+Sign Up
+ClearSearchLoading
+x
+Platform
+Ingest, integrate, and cleanse your data.
+Try Cloud Data Integration free for 30 days.
+Start now
+Intelligent Data Management Cloud
+Platform Trust
+Cloud Connectivity
+Pricing
+Solutions
+By Initiative
+Master Data Management & 360-Degree Views of the Business
+Analytics, AI & Data Warehouse & Lake
+iPaaS
+Application Integration & Hyperautomation
+Cloud Modernization
+Data Governance & Privacy
+Data Democratization
+Accelerate Data Science Projects
+Regulatory Compliance
+By Product
+Data Catalog
+Data Integration
+API & App Integration
+Data Quality
+MDM & 360 Applications
+Governance & Privacy
+Data Marketplace
+By Industry
+Higher Education
+Financial Services
+Energy and Utilities
+Government
+Healthcare
+Life Sciences
+Manufacturing
+Retail
+Telecommunications
+Customers
+Celcom accelerates 5G innovation with 30x faster integration
+read story
+Customer Success Stories
+Customer Advocacy Program
+Customer Reviews
+Partners
+Informatica Data Loader
+Access and load data quickly to your cloud data warehouse – Snowflake, Redshift, Synapse, Databricks, BigQuery – to accelerate your analytics.
+try for free
+Technology Partners
+Global Partners
+Regional Partners
+Become a Partner
+Partner Portal
+Engage
+Informatica World Tour
+Building the Intelligent Data Enterprise
+Virtual Launch Event - November 17
+Learn more
+Events
+Webinars
+Blogs
+Community
+Architecture Center
+Resources
+Learn Data Integration
+For Chief Data Officers
+Free Trial
+x
+Platform
+Intelligent Data Management Cloud
+Platform Trust
+Cloud Connectivity
+Pricing
+Solutions
+By Initiative
+Master Data Management & 360-Degree Views of the Business
+Analytics, AI & Data Warehouse & Lake
+iPaaS
+Application Integration & Hyperautomation
+Cloud Modernization
+Data Governance & Privacy
+Data Democratization
+Accelerate Data Science Projects
+Regulatory Compliance
+By Product
+Data Catalog
+Data Integration
+API & App Integration
+Data Quality
+MDM & 360 Applications
+Governance & Privacy
+Data Marketplace
+By Industry
+Higher Education
+Financial Services
+Energy and Utilities
+Government
+Healthcare
+Life Sciences
+Manufacturing
+Retail
+Telecommunications
+Customers
+Customer Success Stories
+Customer Advocacy Program
+Customer Reviews
+Partners
+Technology Partners
+Global Partners
+Regional Partners
+Become a Partner
+Partner Portal
+Engage
+Events
+Webinars
+Blogs
+Community
+Architecture Center
+Resources
+Learn Data Integration
+For Chief Data Officers
+About Us
+About Us
+News
+Investor Relations
+Leadership
+Awards & Recognition
+Careers
+Diversity and Inclusion
+Social Responsibility
+Contact Sales
+Pricing
+Contact and Locations
+Live Demos
+Support
+Certification & Training
+Customer Support
+Documentation
+Community
+Professional Services
+Success Offerings
+USA
+Argentina
+Australia
+Brazil
+Canada
+Chile
+China
+Columbia
+Costa Rica
+Ecuador
+France
+Germany
+Hong Kong
+India
+Italy
+Japan
+Korea
+Mexico
+Netherlands
+New Zealand
+Peru
+Portugal
+Southeast Asia
+Spain
+Sweden
+Switzerland (French)
+Switzerland (German)
+Taiwan
+United Kingdom
+United Arab Emirates
+United States
+More
+|
+Log Out
+Login
+Informatica Cloud
+Informatica Community
+Partner Portal
+your informatica account
+Login
+Sign Up
+x
+Free Trial
+Informatica Cookie Policy
+×
+Last updated: October 1, 2022
+Our Privacy Policy explains how we collect and use information from and about you when you visit our website or create an account with us
+This Cookie Policy explains more about how we use cookies and your choices concerning cookies.
+What are Cookies?
+Like most websites, we use cookies and similar technologies to remember things about you so that we can provide you with a better and more personalized experience.
+Cookies are small data files placed on your browser or device that store information about your use of websites and your online activity and identify your computer
+Cookies may contain data such as a unique identifier, site name, or information about you if you have previously provided it on the website
+Cookies may be served by the entity that operates the website you are visiting (“first-party cookies”) or by other companies (“third-party cookies”)
+For example, we partner with third-party analytics providers that set cookies when you visit our websites
+This helps us understand how you are using our Services so that we can improve them.
+Web beacons may be small images embedded on a web page or in an email
+Web beacons collect information about your browser or device and can set cookies.
+Local storage allows data to be stored locally on your browser or device and includes HTML5 local storage and browser cache.
+How We Use Cookies
+We use cookies for a number of reasons, like helping us see which features are most popular, counting visitors to a page, improving our users' experience, and keeping our services secure
+The cookies we use generally fall into one of the following categories.
+Category of cookies
+Why we use these cookies
+Required
+These cookies are essential for our websites and other services to function properly
+Like the other cookies we use, required cookies, also called technical cookies, may be either first-party cookies or third-party cookies
+Cookies to help identify and prevent security risks are required cookies and are set regardless of user preferences.
+Preferences or Functional
+We use these cookies to remember your settings and preferences, to collect information about how you interact with our websites and other services, and to help us improve them.
+For example, we may use these cookies to remember your language preferences, to determine if you have interacted with a certain page, or to learn more about which features are the most popular with our users and where we may need to make improvements
+Functional cookies may be first-party or third-party.
+Advertising
+We and our advertising partners use these cookies to deliver advertisements, to make advertisements more relevant and meaningful to visitors to our website, and to track the efficiency of our advertising campaigns, both on our services and on other websites.
+Your Choices
+Click here to understand the cookies and similar technologies that we and our partners use and to control or limit their placement, including for advertising
+Default settings may differ among jurisdictions to comply with applicable law
+Alternatively, you may set a global privacy control (GPC) signal in your browser to ensure that functional and advertising cookies are not set.
+Contact Us
+If you have any questions about our use of cookies, please contact us at privacy@informatica.com or at the following address:
+Informatica LLC
+Attn: General Counsel
+2100 Seaport Blvd
+Redwood City, CA 94063 U.S.A.
+Fax: 650-385-5500
+United States
+Argentina
+Australia
+Brazil
+Canada
+Chile
+China
+Columbia
+Costa Rica
+Ecuador
+France
+Germany
+Hong Kong
+India
+Italy
+Japan
+Korea
+Mexico
+Netherlands
+New Zealand
+Peru
+Portugal
+Southeast Asia
+Spain
+Sweden
+Switzerland (French)
+Switzerland (German)
+Taiwan
+United Kingdom
+United Arab Emirates
+United States
+Cloud Platform
+All Cloud Data Services
+Data Integration
+API & App Integration
+Customer 360
+Data Catalog
+Governance & Privacy
+Data Quality
+MDM & 360 Applications
+Cloud AI
+Pricing
+Get Started
+Free Trials
+Free Data Loader
+Live Demos
+Request Personal Demo
+Contact Sales
+Cloud Data Integration Trial
+Data Warehouse Trial
+Application Integration Trial
+Resources
+Events
+Blog
+Customer Success Stories
+For Chief Data Officers
+Community
+Documentation
+Certification & Training
+Cloud Data Glossary
+Learn Data Integration
+ETL
+Cloud Data Integration
+What is iPaaS? (Integration Platform as a Service)
+Data Warehouse
+Data Governance Framework
+Data Quality Basics
+Customer 360
+Application Integration
+Company
+About Us
+Careers
+News
+Investor Relations
+Awards & Recognition
+Contact Sales
+Customer Support
+ClearSearchLoading
+United States
+Argentina
+Australia
+Brazil
+Canada
+Chile
+China
+Columbia
+Costa Rica
+Ecuador
+France
+Germany
+Hong Kong
+India
+Italy
+Japan
+Korea
+Mexico
+Netherlands
+New Zealand
+Peru
+Portugal
+Southeast Asia
+Spain
+Sweden
+Switzerland (French)
+Switzerland (German)
+Taiwan
+United Kingdom
+United Arab Emirates
+United States
+© 2022 Informatica Inc.
+Legal
+Privacy Policy
+COVID-19 Statement
+Do not sell my personal information
+© 2022 Informatica Inc.

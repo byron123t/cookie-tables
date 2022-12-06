@@ -1,0 +1,327 @@
+Cookie PolicyCookie PolicyTo provide an epic website experience, we use cookies to personalize content and ads, to provide you with social media features and to analyze our traffic
+We also share information about your use of our site with our social media, advertising and analytics partners
+Cookies include required cookies, functional cookies, performance cookies, social media cookies, and Blizzard & Affiliate cookies
+You can learn more about the types of cookies collected and change your cookie settings at any time by clicking here.
+Cookie List
+A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information
+Those cookies are set by us and called first-party cookies
+We also use third-party cookies – which are cookies from a domain different than the domain of the website you are visiting – for our advertising and marketing efforts
+More specifically, we use cookies and other tracking technologies for the following purposes:
+Strictly Necessary Cookies
+These cookies are necessary for the website to function and cannot be switched off in our systems
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work
+These cookies do not store any personally identifiable information.
+Strictly Necessary Cookies
+Cookie Subgroup
+Cookies
+Cookies used
+account.blizzard.com
+SESSIONID
+,
+XSRF-TOKEN
+First Party
+cn.blizzard.com
+locale
+First Party
+careers.blizzard.com
+ext_trk
+,
+JSESSIONID
+,
+PLAY_SESSION
+First Party
+uk.gear.blizzard.com
+cart
+,
+cart_ver
+,
+currency
+First Party
+us.diablo3.blizzard.com
+ag
+First Party
+eu.gear.blizzard.com
+_secure_session_id
+,
+cart_currency
+,
+cart_sig
+,
+cart_ts
+,
+cookietest
+,
+dd_cookie_test_
+,
+secure_customer_sig
+First Party
+blizzard.com
+_orig_referrer
+,
+OptanonAlertBoxClosed
+,
+OptanonConsent
+First Party
+eu.forums.blizzard.com
+_forum_session
+First Party
+diablo2.blizzard.com
+_csrf
+,
+session
+,
+user
+First Party
+rum.optimizely.com
+AWSELBCORS
+Third Party
+diablo3.com
+OptanonAlertBoxClosed, OptanonConsent
+Third Party
+badge.fury.io
+_session_uuid
+Third Party
+battle.net
+OptanonConsent
+Third Party
+music.163.com
+JSESSIONID-WYYY
+Third Party
+cookielaw.org
+__cfduid
+Third Party
+onetrust.com
+__cfduid
+Third Party
+twitch.tv
+server_session_id, unique_id, unique_id_durable
+Third Party
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site
+They help us to know which pages are the most and least popular and see how visitors move around the site
+All information these cookies collect is aggregated and therefore anonymous
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+Performance Cookies
+Cookie Subgroup
+Cookies
+Cookies used
+blizzard.com
+__utma
+,
+__utmb
+,
+__utmc
+,
+__utmt
+,
+__utmz
+,
+_cd_cid_gid
+,
+_ga
+,
+_gat
+,
+_gat_UA-
+,
+_gclxxxx
+,
+_gid
+,
+_landing_page
+,
+_s
+,
+_schn
+,
+_shopify_s
+,
+_shopify_sa_p
+,
+_shopify_sa_t
+,
+_shopify_y
+,
+_uetvid
+,
+_y
+,
+optimizelyDomainTestCookie
+,
+optimizelyEndUserId
+,
+optimizelyPPID
+First Party
+rum.optimizely.com
+optimizelyRumLB
+Third Party
+snapchat.com
+sc_at
+Third Party
+akamaized.net
+_gid
+Third Party
+mc.yandex.ru
+yabs-sid
+Third Party
+nr-data.net
+JSESSIONID
+Third Party
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation
+They may be set by us or by third party providers whose services we have added to our pages
+If you do not allow these cookies then some or all of these services may not function properly.
+Functional Cookies
+Cookie Subgroup
+Cookies
+Cookies used
+cn.blizzard.com
+optimizelyUserId
+First Party
+eu.gear.blizzard.com
+localization
+First Party
+careers.blizzard.com
+gclid
+First Party
+blizzard.com
+_clck
+,
+_rdt_uuid
+,
+optimizelyOptOut
+First Party
+vimeo.com
+__cf_bm, vuid
+Third Party
+blz.cnc.blzstatic.cn
+optimizelyUserId
+Third Party
+battle.net
+optimizelyOptOut
+Third Party
+cdn.shopify.com
+cookietest
+Third Party
+music.163.com
+__ntes__test__cookies
+Third Party
+eu.shop.battle.net
+optimizelyOptOut
+Third Party
+www.clarity.ms
+CLID
+Third Party
+shop.battle.net
+optimizelyOptOut
+Third Party
+cdn.phenompeople.com
+gclid, overlayDismissed, P_REF_CNG, Per_UniqueID, PHPPPE_GCC
+Third Party
+d9me64que7cqs.cloudfront.net
+optimizelyUserId
+Third Party
+twitch.tv
+api_token, experiment_overrides, referrer_url
+Third Party
+Targeting Cookies
+These cookies may be set through our site by our advertising partners
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device
+If you do not allow these cookies, you will experience less targeted advertising.
+Targeting Cookies
+Cookie Subgroup
+Cookies
+Cookies used
+blizzard.com
+_clsk
+,
+_fbp
+,
+_scid
+,
+_shopify_evids
+,
+_uetsid
+First Party
+eu.gear.blizzard.com
+__kla_id
+,
+_dd_s
+First Party
+static-tracking.klaviyo.com
+__kla_id
+Third Party
+youtu.be
+CONSENT
+Third Party
+serving-sys.com
+ActivityInfo2, eyeblaster, u2
+Third Party
+linkedin.com
+AnalyticsSyncHistory, bcookie, lang, li_gc, li_sugr, lidc, lissc, UserMatchHistory
+Third Party
+bing.com
+MUID
+Third Party
+c.bing.com
+SRM_B
+Third Party
+akamaized.net
+_ga
+Third Party
+youtube.com
+CONSENT, YSC
+Third Party
+cdn.shopify.com
+_dd_s, _shopify_evids
+Third Party
+cdn.syndication.twimg.com
+lang
+Third Party
+cdn.weglot.com
+_dd_s
+Third Party
+yandex.ru
+i, yandexuid, ymex
+Third Party
+ads.linkedin.com
+lang
+Third Party
+doubleclick.net
+IDE, test_cookie
+Third Party
+www.datadoghq-browser-agent.com
+_dd_s
+Third Party
+www.linkedin.com
+bscookie
+Third Party
+twitter.com
+personalization_id
+Third Party
+static.klaviyo.com
+__kla_id
+Third Party
+blzstatic.cn
+_ga
+Third Party
+Privacy Preference CenterYour PrivacyStrictly Necessary CookiesPerformance CookiesFunctional CookiesTargeting CookiesYour PrivacyWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies
+This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to
+The information does not usually directly identify you, but it can give you a more personalized web experience
+Because we respect your right to privacy, you can choose not to allow some types of cookies
+Click on the different category headings to find out more and change our default settings
+However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More informationStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work
+These cookies do not store any personally identifiable information.Performance Cookies  Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site
+They help us to know which pages are the most and least popular and see how visitors move around the site
+All information these cookies collect is aggregated and therefore anonymous
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Functional Cookies  Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation
+They may be set by us or by third party providers whose services we have added to our pages
+If you do not allow these cookies then some or all of these services may not function properly.Targeting Cookies  Targeting Cookies These cookies may be set through our site by our advertising partners
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device
+If you do not allow these cookies, you will experience less targeted advertising.Back ButtonBack  Filter ButtonConsent Leg.Interest checkbox label label checkbox label label checkbox label labelClear checkbox label labelApply CancelConfirm My Choices Allow All

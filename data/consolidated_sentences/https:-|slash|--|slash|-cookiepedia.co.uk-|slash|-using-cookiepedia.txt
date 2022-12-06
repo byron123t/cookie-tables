@@ -1,0 +1,115 @@
+Using Cookiepedia | Cookiepedia
+All About Cookies
+What are Cookies?
+Types of Cookies
+Online Tracking Technologies
+The Benefits of Cookies
+Cookies and Online Privacy
+How to Manage Cookies
+Google Chrome
+Firefox
+Firefox (iOS)
+Firefox (Android)
+Safari (Desktop)
+Safari (Mobile)
+Microsoft Edge
+Internet Explorer
+Opera
+New Cookie Controls for Chrome
+IAB Legal Text
+EU Cookie Directive
+EU Cookie Directive
+Cookie Laws Across Europe
+Cookie Law in the UK
+Cookie Law Compliance Guidance
+Cookies Consent
+How To Complain About Cookies
+The Cookiepedia Database
+About Cookiepedia
+Using Cookiepedia
+How We Classify Cookies
+Cookies and Privacy Policy
+Free Website Scan
+website
+cookie
+3rd party host
+Using Cookiepedia: Cookie Attribute Data Explained
+When interpreting the results of a search, you need to understand what the different elements of data about cookies that we collect are
+This page is a guide to the different data we display about cookies in search results.
+Cookie Name:
+The ID of the cookie, in most browsers this will be the file name that stores the cookie's data.
+The name could be any combination of letters, numbers and some other characters – almost whatever the original developer wanted
+The name may give some indication of its intended purpose and the data it holds, but equally it could be completely random, possibly even misleading.
+The name on its own is no guarantee of uniqueness, so a cookie called ‘lang’ on one website, could be very different from one on another site with the same name
+However, some of the most common cookies are set by popular platforms and technologies, and in those instances the name alone can give you a high degree of certainty about its use and purpose.
+For example, the cookie ‘__utma’ is almost certainly always going to be from the Google Analytics service.
+URL Domain:
+Our cookie data is gathered by people using our free plug-ins, the Cookie Collector and Optanon Auditor
+The URL domain is the website the person was looking at when a particular cookie was captured
+It is therefore the website that the cookie was picked up on, but is not necessarily the site that sets or controls how that cookie works.
+Host:
+The host attribute of a cookie is a key piece of data - it tells you what domain the cookie is actually set and retrieved by
+It may be the website being visited, or it may be a completely different one
+Sometimes, if you try to visit a host domain and find there is nothing there, or it redirects to another website, this will tell you that the host was most likely set up specifically to manage cookies rather than provide an actual website.
+First/Third Party:
+A first party cookie will have the same Host and URL domain values
+If these are different then it is classified as third party
+It is possible for particularly common cookies to be found as being both first and third party, even on the same website
+However, even though they will have the same name - these will be two distinct cookies, because they are sending data to different places.
+Path:
+The path indicates whether or not the cookie is restricted to a particular folder in the host domain
+In most cases it will be '/' - indicating it can be set or read by any pages on the host domain
+Like with hosts – sometimes that same cookie name can have a different path for submitting its data
+Technically, this will make it a unique cookie.
+Secure Cookie:
+Some cookies are only transmitted over 'https' secure connections , though most are not
+If it is secure, then the contents are encrypted through the https connection when it is transmitted - which makes it less vulnerable to being intercepted.
+HTTP Only:
+Some cookies are only transmitted on an http (or https) connection, which prevents other programs or scripts (like Javascript) from reading the cookie
+It makes the cookie less vulnerable to malicious attempts to intercept it - but it does not remove the threat completely.
+Session/Persistent Cookie:
+If a cookie has not been given an expiry date, then it will be destroyed when the users browser is shut down - the browser session ends
+Otherwise the cookie will be saved until the expiry date - making it a persistent cookie.
+Life span:
+The expiry date of a cookie is determined at the point it is set - usually based on a fixed number of seconds from the time of its creation in the browser
+By recording the exact time the cookie was captured and reading the expiry date, we calculate how long the cookie is designed to persist for
+This is rounded to a number of full days simply to make it more readable
+Therefore some persistent cookies may have a length of 0 days - meaning they persist for less than 1 day.
+Purpose:
+The UK International Chamber of Commerce was the first organisation to produce guidance on how to categorise cookies so that consumers can best understand their purpose
+We use a slightly modified version of their system on Cookiepedia
+For more detail see How We Classify Cookies
+If we have not yet identified particular cookies, then the purpose will be Unknown.
+Other Information:
+Cookie Values:
+Actually the most important information about a cookie is the data it holds or its value
+This is what is used by the providers to fulfil whatever purpose a cookie has.
+Often the values are encrypted or encoded in such a way as to make it difficult to work out their purpose
+They also often just store a unique random string of numbers and letters, which is meaningless to anybody until it is tied back to other data stored by the cookie’s owners
+In this way a cookie value can be linked to an individual, even if it contains no personal information about them.
+However, many cookies can contain personal information in completely clear text – names, email addresses, dates of birth, and more.
+Therefore, Cookiepedia does not store the values of any of the cookies that we pick up data on
+We are not interested in the data about people, and we do not want to be another store of personal data
+So we only capture the data about the cookie, not its contents.
+The Cookiepedia Database
+About Cookiepedia
+Using Cookiepedia
+How we Classify Cookies
+Cookies and Privacy Policy
+Sign Up for Free
+Simplify compliance with ePrivacy and GDPR
+Cookie Banner
+Cookie Notice
+Website Scanner
+Cookie Preferences
+Records of Consent
+Do not Track
+Sign Up for Free
+Get started for free
+Upgrade anytime.
+© 2020 Cookiepedia
+All Rights Reserved.
+Cookie Notice |
+Privacy Notice |
+Terms of Use |
+Contact Us

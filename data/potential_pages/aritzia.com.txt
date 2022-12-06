@@ -1,0 +1,2 @@
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+https://policies.google.com/technologies/cookies

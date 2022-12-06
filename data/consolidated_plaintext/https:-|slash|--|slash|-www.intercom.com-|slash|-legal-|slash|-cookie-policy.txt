@@ -1,0 +1,1430 @@
+Cookie Policy | IntercomblankblankblankblankblankSkip to contentEnglish (United States)English (United States)GermanSpanishFrenchPortuguese (Brazil)Contact SalesSign inPlatformThe Intercom PlatformGet an overview of the Intercom platform—and see why we're known as the Engagement OS.Learn more MessengerSupport and engage customers with chat, messages, and moreManagement ToolsEfficiently manage all your customer interactions in one placeCustomer Data PlatformLeverage your customer data to personalize every interactionApps & IntegrationsIntegrate and extend Intercom with 300+ appsTop FeaturesLive ChatSupport BotsMessengerNewProduct ToursCampaign BuilderSolutionsUse CasesSupportDeliver personal customer support at any scaleEngageOnboard, activate, and re-engage customersConvertConvert more website visitors into customersIndustriesE-commerceFinancial ServicesEducationHealthcareCompany SizeEnterpriseSmall BusinessEarly StageWatch a DemoLearn how to use Intercom for support, marketing, and customer engagement.Watch a demoResourcesProduct HelpHelp CenterLearn how to install, set up, and use IntercomDeveloper HubLearn how to integrate or build on top of IntercomCommunity ForumLearn, share, and connect with other Intercom usersLearn & ConnectBlog & PodcastsStories about support, marketing, product, and moreBooks & WebinarsDiscover books, guides, and webinars full of insightsAcademyMaster Intercom with deep-dive courses from Intercom expertsCustomer StoriesDiscover how businesses like you use Intercom to support and engage customers.Read storiesPricingGet startedView demoTerms & PoliciesCookie PolicyTerms of ServicePrivacy PolicyData Processing AddendumSupport PolicyPremier Services PolicyCookie PolicySecurity PolicySubprocessors ListE.U. - U.S. and Swiss - U.S. Privacy Shield PolicyIntercom Website Terms of UseAcademy TermsService Level AgreementAcceptable Use PolicyHow We BillCode of ConductTrademark UsageIntercom Global Anti-Corruption StatementIntercom Partner Code of ConductIntercom DMCA PolicyLaw Enforcement GuidelinesIntercom European Data Hosting AddendumIntercom Australia Data Hosting AddendumIntercom Additional Product TermsTerms of ServiceDefinitionsIntercom ServicesCustomer Data and Customer ObligationsSecurityThird-Party Platforms and Third Party Messaging AppsOwnershipSubscription Term, Fees & PaymentTerm and TerminationLimited WarrantyAvailability and Service CreditsSupportLimitation of Remedies and DamagesIndemnificationConfidential InformationPublicityGeneral TermsPrivacy PolicyPurpose and ScopePersonal Data Collected by IntercomHow and Why We Use Your Personal DataSharing Your Personal DataRetention of Your Personal DataTransfers of Your Personal DataPrivacy ShieldHow We Store and Safeguard Personal DataYour Privacy Rights and ChoicesChildren’s PrivacyChanges to this Notice and QuestionsCollection and Use of Personal Data of California ResidentsData Processing AddendumSupport PolicyPremier Services PolicyCookie PolicyIntroductionCookies and similar technologies and the processing of personal dataWhat are cookies?Why do we use cookies?What type of cookies do we use and what are they used for?Security PolicyOverviewSecurity TeamBest PracticesInfrastructureDataData TransferAuthenticationPermissions and Admin ControlsApplication MonitoringSecurity Audits and CertificationsCustomer ResponsibilitiesSubprocessors ListE.U. - U.S. and Swiss - U.S. Privacy Shield PolicyIntercom Website Terms of UseAcceptance of TermsPermission to Use the SiteUser ContentRestrictions on User Content and Your ConductIntellectual Property Rights in User ContentUser Content You Post Becomes PublicWe Are Not Responsible for User ContentProprietary RightsEnforcement of CopyrightsNotify Us of InfringersHow to Communicate with UsSite AvailabilityLinks to Other SitesWarranty DisclaimerLimitation of LiabilityIndemnityTermination and SuspensionGoverning Law and Dispute ResolutionGeneral TermsAcademy TermsIntercom Academy TermsAccessParticipant ResponsibilitiesRestrictions on UseBadgesOwnershipFeedbackPrivacySuspension and TerminationDisclaimerModificationsIndependent ContractorsService Level AgreementAcceptable Use PolicyHow We BillBilling CycleOverages and CreditsEstimating Your Upcoming InvoiceCode of ConductHumanityEthicsReportingTrademark UsageIntercom Marks and LicensePermissible Use of the Intercom MarksImpermissible Use of the Intercom MarksTerminationOwnershipNo WarrantiesYour Liability for Third-Party ClaimsAdditional LegalQuestionsIntercom Global Anti-Corruption StatementSummaryBribery and KickbacksRecords and ReportingApplicability and EnforcementIntercom Partner Code of ConductLabor and Employment LawsAnti Corruption LawsCompetitionInternational Trade and Export ControlsRecordkeeping, Financial Integrity, and Honest and Accurate DealingsIntellectual Property and Confidential InformationRaising Issues and ConcernsCertification and ApplicationIntercom DMCA PolicyLaw Enforcement GuidelinesIntercom European Data Hosting AddendumScopeEDH ServicesCustomer ObligationsSurvivalExhibit AIntercom Australia Data Hosting AddendumIntercom Additional Product TermsCookie PolicyPrint pageEffective day 7 December 2020To review or manage your cookie consent choices and for a list of the cookies and similar technologies that we use when you visit our Websites or use our Messenger (as defined below) as well as a description of the purposes and the duration that they will stay on your browser or device please click here.
+Introduction
+This Cookie Policy explains how Intercom, Inc. and its affiliates, including without limitation Intercom R&D Unlimited Company (collectively "Intercom", "we", "us", and "ours"), use cookies and similar technologies to recognize you when you visit our websites, including without limitation www.intercom.com, www.intercom.io, app.intercom.com, app.intercom.io and any related URLs, mobile or localized versions and related domains / sub-domains ("Websites"), and interact with any of Intercom's messenger domains (including widget.intercom.io and api-iam.intercom.io) (the " Messenger"). It explains what these technologies are and why we use them, as well as the choices for how to control them.
+Cookies and similar technologies and the processing of personal data
+We may process personal data about you when we use cookies or similar technologies, for example, your IP address, username, unique identifier, or an email address. Where we do so we will only process your personal data in compliance with our Privacy Policy. You can read about how and why we collect your personal data, who we may share your personal data with and how you can exercise your rights under applicable data protection law here.
+What are cookies?
+Cookies are small data files that are placed on the browser on your computer or mobile device when you visit a website and use its functions, or use an app. Cookies are widely used by online service providers to facilitate and help to make the interaction with users faster and easier (by helping us to distinguish between you and other users and enabling us to retrieve things like your settings and preferences), as well as to provide reporting information and facilitate online advertising.
+Cookies set by Intercom on the Websites and the Messenger are called "first party cookies". Cookies on the Websites set by parties other than Intercom are called "third party cookies". Third party cookies enable third party features or functionality to be provided on or through the Websites (e.g. advertising, interactive content and analytics).
+Why do we use cookies?
+We use first party and/or third party cookies on our Websites and Messenger for various purposes such as:
+
+to facilitate the operation and functionality of our Websites and the Messenger;
+to improve your experience of our Websites and make navigating around them quicker and easier;
+to allow us to make a bespoke user experience for you and for us to understand what is useful or of interest to you;
+to analyze how our Websites are used and how best we can customize them;
+to identify future prospects and personalize marketing and sales interactions with them;
+to facilitate the tailoring of online advertising to your interests.
+
+What type of cookies do we use and what are they used for?
+We use the following types of cookies in our Websites and/or Messenger:
+Essential Cookies
+We use essential cookies to make our Websites work. These cookies are strictly necessary to enable core functionality such as security, network management, your cookie preferences and accessibility. Without them you wouldn't be able to use basic services. You may disable these by changing your browser settings, but this may affect how the Websites function.
+Performance and functionality cookies
+These cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use. However, without these cookies, certain functionality like videos may become unavailable or you would be required to enter your login details every time you visit the Websites as we would not be able to remember that you had logged in previously.
+Marketing cookies
+These account-based marketing cookies enable us to identify future prospects and personalize sales and marketing interactions with them.
+Analytics and customization cookies
+These cookies collect information that is used to help us understand how our Websites are being used or how effective our marketing campaigns are, or to help us customize our Websites for you.
+We use cookies served by Google Analytics to collect limited data directly from end-user browsers to enable us to better understand your use of our Websites. Further information on how Google collects and uses this data can be found at: https://www.google.com/policies/privacy/partners/. You can opt-out of all Google supported analytics on our Websites by visiting: https://tools.google.com/dlpage/gaoptout.
+We use Hotjar in order to better understand your use of our Websites, to optimize our Websites and to improve your experience. For further details, please see Hotjar’s privacy policy which can be found here: https://www.hotjar.com/legal/policies/privacy. You can opt-out of all Hotjar supported analytics and data collection on our Websites by visiting: https://www.hotjar.com/legal/compliance/opt-out.
+Advertising cookies
+These cookies collect information over time about your online activity on the Websites and other online services to make online advertisements more relevant to you. This is known as interest-based advertising. They also perform functions like preventing the same ad from continuously reappearing and ensuring that ads are properly displayed for advertisers.
+Here is a list of the cookies we use on our Website and Messenger and why:
+
+
+
+
+
+        Name
+      
+
+        Service
+      
+
+        Domain
+      
+
+        Domain Found
+      
+
+        Duration
+      
+
+        Description
+      
+
+
+
+        Essential
+      
+
+        intercom-id-tx2p130c
+      
+
+        Intercom
+      
+
+
+ intercom.com
+
+
+
+
+  app.intercom.com
+
+
+
+        9 Months
+      
+
+
+Allows visitors to see any conversations they've had on Intercom websites. 
+
+
+
+
+        intercom-session-tx2p130c
+      
+
+        Intercom
+      
+
+
+ intercom.com
+
+
+
+
+  app.intercom.com
+
+
+
+        7 days (from each log in)
+      
+
+Allows users to access their conversations and have data communicated on logged out pages for 1 week.
+
+
+
+
+        __stripe_mid
+      
+
+        Stripe
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        1 yr
+      
+
+
+Facilitates Stripe payments on Intercom websites.
+
+
+
+
+
+        _intercom_session
+      
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        Session
+      
+
+
+Remembers a user's session in the Intercom product.
+
+
+
+
+
+        recent_write
+      
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        1 second
+      
+
+
+Prevents read after write bugs.
+
+
+
+
+
+        admin_features_last_opt_in
+      
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        Session
+      
+
+
+Remembers a user's settings in the Intercom product.
+
+
+
+
+
+        embercom_host
+      
+
+        Intercom
+      
+
+
+ www.intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        Session
+      
+
+
+Sets whether the environment is development or
+            production.
+
+
+
+
+
+        Embercom_host
+      
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        Session
+      
+
+
+Sets whether the environment is development or
+            production.
+
+
+
+
+
+        gtm_id
+      
+
+        Intercom
+      
+
+
+ intercom.com
+
+
+
+
+  app.intercom.com
+
+
+
+        1 Year
+      
+
+
+Tracks how to interact with Intercom websites and ensures you
+            are seeing page states that are relevant to your
+            experience.
+
+
+
+
+
+        product_store_identifier
+      
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        1 yr
+      
+
+
+To remember a user's settings in the Intercom
+            product.
+
+
+
+
+
+        mutiny.user.token
+      
+
+        Mutiny
+      
+
+        intercom.com
+      
+
+        intercom.com
+      
+
+        3 yrs
+      
+
+
+Used to show personalised content to each website visitor.
+
+
+
+
+
+        mutiny.user.session
+      
+
+        Mutiny
+      
+
+        intercom.com
+      
+
+        intercom.com
+      
+
+        30 minutes
+      
+
+
+
+        mutiny.user.session_number
+      
+
+        Mutiny
+      
+
+        intercom.com
+      
+
+        intercom.com
+      
+
+        30 minutes
+      
+
+
+
+
+Performance and functionality cookies
+
+
+
+        __cfduid
+      
+
+        Pingdom
+      
+
+
+ pingdom.net
+
+
+
+
+ intercom.com
+
+
+
+        1 Month
+      
+
+        Availability monitoring.
+      
+
+
+
+        Marketing cookies
+      
+
+        6suuid
+      
+
+        6Sense
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        2 Years
+      
+
+
+To associate visitors with an account (company) and perform analytics to help identify companies that may be in-market to purchase the customer’s products and services.
+
+
+
+
+
+        __cf_bm
+      
+
+        Marketo
+      
+
+
+ app-ab27.marketo.com
+
+
+
+
+ intercom.com
+
+
+
+        Expired
+      
+
+
+Cloudflare bot detection cookie.
+
+
+
+
+
+        __cfduid
+      
+
+
+ app-ab27.marketo.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Month
+      
+
+
+Cloudflare malicious visitors detection cookie.
+
+
+
+
+
+        _mkto_trk
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        2 Years
+      
+
+
+Measures campaign effectiveness. 
+
+
+
+
+
+
+BIGipServerab27web-nginx-app_https
+
+
+
+
+ app-ab27.marketo.com
+
+
+
+
+ intercom.com
+
+
+
+        Session
+      
+
+        Load balancing.
+      
+
+
+
+        cb_anonymous_id
+      
+
+        Clearbit
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+Tracks page views and traits for Clearbit.
+          
+
+
+
+
+
+        cb_group_id
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        cb_user_id
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        cb%3Atest
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        connect.sid
+      
+
+
+ js.clearbit.com
+
+
+
+
+ intercom.com
+
+
+
+        Session
+      
+
+
+
+        rack.session
+      
+
+
+ marketo.clearbit.com
+
+
+
+
+ intercom.com/blog
+
+
+
+        1 Month
+      
+
+
+
+
+Analytics and customization cookies
+
+
+
+        optimizelyDomainTestCookie
+      
+
+        Optimizely
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        6 Months
+      
+
+
+Enables A/B testing. 
+
+
+
+
+
+        optimizelyEndUserId
+      
+
+
+ www.intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        6 Months
+      
+
+
+
+        pageviewCount
+      
+
+        Intercom
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Month
+      
+
+        Visit counts.
+      
+
+
+
+        _ga
+      
+
+        Google Analytics
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        2 Years
+      
+
+
+Google Analytics is a web analytics service offered by Google
+            that tracks and reports website traffic.
+
+
+
+
+
+
+_gat_xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        Expired
+      
+
+
+
+        _gclxxxx
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        3 Months
+      
+
+
+
+        _gid
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 day
+      
+
+
+
+        _gaclientid
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        30 minutes
+      
+
+
+
+        _gasessionid
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        30 minutes
+      
+
+
+
+        _gahitid
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        30 minutes
+      
+
+
+
+        _dc_gtm_UA-xxxxxxxx
+      
+
+        Google Tag Manager
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        Expired
+      
+
+
+Enables Google Tag Manager to load other scripts and code into
+            a page.
+          
+
+
+
+
+
+        _hjCachedUserAttributes
+      
+
+        Hotjar
+      
+
+
+ script.hotjar.com
+
+
+
+
+ intercom.com
+
+
+
+        Expired
+      
+
+
+Website optimisation.
+
+
+
+
+
+        _hjid
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        11 Months
+      
+
+
+
+        _hjTLDTest
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        Session
+      
+
+
+
+        dd_s
+      
+
+        Datadog
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        15 minutes
+      
+
+
+Measurement of website performance.
+
+
+
+
+
+        dd_rum_test
+      
+
+        Datadog RUM
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        15 minutes
+      
+
+
+
+        Advertising
+      
+
+        bcookie
+      
+
+        LinkedIn
+      
+
+
+ linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        2 Years
+      
+
+
+Retargeting to users after they leave Intercom's
+            websites.
+
+
+
+
+
+        bscookie
+      
+
+
+ www.linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        2 Years
+      
+
+
+
+        lang
+      
+
+
+ linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        Session
+      
+
+
+
+        lidc
+      
+
+
+ linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        1 days
+      
+
+
+
+        lissc
+      
+
+
+ linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        UserMatchHistory
+      
+
+
+ linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Month
+      
+
+
+
+        uuid2
+      
+
+        Ad Nexus
+      
+
+        adnxs.com
+      
+
+
+ intercom.com
+
+
+
+        3 Months
+      
+
+
+
+        _uetsid
+      
+
+        Bing
+      
+
+        .intercom.com
+      
+
+
+ intercom.com
+
+
+
+        30 minutes
+      
+
+
+
+        MUID
+      
+
+
+ bing.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        _fbp
+      
+
+        Facebook Ads
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        3 Months
+      
+
+
+
+        fr
+      
+
+
+ facebook.com
+
+
+
+
+ intercom.com
+
+
+
+        3 Months
+      
+
+
+
+        IDE
+      
+
+        Google Ads
+      
+
+
+ doubleclick.net
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        TDID
+      
+
+        TheTradeDesk
+      
+
+
+ adsrvr.org
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        TDCPM
+      
+
+
+ adsrvr.org
+
+
+
+
+ intercom.com
+
+
+
+        5 Years
+      
+
+
+
+        TTDOptOut
+      
+
+
+ adsrvr.org
+
+
+
+
+ intercom.com
+
+
+
+        5 Years
+      
+
+
+
+        tuuid
+      
+
+        Demandbase
+      
+
+
+ demandbase.com
+
+
+
+
+ intercom.com
+
+
+
+        1 year
+      
+
+
+
+        IUUID
+      
+
+
+ demandbase.com
+
+
+
+
+ intercom.com
+
+
+
+        1 year
+      
+
+
+Messenger Cookies
+These performance and functionality cookies allow interaction with the Messenger (on domains widget.intercom.io and api-iam.intercom.io). These cookies allow this interaction by remembering who you are and providing access to previous conversations you've had through the Messenger.
+
+
+
+Messenger Cookies
+intercom-id-[app_id]
+Intercom Messenger
+widget.intercom.io  api-iam.intercom.io
+widget.intercom.io  api-iam.intercom.io
+9 months
+Anonymous visitor identifier cookie. As people visit your site they get this cookie.
+
+
+intercom-session-[app_id]
+Intercom Messenger
+widget.intercom.io  api-iam.intercom.io
+widget.intercom.io  api-iam.intercom.io
+1 week (from each log-in)
+Identifier for each unique browser session. The user can access their conversations and have data communicated on logged out pages for 1 week, as long as the session isn't intentionally terminated with `Intercom('shutdown');`, which usually happens on logout.
+
+
+
+Academy cookies
+These cookies allow interaction with the Academy (on domains academy.intercom.com, academy.guests.intercom.com, partneracademy.intercom.com and earlystageacademy.intercom.com). These cookies allow remembering who you are and providing access to the courses in the academy. They are only set in your browser if you visit any of the specified domains.
+
+
+
+Cookie name
+Cookie type
+Duration
+Description
+
+
+sj_sessionid
+Essential
+24 hours
+A session cookie, required for maintaining logged-in sessions between pageviews.
+
+
+sj_csrftoken
+Essential
+1 year
+CSRF protection cookie, required to validate any POST request from the user’s browser.
+
+
+sj_ubid
+Essential
+20 years
+Cookie used for application debugging of requests from the same browser.
+
+
+cookietest
+Essential
+
+Used to determine what features are available on the frontend; comes from the Modernizer library. It is used to detect that the browser is not blocking any cookies. If blocked, it could potentially cause the training site to load with incorrect styling.
+
+
+_gat_skilljarTracker
+Analytics
+2 years
+Google Analytics Cookie – not essential, placed by the Google Analytics code snippet.
+
+
+sj_lp
+Essential
+1 year
+Stores the user's localization preference so the correct language is displayed.This cookie is only set when the user switches their preferred language from the domain's default language. Its value is a unique, encrypted string that informs the platform which language to use when rendering the training domain. The cookie does not collect any user details besides their preferred language which is explicitly set by the user. The platform does not use this cookie data for any tracking or data collection purposes.
+
+
+auth_xxxx_yyyy
+Essential
+60 seconds
+xxxx_yyyy will be different per set of content. Enables SCORM CDN acceleration and controls access to course content.
+
+
+Cloudfront-Policy
+Essential
+14 days
+Used by Cloudfront CDN to control access to course content.
+
+
+Cloudfront-Signature
+Essential
+14 days
+Used by Cloudfront CDN to control access to course content.
+
+
+Cloudfront-Key-Pair-Id
+Essential
+14 days
+Used by Cloudfront CDN to control access to course content.
+
+
+
+Interconnected cookies
+These performance and functionality cookies allow interaction with the community forum on the domain forum.intercom.com.
+
+Cookie NameDurationCookie TypeDescription_ga2 YearsFunctionalA third-party cookie that’s used if the site admin chooses to track site users with a Google Analytics tracking ID.{UserId}_KMPage1 DayFunctionalIn Salesforce Classic, used to read the last user selection for 'Find in View', 'Article Language', {DataCategory}, and 'Validation Status' in Article Management.{UserId}_KnowledgePageDispatcherSessionFunctionalIn Salesforce Classic, used to remember the user selection to determine whether to show 'Articles' or 'My Drafts' view in Knowledge.{UserId}_KnowledgePageFilter{DataCategory}SessionFunctionalIn Salesforce Classic, used to remember the last user selection for data category filter in Knowledge.{UserId}_KnowledgePageFilterArticleArticleTypeSessionFunctionalIn Salesforce Classic, used to remember the last user selection for article type filter for 'Articles' view in Knowledge.{UserId}_KnowledgePageFilterArticlePublishStatusSessionFunctionalIn Salesforce Classic, used to remember the last user selection for publish status filter for 'Articles' view in Knowledge.{UserId}_KnowledgePageFilterArticleValidationStatusSessionFunctionalIn Salesforce Classic, used to remember the last user selection for validation status filter for 'Articles' view in Knowledge.{UserId}_KnowledgePageFilterLanguageSessionFunctionalIn Salesforce Classic, used to remember the last user selection for language filter in Knowledge.{UserId}_KnowledgePageFilterMyDraftArticleTypeSessionFunctionalIn Salesforce Classic, used to remember the last user selection for article type filter for 'My Drafts' view in Knowledge.{UserId}_KnowledgePageFilterMyDraftPublishStatusSessionFunctionalIn Salesforce Classic, used to remember the last user selection for publish status filter for 'My Drafts' view in Knowledge.{UserId}_KnowledgePageFilterMyDraftValidationStatusSessionFunctionalIn Salesforce Classic, used to remember the last user selection for validation status filter for 'My Drafts' view in Knowledge.{UserId}_KnowledgePageSortFieldArticleSessionFunctionalIn Salesforce Classic, used to remember the last user selection for 'Sort by' for 'Articles' view in Knowledge.{UserId}_KnowledgePageSortFieldMyDraftSessionFunctionalIn Salesforce Classic, used to remember the last user selection for 'Sort by' for 'My Drafts' view in Knowledge.{UserId}_spring_KmMlAnyoneDraftArticlesList1 DayRequiredIn Salesforce Classic, used to configure layout properties for Draft Articles view in Article Management.{UserId}_spring_KmMlArchivedArticlesList1 DayRequiredIn Salesforce Classic, used to configure layout properties for 'Archived Articles' in Article Management.{UserId}_spring_KmMlMyDraftArticlesList1 DayRequiredIn Salesforce Classic, used to configure layout properties for 'Draft Articles' assigned to 'Me' in Article Management.{UserId}_spring_KmMlMyDraftTranslationsList1 DayRequiredIn Salesforce Classic, used to configure layout properties for 'Draft Translations' in Article Management.{UserId}_spring_KmMlPublishedArticlesList1 DayRequiredIn Salesforce Classic, used to configure layout properties for 'Published Articles' in Article Management.{UserId}_spring_KmMlPublishedTranslationsList1 DayRequiredIn Salesforce Classic, used to configure layout properties for 'Published Translations' in Article Management.<namespace>_sidSessionRequiredIdentify Live Agent session. Stores a unique pseudonymous ID for a specific browser session over chat service.activeViewSessionFunctionalIn Salesforce Classic, used to remember the last user selection for 'Articles' or 'Translations' tab in Article Management.alohaEpt90 SecondsFunctionalUsed to calculate the ExperiencePageTime on Salesforce Classic pages.apex__EmailAddress1 YearRequiredCaches contact IDs associated with email addresses.auraBrokenDefGraph1 WeekFunctionalUsed to track when the Lightning page has malformed HTML.autocomplete60 DaysFunctionalDetermines if the login page remembers the user's username.BAYEAX_BROWSERExpired on CreationRequiredIdentify a unique browser subscribed to CometD streaming channels.BrowserId1 YearRequiredUsed for security protections.BrowserId_sec1 YearRequiredUsed for security protections.caPanelStateSessionFunctionalSaves the open, closed, and height percent states of the calendar panel.calViewStateSessionFunctionalSets the inline calendar date state in Salesforce Classic (current week selected).clientSrcSessionRequiredUsed for security protections.communityIdSessionRequiredCookie set to tie the ideas to a specific Experience Cloud site.CookieConsent1 YearRequiredUsed to apply end-user cookie consent preferences.CookieConsentPolicy1 YearRequiredUsed to apply end-user cookie consent preferences set by our client-side utility.cookieSettingVerifiedSessionRequiredUsed to create popup message telling users cookies are required.cordovaVersionSessionRequiredUsed for internal diagnostics with mobile applications.cqcid1 YearFunctionalUsed to track guest shopper's browsing activity.csssidSessionRequiredUsed to establish a request context in the correct tenant org.csssid_ClientSessionRequiredEnables user switching.devOverrideCsrfTokenSessionRequiredCSRF Token.discoSessionRequiredTracks the last user login and active session for bypassing login (ex: OAuth immediate flow).<userId>expid_[site prefix]30 DaysFunctionalUsed to render pages based on specified brand.force-proxy-stream3 HoursRequiredEnsure client requests hit the same proxy hosts and are more likely to retrieve content from cache.force-stream180 MinutesRequiredUsed to redirect server requests for sticky sessions.FedAuthSessionRequiredFor the SharePoint connector, used to authenticate to the top-level site in SharePoint.gTalkCollapsed1 YearRequiredControls if the sidebar in Salesforce Classic is open or not for a user.hideDevelopmentToolsSessionFunctionalUsed to determine whether to show the developer tools.hideFilesWarningModal50 YearsFunctionalStores user acknowledgment that a public link to a Salesforce file is on email send. The warning window isn't continually shown after the user acknowledges this action.hideIdentityDialog1 YearFunctionalHides the dialog box that informs that the current user is out when switching to another user.idccsrf3 MonthsRequiredTracks CrossSiteRequestForgery validation for certain SSO flows.ideaToggleSessionFunctionalShow 'Ideas' list view or 'Feed' list view.instSessionRequiredUsed to redirect requests to an instance when bookmarks and hardcoded URLs send requests to a different instance. This type of redirect can happen after an org migration, a split, or after any URL update.iotcontextsplashdisable10 YearsFunctionalFor the IoT product, stores user preference of whether to show Context Splash popup.languageSessionRequiredIdentifies the language for custom components, surveys, and flows, which support multiple languages. Without this cookie, translations for custom features can appear incorrectly.lastlistSessionRequiredUsed to store the cookie name for the last list URL.liveagent_invite_rejected_SessionFunctionalDon't reissue an invitation on the same domain. Deletion of this cookie degrades customer experience as they can get repeated invitations.liveagent_sidSessionRequiredIdentify Live Agent session. Stores a unique pseudonymous ID for a specific browser session over chat service.lloopch_loid1 YearRequiredDetermine whether to send the user to a specific portal login or an app login.login60 DaysFunctionalUsed to fetch the username and populate it on the main login page when using the process builder app if the user's session has expired.logouturlSessionFunctionalStores the last logged in org for redirecting requests. Used for logging whether the cookie is present in site and community guest-user requests.oid2 YearsRequiredStores the last logged in org for redirecting requests. Used for logging whether the cookie is present in site and community guest-user requests.oinfo3 MonthsFunctionalTracks the last logged in org.pc-unit1 YearFunctionalSets preference for displaying platform cache units to either MB or KB.pctrkSessionRequiredUsed to track unique page visitors in Experiences.PicassoLanguageSessionRequiredUsed to store a user’s language selection for this Experience Builder site. The site doesn’t load without this cookie if the user changes the site’s language.promptTestMod30 DaysRequiredStores whether test mode is in effect. This cookie read-only.redirectionWarning1 YearFunctionalEnable customer to store URLs that are exempt from setting a redirect warning interstitial page on an allowlist.renderCtxSessionRequiredUsed to store site parameters in the session for reuse across requests by a single client for functionality and performance reasons.RRetURLSessionRequiredUsed with 'Log in As' to restore the original state.RRetURL2SessionRequiredThe return URL to redirect to when logging out of a session.RSIDSessionRequiredSession ID and login-as session ID. In this case the cookies are copied to the response and in a proxy situation cause the target URL to rebuild appropriately. The cookies aren't created, examined, or modified.schgtclose0FunctionalDeprecated feature, not used.sfdc-stream3 hoursRequiredUsed to properly route server requests within Salesforce infrastructure for sticky sessions.showNewBuilderWarningMessage100 yearsFunctionalUsed to show or hide a warning message for the new dashboard builder.sidSessionRequiredSessionID.sid_ClientSessionRequiredUsed to detect and prevent session tampering.sidebarPinned10 YearsRequiredControls the state of the Salesforce Classic sidebar.ssostartpage1 YearRequiredIdentifies the IdP location for SSO; certain service provider initiated SSO requests can fail without this cookie.SUCSPSessionRequiredUsed when the user identity that an administrator is assuming (via Log in to Experience as User) is a Customer Success Portal (CSP) user.SUPRMSessionRequiredUsed when the user identity that an administrator is assuming (via Log in to Experience as) is a Partner Relationship Management (PRM) portal user.tExpired on CreationFunctionalUsed to avoid duplicate access checks.useStandbyUrlNot SetRequiredControls how quickly to set the standby URL when loading the softphone.waveUserPrefFinderListView100 YearsFunctionalPreference for displaying list views in Tableau CRM.waveUserPrefFinderLeftNav100 YearsFunctionalPreference for left navigation UI in Tableau CRM.webact1 YearFunctionalUsed to collect metrics per page view for personalization.WelcomePanel1 DayFunctionalStores Experience Cloud preferences.52609e00b7ee307eSessionRequiredBrowser Fingerprint cookie. Used to detect session security problems.79eb100099b9a8bfSessionRequiredBrowser Fingerprint trigger cookie. Used to detect session security problems.
+
+We may use other similar technologies too, like web beacons, tags, pixels, clear gifs, caching and local browser storage.
+Cookies are not the only way to recognize or track visitors. We may use other, similar technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs"). Their function is to provide us with statistical information about site traffic and how people navigate through our site, as well as to facilitate marketing and interest-based advertising. Web beacons are typically transparent graphic images placed on a site. Web beacons are used in combination with cookies to measure the actions of visitors on websites and so declining cookies will impair their functioning. We and our marketing and advertising partners may use web beacons to obtain information such as the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page.
+We may also use web beacons in marketing emails sent by our system. If you receive the HTML formatted version of such emails and your email is configured to download images, a record of whether or not you open the email (and, if you open the email, how frequently you open it) will be saved with your subscriber history. Your engagement with the content of the communication (such as which links you click on) will also be recorded.
+We also use caching and local storage in your browser to store personalization settings such as your language and which tabs you were last viewing inside our product. This allows us to enhance your experience and resume sessions where you left off.
+We may use this information to give us an indication of the popularity of content and to help us make decisions about future content and formatting. We may also use the information to publish more content relevant to users in future issues and to unsubscribe recipients who haven't opened our emails for a period of time.
+Third party cookies
+Some cookies that have been set on our Websites are not set on a first party basis by Intercom. The Websites can be embedded with content from third parties to serve advertising. These third party service providers may set their own cookies on your web browser. Third party service providers control many of the performance and functionality, advertising, marketing and analytics cookies described above. We do not control the use of these third party cookies as cookies can only be accessed by the third party that originally set them.
+For a list of third party cookies used in our Websites and why see this table.
+Controlling cookies and similar technologies - E.U users
+You can set and change your preferences, at any time, by clicking here.
+Blocking and disabling cookies and similar technologies
+Wherever you're located you may also set your browser to block cookies and similar technologies, but this action may block our essential cookies and prevent our website from functioning properly, and you may not be able to fully utilize all of its features and services. You should also be aware that you may also lose some saved information (e.g. saved login details, site preferences) if you block cookies on your browser. Different browsers make different controls available to you. Disabling a cookie or category of cookie does not delete the cookie from your browser, you will need to do this yourself from within your browser, you should visit your browser's help menu for more information.
+Targeted advertising
+You can opt-out of interest-based advertising facilitated by the cookies on our Websites by opting out of advertising cookies, by clicking here. In addition, you can opt-out of interest-based advertising from participating members of the following advertising industry associations:
+
+Network Advertising Initiative
+Digital Advertising Alliance (website ads) or youronlinechoices.com (if you are in Europe)
+Digital Advertising Alliance (ads in mobile apps)
+
+Not all companies that serve targeted ads participate in these opt-out programs, so even after opting-out, you may still receive some cookies and interest-based advertisements from other companies. If you opt-out of targeted ads, you will still see advertisements online but they may be less relevant to you.
+You can also use your mobile device settings to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes.
+You will need to apply all of the settings described above on each device on which you want the settings to be applied.
+Updates to this Cookie Policy
+We may update this Cookie Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons. Please therefore re-visit this Cookie Policy regularly to stay informed about our use of cookies and related technologies.
+The date at the top of this Cookie Policy indicates when it was last updated.
+If you need further information
+If you have any questions about our use of cookies or other technologies, please email us at team@intercom.io.sSitemapPricingUse CasesSupportEngageConvertCompany SizeMid-Market / EnterpriseSmall BusinessEarly StageIndustriesFinancial ServicesE-commerceEducationHealthcareFeaturesBusiness MessengerCustomizable botsAutomated answersProduct ToursOutbound MessagesInboxHelp Center ArticlesAccount Based MarketingManagement ToolsApps + IntegrationsCustomer dataLive ChatMobile AppsMobile CarouselsSeriesTransactional MessagingSurveysSwitchSMSResourcesBlogWatch a DemoGlossaryAcademyWebinarsWhat's NewProduct ChangesApp StoreDocsDevelopersStatusSecurityBooks and GuidesSupport ROI CalculatorServicesCompanyAboutCustomersCommunity ForumCareersNewsroomApp Partner ProgramService Partner ProgramContact UsTermsPrivacyFrom the blogSolving the Innovator’s Dilemma: How successful companies are embracing innovation unitsIntercom’s product principles: What you ship is what mattersAnnouncing Intercom for Enterprise: A whitepaper exploring how we enable large companies to support their customersSurfboard founder Natasha Ratanshi-Stein on riding the wave of planning software for supportRead more🌎 Choose your languageEnglish (United States)GermanSpanishFrenchPortuguese (Brazil)TermsPrivacyStatusSecurity

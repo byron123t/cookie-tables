@@ -1,0 +1,3 @@
+https://leanpub.com/privacy
+https://aws.amazon.com/privacy/
+https://aws.amazon.com/legal/cookies/

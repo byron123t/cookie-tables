@@ -1,0 +1,215 @@
+  Privacy Policy – AdKernel  
+   
+ 
+
+Skip to contentAdKernelUniversal Ad Technology Platform
+
+    Menu	WHITE-LABEL SOLUTIONS
+ABOUT
+OUR SUPPORT PROMISE
+EXPLORE PRODUCT SUITES    Expand child menu
+White-Label RTB Ad Server
+White-Label PPC Ad Server
+White-Label DSP
+White-Label Header Bidding
+
+GET STARTEDPrivacy PolicyWhat do we doAdkernel is a technology platform that facilitates the ‘bidded’ buying and selling of online media advertising inventory for publishers, advertisers, advertising agencies and advertising networks.We recognize privacy is important to our users. This policy describes how and why Adkernel, collects non-personally identifiable data (anonymous data) from users and website visitors, publishers and end users of publisher sites to Adkernel (http://www.adkernel.com), and how that data will be used. Adkernel is committed to respecting the privacy of non-personal identifiable data and anonymous user data gathered. If you would prefer not to have Adkernel serve you relevant ads, you may opt-out here:iOS opt-outAndroid opt-outIf you do so, you will continue to see ads, but they will not be targeted based on your online activity.Information We CollectAnonymous User Information (Data)Non-personal information is any information that does not personally identify you. We obtain non-personal information about you from information that you provide to us (anonymous information may be automatically provided to our Web servers by your computer). This information is collected when Publishers, advertisers, and ad networks use the Adkernel Platform.Additionally, certain other information (such as cookies, described below) may be transmitted by our Web server to your computer. That information does not contain any personally identifiable information. Specific types of anonymous information are described below:User InformationAs part of our ad delivery and reporting, we log page views and bid requests and collect information for the purpose of delivering ads or providing advertising-related services, including providing a specific advertisement based on a particular type of browser or time of day; statistical reporting in connection with the activity on a Web site; and tracking the number of ads served on a particular day to a particular Web site(tracking web analytics data). To do so, we collect information about the type of browser, referrer and operating system of Web site visitors, as well as the domain name, day and time of visit, and page(s) visited. We do so across multiple Web domains owned or operated by different entities (each, a “Site”).Cookies and Log FilesWe use Cookies to serve advertisements to users. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors.If you are concerned about cookies, most browsers permit individuals to decline cookies. For details of our cookies please refer to our user cookies.In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems.How We Use Information CollectedAdkernel uses non-personally identifiable data collected from users and website visitors in order to:
+To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.
+To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
+To provide you with support and handle inquires.
+To enforce our terms of use and/or EULA.
+To comply with any applicable law and assist law enforcement agencies as required.
+To conduct surveys and market research.
+To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.
+To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.With respect to data collected via the Adkernel Platform, we may combine Non-Personal Information with data collected from other sources and disclose the Non-Personal Information and combined information to participating advertisers and ad networks so that they can determine whether to bid on ad inventory and in order to improve the relevance of the advertising presented to Users. Examples of such data include: (a) country, city, and other geo-location details based upon the IP address of the User; (b) category and keyword information based upon the Publisher website URL; and (c) other data from advertisers and data providers that would help in ad targeting (e.g., an advertiser that wants to advertise to Users who have previously visited the advertiser’s website).How we protect the Collected Information.Information that we collect is stored on servers that Adkernel solely manages, using standard security procedures and practices appropriate to the nature of the information in an effort to protect information from unauthorized access, destruction, use, modification, or disclosure. If we learn that we have unexpectedly stored personal information (e.g., if we become aware that a URL that we store contains personal information), we will use commercially reasonable efforts to anonymize or purge this information.Changes to PolicyFrom time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.Governing LawThis Privacy Policy is governed by and construed in accordance with the laws of California, USA. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of California.Data PartnersFor the purposes of retargeting, also known as remarketing, or ad personalizaton, Adkernel may utilize partners including:Google – Uses cookies to help Adkernel and clients to target advertisements based on previous interactions with websites. For more information about Google’s data privacy and opt-out instructions, please visit https://policies.google.com/technologies/partner-sitesInterest Based AdvertisingInterest-based (behavioral) advertising gives advertisers the chance to show ads that are relevant to you based on your online web browsing behavior. With interest-based advertising, you receive ads and offers that are more likely to be useful to you. Advertisers may also use other information they have or acquire about users’ interests. Users have choices with respect to this type of advertising, as discussed below. You can opt-out of interest-based advertising. If you choose to opt-out you will still see ads, but it is more likely those ads won’t be relevant to you. Interest-based advertising does not depend on information that is personally identifiable to you, such as your name, address, phone number, etc.We use three persistent cookies.They adhere to consent frameworks and are not set for GDPR/CCPA requests as a default.Adkernel Cookie Overview:ADKOPTOUT – Opt-out cookie for GDPR/CCPA compliance set for max cookie lifetime value under legal purpose declaration.ADK_EX* cookies: Containing a flag that an exchange partner successfully synced for this user – 14 days. Eg. ADK_EX_11 – ADKUID – User ID cookie – 30 days default expirationUse the links at the beginning of this page to opt-out of Adkernel’s advertising related cookies.OPT-OUTWhen you opt-out, an opt-out cookie will be stored in your web browser. The Adkernel Platform will know the choice you have made when it sees your opt-out cookie, and will apply your choice to all ads served by the Adkernel Platform. If you block or delete the opt-out cookie, the Platform will not see your choice.
+The opt out cookie may not work if your browser is configured to block third-party cookies.
+If you delete your cookies, you will need to opt out again. There are browser plugins to help you preserve your opt out cookies.
+The opt out only applies to the browser in which you set it. For example, if you set the opt out while using Firefox, but then use Chrome, the opt out will not be active in Chrome. To opt out in Chrome, you will need to repeat the opt out process.
+The opt out does not block or delete cookies, or prevent the use of cookies or other technologies for purposes other than selecting ads based on your interests as inferred by your online behavior. If you opt out, data may still be collected about your web browsing activities and you will still see advertising. Ads may be selected, for example, based on the content of the web page in which they are shown. If you wish to block or delete cookies altogether, you can use web browser settings to do so.
+To learn more about interest-based advertising, and to access the opt outs of other online advertising companies, visit the Network Advertising Initiative opt out page.YOUR RIGHTS IN THE EEAIf you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you register with the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to United States.Adkernel.com participates in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies. Adkernel’s identification number within the framework is (Vendor ID) 14.Appendix: List of Sites Using our Technology
+
+
+https://www.programattik.com
+https://webit.hr/
+https://nativeads.com/
+https://e-volution.ai/
+
+Contact usPlease direct all questions in connection with this Policy via e-mail to: contact@adkernel.comor by phone: +1 888 654 8826 or by mail: 30 Montgomery St, Suite 440, Jersey City, NJ 07302
+
+White-label ad serving solutions to empower companies of all types: Publishers, advertising agencies, ad-networks and exchanges.
+White-label ProductsWhite-Label DSP
+White-Label RTB Ad Server
+White-Label PPC Ad Server
+White-Label Header Bidding
+White-label CPA SolutionService and SupportPrivacy Policy
+Support
+Ad Tech DevelopmentCookie ConsentsAbout UsOur Team
+Our Ad TechnologyContact Us30 Montgomery St, 440
+Jersey City, NJ 07302+1 888 654 8826contact@adkernel.com   
+  
+
+
+       
+Privacy Policy 
+Proudly powered by WordPress	                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

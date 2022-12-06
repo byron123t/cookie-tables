@@ -1,0 +1,542 @@
+Joomag Privacy Statement
+Powered by CookiebotConsentDetails[#IABV2SETTINGS#]AboutOur Sites use cookiesWe use cookies to make Joomag's website a better place
+Cookies help to provide a more personalized experience and relevant advertising for you, and web analytics for us
+To learn more about the different cookies we're using, check out our Cookie Policy
+Consent SelectionNecessary Preferences Statistics Marketing Show detailsNecessary  9 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+The website cannot function properly without these cookies.Cookiebot1Learn more about this providerCookieConsentStores the user's cookie consent state for the current domainExpiry: 1 yearType: HTTPGoogle2Learn more about this providerintercom-id-#Allows the website to recoqnise the visitor, in order to optimize the chat-box functionality
+Expiry: 270 daysType: HTTPintercom-session-#Sets a specific ID for the user which ensures the integrity of the website’s chat function
+Expiry: 6 daysType: HTTPJoomag3Learn more about this provider__csrf_tokenThis cookie is used by Cloudflare to identify trusted web traffic.Expiry: SessionType: HTTPintercom.played-notificationsUsed by the website to determine which support notifications the user has been shown.Expiry: SessionType: HTMLPHP_JOOMAG_SESSIONHolds information for caching and performance purposes.Expiry: SessionType: HTTPLinkedIn1Learn more about this providerli_gcStores the user's cookie consent state for the current domainExpiry: 179 daysType: HTTPplay.google.comwww.youtube.com2CONSENT [x2]Used to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+Expiry: 2 yearsType: HTTPPreferences  4 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.Google1Learn more about this providerintercom.intercom-state-#Remembers whether the user has minimized or closed chat-box or pop-up messages on the website
+Expiry: PersistentType: HTMLpx.ads.linkedin.comwww.joomag.com3lang [x3]Remembers the user's selected language version of a websiteExpiry: SessionType: HTTPStatistics  13 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.Adobe Inc.1Learn more about this providerp.gifKeeps track of special fonts used on the website for internal analysis
+The cookie does not register any visitor data
+Expiry: SessionType: PixelGoogle6Learn more about this providercollectUsed to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.Expiry: SessionType: Pixel_dc_gtm_UA-#Used by Google Tag Manager to control the loading of a Google Analytics script tag.Expiry: 1 dayType: HTTP_gaRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 2 yearsType: HTTP_ga_#Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit
+Expiry: 2 yearsType: HTTP_gatUsed by Google Analytics to throttle request rateExpiry: 1 dayType: HTTP_gidRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 1 dayType: HTTPJoomag2Learn more about this provider_ja._Stores Joomag analytical data on how a visitor interacts with a Joomag publication.Expiry: PersistentType: HTMLubvtCollects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.Expiry: 2 daysType: HTTPLeadfeeder1Learn more about this providerhttps://#.#/Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: SessionType: PixelLinkedIn1Learn more about this providerAnalyticsSyncHistoryUsed in connection with data-synchronization with third-party analysis service
+Expiry: 29 daysType: HTTPNew Relic1Learn more about this providerJSESSIONIDUsed to store a session identifier so that New Relic can monitor session counts for an application.Expiry: SessionType: HTTPSmartlook1Learn more about this providerSL_C_23361dd035530_DOMAINCollects data on the user’s navigation and behavior on the website
+This is used to compile statistical reports and heatmaps for the website owner.Expiry: SessionType: HTTPMarketing  33 Marketing cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+Meta Platforms, Inc.1Learn more about this provider_fbpUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: 3 monthsType: HTTPAdroll Group3Learn more about this provider__adroll_consentSet and used by AdRoll service for marketing purposesExpiry: 1 yearType: HTTP__adroll_fpcSet and used by AdRoll service for marketing purposesExpiry: 1 yearType: HTTP__ar_v4Set and used by AdRoll service for marketing purposesExpiry: 1 yearType: HTTPGoogle7Learn more about this providerIDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.Expiry: 1 yearType: HTTPpagead/landing [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: SessionType: Pixeltest_cookieUsed to check if the user's browser supports cookies.Expiry: 1 dayType: HTTPads/ga-audiencesUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.Expiry: SessionType: Pixelpagead/1p-user-list/#Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.Expiry: SessionType: Pixel_gcl_auUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services
+Expiry: 3 monthsType: HTTPHubspot6Learn more about this provider__cf_bmThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: 1 dayType: HTTP__ptq.gifSends data to the marketing platform Hubspot about the visitor's device and behaviour
+Tracks the visitor across devices and marketing channels.Expiry: SessionType: Pixel__hsscIdentifies if the cookie data needs to be updated in the visitor's browser.Expiry: 1 dayType: HTTP__hssrcUsed to recognise the visitor's browser upon reentry on the website.Expiry: SessionType: HTTP__hstcSets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: 179 daysType: HTTPhubspotutkSets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: 179 daysType: HTTPJoomag1Learn more about this provider#URL#Necessary for the implementation of Instagram picture-gallery onto the website
+Expiry: SessionType: HTMLLinkedIn4Learn more about this providerbcookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 yearType: HTTPbscookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 yearType: HTTPlidcUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 dayType: HTTPUserMatchHistoryEnsures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+Expiry: 29 daysType: HTTPSmartlook6Learn more about this providerSL_C_23361dd035530_KEYCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: 13 monthsType: HTTPSL_C_23361dd035530_SIDCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: 13 monthsType: HTTPSL_C_23361dd035530_VIDCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: 13 monthsType: HTTPSL_L_23361dd035530_KEYCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: PersistentType: HTMLSL_L_23361dd035530_SIDCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: PersistentType: HTMLSL_L_23361dd035530_VIDCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: PersistentType: HTMLYouTube2Learn more about this providerVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Expiry: 179 daysType: HTTPYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: SessionType: HTTPsc.lfeeder.com3_lfaUsed in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes.Expiry: 2 yearsType: HTML_lfa_expiryContains the expiry-date for the cookie with corresponding name
+Expiry: PersistentType: HTML_lfa_test_cookie_storedUsed in context with Account-Based-Marketing (ABM)
+The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit
+This is used for retargeting of multiple users rooting from the same IP-addresses
+ABM usually facilitates B2B marketing purposes.Expiry: 1 dayType: HTTPUnclassified  0Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.We do not use cookies of this type.Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#] [#BULK_CONSENT_TITLE#]List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]Cookie declaration last updated on 10/25/22 by Cookiebot[#IABV2_TITLE#][#IABV2_BODY_INTRO#][#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#][#IABV2_BODY_PREFERENCE_INTRO#][#IABV2_LABEL_PURPOSES#][#IABV2_BODY_PURPOSES_INTRO#][#IABV2_BODY_PURPOSES#][#IABV2_LABEL_FEATURES#][#IABV2_BODY_FEATURES_INTRO#][#IABV2_BODY_FEATURES#][#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PARTNERS_INTRO#][#IABV2_BODY_PARTNERS#]Cookies are small text files that can be used by websites to make a user's experience more efficient.Many jurisdictions require or recommend that website operators inform users/visitors as to the nature of cookies they utilize and, in certain circumstances, obtain the consent of their users to the placement of certain cookies.This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.Please state your consent ID and date when you contact us regarding your consent
+[#OOI_PERSONAL_INFORMATION#]Use necessary cookies only Allow selection Customize Allow all cookiesPowered by Cookiebot by Usercentrics
+Toggle navigation
+X
+Solutions
+Content Marketing
+Corporate Communications
+Digital Publishing
+Sales Enablement
+Features
+Pricing
+Case Studies
+Resources
+E-book
+Youtube Channel
+Blog
+White Papers
+Help Center
+Showcase
+Eng
+Deutsch
+Español
+Русский
+Français
+Português (Brasil)
+中文
+Log In
+Get Demo
+Privacy Policy
+Updated as of Apr 20, 2020
+At Joomag, privacy is a priority
+This Privacy Policy sets out how Joomag, Inc
+and its subsidiaries and
+affiliated companies (“Joomag”, “we”, “our”, or
+“us”) collect and use information from customers and other individuals who access or use
+our websites, including joomag.com (“Sites”), our mobile applications
+(“Applications”), and/or any of our other sites, products, or services that link to this
+Privacy Policy (collectively “Services”)
+By using our Services, you understand that we
+will collect and use your information as described in this Privacy Policy (collectively “you”).
+If you or your organization has an individual agreement with us, that agreement may have privacy terms that
+also apply to the information you provide to us under that agreement
+Please review the terms in that
+agreement because they may be different or more restrictive than the terms in this Privacy Policy.
+This Privacy Policy (“Policy”) does not apply to any third-party websites and apps that you may use,
+including any that are linked to in our Services
+You should review the terms and policies for third-party
+websites and apps before clicking on any links.
+Scope of This Policy
+In this Policy, personal information means information relating to an identified or identifiable natural
+person
+An identifiable person is one who can be identified, directly or indirectly, in particular by
+reference to an identifier such as a name, an identification number, location data, and online identifier or
+to one or more factors specific to his/her physical, physiological, genetic, mental, economic, cultural or
+social identity
+The use of information collected through our Service shall be limited to the purpose of
+providing the Service for which the Customer has engaged.
+With the exception of Account and Registration Information (as defined below), Payment Information (as
+defined below) and other information we collect in connection with your registration or authentication into
+our Services (as defined below), this Policy does not apply to our security and privacy practices in
+connection with your access to and use of the Services
+These security and privacy practices, including how
+we protect, collect, and use electronic data, text, messages, communications or other materials submitted to
+and stored within the Services by you (“Service Data”), are detailed in and governed by our
+Terms of Service, available here, or such other applicable
+agreement between you and any member of Joomag
+relating to your access to and use of such Services (collectively referred to as the
+“Service Agreement”)
+For the purposes of this Policy, “Customer” shall
+refer to an individual or an entity that has entered into a Service Agreement with us for use of our
+Services.
+Customers are solely responsible for establishing policies for and ensuring compliance with all applicable
+laws and regulations, as well as any and all privacy policies, agreements or other obligations, relating to
+the collection of personal information in connection with the use of our Services by individuals (also
+referred to as “data subjects”) with whom our Customers interact
+If you are an individual who interacts
+with a Customer using our Services, then you will be directed to contact our Customer for assistance with
+any requests or questions relating to your personal information.
+We collect information under the direction of our Customers and have no direct relationship with individuals
+whose personal information we process in connection with our Customer’s use of our Services
+If you are an
+individual who interacts with a Customer using our Services (such as a client of one of our Customers) and
+would either like to amend your contact information or no longer wish to be contacted by one of our
+Customers that use our Services, please contact the Customer that you interact with directly.
+We may transfer personal information to companies that help us provide our Services
+Transfers to subsequent
+third parties for these purposes are governed by the Service Agreements with our Customers.
+Information That You Provide to Us
+Account and Registration Information
+This refers to any information that you voluntarily submit to us and that identifies you personally,
+including contact information, such as your name, e-mail address, company name, address, phone number, and
+other information about yourself or your business
+Account and Registration Information can also include
+information about any transactions, both free and paid, that you enter into on the Sites and Applications,
+and information about you that is available on the internet, such as from Facebook, LinkedIn, Twitter and
+Google, or publicly available information that we acquire from service providers.
+Payment Information
+We collect and process payment information from you when you purchase or use Services, including credit
+cards numbers and billing information, using third-party intermediary PCI-compliant service providers
+These
+intermediaries are not permitted to store, retain, or use your billing information for any purpose except
+for credit card processing on our behalf.
+Information That We Collect from You
+When You Visit our Sites or Use our Applications
+When you visit our Sites or use our Applications, some information is automatically collected
+This may
+include information such as the Operating System (OS) running on your device, Internet Protocol (IP) address
+(which may be used to obtain your geolocation), access times, browser type, time zone, and language, and the
+website you visited before our Sites
+We also collect information about how you use Joomag’s Sites,
+Applications and Services, including the elements you have interacted with, metadata and other details about
+these elements, clicks, change states and other user actions.
+When You Use our Applications
+We use mobile analytics software to allow us to better understand the functionality of our Applications on
+your mobile device
+This software may record information such as how often you use the application, the
+events that occur within the application, aggregated usage, performance data, and where the application was
+downloaded from
+In addition to information we collect on our Sites, when you use our Applications we may
+also collect your city location, device model and version, device identifier (or “UDID”), OS version, and
+your Joomag credentials.
+We send push notifications from time to time in order to update you about events or promotions
+If you no
+longer wish to receive such communications, you may turn them off at the device level.
+Cookies and Other Tracking Technologies
+We and our authorized partners may use cookies and other information gathering technologies for a variety of
+purposes
+These technologies may provide us with personal information, information about devices and
+networks you utilize to access our Sites, and other information regarding your interactions with our Sites.
+For detailed information about the use of cookies in the Sites, please read and review our Cookie Policy
+found here.
+We partner with third parties to either display advertising on the Sites or to manage our advertising on
+other sites
+Our third-party partners may also use technologies such as cookies to gather information about
+your activities on our Sites and other sites in order to suggest advertisements based upon your browsing
+activities and interests
+If you wish to not have this information used for the purpose of serving you
+interest-based ads, you may opt-out by clicking
+here (or if located in the European Economic Area you may
+opt-in the use of cookies, by clicking here).
+Web beacons, tags and scripts may be used on our Sites or in email or other electronic communications we
+send to you
+These assist us in delivering cookies, counting visits to our Sites, understanding usage and
+campaign effectiveness and determining whether an email has been opened and acted upon
+We may receive
+reports based on the use of these technologies by our third-party service providers on an individual and
+aggregated basis.
+We use Local Storage Objects (“LSOs”) such as HTML5 to store content information and preferences
+Various
+browsers may offer their own management tools for removing HTML5 LSOs
+Third parties with whom we partner to
+provide certain features on our Sites or to display advertising based upon your web browsing activity use
+LSOs such as HTML5 to collect and store information.
+Logs
+As is true with most websites and services delivered over the Internet, we gather certain information and
+store it in log files when you interact with our Sites and Services
+This information includes internet
+protocol (IP) addresses as well as browser type, internet service provider, URLs of referring/exit pages,
+operating system, date/time stamp, information you search for, locale and language preferences,
+identification numbers associated with your devices, your mobile carrier, and system configuration
+information
+Occasionally, we connect personal information to information gathered in our log files as
+necessary to improve our Sites and Services
+In such a case, we would treat the combined information in
+accordance with this Policy.
+Information Collected from Other Sources
+Information from Third Party Services
+We may also obtain other information, including personal information, from third parties and combine that
+with information we collect through our Sites and Applications
+For example, we may have access to certain
+information from a third party social media or authentication service if you log into our Services through
+such a service or otherwise provide us with access to information from the service
+Any access that we may
+have to such information from a third party social media or authentication service is in accordance with the
+authorization procedures determined by that service
+By authorizing us to connect with a third-party
+service, you authorize us to access and store your name, email address(es), current city, profile picture
+URL, and other personal information that the third-party service makes available to us, and to use and
+disclose it in accordance with this Policy
+You should check your privacy settings on these third-party
+services to understand and change the information sent to us through these services
+For example, you can
+log in to the Services using sign-in services provided by Google or an Open ID provider, as further
+described below.
+Single Sign-On
+You can log into certain Services using sign-in services provided by Facebook, Twitter, Google, LinkedIn,
+Microsoft or an Open ID and SAML providers
+These services will authenticate your identity, provide you with the
+option to share certain personal information (such as your name and email address) with us, and pre-populate
+our registration form
+Services like those provided by Facebook give you the option to post information
+about your activities in the Services to your profile page to share with others within your network.
+How We Use Information That We Collect
+General Uses
+We may use the information we collect about you (including personal information, to the extent applicable)
+for a variety of purposes, including to (a) provide, operate, maintain, improve, and promote the Services;
+(b) enable you to access and use the Services
+(c) process and complete transactions, and send you related
+information, including purchase confirmations and invoices
+(d) send transactional messages, including
+responses to your comments, questions, and requests
+provide customer service and support
+and send you
+technical notices, updates, security alerts, and support and administrative messages
+(e) send promotional
+communications, such as providing you with information about products and services, features, surveys,
+newsletters, offers, promotions, contests, and events
+and provide other news or information about us and
+our partners
+You can opt-out of receiving marketing communications from us by contacting us at
+privacy@joomag.com or following the unsubscribe instructions included in our marketing communications
+(f)
+process and deliver contest or sweepstakes entries and rewards
+(g) monitor and analyze trends, usage, and
+activities in connection with the Sites, Applications and Services and for marketing or advertising
+purposes
+(h) investigate and prevent fraudulent transactions, unauthorized access to the Services, and
+other illegal activities
+(i) personalize the Sites, Applications and Services, including by providing
+features or advertisements that match your interests and preferences
+and (j) for other purposes for which
+we obtain your consent.
+Legal Basis for Processing (EEA only)
+If you are an individual from the European Economic Area (EEA), our legal basis for collecting and using the
+personal information will depend on the personal information concerned and the specific context in which we
+collect it
+However, we will normally collect personal information from you only where: (a) we have your
+consent to do so, (b) where we need the personal information to perform a contract with you (e.g
+to deliver
+the Joomag Services you have requested), or (c) where the processing is in our or a third party’s legitimate
+interests (and not overridden by your data protection interests or fundamental rights and freedoms)
+In some
+cases, we may also have a legal obligation to collect personal information from you, or may otherwise need
+the personal information to protect your vital interests or those of another person.
+Where we rely on your consent to process the personal information, you have the right to withdraw or decline
+your consent at any time
+Please note that this does not affect the lawfulness of the processing based on
+consent before its withdrawal.
+If you have any questions about or need further information concerning the legal basis on which we collect
+and use your personal information, please contact us using the contact details provided further below in
+section Contacting Joomag.
+How We Share and Disclose Information
+Third Party Service Providers and Partners
+We share information, including personal information, with our third-party service providers that we use to
+provide hosting for and maintenance of our Sites, application development, backup, storage, payment
+processing, customer support, technical support, analytics and other services for us
+These third-party
+service providers may have access to or process your personal information for the purpose of providing these
+services for us
+We do not permit our third-party service providers to use the personal information that we
+share with them for their marketing purposes or for any other purpose than in connection with the services
+they provide to us.
+Compliance with Laws and Law Enforcement Requests
+Protection of Our Rights
+In certain situations, we may be required to disclose personal information in response to lawful requests by
+public authorities, including to meet national security or law enforcement requirements
+We may disclose
+personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise
+our legal rights or defend against legal claims
+We may also share such information if we believe it is
+necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud,
+situations involving potential threats to the physical safety of any person, violations of our Terms of
+Service, or as otherwise required by law.
+Affiliates
+We may share your information with other companies under common ownership or control with Joomag
+These
+companies use your information as described in this Privacy Policy.
+With Your Consent
+Joomag may share personal information with third parties when we have consent to do so.
+In the Event of Merger or Sale
+In the event that Joomag is acquired by or merged with a third-party entity, or undergoes a change of
+control or any form of sale or transfer of some or all of its assets, we reserve the right, in any of these
+circumstances, to transfer or assign the information that we have collected from users as part of that
+merger, acquisition, sale, or other change of control.
+International Transfer of Information Collected
+Joomag may transfer your personal information to countries other than the one in which you live.
+International Data Localization Obligations
+If you reside in a jurisdiction that imposes “data localization” or “data residency” obligations (i.e.,
+requiring that personal information of its residents be kept within the territorial boundaries of such
+jurisdiction), and we become aware of that, we may maintain your personal information within such
+territorial boundaries, if we are legally obligated to do so
+For example, if we learn that you reside in
+the Russian Federation, we may be required to maintain your personal information there, whether
+independently or with a local data storage and processing provider.
+You acknowledge and agree that while doing so, we may continue to collect, store and use your personal
+information elsewhere, including in the United States of America as explained above.
+Retention of Information
+We will retain your personal information for no longer than necessary for the purposes for which it is
+processed, unless a longer retention period is required or permitted by law (such as tax, accounting or
+other legal requirements)
+When we have no ongoing legitimate business need to process your personal
+information, we will either delete or anonymize it, or, if this is not possible (for example, because your
+personal information has been stored in backup archives), then we will securely store your personal
+information and isolate it from any further processing until deletion is possible.
+For personal information that we process on behalf of our Customers, we will retain such personal
+information in accordance with the terms of our agreement with them, subject to applicable law.
+Your Privacy Rights
+Upon request we will provide you with information about whether we hold, or process on behalf of a third
+party, any of your personal information
+To request this information please contact us at
+privacy@joomag.com
+Our Customers may update or change their personal information by going to Account
+Settings or by contacting support@joomag.com for more detailed instructions
+To make a request to have
+personal information maintained by us returned to you or removed, please email support@joomag.com
+Requests
+to access, change, or remove your information will be handled within thirty (30) days.
+An individual who seeks access to, or who seeks to correct or, amend inaccuracies in, or delete personal
+information stored or processed by us on behalf of a Customer should direct his/her query to the Customer
+(the data controller)
+Upon receipt of a request from one of our Customers for us to remove the data, we
+will respond to their request within thirty (30) days
+We will retain personal information that we store and
+process on behalf of our Customers for as long as needed to provide the Services to our Customers
+We will
+retain and use this personal information as necessary to comply with our legal obligations, resolve
+disputes, and enforce our agreements.
+If you are a Customer or otherwise provide us with personal information in connection with your use of our
+Sites, Applications or Services, we will delete this information upon your request, provided that,
+notwithstanding such request, this information may be retained for as long as you maintain an account for
+our Services, or as needed to provide you with our Services, comply with our legal obligations, resolve
+disputes and enforce our agreements.
+Additional Rights for California Residents
+If you are a California resident, then under this Privacy Policy and pursuant to the California Consumer
+Privacy Act (CCPA), you have the following rights:
+Right to know and access: You may submit a verifiable request for information regarding the: (1)
+categories of personal information we collect, use or share
+(2) purposes for which categories of
+personal information are collected or used by us
+(3) categories of sources from which we collect
+personal information
+and (4) specific pieces of personal information we have collected about you.
+Right of erasure: You may have a broader right to erasure of personal information that has been
+collected in the past 12 months
+Please note, however, that we may need to retain certain information
+for record keeping purposes, to complete transactions or to comply with our legal obligations.
+Do not sell my personal Information: We neither rent nor sell your personal data in personally
+identifiable form to anyone
+However, third parties we partner with (for example, our advertising
+partners) may use technology on the Service that “sells” personal information as defined by the CCPA
+law
+If you wish to opt out of the use of your personal information for interest-based advertising
+purposes and these potential sales as defined under CCPA law, you may do so by contacting us at
+privacy@joomag.com.
+Right to equal service: We will not discriminate against you if you exercise your privacy rights,
+including by: (1) denying goods or services to you
+(2) charging different prices or rates for goods or
+services, including the use of discounts or other benefits or imposing penalties
+(3) providing a
+different level or quality of goods or services to you
+or (4) suggesting that you will receive a
+different price or rate for goods or services or a different level or quality of goods or services.
+To exercise any of your California Privacy Rights, you can email us at privacy@joomag.com
+In order to
+verify any request, you may need to log in to your account or respond to an email verification request.
+Additional Rights for EEA and Certain Other Territories
+If you are from certain territories (such as the EEA), you may have the right to exercise additional rights
+available to you under applicable laws, including:
+Right of erasure: In certain circumstances, you may have a broader right to erasure of personal
+information that we hold about you – for example, if it is no longer necessary in relation to the
+purposes for which it was originally collected
+Please note, however, that we may need to retain certain
+information for record keeping purposes, to complete transactions or to comply with our legal
+obligations.
+Right to object to processing: You may have the right to request that Joomag stop processing your
+personal information and/or to stop sending you marketing communications.
+Right to restrict processing: You may have the right to request that we restrict processing of your
+personal information in certain circumstances (for example, where you believe that the personal
+information we hold about you is inaccurate or unlawfully held).
+Right to data portability: In certain circumstances, you may have the right to be provided with your
+personal information in a structured, machine readable and commonly used format and to request that we
+transfer the personal information to another data controller without hindrance.
+If you would like to exercise such rights, please contact us at the contact details in section
+Contacting Joomag
+We will consider your request in accordance with applicable laws.
+To protect your privacy and
+security, we may take steps to verify your identity before complying with the request.
+You also have the right to complain to a data protection authority about our collection and use of your
+personal information
+For more information, please contact your local data protection authority
+A list of
+contact details for the EU data protection authorities is available here.
+Children’s Personal Information
+We do not knowingly collect any personal information from children under the age of 13
+If you are under the
+age of 13, please do not submit any personal information through our Sites, Applications or Services
+We
+encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this
+Policy by instructing their children never to provide personal information through the Sites, Applications
+or Services without their permission
+If you have reason to believe that a child under the age of 13 has
+provided personal information to us through the Sites, Applications or Services, please contact us at
+privacy@joomag.com, and we will use commercially reasonable efforts to delete that information.
+Data Security
+Joomag implements security measures designed to protect your personal information against unauthorized
+access or unauthorized alteration, disclosure or destruction
+Other measures include internal reviews of our
+data collection, storage and processing practices and security measures, as well as physical security
+measures to guard against unauthorized access to systems where we store personal information.
+We endeavor to restrict access to personal information to Joomag employees, contractors and agents who need
+to know that information in order to operate, develop or improve our services
+These individuals are bound
+by confidentiality obligations and are required to meet these obligations.
+If Joomag learns of a security systems breach, then we may attempt to notify you electronically so that you
+can take appropriate protective steps
+Joomag may post a notice on the website if a security breach occurs.
+Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+To receive a free written notice of a security breach you should notify us at
+privacy@joomag.com.
+For learning more about our Security Practices click
+here.
+Changes and Updates to this Policy
+Please revisit this page to stay aware of any changes
+In general, we only use your personal information in
+the manner described in the Privacy Policy in effect when we received that personal information
+Your
+continued use of Joomag constitutes your agreement to this Privacy Policy and any future revisions.
+For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of
+personal information you have provided to us, we will make reasonable efforts to notify you and obtain your
+consent before implementing revisions with respect to such information.
+Contacting Joomag
+Please contact Joomag with any questions or comments about this Policy, your personal information, and our
+third-party disclosure practices or your consent choices by email:
+privacy@joomag.com, or at:
+Joomag, Inc.
+Attn: Privacy Officer
+75 E Santa Clara St
+San Jose, CA 95113, United States
+We will respond to your inquiry within 30 days of its receipt.
+Products
+Crater Editor
+CRM
+Distribution
+Branded Apps
+Email Marketing
+Periodical Management
+Lead Generation
+Selling Publications
+Integrations
+Collaboration
+Analytics
+Pricing
+Product Updates
+Company
+About Us
+Careers
+Contact
+Solutions
+Content Marketing
+Corporate Communications
+Digital Publishing
+Sales Enablement
+Education
+Enterprise
+Support & Training
+Help Center
+System Status
+Live Chat
+Legal
+Terms of Service
+Privacy Policy
+Cookie Policy
+Security Practices
+GDPR Commitment
+DMCA Policy
+Resources
+Joomag Blog
+Case Studies
+White Papers
+E-Book
+Youtube Channel
+API & Developers
+Create
+Magazines
+Catalogs
+Brochures
+Online Presentations
+Online Newsletter
+75 E
+Santa Clara St., Floor 6
+San Jose,
+CA
+95113
++1 888 854 8036
+Mon-Fri 8am-5pm PST
+Available on
+Newsstand
+Privacy Policy
+Terms of Service
+English
+Deutsch
+Español
+Русский
+Français
+Português (Brasil)
+中文
+© 2022 Joomag, Inc
+All rights reserved.

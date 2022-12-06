@@ -1,0 +1,4988 @@
+
+
+
+
+
+
+
+
+
+Cookie Notice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select your cookie preferencesWe use cookies and similar tools to enhance your experience, provide our services, deliver relevant advertising, and make improvements. Approved third parties also use these tools to help us deliver advertising and provide certain site features.CustomizeAccept allCustomize cookie preferencesWe use cookies and similar tools (collectively, "cookies") for the following purposes.EssentialEssential cookies are necessary to provide our site and services and cannot be deactivated. They are usually set in response to your actions on the site, such as setting your privacy preferences, signing in, or filling in forms. PerformancePerformance cookies provide anonymous statistics about how customers navigate our site so we can improve site experience and performance. Approved third parties may perform analytics on our behalf, but they cannot use the data for their own purposes.Allow performance categoryAllowedFunctionalFunctional cookies help us provide useful site features, remember your preferences, and display relevant content. Approved third parties may set these cookies to provide certain site features. If you do not allow these cookies, then some or all of these services may not function properly.Allow functional categoryAllowedAdvertisingAdvertising cookies may be set through our site by us or our advertising partners and help us deliver relevant marketing content. If you do not allow these cookies, you will experience less relevant advertising.Allow advertising categoryAllowedBlocking some types of cookies may impact your experience of our sites. You may review and change your choices at any time by clicking Cookie preferences in the footer of this site. We and selected third-parties use cookies or similar technologies as specified in the AWS Cookie Notice.CancelSave preferences
+ Skip to Main Content
+
+
+
+
+
+Click here to return to Amazon Web Services homepage
+
+
+
+Contact Us
+ Support  
+English 
+My Account 
+
+
+
+
+ Sign In
+
+
+  Create an AWS Account 
+
+
+
+
+
+
+
+
+
+Products
+Solutions
+Pricing
+Documentation
+Learn
+Partner Network
+AWS Marketplace
+Customer Enablement
+Events
+Explore More 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Featured Services
+
+
+ Analytics
+
+
+ Application Integration
+
+
+ Blockchain
+
+
+ Business Applications
+
+
+ Cloud Financial Management
+
+
+ Compute
+
+
+ Contact Center
+
+
+ Containers
+
+
+ Database
+
+
+ Developer Tools
+
+
+ End User Computing
+
+
+ Front-End Web & Mobile
+
+
+ Games
+
+
+ Internet of Things
+
+
+ Machine Learning
+
+
+ Management & Governance
+
+
+ Media Services
+
+
+ Migration & Transfer
+
+
+ Networking & Content Delivery
+
+
+ Quantum Technologies
+
+
+ Robotics
+
+
+ Satellite
+
+
+ Security, Identity, & Compliance
+
+
+ Serverless
+
+
+ Storage
+
+
+
+
+
+ Featured Services
+
+
+ Amazon EC2 Virtual servers in the cloud 
+
+
+ Amazon Simple Storage Service (S3)Scalable storage in the cloud 
+
+
+ Amazon AuroraHigh performance managed relational database with full MySQL and PostgreSQL compatibility 
+
+
+ Amazon DynamoDBManaged NoSQL database 
+
+
+ Amazon RDSManaged relational database service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB 
+
+
+ AWS LambdaRun code without thinking about servers 
+
+
+ Amazon VPCIsolated cloud resources 
+
+
+ Amazon Lightsail Launch and manage virtual private servers 
+
+
+ Amazon SageMakerBuild, train, and deploy machine learning models at scale 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest AWS blogs 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for AWS services 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Analytics
+
+
+ Amazon AthenaQuery data in S3 using SQL 
+
+
+ Amazon CloudSearchManaged search service 
+
+
+ Amazon OpenSearch ServiceSearch, visualize, and analyze up to petabytes of text and unstructured data 
+
+
+ Amazon EMREasily run big data frameworks 
+
+
+ Amazon FinSpaceAnalytics for the financial services industry 
+
+
+ Amazon KinesisAnalyze real-time video and data streams 
+
+
+ Amazon Managed Streaming for Apache KafkaFully managed Apache Kafka service 
+
+
+ Amazon RedshiftFast, simple, cost-effective data warehousing 
+
+
+ Amazon QuickSightFast business analytics service 
+
+
+ AWS Data ExchangeFind, subscribe to, and use third-party data in the cloud 
+
+
+ AWS Data PipelineOrchestration service for periodic, data-driven workflows 
+
+
+ AWS GlueSimple, scalable, and serverless data integration 
+
+
+ AWS Lake FormationBuild, manage, and secure your data lake 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest blog posts on Big Data 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for Big Data and Analytics on AWS 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Application Integration
+
+
+ AWS Step FunctionsCoordination for distributed applications 
+
+
+ Amazon AppFlowNo-code integration for SaaS apps & AWS services 
+
+
+ Amazon EventBridgeServerless event bus for SaaS apps & AWS services 
+
+
+ Amazon Managed Workflows for Apache AirflowHighly available, secure, and managed workflow orchestration 
+
+
+ Amazon MQManaged message broker service 
+
+
+ Amazon Simple Notification Service (SNS)Pub/sub, SMS, email, and mobile push notifications 
+
+
+ Amazon Simple Queue Service (SQS)Managed message queues 
+
+
+ AWS AppSyncFully-managed, scalable GraphQL APIs 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest Application Integration blogs for AWS Compute 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for Application Integration on AWS 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Blockchain
+
+
+ Amazon Managed BlockchainCreate and manage scalable blockchain networks 
+
+
+ Amazon Quantum Ledger Database (QLDB)Fully managed ledger database 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for Blockchain on AWS 
+        
+
+
+
+
+         Documentation 
+       
+
+         Read the technical guide for Amazon Managed Blockchain 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Business Applications
+
+
+ Amazon ConnectOmnichannel cloud contact center 
+
+
+ Amazon PinpointMultichannel marketing communications 
+
+
+ AWS WickrEnd-to-end encrypted communications 
+
+
+ Productivity Applications
+
+
+ Amazon Honeycode (Beta)Build mobile & web apps without programming 
+
+
+ Amazon ChimeFrustration-free meetings, video calls, and chat 
+
+
+ Amazon WorkDocsSecure enterprise document storage and sharing 
+
+
+ Amazon WorkMailSecure email and calendaring 
+
+
+ Alexa for BusinessEmpower your organization with Alexa 
+
+
+ Communication Developer Services
+
+
+ Amazon Chime SDKReal-time messaging, audio, video, and screen sharing 
+
+
+ Amazon Simple Email Service (SES)High-scale inbound and outbound email 
+
+
+ Amazon Pinpoint APIsFlexible mobile SMS and push notifications  
+
+
+ Amazon Chime Voice ConnectorSIP trunking and advanced telephony features 
+
+
+ Amazon WorkDocs SDKSecure file collaboration and management 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest blogs for Business Productivity 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for Business Productivity 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Cloud Financial Management
+
+
+ AWS Cost ExplorerAnalyze your AWS cost and usage 
+
+
+ AWS Billing ConductorSimplify billing and reporting with customizable pricing and cost visibility 
+
+
+ AWS BudgetsSet custom cost and usage budgets 
+
+
+ AWS Cost and Usage ReportAccess comprehensive cost and usage information 
+
+
+ Reserved Instance ReportingDive deeper into your reserved instances (RIs) 
+
+
+ Savings PlansSave up to 72% on compute usage with flexible pricing 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for AWS Cost Management 
+        
+
+
+
+
+         AWS Marketplace 
+       
+
+         Find AP and Billing software in the AWS Marketplace 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Compute
+
+
+ Amazon EC2 Virtual servers in the cloud 
+
+
+ Amazon EC2 Auto Scaling Scale compute capacity to meet demand 
+
+
+ Amazon Lightsail Launch and manage virtual private servers 
+
+
+ AWS App RunnerBuild and run containerized web apps at scale 
+
+
+ AWS Batch Run batch jobs at any scale 
+
+
+ AWS Elastic Beanstalk Run and manage web apps 
+
+
+ AWS LambdaRun code without thinking about servers 
+
+
+ AWS OutpostsRun AWS infrastructure on-premises 
+
+
+ AWS Serverless Application RepositoryDiscover, deploy, and publish serverless applications 
+
+
+ AWS Snow FamilyPhysical devices to aggregate and process data in edge locations, then transfer to AWS 
+
+
+ AWS WavelengthDeliver ultra-low latency applications for 5G devices 
+
+
+ VMware Cloud on AWSBuild a hybrid cloud without custom hardware 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest blogs for AWS Compute 
+        
+
+
+
+
+         Developer Center 
+       
+
+         Visit the AWS Developer Center 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Contact Center
+
+
+ Amazon ConnectOmnichannel cloud contact center 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Learn 
+       
+
+         Read about Customer Analytics 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for Customer Engagement on AWS 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Containers
+
+
+ Amazon Elastic Container Registry  Easily store, manage, and deploy container images 
+
+
+ Amazon Elastic Container Service (ECS)Highly secure, reliable, and scalable way to run containers 
+
+
+ Amazon ECS AnywhereRun containers on customer-managed infrastructure 
+
+
+ Amazon Elastic Kubernetes Service (EKS)The most trusted way to run Kubernetes  
+
+
+ Amazon EKS AnywhereKubernetes on your infrastructure 
+
+
+ Amazon EKS DistroRun consistent Kubernetes clusters 
+
+
+ AWS App2ContainerContainerize and migrate existing applications 
+
+
+ AWS App RunnerBuild and run containerized web apps at scale 
+
+
+ AWS CopilotEasily deploy and operate containerized applications 
+
+
+ AWS FargateServerless compute for containers  
+
+
+ Red Hat OpenShift Service on AWSManaged Red Hat OpenShift clusters 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         AWS Blogs 
+       
+
+         Read the latest AWS blog posts on Containers 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for Containers on AWS 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Database
+
+
+ Amazon AuroraHigh performance managed relational database with full MySQL and PostgreSQL compatibility 
+
+
+ Amazon Aurora Serverless V2Instantly scale to >100,000 transactions per second 
+
+
+ Amazon DocumentDB (with MongoDB compatibility)Fully managed document database 
+
+
+ Amazon DynamoDBManaged NoSQL database 
+
+
+ Amazon ElastiCacheIn-memory caching service 
+
+
+ Amazon Keyspaces (for Apache Cassandra)Managed Cassandra-compatible database 
+
+
+ Amazon MemoryDB for RedisRedis-compatible, durable, in-memory database that delivers ultra-fast performance 
+
+
+ Amazon NeptuneFully managed graph database service 
+
+
+ Amazon Quantum Ledger Database (QLDB)Fully managed ledger database 
+
+
+ Amazon RDSManaged relational database service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB 
+
+
+ Amazon RDS on OutpostsAutomate on-premises database management 
+
+
+ Amazon RedshiftFast, simple, cost-effective data warehousing 
+
+
+ Amazon TimestreamFully managed time series database 
+
+
+ AWS Database Migration ServiceMigrate databases with minimal downtime 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest AWS Database blogs 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See recent announcements on Databases from AWS 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Developer Tools
+
+
+ Amazon CodeGuruFind your most expensive lines of code 
+
+
+ Amazon CorrettoProduction-ready distribution of OpenJDK 
+
+
+ AWS Cloud Control APIManage cloud infrastructure with unified APIs 
+
+
+ AWS Cloud Development Kit (CDK)Model cloud infrastructure using code 
+
+
+ AWS Cloud9Write, run, and debug code on a cloud IDE 
+
+
+ AWS CloudShellBrowser-based shell environment 
+
+
+ AWS CodeArtifactSecure, scalable, and cost-effective artifact management for software development 
+
+
+ AWS CodeBuildBuild and test code 
+
+
+ AWS CodeCommitStore code in private Git repositories 
+
+
+ AWS CodeDeployAutomate code deployments 
+
+
+ AWS CodePipelineRelease software using continuous delivery 
+
+
+ AWS CodeStarDevelop and deploy AWS applications 
+
+
+ AWS Command Line InterfaceUnified tool to manage AWS services 
+
+
+ AWS Device FarmTest Android, iOS, and web apps on real devices in the AWS cloud 
+
+
+ AWS Fault Injection SimulatorFully managed fault injection service 
+
+
+ AWS Tools and SDKsTools and SDKs for AWS 
+
+
+ AWS X-RayAnalyze and debug your applications 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest blogs on DevOps 
+        
+
+
+
+
+         Developer Center 
+       
+
+         Visit the AWS Developer Center 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ End User Computing
+
+
+ Amazon WorkSpacesVirtual desktops in the cloud 
+
+
+ Amazon AppStream 2.0Stream desktop applications securely to a browser 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest on End User Computing 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements on End User Computing from AWS 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Front-End Web & Mobile
+
+
+ AWS AmplifyBuild, deploy, and host scalable web and mobile apps 
+
+
+ Amazon API GatewayBuild, deploy, and manage APIs 
+
+
+ Amazon Location ServiceSecurely and easily add location data to applications 
+
+
+ Amazon PinpointPersonalized user engagement across channels 
+
+
+ AWS AppSyncFully-managed, scalable GraphQL APIs 
+
+
+ AWS Device FarmTest Android, iOS, and web apps on real devices in the AWS cloud 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Learn 
+       
+
+         Learn more about AWS Amplify CLI toolchain 
+        
+
+
+
+
+         Blog 
+       
+
+         Read the latest on Mobile 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Games
+
+
+ Amazon GameLiftSimple, fast, cost-effective dedicated game server hosting 
+
+
+ Amazon GameSparksBuild game backends 
+
+
+ Amazon LumberyardA free cross-platform 3D game engine, with Full Source, integrated with AWS and Twitch 
+
+
+ AWS GameKitDeploy and customize game backend features directly from Unreal Engine 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         New Tutorial 
+       
+
+         Build an Inventory System for Games with Amazon Aurora Serverless 
+        
+
+
+
+
+         Customer Success 
+       
+
+         How Dead by Daylight survives the test of time using AWS 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Internet of Things
+
+
+ AWS IoT 1-ClickOne click creation of an AWS Lambda trigger 
+
+
+ AWS IoT AnalyticsAnalytics for IoT devices 
+
+
+ AWS IoT ButtonCloud programmable dash button 
+
+
+ AWS IoT CoreConnect devices to the cloud 
+
+
+ AWS IoT Device DefenderSecurity management for IoT devices 
+
+
+ AWS IoT Device ManagementOnboard, organize, and remotely manage IoT devices 
+
+
+ AWS IoT EduKitLearn how to build simple IoT applications 
+
+
+ AWS IoT EventsIoT event detection and response 
+
+
+ AWS IoT ExpressLinkQuickly and easily develop secure IoT devices 
+
+
+ AWS IoT FleetWiseEasily collect, transform, and transfer vehicle data to the cloud in near-real time 
+
+
+ AWS IoT GreengrassLocal compute, messaging, and sync for devices 
+
+
+ AWS IoT RoboRunnerBuild applications that help robot fleets work together seamlessly 
+
+
+ AWS IoT SiteWiseIoT data collector and interpreter 
+
+
+ AWS IoT TwinMakerOptimize operations by easily creating digital twins of real-world systems 
+
+
+ AWS Partner Device CatalogCurated catalog of AWS-compatible IoT hardware 
+
+
+ FreeRTOSReal-time operating system for microcontrollers 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest blogs on IoT 
+        
+
+
+
+
+         Getting Started 
+       
+
+         Find 10-Minute Tutorials on Internet of Things 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Machine Learning
+
+
+ Amazon SageMakerBuild, train, and deploy machine learning models at scale 
+
+
+ Amazon Augmented AIEasily implement human review of ML predictions 
+
+
+ Amazon CodeGuruFind your most expensive lines of code 
+
+
+ Amazon CodeWhispererBuild apps faster with ML-powered coding companion 
+
+
+ Amazon ComprehendDiscover insights and relationships in text 
+
+
+ Amazon Comprehend MedicalExtract health data 
+
+
+ Amazon DevOps GuruML-powered cloud operations service 
+
+
+ Amazon Elastic InferenceDeep learning inference acceleration 
+
+
+ Amazon ForecastIncrease forecast accuracy using machine learning 
+
+
+ Amazon Fraud DetectorDetect more online fraud faster 
+
+
+ Amazon HealthLakeMake sense of health data 
+
+
+ Amazon KendraReinvent enterprise search with ML 
+
+
+ Amazon LexBuild voice and text chatbots 
+
+
+ Amazon Lookout for EquipmentDetect abnormal behavior by analyzing sensor data 
+
+
+ Amazon Lookout for MetricsDetect anomalies in metrics 
+
+
+ Amazon Lookout for VisionSpot product defects using computer vision 
+
+
+ Amazon MonitronEnd-to-end system for equipment monitoring 
+
+
+ Amazon PersonalizeBuild real-time recommendations into your applications 
+
+
+ Amazon PollyTurn text into life-like speech 
+
+
+ Amazon RekognitionAnalyze image and video 
+
+
+ Amazon Textract Extract text and data from documents 
+
+
+ Amazon TranslateNatural and fluent language translation 
+
+
+ Amazon TranscribeAutomatic speech recognition 
+
+
+ AWS Deep Learning AMIsDeep learning on Amazon EC2 
+
+
+ AWS Deep Learning ContainersDocker images for deep learning 
+
+
+ AWS DeepComposerML enabled musical keyboard 
+
+
+ AWS DeepLensDeep learning enabled video camera 
+
+
+ AWS DeepRacerAutonomous 1/18th scale race car, driven by ML 
+
+
+ AWS InferentiaMachine learning inference chip 
+
+
+ AWS PanoramaImprove operations with computer vision at the edge 
+
+
+ Apache MXNet on AWSScalable, open-source deep learning framework 
+
+
+ PyTorch on AWSFlexible open-source machine learning framework 
+
+
+ TensorFlow on AWSOpen-source machine intelligence library 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest blogs on Machine Learning 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for Machine Learning on AWS 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Management & Governance
+
+
+ Amazon CloudWatchMonitor resources and applications 
+
+
+ Amazon Managed GrafanaPowerful interactive data visualizations 
+
+
+ Amazon Managed Service for PrometheusHighly available, secure monitoring for containers 
+
+
+ AWS Auto ScalingScale multiple resources to meet demand 
+
+
+ AWS ChatbotChatOps for AWS 
+
+
+ AWS CloudFormationCreate and manage resources with templates 
+
+
+ AWS CloudTrailTrack user activity and API usage 
+
+
+ AWS Command Line InterfaceUnified tool to manage AWS services 
+
+
+ AWS Compute OptimizerIdentify optimal AWS Compute resources 
+
+
+ AWS ConfigTrack resources inventory and changes 
+
+
+ AWS Control TowerSet up and govern a secure, compliant multi-account environment 
+
+
+ AWS Console Mobile ApplicationAccess resources on the go 
+
+
+ AWS Distro for OpenTelemetryCollect correlated metrics and traces 
+
+
+ AWS Health DashboardView important events and changes affecting your AWS environment 
+
+
+ AWS Launch WizardEasily size, configure, and deploy third party applications on AWS 
+
+
+ AWS License ManagerTrack, manage, and control licenses 
+
+
+ AWS Management ConsoleWeb-based user interface 
+
+
+ AWS Managed ServicesInfrastructure operations management for AWS 
+
+
+ AWS OpsWorksAutomate operations with Chef and Puppet 
+
+
+ AWS OrganizationsCentral governance and management across AWS accounts 
+
+
+ AWS ProtonAutomated management for container and serverless deployment 
+
+
+ AWS Resilience HubProtect applications from disruption 
+
+
+ AWS Service CatalogCreate and use standardized products 
+
+
+ AWS Service Management ConnectorProvision, manage and operate AWS resources within Service Management Tools 
+
+
+ AWS Systems ManagerGain operational insights and take action 
+
+
+ AWS Trusted AdvisorOptimize performance and security 
+
+
+ AWS Well-Architected ToolReview and improve your workloads 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for Management & Governance on AWS 
+        
+
+
+
+
+         Blog 
+       
+
+         Read the latest blogs on Management Tools 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Media Services
+
+
+ Amazon Elastic TranscoderEasy-to-use scalable media transcoding 
+
+
+ Amazon Interactive Video ServiceManaged live video solution 
+
+
+ Amazon Kinesis Video StreamsProcess and analyze video streams 
+
+
+ Amazon Nimble StudioBuild a digital content creation studio 
+
+
+ AWS Elemental MediaConnectReliable and secure live video transport 
+
+
+ AWS Elemental MediaConvertConvert file-based video content 
+
+
+ AWS Elemental MediaLiveConvert live video content 
+
+
+ AWS Elemental MediaPackageVideo origination and packaging 
+
+
+ AWS Elemental MediaStoreMedia storage and simple http origin 
+
+
+ AWS Elemental MediaTailorVideo personalization and monetization 
+
+
+ AWS Elemental Appliances & SoftwareOn-premises media solutions 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest posts from the AWS Media blog 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for AWS Media Services 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Migration & Transfer
+
+
+ AWS Migration HubTrack migrations from a single place 
+
+
+ AWS Application Discovery ServiceDiscover on-premises applications to streamline migration 
+
+
+ AWS Application Migration Service (MGN)Move and improve your on-premises and cloud-based applications 
+
+
+ AWS Database Migration ServiceMigrate databases with minimal downtime 
+
+
+ AWS DataSyncSimple, fast, online data transfer  
+
+
+ AWS Mainframe ModernizationMigrate, modernize, operate, and run mainframe workloads 
+
+
+ AWS Server Migration ServiceMigrate on-premises servers to AWS 
+
+
+ AWS Snow FamilyPhysical devices to migrate data into and out of AWS 
+
+
+ AWS Transfer FamilyFully managed SFTP, FTPS, and FTP service 
+
+
+ Migration Evaluator (Formerly TSO Logic)Create a business case for cloud migration 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest blogs on Enterprise Strategy 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for Migration on AWS 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Networking & Content Delivery 
+
+
+ Amazon VPCIsolated cloud resources 
+
+
+ Amazon API GatewayBuild, deploy, and manage APIs 
+
+
+ Amazon CloudFrontGlobal content delivery network 
+
+
+ Amazon Route 53Scalable domain name system (DNS) 
+
+
+ AWS App MeshMonitor and control microservices 
+
+
+ AWS Cloud MapService discovery for cloud resources 
+
+
+ AWS Cloud WANEasily build, manage, and monitor global wide area networks 
+
+
+ AWS Direct ConnectDedicated network connection to AWS 
+
+
+ AWS Global AcceleratorImprove application availability and performance 
+
+
+ AWS Private 5GEasily deploy, manage, and scale a private cellular network 
+
+
+ AWS PrivateLinkSecurely access services hosted on AWS 
+
+
+ AWS Transit GatewayEasily scale VPC and account connections 
+
+
+ AWS VPNSecurely access your network resources 
+
+
+ Elastic Load Balancing (ELB)Distribute incoming traffic across multiple targets 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read the latest blogs on Networking and Content Delivery 
+        
+
+
+
+
+         What's New on AWS 
+       
+
+         See announcements for Networking and Content Delivery 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Quantum Technologies
+
+
+ Amazon BraketExplore and experiment with quantum computing 
+
+
+ Amazon Quantum Solutions LabCollaborate with quantum computing experts 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Jeff Barr's Blog 
+       
+
+         Read Jeff's take on Quantum Technologies 
+        
+
+
+
+
+         FAQs 
+       
+
+         Learn more about Amazon Braket and quantum technologies 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Robotics
+
+
+ AWS IoT RoboRunnerBuild applications that help robot fleets work together seamlessly 
+
+
+ AWS RoboMakerDevelop, test, and deploy robotics applications 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Develop and deploy a robotics app step-by-step 
+        
+
+
+
+
+         Resource Center 
+       
+
+         Find resources to get started with AWS RoboMaker 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Satellite
+
+
+ AWS Ground StationFully managed ground station as a service 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Blog 
+       
+
+         Read about ingesting and processing data from satellites 
+        
+
+
+
+
+         FAQs 
+       
+
+         Find answers to common questions about AWS Ground Station 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Security, Identity, & Compliance
+
+
+ AWS Identity and Access Management (IAM)Securely manage access to services and resources 
+
+
+ Amazon CognitoIdentity management for your apps 
+
+
+ Amazon DetectiveInvestigate potential security issues 
+
+
+ Amazon GuardDutyManaged threat detection service 
+
+
+ Amazon InspectorAutomate vulnerability management 
+
+
+ Amazon MacieDiscover and protect your sensitive data at scale 
+
+
+ AWS ArtifactOn-demand access to AWS’ compliance reports 
+
+
+ AWS Audit ManagerContinuously audit your AWS usage 
+
+
+ AWS Certificate ManagerProvision, manage, and deploy SSL/TLS certificates 
+
+
+ AWS CloudHSMHardware-based key storage for regulatory compliance 
+
+
+ AWS Directory ServiceHost and manage active directory 
+
+
+ AWS Firewall ManagerCentral management of firewall rules 
+
+
+ AWS Key Management ServiceManaged creation and control of encryption keys 
+
+
+ AWS Network FirewallNetwork security to protect your VPCs 
+
+
+ AWS Private Certificate AuthorityCreate private certificates to identify resources and protect data 
+
+
+ AWS Resource Access ManagerSimple, secure service to share AWS resources 
+
+
+ AWS Secrets ManagerRotate, manage, and retrieve secrets 
+
+
+ AWS Security HubUnified security and compliance center 
+
+
+ AWS ShieldDDoS protection 
+
+
+ AWS IAM Identity CenterManage single sign-on access to AWS accounts and apps 
+
+
+ AWS WAFFilter malicious web traffic 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         Learn 
+       
+
+         Learn about AWS Compliance offerings 
+        
+
+
+
+
+         Resource Center 
+       
+
+         Find resources and articles on Cloud Security 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Serverless
+
+
+ AWS LambdaRun code without thinking about servers 
+
+
+ Amazon API GatewayBuild, deploy, and manage APIs 
+
+
+ Amazon DynamoDBManaged NoSQL database 
+
+
+ Amazon EventBridgeServerless event bus for SaaS apps & AWS services 
+
+
+ Amazon Simple Notification Service (SNS)Pub/sub, SMS, email, and mobile push notifications 
+
+
+ Amazon Simple Queue Service (SQS)Managed message queues 
+
+
+ Amazon Simple Storage Service (S3)Scalable storage in the cloud 
+
+
+ AWS AppSyncFully-managed, scalable GraphQL APIs 
+
+
+ AWS FargateServerless compute for containers  
+
+
+ AWS Step FunctionsCoordination for distributed applications 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         What’s New on AWS 
+       
+
+         See recent announcements from AWS 
+        
+
+
+
+
+         AWS Blogs 
+       
+
+         Read the latest AWS news on blogs 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+ Storage
+
+
+ Amazon Simple Storage Service (S3)Scalable storage in the cloud 
+
+
+ Amazon S3 Glacier storage classesLow-cost archive storage in the cloud 
+
+
+ Amazon Elastic Block Store (EBS)EC2 block storage volumes 
+
+
+ Amazon Elastic File System (EFS)Fully managed file system for EC2 
+
+
+ Amazon FSx for LustreHigh-performance file system integrated with S3 
+
+
+ Amazon FSx for NetApp ONTAPFully managed storage built on NetApp’s popular ONTAP file system 
+
+
+ Amazon FSx for OpenZFSFully managed storage built on the popular OpenZFS file system 
+
+
+ Amazon FSx for Windows File ServerFully managed Windows native file system 
+
+
+ Amazon File CacheHigh-speed cache for datasets stored anywhere 
+
+
+ AWS BackupCentralized backup across AWS services 
+
+
+ AWS Elastic Disaster Recovery (DRS)Scalable, cost-effective application recovery 
+
+
+ AWS Snow FamilyPhysical edge computing and storage devices for rugged or disconnected environments 
+
+
+ AWS Storage GatewayHybrid storage integration 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         What’s New on AWS 
+       
+
+         See recent announcements for AWS Storage 
+        
+
+
+
+
+         AWS Storage Blogs 
+       
+
+         Read the latest AWS Storage blogs 
+        
+
+
+
+      Customer Enablement 
+    
+
+
+
+
+         AWS IQ 
+       
+
+         Complete your projects faster with help from AWS Certified third-party experts 
+        
+
+
+
+
+         AWS Managed Services 
+       
+
+         Operate your AWS infrastructure for you 
+        
+
+
+
+
+         AWS Professional Services 
+       
+
+         Accelerate your business outcomes with AWS 
+        
+
+
+
+
+         AWS Training and Certification 
+       
+
+         Build and validate your skills and technical expertise 
+        
+
+
+
+
+
+
+
+
+ By Use Case
+
+
+ By Industry
+
+
+ By Organization Type
+
+
+
+
+
+ By Use Case
+
+
+ ArchivingAffordable solutions for data archiving from gigabytes to petabytes 
+
+
+ Backup and RestoreDurable, cost-effective options for backup and disaster recovery 
+
+
+ BlockchainShared ledgers for trusted transactions among multiple parties 
+
+
+ Cloud MigrationEasily migrate apps and data to AWS 
+
+
+ Cloud OperationsOperate securely and safely in the cloud, at scale 
+
+
+ ContainersFully managed services for every workload 
+
+
+ Content DeliveryAccelerate websites, APIs, and video content 
+
+
+ Database MigrationsSave time and cost by migrating to fully managed databases 
+
+
+ Data Lakes and AnalyticsComprehensive, secure, scalable, and cost-effective data lake and analytics solutions 
+
+
+ DevOpsRapidly and reliably build and deliver products using DevOps practices 
+
+
+ E-CommerceDrive small or large e-commerce businesses with our secure and highly scalable solutions for online sales and retail 
+
+
+ Edge ComputingMove data processing and analysis as close to the end user as necessary 
+
+
+ Front-End Web & Mobile DevelopmentBuild and deploy secure, scalable mobile and web apps fast 
+
+
+ High Performance ComputingEnhanced networking and cloud-scale clusters for complex problems 
+
+
+ Hybrid Cloud ArchitecturesExtend your IT infrastructure to the AWS cloud 
+
+
+ Internet of ThingsEasily scale to billions of devices and trillions of messages 
+
+
+ Machine LearningBuild with powerful services and platforms, and the broadest machine learning framework support anywhere 
+
+
+ Modern Application DevelopmentDevelop and evolve applications through cycles of rapid innovation 
+
+
+ Remote WorkAWS solutions for remote employees, contact center agents, and creative professionals 
+
+
+ Scientific ComputingAnalyze, store, and share massive data sets 
+
+
+ Serverless ComputingBuild and run applications without thinking about servers 
+
+
+ WebsitesReliable, highly scalable, and low cost website and web application hosting 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         AWS Solutions Library 
+       
+
+         The AWS Solutions Library carries solutions built by AWS and AWS Partners for a broad range of industry and technology use cases 
+        
+
+
+
+
+         Remote Work 
+       
+
+         Find AWS solutions for remote employees, students, and contact center agents 
+        
+
+
+
+
+         COVID-19 Response 
+       
+
+         Find the latest on how AWS is supporting our customers, partners, and communities during this time 
+        
+
+
+
+
+         AWS Well-Architected 
+       
+
+         Learn, measure, and build using architectural best practices 
+        
+
+
+
+
+         E-Book 
+       
+
+         Download the Connected Home IoT E-Book 
+        
+
+
+
+
+         Open Source 
+       
+
+         Open source projects and community 
+        
+
+
+
+
+
+
+
+ By Industry
+
+
+ Advertising and MarketingReimagine data-driven marketing 
+
+
+ Aerospace and SatelliteAWS provides secure, flexible, scalable, and cost-efficient cloud solutions to help commercial and government customers build satellites, conduct space and launch operations, and reimagine space exploration 
+
+
+ AutomotiveBuild intelligent connected experiences and accelerate time to market for every touchpoint of the customer journey 
+
+
+ Consumer Packaged GoodsSolutions to transform manufacturing, optimize end-to-end supply chain, and drive more profitable brand engagements and transformative interactions with brand consumers 
+
+
+ EducationSolutions to help facilitate teaching, learning, student engagement, and better learning outcomes as well as modernize enterprise wide IT operations 
+
+
+ EnergyRevamp legacy operations and accelerate the development of innovative renewable energy business models 
+
+
+ Financial ServicesDevelop secure and innovative solutions to increase customer and shareholder value 
+
+
+ GamesServices to enable game development across all genres and platforms, from AAA games to small independent studios 
+
+
+ GovernmentServices designed to help government agencies modernize, meet mandates, reduce costs, drive efficiencies, and delivery mission outcomes 
+
+
+ Healthcare and Life SciencesSolutions for increasing the pace of innovation, data lifecycle management, incorporating new technology into care delivery, and improving security and compliance 
+
+
+ IndustrialServices and Solutions for customers across Manufacturing, Automotive, Energy, Power & Utilities, Transportation & Logistics 
+
+
+ ManufacturingOptimize production and speed time-to-market 
+
+
+ Media and EntertainmentTransform media & entertainment with the most purpose-built capabilities and partner solutions of any cloud 
+
+
+ NonprofitServices enabling more mission for the money to minimize costs and optimize scale and donor engagement to further nonprofits and NGO's serving their causes 
+
+
+ Power and UtilitiesSolutions to extract deep insights from data to manage distributed energy networks and to deliver engaging new customer experiences 
+
+
+ RetailCloud solutions that help retailers accelerate innovation, optimize operations, and delight customers 
+
+
+ SemiconductorSpeed innovation, optimize production, and deliver cutting-edge products and services 
+
+
+ SportsFuel innovative fan, broadcast, and athlete experiences 
+
+
+ SustainabilityAWS provides knowledge and tools for organizations of all sizes across all sectors to build and implement solutions that meet their sustainability goals 
+
+
+ TelecommunicationsAccelerate innovation, scale with confidence, and add agility with cloud-based telecom solutions 
+
+
+ Travel and HospitalitySolutions to help travel and hospitality companies gain a competitive edge by enhancing customer experiences and operational efficiency 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         AWS Well-Architected 
+       
+
+         Learn, measure, and build using architectural best practices 
+        
+
+
+
+
+         Webinar 
+       
+
+         Uninterrupted Innovation: talks about AI, IoT, and Machine Learning 
+        
+
+
+
+
+         AWS Training 
+       
+
+         Build your technical skills with free digital training 
+        
+
+
+
+
+         Customer Success 
+       
+
+         Explore how AWS powers innovation for companies across all industries 
+        
+
+
+
+
+         AWS Certification 
+       
+
+         Validate your technical expertise by getting AWS Certified 
+        
+
+
+
+
+         APN Partner Training 
+       
+
+         Deepen your knowledge of AWS to better serve your customers 
+        
+
+
+
+
+
+
+
+ By Organization Type
+
+
+ EnterpriseAmazon Web Services delivers a mature set of services specifically designed for the unique security, compliance, privacy, and governance requirements of large organizations 
+
+
+ Public SectorPaving the way for innovation and supporting world- changing projects in government, education and nonprofit organizations 
+
+
+ Small and Medium BusinessSmart businesses need IT that can scale with them. See the advantages of migrating to cloud, securing your business, and more. 
+
+
+ StartupsFrom the spark of an idea, to your first customer, to IPO and beyond, let Amazon Web Services help you build and grow your startup 
+
+
+
+
+      Resources and Media 
+    
+
+
+
+
+         AWS Well-Architected 
+       
+
+         Learn, measure, and build using architectural best practices 
+        
+
+
+
+
+         APN Partner Training 
+       
+
+         Deepen your knowledge of AWS to better serve your customers 
+        
+
+
+
+
+         AWS Certification 
+       
+
+         Validate your technical expertise by getting AWS Certified 
+        
+
+
+
+
+         Customer Success 
+       
+
+         Read how AWS powers innovation for all types of organizations 
+        
+
+
+
+
+         AWS Training 
+       
+
+         Build your technical skills with free digital training 
+        
+
+
+
+
+         Partner Network 
+       
+
+         Work with a certified AWS expert 
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Learn About AWS Pricing 
+
+       With AWS, you pay only for the individual services you need for as long as you use them without requiring long-term contracts or complex licensing 
+     
+
+
+
+
+
+
+
+  AWS Free Tier 
+
+       AWS Free Tier includes offers that are always free, offers that expire 12 months following sign up, and short-term free trial offers 
+     
+
+
+
+
+
+
+
+
+
+
+
+  AWS Pricing Calculator 
+
+       Estimate the cost for your architecture solution 
+     
+
+
+
+
+
+
+
+  Optimize Your Costs 
+
+       Learn what steps to take to effectively optimize your AWS costs 
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Documentation 
+
+       Find technical documentation for AWS services, SDKs and toolkits, use cases, scenarios, and tasks. Browse user guides, developer guides, tutorials, and API references 
+     
+
+ View all Documentation »
+
+
+
+ View documentation for popular services
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Amazon EC2
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Amazon Simple Storage Service
+
+
+
+
+
+
+
+
+
+
+
+
+
+ AWS Command Line Interface (CLI)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Amazon CloudFront
+
+
+
+
+
+
+
+
+
+
+
+
+
+ AWS Identity and Access Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Amazon RDS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Introduction to AWS 
+
+ What is Cloud Computing »
+
+
+ AWS Inclusion, Diversity & Equity »
+
+
+ AWS Global Infrastructure »
+
+
+ AWS China Gateway »
+
+
+ Cloud Computing Concepts Hub »
+
+
+
+  Getting Started with AWS 
+
+ Hands-on Tutorials »
+
+
+ AWS Fundamentals »
+
+
+ Getting Started Resource Center »
+
+
+
+  Training and Certification 
+
+ AWS Training »
+
+
+ AWS Certification »
+
+
+ AWS Partner Training »
+
+
+ AWS re/Start »
+
+
+ AWS Academy »
+
+
+
+
+
+
+
+  Developer Center 
+
+ Explore the Developer Center »
+
+
+ Developer Community »
+
+
+ Tools and SDKs »
+
+
+
+  Architecture Center 
+
+ Explore architecture best practices »
+
+
+ AWS Well-Architected »
+
+
+
+  The Amazon Builders' Library 
+
+ Learn how Amazon builds and operates software »
+
+
+
+
+
+
+
+  AWS Executive Insights 
+
+ C-Suite: Strategy and Transformation »
+
+
+ CFO: Finance and Investment »
+
+
+ CHRO: Workforce Transformation »
+
+
+ CISO: Security Leadership »
+
+
+
+  Customer Stories 
+
+ Success Stories and Case Studies »
+
+
+ Cloud Innovators »
+
+
+ Fix This Podcast »
+
+
+
+  AWS is Hiring 
+
+ Search and apply for AWS Careers »
+
+
+ Learn about life at AWS »
+
+
+ Explore Software Development roles »
+
+
+ Student and Graduate Opportunities »
+
+
+
+
+
+
+
+
+
+  Work with AWS Partners 
+
+       Accelerate your journey to the cloud with an AWS Partner 
+     
+
+ Connect with a partner »
+
+
+ View success stories »
+
+
+ Watch APN TV videos »
+
+
+ Explore AWS Marketplace »
+
+
+ Find AWS Partners and Solutions »
+
+
+
+  Become an AWS Partner 
+
+       Build, market, and sell your offerings with AWS 
+     
+
+ Join the APN »
+
+
+ Choose your Partner Paths »
+
+
+ Grow your business with partner programs »
+
+
+ Leverage partner trainings and certifications »
+
+
+ Discover APN resources »
+
+
+ Log in to AWS Partner Central »
+
+
+
+
+
+
+
+
+
+  AWS Marketplace 
+
+       AWS Marketplace is a curated digital catalog that makes it easy to find, test, buy, and deploy third-party software 
+     
+
+ What is AWS Marketplace »
+
+
+ Resources Library »
+
+
+ Customer Success Stories »
+
+
+ Browse AWS Marketplace »
+
+
+
+  Categories 
+
+ Operating Systems »
+
+
+ Security »
+
+
+ Networking »
+
+
+ Storage »
+
+
+ Data Analytics »
+
+
+ DevOps »
+
+
+ All Categories »
+
+
+
+  Solutions 
+
+ Business Applications »
+
+
+ Data Analytics »
+
+
+ Security »
+
+
+ Financial Services »
+
+
+ Healthcare »
+
+
+ Public Sector »
+
+
+ All Solutions »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  AWS Customer Enablement 
+
+       Migrate and build faster in the cloud with AWS Customer Enablement services. Augment your team’s cloud skills with deep AWS expertise where, when, and how you need it 
+     
+
+ Learn about Customer Enablement services »
+
+
+
+  AWS Support 
+
+       Break-fix, issue resolution, and proactive guidance 
+     
+  AWS Professional Services 
+
+       Accelerate your business outcomes 
+     
+  AWS IQ 
+
+       On-demand help from AWS Certified third-party experts 
+     
+
+
+  AWS Training and Certification 
+
+       Build skills and validate expertise 
+     
+  AWS Managed Services 
+
+       Operate your AWS infrastructure on your behalf 
+     
+  AWS re:Post 
+
+       A community-driven Q&A site to help remove technical roadblocks 
+     
+
+
+
+
+
+
+
+
+  AWS Events and Webinars 
+
+       Bringing the cloud computing community together online and in-person to connect, collaborate, and learn from AWS experts. 
+     
+
+ View upcoming events »
+
+
+
+  AWS Events Content 
+
+       Explore, view, and download presentation decks from your favorite sessions. 
+     
+
+ Browse Event Content »
+
+
+
+  AWS re:Invent 
+
+       Join the global cloud community for the most transformative event in tech Nov 28 – Dec 2, 2022. 
+     
+
+ Register now »
+
+
+
+
+
+
+
+  Online Tech Talks 
+
+       Live online presentations covering a broad range of topics at varying technical levels. 
+     
+
+ View Online Tech Talks »
+
+
+
+  Public Sector Events 
+
+       Register to attend one of our public sector events or connect with us at industry events around the world. 
+     
+
+ Browse Public Sector Events »
+
+
+
+  AWS Training and Certification Events and Webinars 
+
+       Online and in-person events that help the builders of today and tomorrow leverage the power of the AWS Cloud. 
+     
+
+ Browse Training and Certification Events »
+
+
+
+
+
+
+
+
+
+ Stay Connected
+
+ AWS Blog »
+
+
+ Events and Webinars »
+
+
+ AWS in the News »
+
+
+ What's New »
+
+
+ re:Invent »
+
+
+ Press Releases »
+
+
+
+ Resources
+
+ Analyst Reports »
+
+
+ AWS Executive Insights »
+
+
+ AWS Architecture Center »
+
+
+ Documentation »
+
+
+ AWS Whitepapers & Guides »
+
+
+ AWS Educate »
+
+
+
+ Helpful Links
+
+ Knowledge Center »
+
+
+ AWS re:Post »
+
+
+ Technical Product FAQ's »
+
+
+ Customer Support Center »
+
+
+ AWS Personal Health Dashboard »
+
+
+ How to Buy AWS for Public Sectors »
+
+
+
+
+
+
+
+ Professional & Managed Services
+
+ AWS Professional Services »
+
+
+ AWS Managed Services »
+
+
+
+ Support
+
+ Compare Support Plans »
+
+
+ Visit the Knowledge Center »
+
+
+ Learn more about AWS Support »
+
+
+
+ AWS is Hiring
+
+ Careers at AWS »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click here to return to Amazon Web Services homepage
+
+
+
+
+
+
+
+  Get Started for Free 
+
+
+  Contact Us 
+
+
+
+
+  Products
+
+  Featured Services
+
+ Amazon EC2 
+ Amazon Simple Storage Service (S3) 
+ Amazon Aurora 
+ Amazon DynamoDB 
+ Amazon RDS 
+ AWS Lambda 
+ Amazon VPC 
+ Amazon Lightsail 
+ Amazon SageMaker 
+ 
+  Analytics
+
+ Amazon Athena 
+ Amazon CloudSearch 
+ Amazon OpenSearch Service 
+ Amazon EMR 
+ Amazon FinSpace 
+ Amazon Kinesis 
+ Amazon Managed Streaming for Apache Kafka 
+ Amazon Redshift 
+ Amazon QuickSight 
+ AWS Data Exchange 
+ AWS Data Pipeline 
+ AWS Glue 
+ AWS Lake Formation 
+ 
+  Application Integration
+
+ AWS Step Functions 
+ Amazon AppFlow 
+ Amazon EventBridge 
+ Amazon Managed Workflows for Apache Airflow 
+ Amazon MQ 
+ Amazon Simple Queue Service (SQS) 
+ Amazon Simple Notification Service (SNS) 
+ AWS AppSync 
+ 
+  Blockchain
+
+ Amazon Managed Blockchain 
+ Amazon Quantum Ledger Database (QLDB) 
+ 
+  Business Applications
+
+ Amazon Connect 
+ Amazon Pinpoint 
+ AWS Wickr 
+  Productivity Applications
+
+ Amazon Honeycode (Beta) 
+ Amazon Chime 
+ Amazon WorkDocs 
+ Amazon Workmail 
+ Alexa for Business 
+ 
+  Communication Developer Services
+
+ Amazon Chime SDK 
+ Amazon Simple Email Service (SES) 
+ Amazon Pinpoint APIs 
+ Amazon Chime Voice Connector 
+ Amazon WorkDocs SDK 
+ 
+ 
+  Cloud Financial Management
+
+ AWS Cost Explorer 
+ AWS Billing Conductor 
+ AWS Budgets 
+ Reserved Instance Reporting 
+ AWS Cost and Usage Report 
+ 
+  Compute
+
+ Amazon EC2 
+ Amazon EC2 Auto Scaling 
+ Amazon Lightsail 
+ AWS App Runner 
+ AWS Batch 
+ AWS Elastic Beanstalk 
+ AWS Lambda 
+ AWS Outposts 
+ AWS Serverless Application Repository 
+ AWS Snow Family 
+ AWS Wavelength 
+ VMWare Cloud on AWS 
+ 
+  Contact Center
+
+ Amazon Connect 
+ 
+  Containers
+
+ Amazon Elastic Container Registry 
+ Amazon Elastic Container Service (ECS) 
+ Amazon ECS Anywhere 
+ Amazon Elastic Kubernetes Service (EKS) 
+ Amazon EKS Anywhere 
+ Amazon EKS Distro  
+ AWS App2Container 
+ AWS App Runner 
+ AWS Copilot 
+ AWS Fargate 
+ Red Hat OpenShift Service on AWS 
+ 
+  Database
+
+ Amazon Aurora 
+ Amazon Aurora Serverless V2 
+ Amazon DocumentDB (with MongoDB compatibility) 
+ Amazon DynamoDB 
+ Amazon ElastiCache 
+ Amazon Keyspaces (for Apache Cassandra) 
+ Amazon MemoryDB for Redis 
+ Amazon Neptune 
+ Amazon Quantum Ledger Database (QLDB) 
+ Amazon RDS 
+ Amazon RDS on Outposts 
+ Amazon Redshift 
+ Amazon Timestream 
+ AWS Database Migration Service 
+ 
+  Developer Tools
+
+ Amazon CodeGuru 
+ Amazon Corretto 
+ AWS Cloud Control API 
+ AWS Cloud Development Kit 
+ AWS Cloud9 
+ AWS CloudShell  
+ AWS CodeArtifact 
+ AWS CodeBuild 
+ AWS CodeCommit 
+ AWS CodeDeploy 
+ AWS CodePipeline 
+ AWS CodeStar 
+ AWS Command Line Interface 
+ AWS Device Farm 
+ AWS Fault Injection Simulator 
+ AWS Tools and SDKs 
+ AWS X-Ray 
+ 
+  End User Computing
+
+ Amazon WorkSpaces 
+ Amazon AppStream 2.0 
+ 
+  Front-End Web & Mobile
+
+ AWS Amplify 
+ Amazon API Gateway 
+ Amazon Location Service 
+ Amazon Pinpoint 
+ AWS AppSync 
+ AWS Device Farm 
+ 
+  Games
+
+ Amazon GameLift 
+ Amazon GameSparks 
+ Amazon Lumberyard 
+ AWS GameKit 
+ 
+  Internet of Things
+
+ AWS IoT 1-Click 
+ AWS IoT Analytics 
+ AWS IoT Button 
+ AWS IoT Core 
+ AWS IoT Device Defender  
+ AWS IoT Device Management 
+ AWS IoT EduKit 
+ AWS IoT Events 
+ AWS IoT ExpressLink 
+ AWS IoT FleetWise 
+ AWS IoT Greengrass 
+ AWS IoT RoboRunner 
+ AWS IoT SiteWise 
+ AWS IoT TwinMaker 
+ AWS Partner Device Catalog 
+ FreeRTOS 
+ 
+  Machine Learning
+
+ Amazon SageMaker 
+ Amazon Augmented AI 
+ Amazon CodeGuru 
+ Amazon CodeWhisperer 
+ Amazon Comprehend 
+ Amazon Comprehend Medical 
+ Amazon DevOps Guru  
+  Amazon Elastic Inference 
+ Amazon Forecast 
+ Amazon Fraud Detector 
+ Amazon HealthLake 
+ Amazon Kendra 
+ Amazon Lex 
+ Amazon Lookout for Equipment 
+ Amazon Lookout for Metrics 
+ Amazon Lookout for Vision 
+ Amazon Monitron 
+ Amazon Personalize 
+ Amazon Polly 
+ Amazon Rekognition 
+ Amazon Textract 
+ Amazon Translate 
+ Amazon Transcribe 
+ AWS Deep Learning AMIs 
+ AWS Deep Learning Containers 
+ AWS DeepComposer 
+ AWS DeepLens 
+ AWS DeepRacer 
+ AWS Inferentia 
+ AWS Panorama 
+ Apache MXNet on AWS 
+ PyTorch on AWS 
+ TensorFlow on AWS 
+ 
+  Management & Governance
+
+ Amazon CloudWatch 
+ Amazon Managed Grafana 
+ Amazon Managed Service for Prometheus 
+ AWS Auto Scaling 
+ AWS Chatbot 
+ AWS CloudFormation 
+ AWS CloudTrail 
+ AWS Command Line Interface 
+ AWS Compute Optimizer 
+ AWS Config 
+ AWS Control Tower 
+ AWS Console Mobile Application 
+ AWS Distro for OpenTelemetry 
+ AWS Health Dashboard 
+ AWS Launch Wizard 
+ AWS License Manager 
+ AWS Management Console 
+ AWS Managed Services 
+ AWS OpsWorks 
+ AWS Organizations 
+ AWS Proton 
+ AWS Resilience Hub 
+ AWS Service Catalog 
+ AWS Service Management Connector 
+ AWS Systems Manager 
+ AWS Trusted Advisor 
+ AWS Well-Architected Tool  
+ 
+  Media Services
+
+ Amazon Elastic Transcoder 
+ Amazon Interactive Video Service 
+ Amazon Kinesis Video Streams 
+ Amazon Nimble Studio 
+ AWS Elemental MediaConnect 
+ AWS Elemental MediaConvert 
+ AWS Elemental MediaLive 
+ AWS Elemental MediaPackage 
+ AWS Elemental MediaStore 
+ AWS Elemental MediaTailor 
+  AWS Elemental Appliances & Software 
+ 
+  Migration & Transfer
+
+ AWS Migration Hub 
+ AWS Application Discovery Service 
+ AWS Application Migration Service (MGN) 
+ AWS Database Migration Service 
+ AWS Mainframe Modernization 
+ AWS DataSync 
+ AWS Server Migration Service 
+ AWS Snow Family 
+ AWS Transfer Family 
+ Migration Evaluator (Formerly TSO Logic) 
+ 
+  Networking & Content Delivery
+
+ Amazon VPC 
+ Amazon API Gateway 
+ Amazon CloudFront 
+ Amazon Route 53 
+ AWS App Mesh 
+ AWS Cloud Map 
+ AWS Cloud WAN 
+ AWS Direct Connect 
+ AWS Global Accelerator 
+ AWS Private 5G 
+ AWS PrivateLink 
+ AWS Transit Gateway 
+ AWS VPN 
+ Elastic Load Balancing 
+ 
+  Quantum Technologies
+
+ Amazon Braket 
+ Amazon Quantum Solutions Lab 
+ 
+  Robotics
+
+ AWS IoT RoboRunner 
+ AWS RoboMaker 
+ 
+  Satellite
+
+ AWS Ground Station 
+ 
+  Security, Identity, & Compliance
+
+ AWS Identity and Access Management (IAM) 
+ Amazon Cognito 
+ Amazon Detective 
+ Amazon GuardDuty 
+ Amazon Inspector 
+ Amazon Macie 
+ AWS Artifact 
+ AWS Audit Manager  
+ AWS Certificate Manager 
+ AWS CloudHSM 
+ AWS Directory Service 
+ AWS Firewall Manager 
+ AWS Key Management Service 
+ AWS Network Firewall 
+ AWS Private Certificate Authority 
+ AWS Resource Access Manager 
+ AWS Secrets Manager 
+ AWS Security Hub 
+ AWS Shield 
+ AWS IAM Identity Center 
+ AWS WAF 
+ 
+  Serverless
+
+ AWS Lambda 
+ Amazon API Gateway 
+ Amazon DynamoDB 
+ Amazon EventBridge 
+ Amazon SNS 
+ Amazon SQS 
+ Amazon S3 
+ AWS AppSync 
+ AWS Fargate 
+ AWS Step Functions 
+ 
+  Storage
+
+ Amazon Simple Storage Service (S3) 
+ Amazon Elastic Block Store (EBS) 
+ Amazon Elastic File System (EFS) 
+ Amazon FSx for Lustre 
+ Amazon FSx for NetApp ONTAP 
+ Amazon FSx for OpenZFS 
+ Amazon FSx for Windows File Server 
+ Amazon File Cache 
+ Amazon S3 Glacier storage classes 
+ AWS Backup 
+ AWS Elastic Disaster Recovery (DRS) 
+ AWS Snow Family 
+ AWS Storage Gateway 
+ 
+ 
+  Solutions
+
+  By Use Case
+
+ Archiving 
+ Backup and Restore 
+ Blockchain 
+ Cloud Migration 
+ Cloud Operations 
+ Containers 
+ Content Delivery 
+ Database Migrations 
+ Data Lakes and Analytics 
+ DevOps 
+ E-Commerce 
+ Edge Computing 
+ Front-End Web & Mobile Development 
+ High Performance Computing 
+ Hybrid Cloud Architectures 
+ Internet of Things 
+ Machine Learning 
+ Modern Application Development 
+ Remote Work 
+ Scientific Computing 
+ Serverless Computing 
+ Websites 
+ 
+  By Industry
+
+ Advertising and Marketing 
+ Aerospace and Satellite 
+ Automotive 
+ Consumer Packaged Goods 
+ Education 
+ Financial Services 
+ Games 
+ Government 
+ Healthcare 
+ Financial Services 
+ Industrial 
+ Media and Entertainment 
+ Nonprofit 
+ Oil and Gas 
+ Power and Utilities 
+ Retail 
+ Semiconductor 
+ Sports 
+ Sustainability 
+ Telecommunications 
+ Travel and Hospitality 
+ 
+  By Organization Type
+
+ Enterprise 
+ Public Sector 
+ Small and Medium Business 
+ Startups 
+ 
+ 
+  Pricing
+
+ Learn About AWS Pricing 
+ AWS Free Tier 
+ Optimize Your Costs 
+  Calculate Your Costs
+
+ AWS Pricing Calculator 
+ 
+ 
+ Documentation 
+  Learn
+
+  Introduction to AWS
+
+ What is AWS 
+ What is Cloud Computing 
+ AWS Inclusion, Diversity & Equity 
+ AWS Global Infrastructure 
+ Cloud Computing Concepts Hub 
+ 
+  Getting Started with AWS
+
+ AWS Fundamentals 
+ Getting Started Resource Center 
+ 
+  Training and Certification
+
+ AWS Training 
+ AWS Partner Training 
+ AWS Certification 
+ AWS re/Start 
+ AWS Academy 
+ 
+  Developer Center
+
+ AWS Developer Center 
+ Tools and SDKs 
+ Developer Community 
+ 
+  Architecture Center
+
+ AWS Architecture Center 
+ AWS Well-Architected 
+ 
+  The Amazon Builders' Library
+
+ The Amazon Builders' Library 
+ 
+  Customer Stories
+
+ Success Stories and Case Studies 
+ Cloud Innovators 
+ Fix This Podcast 
+ 
+  AWS Executive Insights
+
+ C-Suite: Strategy and Transformation 
+ CFO: Finance and Investment 
+ CHRO: Workforce Transformation 
+ CISO: Security Leadership 
+ 
+  AWS is Hiring
+
+ Search and apply for AWS Careers 
+ Learn about life at AWS 
+ Explore Software Development roles 
+ Student and Graduate Opportunities 
+ 
+ 
+  Partner Network
+
+  Work with AWS Partners
+
+ Connect with a partner 
+ View success stories 
+ Watch APN TV videos 
+ Explore AWS Marketplace 
+ Find AWS Partners and Solutions 
+ 
+  Become an AWS Partner
+
+ Join the APN 
+ Choose your Partner Paths 
+ Grow your business with partner programs 
+ Leverage partner trainings and certifications 
+ Discover APN resources 
+ Log in to AWS Partner Central 
+ 
+ 
+  AWS Marketplace
+
+ Operating Systems 
+ Data Analytics 
+ Security 
+ Networking 
+ Dev Ops 
+ Storage 
+ Machine Learning 
+ Data Products 
+ See All 
+ 
+  Customer Enablement
+
+ AWS Customer Enablement 
+ AWS Support 
+ AWS Training and Certification 
+ AWS Professional Services 
+ AWS IQ 
+ AWS Managed Services 
+ AWS re:Post 
+ 
+  Events
+
+ AWS Events and Webinars 
+ AWS Events Content 
+ AWS re:Invent 
+ Training and Certification Events  
+ Online Tech Talks 
+ Public Sector Events 
+ 
+  Explore More
+
+  Stay Connected
+
+ AWS Blog 
+ Events and Webinars 
+ AWS in the News 
+ What's New 
+ re:Invent 
+ Press Releases 
+ 
+  Resources
+
+ Analyst Reports 
+ AWS Executive Insights 
+ AWS Architecture Center 
+ Documentation 
+ Whitepapers 
+ AWS Education 
+ 
+  Helpful Links
+
+ Knowledge Center 
+ AWS re:Post 
+ Technical Product FAQ's 
+ Customer Support Center 
+ AWS Personal Health Dashboard 
+ How to Buy AWS for Public Sectors 
+ 
+  Professional & Managed Services
+
+ AWS Professional Services 
+ AWS Managed Services 
+ 
+  Support
+
+ AWS Support Plans 
+ Learn more about AWS Support 
+ 
+ AWS is Hiring 
+ 
+ Contact Us 
+ Sign into Console 
+
+
+
+
+
+
+
+
+
+
+
+ Products 
+ Solutions 
+ Pricing 
+ Introduction to AWS 
+ Getting Started 
+ Documentation 
+ Training and Certification 
+ Developer Center 
+ Customer Success 
+ Partner Network 
+ AWS Marketplace 
+ Support 
+ AWS re:Post 
+ Log into Console 
+ Download the Mobile App 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Amazon Web Services 
+            
+
+Legal
+
+
+
+
+
+
+  Cookie Notice  
+
+
+
+Related Links
+
+  What is AWS? 
+  AWS Products & Services  
+  AWS Solutions  
+
+
+
+
+
+
+
+
+
+
+
+  Cookie Notice 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last updated: September 3, 2020
+We use cookies, pixels, and other similar technologies (collectively, “cookies”) to recognize your browser or device, learn more about your interests, provide you with essential features and services, and for additional purposes, including:
+
+Recognizing you when you sign in to use our offerings. This allows us to provide you with recommendations, display personalized content, and provide other customized features and services.
+Keeping track of your specified preferences. This allows us to honor your likes and dislikes, such as your language and configuration preferences.
+Conducting research and diagnostics to improve our offerings.
+Preventing fraudulent activity.
+Improving security.
+Delivering content, including ads, relevant to your interests on AWS sites and third-party sites (see the Interest-Based Ads notice for how we use cookies in serving interest-based ads).
+Reporting. This allows us to measure and analyze the performance of our offerings.
+
+Some AWS cookies are deleted at the end of your browsing session, while others persist between sessions. Essential AWS cookies remain on your device for up to 365 days from your last visit to our site. Other AWS cookies remain on your device for up to 365 days from their last use.
+Information we collect through cookies
+Examples of the information we automatically collect through cookies include:
+
+Network and connection information, such as the Internet protocol (IP) address used to connect your computer or other device to the Internet and information about your Internet service provider
+Computer and device information, such as device, application, or browser type and version, browser plug-in type and version, operating system, or time zone setting
+The location of your device or computer
+Authentication and security credential information
+Content interaction information, such as content downloads, streams, and playback details, including duration and number of simultaneous streams and downloads
+The full Uniform Resource Locators (URL) clickstream to, through, and from our site (including date and time) and AWS Offerings, content you viewed or searched for, page response times, download errors, and page interaction information (such as scrolling, clicks, and mouse-overs)
+
+Managing cookies
+Cookie preferences on AWS sites Our cookies allow you to take advantage of some essential and useful features. Blocking some types of cookies may impact your experience of our sites. You can change your cookie preferences at any time by clicking Cookie preferences in the footer of the AWS site.  Browser settings You can manage browser cookies through your browser settings. The 'Help' feature on most browsers will tell you how to remove cookies from your device, prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, how to disable cookies, and when cookies will expire. Check the support site for your browser to understand privacy settings available to you.  If you block or reject some of our cookies through your browser’s settings, you might not be able to use certain offerings that require you to sign in to an account and some features and services may not work. You might also have to manually adjust your preferences or settings every time you visit AWS sites. If your browser includes Intelligent Tracking Prevention (ITP), preferences specific to our sites may reset on an ongoing basis. These resets are managed by your browser, not by us.
+Third party cookies
+Approved third parties may also set cookies when you interact with our offerings. Third parties include search engines, providers of measurement and analytics services, social media networks, and advertising companies. These third parties use cookies in the process of delivering content, including ads relevant to your interests, to measure the effectiveness of their ads, and to perform services on behalf of AWS.  Below is a list of the third parties that may set cookies when you use AWS Offerings. You can learn more about how these third parties use information collected through cookies by reviewing the privacy policies on their sites. 
+
+
+
+
+
+
+
+Adobe
+adobe.com
+
+
+Arbor Technologies
+pippio.com
+
+
+BlueKai
+oracle.com
+
+
+Dataxu
+dataxu.com
+
+
+Discourse
+discourse.org
+
+
+Disqus
+disqus.com
+
+
+Drawbridge
+drawbridge.com
+
+
+FlashTalking
+flashtalking.com
+
+
+Gartner
+gartner.com
+
+
+Google
+google.com
+
+
+Intrado
+intrado.com
+
+
+LinkedIn
+linkedin.com
+
+
+Marketo
+marketo.com
+
+
+MediaMath
+mediamath.com
+
+
+Salesforce
+salesforce.com
+
+
+Shopify
+shopify.com
+
+
+Snapchat
+snapchat.com
+
+
+Splash
+splashthat.com
+
+
+Tapad
+tapad.com
+
+
+The Trade Desk
+adsrvr.org
+
+
+TowerData
+towerdata.com
+
+
+TransUnion
+iovation.com
+
+
+Twitter
+twitter.com
+
+
+Vidyard
+vidyard.com
+
+
+YouTube
+youtube.com
+
+
+Zendesk
+zendesk.com
+
+
+
+
+
+
+
+
+We also embed features from third parties on our sites, and those third parties may set cookies if you engage with those features. For example, we embed chat functionality from Salesforce and videos from Vidyard or our official YouTube channel using YouTube’s privacy-enhanced mode. These experiences set cookies on your device once you click on a chat link or video player. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Sign In to the Console 
+
+ Learn About AWS
+
+What Is AWS?
+What Is Cloud Computing?
+AWS Diversity, Equity & Inclusion
+What Is DevOps?
+What Is a Container?
+What Is a Data Lake?
+AWS Cloud Security
+What's New
+Blogs
+Press Releases
+
+
+
+ Resources for AWS
+
+Getting Started
+Training and Certification
+AWS Solutions Portfolio
+Architecture Center
+Product and Technical FAQs
+Analyst Reports
+AWS Partners
+
+
+
+ Developers on AWS
+
+Developer Center
+SDKs & Tools
+.NET on AWS
+Python on AWS
+Java on AWS
+PHP on AWS
+JavaScript on AWS
+
+
+
+ Help
+
+Contact Us
+File a Support Ticket
+Knowledge Center
+AWS re:Post
+AWS Support Overview
+Legal
+AWS Careers
+
+
+
+
+
+
+
+  Create an AWS Account 
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+         Amazon is an Equal Opportunity Employer: 
+         Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.
+
+
+
+
+
+
+
+
+
+Language
+عربي
+Bahasa Indonesia
+Deutsch
+English
+Español
+Français
+Italiano
+Português
+Tiếng Việt
+Türkçe
+Ρусский
+ไทย
+日本語
+한국어
+中文 (简体)
+中文 (繁體)
+
+
+
+
+
+
+
+
+Privacy
+|
+Site Terms
+|
+ Cookie Preferences 
+|
+© 2022, Amazon Web Services, Inc. or its affiliates. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ending Support for Internet Explorer
+ Got it 
+
+
+       AWS support for Internet Explorer ends on 07/31/2022. Supported browsers are Chrome, Firefox, Edge, and Safari. 
+      Learn more »
+
+
+Got it
+
+
+
+
+
+
+
+ Close 
+
+
+
+عربي
+Bahasa Indonesia
+Deutsch
+Español
+Français
+Italiano
+Português
+
+
+
+
+Tiếng Việt
+Türkçe
+Ρусский
+ไทย
+日本語
+한국어
+中文 (简体)
+中文 (繁體)
+
+
+
+
+ Close 
+
+AWS Management Console
+Account Settings
+Billing & Cost Management
+Security Credentials
+AWS Personal Health Dashboard
+
+
+ Close 
+
+Support Center
+Knowledge Center
+AWS Support Overview
+AWS re:Post
+

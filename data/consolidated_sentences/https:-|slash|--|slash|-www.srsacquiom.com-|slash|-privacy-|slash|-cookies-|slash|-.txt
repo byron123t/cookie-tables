@@ -1,0 +1,306 @@
+Cookie Notice - SRS Acquiom
+Who we help
+Solutions
+Solutions Overview
+Solutions
+Private Client Portal
+Virtual Data Room
+Enhanced Stockholder Solicitation
+Payments
+Escrows
+Shareholder Representation
+Loan Agency
+Insights
+All Insights
+Topics
+Coronavirus Impacts
+Deal Terms Analysis
+Escrow and Payments
+Life Sciences
+Loan Agency
+Representations & Warranties Insurance
+Shareholder Representation
+Tools for Practitioners
+Stay Up to Date
+Newsletters
+About Us
+About Us Overview
+More
+Team
+News
+Featured Deals
+Featured Clients
+MarketStandard®
+Login
+Contact Us
+Home
+MarketStandard®
+Login
+Home
+Who We Help
+Solutions
+Solutions Overview
+Private Client Portal
+Virtual Data Room
+Enhanced Stockholder Solicitation
+Payments
+Escrows
+Shareholder Representation
+Loan Agency
+Insights
+All Insights
+TOPICS
+Coronavirus Impacts
+Deal Terms Analysis
+Escrow and Payments
+Life Sciences
+Loan Agency
+Representations & Warranties Insurance
+Shareholder Representation
+Tools for Practitioners
+Newsletters
+About Us
+About Us Overview
+Our Team
+News
+Featured Deals
+Featured Clients
+Newsletter
+Contact Us
+Cookie Notice
+COOKIE NOTICE OF SRS ACQUIOM INC.
+October 3, 2022
+This Cookie Notice applies to SRS Acquiom Inc
+(“SRS Acquiom” or “we”) and its related affiliates, and our websites at srsacquiom.com (“Websites“)
+This Cookie Notice explains how we use cookies and similar technologies to recognize you when you visit the Websites, why we use them and rights to control our use of them.
+What are cookies?
+Cookies are small text files that are sent to or accessed from your web browser or your computer’s hard drive
+A cookie typically contains the name of the domain (internet location) from which the cookie originated, the “lifetime” of the cookie (i.e., when it expires) and a randomly generated unique number or similar identifier
+A cookie also may contain information about your computer, such as user settings, browsing history and activities conducted while using the Websites
+To learn more about cookies generally, visit www.allaboutcookies.org.
+Cookies set by the website owner (in this case, SRS Acquiom) are called first-party cookies
+Cookies set by any other party are called third-party cookies
+Third-party cookies enable third-party features or functionality on or through the Websites, such as interactive content and analytics
+The parties that set third-party cookies can recognize your browser both when it visits the Websites and when it visits certain other websites.
+This website uses cookies to remember visitors and optimize site functionality
+Some cookies are necessary, while others help us to understand how the site is being used
+The information does not directly identify you and is mostly used to make the site work as you expect it to.
+This website uses cookies, including Google Analytics, to count visits and traffic sources so we can measure and improve its performance
+The cookie providers may also transfer this information to third parties where required to do so by law, or where such third parties process information on the cookie providers’ behalf
+The cookie providers will not associate your IP address with any other data held by the cookie provider.
+You can choose not to allow certain types of cookies
+However, you cannot opt out of our Necessary Cookies, as they are deployed to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings)
+By using the services and tools provided through SRS Acquiom Clearinghouse®, SRS Acquiom ComPort® (Shareholder Representative Portal), SRS Acquiom MarketStandard®, SRS Acquiom Deal Dashboard, SRS Acquiom Workspaces, SRS Acquiom Virtual Data Room or SRS Acquiom Private Client Portal (including any white labelled version thereof used or accessed via a third party custom domain), you accept the cookies that are placed in connection with your use of such services and tools and are intentionally directing SRS Acquiom or its affiliates to make your cookie data available to our third party partners to optimize your experience and  support the functionality of such services and tools, consistent with your expectations under applicable privacy and data protection laws
+These cookies are critical to the performance and proper functioning of such services and tools and accordingly, are considered Necessary Cookies
+As such, you cannot opt out of the placement of such cookies
+You further acknowledge that we have a legitimate interest in placing such cookies in connection with your use of such services and tools.
+Cookie Settings
+Below you can learn more about the cookies we use.
+Necessary Cookies
+These cookies are necessary for the website/application to function and cannot be switched off in our systems
+They are usually set in response to actions made by a user in a request for services, such as logging in or filling in a form.
+Recommended Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve performance of our site and applications
+They help us to know which pages are the most and least popular and see how visitors move around the site(s)
+All information collected by these cookies is aggregated and therefore anonymous
+If you do not allow these cookies, we will be less able to optimize our Websites’ performance.
+Marketing Cookies
+These cookies may be set through our site by advertising partners
+They may be used by those companies to build a profile of your interests and show you relevant advertisements on other sites
+These cookies do not directly store personal information, but can uniquely identify information such as your browser and device.
+SRS Acquiom may use other tracking technologies, like web beacons.
+Cookies are not the only way to recognize or track visitors to a website
+We may use other data collection technologies from time to time, like web beacons (sometimes called “tracking pixels” or “clear gifs”)
+A web beacon is computer code that contains a unique identifier that enables us to monitor user activity and traffic of the Websites
+This other data collection technology enables SRS Acquiom to monitor the traffic patterns of users from one page on the Websites to another, to deliver or communicate with cookies, to understand whether you have come to the Websites from an online advertisement displayed on a third-party website, to improve performance of the Websites and to measure the success of our email marketing campaigns
+This other data collection technology relies on cookies to function properly, which means that declining cookies will impair the functioning.
+How can you control cookies?
+You have the right to decide whether to accept or reject cookies
+You can set your web browser controls to accept or refuse cookies
+You also may be able to reject mobile device identifiers by activating the appropriate setting on your mobile device.
+If you choose to reject cookies, you may still use the Websites, but some areas may be restricted or not properly function
+To learn how to manage your cookies, please follow the instructions from your specific browser.
+If you would like to find out more information, please visit http://www.youronlinechoices.com
+SRS Acquiom may periodically update this Cookie Notice.
+We may update this Cookie Notice from time to time in order to reflect changes to the cookies we use or for other operational, legal, or regulatory reasons
+Please therefore re-visit this Cookie Notice regularly to stay informed about our use of cookies and related technologies.
+The Effective Date at the top of this Cookie Notice indicates when it was last updated.
+Where can I get more information?
+If you have any questions about our use of cookies or other technologies, please contact SRS Acquiom at Privacy@srsacquiom.com
+Necessary Cookies
+Cookie Name
+Function
+Applicable System
+_acquiom_workspaces_session_id
+This is set by SRS Acquiom to track and make available login session information within the application.
+ws.acquiom
+ajs%3Atest
+ajs_group_id
+ajs_user_id
+These are set by Atlassian
+Allow the application to track website traffic, related metrics, visitor usage, and application performance and stability
+Cookies have lifespan of 1 year
+ws.acquiom
+Auth0 did, did, did_compat Auth0_compat
+These are set by Auth0, our Multi-factor Authentication vendor
+Allowing for device identification (did and did_compat)
+and implement the session layer and anomaly detection (Auth0 and Auth0_compat).
+Deal Dashboard
+AWSALB, AWSALBCOR
+These are set by Amazon Web Services to provide load balancing functionality.
+Acquiom Clearinghouse
+Cfduid, cf_bm
+Speeds up page load cycles, no user information gathered.
+Corporate Website
+Cookie_test
+This session Cookie is set by SRS Acquiom and allows for tracking of cookies set on the site.
+ws.acquiom
+Doppio_login
+This is set by SRS Acquiom to establish and maintain a user session upon successful login.
+ws.acquiom
+DocuSign_ID
+Allows user to access the electronic signature application
+Acquiom Clearinghouse
+eupubconsent
+This is set by Auth0 to allow for single sign-on that do not support the sameSite=none attribute
+Used by IAB Europe T&C Framework to store [encrypted] user’s consent to the data collection Purposes.
+Deal Dashboard
+Ga, Gat, Gid
+These are set by Google to provide data for related reporting capabilities.
+Acquiom Clearinghouse
+Comport
+MarketStandard Demo
+Deal Dashboard
+Laravel_session
+Authenticates a user’s session within our application(s).
+Acquiom Clearinghouse
+Comport
+NID
+This is set by Google to remember your preferences and other information, such as filter settings.
+ws.acquiom
+OptanonAlertBoxClosed, OptanonConsent
+Enables the website not to show the cookie banner more than once to a user
+The cookie has a one-year lifespan and contains no personal information.
+Acquiom Clearinghouse
+Comport
+MarketStandard
+Deal Dashboard
+Corporate Website
+ws.acquiom
+pendo_meta,
+pendo_identity,
+pendo_visitorId,
+pendo_accountId,
+mr_referrer,
+ft_referrer,
+zlcmid
+These are set up to support Pendo, which provides in-app guides, tool tips and product analytics and integration with our helpdesk Zendesk.
+Acquiom Clearinghouse
+ws.acquiom
+Same-site
+Ensures the data can only be set and accessed by the application.
+Acquiom Clearinghouse
+XSRF-Token
+Assists with security in preventing Cross-Site Request Forgery attacks.
+Comport
+uetvid
+Microsoft uses cookies to track visitors and analyze the performance of these ads across their network.
+Acquiom Clearinghouse
+Recommended Cookies
+Cookie Name
+Function
+Applicable System
+_ce.cch
+These are set by Crazy Egg and are used to determine if cookies can be added.
+Corporate Website
+_ce.gtld
+These are set by Crazy Egg and are used to identify the top level domain.
+Corporate Website
+_ce.s
+These are set by Crazy Egg and track a visitor session unique ID, tracking host and start time.
+Corporate Website
+Ga, Gat, Gid
+These are set by Google to provide data for related reporting capabilities.
+Corporate Website
+Gclxxxx
+These are set by Google
+It is a conversion tracking cookie, which helps to improve performance.
+Corporate Website
+_GRECAPTCHA
+This cookie is set by Google reCAPTCHA, which protects our site against spam inquiries on contact forms.
+Corporate Website
+Pardot, Ipv322701
+These are set by Pardot, a marketing automation platform which provides lead generation services to businesses to track workflows.
+Corporate Website
+Visitor_id hash
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+Corporate Website
+Vuid
+This is a Vimeo Video Hosting/Sharing cookie.
+Corporate Website
+Marketing Cookies
+Cookie Name
+Function
+Applicable System
+Anj, uuid2
+These are set by AppNexus Inc
+to provide a range of online advertising technology and services.
+Corporate Website
+Bcookie, bscookie
+These are set by LinkedIn to support the use of embedded services such as buttons that allow for sharing or posting of information.
+Corporate Website
+IDE
+Test_Cookie
+These are set by Doubleclick (Google) for their advertising exchange.
+Corporate Website
+fbp
+Facebook uses cookies to track visitors and analyze the performance of these ads across their network.
+clearinghouse2.srsacquiom.com
+Lang
+These are set by LinkedIn_Twitter to add functionality to the website they are on
+They can be used to gain insight into types of visitors to the site based on LinkedIn or Twitter profiles
+Cookies are set regardless of whether or not the visitor has an active profile and allow for tracking
+For this reason, it is classified as a primarily tracking/targeting domain.
+Corporate Website
+Lidc, LISSC, UserMatchHistory, li_gc, AnalyticsSyncHistory
+These are set by LinkedIn to add functionality to websites such as buttons that allow for sharing or posting information
+Store consent of guests regarding the use of cookies for non-essential purposes
+Used to store information about the time a sync with the Ims_analytics cookie took place for users in designated countries.
+Although such buttons add functionality to the website they are on, cookies are set regardless of whether or not the visitor has an active LinkedIn profile
+For this reason, it is classified as a primarily tracking/targeting domain.
+Corporate Website
+NID
+These are set by Google for Google advertising and tracking across sites that use its services.
+Corporate Website
+Suid, suid_legacy
+These are set by Simpli.fi and are used for advertising.
+Corporate Website
+Ti_, _tr_va1*
+These are set by Tribl.io and track how a visitor uses our website and to monitor performance of marketing campaigns.
+Corporate Website
+the_utm_codes
+These are set by Google
+The utm or “Urchin tracking module” are five variants of URL parameters used by marketers to track the effectiveness of online marketing campaigns across traffic sources and publishing media.
+Corporate Website
+the_lead_source
+These are set by Salesforce and will analyze the URLs and identify the lead channel and the source website.
+Corporate Website
+Terms & Conditions
+Privacy Policy
+CCPA: Notice of Collection
+Data Security
+Careers
+Contact Us
+Subscribe to Newsletter
+Support / FAQs
+Connect
+Securities products and Payments services offered through Acquiom Financial LLC, an affiliate
+broker-dealer of SRS Acquiom Inc
+and member FINRA/SIPC
+Visit
+www.finra.org for information about FINRA membership
+Acquiom Financial does not make recommendations,
+provide investment advice, or determine the suitability of any security for any particular person or
+entity.
+© 2022 SRS Acquiom Inc.

@@ -1,0 +1,7 @@
+============================= test session starts ==============================
+platform linux -- Python 3.9.12, pytest-7.1.2, pluggy-1.0.0
+rootdir: /mnt/sda/bjaytang/privacy-agi
+plugins: base-url-2.0.0, playwright-0.3.0
+collected 0 items
+
+============================ no tests ran in 0.01s =============================

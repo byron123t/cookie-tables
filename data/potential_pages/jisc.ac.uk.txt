@@ -1,0 +1,3 @@
+https://www.jisc.ac.uk/website/cookies
+https://www.jisc.ac.uk/website/cookies?loc=footer
+https://knowcookies.com/

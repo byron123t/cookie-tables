@@ -1,0 +1,171 @@
+Privacy policy | BeOpBeOp for publishersBeOp for advertisersBlogAbout usSign in🇫🇷🇺🇸Privacy policyBeOp is a solution for creating and disseminating editorial or advertising content, also called components
+This content is created via a dedicated platform, the DASHBOARD, while a WIDGET allows the content to be interacted with directly on the publishers’ websites.
+Parties involved:
+The publishers and their advertising agencies use BeOp for the purpose of creating content to collect opinions from their audiences, carry out surveys, organize contests - subject to rules or otherwise - or test users’ knowledge by creating quizzes
+BeOp also allows them to monetize their space by activating the advertising tool, which allows them to disseminate content from partner advertisers
+BeOp is committed to prioritizing editorial components
+in addition, sponsored content will only use free space not utilized by partner media.
+Advertisers and their agencies use BeOp to create sponsored content designed to collect information, conduct surveys, and measure user engagement and interaction with the advertised brand.
+Users who browse the publishers’ websites utilize the BeOp WIDGET to interact with the component’s creator.
+Finally, BeOp possesses its own advertising activity that receives orders from agencies and/or advertisers in order to create, schedule and disseminate sponsored campaigns on behalf of brands.
+Data:
+BeOp may be compelled to collect data on how BeOp WIDGETS are used by the user
+BeOp distinguishes between two types of data:
+1 - Service data:
+Necessary for the proper functioning of our online services, these data are collected through proprietary BeOp tracking, and used by BeOp for BeOp
+They represent how the WIDGET is used by the users, and, among other things, enable us to:
+Effectively collect information on user participation with components
+Create statistics in order to determine the results of diverse surveys
+Inform the user or the component's creator of a component's number of participants.
+To further ensure the proper functioning of our online services, a cookie is installed on the publisher's domain ONLY to identify users and ensure they can browse properly using a BeOp widget
+Among other things, this cookie enables us to:
+Effectively collect information on user participation with components
+Enable users to continue using a component at the point where they left it during a previous browsing session
+Keeps users from seeing the same sponsored component again if they have already provided responses
+Without the users’ consent, BeOp will not use the service data collected to create user profiles in order to display targeted or personalized advertising.
+2 - Additional data:
+When users participate via BeOp forms, or when engaging or registering with our partners, their personal data are collected and stored by BeOp on European servers, and can be exported by the component's owner for a period of 13 months.
+BeOp's partners may use third-party tracking services, which may subsequently be used to display personalized advertising to users via tools other than those of BeOp
+These third parties are only authorized to use the collected information to ensure their services function properly.
+BeOp acts in the capacity of technical service provider for these partners, and thus agrees to provide them with all the tools necessary to properly acquire user consent via the BeOp DASHBOARD
+The component’s creator must decide whether it is necessary to include a means of acquiring consent to use personal data.
+Finally, BeOp joined the IAB's TCF in September 2019 in order to acquire user consent for the following purposes:
+Storing and accessing a third-party cookie (see below)
+Personalizing the advertising/component based on a user's utilization of BeOp
+Targeted dissemination of the advertising/component based on the information collected via a BeOp third-party cookie
+Measuring the effectiveness of the advertising/component on users
+Using the geographic location of users to provide them with content adapted to their location
+If users do not consent to the use of the third-party cookie, BeOp agrees not to fulfill the purposes mentioned above in order to disseminate a component that requests it
+Advertising delivered back via the user’s WIDGET will be selected randomly from content not requiring these selective and restrictive criteria.
+Cookie definition
+A cookie is a small file stored on a user's hard drive in a transparent manner when browsing certain websites, and which stores information for subsequent visits
+A technology present on website A and website B will be incapable of reading information from the other website.
+A first-party cookie is used to store information for a single domain, that of the website the user is visiting when the cookie is installed, or for a third-party domain if the user consents.
+A third-party cookie is used to store information for the entire Web and is specific to the technology that installed it at a given point in time
+If this technology is present on website A and website B, it will be capable of reading information from both websites.
+On the publisher domain
+Cookie nameDomainFunctionDuration
+beopidPublisher domainPreserve session information across reloads and identify users as unique1 year
+On the advertiser domain
+Cookie nameDomainFunctionDuration
+beopSessionIdAdvertiser domainCount sessions correctlySession
+beopConversionContextAdvertiser domainPreserve conversion context information (campaign ID, referrer page…) across reloadsSession
+On BeOp, as third-party
+Cookie nameDomainFunctionDuration
+beopConversionRedirectBeOpPass conversion context information (campaign ID, referrer page…) to the advertiser websiteSession
+On BeOp, as first party
+Cookie nameDomainFunctionDuration
+tokenBeOpIdentify user15 minutes
+asBeOpKeep the user logged as the account they wishSession
+languageBeOpShow the platform in the preferred language1 year
+Use of data:
+In general, the data can be used to correct errors, improve BeOp products, and, subject to agreement, transmit information to partners (cf
+2 - Additional data).
+Simple campaigns
+As part of its campaigns without retargeting purposes, BeOp agrees to extract browsing data only for dissemination at that moment and for statistical purposes, and not to create user profiles
+BeOp does its best to anonymize the browsing IP address as early as possible in the data storage chain
+Among browsing data used for dissemination and statistics, we list:
+the URL of the visited web page
+the location determined by the IP address
+hardware information (telephone, PC, brand, etc.)
+browser information (Name and browser version)
+a user identifier retrieved by a cookie that we may have installed for the user
+These different data enable us to make sure the various services are functioning correctly in order to:
+Keep from presenting the same component to the same person for voting
+Semantically target the context in which the component is disseminated
+Geographically target the context in which the component is disseminated
+Analyze the context in which the component is currently, or has been, disseminated
+Targeted campaigns
+As part of its retargeting campaigns, and with the user's consent, BeOp collects the following information in addition to that which it collects for simple campaigns:
+A cross-site user identifier
+A history of the user's visibility with the BeOp components delivered to the user
+A history of the user's interactions with the BeOp components delivered to the user
+These different data enable BeOp to:
+Perform cookie syncing with third-party data providers
+Accurately target users and their areas of interest for advertising selection
+Users:
+While browsing, users will be invited to consult this policy outlining the proper functioning of the BeOp services and how we use their data (cf
+1 - Service data).
+For any additional data, the BeOp WIDGET or the publisher's Consent Management Platform (or CMP) displaying the component will request consent on a case-by-case basis according to the component parameters established by the partners.
+Rights to the data:
+Users can ask to view their participation history for BeOp components at any time
+A button is available in the user account settings on the BeOp platform, or directly in the WIDGET on the publishers’ web pages
+Accessing and viewing the history requires users to register for a BeOp account with a valid email address.
+Right to be forgotten:
+Users can ask to be forgotten/erased from the BeOp data storage systems at any time
+A button is available in the user account settings on the BeOp platform, or directly in the WIDGET on the publishers’ web pages
+Users are processed and definitively forgotten, which will make it impossible to use the data stored with BeOp
+In order to conserve statistics, user votes will not be erased, but rather anonymized
+It will be impossible to associate a vote with a user
+BeOp agrees to send an email to any partner that has collected information on the user requesting to be forgotten
+This email will indicate the user's desire to be forgotten and ask the partner to anonymize the user as well.
+In addition, a button on this page will enable the user to request the deletion of any cookie stored for the domain beop.io
+Data storage period:
+The cookie stored in the user's browser by BeOp to ensure that the website functions properly will expire after 13 months
+BeOp has adopted a continuous improvement approach so that all its services that store and use data are assigned a date on which this data expires or is forgotten.
+The cookie stored for retargeting purposes expires after 24 hours and is refreshed at each visit.
+Legal Notice:
+BeOp reserves the right to disclose the information collected in the event of an investigation aimed at preserving public order, human rights, and people's safety.
+BeOp may, if bought out or sold, transfer the information collected to another technical specialist, and, if necessary, notify its users of the steps to follow so they can continue benefiting from the guarantees provided under this policy.
+BeOp reserves the right to change this policy in order to comply with legal requirements, or in the interest of transparency in the event we change the way in which we collect or use the data.
+IAB Europe Transparency & Consent Framework (TCF) integration details
+Thanks to the IAB TCF, BeOp is collecting consent from web user for these purposes:
+PurposeDescriptionWhy does BeOp need a consent
+Store and/or access information on a deviceCookies, device identifiers, or other information can be stored or accessed on your device for the purposes presented to web userSome cookie used by BeOp are used to make systems works in a perfect and optimized user experience
+But if the user don't want to benefit this experience, he has the choice to not accept cookie storage, even if he might inherit a poorer experience
+Select basic adsAds can be shown to the web user based on the content he is viewing, the app he is using, his approximate location, or his device typeIn the case of a sponsored content, hosted and delivered by BeOp, is requesting a capping behaviour, or a device type targeting (computer, mobile, ...), or needs the IP address for example to determine the non precise geolocation of the web user, or for any other need based on contextual data like the URL or the corpus of an article, BeOp will require the consent to the user before the delivery of such a content
+For other specific and legitimate needs linked to the BeOp features:
+PurposeDescriptionHow BeOp can use these purposes base on the legitimate interest legal basis
+Measure ads performanceThe performance and effectiveness of ads that web users see or interact with can be measured.BeOp is a company making polls and surveys
+It is its legitimate interest to measure performance from served ads for customer, because all the order, invoicing and payment process is based on these measures
+Without these, BeOp can't be paid or neither earn money
+Moreover, BeOp is never associating sponsored performance metrics to individuals, which preserve, by default, their personal interest in terms of privacy
+Measure contents performanceThe performance and effectiveness of content that web users see or interact with can be measured.For the same previous reason, BeOp has built all its services and features considering that everything is content, sponsored or editorial, whatever
+BeOp is a company making polls and surveys
+It is its legitimate interest to measure performance from served contents for customer, because these metrics are why BeOp is being used by its editorial customers
+Moreover, BeOp is never associating contents performance metrics to individuals, which preserve, by default, their personal interest in terms of privacy
+Develop and improve productsData can be used to improve existing systems and software, and to develop new productsBeOp is a tech and innovative company
+BeOp is pushing hard to make its products the best they can be in order to always have the X factor that make BeOp used by customers
+In order to test some new features, BeOp can make some AB test on part of its traffic, and track results
+But the web user data are never concerned by these tests
+BeOp is only aggregating a sum of specific metrics based on dimensions that are created specifically for the occasion of the ran AB test that facilitate product decisions
+Ensure security, prevent fraud, and debugData can be used to monitor for and prevent fraudulent activity, and ensure systems and processes work properly and securelyBeing a poll and survey company, BeOp need to ensure systems security against fraudulent bot votes that may cause troubles in BeOp's customers' contents
+Technically deliver ads or contentDevice can receive and send information that allows web users to see and interact with ads and contentThe displayed BeOp surveys can be as well sponsored or not
+The BeOp script, on publisher pages, should perform requests to the BeOp servers in order to take the decision if the current page needs an editorial or a sponsored content, based on publisher settings.
+To be fully transparent, here is the list of what BeOp DO NOT do as purpose :
+PurposeDescriptionWhy BeOp is not doing it
+Create a personalised ads profileA profile can be built about the web user and his interests to show him personalised ads that are relevant to himBeOp is never associating contextual data to sponsored profiles based on user interest or personal characteristics
+BeOp is NEVER creating neither saving sponsored profile
+Select personalised adsPersonalised ads can be shown to the web user based on a profile about himAs BeOp is never creating or saving sponsored profile, it is then impossible to select ads based on these profiles
+Create a personalised content profileA profile can be built about the web user and his interests to show him personalised content that is relevant to himAs previously said, BeOp is never associating contextual data to profiles based on user interest or personal characteristics because BeOp is never creating neither saving profile
+Select personalised content profilePersonalised content can be shown to the web user based on a profile about himAgain, BeOp is never creating or saving profile on web user, impossible to select one of them for content delivery
+Apply market research to generate audience insightsMarket research can be used to learn more about the audiences who visit sites/apps and view adsBeOp is not doing, for its customers, market research on audiences that are or not exposed to the contents
+However, BeOp can request a third party to perform some market research to evaluate performance and effectiveness of the tools and services, but in a general point of view, not for a specific campaign or customer
+In that contexte, web user consent is obviously requesting to be part of such a research
+Features that BeOp is declaring :
+FeatureDescriptionWhy BeOp needs it
+Receive and use automatically-sent device characteristics for identificationDevice might be distinguished from other devices based on information it automatically sends, such as IP address or browser type.BeOp made the choice to hash (crypt) the IP address of the user as soon as received and after information extraction for localisation (not accurate, see purpose "Select basic ads") in order to never be able to find again a web user IP in the other way
+This hash may be then used to perform fraud detection
+Moreover, BeOp can need to watch the browser type of the web user in order to manage the best as possible the compatibility list according to type of contents to return.
+Features that BeOp is declaring as not used :
+FeatureDescriptionWhy BeOp does not need it
+Match and combine offline data sourcesData from offline data sources can be combined with online activity in support of one or more purposesBeOp does not want to keep an historic of web users activities, and even less to reconcile them offline
+Link different devicesDifferent devices can be determined as belonging to you and your household in support of one or more purposesBeOp made the choice to net even be able to know a web user from a publisher A to a publisher B
+The choice to not try to link them on different devices is then obvious
+Use precise geolocation dataPrecise geolocation data can be used in support of one or more purposes
+This means location can be accurate to within several metersBeOp made the choice to localise web users thanks to its nearest server localisation
+This kind of localisation is inaccurate, with the zipcode or city precision level, but not closer
+Actively scan device characteristics for identificationThe device can be identified based on a scan of device`s unique combination of characteristicsBeOp believes in contextual targeting, and does not want to maintain a web user knowing that interact with contents.
+Standard Contractual Clauses
+BeOp uses the following third-party services to host their own services
+Here are their Standard Contractual Clauses that protect your data in the EU:
+Google (PDF Document)
+Amazon Web Services  (PDF Document, see annex 2)
+MongoDB  (PDF Document, see annex 1)
+Contact us:
+BeOp is always mindful of any questions you may have, such as those concerning your personal data, and we urge you to contact us by email at the following address: dpo@beop.io
+You can also send us a letter at the following address:
+BeOp - The Odyssey
+6 rue du Général Clergerie
+75116 Paris - France
+© BeOp 2015 - 2022🇫🇷 Français →🇺🇸 English →BeOpBlogAbout usAcknowledgmentsJobsContactResourcesDashboardDocumentationTerms & conditionsPrivacy PolicyFind usFacebookTwitterLinkedInMade with 💚 by the BeOp team

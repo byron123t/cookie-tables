@@ -1,0 +1,242 @@
+Privacy Policy | Nitro
+PDF & eSign
+PDF Tools & Software
+PDF Creator
+PDF Converter
+PDF Editor
+PDF Forms
+PDF Merge
+PDF on iOS
+PDF on macOS
+All PDF Features
+Electronic Signatures
+eSign & Request Signatures
+eSign Templates
+Custom Branding
+Bulk Signing
+Audit Trail
+All eSign Features
+Document Workflow Platform
+Software Integrations
+Business Intelligence & Analytics
+Service Expertise
+Identity Services
+Document Generation
+Industry Solutions
+Real Estate
+Healthcare
+Manufacturing
+Energy, Oil & Gas
+Financial Services
+Professional Services
+Education
+Plans & Pricing
+Resources
+Resource Hub
+Success Stories
+Trust Center
+Support Center
+Alternative Comparisons
+Blog
+Try for Free
+Business Trial
+Nitro PDF Productivity
+Enjoy powerful PDF tools free for 14 days
+Start Your Free Business Trial
+Individual Trial
+Nitro PDF Pro
+Enjoy powerful PDF tools free for 14 days
+Start Your Free Individual Trial
+eSignature Trial
+Nitro Sign Essentials
+Enjoy unlimited eSigning for free
+Start Your Free Trial
+About Nitro
+Partners
+Support
+Nitro Sign Login
+Buy Now
+Buy Now
+More
+CYBER WEEK PRESALE
+20% off Nitro PDF Pro for a limited time
+Make documents easier this holiday season
+Buy now
+About Nitro
+Partners
+Support
+Nitro Sign Login
+Menu
+PDF & eSign
+PDF Tools & Software
+PDF Creator
+PDF Converter
+PDF Editor
+PDF Forms
+PDF Merge
+PDF on iOS
+PDF on macOS
+All PDF Features
+Electronic Signatures
+eSign & Request Signatures
+eSign Templates
+Custom Branding
+Bulk Signing
+Audit Trail
+All eSign Features
+Document Workflow Platform
+Software Integrations
+Business Intelligence & Analytics
+Service Expertise
+Identity Services
+Document Generation
+Industry Solutions
+Real Estate
+Healthcare
+Manufacturing
+Energy, Oil & Gas
+Financial Services
+Professional Services
+Education
+Plans & Pricing
+Resources
+Resource Hub
+Success Stories
+Trust Center
+Support Center
+Alternative Comparisons
+Blog
+Try for Free
+Business Trial
+Nitro PDF Productivity
+Enjoy powerful PDF tools free for 14 days
+Start Your Free Business Trial
+Individual Trial
+Nitro PDF Pro
+Enjoy powerful PDF tools free for 14 days
+Start Your Free Individual Trial
+eSignature Trial
+Nitro Sign Essentials
+Enjoy unlimited eSigning for free
+Start Your Free Trial
+Buy Now
+Buy Now
+More
+Product Info
+Everything you need to know about Nitro Products - from product updates and downloads, to user guides and release notes.
+Product Details
+Product Updates
+Release Notes - Windows
+Release Notes - macOS
+Server Technical Details
+Updates & Sunset Policy
+User Guides
+Nitro PDF Pro User Guide (Windows)
+Nitro PDF Pro User Guide (Mac)
+Nitro Sign User Guide
+Nitro Admin User Guide
+Terms
+Terms of Service
+Privacy Policy
+Copyright Policy
+Cookie Policy
+Refund Policy
+CCPA
+Subprocessors and Subcontractors
+Data Processing Addendum
+Trademark Rules & Guidance
+Privacy PolicyEffective: November 1st, 2022Welcome to the website of Nitro Software, Inc
+Nitro attaches great importance to protecting your privacy and wants to give you — as a visitor to our website — as much information, respect and control as possible regarding what happens to your personal data
+We hope that this privacy policy serves as a clear way to provide you with as much information as possible
+If you do have any remaining questions after reading this policy, feel free to contact us.TerminologyNitro Software, Inc., and its affiliates (“Nitro”, “we”, “us” and/or “our”)This website and any site ("Site(s)");Software provided by Nitro ("Software")
+orServices offered by Nitro (collectively, "Services")."You" refers to you as a user of the Site or ServiceWho is Nitro?Nitro is a global document productivity SaaS company accelerating digital transformation in a world that demands the ability to work from anywhere, anytime, on any device
+As a global player in the eSign and workflow productivity market, Nitro enables organizations to drive better business outcomes through 100% digital document processes and fast, efficient workflows
+The Nitro Productivity Platform offers comprehensive SaaS business solutions, including highly secure eSigning and e-ID, powerful PDF productivity and industry-leading analytics.We need certain personal data in order to provide you with access to the Services
+If you created a profile, registered an account, downloaded software or provided information to us, you will have been asked to explicitly consent to our Terms of Service and Privacy Policy in order to access our Services, purchase our products and/or view our content
+This consent provides us with the legal basis we require under applicable law to process your data
+If you do not agree to our use of your personal data in line with this Policy, please do not use our Services.When does this privacy policy apply?This privacy policy clarifies how we process personal data when you visit our website,www.gonitro.com, and when you use the functionalities available on our website
+When our website refers you to another website or application, please remember that different terms and conditions or privacy policies may be applicable.The policy also applies when you use any Nitro products and their related functionalities.Nitro exclusively processes personal data in accordance with the regulations, including the General Data Protection Regulation (GDPR) and California Consumer Privacy Act of 2018.Which personal data does Nitro collect and process?Depending on the functionalities you use on our website or product, we process the following types of personal data:Identification and contact detailsWhen you fill in contact forms on our website, we process your name, address, e-mail address, company name, telephone number, mobile phone number and the country in which you or your company are located.Professional informationWhen you apply for a job via our website, we process your job title, the name of the company you work for, your sex, age, information from the CV you enclose and the data publicly available on your LinkedIn profile.Other information you choose to shareIf you so choose, you can use the various optional fields on our website to send us information, which we will process as soon as it is submitted.Communication preferencesWe collect information about your preferences in relation to our communications with you, such as advertising or invitations to events
+You can share these preferences with us when you contact us via the website, or when you configure your preferences via our e-mails.CookiesWe collect specific personal details through cookies (and similar technologies) installed on our website
+You can view a complete overview of cookies and all relevant information in this regard in our Cookie Policy.Single Sign-OnWe collect data from the SAML provider regarding your account (with your express consent)Document dataWhen storing documents on the Sites, Software, and Services, Nitro collects the following data:Document Metadata: Name, size, email address of user uploading document, meta data about the structure of the document, and standard metadata provided by the standard used to create the document (PDF, DOC, XLS, etc.).Document Sharing: E-mail address and name of users who you wish to share the document.Document Content: The contents of documents stored in the Site, Software, or Services.Account dataNitro collects personal data from users to provide services
+Throughout standard use of the Site or Services, we collect some or all of the following:Account Data: Name, business name, title, phone number, billing address, email, password, and avatarUser generated contentWhen you submit to our Services via our community forums, message boards and blogs on our Sites.Usage dataTelemetry data relating to service, site or software usageInformation from social networking sites (SNS)If you connect to an SNS through our Services, we will access, use and store that information in accordance with this Privacy Policy.Information from partnersWe may also get information about you from other sources, for example, if you have agreed to share information with one of our partners or other third parties, we may add this to information we get from our Services.Payment and Purchase InformationIf you purchased Nitro products through our website, we will store information related to the purchase
+Purchase Data:  Order ID, product, transaction id, Name, business name, title, billing address, and email.Nitro uses third-party Merchant-of-Record processor, who is responsible to processing the payment and will store payment information including your credit card information in addition to purchase data.How do we collect your personal data?We collect personal data when:you fill in a contact form on our website to contact us or ask us a questionyou apply for a job via our websiteyou request information via our websiteyou visit our website, and we receive specific information through cookiesyou use one or more of our productsyou purchase one or more of our productsyou attend Nitro hosted events and webinarsyou visit Nitro booths at eventsWhy do we collect your personal data?We collect and process your personal data for various purposes, but only insofar as necessary to achieve the intended objective
+Below, you can see an overview of why we process specific categories of personal data.Identification and contact detailsLegal ground(s)We process your identification and contact details to respond to any questions you asked via our website and to provide you with the information you requested
+When you have expressly consented (or if you are an existing customer), we also process your identification and contact details to keep you informed about our products, services, promotions, events, news items and so on, i.e
+for direct marketing purposes.Performance of the agreement | Legitimate interest | ConsentProfessional informationLegal ground(s)We process the professional information you provide to us to consider your job application and to assess whether you are a suitable candidate for one of our vacancies.Performance of the agreement | Legitimate interestOther information you wish to shareLegal ground(s)If you share special categories of personal data (e.g
+health data or criminal record data), you expressly provide consent for us to process these personal data.Performance of the agreement | Legitimate interest | ConsentWhen you choose to share other data via optional fields on our contact forms or by e-mail, we process this information in order to provide the best possible service.Communication preferencesLegal ground(s)We collect information about your preferences in relation to our communications with you, so that we know when, and through what medium we are permitted to contact you.Performance of the agreement | Statutory obligationCookiesRefer to Cookie Policy for more information.Usage DataLegal ground(s)We monitor user activity and collect data about the features you use for appropriation, performance of the software and services, and usage analytics shared with customers on their accounts.Performance of the agreement | Legitimate interestInformation from social networking sites (SNS)Legal ground(s)If you connect to an SNS through our Services, we use and store the information that you agreed the SNS could provide to us based on your settings on that SNS.Performance of the agreement | Legitimate interest | ConsentInformation from partnersLegal ground(s)If you have agreed to share information with one of our partners or other third parties, we may also collect and store the information related to our services.Performance of the agreement | Legitimate interest | ConsentPayment InformationLegal ground(s)If you have purchased one or more of our products, your information is shared with Merchant-of-Record partners, we may also collect and store the information related to our services.Performance of the agreement | Legitimate interest | Consent | Statutory obligationThe processing of personal data can be based on different legal grounds
+The legal ground(s) on which our processing is based are clearly stated in the above overview, but we believe it is important to provide you with further explanation of each of these concepts:Performance of the agreementThis legal ground means that we are required to process your personal data to enable us to offer you our services and provide support.Legitimate interestThis legal ground means that our processing of your personal data is weighed up against the impact thereof on your privacy
+We always strive to maintain the correct balance in this regard.The legitimate interest we are pursuing is the efficient operation of our business, execute agreed-on terms of service with our clients and customers, improved functionality of our products and customer satisfaction.ConsentThis legal ground is only used when you consent to us using specific personal data.Statutory obligationThis legal ground means that we are required to process your personal data in relation to a statutory obligation.We always seek to process as little personal data as necessary for the objective we are aiming to achieve
+Nitro adheres to the data minimization principle, processing only data that is required to perform its legitimate functions
+Refer to our Terms of Service (or, as applicable, https://www.gonitro.com/businessterms) for more information.Will my personal data be shared with any third parties?In principle, we share your personal data as little as possible
+Depending on the personal data you provide to us and the objectives linked to the processing of your personal data, we may share your personal data with the third parties below:NitroData collected by Services, Sites or Software may be shared with internal entities in Nitro to support ancillary functions such as performance monitoring, improved service offerings, technical support, and marketingSuppliers, subcontractors and other service providersWe rely on other companies, independent service providers, suppliers, subcontractors or other intermediaries to provide certain services
+These third parties may process your personal data if required as part of their services
+We always ensure that such parties apply appropriate technical and organizational measures to protect your personal data.AuthoritiesIf required by law or under a legal procedure, we may share your personal data with specific authorities or government institutions.Social media platformsDepending on your consent in your communication preferences, we may share your personal data with social media platforms to enable personalized advertising on such platforms
+To find out how these social media platforms process personal data, please refer to the relevant privacy policy of the platform in question.Business TransferIn the event of a restructuring, business transfer or merger and acquisition activity, your personal data may be transferred to the third parties involved in this process.Will your personal data be shared outside the EEA?When we share your personal data with third parties we collaborate with, there is a possibility that your personal data will be shared outside of the European Economic Area (EEA)
+In this case, we will ensure that such sharing is always GDPR-compliant
+Few of many ways we use to support compliant International Data Transfers are:Standard contract provisions in our contracts with these companies.Adequacy of the destination country may be recognized by the European Commission as a country that offers appropriate data protection.Any other (future) sharing mechanisms accepted under the GDPR may also be used in this regard.Nitro takes data privacy seriously and monitors the regulatory landscape with regards to data privacy
+As new regulations evolve, Nitro will evaluate those regulations and, in good faith, evolve our Data Privacy procedures appropriately.How we secure your data?Refer to Technical Organizational Measures to learn more about Nitro Security practices
+Will we use your personal data for direct marketing?Under an existing customer relationship or if you have given us the required consent to that effect, we may also process your personal data for direct marketing purposes
+That way, we can keep you informed about our services.Third parties we collaborate with may also use your personal data for direct marketing purposes
+This mainly relates to the processing of your personal data via cookies
+For more information in this regard, please refer to our Cookie Policy.The processing of your personal data for direct marketing purposes may be based on consent you have given to use your personal data for such purposes
+If you wish to withdraw this consent or object to this processing, you can do so at any time by contacting us or by changing your preferences using the link we incorporate in our messages
+You can withdraw your consent regarding the use of cookies via our Cookie Policy.What are my rights?As a customer of our sites, services, or software, we are always happy to inform you about the rights you have in relation to your personal data
+If you wish to exercise any of these rights, feel free to contact us.The right to access – You can ask us at any time which personal data of yours we process
+If you wish to do so, you can also view your personal data at our head office
+If you would prefer us to send you a copy of your personal data we process, this is also available by request.The right to correction – If you notice that your personal data we process is no longer correct, feel free to let us know at any time so that we can correct your personal data immediately.The right to deletion of data – If you would prefer us to no longer process your personal data and delete them, you can choose to ask us to permanently delete your personal data
+In this case, we will delete any personal data of yours we process on the basis of your consent.The right to restrict processing – If you would prefer us to restrict our processing of your personal data, feel free to ask us any time
+We will take your request into account and explore how we can arrange this.The right to object – If you would like to object to our processing of your personal data, you can do so by contacting us.The right to transfer of data – If you would like your personal data to be transferred to a third party, we will help you do so
+In this case, your personal data will be sent to the organization of your choice in a structured, commonly used and machine-readable format.The right to object to direct marketing – You also have the right to object to direct marketing at any time
+The electronic communications we send always contain a link to unsubscribe, so you no longer receive these types of messages from us.The right to submit a complaint – If you feel that we have not assisted you correctly, you can always choose to submit a complaint to the Data Protection Authority
+The relevant contact details can be found at the end of this privacy policy.You can exercise your rights by completing the Data Subject Access Request form.How can you contact us?Nitro has a Data Protection Office, which is always happy to help with any questions you may have about privacy and the processing of your personal data
+Our Data Protection Office can be reached via:Contact Us form: https://www.gonitro.com/contact-dpoEmail address: privacy@gonitro.comAddress: Nitro Software, Inc, 150 Spear Street, STE 1850, San Francisco, CA 94105How can you contact the Data Protection Authority?If you are unsatisfied with how your Nitro Data Protection Officer has handled your request or comment, or if you would like to submit a complaint, you can contact the Data Protection Authority using the details below.Website: Data Protection AuthorityAddress: Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland
+Support
+Knowledge Base
+Community Forum
+Submit a Ticket
+Activating Nitro PDF Pro
+Nitro FAQs
+License Portal
+Downloads
+Upgrades
+About Us
+Our Story
+Work with Us
+Careers
+Press
+Contact Us
+Investor Relations
+Connective
+Resources
+Customer Stories
+Content Library
+Nitro Blog
+PDF Templates
+Product Info
+User Guides
+Release Notes
+Nitro Sign Login
+Technical Details
+Product Updates
+Sunset policy
+App Store
+Security
+Security Updates
+US eSignature Legislation
+EU eSignature Legislation
+Partners
+Deal Registration
+Become a Partner
+Become an Affiliate
+Privacy Policy | Terms of Service | Cookie Policy | Copyright Policy | Refund Policy |
+English
+English
+German
+Spanish
+Italian
+French
+Dutch
+150 Spear St., STE 1850 | San Francisco, CA 94105, USA© 2022 Nitro Software, Inc
+All rights reserved
+Nitro, the Nitro logo, Nitro Productivity Platform, Nitro PDF Pro, Nitro Sign, and Nitro Analyticsare trademarks and/or registered trademarks, of Nitro Software, Inc
+or its affiliates in the United States and/or other countries.

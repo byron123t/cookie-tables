@@ -1,0 +1,2017 @@
+Cookies we use across all ICAEW websites | ICAEW
+Powered by CookiebotConsentDetails[#IABV2SETTINGS#]AboutHow ICAEW use cookiesWe use cookies to ensure the website functions correctly
+We would also like to set statistics cookies to help us understand the usage of our websites by collecting and reporting information anonymously as well as marketing cookies to track visitors across websites and display ads that are relevant and engaging for you, these will only be set if you accept
+Click "Accept all cookies" if you agree to the use of cookies by ICAEW
+Alternatively you can manage your cookies by clicking ’Customise’
+For more information on about the cookies we use view our cookie policy
+Consent SelectionNecessary Preferences Statistics Marketing SettingsNecessary  88 Necessary cookies help make a website usable by enabling certain functions like page navigation and access to secure areas of the website
+Cookiebot16Learn more about this providerCookieConsent [x16]Stores the user's cookie consent state for the current domainExpiry: 1 yearType: HTTPCoveo Solutions2Learn more about this providervisitor [x2]Preserves the visitor's session state across page requests.Expiry: 1 yearType: HTTPEyeota1Learn more about this providerSERVERIDThis cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website.Expiry: 1 dayType: HTTPFilechooser1Learn more about this providerSESS#Preserves users states across page requests.Expiry: SessionType: HTTPGoogle4Learn more about this providertest_cookieUsed to check if the user's browser supports cookies.Expiry: 1 dayType: HTTPrc::aThis cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: PersistentType: HTMLrc::cThis cookie is used to distinguish between humans and bots
+Expiry: SessionType: HTMLrc::eThis cookie is used to distinguish between humans and bots
+Expiry: SessionType: HTMLHays3Learn more about this providerincap_ses_#Preserves users states across page requests.Expiry: SessionType: HTTPnlbi_#Used to ensure website security and fraud detection.Expiry: SessionType: HTTPvisid_incap_#Preserves users states across page requests.Expiry: 1 yearType: HTTPHubspot1Learn more about this providerembed/v3/counters.gifUsed to implement forms on the website.Expiry: SessionType: PixelID51Learn more about this providergdprDetermines whether the visitor has accepted the cookie consent box
+This ensures that the cookie consent box will not be presented again upon re-entry
+Expiry: 1 dayType: HTTPLinkedIn2Learn more about this providerbscookieThis cookie is used to identify the visitor through an application
+This allows the visitor to login to a website through their LinkedIn application for example.Expiry: 1 yearType: HTTPli_gcStores the user's cookie consent state for the current domainExpiry: 179 daysType: HTTPMatomo1Learn more about this provider_pk_testcookie_domainThis cookie determines whether the browser accepts cookies.Expiry: 1 dayType: HTTPMicrosoft6Learn more about this providerAI_buffer [x2]Used in context with the "AI_sentBuffer" in order to limit the number of data-server-updates (Azure)
+This synergy also allows the website to detect any duplicate data-server-updates
+Expiry: SessionType: HTMLAI_sentBuffer [x2]Used in context with the "AI_buffer" in order to limit the number of data-server-updates (Azure)
+This synergy also allows the website to detect any duplicate data-server-updates
+Expiry: SessionType: HTMLai_session [x2]Preserves users states across page requests.Expiry: 1 dayType: HTTPPulsepoint1Learn more about this providerINGRESSCOOKIEThis cookie is used to distinguish between humans and bots
+Expiry: SessionType: HTTPStr&#246;er Media Deutschland1Learn more about this providercctNecessary for the shopping cart functionality on the website.Expiry: 1 yearType: HTTPVisme1Learn more about this providervisme-stats-cidPendingExpiry: PersistentType: HTMLZoom1Learn more about this providerfUsed in order to detect spam and improve the website's security
+Does not store  visitor specific data.Expiry: PersistentType: HTMLaccdn.lpsnmedia.netlptag.liveperson.net2SameSite [x2]Ensures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+Expiry: 1 dayType: HTTPannualreturns.icaew.com3__EC_TEST__Used to remember if the user is accessing the website on a computer or mobile device.Expiry: SessionType: HTTPPHPSESSIDPreserves user session state across page requests.Expiry: SessionType: HTTPtestUsed to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+Expiry: PersistentType: HTMLapplytracking.com1TS#Used to ensure website security and fraud detection.Expiry: SessionType: HTTPapplytracking.comcareers.icaew.comevents.icaew.comcdn.icaew.com4ASP.NET_SessionId [x4]Preserves the visitor's session state across page requests.Expiry: SessionType: HTTPcareers.icaew.com2LPSecureStorage#lpSS [x2]Preserves the visitor's session state across page requests.Expiry: PersistentType: IDBcareers.icaew.comlptag.liveperson.net4ARRAffinity [x2]Used to distribute traffic to the website on several servers in order to optimise response times.Expiry: SessionType: HTTPARRAffinitySameSite [x2]Used to distribute traffic to the website on several servers in order to optimise response times.Expiry: SessionType: HTTPcareers.icaew.comwww.icaew.com2__RequestVerificationToken [x2]Helps prevent Cross-Site Request Forgery (CSRF) attacks.Expiry: SessionType: HTTPcdn.icaew.com1what-intentDetermines the device used to access the website
+This allows the website to be formatted accordingly
+Expiry: SessionType: HTMLfilechooser.comhays.co.ukjobs.icaew.comrecruit.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com7AWSALBCORS [x7]Registers which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+Expiry: 6 daysType: HTTPfonts.nethubspot.comvimeo.com3__cf_bm [x3]This cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: 1 dayType: HTTPhays.co.uknr-data.net2JSESSIONID [x2]Preserves users states across page requests.Expiry: SessionType: HTTPlearningshop.icaew.com1cm_sessid_a89c13d910271c051fd5ce954757fe04To track, personalize, and save information about each user's sessionExpiry: SessionType: HTTPlo.v.liveperson.net1LPSessionIDPreserves the visitor's session state across page requests.Expiry: SessionType: HTTPmy.icaew.com1.AspNetCore.Antiforgery.#Helps prevent Cross-Site Request Forgery (CSRF) attacks.Expiry: SessionType: HTTPplay.google.comyoutube.com2CONSENT [x2]Used to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+Expiry: 2 yearsType: HTTPrecruit.icaew.com1cookies.jsDetermines whether the visitor has accepted the cookie consent box
+This ensures that the cookie consent box will not be presented again upon re-entry
+Expiry: SessionType: HTTPt.visx.netx.bidswitch.net2c [x2]Used in order to detect spam and improve the website's security
+Expiry: 1 yearType: HTTPwww.filechooser.comhays.co.ukjobs.icaew.comrecruit.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com7AWSALB [x7]Registers which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+Expiry: 7 daysType: HTTPPreferences  31 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+Cookiebot1Learn more about this providerCookieConsentBulkSetting-#Enables cookie consent across multiple websitesExpiry: PersistentType: HTMLLinkedIn3Learn more about this providerlang [x2]Remembers the user's selected language version of a websiteExpiry: SessionType: HTTPlidcRegisters which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+Expiry: 1 dayType: HTTPlptag.liveperson.net2lpTabId [x2]Used by LivePerson real time messaging platform to identify the active message tab.Expiry: SessionType: HTMLlptag.liveperson.netaccdn.lpsnmedia.net3lpTestCookie# [x3]Used to check if the user's browser supports cookies.Expiry: SessionType: HTTPstatic.trackedweb.net22dmSessionID [x11]Collects information on what products the visitor has viewed and the content of the shopping-cart
+This is used to increase the website's conversion rate through targeted advertisement and product promotions through emails
+Expiry: 1 dayType: HTTPrecordID [x11]Collects information on what products the visitor has viewed and the content of the shopping-cart
+This is used to increase the website's conversion rate through targeted advertisement and product promotions through emails
+Expiry: 1 yearType: HTTPStatistics  68 Statistic cookies help ICAEW understand the usage of it's websites by collecting and reporting information anonymously
+Users that are registered with ICAEW (e.g
+members and students) will have their unique ID captured
+This is for statistical and reporting purposes only
+Appnexus1Learn more about this providerbounceDetermines if a user leaves the website straight away
+This information is used for internal statistics and analytics by the website operator
+Expiry: SessionType: PixelCoveo Solutions2Learn more about this provider__coveo.analytics.history [x2]Necessary in order to optimize the website's search-bar function
+The cookie ensures accurate and fast search results.Expiry: PersistentType: HTMLGoogle3Learn more about this providercollectUsed to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels.Expiry: SessionType: Pixel_dc_gtm_UA-#Used by Google Tag Manager to control the loading of a Google Analytics script tag.Expiry: 1 dayType: HTTP_ga_#Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit
+Expiry: 2 yearsType: HTTPHotjar11Learn more about this provider_hjIncludedInSessionSample [x6]Registers data on visitors' website-behaviour
+This is used for internal analysis and website optimization
+Expiry: 1 dayType: HTTP_hjAbsoluteSessionInProgressThis cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.Expiry: 1 dayType: HTTP_hjFirstSeenThis cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.Expiry: 1 dayType: HTTP_hjSession_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Expiry: 1 dayType: HTTP_hjSessionUser_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Expiry: 1 yearType: HTTP_hjTLDTestRegisters statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: SessionType: HTTPLinkedIn7Learn more about this providerln_or [x6]Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: 1 dayType: HTTPAnalyticsSyncHistoryUsed in connection with data-synchronization with third-party analysis service
+Expiry: 29 daysType: HTTPMatomo3Learn more about this provider_pk_id#Collects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Expiry: 1 yearType: HTTP_pk_ref#Used by Piwik Analytics Platform to identify the referring website from which the visitor has come.Expiry: 6 monthsType: HTTP_pk_ses#Used by Piwik Analytics Platform to track page requests from the visitor during the session.Expiry: 1 dayType: HTTPMedia.net2Learn more about this providercksync.phpThis cookie is used to determine if cookie data synchronization is enabled or disabled – cookie data synchronization is used to synchronize and gather visitor data on several domains.Expiry: SessionType: Pixelvisitor-idThis cookie is used to collect information on the visitor
+This information will be stored for internal analytics at the website's operator – Internal analytics is used by websites to optimize their domains.Expiry: 1 yearType: HTTPMicrosoft2Learn more about this providerai_user [x2]Used by Microsoft Application Insights software to collect statistical usage and telemetry information
+The cookie stores a unique identifier to recognize users on returning visits over time.Expiry: 1 yearType: HTTPNeustar1Learn more about this providerabThis cookie is used by the website’s operator in context with multi-variate testing
+This is a tool used to combine or change content on the website
+This allows the website to find the best variation/edition of the site
+Expiry: 1 yearType: HTTPNew Relic2Learn more about this providerevents/1/#Used to monitor website performance for statistical purposes.Expiry: SessionType: Pixeljserrors/1/#PendingExpiry: SessionType: PixelOracle1Learn more about this provider_at.hist.#Used by the social sharing platform AddThis to store the user's usage history of the AddThis sharing widgetExpiry: PersistentType: HTMLVimeo1Learn more about this providervuidCollects data on the user's visits to the website, such as which pages have been read.Expiry: 2 yearsType: HTTPaccdn.lpsnmedia.netlptag.liveperson.net4ADRUM_BT1 [x2]This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.Expiry: 1 dayType: HTTPADRUM_BTa [x2]This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.Expiry: 1 dayType: HTTPcareers.icaew.comwww.icaew.com2SC_ANALYTICS_GLOBAL_COOKIE [x2]Used by Sitecore Engagement Analytics to identify the visitor on repeat visits to the website.Expiry: 10 yearsType: HTTPlo.v.liveperson.net4lpLastVisit-# [x2]Used by LivePerson real time messaging platform to store the timestamp of the user's last visit.Expiry: PersistentType: HTMLLPVIDUsed by LivePerson real time messaging platform to recognize the visitor on returning visits.Expiry: 1 yearType: HTTPLPVisitorIDUsed by LivePerson real time messaging platform to recognize the visitor on returning visits.Expiry: 1 yearType: HTTPr1.trackedweb.net1pagevisitRegisters statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Expiry: SessionType: Pixelscript.hotjar.comfind.icaew.com6_hjIncludedInPageviewSample [x6]Used to detect whether the user navigation and interactions are included in the website’s data analytics
+Expiry: 1 dayType: HTTPscript.hotjar.comwww.icaew.com4_hjRecordingLastActivity [x2]Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: SessionType: HTMLhjViewportId [x2]Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: SessionType: HTMLwww.google-analytics.comicaew100.com6_ga [x2]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 2 yearsType: HTTP_gat [x2]Used by Google Analytics to throttle request rateExpiry: 1 dayType: HTTP_gid [x2]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 1 dayType: HTTPwww.icaew.com5__utmaCollects data on the number of times a user has visited the website as well as dates for the first and most recent visit
+Used by Google Analytics.Expiry: 2 yearsType: HTTP__utmbRegisters a timestamp with the exact time of when the user accessed the website
+Used by Google Analytics to calculate the duration of a website visit.Expiry: 1 dayType: HTTP__utmcRegisters a timestamp with the exact time of when the user leaves the website
+Used by Google Analytics to calculate the duration of a website visit.Expiry: SessionType: HTTP__utmzCollects data on where the user came from, what search engine was used, what link was clicked and what search term was used
+Used by Google Analytics.Expiry: 6 monthsType: HTTPcoveo_visitorIdSaves information of actions that have been carried out by the user during the current visit to the website, including searches with keywords included.Expiry: 9999 daysType: HTTPMarketing  134 Marketing cookies are used to track visitors across websites
+Data is collected to display ads that are relevant and engaging for the individual user
+Meta Platforms, Inc.1Learn more about this provider_fbpUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: 3 monthsType: HTTP360yield.comx.bidswitch.nett.visx.net6tuuid [x3]Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 3 monthsType: HTTPtuuid_lu [x3]Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites
+This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times
+Expiry: 3 monthsType: HTTPAdform1Learn more about this providerCUsed to check if the user's browser supports cookies.Expiry: 30 daysType: HTTPAdobe3Learn more about this providerdemconf.jpgSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+Expiry: SessionType: PixeldemdexVia a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads.Expiry: 179 daysType: HTTPdpmSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: 179 daysType: HTTPAdobe Inc.1Learn more about this providereverest_g_v2Used for targeted ads and to document efficacy of each individual ad.Expiry: 1 yearType: HTTPAppnexus3Learn more about this provideranjRegisters a unique ID that identifies a returning user's device
+The ID is used for targeted ads.Expiry: 3 monthsType: HTTPsetuidThis cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization - cookie data synchronization is used to synchronize and gather visitor data from several websites.Expiry: SessionType: Pixeluuid2Registers a unique ID that identifies a returning user's device
+The ID is used for targeted ads.Expiry: 3 monthsType: HTTPBidswitch1Learn more about this providerul_cb/syncCollects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website.Expiry: SessionType: PixelBluekai.com3Learn more about this providerbkdcRegisters user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.Expiry: 179 daysType: HTTPbkpaPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: 179 daysType: HTTPbkuRegisters anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.Expiry: 179 daysType: HTTPCasale Media7Learn more about this providerCMIDCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 1 yearType: HTTPCMPROCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: 3 monthsType: HTTPCMPSCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 3 monthsType: HTTPCMRUM3Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 1 yearType: HTTPCMSTCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 1 dayType: HTTPCMTSCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 3 monthsType: HTTPrumCollects data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: SessionType: PixelFreewheel2Learn more about this providerUIDUnique user ID that recognizes the user on returning visitsExpiry: 29 daysType: HTTPuid-bp-#PendingExpiry: 2 monthsType: HTTPGoogle10Learn more about this providerIDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.Expiry: 1 yearType: HTTPpagead/landing [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: SessionType: Pixelads/ga-audiencesUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.Expiry: SessionType: Pixelpagead/1p-user-list/#Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.Expiry: SessionType: Pixel_gcl_auUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services
+Expiry: 3 monthsType: HTTPGoogleAdServingTest [x4]Used to register what ads have been displayed to the user.Expiry: SessionType: HTTPID55Learn more about this providercallbackCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: 1 dayType: HTTPcarPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: 1 dayType: HTTPcfSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: 1 dayType: HTTPcipPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: 1 dayType: HTTPcnacPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: 1 dayType: HTTPImprove Digital2Learn more about this providerumRegisters the visitor's behavior on social media - can be used to optimize ad-relevance and general targeting.Expiry: 3 monthsType: HTTPumehUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+Expiry: 3 monthsType: HTTPLinkedIn2Learn more about this providerbcookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 yearType: HTTPUserMatchHistoryEnsures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+Expiry: 29 daysType: HTTPLiveRamp3Learn more about this provider#.gifPendingExpiry: SessionType: PixelpxrcThis cookie registers data on the visitor
+The information is used to optimize advertisement relevance
+Expiry: 2 monthsType: HTTPrlas3Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 1 yearType: HTTPLiveintent2Learn more about this provider_li_ssSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: 29 daysType: HTTPlididCollects data on visitors' behaviour and interaction - This is used to make advertisement on the website more relevant
+The cookie also allows the website to detect any referrals from other websites
+Expiry: 2 yearsType: HTTPLotame3Learn more about this provider_cc_ccCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: SessionType: HTTP_cc_dcCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: 269 daysType: HTTP_cc_idCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Expiry: 269 daysType: HTTPMediMath2Learn more about this providermt_miscCollects data on the user's visits to the website, such as what pages have been loaded
+The registered data is used for targeted ads.Expiry: 29 daysType: HTTPmt_mopCollects data on the user's visits to the website, such as what pages have been loaded
+The registered data is used for targeted ads.Expiry: 29 daysType: HTTPMedia.net1Learn more about this providerdata-rkCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Expiry: 1 yearType: HTTPMediarithmics3Learn more about this providermics_ltsCollects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.Expiry: 1 yearType: HTTPmics_uaidCollects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.Expiry: 1 yearType: HTTPmics_vidCollects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.Expiry: 1 yearType: HTTPMeta Platforms, Inc.2Learn more about this providerfrUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: 3 monthsType: HTTPtrUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: SessionType: PixelNeustar2Learn more about this provideradscores/g.pixelPresents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.Expiry: SessionType: PixeluCollects data on user visits to the website, such as what pages have been accessed
+The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.Expiry: 1 yearType: HTTPOath1Learn more about this providerIDSYNCUsed to identify the visitor across visits and devices
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers
+Expiry: 1 yearType: HTTPOracle8Learn more about this providere/rocketfuel_syncDetects whether partner data synchronization is functioning and currently running - This function sends user data between third-party advertisement companies for the purpose of targeted advertisements
+Expiry: SessionType: PixellocGeolocation, which is used to help providers determine how users who share information with each other are geographically located (state level).Expiry: 1 yearType: HTTPuvcDetects how often the social sharing service, AddThis, encounters the same user.Expiry: 1 yearType: HTTPxtcRegisters the user's sharing of content via social media.Expiry: 1 yearType: HTTP__atuvcUpdates the counter of a website's social sharing features.Expiry: 1 yearType: HTTP__atuvsEnsures that the updated counter is displayed to the user if a page is shared with the social sharing service, AddThis.Expiry: 1 dayType: HTTP_at.cwwUsed by the social sharing platform AddThisExpiry: PersistentType: HTMLat-randUsed by the social sharing platform AddThisExpiry: PersistentType: HTMLPulsepoint2Learn more about this providerpb_rtb_evRegisters anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.Expiry: 1 yearType: HTTPVRegisters anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.Expiry: 1 yearType: HTTPSalesforce1Learn more about this provider_kuid_Registers a unique ID that identifies a returning user's device
+The ID is used for targeted ads.Expiry: 179 daysType: HTTPSemasio1Learn more about this providerSEUNCYRegisters a unique ID that identifies the user's device for return visits.Expiry: 1 yearType: HTTPSmartclip2Learn more about this providerdspuuidRegisters data on visitors from multiple visits and on multiple websites
+This information is used to measure the efficiency of advertisement on websites
+Expiry: 29 daysType: HTTPpsynUsed in context with video-advertisement
+The cookie limits the number of times a user is shown the same advertisement
+The cookie is also used to ensure relevance of the video-advertisement to the specific user
+Expiry: 29 daysType: HTTPSonobi1Learn more about this providerHAPLB8SPendingExpiry: SessionType: HTTPSoundcloud1Learn more about this providerWIDGET::local::assignmentsUsed by audio-platform SoundCloud to implement, measure and improve their embedded content/service on the website - The collection of data also includes visitors’ interaction with embedded content/service
+This can be used for statistics or marketing purposes
+Expiry: PersistentType: HTMLSpotX2Learn more about this provideraudienceUsed to determine whether the video-ads have been displayed correctly on the website - This is done to make video-ads more effective and ensure that the visitor is not shown the same ads more times than intended
+The cookie also detects whether the visitor has any Do Not Track preferences.Expiry: 27 daysType: HTTPpartnerUsed in context with video-advertisement
+The cookie limits the number of times a user is shown the same advertisement
+The cookie is also used to ensure relevance of the video-advertisement to the specific user
+Expiry: SessionType: PixelStr&#246;er Media Deutschland2Learn more about this providertuUsed to target ads by registering the user's movements across websites.Expiry: 1 yearType: HTTPuuUsed to target ads by registering the user's movements across websites.Expiry: 1 yearType: HTTPTapad3Learn more about this providerTapAd_3WAY_SYNCSUsed for data-synchronization with advertisement networks.Expiry: 2 monthsType: HTTPTapAd_DIDUsed to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.Expiry: 2 monthsType: HTTPTapAd_TSUsed to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.Expiry: 2 monthsType: HTTPVidoomy1Learn more about this providervidoomy-uidsUsed in context with video-advertisement
+The cookie limits the number of times a user is shown the same advertisement
+The cookie is also used to ensure relevance of the video-advertisement to the specific user
+Expiry: 1 yearType: HTTPWeborama1Learn more about this providerAFFICHE_WUsed by the advertising platform Weborama to determine the visitor's interests based on pages visits, content clicked and other actions on the website.Expiry: 1 yearType: HTTPYahoo1Learn more about this providerA3Collects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website.Expiry: 1 yearType: HTTPYouTube12Learn more about this providerVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Expiry: 179 daysType: HTTPYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: SessionType: HTTPyt.innertube::nextIdRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: PersistentType: HTMLyt.innertube::requestsRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: PersistentType: HTMLytidb::LAST_RESULT_ENTRY_KEYStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-cast-availableStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-cast-installedStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-connected-devicesStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-device-idStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-fast-check-periodStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-appStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-nameStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLZeotap1Learn more about this providerzcRegisters data on visitors from multiple visits and on multiple websites
+This information is used to measure the efficiency of advertisement on websites
+Expiry: 1 yearType: HTTPZeta Global6Learn more about this providercmIdentifies if the cookie-data needs to be updated in the visitor's browser  - This is determined through third-party ad-serving-companies
+Expiry: SessionType: PixelcmdRegisters anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.Expiry: 1 yearType: HTTPeudRegisters user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.Expiry: 1 yearType: HTTPeudsRegisters anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.Expiry: SessionType: HTTPrudRegisters user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.Expiry: 1 yearType: HTTPrudsRegisters user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.Expiry: SessionType: HTTPadform.netcriteo.com2uid [x2]Registers a unique user ID that recognises the user's browser when visiting websites that use the same ad network
+The purpose is to optimise display of ads based on the user's movements and various ad providers' bids for displaying user ads.Expiry: 2 monthsType: HTTPcareers.icaew.com2__gadsUsed to register what ads have been displayed to the user.Expiry: 1 yearType: HTTP__gpiCollects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website.Expiry: 1 yearType: HTTPjobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com4m_sid [x4]Collects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website.Expiry: 1 dayType: HTTPlive.rezync.com2sd-session-idRegisters data on visitors from multiple visits and on multiple websites
+This information is used to measure the efficiency of advertisement on websites
+Expiry: 179 daysType: HTTPzync-uuidSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: 179 daysType: HTTPlpcdn.lpsnmedia.netcareers.icaew.comwww.icaew.com3lpUnifiedWindow-storage_expiration-77413993 [x3]PendingExpiry: PersistentType: HTMLpixel.mathtag.comsxp.smartclip.net2uuid [x2]Collects data on the user's visits to the website, such as what pages have been loaded
+The registered data is used for targeted ads.Expiry: 1 yearType: HTTPscript.hotjar.comwww.icaew.com2_hjRecordingEnabled [x2]This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.Expiry: SessionType: HTMLstatic.trackedweb.net3utm_campaignCollects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.Expiry: SessionType: HTTPutm_mediumCollects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.Expiry: SessionType: HTTPutm_sourceDetermines how the user accessed the website
+This information is used by the website operator in order to measure the efficiency of their marketing
+Expiry: SessionType: HTTPv1.addthisedge.com1at-lojson-cache-#Used by the social sharing platform AddThisExpiry: PersistentType: HTMLx.bidswitch.netpartners.tremorhub.com2sync [x2]Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant
+Expiry: SessionType: PixelUnclassified  57Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.Filechooser1Learn more about this providerCompatibilityCheckPendingExpiry: 1 dayType: HTTPGoogle2Learn more about this provider_MadgexTrackingPendingExpiry: 2 yearsType: HTTP_MadgexTracking_gidPendingExpiry: 1 dayType: HTTPZoom5Learn more about this providerfe-recording-player-pc__i18n__en-USPendingExpiry: PersistentType: HTML_zm_mtk_guidPendingExpiry: 2 yearsType: HTTP_zm_page_authPendingExpiry: SessionType: HTTP_zm_ssidPendingExpiry: SessionType: HTTP_zm_visitor_guidPendingExpiry: 1 yearType: HTTPapplytracking.com2SFIdentity0001BigIPPendingExpiry: SessionType: HTTPtrack2_12308PendingExpiry: 1 monthType: HTTPbpi.rtactivate.com1tagPendingExpiry: SessionType: Pixelebm.icaew.com1filament-ai-chat-widget-statePendingExpiry: PersistentType: HTMLjobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com40AnonymousUserId [x4]PendingExpiry: 2 yearsType: HTTPBrowserSession [x4]PendingExpiry: 1 dayType: HTTPDoubleSubmit_ICAEW_ResponsiveJobSeeker [x4]PendingExpiry: SessionType: HTTPFixedFacetDefaults [x4]PendingExpiry: SessionType: HTTPJobSearchCriteria [x4]PendingExpiry: SessionType: HTTPJobSearchResultIds [x4]PendingExpiry: SessionType: HTTPJSMRI [x4]PendingExpiry: 1 yearType: HTTPm_au [x4]PendingExpiry: 2 yearsType: HTTPm_shb [x4]PendingExpiry: 1 dayType: HTTPoidc_state [x4]PendingExpiry: SessionType: HTTPlo.v.liveperson.net1LPSID-77413993PendingExpiry: SessionType: HTTPrecruit.icaew.com4RsAnonymousUserIdPendingExpiry: 399 daysType: HTTPRsBrowserSessionPendingExpiry: 1 dayType: HTTPsearchFormCurrentStatePendingExpiry: PersistentType: HTMLUrlCSRF_ICAEWPendingExpiry: 1 dayType: HTTPCross-domain consent16 Your consent applies to the following domains:List of domains your consent applies to: careers.icaew.com vacancies.icaew.com recruit.icaew.com volunteer.icaew.com train.icaew.com learningshop.icaew.com learning.icaew.com www.icaew100.com students.icaew.com examresults.icaew.com annualreturns.icaew.com jobs.icaew.com find.icaew.com events.icaew.com my.icaew.com www.icaew.comCookie declaration last updated on 10/16/22 by Cookiebot[#IABV2_TITLE#][#IABV2_BODY_INTRO#][#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#][#IABV2_BODY_PREFERENCE_INTRO#][#IABV2_LABEL_PURPOSES#][#IABV2_BODY_PURPOSES_INTRO#][#IABV2_BODY_PURPOSES#][#IABV2_LABEL_FEATURES#][#IABV2_BODY_FEATURES_INTRO#][#IABV2_BODY_FEATURES#][#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PARTNERS_INTRO#][#IABV2_BODY_PARTNERS#]Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages
+[#OOI_PERSONAL_INFORMATION#]Use necessary cookies only Allow selection Customize Allow all cookiesPowered by Cookiebot by Usercentrics
+Skip to content
+Stay up-to-date with the latest business and accountancy news: Sign up for daily news alerts
+ICAEW.com works better with JavaScript enabled.
+Home
+Membership
+Benefits of membership
+Becoming a member
+Pay fees and subscriptions
+Membership administration
+Membership regulations
+Member rewards – More from your membership
+Support throughout your career
+Continuing Professional Development (CPD)
+Membership
+Benefits of membership
+Gain access to world-leading information resources, guidance and local networks.
+Visit Benefits of membership
+Becoming a member
+98% of the best global brands rely on ICAEW Chartered Accountants.
+Visit Becoming a member
+Pay fees and subscriptions
+Your membership subscription enables ICAEW to provide support to members.
+Pay fees and subscriptions
+Member rewards
+Take advantage of the range of value added or discounted member benefits.
+Member rewards – More from your membership
+Technical and ethics support
+Support throughout your career
+Information and resources for every stage of your career.
+Support throughout your career
+Member Insights Survey
+Let us know about the issues affecting you, your business and your clients.
+Complete the survey
+Membership
+Becoming a member
+From software start-ups to high-flying airlines and high street banks, 98% of the best global brands rely on ICAEW Chartered Accountants
+A career as an ICAEW Chartered Accountant means the opportunity to work in any organisation, in any sector, whatever your ambitions.
+Routes to the ACA
+ACA students membership application
+Join as a member of another body
+Membership
+Pay fees and subscriptions
+Your annual membership subscription is due on 1 January.
+Pay fees and subscriptions
+Fees and subscriptions FAQs
+Fees and subscriptions 2022
+Invoices and receipts
+ICAEW systems: status update
+Membership
+Membership administration
+Welcome to the ICAEW members area: your portal to members'-only content, offers, discounts, regulations and membership information.
+Update my details
+Pay fees and subscriptions
+Promoting myself as an ICAEW member
+Become a life member
+Complete annual return
+Update my communication preferences
+Become a fellow
+Resign from membership
+Confirmation of ICAEW status
+Membership
+Support throughout your career
+Information and resources for every stage of your career.
+Young members
+Career progression
+Career Breakers
+Volunteering at schools and universities
+Retirement
+Technical and ethics support
+ICAEW Member App
+Find a job
+Working internationally
+Self employment
+Become a fellow
+Become a life member
+Support Members Scheme
+CABA
+Membership
+Continuing Professional Development (CPD)
+Continuing professional development (CPD) is designed to develop your expertise within your individual role and help you maintain that edge throughout your career.
+What is CPD?
+Online CPD record
+Planning your CPD
+CPD Courses | CPD Training Programmes
+CPD questions
+Learn
+ACA Qualification
+ACA for employers
+ICAEW CFAB
+ICAEW Business and Finance Professional (BFP)
+Apprenticeships with ICAEW
+Post Qualification Training
+CPD Courses | CPD Training Programmes
+In-house Finance Training
+Leadership Development Programmes
+Specialist Finance Qualifications & Programmes
+Partners in Learning
+Academic research funding and reports
+ICAEW training films
+Learn
+ACA
+The ICAEW Chartered Accountant qualification, the ACA, is one of the most advanced learning and professional development programmes available
+It is valued around the world in business, practice and the public sector.
+How to become a chartered accountantMembers of other bodies Partners in Learning
+ACA for employers
+Train the next generation of chartered accountants in your business or organisation
+Discover how your organisation can attract, train and retain the best accountancy talent, how to become authorised to offer ACA training and the support and guidance on offer if you are already providing training.
+ACA for employers
+ICAEW Business and Finance Professional (BFP)
+An internationally recognised designation and professional status from ICAEW
+The BFP letters help professionals demonstrate their knowledge, skills and experience in business and finance.
+ICAEW Business and Finance Professional (BFP)
+Learn
+ACA Qualification
+The ICAEW Chartered Accountant qualification, the ACA, is one of the most advanced learning and professional development programmes available
+It is valued around the world in business, practice and the public sector.
+How to become a chartered accountant
+Routes to the ACA
+ACA CTA Joint Programme
+Register as a student
+Train as a member of another body
+ACA for employers
+Learn
+ACA for employers
+Train the next generation of chartered accountants in your business or organisation
+Discover how your organisation can attract, train and retain the best accountancy talent, how to become authorised to offer ACA training and the support and guidance on offer if you are already providing training.
+Existing ACA employers
+Benefits of ACA training
+Employers Guide on ACA Training
+The answer is ACA
+Five main routes into the ACA
+ICAEW apprenticeships
+Become authorised to train
+ICAEW systems: status update
+Contact us about ACA training
+ACA Employers home
+Learn
+ICAEW CFAB
+The ICAEW Certificate in Finance, Accounting and Business (ICAEW CFAB) is an internationally recognised certificate that teaches essential knowledge in business, finance and accounting.
+What is ICAEW CFAB?
+How ICAEW CFAB can help
+Routes to ICAEW CFAB
+Register for ICAEW CFAB
+ICAEW CFAB students
+Student Insights
+FAQs
+Testimonials
+Learn
+Apprenticeships with ICAEW
+ICAEW has joined forces with employers, industry bodies and training providers to develop a new apprenticeship standard
+These apprenticeships offer students an alternative route into the profession.
+Interested in doing an apprenticeship?
+Current apprenticeship students
+Empower your business with ICAEW apprenticeships
+Learn
+Post Qualification Training
+ICAEW Academy
+CPD Courses | CPD Training Programmes
+Leadership Development Programmes
+In-house Finance Training
+Specialist Finance Qualifications & Programmes
+Coaching and Mentoring
+ICAEW Finance in a Digital World Programme
+Learn
+CPD Courses | CPD Training Programmes
+Choose from over 100 CPD training courses across a wide range of topics to advance your and your team's career
+Whatever your interest, development stage or skill gap, ICAEW Academy will have a CPD course to accelerate your individual, business or practice performance.
+Banking
+Board readiness and corporate governance courses
+Business partnering and personal impact
+Business performance, reporting and strategy courses
+Commercial skills in professional services
+Corporate treasury management training courses
+Excel and Data Analytics CPD courses
+Finance for non-finance managers
+Financial reporting courses
+In-house Finance Training
+Leadership courses
+Risk and Fraud Training
+Valuation courses and corporate finance courses
+Learn
+Leadership Development Programmes
+ICAEW Academy’s in-depth leadership development programmes take a holistic approach to combine insightful mentoring or coaching, to exclusive events, peer learning groups and workshops
+Catering for those significant transitions in your career, these leadership development programmes are instrumental to achieving your ambitions or fulfilling your succession planning goals.
+Financial Talent Executive Network (F-TEN®)
+Developing Leadership in Practice (DLiP™)
+Women in Leadership (WiL)
+Network of Finance Leaders (NFL)
+Coaching and Mentoring
+Learn
+Specialist Finance Qualifications & Programmes
+Whatever future path you choose, ICAEW will support the development and acceleration of your career at each stage to enhance your career.
+Corporate Finance Qualification
+ICAEW Data Analytics Certificate
+ICAEW ISAs programmes
+Diploma in Charity Accounting
+The ICAEW Certificate in Insolvency
+Treasury - The perfect addition to your skill set
+About the IFRSs programme
+Accounting Skills Certificate
+ICAEW Sustainability Certificate for Finance Professionals
+Learn
+Partners in Learning
+Welcome to the dedicated area for professional education and higher education institutions (HEIs) – your online resource to assist you in providing tuition and support for students studying toward ICAEW qualifications.
+Becoming an ICAEW Partner in Learning
+Existing ICAEW Partners in Learning
+Resources for the ACA, ICAEW CFAB and the ICAEW Apprenticeships in Accountancy
+Resources for IFRS, ISAs, Certificate in Insolvency and the Diploma in Corporate Finance
+Key Partners in Learning contacts
+Learn
+Academic research funding and reports
+Through a programme of academic research funding from the ICAEW’s charitable trusts, we aim to fund the highest quality accounting and finance academic research and events.
+Academic event funding
+Research project funding
+Careers
+Early careers and training
+Qualified ACA careers
+Voluntary roles
+Support
+Vacancies at ICAEW
+ICAEW committees
+Careers
+Why a career in chartered accountancy?
+If you think chartered accountants spend their lives confined to their desks, then think again
+They are sitting on the boards of multinational companies, testifying in court and advising governments, as well as supporting charities and businesses from every industry all over the world.
+Why chartered accountancy?
+Search for qualified ACA jobs
+Matching highly skilled ICAEW members with attractive organisations seeking talented accountancy and finance professionals.
+Search now
+Volunteering roles
+Helping skilled and in-demand chartered accountants give back and strengthen not-for-profit sector with currently over 2,300 organisations posting a variety of volunteering roles with ICAEW.
+Search for volunteer roles
+Get ahead by volunteering
+Advertise with ICAEW
+From as little as £495, access to a pool of highly qualified and ambitious ACA qualified members with searchable CVs.
+Find out more
+Careers
+Early careers and training
+Start your ACA training with ICAEW
+Find out why a career in chartered accountancy could be for you and how to become a chartered accountant.
+Why chartered accountancy?
+Find your route
+Start your training
+How to become a chartered accountant
+Improve your employability
+Careers
+Qualified ACA careers
+Find Accountancy and Finance Jobs
+Job search
+Job alerts
+Search employers
+Blogs
+Events
+Support throughout your career
+Careers
+Voluntary roles
+Find Voluntary roles
+Find a role
+Role alerts
+Organisations
+Practice support – 11 ways ICAEW and CABA can help you
+News and advice
+ICAEW Volunteering Hub
+Careers
+Support
+While you pursue the most interesting and rewarding opportunities at every stage of your career, we’re here to offer you support whatever stage you are or wherever you are in the world and in whichever sector you have chosen to work.
+Support throughout your career
+Continuing Professional Development (CPD)
+Blogs
+Events
+Support in becoming a chartered accountant
+ACA students
+System status checks
+Changes to our qualifications
+Getting started
+Credit for prior learning (CPL)
+Apply for exams
+Exam resources
+Exam results
+Training agreement
+How training works in your country
+Student support and benefits
+Applying for membership
+Level 4 Accounting Technician Apprenticeship
+Level 7 Accountancy Professional Apprenticeship
+ACA training FAQs
+ACA students
+Exam resources
+Here are some resources you will find useful while you study for the ACA qualification.
+Certificate Level
+Professional Level
+Advanced Level
+"How to guides" for ACA student
+ACA student guide
+How to book an exam
+How to apply for credit for prior learning (CPL)
+ACA student induction webinar
+My online training file
+Once you are registered as an ACA student, you'll be able to access your training file to log your progress throughout ACA training.
+Access your training file
+Find out more
+Student Insights
+Fresh insights, innovative ideas and an inside look at the lives and careers of our ICAEW students and members.
+Read the latest articles
+ACA students
+System status checks
+Exam system status
+ICAEW systems: status update
+ACA students
+Getting started
+Welcome to ICAEW! We have pulled together a selection of resources to help you get started with your ACA training, including our popular 'How To' series, which offers step-by-step guidance on everything from registering as an ACA student and applying for CPL, to using your online training file.
+How-to guides for ACA students
+ACA induction presentation
+ACA students
+Credit for prior learning (CPL)
+Credit for prior learning or CPL is our term for exemptions
+High quality learning and assessment in other relevant qualifications is appropriately recognised by the award of CPL.
+Apply for credits - Academic qualification
+Apply for credits - Professional qualification
+Credit for prior learning (CPL)/exemptions FAQs
+ACA students
+Apply for exams
+What you need to know in order to apply for the ACA exams.
+Applications for Professional and Advanced Level exams
+Applications for Certificate Level exams
+ACA fees
+ACA students
+Exam resources
+The ACA qualification has 15 modules over three levels
+They are designed to complement the practical experience you will be gaining in the workplace
+They will also enable you to gain in-depth knowledge across a broad range of topics in accountancy, finance and business
+Here are some useful resources while you study.
+Advanced Level
+Certificate Level
+Professional Level
+Tuition providers
+ACA students
+Exam results
+You will receive your results for all Certificate Level exams, the day after you take the exam and usually five weeks after a Professional and Advanced Level exam session has taken place
+Access your latest and archived exam results here.
+Latest exam results
+Archived exam results
+E-assessment results
+Getting your results
+Marks feedback service
+Marks review service
+ACA students
+Training agreement
+Putting your theory work into practice is essential to complete your ACA training.
+Training agreement: overview
+Professional development
+Ethics and professional scepticism
+Practical work experience
+Access my online training file
+ACA students
+Student support and benefits
+We are here to support you throughout your ACA journey
+We have a range of resources and services on offer for you to unwrap, from exam resources, to student events and discount cards
+Make sure you take advantage of the wealth of exclusive benefits available to you, all year round.
+Student rewards
+TOTUM PRO Card
+Student events and volunteering
+Xero cloud accounting certifications
+Student Insights
+Student support
+Join a community
+Faculties Online subscription
+Wellbeing support from caba
+ACA students
+Applying for membership
+The ACA will open doors to limitless opportunities in all areas of accountancy, business and finance anywhere in the world
+ICAEW Chartered Accountants work at the highest levels as finance directors, CEOs and partners of some of the world’s largest organisations.
+Applying for membership
+Code of ethics
+Fit and proper
+ACA students
+ACA training FAQs
+Do you have a question about the ACA training? Then look no further
+Here, you can find answers to frequently asked questions relating to the ACA qualification and training
+Find out more about each of the integrated components of the ACA, as well as more information on the syllabus, your training agreement, ICAEW’s rules and regulations and much more.
+AAT-ACA Fast Track FAQs
+ACA rules and regulations FAQs
+ACA syllabus FAQs
+ACA training agreement FAQs
+Audit experience and the Audit Qualification FAQs
+Credit for prior learning (CPL)/exemptions FAQs
+Exams FAQs
+Independent student FAQs
+Practical work experience FAQs
+Professional development FAQs
+Six-monthly reviews FAQs
+Ethics and professional scepticism FAQS
+Resources
+Country resources
+Industries and sectors
+Audit and Assurance
+Brexit
+Business
+Coronavirus (COVID-19)
+Corporate Finance
+Corporate governance
+Economy
+Financial reporting
+Non-financial reporting
+Financial Services
+Practice resources
+Sustainability and climate change
+Tax
+Technology
+Trust & Ethics
+Resources
+Energy crisis
+The rise in energy prices is already having a significant impact on businesses and individuals
+In this section, we examine the background to the crisis and look at what business can do to lessen its impact.
+Visit our energy crisis hub
+Technical releases
+ICAEW Technical Releases are a source of good practice guidance on technical and practice issues relevant to ICAEW Chartered Accountants and other finance professionals.
+ICAEW Technical Releases
+Thought leadership
+In a time of change ICAEW Thought Leadership reports provide clarity, insight, and direction on the current and future challenges to the accountancy profession.
+Thought leadership
+Technical Advisory Services helpsheets
+Practical, technical and ethical guidance highlighting the most important issues for members, whether in practice or in business.
+ICAEW Technical Advisory Services helpsheets
+Bloomsbury – free for eligible firms
+In partnership with Bloomsbury Professional, ICAEW have provided eligible firms with free access to Bloomsbury’s comprehensive online library of over 60 titles from leading tax and accounting subject matter experts.
+Bloomsbury Accounting and Tax Service
+Resources
+Country resources
+Our resources by country provide access to intelligence on over 170 countries and territories including economic forecasts, guides to doing business and information on the tax climate in each jurisdiction.
+A to Z
+Africa
+Asia
+Caribbean
+Europe
+Greater China
+Latin America
+Middle East
+North America
+Australasia
+Russia and Eurasia
+South Asia
+South East Asia
+Resources
+Industries and sectors
+This area brings together the most up-to-date technical resources, thought leadership and professional guidance in key industries and sectors to help you in your professional life.
+Charity Finance Professionals Community
+Construction & Real Estate
+Energy & Natural Resources Community
+Farming & Rural Business Community
+Forensic & Expert Witness
+Healthcare Community
+Independent Advisers & Consultants Community
+Insolvency
+Manufacturing Community
+Media & Leisure
+Practitioner Business Advisers
+Public Sector
+Retail
+Small and Micro Business Community
+Small Practitioners Community
+Solicitors
+Travel, Tourism & Hospitality Community
+Valuation Community
+Volunteering community
+Resources
+Audit and Assurance
+The audit, assurance and internal audit area has information and guidance on technical and practical matters in relation to these three areas of practice
+There are links to events, publications, technical help and audit representations.
+Audit
+Assurance
+Audit and corporate governance reform
+Audit & Assurance Faculty
+Regulation and working in audit
+Internal audit resource centre
+Resources
+Brexit
+Brexit checklist
+Brexit and the accountancy profession
+Brexit impact on VAT and other taxes
+Brexit and customs processes
+Brexit and HR issues
+Brexit impact on sales and supply chain
+Brexit and cashflow, finance and forecasting
+Brexit impact on contracts, data and legal issues
+Brexit and financial reporting
+Brexit and exporting
+Brexit and audit
+Brexit impact on industry sectors
+International resources on Brexit
+Brexit webinars
+Resources
+Business
+This section brings together the most up-to-date thought leadership, technical resources and professional guidance for ICAEW members in business.
+Everything business
+Latest Business news from Insights
+Strategy, risk and innovation
+Business performance management
+Financial management
+Finance transformation
+Economy and business environment
+Leadership, personal development and HR
+Small and Micro Business Community
+Webinars and publications
+Resources
+Corporate Finance
+Companies, advisers and investors making decisions about creating, developing and acquiring businesses – and the wide range of advisory careers that require this specialist professional expertise.
+Business restructuring
+The Business Finance Guide
+Capital markets and investment
+Corporate Finance
+Corporate finance careers
+Corporate Finance Faculty
+Debt advisory and growth finance
+Mergers and acquisitions
+Private equity
+Start-ups, scale-ups and venture capital
+Transaction services
+Valuation Community
+Resources
+Corporate governance
+Corporate governance is the system by which companies are directed and controlled
+Find out more about corporate governance principles, codes and reports, Board subcommittees, roles and responsibilities and shareholder relations
+Corporate governance involves balancing the interests of a company’s many stakeholders, such as shareholders, employees, management, customers, suppliers, financiers and the community
+Getting governance right is essential to build public trust in companies.
+Board Director's Programme e-learning
+Board committees
+Corporate governance codes and reports
+Corporate Governance Community
+Connect and Reflect
+Principles of corporate governance
+Roles, duties and responsibilities of Board members
+Shareholder relations
+Resources
+Economy
+View our reports, publications, analysis and supporting media on the economy
+Featuring expert analysis on the latest national and international economic issues and trends, and interviews with prominent voices across the finance industry.
+Cost of doing business
+Economic Insight
+Energy crisis
+Freeports
+Inflation
+Jumpstarting the economy - Insights special
+Social mobility and inclusion
+Autumn Statement 2022
+Fiscal Event September 2022 and its aftermath
+Spring Statement 2022
+Autumn Budget 2021
+World Economic Forum and ICAEW
+Resources
+Financial reporting
+View a range of practical resources on UK GAAP, IFRS and UK regulation of financial reporting, and find out more about the ICAEW Financial Reporting Faculty.
+Financial reporting
+UK GAAP
+Accounting for specific sectors
+IFRS
+IFRS Standards Navigator (eIFRS)
+UK Regulation for Company Accounts
+Improving Corporate Reporting
+Financial reporting news and insights
+Financial Reporting Faculty
+Resources
+Non-financial reporting
+A range of resources on non-financial reporting including the strategic report, s172(1) statements, SECR and reporting on climate change.
+Non-financial reporting
+Strategic reports
+Directors' reports
+Carbon and energy reporting
+Reporting on climate
+Standard-setting
+Assurance on non-financial reporting
+Resources
+Financial Services
+View articles and resources on the financial services sector.
+Financial Services
+Banking
+Insurance
+Investment management
+Inspiring confidence
+Resources
+Practice resources
+For ICAEW's members in practice, this area brings together the most up-to-date thought leadership, technical resources and professional guidance to help you in your professional life.
+Practice resources
+Setting up in practice
+Running your practice
+Supporting your clients
+Regulation
+Practice technology
+TAS helpsheets
+Bloomsbury Accounting and Tax Service
+Practitioner Business Advisers Community
+Small Practitioners Community
+Join ICAEW BAS
+Resources
+Sustainability and climate change
+Sustainability describes a world that does not live by eating into its capital, whether natural, economic or social
+Members in practice, in business and private individuals all have a role to play if sustainability goals are to be met
+The work being undertaken by ICAEW in this area is to change behaviour to drive sustainable outcomes.
+Climate hub
+Global Goals hub
+Accountability
+Modern slavery
+Resources collection
+Sustainability Committee
+Sustainability & Climate Change community
+Sustainability and climate change home
+Resources
+Tax
+The Tax area has information and guidance on technical and practical tax matters
+There are links to events, the latest tax news and the Tax Faculty’s publications, including helpsheets, webinars and Tax representations.
+Tax
+Tax Faculty
+Budgets and legislation
+Business tax
+Devolved taxes
+Employment taxes
+ICAEW works to support tax reform
+International taxes
+Making Tax Digital
+Personal tax
+Property tax
+Stamp duty land tax
+Tax administration
+Tax compliance
+UK tax rates, allowances and reliefs
+VAT
+Resources
+Technology
+Keep up-to-date with tech issues and developments, including artificial intelligence (AI), blockchain, big data, and cyber security.
+Artificial intelligence
+Blockchain and cryptoassets
+Cyber security
+Data
+Data Analytics Community
+Digital skills
+Excel community
+Finance in a Digital World
+IT management
+Technology and the profession
+Webinars and publications
+Resources
+Trust & Ethics
+ICAEW’s Trust & Ethics web pages cover our policy work and related guidance and resources on ICAEW’s Code of Ethics, economic crime and business law.
+Trust & Ethics home
+Anti-money laundering
+Better Regulation
+Business Law
+Company law
+Data protection and privacy
+Economic crime
+Ethics
+Help with ethical problems
+ICAEW Code of Ethics
+ICAEW Trust and Ethics team.....
+Solicitors Community
+Forensic & Expert Witness Community
+Latest articles on business law, trust and ethics
+Communities
+Faculties
+Communities by industry / sector
+Communities by life stage and workplace
+Communities by professional specialism
+Local groups and societies
+Communities
+ICAEW Communities
+Information, insights, guidance and networking opportunities on a range of industry sectors, professional specialisms and at various stages throughout your career.
+Discover a new community
+ICAEW Faculties
+The accountancy profession is facing change and uncertainty
+The ICAEW Faculties can help by providing you with timely and relevant support.
+Choose to join any of the faculties
+UK groups and societies
+We have teams on the ground in: East of England, the Midlands, London and South East, Northern, South West, Yorkshire and Humberside, Wales and Scotland.
+Access your UK region
+Worldwide support and services
+Support and services we offer our members in Africa, America, Canada, the Caribbean, Europe, Greater China, the Middle East, Oceania and South East Asia.
+Discover our services
+Communities
+Faculties
+ICAEW Faculties are 'centres of technical excellence', strongly committed to enhancing your professional development and helping you to meet your CPD requirements every year
+They offer exclusive content, events and webinars, customised for your sector - which you should be able to easily record, when the time comes for the completion of your CPD declaration
+Our offering isn't exclusive to Institute members
+As a faculty member, the same resources are available to you to ensure you stay ahead of the competition.
+Audit and Assurance Faculty
+Corporate Finance Faculty
+Financial Reporting Faculty
+Financial Services Faculty
+Tax Faculty
+Communities
+Communities by industry / sector
+Academia & Education Community
+Charity Community
+Charity Finance Professionals
+Construction & Real Estate Community
+Energy & Natural Resources Community
+Entertainment, Sport & Media Community
+Exporting Community [Global Trade Community from 2023]
+Farming & Rural Business Community
+Healthcare Community
+Manufacturing Community
+Public Sector Community
+Retail Community
+Solicitors Community
+Travel, Tourism & Hospitality Community
+Volunteering Community
+Communities
+Communities by life stage and workplace
+Career Breakers Community
+Black Members Community
+ICAEW Business and Finance Professional (BFP)
+ICAEW Careers+
+Diversity & Inclusion Community
+Retirement
+Women in Finance Community
+Young members
+Communities
+Communities by professional specialism
+Corporate Governance Community
+Data Analytics Community
+Excel
+Forensic & Expert Witness Community
+Independent Advisers & Consultants Community [Portfolio Careers Community from 2023]
+Internal Audit Community
+Personal Financial Planning Community
+Practitioner Business Advisers Community
+Restructuring & Insolvency Community
+Small and Micro Business Community
+Small Practitioners Community
+Sustainability and Climate Change Community
+Valuation Community
+Communities
+Local groups and societies
+We aim to support you wherever in the world you work
+Our regional offices and network of volunteers run events and provide access to local accounting updates in major finance centres around the globe.
+London and East
+Midlands
+North West
+Northern
+Scotland
+South West
+South Wales
+Yorkshire and Humberside
+Worldwide
+European public policy activities
+ICAEW Middle East, Africa and South Asia
+Insights
+Insights
+Latest news
+Tax news
+Insights specials
+When Chartered Accountants Save the World
+Top videos
+Top podcasts
+Top charts of the week
+Insights by topic
+Sponsored content
+Insights
+Ukraine crisis: central resource hub
+Learn about the actions that ICAEW members are taking to ensure that their clients comply with sanctions imposed by different countries and jurisdictions, and read about the support available from ICAEW.
+Discover the resources
+Insights
+Insights pulls together the best opinion, analysis, interviews, videos and podcasts on the key issues affecting accountancy and business.
+See the latest insights
+Future of tax and public spending
+A look at the future of tax and public spending in light of the changing nature of work, the digital economy, the climate crisis and a reappraisal of the state's role.
+Visit the hub
+Restoring trust in audit and corporate governance
+This is where we share ICAEW’s views on the BEIS white paper, explore what restoring trust means, and share information on the reform agenda.
+Visit the hub
+When Chartered Accountants Save The World
+Find out how chartered accountants are helping to tackle some of the most urgent social challenges within the UN Sustainable Development Goals, and explore how the profession could do even more.
+Read our major series
+Insights
+Insights specials
+A listing of one-off Insights specials that focus on a particular subject, interviewing the key people, identifying developing trends and examining the underlying issues.
+Cost of doing business
+Future of insolvency
+Ukraine crisis: central resource hub
+Jumpstarting the Economy
+Inflation
+Future of Audit
+More specials ...
+Insights
+Top videos
+The economics of biodiversity
+How chartered accountants can help to safeguard trust in society
+Video: The financial controller who stole £20,000 from her company
+It’s time for chartered accountants to save the world
+Video: The CFO who tried to trick the market
+Video: Could invoice fraud affect your business?
+Insights
+Top podcasts
+The energy crisis – what can businesses do?
+Protecting SMEs against cyber criminals
+Making sense of Russia, M&A and conflicts of interest
+Surviving the cost-of-doing-business crisis
+The PM’s first 100 days - what needs to happen?
+How to fix the airline industry
+Levelling Up won’t leave with Boris, and the big opportunity ahead
+How to bring a business back from the brink
+Insights
+Insights by topic
+Brexit – impact on ICAEW members
+CEO and President's insights
+Climate hub
+Coronavirus (COVID-19)
+Diversity and Inclusion
+Regulatory News
+Student Insights
+Insights index
+Regulation
+ICAEW codes and regulations
+Professional conduct and complaints
+Statutory regulated services overseen by ICAEW
+Regulations for ICAEW practice members and firms
+Additional guidance and support
+ICAEW Regulatory Board
+Regulation
+ICAEW Regulation
+Access ICAEW regulations, codes and the statutory regulations that our members, firms, students and affiliates must abide by.
+Find out more
+Regulatory News
+View the latest regulatory updates and guidance and subscribe to our monthly newsletter, Regulatory & Conduct News.
+Read more
+Regulatory Consultations
+Strengthening trust in the profession
+Our role as a world-leading improvement regulator is to strengthen trust and protect the public
+We do this by enabling, evaluating and enforcing the highest standards in the profession.
+See more
+Regulatory applications
+Find out how you can become authorised by ICAEW as a regulated firm.
+Find out more
+Regulation
+ICAEW codes and regulations
+Charter and Bye-laws
+ICAEW Code of Ethics
+Complaints, disciplinary and fitness processes and regulations
+Membership regulations
+Qualifications regulations
+Training and education regulations
+Regulation
+Professional conduct and complaints
+How to make a complaint
+Guidance on your duty to report misconduct as an ICAEW member
+Complaints, disciplinary and fitness processes and regulations
+Public hearings
+What to do if you receive a complaint against you
+Regulation
+Statutory regulated services overseen by ICAEW
+Working in the regulated area of audit
+Local public audit in England
+Probate services
+Insolvency
+Designated Professional Body (Investment Business) licence
+Consumer credit
+Fees for regulated areas and affiliates
+Regulation
+Regulations for ICAEW practice members and firms
+The ICAEW Practice Assurance scheme
+Anti-money laundering supervision
+Licensed Practice scheme
+Practising certificates
+Professional Indemnity Insurance (PII)
+Clients' Money Regulations
+Taxation (PCRT) Regulations
+Regulation
+Additional guidance and support
+Practice resources
+ICAEW training films
+CABA
+Helpsheets and guidance by topic
+ICAEW's regulatory expertise and history
+ICAEW user login
+If you are a student, a member of the ICAEW, or have previously registered with us please login to continue.
+Login
+New ICAEW user?
+If you don't have a login, please register with us to continue.
+Register
+Accountants Accountancy Accounting Chartered Accountants Year End Accounts
+Lorem ipsom dolor Lorem ipsum dolor sit amet consectetur adipiscing elit Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet consectetur  Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Popular search results
+Training File
+Bibliu
+Exam Results
+Practice Exam Software
+Cpl
+Contact usHelplines and support
+Library and research serviceHelp finding ICAEW publications and other material
+Find a Chartered AccountantSearch our official online directory
+Home
+Home
+Membership
+BackMembership
+Benefits of membership
+Becoming a member
+BackBecoming a member
+Routes to the ACA
+ACA students membership application
+Join as a member of another body
+Pay fees and subscriptions
+BackPay fees and subscriptions
+Pay fees and subscriptions
+Fees and subscriptions FAQs
+Fees and subscriptions 2022
+Invoices and receipts
+ICAEW systems: status update
+Membership administration
+BackMembership administration
+Update my details
+Pay fees and subscriptions
+Promoting myself as an ICAEW member
+Become a life member
+Complete annual return
+Update my communication preferences
+Become a fellow
+Resign from membership
+Confirmation of ICAEW status
+Membership regulations
+Member rewards – More from your membership
+Support throughout your career
+BackSupport throughout your career
+Young members
+Career progression
+Career Breakers
+Volunteering at schools and universities
+Retirement
+Technical and ethics support
+ICAEW Member App
+Find a job
+Working internationally
+Self employment
+Become a fellow
+Become a life member
+Support Members Scheme
+CABA
+Continuing Professional Development (CPD)
+BackContinuing Professional Development (CPD)
+What is CPD?
+Online CPD record
+Planning your CPD
+CPD Courses | CPD Training Programmes
+CPD questions
+Learn
+BackLearn
+ACA Qualification
+BackACA Qualification
+How to become a chartered accountant
+Routes to the ACA
+ACA CTA Joint Programme
+Register as a student
+Train as a member of another body
+ACA for employers
+ACA for employers
+BackACA for employers
+Existing ACA employers
+Benefits of ACA training
+Employers Guide on ACA Training
+The answer is ACA
+Five main routes into the ACA
+ICAEW apprenticeships
+Become authorised to train
+ICAEW systems: status update
+Contact us about ACA training
+ACA Employers home
+ICAEW CFAB
+BackICAEW CFAB
+What is ICAEW CFAB?
+How ICAEW CFAB can help
+Routes to ICAEW CFAB
+Register for ICAEW CFAB
+ICAEW CFAB students
+Student Insights
+FAQs
+Testimonials
+ICAEW Business and Finance Professional (BFP)
+Apprenticeships with ICAEW
+BackApprenticeships with ICAEW
+Interested in doing an apprenticeship?
+Current apprenticeship students
+Empower your business with ICAEW apprenticeships
+Post Qualification Training
+BackPost Qualification Training
+ICAEW Academy
+CPD Courses | CPD Training Programmes
+Leadership Development Programmes
+In-house Finance Training
+Specialist Finance Qualifications & Programmes
+Coaching and Mentoring
+ICAEW Finance in a Digital World Programme
+CPD Courses | CPD Training Programmes
+BackCPD Courses | CPD Training Programmes
+Banking
+Board readiness and corporate governance courses
+Business partnering and personal impact
+Business performance, reporting and strategy courses
+Commercial skills in professional services
+Corporate treasury management training courses
+Excel and Data Analytics CPD courses
+Finance for non-finance managers
+Financial reporting courses
+In-house Finance Training
+Leadership courses
+Risk and Fraud Training
+Valuation courses and corporate finance courses
+In-house Finance Training
+Leadership Development Programmes
+BackLeadership Development Programmes
+Financial Talent Executive Network (F-TEN®)
+Developing Leadership in Practice (DLiP™)
+Women in Leadership (WiL)
+Network of Finance Leaders (NFL)
+Coaching and Mentoring
+Specialist Finance Qualifications & Programmes
+BackSpecialist Finance Qualifications & Programmes
+Corporate Finance Qualification
+ICAEW Data Analytics Certificate
+ICAEW ISAs programmes
+Diploma in Charity Accounting
+The ICAEW Certificate in Insolvency
+Treasury - The perfect addition to your skill set
+About the IFRSs programme
+Accounting Skills Certificate
+ICAEW Sustainability Certificate for Finance Professionals
+Partners in Learning
+BackPartners in Learning
+Becoming an ICAEW Partner in Learning
+Existing ICAEW Partners in Learning
+Resources for the ACA, ICAEW CFAB and the ICAEW Apprenticeships in Accountancy
+Resources for IFRS, ISAs, Certificate in Insolvency and the Diploma in Corporate Finance
+Key Partners in Learning contacts
+Academic research funding and reports
+BackAcademic research funding and reports
+Academic event funding
+Research project funding
+ICAEW training films
+Careers
+BackCareers
+Early careers and training
+BackEarly careers and training
+Why chartered accountancy?
+Find your route
+Start your training
+How to become a chartered accountant
+Improve your employability
+Qualified ACA careers
+BackQualified ACA careers
+Job search
+Job alerts
+Search employers
+Blogs
+Events
+Support throughout your career
+Voluntary roles
+BackVoluntary roles
+Find a role
+Role alerts
+Organisations
+Practice support – 11 ways ICAEW and CABA can help you
+News and advice
+ICAEW Volunteering Hub
+Support
+BackSupport
+Support throughout your career
+Continuing Professional Development (CPD)
+Blogs
+Events
+Support in becoming a chartered accountant
+Vacancies at ICAEW
+ICAEW committees
+ACA students
+BackACA students
+System status checks
+Back
+Exam system status
+ICAEW systems: status update
+Changes to our qualifications
+Getting started
+BackGetting started
+How-to guides for ACA students
+ACA induction presentation
+Credit for prior learning (CPL)
+BackCredit for prior learning (CPL)
+Apply for credits - Academic qualification
+Apply for credits - Professional qualification
+Credit for prior learning (CPL)/exemptions FAQs
+Apply for exams
+BackApply for exams
+Applications for Professional and Advanced Level exams
+Applications for Certificate Level exams
+ACA fees
+Exam resources
+BackExam resources
+Advanced Level
+Certificate Level
+Professional Level
+Tuition providers
+Exam results
+BackExam results
+Latest exam results
+Archived exam results
+E-assessment results
+Getting your results
+Marks feedback service
+Marks review service
+Training agreement
+BackTraining agreement
+Training agreement: overview
+Professional development
+Ethics and professional scepticism
+Practical work experience
+Access my online training file
+How training works in your country
+Student support and benefits
+BackStudent support and benefits
+Student rewards
+TOTUM PRO Card
+Student events and volunteering
+Xero cloud accounting certifications
+Student Insights
+Student support
+Join a community
+Faculties Online subscription
+Wellbeing support from caba
+Applying for membership
+BackApplying for membership
+Applying for membership
+Code of ethics
+Fit and proper
+Level 4 Accounting Technician Apprenticeship
+Level 7 Accountancy Professional Apprenticeship
+ACA training FAQs
+BackACA training FAQs
+AAT-ACA Fast Track FAQs
+ACA rules and regulations FAQs
+ACA syllabus FAQs
+ACA training agreement FAQs
+Audit experience and the Audit Qualification FAQs
+Credit for prior learning (CPL)/exemptions FAQs
+Exams FAQs
+Independent student FAQs
+Practical work experience FAQs
+Professional development FAQs
+Six-monthly reviews FAQs
+Ethics and professional scepticism FAQS
+Resources
+BackResources
+Country resources
+BackCountry resources
+A to Z
+Africa
+Asia
+Caribbean
+Europe
+Greater China
+Latin America
+Middle East
+North America
+Australasia
+Russia and Eurasia
+South Asia
+South East Asia
+Industries and sectors
+BackIndustries and sectors
+Charity Finance Professionals Community
+Construction & Real Estate
+Energy & Natural Resources Community
+Farming & Rural Business Community
+Forensic & Expert Witness
+Healthcare Community
+Independent Advisers & Consultants Community
+Insolvency
+Manufacturing Community
+Media & Leisure
+Practitioner Business Advisers
+Public Sector
+Retail
+Small and Micro Business Community
+Small Practitioners Community
+Solicitors
+Travel, Tourism & Hospitality Community
+Valuation Community
+Volunteering community
+Audit and Assurance
+BackAudit and Assurance
+Audit
+Assurance
+Audit and corporate governance reform
+Audit & Assurance Faculty
+Regulation and working in audit
+Internal audit resource centre
+Brexit
+BackBrexit
+Brexit checklist
+Brexit and the accountancy profession
+Brexit impact on VAT and other taxes
+Brexit and customs processes
+Brexit and HR issues
+Brexit impact on sales and supply chain
+Brexit and cashflow, finance and forecasting
+Brexit impact on contracts, data and legal issues
+Brexit and financial reporting
+Brexit and exporting
+Brexit and audit
+Brexit impact on industry sectors
+International resources on Brexit
+Brexit webinars
+Business
+BackBusiness
+Everything business
+Latest Business news from Insights
+Strategy, risk and innovation
+Business performance management
+Financial management
+Finance transformation
+Economy and business environment
+Leadership, personal development and HR
+Small and Micro Business Community
+Webinars and publications
+Coronavirus (COVID-19)
+Corporate Finance
+BackCorporate Finance
+Business restructuring
+The Business Finance Guide
+Capital markets and investment
+Corporate Finance
+Corporate finance careers
+Corporate Finance Faculty
+Debt advisory and growth finance
+Mergers and acquisitions
+Private equity
+Start-ups, scale-ups and venture capital
+Transaction services
+Valuation Community
+Corporate governance
+BackCorporate governance
+Board Director's Programme e-learning
+Board committees
+Corporate governance codes and reports
+Corporate Governance Community
+Connect and Reflect
+Principles of corporate governance
+Roles, duties and responsibilities of Board members
+Shareholder relations
+Economy
+BackEconomy
+Cost of doing business
+Economic Insight
+Energy crisis
+Freeports
+Inflation
+Jumpstarting the economy - Insights special
+Social mobility and inclusion
+Autumn Statement 2022
+Fiscal Event September 2022 and its aftermath
+Spring Statement 2022
+Autumn Budget 2021
+World Economic Forum and ICAEW
+Financial reporting
+BackFinancial reporting
+Financial reporting
+UK GAAP
+Accounting for specific sectors
+IFRS
+IFRS Standards Navigator (eIFRS)
+UK Regulation for Company Accounts
+Improving Corporate Reporting
+Financial reporting news and insights
+Financial Reporting Faculty
+Non-financial reporting
+BackNon-financial reporting
+Non-financial reporting
+Strategic reports
+Directors' reports
+Carbon and energy reporting
+Reporting on climate
+Standard-setting
+Assurance on non-financial reporting
+Financial Services
+BackFinancial Services
+Financial Services
+Banking
+Insurance
+Investment management
+Inspiring confidence
+Practice resources
+BackPractice resources
+Practice resources
+Setting up in practice
+Running your practice
+Supporting your clients
+Regulation
+Practice technology
+TAS helpsheets
+Bloomsbury Accounting and Tax Service
+Practitioner Business Advisers Community
+Small Practitioners Community
+Join ICAEW BAS
+Sustainability and climate change
+BackSustainability and climate change
+Climate hub
+Global Goals hub
+Accountability
+Modern slavery
+Resources collection
+Sustainability Committee
+Sustainability & Climate Change community
+Sustainability and climate change home
+Tax
+BackTax
+Tax
+Tax Faculty
+Budgets and legislation
+Business tax
+Devolved taxes
+Employment taxes
+ICAEW works to support tax reform
+International taxes
+Making Tax Digital
+Personal tax
+Property tax
+Stamp duty land tax
+Tax administration
+Tax compliance
+UK tax rates, allowances and reliefs
+VAT
+Technology
+BackTechnology
+Artificial intelligence
+Blockchain and cryptoassets
+Cyber security
+Data
+Data Analytics Community
+Digital skills
+Excel community
+Finance in a Digital World
+IT management
+Technology and the profession
+Webinars and publications
+Trust & Ethics
+Back Trust & Ethics
+Trust & Ethics home
+Anti-money laundering
+Better Regulation
+Business Law
+Company law
+Data protection and privacy
+Economic crime
+Ethics
+Help with ethical problems
+ICAEW Code of Ethics
+ICAEW Trust and Ethics team.....
+Solicitors Community
+Forensic & Expert Witness Community
+Latest articles on business law, trust and ethics
+Communities
+BackCommunities
+Faculties
+BackFaculties
+Audit and Assurance Faculty
+Corporate Finance Faculty
+Financial Reporting Faculty
+Financial Services Faculty
+Tax Faculty
+Communities by industry / sector
+BackCommunities by industry / sector
+Academia & Education Community
+Charity Community
+Charity Finance Professionals
+Construction & Real Estate Community
+Energy & Natural Resources Community
+Entertainment, Sport & Media Community
+Exporting Community [Global Trade Community from 2023]
+Farming & Rural Business Community
+Healthcare Community
+Manufacturing Community
+Public Sector Community
+Retail Community
+Solicitors Community
+Travel, Tourism & Hospitality Community
+Volunteering Community
+Communities by life stage and workplace
+BackCommunities by life stage and workplace
+Career Breakers Community
+Black Members Community
+ICAEW Business and Finance Professional (BFP)
+ICAEW Careers+
+Diversity & Inclusion Community
+Retirement
+Women in Finance Community
+Young members
+Communities by professional specialism
+BackCommunities by professional specialism
+Corporate Governance Community
+Data Analytics Community
+Excel
+Forensic & Expert Witness Community
+Independent Advisers & Consultants Community [Portfolio Careers Community from 2023]
+Internal Audit Community
+Personal Financial Planning Community
+Practitioner Business Advisers Community
+Restructuring & Insolvency Community
+Small and Micro Business Community
+Small Practitioners Community
+Sustainability and Climate Change Community
+Valuation Community
+Local groups and societies
+BackLocal groups and societies
+London and East
+Midlands
+North West
+Northern
+Scotland
+South West
+South Wales
+Yorkshire and Humberside
+Worldwide
+European public policy activities
+ICAEW Middle East, Africa and South Asia
+Insights
+BackInsights
+Insights
+Latest news
+Tax news
+Insights specials
+BackInsights specials
+Cost of doing business
+Future of insolvency
+Ukraine crisis: central resource hub
+Jumpstarting the Economy
+Inflation
+Future of Audit
+More specials ...
+When Chartered Accountants Save the World
+Top videos
+BackTop videos
+The economics of biodiversity
+How chartered accountants can help to safeguard trust in society
+Video: The financial controller who stole £20,000 from her company
+It’s time for chartered accountants to save the world
+Video: The CFO who tried to trick the market
+Video: Could invoice fraud affect your business?
+Top podcasts
+BackTop podcasts
+The energy crisis – what can businesses do?
+Protecting SMEs against cyber criminals
+Making sense of Russia, M&A and conflicts of interest
+Surviving the cost-of-doing-business crisis
+The PM’s first 100 days - what needs to happen?
+How to fix the airline industry
+Levelling Up won’t leave with Boris, and the big opportunity ahead
+How to bring a business back from the brink
+Top charts of the week
+Insights by topic
+BackInsights by topic
+Brexit – impact on ICAEW members
+CEO and President's insights
+Climate hub
+Coronavirus (COVID-19)
+Diversity and Inclusion
+Regulatory News
+Student Insights
+Insights index
+Sponsored content
+Regulation
+BackRegulation
+ICAEW codes and regulations
+Back
+Charter and Bye-laws
+ICAEW Code of Ethics
+Complaints, disciplinary and fitness processes and regulations
+Membership regulations
+Qualifications regulations
+Training and education regulations
+Professional conduct and complaints
+Back
+How to make a complaint
+Guidance on your duty to report misconduct as an ICAEW member
+Complaints, disciplinary and fitness processes and regulations
+Public hearings
+What to do if you receive a complaint against you
+Statutory regulated services overseen by ICAEW
+Back
+Working in the regulated area of audit
+Local public audit in England
+Probate services
+Insolvency
+Designated Professional Body (Investment Business) licence
+Consumer credit
+Fees for regulated areas and affiliates
+Regulations for ICAEW practice members and firms
+Back
+The ICAEW Practice Assurance scheme
+Anti-money laundering supervision
+Licensed Practice scheme
+Practising certificates
+Professional Indemnity Insurance (PII)
+Clients' Money Regulations
+Taxation (PCRT) Regulations
+Additional guidance and support
+Back
+Practice resources
+ICAEW training films
+CABA
+Helpsheets and guidance by topic
+ICAEW's regulatory expertise and history
+ICAEW Regulatory Board
+HomeBreadcrumbs
+Home
+ICAEW policies
+Cookies
+Cookies on ICAEW websites
+Details of cookies we use across all ICAEW websites and what we use them for.
+What are cookies?
+A cookie is a tiny file that is saved by your browser when you visit a website
+This is sometimes referred to as “dropping a cookie”
+It enables certain information about your visit to be stored by the site, to save you from re-entering information in the future (such as preferences) and to enhance the overall experience, including the speed and security of the website.
+Some of these cookies are essential in order for a website to run as you expect it to.
+Some cookies are active during your session on the website, and will automatically delete after you close your browser
+Other cookies are persistent and will either expire after a certain period of time (e.g
+one month) or when you tell them to in your browser’s settings.
+Does ICAEW use cookies?
+Yes ICAEW use cookies to ensure you can log in to the site, navigate efficiently and allow you to perform certain functions
+ICAEW sets cookies across the domains it owns and operates
+Additionally, third party cookies set by advertisers, for example, are also used.
+How does ICAEW use cookies?
+There are some cookies that are used to allow the site to function as you would expect, some of which are tied to your personal account with ICAEW, or provide ICAEW with the information to serve you the right content at the right time
+Further cookies allow you to personalise and customise the website for your benefit, or similar purposes.
+Understanding and setting ICAEWs cookies
+To make cookies easier to understand ICAEW have categorised those that are present across its sites
+Those that are necessary for the site to operate as you expect are legally permissible to be dropped
+You have the freedom to control other cookies across ICAEW’s sites in the list below.
+How ICAEW use cookies
+We use cookies to ensure the website functions correctly
+We would also like to set statistics cookies to help us understand the usage of our websites by collecting and reporting information anonymously as well as marketing cookies to track visitors across websites and display ads that are relevant and engaging for you, these will only be set if you accept
+Click "Accept all cookies" if you agree to the use of cookies by ICAEW
+Alternatively you can manage your cookies by clicking ’Customise’
+For more information on about the cookies we use view our cookie policy
+Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages
+Your consent applies to the following domains: careers.icaew.com, vacancies.icaew.com, recruit.icaew.com, volunteer.icaew.com, train.icaew.com, learningshop.icaew.com, learning.icaew.com, www.icaew100.com, students.icaew.com, examresults.icaew.com, annualreturns.icaew.com, jobs.icaew.com, find.icaew.com, events.icaew.com, my.icaew.com, www.icaew.com Your current state: Deny
+Your current state: Do Not Sell My Personal Information
+Your current state: Allow selection (Necessary, Preferences, Statistics, Marketing)
+Your current state: Allow all
+Your consent ID: 0Consent date: Change your consent  |  Withdraw your consentDo Not Sell My Personal InformationCookie declaration last updated on 16/10/2022 by Cookiebot:        Necessary (88)         Necessary cookies help make a website usable by enabling certain functions like page navigation and access to secure areas of the website
+Name Provider Purpose Expiry Type    .AspNetCore.Antiforgery.# my.icaew.com Helps prevent Cross-Site Request Forgery (CSRF) attacks
+Session HTTP Cookie   __cf_bm          [x3]         fonts.netHubspotVimeo This cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website
+1 day HTTP Cookie   __EC_TEST__ annualreturns.icaew.com Used to remember if the user is accessing the website on a computer or mobile device
+Session HTTP Cookie   __RequestVerificationToken          [x2]         careers.icaew.comwww.icaew.com Helps prevent Cross-Site Request Forgery (CSRF) attacks
+Session HTTP Cookie   _pk_testcookie_domain Matomo This cookie determines whether the browser accepts cookies
+1 day HTTP Cookie   AI_buffer          [x2]         Microsoft Used in context with the "AI_sentBuffer" in order to limit the number of data-server-updates (Azure)
+This synergy also allows the website to detect any duplicate data-server-updates
+Session HTML Local Storage   AI_sentBuffer          [x2]         Microsoft Used in context with the "AI_buffer" in order to limit the number of data-server-updates (Azure)
+This synergy also allows the website to detect any duplicate data-server-updates
+Session HTML Local Storage   ai_session          [x2]         Microsoft Preserves users states across page requests
+1 day HTTP Cookie   ARRAffinity          [x2]         careers.icaew.comlptag.liveperson.net Used to distribute traffic to the website on several servers in order to optimise response times
+Session HTTP Cookie   ARRAffinitySameSite          [x2]         careers.icaew.comlptag.liveperson.net Used to distribute traffic to the website on several servers in order to optimise response times
+Session HTTP Cookie   ASP.NET_SessionId          [x4]         applytracking.comcareers.icaew.comevents.icaew.comcdn.icaew.com Preserves the visitor's session state across page requests
+Session HTTP Cookie   AWSALB          [x7]         FilechooserHaysjobs.icaew.comrecruit.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Registers which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+7 days HTTP Cookie   AWSALBCORS          [x7]         FilechooserHaysjobs.icaew.comrecruit.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Registers which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+6 days HTTP Cookie   bscookie LinkedIn This cookie is used to identify the visitor through an application
+This allows the visitor to login to a website through their LinkedIn application for example
+1 year HTTP Cookie   c          [x2]         YOCBidswitch Used in order to detect spam and improve the website's security
+1 year HTTP Cookie   cct Ströer Media Deutschland Necessary for the shopping cart functionality on the website
+1 year HTTP Cookie   cm_sessid_a89c13d910271c051fd5ce954757fe04 learningshop.icaew.com To track, personalize, and save information about each user's session Session HTTP Cookie   CONSENT          [x2]         GoogleYouTube Used to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+2 years HTTP Cookie   CookieConsent          [x16]         Cookiebot Stores the user's cookie consent state for the current domain 1 year HTTP Cookie   cookies.js recruit.icaew.com Determines whether the visitor has accepted the cookie consent box
+This ensures that the cookie consent box will not be presented again upon re-entry
+Session HTTP Cookie   embed/v3/counters.gif Hubspot Used to implement forms on the website
+Session Pixel Tracker   f Zoom Used in order to detect spam and improve the website's security
+Does not store  visitor specific data
+Persistent HTML Local Storage   gdpr ID5 Determines whether the visitor has accepted the cookie consent box
+This ensures that the cookie consent box will not be presented again upon re-entry
+1 day HTTP Cookie   incap_ses_# Hays Preserves users states across page requests
+Session HTTP Cookie   INGRESSCOOKIE Pulsepoint This cookie is used to distinguish between humans and bots
+Session HTTP Cookie   JSESSIONID          [x2]         HaysNew Relic Preserves users states across page requests
+Session HTTP Cookie   li_gc LinkedIn Stores the user's cookie consent state for the current domain 179 days HTTP Cookie   LPSecureStorage#lpSS          [x2]         careers.icaew.com Preserves the visitor's session state across page requests
+Persistent IndexedDB   LPSessionID lo.v.liveperson.net Preserves the visitor's session state across page requests
+Session HTTP Cookie   nlbi_# Hays Used to ensure website security and fraud detection
+Session HTTP Cookie   PHPSESSID annualreturns.icaew.com Preserves user session state across page requests
+Session HTTP Cookie   rc::a Google This cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website
+Persistent HTML Local Storage   rc::c Google This cookie is used to distinguish between humans and bots
+Session HTML Local Storage   rc::e Google This cookie is used to distinguish between humans and bots
+Session HTML Local Storage   SameSite          [x2]         accdn.lpsnmedia.netlptag.liveperson.net Ensures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+1 day HTTP Cookie   SERVERID Eyeota This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website
+1 day HTTP Cookie   SESS# Filechooser Preserves users states across page requests
+Session HTTP Cookie   test annualreturns.icaew.com Used to detect if the visitor has accepted the marketing category in the cookie banner
+This cookie is necessary for GDPR-compliance of the website
+Persistent HTML Local Storage   test_cookie Google Used to check if the user's browser supports cookies
+1 day HTTP Cookie   TS# applytracking.com Used to ensure website security and fraud detection
+Session HTTP Cookie   visid_incap_# Hays Preserves users states across page requests
+1 year HTTP Cookie   visitor          [x2]         Coveo Solutions Preserves the visitor's session state across page requests
+1 year HTTP Cookie   visme-stats-cid Visme Pending Persistent HTML Local Storage   what-intent cdn.icaew.com Determines the device used to access the website
+This allows the website to be formatted accordingly
+Session HTML Local Storage     Preferences (31)         Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+Name Provider Purpose Expiry Type    CookieConsentBulkSetting-# Cookiebot Enables cookie consent across multiple websites Persistent HTML Local Storage   dmSessionID          [x11]         static.trackedweb.net Collects information on what products the visitor has viewed and the content of the shopping-cart
+This is used to increase the website's conversion rate through targeted advertisement and product promotions through emails
+1 day HTTP Cookie   lang          [x2]         LinkedIn Remembers the user's selected language version of a website Session HTTP Cookie   lidc LinkedIn Registers which server-cluster is serving the visitor
+This is used in context with load balancing, in order to optimize user experience
+1 day HTTP Cookie   lpTabId          [x2]         lptag.liveperson.net Used by LivePerson real time messaging platform to identify the active message tab
+Session HTML Local Storage   lpTestCookie#          [x3]         lptag.liveperson.netaccdn.lpsnmedia.net Used to check if the user's browser supports cookies
+Session HTTP Cookie   recordID          [x11]         static.trackedweb.net Collects information on what products the visitor has viewed and the content of the shopping-cart
+This is used to increase the website's conversion rate through targeted advertisement and product promotions through emails
+1 year HTTP Cookie     Statistics (68)         Statistic cookies help ICAEW understand the usage of it's websites by collecting and reporting information anonymously
+Users that are registered with ICAEW (e.g
+members and students) will have their unique ID captured
+This is for statistical and reporting purposes only
+Name Provider Purpose Expiry Type    __coveo.analytics.history          [x2]         Coveo Solutions Necessary in order to optimize the website's search-bar function
+The cookie ensures accurate and fast search results
+Persistent HTML Local Storage   __utma www.icaew.com Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit
+Used by Google Analytics
+2 years HTTP Cookie   __utmb www.icaew.com Registers a timestamp with the exact time of when the user accessed the website
+Used by Google Analytics to calculate the duration of a website visit
+1 day HTTP Cookie   __utmc www.icaew.com Registers a timestamp with the exact time of when the user leaves the website
+Used by Google Analytics to calculate the duration of a website visit
+Session HTTP Cookie   __utmz www.icaew.com Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used
+Used by Google Analytics
+6 months HTTP Cookie   _at.hist.# Oracle Used by the social sharing platform AddThis to store the user's usage history of the AddThis sharing widget Persistent HTML Local Storage   _dc_gtm_UA-# Google Used by Google Tag Manager to control the loading of a Google Analytics script tag
+1 day HTTP Cookie   _ga          [x2]         Googleicaew100.com Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+2 years HTTP Cookie   _ga_# Google Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit
+2 years HTTP Cookie   _gat          [x2]         Googleicaew100.com Used by Google Analytics to throttle request rate 1 day HTTP Cookie   _gid          [x2]         Googleicaew100.com Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+1 day HTTP Cookie   _hjAbsoluteSessionInProgress Hotjar This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice
+1 day HTTP Cookie   _hjFirstSeen Hotjar This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website
+1 day HTTP Cookie   _hjIncludedInPageviewSample          [x6]         Hotjarfind.icaew.com Used to detect whether the user navigation and interactions are included in the website’s data analytics
+1 day HTTP Cookie   _hjIncludedInSessionSample          [x6]         Hotjar Registers data on visitors' website-behaviour
+This is used for internal analysis and website optimization
+1 day HTTP Cookie   _hjRecordingLastActivity          [x2]         Hotjarwww.icaew.com Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes
+Session HTML Local Storage   _hjSession_# Hotjar Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read
+1 day HTTP Cookie   _hjSessionUser_# Hotjar Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read
+1 year HTTP Cookie   _hjTLDTest Hotjar Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Session HTTP Cookie   _pk_id# Matomo Collects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read
+1 year HTTP Cookie   _pk_ref# Matomo Used by Piwik Analytics Platform to identify the referring website from which the visitor has come
+6 months HTTP Cookie   _pk_ses# Matomo Used by Piwik Analytics Platform to track page requests from the visitor during the session
+1 day HTTP Cookie   ab Neustar This cookie is used by the website’s operator in context with multi-variate testing
+This is a tool used to combine or change content on the website
+This allows the website to find the best variation/edition of the site
+1 year HTTP Cookie   ADRUM_BT1          [x2]         accdn.lpsnmedia.netlptag.liveperson.net This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website
+1 day HTTP Cookie   ADRUM_BTa          [x2]         accdn.lpsnmedia.netlptag.liveperson.net This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website
+1 day HTTP Cookie   ai_user          [x2]         Microsoft Used by Microsoft Application Insights software to collect statistical usage and telemetry information
+The cookie stores a unique identifier to recognize users on returning visits over time
+1 year HTTP Cookie   AnalyticsSyncHistory LinkedIn Used in connection with data-synchronization with third-party analysis service
+29 days HTTP Cookie   bounce Appnexus Determines if a user leaves the website straight away
+This information is used for internal statistics and analytics by the website operator
+Session Pixel Tracker   cksync.php Media.net This cookie is used to determine if cookie data synchronization is enabled or disabled – cookie data synchronization is used to synchronize and gather visitor data on several domains
+Session Pixel Tracker   collect Google Used to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels
+Session Pixel Tracker   coveo_visitorId www.icaew.com Saves information of actions that have been carried out by the user during the current visit to the website, including searches with keywords included
+9999 days HTTP Cookie   events/1/# New Relic Used to monitor website performance for statistical purposes
+Session Pixel Tracker   hjViewportId          [x2]         Hotjarwww.icaew.com Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes
+Session HTML Local Storage   jserrors/1/# New Relic Pending Session Pixel Tracker   ln_or          [x6]         LinkedIn Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+1 day HTTP Cookie   lpLastVisit-#          [x2]         lo.v.liveperson.net Used by LivePerson real time messaging platform to store the timestamp of the user's last visit
+Persistent HTML Local Storage   LPVID lo.v.liveperson.net Used by LivePerson real time messaging platform to recognize the visitor on returning visits
+1 year HTTP Cookie   LPVisitorID lo.v.liveperson.net Used by LivePerson real time messaging platform to recognize the visitor on returning visits
+1 year HTTP Cookie   pagevisit r1.trackedweb.net Registers statistical data on users' behaviour on the website
+Used for internal analytics by the website operator
+Session Pixel Tracker   SC_ANALYTICS_GLOBAL_COOKIE          [x2]         careers.icaew.comwww.icaew.com Used by Sitecore Engagement Analytics to identify the visitor on repeat visits to the website
+10 years HTTP Cookie   visitor-id Media.net This cookie is used to collect information on the visitor
+This information will be stored for internal analytics at the website's operator – Internal analytics is used by websites to optimize their domains
+1 year HTTP Cookie   vuid Vimeo Collects data on the user's visits to the website, such as which pages have been read
+2 years HTTP Cookie     Marketing (134)         Marketing cookies are used to track visitors across websites
+Data is collected to display ads that are relevant and engaging for the individual user
+Name Provider Purpose Expiry Type    #.gif LiveRamp Pending Session Pixel Tracker   __atuvc Oracle Updates the counter of a website's social sharing features
+1 year HTTP Cookie   __atuvs Oracle Ensures that the updated counter is displayed to the user if a page is shared with the social sharing service, AddThis
+1 day HTTP Cookie   __gads careers.icaew.com Used to register what ads have been displayed to the user
+1 year HTTP Cookie   __gpi careers.icaew.com Collects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website
+1 year HTTP Cookie   _at.cww Oracle Used by the social sharing platform AddThis Persistent HTML Local Storage   _cc_cc Lotame Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+Session HTTP Cookie   _cc_dc Lotame Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+269 days HTTP Cookie   _cc_id Lotame Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded
+The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising
+269 days HTTP Cookie   _fbp  Meta Platforms, Inc
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months HTTP Cookie   _gcl_au Google Used by Google AdSense for experimenting with advertisement efficiency across websites using their services
+3 months HTTP Cookie   _hjRecordingEnabled          [x2]         Hotjarwww.icaew.com This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange
+Session HTML Local Storage   _kuid_ Salesforce Registers a unique ID that identifies a returning user's device
+The ID is used for targeted ads
+179 days HTTP Cookie   _li_ss Liveintent Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+29 days HTTP Cookie   A3 Yahoo Collects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website
+1 year HTTP Cookie   ads/ga-audiences Google Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites
+Session Pixel Tracker   adscores/g.pixel Neustar Presents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers
+Session Pixel Tracker   AFFICHE_W Weborama Used by the advertising platform Weborama to determine the visitor's interests based on pages visits, content clicked and other actions on the website
+1 year HTTP Cookie   anj Appnexus Registers a unique ID that identifies a returning user's device
+The ID is used for targeted ads
+3 months HTTP Cookie   at-lojson-cache-# v1.addthisedge.com Used by the social sharing platform AddThis Persistent HTML Local Storage   at-rand Oracle Used by the social sharing platform AddThis Persistent HTML Local Storage   audience SpotX Used to determine whether the video-ads have been displayed correctly on the website - This is done to make video-ads more effective and ensure that the visitor is not shown the same ads more times than intended
+The cookie also detects whether the visitor has any Do Not Track preferences
+27 days HTTP Cookie   bcookie LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services
+1 year HTTP Cookie   bkdc Bluekai.com Registers user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+179 days HTTP Cookie   bkpa Bluekai.com Presents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers
+179 days HTTP Cookie   bku Bluekai.com Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+179 days HTTP Cookie   C Adform Used to check if the user's browser supports cookies
+30 days HTTP Cookie   callback ID5 Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+1 day HTTP Cookie   car ID5 Presents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers
+1 day HTTP Cookie   cf ID5 Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+1 day HTTP Cookie   cip ID5 Presents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers
+1 day HTTP Cookie   cm Zeta Global Identifies if the cookie-data needs to be updated in the visitor's browser  - This is determined through third-party ad-serving-companies
+Session Pixel Tracker   cmd Zeta Global Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+1 year HTTP Cookie   CMID Casale Media Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 year HTTP Cookie   CMPRO Casale Media Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+3 months HTTP Cookie   CMPS Casale Media Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+3 months HTTP Cookie   CMRUM3 Casale Media Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 year HTTP Cookie   CMST Casale Media Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 day HTTP Cookie   CMTS Casale Media Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+3 months HTTP Cookie   cnac ID5 Presents the user with relevant content and advertisement
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers
+1 day HTTP Cookie   data-rk Media.net Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+1 year HTTP Cookie   demconf.jpg Adobe Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+Session Pixel Tracker   demdex Adobe Via a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads
+179 days HTTP Cookie   dpm Adobe Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+179 days HTTP Cookie   dspuuid Smartclip Registers data on visitors from multiple visits and on multiple websites
+This information is used to measure the efficiency of advertisement on websites
+29 days HTTP Cookie   e/rocketfuel_sync Oracle Detects whether partner data synchronization is functioning and currently running - This function sends user data between third-party advertisement companies for the purpose of targeted advertisements
+Session Pixel Tracker   eud Zeta Global Registers user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+1 year HTTP Cookie   euds Zeta Global Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+Session HTTP Cookie   everest_g_v2 Adobe Inc
+Used for targeted ads and to document efficacy of each individual ad
+1 year HTTP Cookie   fr Meta Platforms, Inc
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months HTTP Cookie   GoogleAdServingTest          [x4]         Google Used to register what ads have been displayed to the user
+Session HTTP Cookie   HAPLB8S Sonobi Pending Session HTTP Cookie   IDE Google Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year HTTP Cookie   IDSYNC Oath Used to identify the visitor across visits and devices
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers
+1 year HTTP Cookie   lidid Liveintent Collects data on visitors' behaviour and interaction - This is used to make advertisement on the website more relevant
+The cookie also allows the website to detect any referrals from other websites
+2 years HTTP Cookie   loc Oracle Geolocation, which is used to help providers determine how users who share information with each other are geographically located (state level)
+1 year HTTP Cookie   lpUnifiedWindow-storage_expiration-77413993          [x3]         lpcdn.lpsnmedia.netcareers.icaew.comwww.icaew.com Pending Persistent HTML Local Storage   m_sid          [x4]         jobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Collects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website
+1 day HTTP Cookie   mics_lts Mediarithmics Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products
+1 year HTTP Cookie   mics_uaid Mediarithmics Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products
+1 year HTTP Cookie   mics_vid Mediarithmics Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products
+1 year HTTP Cookie   mt_misc MediMath Collects data on the user's visits to the website, such as what pages have been loaded
+The registered data is used for targeted ads
+29 days HTTP Cookie   mt_mop MediMath Collects data on the user's visits to the website, such as what pages have been loaded
+The registered data is used for targeted ads
+29 days HTTP Cookie   pagead/1p-user-list/# Google Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites
+Session Pixel Tracker   pagead/landing          [x2]         Google Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Session Pixel Tracker   partner SpotX Used in context with video-advertisement
+The cookie limits the number of times a user is shown the same advertisement
+The cookie is also used to ensure relevance of the video-advertisement to the specific user
+Session Pixel Tracker   pb_rtb_ev Pulsepoint Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+1 year HTTP Cookie   psyn Smartclip Used in context with video-advertisement
+The cookie limits the number of times a user is shown the same advertisement
+The cookie is also used to ensure relevance of the video-advertisement to the specific user
+29 days HTTP Cookie   pxrc LiveRamp This cookie registers data on the visitor
+The information is used to optimize advertisement relevance
+2 months HTTP Cookie   rlas3 LiveRamp Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+1 year HTTP Cookie   rud Zeta Global Registers user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+1 year HTTP Cookie   ruds Zeta Global Registers user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+Session HTTP Cookie   rum Casale Media Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+Session Pixel Tracker   sd-session-id live.rezync.com Registers data on visitors from multiple visits and on multiple websites
+This information is used to measure the efficiency of advertisement on websites
+179 days HTTP Cookie   setuid Appnexus This cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization - cookie data synchronization is used to synchronize and gather visitor data from several websites
+Session Pixel Tracker   SEUNCY Semasio Registers a unique ID that identifies the user's device for return visits
+1 year HTTP Cookie   sync          [x2]         BidswitchTelaria Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant
+Session Pixel Tracker   TapAd_3WAY_SYNCS Tapad Used for data-synchronization with advertisement networks
+2 months HTTP Cookie   TapAd_DID Tapad Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user
+2 months HTTP Cookie   TapAd_TS Tapad Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user
+2 months HTTP Cookie   tr Meta Platforms, Inc
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+Session Pixel Tracker   tu Ströer Media Deutschland Used to target ads by registering the user's movements across websites
+1 year HTTP Cookie   tuuid          [x3]         Improve DigitalBidswitchYOC Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads
+3 months HTTP Cookie   tuuid_lu          [x3]         Improve DigitalBidswitchYOC Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites
+This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times
+3 months HTTP Cookie   u Neustar Collects data on user visits to the website, such as what pages have been accessed
+The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing
+1 year HTTP Cookie   uid          [x2]         AdformCriteo Registers a unique user ID that recognises the user's browser when visiting websites that use the same ad network
+The purpose is to optimise display of ads based on the user's movements and various ad providers' bids for displaying user ads
+2 months HTTP Cookie   UID Freewheel Unique user ID that recognizes the user on returning visits 29 days HTTP Cookie   uid-bp-# Freewheel Pending 2 months HTTP Cookie   ul_cb/sync Bidswitch Collects information on user behaviour on multiple websites
+This information is used in order to optimize the relevance of advertisement on the website
+Session Pixel Tracker   um Improve Digital Registers the visitor's behavior on social media - can be used to optimize ad-relevance and general targeting
+3 months HTTP Cookie   umeh Improve Digital Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences
+3 months HTTP Cookie   UserMatchHistory LinkedIn Ensures visitor browsing-security by preventing cross-site request forgery
+This cookie is essential for the security of the website and visitor
+29 days HTTP Cookie   utm_campaign static.trackedweb.net Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products
+Session HTTP Cookie   utm_medium static.trackedweb.net Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products
+Session HTTP Cookie   utm_source static.trackedweb.net Determines how the user accessed the website
+This information is used by the website operator in order to measure the efficiency of their marketing
+Session HTTP Cookie   uu Ströer Media Deutschland Used to target ads by registering the user's movements across websites
+1 year HTTP Cookie   uuid          [x2]         MediMathSmartclip Collects data on the user's visits to the website, such as what pages have been loaded
+The registered data is used for targeted ads
+1 year HTTP Cookie   uuid2 Appnexus Registers a unique ID that identifies a returning user's device
+The ID is used for targeted ads
+3 months HTTP Cookie   uvc Oracle Detects how often the social sharing service, AddThis, encounters the same user
+1 year HTTP Cookie   V Pulsepoint Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network
+1 year HTTP Cookie   vidoomy-uids Vidoomy Used in context with video-advertisement
+The cookie limits the number of times a user is shown the same advertisement
+The cookie is also used to ensure relevance of the video-advertisement to the specific user
+1 year HTTP Cookie   VISITOR_INFO1_LIVE YouTube Tries to estimate the users' bandwidth on pages with integrated YouTube videos
+179 days HTTP Cookie   WIDGET::local::assignments Soundcloud Used by audio-platform SoundCloud to implement, measure and improve their embedded content/service on the website - The collection of data also includes visitors’ interaction with embedded content/service
+This can be used for statistics or marketing purposes
+Persistent HTML Local Storage   xtc Oracle Registers the user's sharing of content via social media
+1 year HTTP Cookie   YSC YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen
+Session HTTP Cookie   yt.innertube::nextId YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen
+Persistent HTML Local Storage   yt.innertube::requests YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen
+Persistent HTML Local Storage   ytidb::LAST_RESULT_ENTRY_KEY YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-cast-available YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-cast-installed YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-connected-devices YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-device-id YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-fast-check-period YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-app YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-name YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   zc Zeotap Registers data on visitors from multiple visits and on multiple websites
+This information is used to measure the efficiency of advertisement on websites
+1 year HTTP Cookie   zync-uuid live.rezync.com Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers
+179 days HTTP Cookie     Unclassified (57)         Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies
+Name Provider Purpose Expiry Type    _MadgexTracking Google Pending 2 years HTTP Cookie   _MadgexTracking_gid Google Pending 1 day HTTP Cookie   _zm_mtk_guid Zoom Pending 2 years HTTP Cookie   _zm_page_auth Zoom Pending Session HTTP Cookie   _zm_ssid Zoom Pending Session HTTP Cookie   _zm_visitor_guid Zoom Pending 1 year HTTP Cookie   AnonymousUserId          [x4]         jobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Pending 2 years HTTP Cookie   BrowserSession          [x4]         jobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Pending 1 day HTTP Cookie   CompatibilityCheck Filechooser Pending 1 day HTTP Cookie   DoubleSubmit_ICAEW_ResponsiveJobSeeker          [x4]         jobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Pending Session HTTP Cookie   fe-recording-player-pc__i18n__en-US Zoom Pending Persistent HTML Local Storage   filament-ai-chat-widget-state ebm.icaew.com Pending Persistent HTML Local Storage   FixedFacetDefaults          [x4]         jobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Pending Session HTTP Cookie   JobSearchCriteria          [x4]         jobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Pending Session HTTP Cookie   JobSearchResultIds          [x4]         jobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Pending Session HTTP Cookie   JSMRI          [x4]         jobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Pending 1 year HTTP Cookie   LPSID-77413993 lo.v.liveperson.net Pending Session HTTP Cookie   m_au          [x4]         jobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Pending 2 years HTTP Cookie   m_shb          [x4]         jobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Pending 1 day HTTP Cookie   oidc_state          [x4]         jobs.icaew.comtrain.icaew.comvacancies.icaew.comvolunteer.icaew.com Pending Session HTTP Cookie   RsAnonymousUserId recruit.icaew.com Pending 399 days HTTP Cookie   RsBrowserSession recruit.icaew.com Pending 1 day HTTP Cookie   searchFormCurrentState recruit.icaew.com Pending Persistent HTML Local Storage   SFIdentity0001BigIP applytracking.com Pending Session HTTP Cookie   tag bpi.rtactivate.com Pending Session Pixel Tracker   track2_12308 applytracking.com Pending 1 month HTTP Cookie   UrlCSRF_ICAEW recruit.icaew.com Pending 1 day HTTP Cookie
+Home
+Membership
+Learn
+Careers
+ACA students
+Resources
+Communities
+Insights
+Regulation
+About us
+Who we are
+Governance
+ICAEW Annual and Special meetings
+What is chartered accountancy?
+Diversity and Inclusion
+Find a chartered accountant
+ICAEW Foundation
+Media Centre
+Job vacancies
+Contact us
+Contact us
+How to make a complaint
+UK offices
+Regions
+International offices
+CABA
+Partner with us
+Information services
+Bloomsbury Accounting and Tax Service
+Library
+Guide to Library services
+Company research
+Historical resources
+Library collection
+Library search
+Legal
+ICAEW policies
+Modern Slavery Statement
+Privacy notice
+Cookies
+Website and email privacy notice
+Reproducing ICAEW content
+Legal notice and terms of use
+Website links policy
+Events
+All events
+CPD Courses | CPD Training Programmes
+Webinars
+On demand webinars
+ICAEW flagship events
+Events support
+© ICAEW 2022
+The Institute of Chartered Accountants in England and Wales, incorporated by Royal Charter RC000246 with registered office at Chartered Accountants’ Hall, Moorgate Place, London EC2R 6EA

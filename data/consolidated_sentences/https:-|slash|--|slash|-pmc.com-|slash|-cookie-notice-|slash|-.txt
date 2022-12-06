@@ -1,0 +1,269 @@
+Cookies and Other Tracking Technologies |
+BRANDS
+BRANDS
+Leadership
+About Us
+Events
+News
+Careers
+Contact Us
+Search
+More
+Search
+Cookies and Other Tracking Technologies
+Last Updated Date: April 17, 2020.
+What are Cookies? Cookies are text files that contain a certain amount of information and are downloaded to your computer or mobile device when you visit a website
+They are useful because they allow websites to recognize a user’s device
+They are then returned to the original website on each subsequent visit or to any other website that recognizes them
+For more information on cookies, go to http://www.allaboutcookies.org
+The term “Cookie” is used in this Notice in the broad sense to include all similar techniques and technology, including web beacons and log files
+For more information on these additional tools, see our glossary below.
+Types of Information We Collect
+Cookies help us to understand Website usage and to improve the content and offerings on our Services and in other media
+Examples of the types of information that we collect through Cookies include: The number of users visiting Services, the number of times a Website was viewed, the pages viewed, the clicks made on the Services and the total duration of navigation on the Services
+The name of the page that referred you to the Website
+Whether this is your first time visiting the Website
+Your viewing preferences (e.g
+layout, sizing preferences, language etc.)
+Your user name, your password, the type of browser used and your IP address, so that we can identify you during your next visits.
+How We Use Cookies
+Examples of ways that we use Cookies include:
+To control the display of ads;
+To track usage patterns on the Services;
+To deliver editorial content;
+To record requests for subscriptions;
+To implement our affiliate marketing program
+and
+To personalize information.
+PMC (or third party service providers on our behalf) may also use cookies to collect aggregate information about Website users on an anonymous basis (“Anonymous Information”)
+We may share demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose.
+Types of Cookies We Use on Our Services
+We use first party and third party Cookies for several reasons
+Some Cookies are required for technical reasons in order for our Site to operate, and we refer to these as “essential” or “strictly necessary” Cookies
+Other Cookies also enable us to track and target the interests of our users and to enhance the experience on our Services
+Third parties also serve Cookies through our Services for advertising, analytics and other purposes
+The specific types of first and third party Cookies served through our Services and the functions they perform are described in more detail below.
+First-party Cookies
+These cookies are created by PMC
+They allow you to browse our Services and use their features.
+Essential Cookies.These cookies are strictly necessary to allow you to move around the Services and use their features, such as accessing your subscriptions
+Without these cookies, we cannot enable appropriate content based on the type of device you are using
+Therefore, these cookies cannot be disabled.
+Functional Cookies.These cookies allow us to remember choices you make on our websites (such as your preferred language or the region you are in)
+To refuse these Cookies, please follow the instructions below under the section Cookie Management
+Note that by disabling functional cookies, you may not be able to use some of our features or those features may not function properly.
+Embedded Scripts.An embedded script is programming code that is designed to collect information about your interactions with the Services, such as the links you click on
+The code is temporarily downloaded onto your computer or other device, is active only while you are connected to the Services, and is deactivated or deleted thereafter.
+Analytics Cookies.We use Cookies and other identifiers (such as web beacons) to see how you use our Services in order to enhance their performance and develop them according to the preferences of our customers and visitors
+For example, cookies and web beacons may be used to maintain a consistent look and feel across our Services, track and provide trend analysis on how our users interact with our Services, track errors, and measure the effectiveness of our promotional campaigns
+To refuse these Cookies, please follow the instructions below under the section Cookie Management.
+Cross-Device Cookies.PMC may use cookies in combination with the information we collect — for instance, IP addresses and unique mobile device identifiers — to locate or try to locate the same unique users across multiple browsers or devices (such as smartphones or tablets), or work with service providers that do this, in order to save your preferences across devices and analyze usage of the Services
+To refuse these Cookies, you may install the Google Analytics Opt-out Browser Add-on.
+Third-Party Cookies
+Some of our third party partners (including advertisers and marketing services companies) may set and access Cookies on your computer as well, or we may do so on their behalf
+We do not have control over how these third parties use such cookies and similar technologies or the information derived therefrom, and this Privacy Policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information
+To see a list of our third party partners, please click here
+These types of cookies include:
+Advertising Cookies
+These Cookies, defined exclusively by third parties, collect several types of data about your browsing habits, as well as your preferences for products and services
+This information allows PMC to serve you relevant advertisements on our Services
+To refuse these cookies, please follow the instructions below under the section Cookie Management
+Some advertisements may also contain an icon that you may click on to find out more about how to manage your advertising preferences.
+Third-Party Functional Cookies
+These Cookies are defined by third parties who support our Services and allow you to use useful services and features
+To refuse these cookies, please follow the instructions below under the section Cookie Management.
+Web Beacons
+Small graphic images or other web programming code called web beacons (also known as “clear GIFs” or “pixel tags”) or similar technologies may be included in our web pages and messages
+Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Services, to monitor how users navigate the Services, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed
+A clear gif may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personally Identifiable Information
+To refuse Web Beacons, please follow the instructions below under the section Cookie Management.
+HTML
+HTML, the language some websites are coded in, may be used to store information on your computer or device about your interaction with and use of the Services
+This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
+Types of Cookies We Serve on Third-Party Services.
+Duration of Storage of Cookies on Your Device
+We use both “session cookies” (which expire once you close your web browser) and “persistent cookies” (which stay on your computer until you delete them).
+Cookie Management.
+Analytics
+To learn about Google Analytics’ currently available opt-outs for the Web, please visit https://support.google.com/analytics/answer/181881?hl=en.
+Disabling Advertising Cookies
+Some of the advertising service providers may be members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies
+If you opt-out of receiving targeted ads in this manner, you will continue to receive advertising messages after you opt-out, but they will not be customized to you based on your use of the Services and/or third party websites
+If you would like more information about advertisers’ use of tracking technologies and about your option not to accept these cookies, you can go to www.networkadvertising.org
+If you would like to learn more about how interest-based information is collected, whether the companies we use are part of an industry network regarding behavioral advertising and to know your choices about not having information used in this manner, you can go to www.aboutads.info
+The collection of information via certain ads served to users in Canada may be managed by visiting youradchoices.ca
+Please note that the-opt out is cookie-based and will only affect the specific computer and browser on which the opt-out is applied.
+Using Browser Settings
+You can disable and/or delete most types of cookies by using your browser settings
+Please note that if you use your browser settings to block all cookies you may not be able to access parts of our or others’ Services
+The following links provide information on how to modify the cookies settings on some popular browsers:
+Apple Safari
+Google Chrome
+Microsoft Internet Explorer
+Mozilla Firefox
+Do Not Track Signals
+PMC does not act on “do not track” requests from your browser because, this way, we are able to personalize your experiences on our Services
+For more information, go to www.networkadvertising.org or www.aboutads.info
+If you have questions about the use of Cookies on our Services, please contact us as described in the Contact Us section of our Privacy Policy.
+List of third party partners as of April 3, 2020
+To see a list of our third party partners as of the date noted above, please see below
+This list may be updated from time to time.
+Ad Servers:
+AdButlerAtlas
+Celtra
+Clipcentric
+DCM
+Flashtalking
+Jet Pack
+LiveIntent
+Sizmek
+Spotible
+Teads
+Tracking Vendors:
+Adjuster
+Adobe Audience Manager DMP
+Adrizer
+Apester
+Blockthrough
+Bluekai
+Ceros
+Collective UK
+Conversant
+Dioh
+Double Verify
+Flluct
+Google Analytics
+Ideon
+Innovid
+Integral Ad Science
+Keywee
+Lotame
+Lucid
+Marketing Evolution
+Millward Brown Digital
+Moat
+Neustar
+Nielsen
+Optimera
+Optimizely
+Oracle
+Permutive
+Piwik
+Placed
+Research Now
+Salesforce DMP / Krux
+Samba TV
+Sizmek/Peer39
+Skimlinks
+SpotX
+Stanza
+Visual IQ
+White Ops
+Other:
+AdLightning
+Admiral
+Adslot
+ALC Pixels/Digital
+Amazon – RoundForest
+Amazon A9
+Amazon Associates VigLinks
+Anyclip
+AppAudience/Appmonet
+AppNexus
+bRealtime
+Bringhub
+Captify
+Chartbeat
+Kixer
+Chicory
+Comscore
+Confiant
+Consumable.IO
+Criteo
+Disqus
+DistrictM
+EMX
+Facebook
+Google DFP/AdX
+Gotchosen
+GumGum
+Hotjar
+Index Exchange
+Infolinks
+Instinctive
+Inuvo
+Jivox
+JustPremium
+JW Player
+Kargo
+LightLife
+LIveRamp
+Magnetic
+Microsoft
+Mobkoi
+Nativo
+NewsCred
+Nobid
+OpenX
+Oriel
+Outbrain
+Parsec
+Pinterest
+Playbuzz
+Polar
+Pubmatic
+Rhombus
+Rubicon
+Sharethrough
+Socius
+Sonobi
+Sovrn
+Spot.IM
+Swoop
+Taboola
+Teads
+Telaria
+Triplelift
+Twitter
+Undertone
+Unruly
+Vemba
+Venatus
+Verizon Media Group
+Vibrant
+Video Elephant
+VividSeats
+Vox Media
+Yieldbot
+Yieldmo
+Youtube
+Zergnet
+LinkedIn
+Glassdoor
+Twitter
+Facebook
+Accessibility
+Privacy Policy
+AdChoices
+Terms Of Use
+Copyright © 2022 Penske Media Corporation
+All Rights Reserved
+Powered by WordPress VIP
+Privacy Preference CenterWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies
+This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to
+The information does not usually directly identify you, but it can give you a more personalized web experience
+Because we respect your right to privacy, you can choose not to allow some types of cookies
+Click on the different category headings to find out more and change our default settings
+However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More informationAllow All Manage Consent PreferencesPerformance Cookies  Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site
+They help us to know which pages are the most and least popular and see how visitors move around the site
+All information these cookies collect is aggregated and therefore anonymous
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Targeting Cookies  Targeting Cookies These cookies may be set through our site by our advertising partners
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device
+If you do not allow these cookies, you will experience less targeted advertising.Strictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work
+These cookies do not store any personally identifiable information.Functional Cookies  Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation
+They may be set by us or by third party providers whose services we have added to our pages
+If you do not allow these cookies then some or all of these services may not function properly.Back Button Performance CookiesVendor Search  Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label label Confirm My Choices

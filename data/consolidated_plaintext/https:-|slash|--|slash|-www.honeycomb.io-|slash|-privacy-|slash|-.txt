@@ -1,0 +1,596 @@
+
+
+
+
+
+
+
+
+Privacy Policy - Honeycomb for Observability
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join Honeycomb on November 16 at 10 a.m. PT to "Learn How NS1 Uses Distributed Tracing to Release Code More Quickly and Reliably".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Docs
+Login
+Get Started
+
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+  
+Product
+
+Overview
+BubbleUp
+SLOs
+Service Map
+Distributed Tracing
+Metrics
+OpenTelemetry
+Solutions for AWS
+Solutions for Gaming
+
+
+Why Honeycomb
+
+Overview
+Comparisons
+Customers
+
+
+Learn
+
+Docs
+Training
+Sandbox
+Resources
+Blog
+Office Hours
+
+
+Pricing
+Company
+
+About
+Team
+Careers
+Press Releases
+In the News
+Events
+
+
+
+
+Get Started Contact Us
+
+                
+                Already a Honeycomb customer?    Login
+
+
+
+
+
+ Login  Login
+Get Started
+Contact Us
+Contact Us
+
+
+
+ 
+
+ 
+
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+Privacy  Statement
+Last Updated: August 20, 2021
+
+  At Hound Technology,  Inc. d/b/a/ Honeycomb (“Honeycomb”, “we” or “us”), we are committed to  maintaining the confidentiality, integrity and security of information about  our users. This Privacy Statement describes how we treat personal information  we collect when you visit the Honeycomb website, or access and use the  internet-based services offered by Honeycomb on our website honeycomb.io (such  services, software and the website are collectively referred to as the “Service”).  This Privacy Statement is incorporated into, and considered a part of, the  Honeycomb Terms of Service, currently located at honeycomb.io/terms (the “Terms”).
+ACCEPTANCE OF TERMS
+By accessing and using  our Service, you signify acceptance to the terms of this Privacy Statement and  consent to the collection, use, and disclosure of your personal information as  described below. If you do not agree with or you are not comfortable with any  aspect of this Privacy Statement, you should immediately discontinue access or  use of our Services.
+CHANGES TO THIS PRIVACY STATEMENT
+If we make changes to  this Privacy Statement, these changes will be posted on our website in a timely  manner. We reserve the right to modify this Privacy Statement at any time, so  please review it frequently. You can determine when this Privacy Statement was  last revised by referring to the “Last Updated” legend at the top of this page.  Any changes to this Privacy Statement will become effective upon our posting of  the revised Privacy Statement on our website. Use of the Service following such  changes constitutes your acceptance of the revised Privacy Statement then in  effect.
+TYPES OF DATA WE COLLECT
+We collect Personal  Data and Anonymous Data (as defined below) from you when you visit our website  and when you send us information or communications in connection with your use  of the Service.
+
+  “Personal Data” means  any data that directly or indirectly identifies you or could be used to contact  you, including, for example, your name, address, telephone number, e-mail  address, as well as any other non-public information about you that is  associated with or linked to any of the foregoing data. “Anonymous Data” does  not permit the identification of individual persons.
+Personal Data You Provide to Us
+We receive or collect  Personal Data when we operate and provide our Services, including when you  install, access, or use our Services. We do not sell, lease, rent or loan your  Personal Data to any third party without your prior consent. 
+
+Account: We  collect Personal Data from you, such as your first and last name, e-mail and  mailing addresses, telephone number, professional title, company name, and  password when you register for an account. In addition, where applicable, we  (or our third-party credit card or payment processor on our behalf) may collect  Personal Data including your credit card number or account information. We  process this Personal Data to comply with our legal obligations under  applicable data protection laws such as the EU General Data Protection  Regulations or the California Consumer Privacy Act (collectively, “Data  Protection Laws”) and to fulfill our contractual obligation to you. 
+Customer  Support: When you contact us, we keep a record of email and chat communications  to address and resolve any issues you are facing. Pursuant to the Data  Protection Laws, we process this Personal Data to fulfill our contractual  obligations to you. 
+Services: When  you use our Services, we may store, process and transmit your Personal Data and  information related to it including analytics, logs, plan selections, and usage  activity. Pursuant to Data Protection Laws, we process this Personal Data to  fulfill our contractual obligations to you. 
+Surveys: From  time to time we may collect Personal Data from customers via surveys. If we  conduct a survey in which you participate, we may collect additional profile  information. This information is used solely to improve the content of our web  pages and the quality of our service. Pursuant to Data Protection Laws, we  process this Personal Data to satisfy our legitimate interests as described  above. 
+Device and  Usage: We also collect other types of information that you provide to us  voluntarily, such as operating system and version, your machine data, telemetry  data, operating environment, and hardware profiles. We may collect Personal  Data at other points in our website that state that Personal Data is being  collected. We process such information to enhance security, monitor and verify  identity or service access, combat spam or other malware or security risks.  Pursuant to Data Protection Laws, we process this personal information to  satisfy our legal obligations. 
+Blogs/Message  Board: We may collect Personal Data that you disclosed on our message boards,  or blogs. Any information that you disclose in those forums becomes public  information and may therefore appear in public ways, such as through search  engines or other publicly available platforms. This information may be “crawled”  or searched by third parties. It could also be read, collected or used by other  users to send you unsolicited messages. We process such Personal Data to better  understand you and the way you use and interact with our Services. In addition,  we use such information to customize, measure, and improve our Services and to  develop new Services. Pursuant to Data Protection Laws, we process this  Personal Data to satisfy our legitimate interests as described above. 
+Cookies: We also use “cookies” and various  other tracking technologies (e.g., cookies, beacons and pixels) to store,  operate and provide our Services. We use these tools to ensure that you receive  a personalized experience, and to keep your account safe. Pursuant to Data  Protection Laws, we process such Personal Data to satisfy our legitimate  interests as described above. As required by law, we will ask for your consent.  Please refer to the “Cookies” section below for more information. 
+
+Personal Data Collected by Third Parties
+We may receive Personal  Data about you from companies that provide services (such as payment processing  services) in connection with the Service (collectively, “Partner Companies”).  Our Partner Companies may supply us with Personal Data, such as your name and  e-mail and mailing address information, to help us establish the account or  fulfill orders. We may add this information to the information we have already  collected from you via our website to perform and improve the Service. Pursuant  to Data Protection Laws, we process such Personal Data to satisfy our  legitimate interests as described above.
+
+  This Privacy Statement  applies only to the use and disclosure of Personal Data that we collect while  you use the Service. Our providing a link to any other website or location is  for your convenience and does not signify our endorsement of such other website  or location or its contents. Your use of these third-party services is subject  to the terms for these third-party services. 
+USE OF YOUR DATA
+Our primary purpose in  collecting Personal Data is to provide you with a secure, smooth, efficient,  and personalized experience on the Service. In general, we use your Personal  Data to create, develop, operate, deliver, and improve our Service. Examples of  how we may use your Personal Data include:
+
+to facilitate  the creation of and secure your account on our network; 
+identify you as  a user in our system; 
+to provide you  the Service; 
+to improve the  quality of experience when you interact with the Service and the administration  of the Service; 
+to send you a  welcome e-mail to verify ownership of the e-mail address provided when your  account was created; 
+to send you  administrative e-mail notifications, such as security or support and maintenance  advisories; and 
+to send upgrades and special offers related to  the Service, should you request to receive such communications from us. 
+
+We may create Anonymous  Data records from Personal Data by excluding information (such as your name)  that render the data personally identifiable to you. We use this Anonymous Data  to (i) monitor and analyze use of the Service and for the technical  administration of the Service, (ii) analyze request and usage patterns so that  we may enhance and improve the content and functionality of the Service, (iii)  generate and derive useful data and information concerning the interests,  characteristics and website use behavior of our users, and (iv) verify that  users of the Service meet the criteria required to process their requests. We  reserve the right to use for other purposes and to disclose Anonymous Data to  third parties in our discretion.
+
+  If you provide feedback  on the Service, we may use such feedback for any purpose, provided we will not  associate such feedback with your Personal Data. We will collect any  information contained in such communication and will treat the Personal Data in  such communication in accordance with this Privacy Statement.
+DISCLOSURE OF YOUR PERSONAL DATA
+We may share your  Personal Data with Partner Companies to provide specific Service or technical  support, such as payment processing, maintenance services or support  communication. Partner Companies will have access to your Personal Data only to  perform these services on our behalf and are obligated not to disclose or use  it for any other purpose.
+
+  Although we currently  do not have a parent company, any subsidiaries, joint ventures, or other  companies under a common control (collectively, “Related Entities”), we may in  the future. We may share some or all of your Personal Data with these Related  Entities, in which case we will require our Related Entities to honor this  Privacy Statement. If another company acquires our company or our assets, that  company will possess the Personal Data collected by it and us, and we will use  our best efforts to ensure that such other company will assume the rights and  obligations regarding your Personal Data as described in this Privacy Statement  as and to the extent required by applicable law.
+
+  We will disclose any  information about you to government or law enforcement officials or private  parties as we, in our sole discretion, believe necessary or appropriate to: (1)  comply with a legal requirement or process, including, but not limited to,  civil and criminal subpoenas, court orders or other compulsory disclosures; (2)  enforce this Privacy Statement or the Terms; (3) respond to claims of a  violation of the rights of third parties; (4) respond to user comments or  Service inquiries; (5) protect the our rights, property, or safety and the  rights, property and safety of the Service, our users or the public; or (6)  prevent or stop any activity we may consider to be, or to pose a risk of being,  illegal, unethical, inappropriate or legally actionable. However, Honeycomb  will endeavor only to disclose information requested via a valid legal process,  and will endeavor to notify any user about whom we have disclosed information  if possible.
+
+  Except as otherwise  stated in this policy, we do not generally sell, trade, share, or rent the Personal  Data collected from the Service to third parties. You expressly consent to the  sharing of your Personal Data as described in this policy.
+SECURITY OF YOUR DATA
+We are committed to  protecting the security of your Personal Data. We use a variety of physical and  electronic industry-standard security technologies and procedures to help  protect your Personal Data from unauthorized access, use, or disclosure in  compliance with the applicable laws and regulations.
+
+  You also play a vital  role in protecting your own personal information. For example, we require you  to enter a password to access the Service your account information. When  registering with our Service, it is important to choose a password of  sufficient length and complexity, to not reveal this password to any  unauthorized parties, and to immediately notify us if you become aware of any  unauthorized access to or use of your account. Despite these measures, you  should know that we cannot fully eliminate security risks associated with Personal  Data and mistakes and security breaches may happen.
+
+  Furthermore, we cannot  ensure or warrant the security or confidentiality of information you transmit  to us or receive from us by Internet or wireless connection, including email,  phone, or SMS, since we have no way of protecting that information once it  leaves and until it reaches us. If you have reason to believe that your data is  no longer secure, please contact us at the email address, mailing address or  telephone number listed at the end of this Privacy Statement.
+PERSONAL DATA CHANGES AND OPT-OUT
+We offer you choices  regarding the collection, use, and sharing of your Personal Data.
+
+  You are entitled to  review, correct, or amend your personal information, or to delete that  information where it is inaccurate. At any time, you may access and change any  of your Personal Data in your account by editing your profile within the  account management portion of our website or by sending an e-mail to us at  support@honeycomb.io. You may request deletion of your account information by  us, but please note that we may be required (by law or otherwise) to keep this  information and not delete it (or to keep this information for a certain time,  in which case we will comply with your deletion request only after we have  fulfilled such requirements). When we delete account information, it will be  deleted from the active database, but may remain in our archives. You may  revoke your consent as related to our use and collection of specific Personal  Data by contacting us at [support or privacy@honeycomb.io]. We will  process such request in accordance with applicable Data Protection Law.
+
+  We may periodically  send you free newsletters and e-mails that directly promote the use of the  Service and may contain advertisements for third parties. When you receive  newsletters or promotional communications from us, you may indicate a  preference to stop receiving further communications from us and you will have  the opportunity to “opt-out” by following the unsubscribe instructions provided  in the e-mail you receive or by contacting us directly (please see contact  information below). Should you decide to opt-out of receiving future mailings,  we may share your e-mail address with third parties to ensure that you do not  receive further communications from third parties. Despite your indicated  e-mail preferences, we may send you notice of any updates to the Terms or this  Privacy Statement.
+
+  EEA Residents should  refer to the International Users section for more information regarding their  rights in relation to their Personal Data under the applicable Data Protection  Laws.
+DATA RETENTION
+We store your Personal  Data securely throughout the life of your account with us. We will only retain  your Personal Data for as long as necessary to fulfil the purposes for which we  collected it, including for the purposes of satisfying any legal, accounting,  or reporting obligations or to resolve disputes. The criteria we use to  determine storage periods include the applicable contractual provisions that  are in force, legal statutory limitation periods, applicable regulatory  requirements and industry standards.
+
+  While retention  requirements vary by jurisdiction, information about our typical retention  periods for different aspects of your personal data are described below.
+
+Contact  information for marketing purposes is retained on an ongoing basis until you  un-subscribe. Thereafter we will add your details to our suppression list  indefinitely. 
+Records of  communications with you may be kept indefinitely. 
+Information collected via technical means such  as cookies, webpage counters and other analytics tools is kept for a period of  up to one year from expiry of the cookie. 
+
+COOKIES & OTHER SIMILAR TECHNOLOGIES
+We use cookies and  similar tracking technologies to collect information about your use of our  Services, to remember your preferences for your convenience, and to provide you  with functionality on our Services. Cookies are small pieces of information  that a website sends to your computer’s hard drive while you are viewing a  website. We may also use navigational data like Uniform Resource Locators (URL)  to gather information regarding the date and time of your visit and/or access  to the Service and the solutions and information which you viewed. Like most  Internet services, we automatically gather this information and store it each  time you visit our website or access your account on our network.
+
+  We use session cookies  (which expire once you close your web browser) to help identify that you have  logged into the Service, to tell us how and when you interact with the Service  and to provide you with a more personal and interactive experience while using  the Service. We also utilize persistent cookies to make it easier to log into  and use the Service. Persistent cookies remain on computers after the web  browser is closed or the computer is turned off.
+
+  Cookies set by us are  called “first party cookies,” while cookies set by others are called “third  party cookies.” A third-party cookie can recognize your device both when it  visits our Services and when it visits certain other websites or mobile apps.  We do not control how third-party cookies are used, so you should check the  website of a third-party cookie provider for more information about how they  are used. Both first party and third-party cookies can serve many functions,  such as analytics, marketing and advertising.
+
+  We do not track or  respond to browser “Do Not Track” requests.
+
+
+
+
+      Type of Cookie 
+Purpose
+
+
+Authentication    Cookies
+These cookies    (including local storage and similar technologies) tell us when you are    logged in, so we can customize your experience and connect your account    information and settings.
+
+
+Site Features and    Services
+These cookies provide    functionality that help us deliver products and the Service, whether or not    logged in. For example, cookies can help you log in by pre-filling fields. We    may also use cookies and similar technologies to help us provide you and    others with social plugins and other customized content and experiences, such    as a chat window for customer support.
+
+
+Analytics and    research
+These cookies are    used to understand, improve, and research products and services, including    when you access the Service and related websites and apps from a computer or    mobile device. For example, we may use cookies to understand how you are    using site features, and segmenting audiences for feature testing. We and our    partners may use these technologies and the information we receive to improve    and understand how you use websites, apps, products, and services.
+
+
+How to Manage Cookies
+Depending on whether  you would like to manage a first-party or third-party cookie, you will need to  take the following steps:
+
+Our Cookies (first party cookies): You can use  the browser that you are using to view this website to enable, disable or  delete cookies. To do this, follow the instructions provided by your browser  (usually located within the “Help”, “Tools” or “Edit” settings). If you set  your browser to disable cookies, you may not be able to access secure areas of  the Services and other parts of the Services may also not work properly. 
+
+Many browser  manufacturers provide helpful information about cookie management, including,  but not limited to:
+
+Google Chrome
+Internet Explorer
+Mozilla Firefox
+Safari (Desktop)
+Safari (Mobile)
+Android Browser
+Opera
+
+You can also find out  more information about how to change your browser cookie settings at www.allaboutcookies.org.
+
+Third Party Cookies: Cookies that are placed on  your browsing device by a third party can be managed through your browser (as  described above) or by checking the third party’s website for more information  about cookie management and how to “opt-out” of receiving cookies from them 
+
+CALIFORNIA PRIVACY RIGHTS
+Our clients who are  California residents may request and obtain from us once a year, free of  charge, certain information about the Personal Data (if any) we disclosed to  third parties for direct marketing purposes in the preceding calendar year. If  applicable, this information would include a list of the categories of Personal  Data that was shared and the names and addresses of all third parties with  which we shared information in the immediately preceding calendar year. We  don’t sell your Personal Data without your consent. You may contact us to stop  any sales of your Personal Data (in the event we do) or to revoke your consent  concerning our use and collection of your Personal Data. If you are a  California resident and would like to make such a request, please submit your  request in writing to privacy@honeycomb.io.
+A NOTE ABOUT CHILDREN
+We do not knowingly  collect or solicit Personal Data from anyone under the age of 13. If you are  under 13, please do not attempt to register for the Service or send any  Personal Data about yourself to us. If we learn that we have collected Personal  Data from a child under age 13, we will make commercially reasonable efforts to  delete such information from our database. If you believe that a child under 13  may have provided us Personal Data, please contact us at support@honeycomb.io.
+INTERNATIONAL TRANSFERS
+Important Information for Users Outside of the  U.S., EEA, and the United Kingdom – Transfer of Data
+
+
+  WE PRIMARILY STORE DATA  ABOUT YOU, INCLUDING PERSONAL DATA, ON SERVERS LOCATED AND OPERATED WITHIN THE  UNITED STATES. IF YOU RESIDE OUTSIDE OF THE UNITED STATES, TO PROVIDE AND  OPERATE THE SERVICE, WE MAY SEND AND STORE YOUR PERSONAL DATA OUTSIDE OF THE  COUNTRY WHERE YOU RESIDE OR ARE LOCATED, TO THE UNITED STATES. THEREFORE, OUR  COLLECTION AND USE OF YOUR PERSONAL DATA IS SUBJECT TO THE UNITED STATES’ LAWS  RELATED TO PRIVACY AND USE OF PERSONAL DATA AND INFORMATION. THESE LAWS,  INCLUDING WHAT IS DETERMINED TO BE “PERSONAL DATA AND/OR INFORMATION,” ARE  DIFFERENT AND MAY BE LESS PROTECTIVE THAN THOSE APPLICABLE TO YOU IN YOUR  COUNTRY OF RESIDENCE.
+
+  BY ACCEPTING THE TERMS  OF THIS Privacy Statement, YOU ACKNOWLEDGE, AGREE AND CONSENT TO (1) THE  TRANSFER TO AND PROCESSING OF PERSONAL DATA ON SERVERS LOCATED OUTSIDE OF THE  COUNTRY WHERE YOU RESIDE, (2) OUR COLLECTION AND USE OF YOUR PERSONAL DATA AS  DESCRIBED HEREIN AND IN ACCORDANCE WITH THE LAWS OF THE UNITED STATES THAT MAY  BE DIFFERENT AND MAY BE LESS PROTECTIVE THAN THOSE IN YOUR COUNTRY AND (3) THAT  YOU ARE TAKING A RISK BY USING THE SERVICE. IF YOUR PERSONAL DATA IS  TRANSFERRED FROM THE EUROPEAN ECONOMIC AREA TO HONEYCOMB LOCATED IN THE UNITED  STATES, YOU AGREE THAT HONEYCOMB MAY TRANSFER THE DATA UNDER TRANSFER  MECHANISMS SUCH AS PRIVACY SHIELD FRAMEWORK, STANDARD CONTRACTUAL CLAUSES,  BINDING CORPORATE RULES, AND OTHER CERTIFICATION INSTRUMENTS, RECOGNIZED AND  APPROVED BY THE EUROPEAN COMMISSION FROM TIME TO TIME. 
+Privacy Shield
+Honeycomb complies with  the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of  Commerce regarding the collection, use, and retention of personal information  transferred from the European Union to the United States.  Honeycomb has certified to the U.S.  Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in  this privacy statement and the Privacy Shield Principles, the Privacy Shield  Principles shall govern.  To learn more  about the Privacy Shield program, and to view our certification, please visit  https://www.privacyshield.gov/
+
+  Honeycomb is  responsible for processing personal data it receives under the Privacy Shield  Frameworks, and subsequently transfers to a third party acting as an agent on  its behalf.  Honeycomb complies with the  Privacy Shield Principles for all onward transfers of personal data from the  EEA or the United Kingdom, including the onward transfer liability provisions.
+
+  In compliance with the  Privacy Shield Principles, Honeycomb commits to resolve complaints about your  privacy and our collection or use of your Personal Data. If European Union  citizens have any queries related to the processing of your Personal Data under  the Privacy Shield framework, we encourage you to contact us directly in the  first instance at: privacy@Honeycomb.io or Honeycomb Privacy, 944 Market St.,  6th floor, San Francisco, CA 941025.
+
+  Honeycomb has further  committed to cooperate with the panel established by the EU data protection  authorities (DPAs) with regard to unresolved Privacy Shield complaints  concerning data transferred from the EU. If you do not receive timely  acknowledgment of your complaint from us, or if we have not resolved your  complaint, please contact or visit https://edps.europa.eu/data-protection/our-role-supervisor/complaints_en  for more information or to file a complaint. The services above are provided at  no cost to you. You may have the option to select binding arbitration under the  Privacy Shield Panel for the resolution of your complaint under certain  circumstances.  For further information,  please see the Privacy Shield website.
+
+  While Honeycomb no  longer relies on either Privacy Shield Framework as a lawful transfer  mechanism, with respect to personal data received or transferred pursuant to  the Privacy Shield Frameworks, Honeycomb is subject to the regulatory  enforcement powers of the U.S. Federal Trade Commission. In certain situations,  we may be required to disclose personal data in response to lawful requests by  public authorities, including to meet national security or law enforcement  requirements.
+Standard Contractual Clauses
+The parties hereby  incorporate the European Commission’s Standard Contractual Clauses (SCCs)  pursuant to Commission Decision (2010/87/EU) as a data transfer mechanism. If  you are a business customer and wish to enter into a data processing agreement  and SCCs with us, then please request those documents by contacting us at  privacy@honeycomb.io.
+International Users & Data
+This section only  applies to individuals residing in a Designated Country.
+
+Legal Bases for Processing Personal Data: We may process  your Personal Data if you consent to the processing, to satisfy our legal  obligations, if it is necessary to carry out our obligations arising from any  contracts we entered with you or to take steps at your request prior to  entering into a contract with you, or for legitimate interests, such as  improving our Services, monitoring trends and developing new products. 
+Direct Marketing: If you are residing in  a Designated Country and a current customer, we will only contact you by  electronic means (email or SMS) with information about our Services that are  similar to those which were the subject of a previous sale or negotiations of a  sale to you. If you are a new customer and located in the EEA we will contact  you by electronic means for marketing purposes only if you have consented to  such communication. You have the right to withdraw that consent at any time by  using the unsubscribe options in the email marketing communications sent by us. 
+Individual  Rights: If you are residing in a Designated Country when your Personal  Data is collected, you have the following rights, which can be exercised by  contacting us at privacy@honeycomb.io so that we may consider your request under  applicable law. 
+
+You have the right to  request access to your Personal Data. This enables you to receive a copy of the  Personal Data we hold about you and to check that we are lawfully processing  it. You can also access and change any Personal Data we store through your  account page. You have the right to request the correction of any Personal Data  we hold about you, and to request erasure of your Personal Data.
+
+  You have the right to  object to your Personal Data being processed by us where we are relying on a  legitimate interest (or those of a third party). Where your Personal Data is  processed on the basis of your consent, you have a right to withdraw your  consent at any time by notifying us, but this will not affect the lawfulness of  processing by us based on consent given by you before the time consent has been  withdrawn.
+
+  You have the right to  request that we suspend the processing of Personal Data about you, for example  if you want us to establish its accuracy or the reason for processing it. If  you do ask us to delete or stop processing your Personal Data, we will not  always be required to do so. If this is the case, we will explain why.
+
+  You also have the right  to request the transfer of your Personal Data to another controller. This right  only applies in certain circumstances. Where it does not apply, we will explain  why.
+
+  If you reside in a  Designated Country, you have the right to lodge a complaint with a national  data protection supervisory authority in your country of residence. You can  find your supervisory authority name and contact details under
+
+http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
+
+  The rights described  above may be limited by local laws. Further, your right of access and deletion  is not absolute and may not be available if fulfilment of such right would,  among other things:
+
+cause  interference with execution and enforcement of the law and legal private rights  (such as in the case of the investigation or detection of offences and legal  claims or the right to a fair trial); 
+breach or  prejudice the rights of confidentiality and security of others; 
+prejudice  security or grievance investigations, corporate re-organizations, future and  ongoing negotiations with third parties, the compliance with regulatory  requirements relating to economic and financial management; or 
+where the burden or cost of providing access  would be disproportionate or the interest of others would otherwise be  violated. 
+
+CONTACT INFORMATION
+We welcome your  comments or questions regarding this Privacy Statement. Feel free to e-mail  comments or questions to us at privacy@honeycomb.io or you can write us at 548  Market Street #25362, San Francisco, CA 94104-54013.
+
+
+
+
+
+  
+
+
+
+Ready to get started?
+
+Pick a plan
+Schedule Demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+
+Overview
+BubbleUp
+SLOs
+Service Map
+Distributed Tracing
+Metrics
+OpenTelemetry
+Solutions for AWS
+Solutions for Gaming
+
+
+Why Honeycomb
+
+Overview
+Comparisons
+Customers
+
+
+Learn
+
+Docs
+Training
+Sandbox
+Resources
+Blog
+Office Hours
+
+
+Company
+
+About
+Team
+Careers
+In the News
+Events
+Contact
+Support
+Status
+
+
+ 
+
+
+© 2022 Hound Technology, Inc. Terms of Service Acceptable Use Policy Office Hours Privacy Policy Cookies
+
+
+
+
+
+
+Subscribe to our newsletter
+
+
+utm_keywordutm_mediumutm_contentutm_sourceutm_campaignEmail*By clicking Submit, you agree to Honeycomb's Terms of Service and Privacy Policies. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2022 Hound Technology, Inc. Terms of Service Acceptable Use Policy Office Hours Privacy Policy Cookies
+
+
+© 2022 Hound Technology, Inc. Terms of Service Acceptable Use Policy Office Hours Privacy Policy Cookies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We use cookies or similar technologies to personalize your online experience and tailor marketing to you. Many of our product features require cookies to function properly.
+
+
+Privacy Policy
+Accept All Cookies
+
+
+
+
+
+

@@ -1,0 +1,1744 @@
+<!DOCTYPE html><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="wf-proximanova-n7-active wf-proximanova-i7-active wf-proximanova-n8-active wf-proximanova-i8-active wf-proximanova-n6-active wf-proximanova-i6-active wf-proximanova-n4-active wf-proximanova-i4-active wf-proximanova-n3-active wf-proximanova-i3-active wf-active js opacity no-touchevents details cssanimations csstransforms csstransitions"><head>
+    <meta charset="utf-8"><script type="text/javascript" src="https://bam.nr-data.net/1/7bb5b98fa3?a=113237270&amp;v=1220.PROD&amp;to=ZwBQbEJRWURZUEBRCV5Kc1tEWVhZF0NVXwNvBlNbWFU%3D&amp;rst=1269&amp;ck=0&amp;s=b93632b4bb0cd8d0&amp;ref=https://www.merkle.com/cookie-notice&amp;ap=53&amp;be=344&amp;fe=899&amp;dc=469&amp;perf=%7B%22timing%22:%7B%22of%22:1668344166895,%22n%22:0,%22f%22:0,%22dn%22:3,%22dne%22:68,%22c%22:68,%22s%22:74,%22ce%22:93,%22rq%22:93,%22rp%22:320,%22rpe%22:324,%22dl%22:328,%22di%22:813,%22ds%22:813,%22de%22:815,%22dc%22:1242,%22l%22:1243,%22le%22:1248%7D,%22navigation%22:%7B%7D%7D&amp;fp=550&amp;fcp=550&amp;at=S0dTGgpLSko%3D&amp;jsonp=NREUM.setToken"></script><script src="//use.typekit.net/ukj5zle.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"7bb5b98fa3",applicationID:"113237270"};/*! For license information please see nr-loader-rum-1220.min.js.LICENSE.txt */
+!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==typeof define&&define.amd?define([],e):"object"==typeof exports?exports.NRBA=e():t.NRBA=e()}(self,(function(){return function(){var t,e,n={9034:function(t,e,n){"use strict";var r=n(4168);e.Z=(0,r.ky)(16)},5973:function(t,e,n){"use strict";n.d(e,{I:function(){return r}});var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1])},4280:function(t,e,n){"use strict";n.d(e,{H:function(){return o}});var r=document.createElement("div");r.innerHTML="\x3c!--[if lte IE 6]><div></div><![endif]--\x3e\x3c!--[if lte IE 7]><div></div><![endif]--\x3e\x3c!--[if lte IE 8]><div></div><![endif]--\x3e\x3c!--[if lte IE 9]><div></div><![endif]--\x3e";var o,i=r.getElementsByTagName("div").length;o=4===i?6:3===i?7:2===i?8:1===i?9:0},5955:function(t,e,n){"use strict";n.d(e,{I:function(){return r}});var r=function(t,e){var n=this;return t&&"object"==typeof t?e&&"object"==typeof e?(Object.assign(this,e),void Object.entries(t).forEach((function(t){var e=t[0],r=t[1];n[e]=r}))):console.error("setting a Configurable requires a model to set its initial properties"):console.error("setting a Configurable requires an object as input")}},441:function(t,e,n){"use strict";n.d(e,{C:function(){return c},L:function(){return u}});var r=n(1424),o=n(5955),i={beacon:r.ce.beacon,errorBeacon:r.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function c(t){if(!t)throw new Error("All info objects require an agent identifier!");if(!a[t])throw new Error("Info for "+t+" was never set");return a[t]}function u(t,e){if(!t)throw new Error("All info objects require an agent identifier!");a[t]=new o.I(e,i),(0,r.Qy)(t,a[t],"info")}},1476:function(t,e,n){"use strict";n.d(e,{Dg:function(){return c},Mt:function(){return u}});var r=n(1424),o=n(5955),i={privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,enabled:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0},metrics:{enabled:!0},page_action:{enabled:!0},page_view_event:{enabled:!0},page_view_timing:{enabled:!0},session_trace:{enabled:!0},spa:{enabled:!0}},a={};function c(t,e){if(!t)throw new Error("All configuration objects require an agent identifier!");a[t]=new o.I(e,i),(0,r.Qy)(t,a[t],"config")}function u(t,e){if(!t)throw new Error("All configuration objects require an agent identifier!");var n=function(t){if(!t)throw new Error("All configuration objects require an agent identifier!");if(!a[t])throw new Error("Configuration for "+t+" was never set");return a[t]}(t);if(n){for(var r=e.split("."),o=0;o<r.length-1;o++)if("object"!=typeof(n=n[r[o]]))return;n=n[r[r.length-1]]}return n}},2085:function(t,e,n){"use strict";n.d(e,{Y:function(){return r}});var r=(0,n(1424).mF)().o},1220:function(t,e,n){"use strict";n.d(e,{O:function(){return w},s:function(){return x}});var r={};n.r(r),n.d(r,{agent:function(){return a},match:function(){return f},version:function(){return c}});var o=n(4280),i=n(6959),a=null,c=null;if(navigator.userAgent){var u=navigator.userAgent,s=u.match(/Version\/(\S+)\s+Safari/);s&&-1===u.indexOf("Chrome")&&-1===u.indexOf("Chromium")&&(a="Safari",c=s[1])}function f(t,e){if(!a)return!1;if(t!==a)return!1;if(!e)return!0;if(!c)return!1;for(var n=c.split("."),r=e.split("."),o=0;o<r.length;o++)if(r[o]!==n[o])return!1;return!0}var d=n(5955),l=n(1424),v=n(4168),p=window.sessionStorage,h="NRBA_SESSION_ID";var g=n(1476),y=window.XMLHttpRequest,m=y&&y.prototype,b={};function w(t){if(!t)throw new Error("All runtime objects require an agent identifier!");if(!b[t])throw new Error("Runtime for "+t+" was never set");return b[t]}function x(t,e){if(!t)throw new Error("All runtime objects require an agent identifier!");var n,a;b[t]=new d.I(e,(n=t,{customTransaction:void 0,disabled:!1,features:{},maxBytes:6===o.H?2e3:3e4,offset:(0,i.yf)(),onerror:void 0,origin:""+window.location,ptid:void 0,releaseIds:{},sessionId:!0===(0,g.Mt)(n,"privacy.cookies_enabled")?(null===(a=p.getItem(h))&&(a=(0,v.ky)(16),p.setItem(h,a)),a):"0",xhrWrappable:y&&m&&m.addEventListener&&!/CriOS/.test(navigator.userAgent),userAgent:r})),(0,l.Qy)(t,b[t],"runtime")}},158:function(t,e,n){"use strict";n.d(e,{q:function(){return r}});var r=["1220","PROD"].filter((function(t){return t})).join(".")},3707:function(t,e,n){"use strict";n.d(e,{w:function(){return o}});var r={agentIdentifier:""},o=function(t){var e=this;if("object"!=typeof t)return console.error("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,r),Object.entries(t).forEach((function(t){var n=t[0],o=t[1];Object.keys(r).includes(n)&&(e.sharedContext[n]=o)}))}},1776:function(t,e,n){"use strict";n.d(e,{ee:function(){return r}});var r,o=n(1424),i=n(4217),a=n(357),c="nr@context",u=(0,o.fP)();function s(){}function f(){return new s}function d(){(r.backlog.api||r.backlog.feature)&&(r.aborted=!0,r.backlog={})}u.ee?r=u.ee:(r=function t(e,n){var o={},u={},l={},v={on:g,addEventListener:g,removeEventListener:y,emit:h,get:b,listeners:m,context:p,buffer:w,abort:d,aborted:!1,isBuffering:x,debugId:n,backlog:e&&e.backlog?e.backlog:{}};return v;function p(t){return t&&t instanceof s?t:t?(0,i.X)(t,c,f):f()}function h(t,n,o,i,a){if(!1!==a&&(a=!0),!r.aborted||i){e&&a&&e.emit(t,n,o);for(var c=p(o),s=m(t),f=s.length,d=0;d<f;d++)s[d].apply(c,n);var l=O()[u[t]];return l&&l.push([v,t,n,c]),c}}function g(t,e){o[t]=m(t).concat(e)}function y(t,e){var n=o[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return o[t]||[]}function b(e){return l[e]=l[e]||t(v,e)}function w(t,e){var n=O();v.aborted||(0,a.D)(t,(function(t,r){e=e||"feature",u[r]=e,e in n||(n[e]=[])}))}function x(t){return!!O()[u[t]]}function O(){return v.backlog}}(void 0,"globalEE"),u.ee=r)},7361:function(t,e,n){"use strict";n.d(e,{E:function(){return r},p:function(){return o}});var r=n(1776).ee.get("handle");function o(t,e,n,o,i){i?(i.buffer([t],o),i.emit(t,e,n)):(r.buffer([t],o),r.emit(t,e,n))}},3350:function(t,e,n){"use strict";n.d(e,{X:function(){return i}});var r=n(7361);i.on=a;var o=i.handlers={};function i(t,e,n,i){a(i||r.E,o,t,e,n)}function a(t,e,n,o,i){i||(i="feature"),t||(t=r.E);var a=e[i]=e[i]||{};(a[n]=a[n]||[]).push([t,o])}},4408:function(t,e,n){"use strict";n.d(e,{m:function(){return i}});var r=!1;try{var o=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,o),window.removeEventListener("testPassive",null,o)}catch(t){}function i(t){return r?{passive:!0,capture:!!t}:!!t}},4168:function(t,e,n){"use strict";function r(){var t=null,e=0,n=window.crypto||window.msCrypto;function r(){return t?15&t[e++]:16*Math.random()|0}n&&n.getRandomValues&&(t=n.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<i.length;c++)a+="x"===(o=i[c])?r().toString(16):"y"===o?(o=3&r()|8).toString(16):o;return a}function o(t){var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<t;i++)o.push(a().toString(16));return o.join("");function a(){return e?15&e[n++]:16*Math.random()|0}}n.d(e,{Rl:function(){return r},ky:function(){return o}})},6959:function(t,e,n){"use strict";n.d(e,{nb:function(){return u},os:function(){return s},yf:function(){return c},zO:function(){return a}});var r=n(2364),o=(new Date).getTime(),i=o;function a(){return r.G&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-i}function c(){return o}function u(t){i=t}function s(){return i}},2364:function(t,e,n){"use strict";n.d(e,{G:function(){return r}});var r=void 0!==window.performance&&window.performance.timing&&void 0!==window.performance.timing.navigationStart},1793:function(t,e,n){"use strict";function r(t){var e,n=0;for(e=0;e<t.length;e++)n+=(e+1)*t.charCodeAt(e);return Math.abs(n)}n.d(e,{v:function(){return s},s:function(){return u}});var o=n(6972),i=n(5973),a=n(6959),c=n(2364),u=!0;function s(t){var e=function(){if(i.I&&i.I<9)return;if(c.G)return u=!1,window.performance.timing.navigationStart}()||function(){for(var t=document.cookie.split(" "),e=0;e<t.length;e++)if(0===t[e].indexOf("NREUM=")){for(var n,o,i,a,c=t[e].substring("NREUM=".length).split("&"),u=0;u<c.length;u++)0===c[u].indexOf("s=")?i=c[u].substring(2):0===c[u].indexOf("p=")?";"===(o=c[u].substring(2)).charAt(o.length-1)&&(o=o.substr(0,o.length-1)):0===c[u].indexOf("r=")&&";"===(n=c[u].substring(2)).charAt(n.length-1)&&(n=n.substr(0,n.length-1));if(n){var s=r(document.referrer);(a=s==n)||(a=r(document.location.href)==n&&s==o)}if(a&&i){if((new Date).getTime()-i>6e4)return;return i}}}();e&&((0,o.B)(t,"starttime",e),(0,a.nb)(e))}},6972:function(t,e,n){"use strict";n.d(e,{B:function(){return i},L:function(){return a}});var r=n(6959),o={};function i(t,e,n){void 0===n&&(n=(0,r.zO)()+(0,r.os)()),o[t]=o[t]||{},o[t][e]=n}function a(t,e,n,r){var i,a,c=t.sharedContext.agentIdentifier,u=null==(i=o[c])?void 0:i[n],s=null==(a=o[c])?void 0:a[r];void 0!==u&&void 0!==s&&t.store("measures",e,{value:s-u})}},7299:function(t,e,n){"use strict";n.d(e,{T:function(){return a}});var r=window,o=r;function i(){return o}var a={isFileProtocol:function(){var t=i(),e=!(!t.location||!t.location.protocol||"file:"!==t.location.protocol);e&&(a.supportabilityMetricSent=!0);return e},supportabilityMetricSent:!1}},847:function(t,e,n){"use strict";n.d(e,{K:function(){return a}});var r=n(1220),o=n(1476),i=["ajax","jserrors","metrics","page_action","page_view_event","page_view_timing","session_trace","spa"];function a(t){var e={};return i.forEach((function(n){e[n]=function(t,e){return!0!==(0,r.O)(e).disabled&&!1!==(0,o.Mt)(e,t+".enabled")}(n,t)})),e}},5023:function(t,e,n){"use strict";n.d(e,{W:function(){return o}});var r=n(1776),o=function(t,e,n){void 0===n&&(n=[]),this.agentIdentifier=t,this.aggregator=e,this.ee=r.ee.get(t),this.externalFeatures=n}},4217:function(t,e,n){"use strict";n.d(e,{X:function(){return o}});var r=Object.prototype.hasOwnProperty;function o(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(t){}return t[e]=o,o}},357:function(t,e,n){"use strict";n.d(e,{D:function(){return o}});var r=Object.prototype.hasOwnProperty;function o(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}},603:function(t,e,n){"use strict";n.d(e,{$c:function(){return s},Ng:function(){return f},RR:function(){return u}});var r=n(1476),o=n(3707),i=n(7299);function a(t,e){return a=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},a(t,e)}var c={regex:/^file:\/\/(.*)/,replacement:"file://OBFUSCATED"},u=function(t){var e,n;function r(e){return t.call(this,e)||this}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,a(e,n);var o=r.prototype;return o.shouldObfuscate=function(){return s(this.sharedContext.agentIdentifier).length>0},o.obfuscateString=function(t){if(!t||"string"!=typeof t)return t;for(var e=s(this.sharedContext.agentIdentifier),n=t,r=0;r<e.length;r++){var o=e[r].regex,i=e[r].replacement||"*";n=n.replace(o,i)}return n},r}(o.w);function s(t){var e=[],n=(0,r.Mt)(t,"obfuscate")||[];return e=e.concat(n),i.T.isFileProtocol()&&e.push(c),e}function f(t){for(var e=!1,n=!1,r=0;r<t.length;r++){"regex"in t[r]?"string"!=typeof t[r].regex&&t[r].regex.constructor!==RegExp&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "regex" value with an invalid type (must be a string or RegExp)'),n=!0):(console&&console.warn&&console.warn('An obfuscation replacement rule was detected missing a "regex" value.'),n=!0);var o=t[r].replacement;o&&"string"!=typeof o&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "replacement" value with an invalid type (must be a string)'),e=!0)}return!e&&!n}},1424:function(t,e,n){"use strict";n.d(e,{EZ:function(){return u},Qy:function(){return c},ce:function(){return o},fP:function(){return i},gG:function(){return s},mF:function(){return a}});var r=n(6959),o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function i(){return window.NREUM||(window.NREUM={}),void 0===window.newrelic&&(window.newrelic=window.NREUM),window.NREUM}function a(){var t=i();if(!t.o){var e=window,n=e.XMLHttpRequest;t.o={ST:setTimeout,SI:e.setImmediate,CT:clearTimeout,XHR:n,REQ:e.Request,EV:e.Event,PR:e.Promise,MO:e.MutationObserver,FETCH:e.fetch}}return t}function c(t,e,n){var o,a,c=i(),u=c.initializedAgents||{},s=u[t]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,r.zO)(),date:new Date}),c.initializedAgents=Object.assign({},u,((a={})[t]=Object.assign({},s,((o={})[n]=e,o)),a)),c}function u(t,e){i()[t]=e}function s(){var t,e;return t=i(),e=t.info||{},t.info=Object.assign({beacon:o.beacon,errorBeacon:o.errorBeacon},e),function(){var t=i(),e=t.init||{};t.init=Object.assign({},e)}(),a(),function(){var t=i(),e=t.loader_config||{};t.loader_config=Object.assign({},e)}(),i()}},8539:function(t){t.exports=function(t,e,n){e||(e=0),void 0===n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}}},r={};function o(t){var e=r[t];if(void 0!==e)return e.exports;var i=r[t]={exports:{}};return n[t](i,i.exports,o),i.exports}o.m=n,o.n=function(t){var e=t&&t.__esModule?function(){return t.default}:function(){return t};return o.d(e,{a:e}),e},o.d=function(t,e){for(var n in e)o.o(e,n)&&!o.o(t,n)&&Object.defineProperty(t,n,{enumerable:!0,get:e[n]})},o.f={},o.e=function(t){return Promise.all(Object.keys(o.f).reduce((function(e,n){return o.f[n](t,e),e}),[]))},o.u=function(t){return t+"."+o.h().slice(0,8)+"-1220.js"},o.h=function(){return"2d6a2503b7f18a5b77dd"},o.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},t={},e="NRBA:",o.l=function(n,r,i,a){if(t[n])t[n].push(r);else{var c,u;if(void 0!==i)for(var s=document.getElementsByTagName("script"),f=0;f<s.length;f++){var d=s[f];if(d.getAttribute("src")==n||d.getAttribute("data-webpack")==e+i){c=d;break}}c||(u=!0,(c=document.createElement("script")).charset="utf-8",c.timeout=120,o.nc&&c.setAttribute("nonce",o.nc),c.setAttribute("data-webpack",e+i),c.src=n),t[n]=[r];var l=function(e,r){c.onerror=c.onload=null,clearTimeout(v);var o=t[n];if(delete t[n],c.parentNode&&c.parentNode.removeChild(c),o&&o.forEach((function(t){return t(r)})),e)return e(r)},v=setTimeout(l.bind(null,void 0,{type:"timeout",target:c}),12e4);c.onerror=l.bind(null,c.onerror),c.onload=l.bind(null,c.onload),u&&document.head.appendChild(c)}},o.r=function(t){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(t,"__esModule",{value:!0})},o.p="https://js-agent.newrelic.com/",function(){var t={299:0,82:0};o.f.j=function(e,n){var r=o.o(t,e)?t[e]:void 0;if(0!==r)if(r)n.push(r[2]);else{var i=new Promise((function(n,o){r=t[e]=[n,o]}));n.push(r[2]=i);var a=o.p+o.u(e),c=new Error;o.l(a,(function(n){if(o.o(t,e)&&(0!==(r=t[e])&&(t[e]=void 0),r)){var i=n&&("load"===n.type?"missing":n.type),a=n&&n.target&&n.target.src;c.message="Loading chunk "+e+" failed.\n("+i+": "+a+")",c.name="ChunkLoadError",c.type=i,c.request=a,r[1](c)}}),"chunk-"+e,e)}};var e=function(e,n){var r,i,a=n[0],c=n[1],u=n[2],s=0;if(a.some((function(e){return 0!==t[e]}))){for(r in c)o.o(c,r)&&(o.m[r]=c[r]);if(u)u(o)}for(e&&e(n);s<a.length;s++)i=a[s],o.o(t,i)&&t[i]&&t[i][0](),t[i]=0},n=self.webpackChunkNRBA=self.webpackChunkNRBA||[];n.forEach(e.bind(null,0)),n.push=e.bind(null,n.push.bind(n))}();var i={};return function(){"use strict";o.r(i);var t=o(9034),e=o(4408),n=window,r=n.document;function a(t){"complete"===r.readyState&&t()}function c(t){a(t),r.addEventListener?n.addEventListener("load",t,(0,e.m)(!1)):n.attachEvent("onload",t)}function u(t){a(t),r.addEventListener?r.addEventListener("DOMContentLoaded",t,(0,e.m)(!1)):r.attachEvent("onreadystatechange",a)}var s=o(1776);function f(){f=function(){return t};var t={},e=Object.prototype,n=e.hasOwnProperty,r="function"==typeof Symbol?Symbol:{},o=r.iterator||"@@iterator",i=r.asyncIterator||"@@asyncIterator",a=r.toStringTag||"@@toStringTag";function c(t,e,n){return Object.defineProperty(t,e,{value:n,enumerable:!0,configurable:!0,writable:!0}),t[e]}try{c({},"")}catch(t){c=function(t,e,n){return t[e]=n}}function u(t,e,n,r){var o=e&&e.prototype instanceof l?e:l,i=Object.create(o.prototype),a=new j(r||[]);return i._invoke=function(t,e,n){var r="suspendedStart";return function(o,i){if("executing"===r)throw new Error("Generator is already running");if("completed"===r){if("throw"===o)throw i;return P()}for(n.method=o,n.arg=i;;){var a=n.delegate;if(a){var c=x(a,n);if(c){if(c===d)continue;return c}}if("next"===n.method)n.sent=n._sent=n.arg;else if("throw"===n.method){if("suspendedStart"===r)throw r="completed",n.arg;n.dispatchException(n.arg)}else"return"===n.method&&n.abrupt("return",n.arg);r="executing";var u=s(t,e,n);if("normal"===u.type){if(r=n.done?"completed":"suspendedYield",u.arg===d)continue;return{value:u.arg,done:n.done}}"throw"===u.type&&(r="completed",n.method="throw",n.arg=u.arg)}}}(t,n,a),i}function s(t,e,n){try{return{type:"normal",arg:t.call(e,n)}}catch(t){return{type:"throw",arg:t}}}t.wrap=u;var d={};function l(){}function v(){}function p(){}var h={};c(h,o,(function(){return this}));var g=Object.getPrototypeOf,y=g&&g(g(_([])));y&&y!==e&&n.call(y,o)&&(h=y);var m=p.prototype=l.prototype=Object.create(h);function b(t){["next","throw","return"].forEach((function(e){c(t,e,(function(t){return this._invoke(e,t)}))}))}function w(t,e){function r(o,i,a,c){var u=s(t[o],t,i);if("throw"!==u.type){var f=u.arg,d=f.value;return d&&"object"==typeof d&&n.call(d,"__await")?e.resolve(d.__await).then((function(t){r("next",t,a,c)}),(function(t){r("throw",t,a,c)})):e.resolve(d).then((function(t){f.value=t,a(f)}),(function(t){return r("throw",t,a,c)}))}c(u.arg)}var o;this._invoke=function(t,n){function i(){return new e((function(e,o){r(t,n,e,o)}))}return o=o?o.then(i,i):i()}}function x(t,e){var n=t.iterator[e.method];if(void 0===n){if(e.delegate=null,"throw"===e.method){if(t.iterator.return&&(e.method="return",e.arg=void 0,x(t,e),"throw"===e.method))return d;e.method="throw",e.arg=new TypeError("The iterator does not provide a 'throw' method")}return d}var r=s(n,t.iterator,e.arg);if("throw"===r.type)return e.method="throw",e.arg=r.arg,e.delegate=null,d;var o=r.arg;return o?o.done?(e[t.resultName]=o.value,e.next=t.nextLoc,"return"!==e.method&&(e.method="next",e.arg=void 0),e.delegate=null,d):o:(e.method="throw",e.arg=new TypeError("iterator result is not an object"),e.delegate=null,d)}function O(t){var e={tryLoc:t[0]};1 in t&&(e.catchLoc=t[1]),2 in t&&(e.finallyLoc=t[2],e.afterLoc=t[3]),this.tryEntries.push(e)}function E(t){var e=t.completion||{};e.type="normal",delete e.arg,t.completion=e}function j(t){this.tryEntries=[{tryLoc:"root"}],t.forEach(O,this),this.reset(!0)}function _(t){if(t){var e=t[o];if(e)return e.call(t);if("function"==typeof t.next)return t;if(!isNaN(t.length)){var r=-1,i=function e(){for(;++r<t.length;)if(n.call(t,r))return e.value=t[r],e.done=!1,e;return e.value=void 0,e.done=!0,e};return i.next=i}}return{next:P}}function P(){return{value:void 0,done:!0}}return v.prototype=p,c(m,"constructor",p),c(p,"constructor",v),v.displayName=c(p,a,"GeneratorFunction"),t.isGeneratorFunction=function(t){var e="function"==typeof t&&t.constructor;return!!e&&(e===v||"GeneratorFunction"===(e.displayName||e.name))},t.mark=function(t){return Object.setPrototypeOf?Object.setPrototypeOf(t,p):(t.__proto__=p,c(t,a,"GeneratorFunction")),t.prototype=Object.create(m),t},t.awrap=function(t){return{__await:t}},b(w.prototype),c(w.prototype,i,(function(){return this})),t.AsyncIterator=w,t.async=function(e,n,r,o,i){void 0===i&&(i=Promise);var a=new w(u(e,n,r,o),i);return t.isGeneratorFunction(n)?a:a.next().then((function(t){return t.done?t.value:a.next()}))},b(m),c(m,a,"Generator"),c(m,o,(function(){return this})),c(m,"toString",(function(){return"[object Generator]"})),t.keys=function(t){var e=[];for(var n in t)e.push(n);return e.reverse(),function n(){for(;e.length;){var r=e.pop();if(r in t)return n.value=r,n.done=!1,n}return n.done=!0,n}},t.values=_,j.prototype={constructor:j,reset:function(t){if(this.prev=0,this.next=0,this.sent=this._sent=void 0,this.done=!1,this.delegate=null,this.method="next",this.arg=void 0,this.tryEntries.forEach(E),!t)for(var e in this)"t"===e.charAt(0)&&n.call(this,e)&&!isNaN(+e.slice(1))&&(this[e]=void 0)},stop:function(){this.done=!0;var t=this.tryEntries[0].completion;if("throw"===t.type)throw t.arg;return this.rval},dispatchException:function(t){if(this.done)throw t;var e=this;function r(n,r){return a.type="throw",a.arg=t,e.next=n,r&&(e.method="next",e.arg=void 0),!!r}for(var o=this.tryEntries.length-1;o>=0;--o){var i=this.tryEntries[o],a=i.completion;if("root"===i.tryLoc)return r("end");if(i.tryLoc<=this.prev){var c=n.call(i,"catchLoc"),u=n.call(i,"finallyLoc");if(c&&u){if(this.prev<i.catchLoc)return r(i.catchLoc,!0);if(this.prev<i.finallyLoc)return r(i.finallyLoc)}else if(c){if(this.prev<i.catchLoc)return r(i.catchLoc,!0)}else{if(!u)throw new Error("try statement without catch or finally");if(this.prev<i.finallyLoc)return r(i.finallyLoc)}}}},abrupt:function(t,e){for(var r=this.tryEntries.length-1;r>=0;--r){var o=this.tryEntries[r];if(o.tryLoc<=this.prev&&n.call(o,"finallyLoc")&&this.prev<o.finallyLoc){var i=o;break}}i&&("break"===t||"continue"===t)&&i.tryLoc<=e&&e<=i.finallyLoc&&(i=null);var a=i?i.completion:{};return a.type=t,a.arg=e,i?(this.method="next",this.next=i.finallyLoc,d):this.complete(a)},complete:function(t,e){if("throw"===t.type)throw t.arg;return"break"===t.type||"continue"===t.type?this.next=t.arg:"return"===t.type?(this.rval=this.arg=t.arg,this.method="return",this.next="end"):"normal"===t.type&&e&&(this.next=e),d},finish:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.finallyLoc===t)return this.complete(n.completion,n.afterLoc),E(n),d}},catch:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.tryLoc===t){var r=n.completion;if("throw"===r.type){var o=r.arg;E(n)}return o}}throw new Error("illegal catch attempt")},delegateYield:function(t,e,n){return this.delegate={iterator:_(t),resultName:e,nextLoc:n},"next"===this.method&&(this.arg=void 0),d}},t}function d(t,e,n,r,o,i,a){try{var c=t[i](a),u=c.value}catch(t){return void n(t)}c.done?e(u):Promise.resolve(u).then(r,o)}var l=0;function v(t){var e;(e=f().mark((function e(){var n,r;return f().wrap((function(e){for(;;)switch(e.prev=e.next){case 0:if(!l++){e.next=2;break}return e.abrupt("return");case 2:return e.prev=2,e.next=5,o.e(552).then(o.bind(o,5552));case 5:return n=e.sent,r=n.aggregator,e.next=9,r(t);case 9:e.next=15;break;case 11:e.prev=11,e.t0=e.catch(2),console.error("Failed to successfully load all aggregators. Aborting...\n",e.t0),s.ee.abort();case 15:case"end":return e.stop()}}),e,null,[[2,11]])})),function(){var t=this,n=arguments;return new Promise((function(r,o){var i=e.apply(t,n);function a(t){d(i,r,o,a,c,"next",t)}function c(t){d(i,r,o,a,c,"throw",t)}a(void 0)}))})()}var p=o(8539),h=o.n(p),g=o(1424),y=o(1220),m=o(441),b=o(7361),w=o(357),x=o(6959);var O=o(1476),E=o(5955),j={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},_={};var P=!1;var A=o(6972),k=o(1793),L=o(5023);function S(t,e){return S=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},S(t,e)}var T,C,I,R=function(t){var e,n;function r(e){var n;return n=t.call(this,e)||this,(0,k.v)(e),(0,A.B)(e,"firstbyte",(0,x.yf)()),c((function(){return n.measureWindowLoaded()})),u((function(){return n.measureDomContentLoaded()})),n}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,S(e,n);var o=r.prototype;return o.measureWindowLoaded=function(){var t=(0,x.zO)();(0,A.B)(this.agentIdentifier,"onload",t+(0,x.os)()),(0,b.p)("timing",["load",t],void 0,void 0,this.ee)},o.measureDomContentLoaded=function(){(0,A.B)(this.agentIdentifier,"domContent",(0,x.zO)()+(0,x.os)())},r}(L.W);void 0!==document.hidden?(T="hidden",C="visibilitychange",I="visibilityState"):void 0!==document.msHidden?(T="msHidden",C="msvisibilitychange"):void 0!==document.webkitHidden&&(T="webkitHidden",C="webkitvisibilitychange",I="webkitVisibilityState");var M=o(2085);function N(t,e){return N=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},N(t,e)}var D=function(t){var n,r;function o(n){var r,o;if((r=t.call(this,n)||this).pageHiddenTime="hidden"===document.visibilityState?-1:1/0,r.performanceObserver,r.lcpPerformanceObserver,r.clsPerformanceObserver,r.fiRecorded=!1,!r.isEnabled())return function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(r);if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){r.performanceObserver=new PerformanceObserver((function(){var t;return(t=r).perfObserver.apply(t,arguments)}));try{r.performanceObserver.observe({entryTypes:["paint"]})}catch(t){}r.lcpPerformanceObserver=new PerformanceObserver((function(){var t;return(t=r).lcpObserver.apply(t,arguments)}));try{r.lcpPerformanceObserver.observe({entryTypes:["largest-contentful-paint"]})}catch(t){}r.clsPerformanceObserver=new PerformanceObserver((function(){var t;return(t=r).clsObserver.apply(t,arguments)}));try{r.clsPerformanceObserver.observe({type:"layout-shift",buffered:!0})}catch(t){}}if("addEventListener"in document){r.fiRecorded=!1;["click","keydown","mousedown","pointerdown","touchstart"].forEach((function(t){document.addEventListener(t,(function(){var t;return(t=r).captureInteraction.apply(t,arguments)}),(0,e.m)(!1))}))}return o=function(){var t;return(t=r).captureVisibilityChange.apply(t,arguments)},"addEventListener"in document&&C&&document.addEventListener(C,(function(){I&&document[I]?o(document[I]):document[T]?o("hidden"):o("visible")}),(0,e.m)(!1)),r}r=t,(n=o).prototype=Object.create(r.prototype),n.prototype.constructor=n,N(n,r);var i=o.prototype;return i.isEnabled=function(){return!1!==(0,O.Mt)(this.agentIdentifier,"page_view_timing.enabled")},i.perfObserver=function(t,e){var n=this;t.getEntries().forEach((function(t){"first-paint"===t.name?(0,b.p)("timing",["fp",Math.floor(t.startTime)],void 0,void 0,n.ee):"first-contentful-paint"===t.name&&(0,b.p)("timing",["fcp",Math.floor(t.startTime)],void 0,void 0,n.ee)}))},i.lcpObserver=function(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(this.pageHiddenTime<r.startTime)return;var o=[r],i=this.addConnectionAttributes({});i&&o.push(i),(0,b.p)("lcp",o,void 0,void 0,this.ee)}},i.clsObserver=function(t){var e=this;t.getEntries().forEach((function(t){t.hadRecentInput||(0,b.p)("cls",[t],void 0,void 0,e.ee)}))},i.addConnectionAttributes=function(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t},i.captureInteraction=function(t){if(t instanceof M.Y.EV&&!this.fiRecorded){var e=Math.round(t.timeStamp),n={type:t.type};this.addConnectionAttributes(n),e<=(0,x.zO)()?n.fid=(0,x.zO)()-e:e>(0,x.os)()&&e<=Date.now()?(e-=(0,x.os)(),n.fid=(0,x.zO)()-e):e=(0,x.zO)(),this.fiRecorded=!0,(0,b.p)("timing",["fi",e,n],void 0,void 0,this.ee)}},i.captureVisibilityChange=function(t){"hidden"===t&&(this.pageHiddenTime=(0,x.zO)(),(0,b.p)("pageHide",[this.pageHiddenTime],void 0,void 0,this.ee))},o}(L.W),q=o(3350),B="React",z="Angular",G="AngularJS",H="Backbone",F="Ember",V="Vue",Z="Meteor",U="Zepto",X="Jquery";function Q(){var t=[];try{(function(){try{if(window.React||window.ReactDOM||window.ReactRedux)return!0;if(document.querySelector("[data-reactroot], [data-reactid]"))return!0;for(var t=document.querySelectorAll("body > div"),e=0;e<t.length;e++)if(Object.keys(t[e]).indexOf("_reactRootContainer")>=0)return!0;return!1}catch(t){return!1}})()&&t.push(B),function(){try{return!!window.angular||(!!document.querySelector(".ng-binding, [ng-app], [data-ng-app], [ng-controller], [data-ng-controller], [ng-repeat], [data-ng-repeat]")||!!document.querySelector('script[src*="angular.js"], script[src*="angular.min.js"]'))}catch(t){return!1}}()&&t.push(G),function(){try{return!!(window.hasOwnProperty("ng")&&window.ng.hasOwnProperty("coreTokens")&&window.ng.coreTokens.hasOwnProperty("NgZone"))||!!document.querySelectorAll("[ng-version]").length}catch(t){return!1}}()&&t.push(z),window.Backbone&&t.push(H),window.Ember&&t.push(F),window.Vue&&t.push(V),window.Meteor&&t.push(Z),window.Zepto&&t.push(U),window.jQuery&&t.push(X)}catch(t){}return t}var W=o(7299),K=o(603),Y=o(158);function J(t,e){return J=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},J(t,e)}var $=function(t){var e,n;function r(e){var n;return(n=t.call(this,e)||this).singleChecks(),(0,q.X)("record-supportability",(function(){var t;return(t=n).recordSupportability.apply(t,arguments)}),void 0,n.ee),(0,q.X)("record-custom",(function(){var t;return(t=n).recordCustom.apply(t,arguments)}),void 0,n.ee),n}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,J(e,n);var o=r.prototype;return o.recordSupportability=function(t,e){var n=["sm",t,{name:t},e];return(0,b.p)("storeMetric",n,null,void 0,this.ee),n},o.recordCustom=function(t,e){var n=["cm",t,{name:t},e];return(0,b.p)("storeEventMetrics",n,null,void 0,this.ee),n},o.singleChecks=function(){var t=this;this.recordSupportability("Generic/Version/"+Y.q+"/Detected"),u((function(){Q().forEach((function(e){t.recordSupportability("Framework/"+e+"/Detected")}))})),W.T.isFileProtocol()&&(this.recordSupportability("Generic/FileProtocol/Detected"),W.T.supportabilityMetricSent=!0);var e=(0,K.$c)(this.agentIdentifier);e.length>0&&this.recordSupportability("Generic/Obfuscate/Detected"),e.length>0&&!(0,K.Ng)(e)&&this.recordSupportability("Generic/Obfuscate/Invalid")},r}(L.W),tt=o(847);new Promise((function(e,n){if(P)e(P);else{var r=(0,g.gG)();try{(0,m.L)(t.Z,r.info),(0,O.Dg)(t.Z,r.init),function(t,e){if(!t)throw new Error("All loader-config objects require an agent identifier!");_[t]=new E.I(e,j),(0,g.Qy)(t,_[t],"loader_config")}(t.Z,r.loader_config),(0,y.s)(t.Z,{}),function(t){var e=(0,g.fP)(),n=s.ee.get(t),r=n.get("tracer"),o="api-",i="api-ixn-";function a(){}(0,w.D)(["setErrorHandler","finished","addToTrace","inlineHit","addRelease"],(function(t,n){e[n]=u(o,n,!0,"api")})),e.addPageAction=u(o,"addPageAction",!0),e.setCurrentRouteName=u(o,"routeName",!0),e.setPageViewName=function(e,n){if("string"==typeof e)return"/"!==e.charAt(0)&&(e="/"+e),(0,y.O)(t).customTransaction=(n||"http://custom.transaction")+e,u(o,"setPageViewName",!0,"api")()},e.setCustomAttribute=function(e,n){var r,i=(0,m.C)(t);return(0,m.L)(t,Object.assign({},i,{jsAttributes:Object.assign({},i.jsAttributes,(r={},r[e]=n,r))})),u(o,"setCustomAttribute",!0,"api")()},e.interaction=function(){return(new a).get()};var c=a.prototype={createTracer:function(t,e){var o={},i=this,a="function"==typeof e;return(0,b.p)("api-ixn-tracer",[(0,x.zO)(),t,o],i,void 0,n),function(){if(r.emit((a?"":"no-")+"fn-start",[(0,x.zO)(),i,a],o),a)try{return e.apply(this,arguments)}catch(t){throw r.emit("fn-err",[arguments,this,"string"==typeof t?new Error(t):t],o),t}finally{r.emit("fn-end",[(0,x.zO)()],o)}}}};function u(t,e,r,o){return function(){return(0,b.p)("record-supportability",["API/"+e+"/called"],void 0,void 0,n),(0,b.p)(t+e,[(0,x.zO)()].concat(h()(arguments)),r?null:this,o,n),r?void 0:this}}(0,w.D)("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),(function(t,e){c[e]=u(i,e)})),e.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),(0,b.p)("record-supportability",["API/noticeError/called"],void 0,void 0,n),(0,b.p)("err",[t,(0,x.zO)(),!1,e],void 0,void 0,n)}}(t.Z),e(P=!0)}catch(t){n(t)}}})).then((function(){var e,n,r,o=(0,tt.K)(t.Z);o.page_view_event&&new R(t.Z),o.page_view_timing&&new D(t.Z),o.metrics&&new $(t.Z),e="lite",n?setTimeout((function(){return v(e)}),r||1e3):c((function(){return v(e)}))}))}(),i}()}));</script>
+<link rel="canonical" href="https://www.merkle.com/cookie-notice">
+<meta name="description" content="How We Use Cookies A cookie is a small file which may be downloaded to and stored on your computer, phone, tablet or other device when you visit a website. &nbsp;For more general information about cookies, please visit:&nbsp;www.aboutcookies.org.">
+<link rel="alternate" href="https://www.merkle.com/cookie-notice" hreflang="en">
+<meta property="og:site_name" content="Merkle">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.merkle.com/cookie-notice">
+<meta property="og:title" content="Cookie Notice | Merkle">
+<meta property="og:description" content="How We Use Cookies A cookie is a small file which may be downloaded to and stored on your computer, phone, tablet or other device when you visit a website. &nbsp;For more general information about cookies, please visit:&nbsp;www.aboutcookies.org.">
+<meta property="og:image" content="https://www.merkle.com/themes/custom/merkle/build/images/icons/M_metatag.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@merklecrm">
+<meta name="twitter:description" content="How We Use Cookies A cookie is a small file which may be downloaded to and stored on your computer, phone, tablet or other device when you visit a website. &nbsp;For more general information about cookies, please visit:&nbsp;www.aboutcookies.org.">
+<meta name="twitter:title" content="Cookie Notice | Merkle">
+<meta name="twitter:url" content="https://www.merkle.com/cookie-notice">
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="/themes/custom/merkle/favicon.ico" type="image/vnd.microsoft.icon">
+
+    <title>Cookie Notice | Merkle</title>
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+
+    <script type="text/javascript">
+  (function() {
+    var config = {
+      kitId: 'ukj5zle'
+    };
+    var d = false;
+    var tk = document.createElement('script');
+    tk.src = '//use.typekit.net/' + config.kitId + '.js';
+    tk.type = 'text/javascript';
+    tk.async = 'true';
+    tk.onload = tk.onreadystatechange = function() {
+      var rs = this.readyState;
+      if (d || rs && rs != 'complete' && rs != 'loaded') return;
+      d = true;
+      try { Typekit.load(config); } catch (e) {}
+    };
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(tk, s);
+  })();
+</script>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' blob: data:;
+               frame-src *;
+               connect-src *;
+               media-src * blob:;
+               font-src * 'unsafe-eval' data:;
+               img-src * 'unsafe-eval' data:;
+               style-src * 'self' 'unsafe-eval' 'unsafe-inline';
+               script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: data: cdn.metarouter.io
+merkleinc.disqus.com
+s.ytimg.com
+fast.wistia.net
+fast.wistia.com
+m.addthisedge.com
+m.addthis.com
+sjs.bizographics.com
+bat.bing.com
+connect.facebook.net
+platform.twitter.com
+static.ads-twitter.com
+c.lytics.io
+cdn.syndication.twimg.com
+syndication.twitter.com
+snap.licdn.com
+googleads.g.doubleclick.net
+use.typekit.net
+s7.addthis.com
+www.youtube.com
+www.google-analytics.com
+www.googleadservices.com
+platform.twitter.com
+www.googletagmanager.com
+cdn.pardot.com
+api.company-target.com
+www.google.com
+www.google.by
+api.lytics.io
+www.facebook.com
+admin/config/system/generalsettings
+px.ads.linkedin.com
+pi.pardot.com
+www2.merkleinc.com
+https://analytics.twitter.com
+www.linkedin.com
+https://dc.ads.linkedin.com
+http://maps.googleapis.com
+dnn506yrbagrg.cloudfront.net
+js-agent.newrelic.com
+s3.amazonaws.com
+bam.nr-data.net
+secure.leadforensics.com
+cdn.tt.omtrdc.net
+go.pardot.com
+disqus.com
+c.disquscdn.com
+disquscdn.com
+tagmanager.google.com
+google.com
+*.civiccomputing.com
+https://script.crazyegg.com
+optimize.google.com
+v1.addthisedge.com
+v1.addthis.com
+*.acquia.com
+moatads.com
+z.moatads.com
+https://cdn.segment.com
+https://cdn.amplitude.com/
+https://unpkg.com
+https://ext.chtbl.com/trackable.js
+https://bam-cell.nr-data.net
+https://polyfill.io/v3/polyfill.min.js
+http://track.securedvisit.com/js/sv.js
+api.securedvisit.com
+track.securedvisit.com
+content.securedvisit.com
+images.securedvisit.com
+track.sv.rkdms.com
+assets.adobedtm.com
+*.adobe.com
+tag.demandbase.com
+https://embedwistia-a.akamaihd.net
+*.pardot.com
+https://www.merkleinc.com
+https://merkleinc.com
+https://go.pardot.com
+https://go.merkleinc.com
+info.merkle.com
+https://info.merkle.com
+http://info.merkle.com
+info.dentsu.com
+clarity.ms
+https://hi.helloworld.com
+http://hi.helloworld.com
+https://helloworld.com
+http://hi.helloworld.com">    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_P1BXGfyjvNxXWBg-nG2Kp3jwKFN5g08ehygQv1Pe73o.css">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_2nW_akErLK1sB2Ps4R-TBQ-YudmZPRETu9-Cd0q-eXM.css">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_MOmJg5fpq06DnLdpO-XAe-wVQErokrTGvX61133KkSU.css">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_yOdYLk07-yLa4EFJIx9cm8jmANYkD01iZ1rktEfwWVQ.css">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_G8IVeLLScK6HqMMmXuMXWVgBx482CYTAKonBY92rApI.css">
+
+      <!-- before placeholder  -->
+    
+      <!-- after  --><style type="text/css">.tk-proxima-nova{font-family:"proxima-nova",sans-serif;}</style><style type="text/css">@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/71f83c/00000000000000003b9b093b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/71f83c/00000000000000003b9b093b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/71f83c/00000000000000003b9b093b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/86b539/00000000000000003b9b093a/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/86b539/00000000000000003b9b093a/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/86b539/00000000000000003b9b093a/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/a3eee8/00000000000000003b9b093c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3) format("woff2"),url(https://use.typekit.net/af/a3eee8/00000000000000003b9b093c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3) format("woff"),url(https://use.typekit.net/af/a3eee8/00000000000000003b9b093c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3) format("opentype");font-weight:800;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/e85210/00000000000000003b9b093d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3) format("woff2"),url(https://use.typekit.net/af/e85210/00000000000000003b9b093d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3) format("woff"),url(https://use.typekit.net/af/e85210/00000000000000003b9b093d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3) format("opentype");font-weight:800;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/27776b/00000000000000003b9b0939/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/27776b/00000000000000003b9b0939/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/27776b/00000000000000003b9b0939/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/256534/00000000000000003b9b0938/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("woff2"),url(https://use.typekit.net/af/256534/00000000000000003b9b0938/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("woff"),url(https://use.typekit.net/af/256534/00000000000000003b9b0938/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("opentype");font-weight:600;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/4838bd/00000000000000003b9b0934/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/4838bd/00000000000000003b9b0934/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/4838bd/00000000000000003b9b0934/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/6aec08/00000000000000003b9b0935/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/6aec08/00000000000000003b9b0935/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/6aec08/00000000000000003b9b0935/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/437c3d/00000000000000003b9b0932/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/437c3d/00000000000000003b9b0932/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/437c3d/00000000000000003b9b0932/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/f02b29/00000000000000003b9b0933/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/f02b29/00000000000000003b9b0933/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/f02b29/00000000000000003b9b0933/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-stretch:normal;font-display:auto;}</style>
+
+      </head>
+  <body class="path-node page-node-type-page news-banner dom-ready" data-module="common">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+        </div>
+      </div>
+    </div>
+            <a href="#main-content" class="visually-hidden focusable skip-link">
+          Skip to main content
+      </a>
+      
+        <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <div class="before-header">  <div>
+    <div id="block-security-block">
+  
+    
+      <div class="security-policy">
+    <div class="container">
+        <div class="security-policy--icon">
+        </div>
+        <div class="security-policy__content">
+            <div class="security-policy__text">
+                <div class="security-policy__text--us security__default">
+                    <b>We use cookies. You have options.</b> Cookies help us keep the site running smoothly and inform some of our advertising, but if you’d like to make adjustments, you can visit our <a href="/cookie-notice">Cookie Notice page</a> for more information.
+                </div>
+                                    <div class="security-policy__text--emea security__emea">
+                        <b>We’d like to use cookies on your device.</b> Cookies help us keep the site running smoothly and inform some of our advertising, but how we use them is entirely up to you. Accept our recommended settings or customise them to your wishes.
+                    </div>
+                            </div>
+            <div class="security-policy__link-wrapper">
+                <a id="accept" href="#" class="button button--blue">
+                    <span class="security__default">OK</span>
+                    <span class="security__emea">Accept</span>
+                </a>
+                <a class="button button--white security__default" href="https://www.merkle.com/cookie-notice">Learn More</a>
+
+                <a class="button button--white security__emea" href="#" data-modal-target="c-control-modal">Settings</a>
+            </div>
+        </div>
+        <div id="close-notice" class="close security-policy--close security__default" href="#">×</div>
+    </div>
+    <div class="security-policy__reject security__emea">
+        <a id="reject" href="#" class="primary-link primary-link--blue">Or, you can reject All Cookies, and continue browsing</a>
+    </div>
+</div>
+
+  </div>
+<div class="block__news-banner" data-module="news-banner" style="display: block;">
+  
+            <div><a href="https://www.linkedin.com/pulse/top-companies-2022-marketing-advertising-linkedin-news/">Merkle ranks #2 on LinkedIn's list of top companies for marketing and advertising</a></div>
+      
+  <div>
+    <span class="cookie_btn" id="cookie_close"></span>
+  </div>
+</div>
+
+
+
+  </div>
+</div>
+<div id="page-wrapper">
+    <div id="page">
+        <header id="header" class="header" role="banner" aria-label="Site header">
+            <div class="section layout-container clearfix">
+                    <div class="region region-secondary-menu secondary-menu">
+        <nav role="navigation" aria-label="Top Navigation">
+        <div class="utils-nav container hidden-xs"><ul class="utils-nav__component">
+            <li><span class="global-toggle region" data-modal-target="geographical-navigation" tabindex="0" role="button">
+    US / Global
+</span>
+</li>
+        </ul>
+        <ul class="utils-nav__component">
+            <li><div class="nice-select region our-companies">
+    <span tabindex="0" role="button" aria-controls="company-list" aria-expanded="false">Our Companies</span>
+    <ul class="list" id="company-list" role="region">
+                    <li data-value="Cardinal Path" class="option" tabindex="0">
+                <a href="https://www.cardinalpath.com/" target="_blank" class="primary-link--external" tabindex="-1">Cardinal Path</a></li>
+                    <li data-value="4Cite" class="option" tabindex="0">
+                <a href="https://www.4cite.com/" target="_blank" class="primary-link--external" tabindex="-1">4Cite</a></li>
+                    <li data-value="DigitalPi" class="option" tabindex="0">
+                <a href="https://digitalpi.com/" target="_blank" class="primary-link--external" tabindex="-1">DigitalPi</a></li>
+                    <li data-value="Extentia" class="option" tabindex="0">
+                <a href="https://www.extentia.com/" target="_blank" class="primary-link--external" tabindex="-1">Extentia</a></li>
+                    <li data-value="Pexlify" class="option" tabindex="0">
+                <a href="https://pexlify.com/" target="_blank" class="primary-link--external" tabindex="-1">Pexlify</a></li>
+                    <li data-value="B2B International" class="option" tabindex="0">
+                <a href="https://www.b2binternational.com" target="_blank" class="primary-link--external" tabindex="-1">B2B International</a></li>
+                    <li data-value="Davanti" class="option" tabindex="0">
+                <a href="https://www.davanti.co.nz/" target="_blank" class="primary-link--external" tabindex="-1">Davanti</a></li>
+                    <li data-value="Media Storm" class="option" tabindex="0">
+                <a href="https://mediastorm.biz/" target="_blank" class="primary-link--external" tabindex="-1">Media Storm</a></li>
+                    <li data-value="Ugam" class="option" tabindex="0">
+                <a href="https://www.ugamsolutions.com/" target="_blank" class="primary-link--external" tabindex="-1">Ugam</a></li>
+                    <li data-value="Happy Marketer" class="option" tabindex="0">
+                <a href="https://www.happymarketer.com/" target="_blank" class="primary-link--external" tabindex="-1">Happy Marketer</a></li>
+            </ul>
+</div>
+</li>
+        </ul><ul class="utils-nav__list">
+                            <li class="utils-nav__list-item"><a href="/careers">Careers</a></li>
+                    <li class="utils-nav__list-item"><a href="/news-and-events">News</a></li>
+                    <li class="utils-nav__list-item"><a href="/news-and-events/events">Events</a></li>
+                    <li class="utils-nav__list-item"><a href="/contact">Contact Us</a></li>
+        
+        <div class="pull-left">
+            <form id="utilsNavSearchForm" action="/search" method="get" class="form-inline search-from">
+                <div class="form-group">
+                    <input class="form-control" name="search_text" type="search" aria-label="Search" placeholder="Search ...">
+                    <span class="clear-search-input glyphicon glyphicon-remove"></span>
+                </div>
+                <button type="submit" class="btn btn-default hidden">Submit</button>
+            </form>
+        </div>
+        <li class="utils-nav__list-item utils-nav__list-item--search">
+            <a class="search" href="#">Search</a>
+        </li>
+
+    </ul>
+</div>
+
+  </nav>
+
+    </div>
+
+                
+                    <div class="region region-primary-menu">
+                <div class="container primary-menu">
+            <div id="block-mobilemenu">
+  
+    
+      <div id="dl-menu" class="dl-menuwrapper" data-module="navbar_mobile">
+    <div class="nav-icon visible-xs dl-trigger">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+   <div class="dl-menu-wrapper">
+       <ul class="dl-menu" data-module="navbar_mobile">
+                          <li class="dl-menu-list">
+                                          <a href="/thought-leadership/case-studies">Our Work</a>
+                                  </li>
+                          <li class="dl-menu-list">
+                                          <a href="/blog">Blog</a>
+                                  </li>
+                          <li class="dl-menu-list">
+                                          <a class="has-child" href="/thought-leadership">What We Think</a>
+                       <ul class="dl-submenu"><span class="dl-back"></span>
+                                                                                             <li class="dl-submenu-list"><a href="/thought-leadership">All Thought Leadership</a></li>
+                                                                                                                            <li class="dl-submenu-list"><a href="/thought-leadership/customer-experience-imperatives">Customer Experience Imperatives</a></li>
+                                                                                                                            <li class="dl-submenu-list"><a href="/thought-leadership/white-papers/customer-engagement-report-q3-2022">Customer Engagement Report</a></li>
+                                                                                                                            <li class="dl-submenu-list"><a href="/thought-leadership/performance-media-report">Performance Media Report</a></li>
+                                                                                                                            <li class="dl-submenu-list"><a href="/news-and-events/webinars">Webinars</a></li>
+                                                                                                                            <li class="dl-submenu-list"><a href="/thought-leadership/white-papers">Reports &amp; Whitepapers</a></li>
+                                                                                                                            <li class="dl-submenu-list"><a href="/thought-leadership/feature-articles">Articles</a></li>
+                                                                                                                            <li class="dl-submenu-list"><a href="/thought-leadership/podcasts">Podcasts</a></li>
+                                                                                 </ul>
+                                  </li>
+                          <li class="dl-menu-list">
+                                          <a class="has-child" href="/what-we-do">What We Do</a>
+                       <ul class="dl-submenu"><span class="dl-back"></span>
+                                                                                             <li class="dl-submenu-list"><a href="/what-we-do">Solutions &amp; Services</a></li>
+                                                                                                                            <li class="dl-submenu-list"><a href="/what-we-do#industries">Industry Expertise</a></li>
+                                                                                                                            <li class="dl-submenu-list"><a href="/what-we-do#products-platforms">Products &amp; Platforms</a></li>
+                                                                                                                            <li class="dl-submenu-list"><a href="/what-we-do#strategic-partnerships">Strategic Partnerships</a></li>
+                                                                                                                            <div class="featured__list">
+                                       <div class="featured__list-item">
+                                           <span class="featured__list-title">Featured Products</span>
+                                       </div>
+                                                                                  <div class="featured__list-item">
+                                               <a target="_blank" href="https://merkury.merkleinc.com/">Merkury</a>
+                                           </div>
+                                                                                  <div class="featured__list-item">
+                                               <a href="/m1">M1</a>
+                                           </div>
+                                                                                  <div class="featured__list-item">
+                                               <a href="/what-we-do/archie">ARCHIE</a>
+                                           </div>
+                                                                                  <div class="featured__list-item">
+                                               <a href="/what-we-do/data-accelerator">Data Accelerator</a>
+                                           </div>
+                                                                          </div>
+                                                                                 </ul>
+                                  </li>
+                          <li class="dl-menu-list">
+                                          <a href="/who-we-are-performance-marketing-agency">Who We Are</a>
+                                  </li>
+                      <div id="dl-footer" class="dl-footer">
+               <div class="container">
+                   <div class="row">
+                       <div class="col-xs-12 mobile-utils">
+                           <div class="mobile-regions">
+                             <span class="global-toggle region" data-modal-target="geographical-navigation" tabindex="0" role="button">
+    US / Global
+</span>
+
+                           </div>
+                           <div class="mobile-regions">
+                               <div class="nice-select region our-companies">
+    <span tabindex="0" role="button" aria-controls="company-list" aria-expanded="false">Our Companies</span>
+    <ul class="list" id="company-list" role="region">
+                    <li data-value="Cardinal Path" class="option" tabindex="0">
+                <a href="https://www.cardinalpath.com/" target="_blank" class="primary-link--external" tabindex="-1">Cardinal Path</a></li>
+                    <li data-value="4Cite" class="option" tabindex="0">
+                <a href="https://www.4cite.com/" target="_blank" class="primary-link--external" tabindex="-1">4Cite</a></li>
+                    <li data-value="DigitalPi" class="option" tabindex="0">
+                <a href="https://digitalpi.com/" target="_blank" class="primary-link--external" tabindex="-1">DigitalPi</a></li>
+                    <li data-value="Extentia" class="option" tabindex="0">
+                <a href="https://www.extentia.com/" target="_blank" class="primary-link--external" tabindex="-1">Extentia</a></li>
+                    <li data-value="Pexlify" class="option" tabindex="0">
+                <a href="https://pexlify.com/" target="_blank" class="primary-link--external" tabindex="-1">Pexlify</a></li>
+                    <li data-value="B2B International" class="option" tabindex="0">
+                <a href="https://www.b2binternational.com" target="_blank" class="primary-link--external" tabindex="-1">B2B International</a></li>
+                    <li data-value="Davanti" class="option" tabindex="0">
+                <a href="https://www.davanti.co.nz/" target="_blank" class="primary-link--external" tabindex="-1">Davanti</a></li>
+                    <li data-value="Media Storm" class="option" tabindex="0">
+                <a href="https://mediastorm.biz/" target="_blank" class="primary-link--external" tabindex="-1">Media Storm</a></li>
+                    <li data-value="Ugam" class="option" tabindex="0">
+                <a href="https://www.ugamsolutions.com/" target="_blank" class="primary-link--external" tabindex="-1">Ugam</a></li>
+                    <li data-value="Happy Marketer" class="option" tabindex="0">
+                <a href="https://www.happymarketer.com/" target="_blank" class="primary-link--external" tabindex="-1">Happy Marketer</a></li>
+            </ul>
+</div>
+</div>
+                           <ul class="mobile-utils__list">
+                                                                  <li class="mobile-utils__list-item"><a href="/careers">Careers</a></li>
+                                                                  <li class="mobile-utils__list-item"><a href="/news-and-events">News</a></li>
+                                                                  <li class="mobile-utils__list-item"><a href="/news-and-events/events">Events</a></li>
+                                                                  <li class="mobile-utils__list-item"><a href="/contact">Contact Us</a></li>
+                                                          </ul><div class="mobile-form">
+                               <form id="searchMobile" action="/search" method="get" class="form-inline search-from">
+                                   <div class="form-group">
+                                       <input class="form-control" name="search_text" type="search" aria-label="Search" placeholder="Search ...">
+                                       <a type="submit" class="btn btn--search"></a>
+                                       <span class="clear-search-input glyphicon glyphicon-remove"></span>
+                                   </div>
+                               </form>
+                           </div></div>
+                   </div>
+               </div>
+           </div>
+       </ul>
+   </div>
+</div>
+
+  </div>
+
+<div id="block-merkle-branding" class="site-branding">
+    
+    
+            <a href="/" title="Home" rel="home" class="site-branding__logo env-default">
+          <img src="/themes/custom/merkle/build/images/icons/Merkle_Logo_Blue.svg" alt="Merkle logo">
+        </a>
+    </div>
+<nav role="navigation" class="main-menu-default" aria-label="Main navigation">
+        <ul class="primary-menu__list hidden-xs">
+            <li class="primary-menu__list-item ">
+                        <a class=" " href="/thought-leadership/case-studies">Our Work</a>
+        </li>
+            <li class="primary-menu__list-item ">
+                        <a class=" " href="/blog">Blog</a>
+        </li>
+            <li class="primary-menu__list-item ">
+                            <div class="submenu--wrapper">
+                    <ul class="submenu__list">
+                                                                                    <li class="submenu__list-item">
+                                    <a class=" " href="/thought-leadership">All Thought Leadership</a>
+                                </li>
+                                                                                                                <li class="submenu__list-item">
+                                    <a class=" " href="/thought-leadership/customer-experience-imperatives">Customer Experience Imperatives</a>
+                                </li>
+                                                                                                                <li class="submenu__list-item">
+                                    <a class=" " href="/thought-leadership/white-papers/customer-engagement-report-q3-2022">Customer Engagement Report</a>
+                                </li>
+                                                                                                                <li class="submenu__list-item">
+                                    <a class=" " href="/thought-leadership/performance-media-report">Performance Media Report</a>
+                                </li>
+                                                                                                                <li class="submenu__list-item">
+                                    <a class=" " href="/news-and-events/webinars">Webinars</a>
+                                </li>
+                                                                                                                <li class="submenu__list-item">
+                                    <a class=" " href="/thought-leadership/white-papers">Reports &amp; Whitepapers</a>
+                                </li>
+                                                                                                                <li class="submenu__list-item">
+                                    <a class=" " href="/thought-leadership/feature-articles">Articles</a>
+                                </li>
+                                                                                                                <li class="submenu__list-item">
+                                    <a class=" " href="/thought-leadership/podcasts">Podcasts</a>
+                                </li>
+                                                                        </ul>
+                </div>
+                        <a class="collapsed " href="/thought-leadership">What We Think</a>
+        </li>
+            <li class="primary-menu__list-item ">
+                            <div class="submenu--wrapper">
+                    <ul class="submenu__list">
+                                                                                    <li class="submenu__list-item">
+                                    <a class=" " href="/what-we-do">Solutions &amp; Services</a>
+                                </li>
+                                                                                                                <li class="submenu__list-item">
+                                    <a class=" " href="/what-we-do#industries">Industry Expertise</a>
+                                </li>
+                                                                                                                <li class="submenu__list-item">
+                                    <a class=" " href="/what-we-do#products-platforms">Products &amp; Platforms</a>
+                                </li>
+                                                                                                                <li class="submenu__list-item">
+                                    <a class=" " href="/what-we-do#strategic-partnerships">Strategic Partnerships</a>
+                                </li>
+                                                                                                                <ul class="featured__list">
+                                    <li class="featured__list-item">
+                                        <span class="featured__list-title">Featured Products</span>
+                                    </li>
+                                                                            <li class="featured__list-item">
+                                            <a class=" external" target="_blank" href="https://merkury.merkleinc.com/">Merkury</a>
+                                        </li>
+                                                                            <li class="featured__list-item">
+                                            <a class=" " href="/m1">M1</a>
+                                        </li>
+                                                                            <li class="featured__list-item">
+                                            <a class=" " href="/what-we-do/archie">ARCHIE</a>
+                                        </li>
+                                                                            <li class="featured__list-item">
+                                            <a class=" " href="/what-we-do/data-accelerator">Data Accelerator</a>
+                                        </li>
+                                                                    </ul>
+                                                                        </ul>
+                </div>
+                        <a class="collapsed " href="/what-we-do">What We Do</a>
+        </li>
+            <li class="primary-menu__list-item ">
+                        <a class=" " href="/who-we-are-performance-marketing-agency">Who We Are</a>
+        </li>
+    </ul>
+  </nav>
+
+        </div>
+    </div>
+
+
+            </div>
+        </header>
+        <div id="main-wrapper" class="layout-main-wrapper layout-container clearfix">
+            <div id="main" class="layout-main clearfix">
+                
+                <main id="content" class="column main-content" role="main">
+                    <section class="section">
+                        <span id="main-content" tabindex="-1"></span>
+                          <div>
+    <div id="block-merkle-content">
+  
+    
+      <article data-history-node-id="11716" class="node node--type-page node--view-mode-full clearfix">
+  
+    
+
+  <div>
+    <div><div class="block-region-header"><div>
+  
+    
+              <div class="header-banner-white">
+        <div class="container">
+            <h1 class="header-banner-white__title">Cookie Notice</h1>
+        </div>
+    </div>
+
+  </div>
+</div></div>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12">
+            <div class="block-region-top"><div>
+  
+    
+        <nav role="navigation" class="common-breadcrumbs" aria-label="Breadcrumb">
+    <ol>
+          <li>
+                  <a href="/">Home</a>
+              </li>
+          <li>
+                  Cookie Notice
+              </li>
+        </ol>
+  </nav>
+  <div class="clearfix"></div>
+
+  </div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="container ml-informational-content">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12"><div class="block-region-middle"><div>
+  
+    
+              
+<div class="row">
+    <div class="col-xs-12 col-md-12">
+        <h2>How We Use Cookies</h2>
+
+<p>A cookie is a small file which may be downloaded to and stored on your computer, phone, tablet or other device when you visit a website. &nbsp;For more general information about cookies, please visit:&nbsp;<a href="https://www.aboutcookies.org/">www.aboutcookies.org</a>.</p>
+
+<p>When you first visit our website, you will see a banner at the top of the page prompting you to either accept cookies or to learn more about how to control cookie settings. Should you wish to decline out of any or all of the cookies we set, please refer to the <a href="#CookieControl">Controlling Cookies Through Browser Settings</a> section of this page.</p>
+
+<p>If you agree to our using cookies when you visit our websites, various cookies may be loaded to your computer to help us analyse web traffic, better target and tailor our advertising, deliver relevant content based on your interests and behavior, let us know when you revisit a site, assist in the correct operation of the site or store information about your preferences and interests.</p>
+
+<p>Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by being able to remember your choices and preferences. We use traffic log cookies to identify which pages on our websites are being visited. This helps us analyse data about web page traffic and improve our website’s reliability and to tailor it to customer needs.</p>
+
+<p>Overall, cookies help us deliver a better website experience, by enabling us to monitor which pages you find useful and which you do not and provide relevant content based on your interests. A cookie in no way gives us access to your computer or any information about you on your computer, other than the data you choose to share with us.</p>
+
+<h2>Types of Cookies</h2>
+
+<p>Cookies placed on your device when you visit our site are set either by us directly or by our business partners, including Doubleclick, Facebook, Google Analytics, Google Adwords, Google Optimize 360, Acquia,&nbsp;LinkedIn,&nbsp;Salesforce Pardot, Twitter,&nbsp;and YouTube. As referenced later on this page:</p>
+
+<ul><li><strong>First-party cookies:</strong> are set directly by our website</li>
+	<li><strong>Third-party cookies:</strong> are set by our partners</li>
+</ul><p>Whether set by us or our business partners, our cookies fall in to a few broad categories of purpose:</p>
+
+<ul><li><strong>Necessary cookies:</strong> ensure the basic performance and user friendliness of the website; examples include serving you content specific to your location and monitoring site uptime</li>
+	<li><strong>Marketing cookies:</strong> informs the delivery of relevant content and messaging, on our site and elsewhere on the Internet, based on your behavior on our site and information you have voluntarily provided to us through lead-capture and contact forms on our site; examples include Salesforce Pardot (on our site) and Doubleclick (on other websites)</li>
+	<li><strong>Analytics cookies:</strong> allow us to evaluate and report on the way visitors are using our site, allowing us to make continuous improvements to the user’s experience; examples include analytics and reporting services provided by Google, and others</li>
+</ul><p>A detailed overview of our first- and third-party cookies and their purpose(s) follows.</p>
+
+<div class="panel-group accordion" data-module="accordion" id="4cab0c38-effb-4ee8-aa63-94212e33389f" role="tablist" aria-multiselectable="true">
+
+<div class="panel panel-default accordion___item">
+    <div class="panel-heading" role="tab" id="d020a73f-26bb-495b-a71d-520c76d7310d">
+        <div class="panel-title">
+            <a class="accordion__control" role="button" data-toggle="collapse" href="#cf98e8a9-8210-415e-8671-34a7021f2153" aria-expanded="false" aria-controls="cf98e8a9-8210-415e-8671-34a7021f2153">
+                <span role="heading" aria-level="3">First-Party Cookies</span>
+                <span class="collapse-icon"></span>
+            </a>
+        </div>
+    </div>
+    <div id="cf98e8a9-8210-415e-8671-34a7021f2153" class="panel-collapse collapse" role="tabpanel" aria-labelledby="d020a73f-26bb-495b-a71d-520c76d7310d">
+        <div class="panel-body">
+            
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Adobe Analytics / Adobe Target</h4>
+
+<p>Adobe Analytics is a web analytics service provided by Adobe. Adobe Analytics sets cookies in order to allow us to evaluate and report on the use of our website. It is widely used across the web and all data is anonymized meaning the cookies carry no personally identifiable information. These cookies help us to understand our visitor's behavior and allow us to make improvements to better our user's experience.</p>
+
+<p>Adobe Target is a website A/B testing and personalization tool, provided by Adobe. Adobe sets the cookies to determine a user's inclusion in a website experiment and the expiry of experiments a user has been included in. We perform these experiments to improve the performance and usability of our website</p>
+
+<p><strong>Purpose(s):</strong> Targeting and Tracking</p>
+</div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>at_check (End of session)</li>
+	<li>mbox (2 years)</li>
+	<li>s_cc (End of session)</li>
+	<li>s_fid (1 year)</li>
+	<li>s_sq (End of session)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Bing Ads</h4>
+
+<p>Microsoft Bing Ads allows us to target advertising in Bing search results and in display advertising on other websites.</p>
+
+<p><strong>Purpose(s):</strong>&nbsp;Targeting</p>
+</div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>_uetsid (30 minutes)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Cloudflare</h4>
+
+<p>Cloudflare, with its worldwide network of proxy servers, also known as a&nbsp;Content Delivery Network, helps us ensure that our website loads quickly for users around the world. This cookie is set for security purposes and helps Cloudflare identify trusted web traffic when our site is being accessed.</p>
+
+<p><strong>Purpose(s):</strong> Necessary / functional</p>
+</div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>_cfduid (1 month)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Google Analytics</h4>
+
+<p>Google Analytics is a web analytics service provided by Google, Inc. Google Analytics sets cookies in order to allow us to evaluate and report on the use of our website. It is widely used across the web and all data is anonymized meaning the cookies carry no personally identifiable information. These cookies help us to understand our visitor's behaviour and allow us to make improvements to better our user's experience. It's a win-win relationship.</p>
+
+<p><strong>Purpose(s):</strong>&nbsp;Tracking</p>
+</div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>_ga (2 years)</li>
+	<li>_gid (1 day)</li>
+	<li>gsScrollPos-XXXX (End of session)</li>
+	<li>_gaexp (Typically 90 days, but variable based on experiment length)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Merkle</h4>
+
+<p>We set a few cookies at the site level to monitor the accessibility and uptime of the site and to store decisions you have made about content, including the default geographic region and cookie and popup notifications. No personal information is stored in these cookies.</p>
+
+<p><strong>Purpose(s):</strong> Necessary / functional and Tracking</p>
+</div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>LastMRH_Session (2 years)</li>
+	<li>MRHSession&nbsp;(2 years)</li>
+	<li>PF2&nbsp;(2 years)</li>
+	<li>global_toggle (4 months)</li>
+	<li>Drupal.visitor.manuallySetRegion&nbsp;(2 years)</li>
+	<li>security_accept (1 year)</li>
+	<li>JSESSIONID (End of visit)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px;">
+<div class="col-md-8">
+<h4>Salesforce Pardot</h4>
+
+<p>Salesforce Pardot is a marketing automation tool that is used to collect personal information voluntarily provided to us through forms on our website. &nbsp;The information collected is stored securely in our Salesforce database and used to inform the nature of subsequent communications with users, including those delivered via email. Once we have your information in Pardot, we will typically streamline components of the site experience for you, including pre-populating information or simply asking for less information in forms on return visits to the site.</p>
+
+<p>Blocking or disabling cookies from Pardot may make it impossible for you to access select pieces of content on the site that is stored behind a form.</p>
+
+<p><strong>Purpose(s):</strong> All</p>
+</div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>visitor_idXXXXX (10 years)</li>
+	<li>visitor_idXXXXX-hash (10 years)</li>
+</ul></div>
+</div>
+
+<p>
+        </p></div>
+    </div>
+</div>
+
+<div class="panel panel-default accordion___item">
+    <div class="panel-heading" role="tab" id="bbd33015-0478-428c-9fdb-cfbfdc0a88db">
+        <div class="panel-title">
+            <a class="accordion__control" role="button" data-toggle="collapse" href="#1609acab-0944-4d58-b590-41d7270691fe" aria-expanded="false" aria-controls="1609acab-0944-4d58-b590-41d7270691fe">
+                <span role="heading" aria-level="3">Third-Party Cookies</span>
+                <span class="collapse-icon"></span>
+            </a>
+        </div>
+    </div>
+    <div id="1609acab-0944-4d58-b590-41d7270691fe" class="panel-collapse collapse" role="tabpanel" aria-labelledby="bbd33015-0478-428c-9fdb-cfbfdc0a88db">
+        <div class="panel-body">
+            In addition to the cookies listed above, the following partners may set their own cookies while you browse our site:
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>4Cite</h4>
+
+<p>4Cite is a company owned by Merkle that tracks United States-based users across different sites and shows targeted messaging.</p>
+
+<p><strong>Purpose(s):</strong> Targeting and Tracking</p>
+</div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>sv_sid (3 years)</li>
+	<li>sv_sid_src (3 years)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Adobe Analytics / Adobe Target</h4>
+
+<p>Adobe Analytics is a web analytics service provided by Adobe. Adobe Analytics sets cookies in order to allow us to evaluate and report on the use of our website. It is widely used across the web and all data is anonymized meaning the cookies carry no personally identifiable information. These cookies help us to understand our visitor's behavior and allow us to make improvements to better our user's experience.</p>
+
+<p>Adobe Target is a website A/B testing and personalization tool, provided by Adobe. Adobe sets the cookies to determine a user's inclusion in a website experiment and the expiry of experiments a user has been included in. We perform these experiments to improve the performance and usability of our website</p>
+
+<p><strong>Purpose(s):</strong> Targeting and Tracking</p>
+</div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>s_vi (2 years)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Bing Ads</h4>
+
+<p>Microsoft Bing Ads allows us to target advertising in Bing search results and in display advertising on other websites.</p>
+
+<p><strong>Purpose(s):</strong>&nbsp;Targeting and Tracking</p>
+
+<p><a href="https://advertise.bingads.microsoft.com/en-us/resources/policies/microsoft-bing-ads-privacy-policy" target="_blank"><strong>Bing Privacy Policy</strong></a></p></div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>MUID (390 days)</li>
+	<li>MUIDB&nbsp;(390 days)</li>
+	<li>MR (1 week)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Demandbase</h4>
+
+<p>We use Disqus to allow site visitors to comment on blog posts on our site by using existing social media accounts rather than having to create an account with us. This cookie allows us to use Disqus to authenticate visitors when they wish to make a comment.</p>
+
+<p><strong>Purpose(s):</strong>Tracking</p>
+</div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>_biz_flagsA,&nbsp;_biz_nA, _biz_pendingA,&nbsp;_biz_uid&nbsp;(1 year)</li>
+	<li>_fbp (90 days)</li>
+	<li>_ga (2 years)</li>
+	<li>_gcl_au (90 days)</li>
+	<li>_hjid (1 year)</li>
+	<li>_hjTLDTest (End of session)</li>
+	<li>_mkto_trk (2 years)</li>
+	<li>s_cc (End of session)</li>
+	<li>s_fid (5 years)</li>
+	<li>tuuid / tuuid_lu (2&nbsp;years)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Disqus</h4>
+
+<p>We use Disqus to allow site visitors to comment on blog posts on our site by using existing social media accounts rather than having to create an account with us. This cookie allows us to use Disqus to authenticate visitors when they wish to make a comment.</p>
+
+<p><strong>Purpose(s):</strong>&nbsp;Necessary / functional</p>
+
+<p><a href="https://help.disqus.com/en/articles/1717103-disqus-privacy-policy" target="_blank"><strong>Disqus Privacy Policy</strong></a></p></div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>disqusauth (1 year)</li>
+	<li>vglnk.Agent.p (230 days)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Doubleclick</h4>
+
+<p>We use Google's doubleclick.net cookie for conversion tracking purposes, to track the performance of our own AdWords and display advertising campaigns. If you visit certain pages on our website, Google (and Merkle) will be able to tell that your visit was a result of a click on one of these ads.</p>
+
+<p><strong>Purpose(s):</strong>&nbsp;Targeting and Tracking</p>
+
+<p><a href="https://policies.google.com/technologies/ads" target="_blank"><strong>Doubleclick Privacy Policy</strong></a></p></div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>IDE (730 days)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Facebook</h4>
+
+<p>We regularly advertise our products and services on Facebook. Cookies are generally only set by Facebook if you are signed in to (or have been signed in to) a matching account and and are generally linked to the use of the Social Media 'like' buttons embedded on our site and many others throughout the web. Facebook’s cookies help us measure conversion tracking and performance of our campaigns.</p>
+
+<p><strong>Purpose(s):</strong> Targeting and Tracking</p>
+
+<p>The following links have more information on Facebook's interest-based advertising and how to opt out:</p>
+
+<ul type="disc"><li><strong><a href="https://www.facebook.com/help/164968693837950" target="_blank">Information on&nbsp;Facebook's interest-based advertising</a></strong><strong> </strong></li>
+	<li><strong><a href="https://www.facebook.com/settings/?tab=ads" target="_blank">Opt out of interest-based advertising on Facebook</a></strong><strong> </strong></li>
+</ul></div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>datr (730 days)</li>
+	<li>fr (90 days)</li>
+	<li>wd, xs (7 days)</li>
+	<li>_atuvc (395 days)</li>
+	<li>_atuvs (30 minutes)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Google (YouTube and Maps)</h4>
+
+<p>We embed videos from YouTube and maps from Google Maps on pages of our website. Google will set cookies as part of those embeds to measure performance and optimize appearance and functionality depending on your browser, device, and Internet connection.</p>
+
+<p><strong>Purpose(s):</strong>&nbsp;Necessary / functional</p>
+
+<ul><li><strong><a href="https://support.google.com/youtube/answer/7671399?p=privacy_guidelines&amp;hl=en&amp;visit_id=1-636644955285457976-2205115388&amp;rd=1" target="_blank">YouTube Privacy Policy</a></strong></li>
+	<li><strong><a href="https://policies.google.com/privacy" target="_blank">Maps Privacy Policy</a></strong></li>
+</ul></div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>1P_JAR (30 days)</li>
+	<li>NID (183 days)</li>
+	<li>APISID (730 days)</li>
+	<li>HSID&nbsp;(730 days)</li>
+	<li>SAPISID&nbsp;(730 days)</li>
+	<li>SID&nbsp;(730 days)</li>
+	<li>SSID&nbsp;(730 days)</li>
+	<li>VISITOR_INFO1_LIVE (180 days)</li>
+	<li>YSC (At end of session)</li>
+	<li>GPS (30 minutes after end of session)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>LinkedIn</h4>
+
+<p>We regularly advertise our products and services on LinkedIn. Cookies are generally only set by LinkedIn if you are signed in to (or have been signed in to) a matching account and and are generally linked to the use of the Social Media 'like' buttons embedded on our site and many others throughout the web. LinkedIn’s cookies help us measure conversion tracking and performance of our campaigns.</p>
+
+<p><strong>Purpose(s):</strong> Targeting and Tracking</p>
+
+<p><strong><a href="https://www.linkedin.com/legal/sas-terms" target="_blank">LinkedIn Ads Privacy Policy</a></strong></p></div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>lang (End of session)</li>
+	<li>_ga (730 days)</li>
+	<li>bcookie (730 days)</li>
+	<li>lidc (1 day)</li>
+	<li>UserMatchHistory (30 days)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Salesforce Pardot</h4>
+
+<p>Salesforce Pardot is a marketing automation tool that is used to collect personal information voluntarily provided to us through forms on our website. &nbsp;The information collected is stored securely in our Salesforce database and used to inform the nature of subsequent communications with users, including those delivered via email. Once we have your information in Pardot, we will typically streamline components of the site experience for you, including pre-populating information or simply asking for less information in forms on return visits to the site.</p>
+
+<p>Blocking or disabling cookies from Pardot may make it impossible for you to access select pieces of content on the site that is stored behind a form.</p>
+
+<p><strong>Purpose(s):</strong> All</p>
+
+<p><strong><a href="https://www.salesforce.com/company/privacy/" target="_blank">Salesforce Privacy Policy</a></strong></p></div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>pardot (End of session)</li>
+	<li>visitor_idXXXXX (10 years)</li>
+	<li>visitor_idXXXXX-hash (10 years)</li>
+	<li>lpvXXXXX (30 minutes after session ends)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px; border-bottom: 3px solid #25507e;">
+<div class="col-md-8">
+<h4>Twitter</h4>
+
+<p>We occasionally advertise our products and services on Twitter. Cookies are generally only set by Twitter if you are signed in to (or have been signed in to) a matching account and and are generally linked to the use of the Social Media 'like' buttons embedded on our site and many others throughout the web. Twitter’s cookies help us measure conversion tracking and performance of our campaigns.</p>
+
+<p><strong>Purpose(s):</strong> Tracking and Targeting</p>
+
+<p><strong><a href="https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads" target="_blank">Twitter Privacy Policy</a></strong></p></div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>_ga (730 days)</li>
+	<li>lang (End of session)</li>
+	<li>personalization_id (730 days)</li>
+</ul></div>
+</div>
+
+<div class="row clearfix" style="padding: 20px;">
+<div class="col-md-8">
+<h4>Vimeo</h4>
+
+<p>Vimeo is a video-hosting service that allows us to embed videos on pages of our website. The cookies set allow us to report and analyze the viewing habits of users when a video is played.</p>
+
+<p><strong>Purpose(s):</strong> Necessary / functional and Tracking</p>
+
+<p><strong><a href="https://vimeo.com/privacy" target="_blank">Vimeo Privacy Policy</a></strong></p></div>
+
+<div class="col-md-4">
+<p><strong>Cookie Name (Duration):</strong></p><ul><li>vuid (2 years)</li>
+</ul></div>
+</div>
+
+<p><a name="CookieControl" id="CookieControl"></a></p><p>
+        </p></div>
+    </div>
+</div>
+
+</div>
+
+<h2>Controlling Cookies Through Browser Settings</h2>
+
+<p>Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the website as some cookies may be required for full and correct operation of our sites.</p>
+
+<p>The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether.&nbsp; Additionally, you can disable or delete similar data used by browser add-ons,&nbsp;such as Flash cookies, by changing the add-on’s settings or visiting the website of its manufacturer.</p>
+
+<p>Whilst we would encourage you to keep our first party cookies enabled (so that we can make your on-site experience better), the following links provide guidance on how to manage cookie permissions through your browsers settings. This includes instructions on how to delete existing cookies and block them from being set in the future:</p>
+
+<ul><li><strong>Firefox:</strong>&nbsp;<a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&amp;redirectslug=Enabling+and+disabling+cookies">Enable and disable cookies that websites use to track your preferences</a></li>
+	<li><strong>Safari:</strong>&nbsp;<a href="https://support.apple.com/kb/index?page=search&amp;fac=all&amp;q=cookies%20safari">Managing Cookies</a></li>
+	<li><strong>Google Chrome:</strong>&nbsp;<a href="https://support.google.com/chrome/bin/answer.py?hl=en-GB&amp;answer=95647">Manage cookies</a></li>
+	<li><strong>Opera:</strong>&nbsp;<a href="https://www.opera.com/browser/tutorials/security/privacy/">Security &amp; Privacy in Opera</a></li>
+	<li><strong>Internet Explorer:</strong>&nbsp;<a href="https://windows.microsoft.com/en-GB/windows7/How-to-manage-cookies-in-Internet-Explorer-9">How to manage cookies in Internet Explorer 9</a>,&nbsp;<a href="https://support.microsoft.com/kb/278835">How to delete cookie files in Internet Explorer</a></li>
+	<li><strong>iOS instructions:</strong>&nbsp;<a href="https://support.apple.com%2Fen-us%2Fht202074/">here</a>&nbsp;</li>
+	<li><strong>Android instructions:</strong>&nbsp;<a href="https://support.google.com/ads/answer/2662922?hl=en">here</a>&nbsp;&nbsp;</li>
+</ul>
+    </div>
+    </div>
+  </div>
+</div></div>
+    </div>
+</div>
+
+  </div>
+</article>
+
+  </div>
+
+  </div>
+
+                    </section>
+                </main>
+                                            </div>
+        </div>
+        <footer class="site-footer">
+            <div class="layout-container container">
+                                    <div class="site-footer--wrapper row">
+    <div class="follow-us visible-xs col-xs-12 text-center">
+        <div class="row">
+            <div class="col-lg-12 col-sm-12 col-xs-12"><div class="follow-us__title">Follow Us</div></div>
+            <div class="col-lg-12 col-sm-12 col-xs-12"><nav role="navigation" aria-label="Follow Us">
+            <span class="follow-us__icon"><a href="http://www.linkedin.com/company/7947?trk=NUS_CMPY_FOL-co" target="_blank" rel="" class="linked-in">LinkedIn</a></span>
+    <span class="follow-us__icon"><a href="https://twitter.com/merkle" target="_blank" rel="" class="twitter">Twitter</a></span>
+    <span class="follow-us__icon"><a href="https://www.facebook.com/merkleinc" target="_blank" rel="" class="facebook">Facebook</a></span>
+    <span class="follow-us__icon"><a href="/rss" target="_blank" rel="" class="rss" data-drupal-link-system-path="node/2553">RSS</a></span>
+    <span class="follow-us__icon"><a href="http://www.youtube.com/user/MerkleCRM?sub_confirmation=1" target="_blank" rel="" class="youtube">Youtube</a></span>
+    <span class="follow-us__icon"><a href="http://www.flickr.com/photos/78038550@N05" target="_blank" rel="" class="flickr">Flickr</a></span>
+    <span class="follow-us__icon"><a href="https://www.instagram.com/merkle" target="_blank" rel="" class="instagram">Instagram</a></span>
+
+  </nav>
+</div>
+            <div class="contact col-lg-12 col-sm-12 col-xs-12"><nav role="navigation" aria-label="Footer Contact Us">
+        <ul class="contact__list"><li class="contact__list-item">
+                <span class="contact"></span>
+                <a href="/contact" target="_blank" rel="" class="contact" data-drupal-link-system-path="contact">Contact Us</a>
+        </li><li class="contact__list-item">
+                <span class="phone"></span>
+                <a href="tel:1.443.542.4000" target="_self" class="phone">1.443.542.4000</a>
+        </li><li class="contact__list-item">
+                <span class="email"></span>
+                <a href="mailto:marketing@merkleinc.com" target="0" rel="" class="email">marketing@merkleinc.com</a>
+        </li></ul>
+  </nav>
+</div>
+        </div>
+    </div>
+    <div class="quick-links col-lg-2 col-sm-2 col-xs-12">
+        <nav role="navigation" aria-label="Quick Links">
+        <div class="quick-links__title hidden-xs">Quick Links</div>
+<a class="quick-links__title quick-links__title--mobile visible-xs" role="button" data-toggle="collapse" href="#quick-link-collapse" aria-expanded="false" aria-controls="collapseExample">Quick Links<span class="collapse-icon"></span></a>
+
+<div id="quick-link-collapse" class="collapse col-xs-12">
+    <div class="row">
+                    <div class="col-xs-6 col-sm-12">
+                <ul class="quick-links__list">
+                                            <li class="quick-links__list-item">
+                            <a class="" href="/thought-leadership/case-studies">Our Work</a>
+                        </li>
+                                            <li class="quick-links__list-item">
+                            <a class="" href="/thought-leadership">What We Think</a>
+                        </li>
+                                            <li class="quick-links__list-item">
+                            <a class="" href="/thought-leadership/blogs">Blog</a>
+                        </li>
+                                            <li class="quick-links__list-item">
+                            <a class="" href="/what-we-do">What We Do</a>
+                        </li>
+                                            <li class="quick-links__list-item">
+                            <a class="" href="/who-we-are-performance-marketing-agency">Who We Are</a>
+                        </li>
+                                    </ul>
+            </div>
+                    <div class="col-xs-6 col-sm-12">
+                <ul class="quick-links__list">
+                                            <li class="quick-links__list-item">
+                            <a class="" href="/news-and-events">News</a>
+                        </li>
+                                            <li class="quick-links__list-item">
+                            <a class="" href="/news-and-events/events">Events</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>
+  </nav>
+
+        
+    </div>
+    <div class="location col-lg-6 col-sm-6 col-xs-12">
+        <nav role="navigation" aria-label="Footer Locations">
+        <div class="row">
+    <div class="col-lg-12 col-xs-12">
+        <div class="location__title hidden-xs">Locations Around the Globe</div>
+        <a class="quick-links__title location__title--mobile visible-xs" role="button" data-toggle="collapse" href="#location-collapse" aria-expanded="false" aria-controls="collapseExample">Locations Around the Globe<span class="collapse-icon"></span></a>
+    </div>
+    <div id="location-collapse" class="collapse col-xs-12">
+        <div class="col-lg-8 col-sm-9 col-xs-12">
+            <span class="location__list-title">Americas</span>
+                                                                <ul class="col-lg-6 location__list col-sm-7 col-xs-6">
+                                                    <li class="location__list-item"><a href="/offices/columbia-md">Columbia, MD (HQ)</a></li>
+                                                    <li class="location__list-item"><a href="/offices/austin-tx">Austin, TX</a></li>
+                                                    <li class="location__list-item"><a href="/offices/boston-ma">Boston</a></li>
+                                                    <li class="location__list-item"><a href="/offices/charlottesville-va">Charlottesville, VA</a></li>
+                                                    <li class="location__list-item"><a href="/offices/chicago-il">Chicago</a></li>
+                                                    <li class="location__list-item"><a href="/offices/denver-co">Denver</a></li>
+                                                    <li class="location__list-item"><a href="/offices/southfield-mi">Detroit</a></li>
+                                                    <li class="location__list-item"><a href="/offices/hagerstown-md">Hagerstown, MD</a></li>
+                                                    <li class="location__list-item"><a href="/offices/little-rock-ar">Little Rock</a></li>
+                                            </ul>
+                                    <ul class="col-lg-6 location__list col-sm-5 col-xs-6">
+                                                    <li class="location__list-item"><a href="/offices/minneapolis-mn">Minneapolis</a></li>
+                                                    <li class="location__list-item"><a href="/offices/montreal">Montréal</a></li>
+                                                    <li class="location__list-item"><a href="/offices/new-york-city-ny">New York City</a></li>
+                                                    <li class="location__list-item"><a href="/offices/philadelphia-pa">Philadelphia</a></li>
+                                                    <li class="location__list-item"><a href="/offices/pittsburgh-pa">Pittsburgh</a></li>
+                                                    <li class="location__list-item"><a href="/offices/salt-lake-city-ut">Salt Lake City</a></li>
+                                                    <li class="location__list-item"><a href="/offices/san-francisco-ca">San Francisco</a></li>
+                                                    <li class="location__list-item"><a href="/offices/toronto">Toronto</a></li>
+                                                    <li class="location__list-item"><a href="/offices/vancouver">Vancouver</a></li>
+                                            </ul>
+                                    </div>
+        <div class="col-lg-4 col-sm-3  col-xs-12 location__list--small">
+                            <div class="col-xs-6 col-sm-12">
+                                                                <a href="" target="_self" class="location__list-title">EMEA</a>
+                                                                                                                    <ul class="location__list">
+                                                                    <li class="location__list-item"><a href="/offices/aarhus">Aarhus</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/aberdeen-uk">Aberdeen, UK</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/amsterdam">Amsterdam</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/barcelona-spain">Barcelona</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/basel-switzerland">Basel</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/belgrade">Belgrade</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/bristol-uk">Bristol</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/brno">Brno</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/belgium">Brussels</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/copenhagen">Copenhagen</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/derby">Derby</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/dubai-united-arab-emirates">Dubai</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/edinburgh-uk">Edinburgh</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/frankfurt">Frankfurt</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/geneva-switzerland">Geneva</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/gijon-spain">Gijon</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/gothenburg">Gothenburg</a></li>
+                                                            </ul>
+                                                    <ul class="location__list">
+                                                                    <li class="location__list-item"><a href="/offices/guarda-portugal">Guarda</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/hamburg">Hamburg</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/helsinki-finland">Helsinki</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/lausanne-switzerland">Lausanne</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/leiria-portugal">Leiria</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/lisbon-portugal">Lisbon</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/london-uk">London</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/madrid-spain">Madrid</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/munich-germany">Munich</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/oslo-norway">Oslo</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/prague">Prague</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/rotterdam-netherlands">Rotterdam</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/stgallen">St. Gallen, Sui.</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/stockholm">Stockholm</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/vienna-austria">Vienna</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/zurich">Zurich</a></li>
+                                                            </ul>
+                                                            </div>
+                            <div class="col-xs-6 col-sm-12">
+                                                                <a href="" target="_self" class="location__list-title">Asia Pacific</a>
+                                                                                                                    <ul class="location__list">
+                                                                    <li class="location__list-item"><a href="/offices/auckland">Auckland</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/beijing-china">Beijing</a></li>
+                                                                    <li class="location__list-item"><a href="https://www.merkle.com/offices/bengaluru">Bengaluru</a></li>
+                                                                    <li class="location__list-item"><a href="https://www.merkle.com/offices/canberra">Canberra</a></li>
+                                                                    <li class="location__list-item"><a href="https://www.merkle.com/offices/coimbatore">Coimbatore</a></li>
+                                                                    <li class="location__list-item"><a href="https://www.merkle.com/offices/hanoi">Hanoi</a></li>
+                                                                    <li class="location__list-item"><a href="https://www.merkle.com/offices/ho-chi-minh">Ho Chi Minh</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/hong-kong">Hong Kong</a></li>
+                                                                    <li class="location__list-item"><a href="https://www.merkle.com/offices/jakarta">Jakarta</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/melbourne-australia">Melbourne</a></li>
+                                                            </ul>
+                                                    <ul class="location__list">
+                                                                    <li class="location__list-item"><a href="https://www.merkle.com/offices/mumbai">Mumbai</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/nanjing-china">Nanjing</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/pune-india">Pune, India</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/shanghai-china">Shanghai</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/singapore">Singapore</a></li>
+                                                                    <li class="location__list-item"><a href="/offices/sydney-australia">Sydney</a></li>
+                                                                    <li class="location__list-item"><a href="https://www.merkle.com/offices/taipei">Taipei</a></li>
+                                                                    <li class="location__list-item"><a href="https://www.merkle.com/offices/tokyo">Tokyo</a></li>
+                                                                    <li class="location__list-item"><a href="https://www.merkle.com/offices/wellington">Wellington</a></li>
+                                                            </ul>
+                                                            </div>
+                    </div>
+    </div>
+
+    <div class="col-xs-12 hidden-xs dc-footer-links hidden-xs" data-module="footer">
+        <div class="row">
+            <div class="col-sm-3">
+                <ul class="dc-footer-links__list location__list">
+                                            <li class="dc-footer-links__list-item location__list-item">
+                                                                                        <a href="" data-target="Americas" class="active">Americas</a>
+                                                    </li>
+                                            <li class="dc-footer-links__list-item location__list-item">
+                                                                                        <a href="" data-target="EMEA">EMEA</a>
+                                                    </li>
+                                            <li class="dc-footer-links__list-item location__list-item">
+                                                                                        <a href="" data-target="Asia Pacific">Asia Pacific</a>
+                                                    </li>
+                                    </ul>
+            </div>
+            <div class="col-sm-9">
+                <div class="row">
+                                            <div style="" class="dc-footer__links-item" data-id="Americas">
+                                                                                                                                <div class="col-sm-6">
+                                        <ul class="location__list">
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/columbia-md">Columbia, MD (HQ)</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/austin-tx">Austin, TX</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/boston-ma">Boston</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/charlottesville-va">Charlottesville, VA</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/chicago-il">Chicago</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/denver-co">Denver</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/southfield-mi">Detroit</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/hagerstown-md">Hagerstown, MD</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/little-rock-ar">Little Rock</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                                                    <div class="col-sm-6">
+                                        <ul class="location__list">
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/minneapolis-mn">Minneapolis</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/montreal">Montréal</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/new-york-city-ny">New York City</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/philadelphia-pa">Philadelphia</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/pittsburgh-pa">Pittsburgh</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/salt-lake-city-ut">Salt Lake City</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/san-francisco-ca">San Francisco</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/toronto">Toronto</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/vancouver">Vancouver</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                                                                    </div>
+                                            <div style="display: none" class="dc-footer__links-item" data-id="EMEA">
+                                                                                                                                <div class="col-sm-6">
+                                        <ul class="location__list">
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/aarhus">Aarhus</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/aberdeen-uk">Aberdeen, UK</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/amsterdam">Amsterdam</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/barcelona-spain">Barcelona</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/basel-switzerland">Basel</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/belgrade">Belgrade</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/bristol-uk">Bristol</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/brno">Brno</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/belgium">Brussels</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/copenhagen">Copenhagen</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/derby">Derby</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/dubai-united-arab-emirates">Dubai</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/edinburgh-uk">Edinburgh</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/frankfurt">Frankfurt</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/geneva-switzerland">Geneva</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/gijon-spain">Gijon</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/gothenburg">Gothenburg</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                                                    <div class="col-sm-6">
+                                        <ul class="location__list">
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/guarda-portugal">Guarda</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/hamburg">Hamburg</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/helsinki-finland">Helsinki</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/lausanne-switzerland">Lausanne</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/leiria-portugal">Leiria</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/lisbon-portugal">Lisbon</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/london-uk">London</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/madrid-spain">Madrid</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/munich-germany">Munich</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/oslo-norway">Oslo</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/prague">Prague</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/rotterdam-netherlands">Rotterdam</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/stgallen">St. Gallen, Sui.</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/stockholm">Stockholm</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/vienna-austria">Vienna</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/zurich">Zurich</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                                                                    </div>
+                                            <div style="display: none" class="dc-footer__links-item" data-id="Asia Pacific">
+                                                                                                                                <div class="col-sm-6">
+                                        <ul class="location__list">
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/auckland">Auckland</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/beijing-china">Beijing</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="https://www.merkle.com/offices/bengaluru">Bengaluru</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="https://www.merkle.com/offices/canberra">Canberra</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="https://www.merkle.com/offices/coimbatore">Coimbatore</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="https://www.merkle.com/offices/hanoi">Hanoi</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="https://www.merkle.com/offices/ho-chi-minh">Ho Chi Minh</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/hong-kong">Hong Kong</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="https://www.merkle.com/offices/jakarta">Jakarta</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/melbourne-australia">Melbourne</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                                                    <div class="col-sm-6">
+                                        <ul class="location__list">
+                                                                                            <li class="location__list-item">
+                                                    <a href="https://www.merkle.com/offices/mumbai">Mumbai</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/nanjing-china">Nanjing</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/pune-india">Pune, India</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/shanghai-china">Shanghai</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/singapore">Singapore</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="/offices/sydney-australia">Sydney</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="https://www.merkle.com/offices/taipei">Taipei</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="https://www.merkle.com/offices/tokyo">Tokyo</a>
+                                                </li>
+                                                                                            <li class="location__list-item">
+                                                    <a href="https://www.merkle.com/offices/wellington">Wellington</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                                                                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+  </nav>
+
+    </div>
+    <div class="follow-us hidden-xs col-lg-4 col-sm-4">
+        <div class="row">
+            <div class="col-lg-12 col-sm-12"><div class="follow-us__title">Follow Us</div></div>
+            <div class="col-lg-12 col-sm-12"><nav role="navigation" aria-label="Follow Us">
+            <span class="follow-us__icon"><a href="http://www.linkedin.com/company/7947?trk=NUS_CMPY_FOL-co" target="_blank" rel="" class="linked-in">LinkedIn</a></span>
+    <span class="follow-us__icon"><a href="https://twitter.com/merkle" target="_blank" rel="" class="twitter">Twitter</a></span>
+    <span class="follow-us__icon"><a href="https://www.facebook.com/merkleinc" target="_blank" rel="" class="facebook">Facebook</a></span>
+    <span class="follow-us__icon"><a href="/rss" target="_blank" rel="" class="rss" data-drupal-link-system-path="node/2553">RSS</a></span>
+    <span class="follow-us__icon"><a href="http://www.youtube.com/user/MerkleCRM?sub_confirmation=1" target="_blank" rel="" class="youtube">Youtube</a></span>
+    <span class="follow-us__icon"><a href="http://www.flickr.com/photos/78038550@N05" target="_blank" rel="" class="flickr">Flickr</a></span>
+    <span class="follow-us__icon"><a href="https://www.instagram.com/merkle" target="_blank" rel="" class="instagram">Instagram</a></span>
+
+  </nav>
+</div>
+            <div class="contact col-lg-12 col-sm-12"><nav role="navigation" aria-label="Footer Contact Us">
+        <ul class="contact__list"><li class="contact__list-item">
+                <span class="contact"></span>
+                <a href="/contact" target="_blank" rel="" class="contact" data-drupal-link-system-path="contact">Contact Us</a>
+        </li><li class="contact__list-item">
+                <span class="phone"></span>
+                <a href="tel:1.443.542.4000" target="_self" class="phone">1.443.542.4000</a>
+        </li><li class="contact__list-item">
+                <span class="email"></span>
+                <a href="mailto:marketing@merkleinc.com" target="0" rel="" class="email">marketing@merkleinc.com</a>
+        </li></ul>
+  </nav>
+</div>
+        </div>
+    </div>
+    <div class="col-xs-12">
+      <div class="dentsu-logo">
+        <img src="/themes/custom/merkle/build/images/footer/dentsu.png" class="lazyload" alt="Dentsu Logo">
+      </div>
+    </div>
+</div>
+                            </div>
+        </footer>
+          
+<div class="companies">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-center">
+                In Our Company
+            </div>
+        </div>
+        <div class="companies__row companies__row--20">
+                            <a class="companies__logo-link" href="https://www.cardinalpath.com/" target="_blank">
+                                            <img data-src="/sites/default/files/2022-02/Merkle%20CardinalPath_0.png" alt="Merkle | Cardinal Path" class="ml-img lazyload">
+                                    </a>
+                            <a class="companies__logo-link" href="https://www.4cite.com/" target="_blank">
+                                            <img data-src="/sites/default/files/2020-01/4Cite_logo_gray.png" alt="4Cite" class="ml-img lazyload">
+                                    </a>
+                            <a class="companies__logo-link" href="https://digitalpi.com/" target="_blank">
+                                            <img data-src="/sites/default/files/2020-01/DigitalPi_logo_gray-134x77.png" alt="DigitalPi, A Merkle Company" class="ml-img lazyload">
+                                    </a>
+                            <a class="companies__logo-link" href="https://www.extentia.com/" target="_blank">
+                                            <img data-src="/sites/default/files/2022-08/extentia.png" alt="Extentia, A Merkle Company" class="ml-img lazyload">
+                                    </a>
+                            <a class="companies__logo-link" href="https://pexlify.com/" target="_blank">
+                                            <img data-src="/sites/default/files/2022-08/pexlify.png" alt="Pexlify, A Merkle Company" class="ml-img lazyload">
+                                    </a>
+                            <a class="companies__logo-link" href="https://www.b2binternational.com" target="_blank">
+                                            <img data-src="/sites/default/files/2021-09/b2b-international.png" alt="B2B International, A Merkle Company" class="ml-img lazyload">
+                                    </a>
+                            <a class="companies__logo-link" href="https://www.davanti.co.nz/" target="_blank">
+                                            <img data-src="/sites/default/files/2021-09/davanti.png" alt="Davanti, A Merkle Company" class="ml-img lazyload">
+                                    </a>
+                            <a class="companies__logo-link" href="https://mediastorm.biz/" target="_blank">
+                                            <img data-src="/sites/default/files/2020-02/MediaStorm_logo_gray.png" alt="Media Storm, a Merkle Company" class="ml-img lazyload">
+                                    </a>
+                            <a class="companies__logo-link" href="https://www.ugamsolutions.com/" target="_blank">
+                                            <img data-src="/sites/default/files/2019-07/ugam_logo.png" alt="Ugam, A Merkle Company" class="ml-img lazyload">
+                                    </a>
+                            <a class="companies__logo-link" href="https://www.happymarketer.com/" target="_blank">
+                                            <img data-src="/sites/default/files/2019-02/HappyMarketer%20Merkle%20logo%20177x45%20B5B5B5.png" alt="happy marketer, A Merkle Company" class="ml-img lazyload">
+                                    </a>
+                    </div>
+    </div>
+</div>
+
+                    <div class="site-links">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-center">
+                <span class="copyright">© 2022 Merkle Inc.</span>
+                <nav role="navigation" aria-label="Footer Site Links">
+                    <span><a href="/legal-terms" target="_self" data-drupal-link-system-path="node/585">Legal</a></span>
+        <span class="devider">|</span>            <span><a href="/privacy" target="_self" data-drupal-link-system-path="node/584">Privacy</a></span>
+        <span class="devider">|</span>            <span><a href="/cookie-notice" target="_self" data-drupal-link-system-path="node/11716" class="is-active">Cookie Notice</a></span>
+        <span class="devider">|</span>            <span><a href="https://go.merkleinc.com/manage-email-preferences">Email Preferences</a></span>
+        <span class="devider">|</span>            <span><a href="/getting-know-your-privacy-rights" target="_self" data-drupal-link-system-path="node/8369">Consumer Information &amp; Transparency</a></span>
+        <span class="devider">|</span>            <span><a href="/getting-know-your-privacy-rights/control-your-data" data-drupal-link-system-path="node/17001">Do Not Sell My Information</a></span>
+        <span class="devider">|</span>            <span><a href="/responsible-disclosure-policy" data-drupal-link-system-path="node/18026">Responsible Disclosure</a></span>
+        <span class="devider">|</span>            <span><a href="/sitemap" target="_self" data-drupal-link-system-path="node/586">Sitemap</a></span>
+        <span class="devider">|</span>            <span><a href="/getting-know-your-privacy-rights/privacy-notice#6" target="_self" data-drupal-link-system-path="node/8371">AdChoices</a></span>
+        
+  </nav>
+
+            </div>
+        </div>
+    </div>
+</div>              <div class="site-footer-notification">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 text-center">
+        <p>Looking for Ralph Merkle? <a href="https://ralphmerkle.com/" target="_blank">Click here.</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+</div>
+
+<div id="c-control-modal" class="modal-window c-control__modal" data-module="modal-window">
+  <div class="modal-window__body">
+    <div class="modal-window__close">
+      <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 0 24 24" width="20"><title>Cookie Control Close
+    Icon</title>
+  <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
+</svg>
+    </div>
+    <div id="cookie-modal"></div>
+  </div>
+</div>
+<div class="triangle-with-shadow" data-modal-target="c-control-modal">
+  <div class="security-policy--icon"></div>
+</div>
+  <div>
+    <div id="block-arrivingmodal">
+  
+    
+      <div id="redirect-modal" class="modal-window redirect-modal" data-module="arriving-modal" data-show="0">
+  <div class="redirect-modal__wrap">
+    <div class="redirect-modal__icon"></div>
+    <div class="redirect-modal__content">
+      <div class="modal-window__controls">
+        <button type="button" class="modal-window__close redirect-modal__close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 0 24 24" width="20"><title>Cookie Control Close
+    Icon</title>
+  <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
+</svg>
+</span>
+        </button>
+      </div>
+
+      <div class="container">
+        <div class="redirect-modal__container">
+          <div class="modal-window__body flex flex--align-center">
+            <div class="modal-window__body-text">
+              <span>::SITENAME:: is now part of Merkle. You can still find all of our innovative products, services, and ideas on the Merkle website.</span>
+              <p class="margin-top-30"><button aria-label="Close" class="button button--blue" data-dismiss="modal">Continue to Site</button></p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+<div id="block-geographicalnavigationmodal">
+  
+    
+      <div id="geographical-navigation" class="modal-window" data-module="modal-window">
+    <img data-src="/themes/custom/merkle/build/images/banners/world-map.png" class="lazyload gn-image hidden-xs">
+    <div class="gn-gardient">
+        <div class="modal-window__controls">
+            <button type="button" class="modal-window__close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true"><svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+  <title>Close Icon</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="Global-Elements-&amp;-Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Desktop-HD" transform="translate(-1167.000000, -128.000000)">
+      <g id="Video-Modal">
+        <g id="Close-Icon" transform="translate(1167.000000, 128.000000)">
+          <g>
+            <rect id="Rectangle" fill="#F23A1D" x="0" y="0" width="20" height="20"></rect>
+            <rect id="Rectangle-8" fill="#FFFFFF" transform="translate(10.006938, 10.006938) rotate(45.000000) translate(-10.006938, -10.006938) " x="9.34027176" y="5.00693843" width="1.33333333" height="10" rx="0.666666667"></rect>
+            <rect id="Rectangle-8" fill="#FFFFFF" transform="translate(10.006938, 10.006938) scale(-1, 1) rotate(45.000000) translate(-10.006938, -10.006938) " x="9.34027176" y="5.00693843" width="1.33333333" height="10" rx="0.666666667"></rect>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+</span>
+            </button>
+        </div>
+
+        <div class="container">
+            <div class="geographical-navigation">
+                <div class="modal-window__body">
+                    <div class="geographical-navigation__content">
+                        <img data-src="/themes/custom/merkle/build/images/geonavLogo.svg" class="gn-logo lazyload">
+                        <div class="row">
+                                                            <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-4 col-md-offset-3 col-md-3">
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="/" data-name="US / Global" data-target="_self">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">US / Global</h3>
+                                                                                            </div></div>
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="https://www.merkle.com/ca" data-name="Canada" data-target="_blank">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">Canada</h3>
+                                                                                            </div></div>
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="/emea" data-name="UK / EMEA" data-target="_self">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">UK / EMEA</h3>
+                                                                                            </div></div>
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="https://merkleinc.ch/" data-name="Germany, Austria &amp; Switzerland" data-target="_blank">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">Germany, Austria &amp; Switzerland</h3>
+                                                                                            </div></div>
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="/nl/nl" data-name="Netherlands" data-target="_self">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">Netherlands</h3>
+                                                                                            </div></div>
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="/ne" data-name="Nordics" data-target="_self">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">Nordics</h3>
+                                                                                            </div></div>
+                                                                            <div type="button" class="geographical-navigation__item gn-button gn-button__lang" data-path="/es" data-name="Spain" data-target="_self">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">Spain</h3>
+                                                                                            </div><div class="gn-back hidden"><a href="/es/es" class="gn-lang">
+                                                        Español
+                                                        </a> | <a href="/es/en" class="gn-lang">
+                                                        English
+                                                        </a></div></div>
+                                                                    </div>
+                                                            <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4 col-md-offset-0 col-md-3">
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="/mena" data-name="Middle East &amp; North Africa" data-target="_self">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">Middle East &amp; North Africa</h3>
+                                                                                            </div></div>
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="/apac" data-name="APAC" data-target="_self">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">APAC</h3>
+                                                                                            </div></div>
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="/sg" data-name="Singapore" data-target="_self">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">Singapore</h3>
+                                                                                            </div></div>
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="http://www.merklechina.cn/" data-name="China" data-target="_blank">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">China</h3>
+                                                                                            </div></div>
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="/in" data-name="India" data-target="_self">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">India</h3>
+                                                                                            </div></div>
+                                                                            <div type="button" class="geographical-navigation__item gn-button" data-path="/au" data-name="Australia" data-target="_self">
+                                            <div class="gn-front">
+                                                <h3 class="gn-title">Australia</h3>
+                                                                                            </div></div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+  </div>
+<div id="block-regionnotification">
+  
+    
+      <div class="region-notifications__background" style="display: none">
+    <div class="region-notifications__modal">
+        <button type="button" class="region-notifications__close-button" aria-label="Close">
+            <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+                <title>Close Icon</title>
+                <desc>Created with Sketch.</desc>
+                <defs></defs>
+                <g id="Global-Elements-&amp;-Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g id="Desktop-HD" transform="translate(-1167.000000, -128.000000)">
+                        <g id="Video-Modal">
+                            <g id="Close-Icon" transform="translate(1167.000000, 128.000000)">
+                                <g>
+                                    <rect id="Rectangle" fill="#F23A1D" x="0" y="0" width="20" height="20"></rect>
+                                    <rect id="Rectangle-8" fill="#FFFFFF" transform="translate(10.006938, 10.006938) rotate(45.000000) translate(-10.006938, -10.006938) " x="9.34027176" y="5.00693843" width="1.33333333" height="10" rx="0.666666667"></rect>
+                                    <rect id="Rectangle-8" fill="#FFFFFF" transform="translate(10.006938, 10.006938) scale(-1, 1) rotate(45.000000) translate(-10.006938, -10.006938) " x="9.34027176" y="5.00693843" width="1.33333333" height="10" rx="0.666666667"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+        </button>
+        <div class="region-notifications__content">
+            <div class="region-notifications__image">
+                <img data-src="/themes/custom/merkle/build/images/icons/out_of_region_icon.png" class="lazyload" alt="Out of region icon">
+            </div>
+            <div class="region-notifications__title">
+                <h3>Thanks for stopping by</h3>
+            </div>
+            <div class="region-notifications__description">
+                We're glad you're here. Based on where you appear to be visiting from, there might be an even more
+                relevant part of the Merkle website for you. Check out all of
+                <a id="toggle-region-select" href="#" class="primary-link primary-link--orange">our location and language options now</a>,
+                or close this window to keep browsing.
+            </div>
+        </div>
+    </div>
+</div>
+
+  </div>
+
+  </div>
+
+
+  </div>
+
+      
+                <script src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.3.3.min.js" async=""></script>
+            <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/11716","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"currentSite":"default","availableSites":["apac","au","default","emea","es","in","it","mena","ne","nl","nz","sg","tw"],"isEmeaRegionUser":false,"isIndiaRegionUser":false,"isAustraliaRegionUser":false,"isNetherlandsRegionUser":false,"isSpainRegionUser":false,"isMenaRegionUser":false,"readMore":"Read more","readLess":"Show Less","env":{"DIS_AT":false,"DIS_YT":false,"DIS_AF":"true","DIS_WT":false,"DIS_CC":false,"DIS_TL":false},"launchPath":"https:\/\/assets.adobedtm.com\/d265cf5120b1\/97e0075391d9\/launch-63bace1d1135.min.js","merkleGA":[],"user":{"uid":0,"permissionsHash":"d7fe1f2d4fb8f0f9f8175d6cc7666fe23ed981ff4b6d79019f470c84204173d7"}}</script>
+<script src="/sites/default/files/js/js_96VlKF4Sg80QmiAGwmLeRgh-Cp7PbVbO0bar1IJyeW4.js"></script>
+<script src="/sites/default/files/js/js_Bw4LY8NABafFlEbo4TppeghijjF_uNmHUdUfdFBB9-U.js"></script>
+<script src="/sites/default/files/js/js_YBGBdy3cqm0xqRwDgqR7ExJQy1vEsqEH54XauJzHQTM.js"></script>
+<script src="/sites/default/files/js/js_HYnq8ZGRom3jUlWJwoTKI0VZ6a0lurjo2fyLV09tuZs.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7bb5b98fa3","applicationID":"113237270","transactionName":"ZwBQbEJRWURZUEBRCV5Kc1tEWVhZF0NVXwNvBlNbWFU=","queueTime":0,"applicationTime":53,"atts":"S0dTGgpLSko=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>

@@ -1,0 +1,393 @@
+Cookie Policy | CityFibre
+Cookie Policy
+Check availability in your area
+Reset  Check Now
+Get Connected
+Partners
+About Us
+Careers
+News
+Help
+Close   Get Connected
+Homes
+Business
+Landlords
+Developers
+Public Sector
+Mobile
+Partners
+Products
+Our Ethernet Network
+Partner Support
+About Us
+Vision
+Network
+Building Better
+Rollout
+Management Team
+Responsible Business
+Careers
+Early & New Careers
+The CityFibre Way
+Opportunities with our Partners
+News
+Press and Media
+Help
+Cookie Policy
+About Cookies
+Our website uses cookies and by using our website, you consent to our use of cookies in accordance with the terms of this policy
+Cookie is a piece of code which allows the web server to identify and track the activity of the web browser
+They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the website
+We may use both “session” cookies and “persistent” cookies on this website
+Session cookies will be deleted from your computer when you close your browser
+Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date
+For further details please consult the help menu in your browser or visit www.allaboutcookies.org.Blocking cookies
+Your cookie acceptance can be managed and most browsers will allow you to refuse to accept Cookies
+However, blocking cookies may have a negative impact upon the usability of many websites.
+By blocking cookies on this website you will:
+Be unable to register and login to the website.You will not be able to access the protected content on the website including videos and case studies.
+This website uses the following cookies:
+Strictly Necessary
+These cookies are necessary for the website to function and cannot be switched off in our systems
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work
+These cookies do not store any personally identifiable information.
+CookieName
+Description
+orders.cityfibre.com
+XSRF-TOKEN
+This cookie is written to help with site security in preventing Cross-Site Request Forgery attacks.
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site
+They help us to know which pages are the most and least popular and see how visitors move around the site
+All information these cookies collect is aggregated and therefore anonymous
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+CookieName
+Description
+cityfibre.com
+_gat_UA-
+This is a pattern type cookie set by Google Analytics, where the pattern element on the name contains the unique identity number of the account or website it relates to
+It appears to be a variation of the _gat cookie which is used to limit the amount of data recorded by Google on high traffic volume websites.
+www.cityfibre.com
+_pk_id*
+This cookie name is associated with the Piwik open source web analytics platform
+It is used to help website owners track visitor behaviour and measure site performance
+It is a pattern type cookie, where the prefix _pk_id is followed by a short series of numbers and letters, which is believed to be a reference code for the domain setting the cookie.
+www.cityfibre.com
+test
+Adobe Analytics site tracking.
+cityfibre.com
+_ga
+This cookie name is associated with Google Universal Analytics – which is a significant update to Google’s more commonly used analytics service
+This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier
+It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports
+By default it is set to expire after 2 years, although this is customisable by website owners.cityfibre.com_gatThis cookie name is associated with Google Universal Analytics, according to documentation it is used to throttle the request rate – limiting the collection of data on high traffic sites
+It expires after 10 minutes.
+www.cityfibre.com
+_pk_ses*
+This cookie name is associated with the Piwik open source web analytics platform
+It is used to help website owners track visitor behaviour and measure site performance
+It is a pattern type cookie, where the prefix _pk_ses is followed by a short series of numbers and letters, which is believed to be a reference code for the domain setting the cookie.cityfibre.com
+_gid
+This cookie name is associated with Google Universal Analytics
+This appears to be a new cookie and as of Spring 2017 no information is available from Google
+It appears to store and update a unique value for each page visited.
+www.google-analytics.com
+google_cid
+www.mouseflow.com
+mf_[website-id]
+The cookie contains information about the current session, but does not contain any information that can identify the visitor
+The cookie is deleted when the session ends, meaning when the user leaves the website
+(Mouseflow is an analytics tool that provides browser session details, including session replays, heatmaps, page visits, location (city/country), and similar meta data
+For more information and to opt-out visit https://mouseflow.com/gdpr)
+www.mouseflow.com
+mf_user
+This cookie establishes whether the user is a returning or first time visitor
+This is done simply by a yes/no toggle – no further information about the user is stored
+The cookie has a lifetime of 90 days
+(Mouseflow is an analytics tool that provides browser session details, including session replays, heatmaps, page visits, location (city/country), and similar meta data
+For more information and to opt-out visit https://mouseflow.com/gdpr)
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation
+They may be set by us or by third party providers whose services we have added to our pages
+If you do not allow these cookies then some or all of these services may not function properly.
+Host
+Cookie Name
+Description
+www.cityfibre.com
+_pk_ref.4.53b8
+orders.cityfibre.com
+order_portal_
+sessionenta.net
+_gat
+This cookie name is associated with Google Universal Analytics, according to documentation it is used to throttle the request rate – limiting the collection of data on high traffic sites
+It expires after 10 minutes.
+bootstrapcdn.com
+__cfduid
+Cookie associated with sites using CloudFlare, used to speed up page load times
+According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from
+It does not contain any user identification information.
+enta.net
+_ga
+This cookie name is associated with Google Universal Analytics – which is a significant update to Google’s more commonly used analytics service
+This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier
+It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports
+By default it is set to expire after 2 years, although this is customisable by website owners.
+enta.net
+_gid
+This cookie name is associated with Google Universal Analytics
+This appears to be a new cookie and as of Spring 2017 no information is available from Google
+It appears to store and update a unique value for each page visited.
+fonts.net
+__cfduid
+Cookie associated with sites using CloudFlare, used to speed up page load times
+According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from
+It does not contain any user identification information.
+Targeting Cookies
+These cookies may be set through our site by our advertising partners
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device
+If you do not allow these cookies, you will experience less targeted advertising.
+Host
+Cookie Name
+Description
+cityfibre.com
+_fbp
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+wholesale.cityfibre.com
+visitor_id135281-hash
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+info.cityfibre.com
+visitor_id135281-hash
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+info.cityfibre.com
+pardot
+Cookie name associated with services from marketing automation and lead generation platform Pardot.info.
+cityfibre.com
+visitor_id#####
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+wholesale.cityfibre.com
+visitor_id#####
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+slideshare.net
+__utma
+This is one of the four main cookies set by the Google Analytics service which enables website owners to track visitor behaviour and measure site performance
+This cookie lasts for 2 years by default and distinguishes between users and sessions
+It it used to calculate new and returning visitor statistics
+The cookie is updated every time data is sent to Google Analytics
+The lifespan of the cookie can be customised by website owners.
+slideshare.net
+__utmt
+This cookie is set by Google Analytics
+According to their documentation it is used to throttle the request rate for the service – limiting the collection of data on high traffic sites
+It expires after 10 minutes
+linkedin.com
+lidc
+This is a Microsoft MSN 1st party cookie that ensures the proper functioning of this website.
+twitter.com
+personalization_id
+This domain is owned by Twitter
+The main business activity is: Social Networking Services
+Where twitter acts as a third party host, it collects data through a range of plug-ins and integrations, that is primarily used for tracking and targeting.
+pardot.com
+visitor_id48832-hash
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+pardot.com
+visitor_id#####
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+slideshare.net
+__utmb
+This is one of the four main cookies set by the Google Analytics service which enables website owners to track visitor behaviour and measure site performance
+This cookie determines new sessions and visits and expires after 30 minutes
+The cookie is updated every time data is sent to Google Analytics
+Any activity by a user within the 30 minute life span will count as a single visit, even if the user leaves and then returns to the site
+A return after 30 minutes will count as a new visit, but a returning visitor.
+linkedin.com
+UserMatchHistory
+This cookie is used to track visitors so that more relevant ads can be presented based on the visitor’s preferences.
+scorecardresearch.com
+UID
+This cookie provides a uniquely assigned, machine-generated user ID and gathers data about activity on the website
+This data may be sent to a 3rd party for analysis and reporting.
+youtube.com
+CONSENT
+This cookie carries out information about how the end user uses the website and any advertising that the end user may have seen before visiting the said website.
+addtoany.com
+__cfduid
+Cookie associated with sites using CloudFlare, used to speed up page load times
+According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from
+It does not contain any user identification information.
+hscta.net
+__cfduid
+Cookie associated with sites using CloudFlare, used to speed up page load times
+According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from
+It does not contain any user identification information.
+linkedin.com
+bcookie
+This is a Microsoft MSN 1st party cookie for sharing the content of the website via social media.
+facebook.com
+frpi.pardot.com
+visitor_id135281-hash
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+ads.linkedin.com
+lang
+There are many different types of cookies associated with this name, and a more detailed look at how it is used on a particular website is generally recommended
+However, in most cases it will likely be used to store language preferences, potentially to serve up content in the stored language.
+slideshare.net
+__utmc
+This is one of the four main cookies set by the Google Analytics service which enables website owners to track visitor behaviour and measure site performance
+It is not used in most sites but is set to enable interoperability with the older version of Google Analytics code known as Urchin
+In this older versions this was used in combination with the __utmb cookie to identify new sessions/visits for returning visitors.When used by Google Analytics this is always a Session cookie which is destroyed when the user closes their browser
+Where it is seen as a Persistent cookie it is therefore likely to be a different technology setting the cookie.
+slideshare.net
+_uv_id
+youtube.com
+VISITOR_INFO1_LIVE
+This cookie is set by Youtube to keep track of user preferences for Youtube videos embedded in sites;it can also determine whether the website visitor is using the new or old version of the Youtube interface.
+doubleclick.net
+test_cookie
+This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor’s browser supports cookies.
+pi.pardot.com
+visitor_id#####
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+pardot.com
+visitor_id135281-hash
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+linkedin.com
+AnalyticsSyncHistory
+www.facebook.com
+www.linkedin.com
+bscookie
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+hubspot.com
+__cfduid
+Cookie associated with sites using CloudFlare, used to speed up page load times
+According to CloudFlare it is used to override any security restrictions based on the IP address the visitor is coming from
+It does not contain any user identification information.
+youtube.com
+YSC
+linkedin.com
+lang
+There are many different types of cookies associated with this name, and a more detailed look at how it is used on a particular website is generally recommended
+However, in most cases it will likely be used to store language preferences, potentially to serve up content in the stored language.
+go.pardot.com
+visitor_id135281-hash
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+go.pardot.com
+pardot
+Cookie name associated with services from marketing automation and lead generation platform Pardot.
+www.slideshare.net
+language
+There are many different types of cookies associated with this name, and a more detailed look at how it is used on a particular website is generally recommended
+However, in most cases it will likely be used to store language preferences, potentially to serve up content in the stored language
+The ICC category given here is based on this usage.
+pi.pardot.com
+lpv135281
+cityfibre.cnddtid.com
+mtc_sid
+get.enta.net
+visitor_id#####
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+pi.pardot.com
+pardot
+Cookie name associated with services from marketing automation and lead generation platform Pardot.
+cityfibre.cnddtid.com
+mtc_id
+cityfibre.cnddtid.com
+mautic_referer_id
+cityfibre.cnddtid.com
+lhl8wzj30xfl6eynvhvq9qwget
+.enta.net
+pardot
+Cookie name associated with services from marketing automation and lead generation platform Pardot.
+cityfibre.cnddtid.com
+3nc0lh1lmxpivzqxoen1imk
+cityfibre.cnddtid.com
+7o3mqaees21zz1slnbnmd49
+cityfibre.cnddtid.com
+7121597302b4c57398e4e118402fa66a
+cityfibre.cnddtid.com
+rk4xqiv6zdo1j2j8q127mnv
+slideshare.net
+__utmz
+This is one of the four main cookies set by the Google Analytics service which enables website owners to track visitor behaviour measure of site performance
+This cookie identifies the source of traffic to the site – so Google Analytics can tell site owners where visitors came from when arriving on the site
+The cookie has a life span of 6 months and is updated every time data is sent to Google Analytics.
+cityfibre.cnddtid.com
+mautic_session_id
+cityfibre.cnddtid.com
+j7vzvv9wp9ex7vymasl2xmr
+cityfibre.cnddtid.com
+mautic_device_id
+go.pardot.com
+visitor_id48832-hash
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+go.pardot.com
+visitor_id#####
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+get.enta.net
+visitor_id135281-hash
+This is a cookie pattern that appends a unique identifier for a website visitor, used for tracking purposes
+The cookies in this domain have a lifespan of 10 years.
+If you have any questions about this cookie policy or our treatment of your personal data, please contact us:
+CityFibre Infrastructure Holdings plc.info@cityfibre.com0800 298 626715 Bedford StreetLondonWC2E 9HE
+Follow Us
+Top links
+News
+Careers
+About Us
+Help
+Modern Slavery Statement
+Privacy Statement
+Cookie Policy
+Press & Media
+Contact Us
+CityFibre Holdings Limited
+Registered in England at:
+15 Bedford Street, London
+WC2E 9HE
+Company number: 07488363
+VAT No.: 170394117
+Contact Us
+CityFibre Holdings Limited
+Registered in England at:
+15 Bedford Street, London
+WC2E 9HE
+Company number: 07488363
+VAT No.: 170394117
+If you have any queries or complaints regarding construction, please call 0800 083 6160 or
+fill in our online form.
+For service incidents and emergencies, please contact 0800 298 6267.
+Follow Us
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyse site usage, and assist in our marketing efforts
+For more detailed information about the Cookie Policy, click here.Accept All CookiesCookies SettingsPrivacy Preference CenterWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies
+This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to
+The information does not usually directly identify you, but it can give you a more personalised web experience
+Because we respect your right to privacy, you can choose not to allow some types of cookies
+Click on the different category headings to find out more and change our default settings
+However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+For more detailed information about the Cookie Policy, click here.Allow All Manage Consent PreferencesStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work
+These cookies do not store any personally identifiable information.Performance Cookies  Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site
+They help us to know which pages are the most and least popular and see how visitors move around the site
+All information these cookies collect is aggregated and therefore anonymous
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Functional Cookies  Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation
+They may be set by us or by third party providers whose services we have added to our pages
+If you do not allow these cookies then some or all of these services may not function properly.Targeting Cookies  Targeting Cookies These cookies may be set through our site by our advertising partners
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device
+If you do not allow these cookies, you will experience less targeted advertising.Back ButtonPerformance Cookies  Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label label Confirm My Choices

@@ -1,0 +1,96 @@
+Cookie Policy
+NEWS
+Released Amazing Template for Phoca Cart
+Learn More ...
+Home
+Extensions
+Back
+Components
+Phoca GalleryThemesPhoca DownloadPhoca CartPhoca Cart ExtensionsPhoca Restaurant MenuPhoca GuestbookPhoca PhotoPhoca MapsPhoca PDFPhoca PDF PluginsPhoca PDF FontsPhoca CommanderPhoca DocumentationPhoca FaviconPhoca PanoramaPhoca EmailPhoca FontPhoca Font PluginPhoca Font - FontsPhoca TemplatePhoca Template FrameworkPhoca InstallPhoca SEF
+Back
+Modules
+Phoca Cart Filter ModulePhoca Cart Product ModulePhoca Cart Category ModulePhoca Cart Currency ModulePhoca Cart Compare ModulePhoca Cart Cart ModulePhoca Cart Search ModulePhoca Cart Wish List ModulePhoca Cart Brands ModulePhoca Cart Product Scroller ModulePhoca Cart Mega Menu Content ModulePhoca Cart Sales Countdown Timer ModulePhoca Facebook Comments ModulePhoca Email Newsletter ModulePhoca Panorama ModuleVirtueMart Category List ModulePhoca VirtueMart Category ModulePhoca VirtueMart Category dTree ModulePhoca - Productbook ModulePhoca - TOPlist StatisticsPhoca Guestbook Latest Entries ModulePhoca - Google AdSense EasyPhoca Gallery Image ModulePhoca Gallery Slideshow Skitter ModulePhoca Gallery Tree ModulePhoca Gallery Menu ModulePhoca Gallery Slideshow Noob ModulePhoca Gallery Slideshow bxSlider ModulePhoca Gallery Slideshow Floom ModulePhoca Gallery Slideshow Nivo ModulePhoca Documentation Section Menu ModulePhoca Documentation Category ModulePhoca Download Section Menu ModulePhoca Download Statistics ModulePhoca Download Chart Statistics ModulePhoca Download Tree ModulePhoca Download File ModulePhoca Carousel ModulePhoca Top Menu ModulePhoca Particles ModulePhoca Cart SVG Scheme Module
+Back
+Plugins
+Phoca Open Graph PluginPhoca Open Graph System PluginPhoca Gallery PluginPhoca Gallery Slideshow PluginPhoca Gallery Search PluginPhoca Gallery Button PluginPhoca Gallery Simple PluginPhoca Gallery Finder PluginPhoca Documentation Navigation PluginPhoca Download PluginPhoca Download Button PluginPhoca Download Search PluginPhoca Download Finder PluginPhoca Maps PluginPhoca Photo Content PluginPhoca Upgrade System PluginPhoca Site PluginPhoca Filter Options System PluginPhoca International Alias PluginPhoca Czech Alias PluginPhoca Desktop System PluginPhoca Collapse System Plugin
+Templates
+Documentation
+Download
+Demo
+Back
+Joomla! 4 Demo
+Templates Demo
+Restaurant Menu Demo
+Wallpapers Demo
+Stock Photos
+Joomla! 2.5 Demo
+Joomla! 3 Demo
+Phoca And VirtueMart Demo
+Phoca Cart Demo
+Phoca Cart Joomla 4 Demo
+Phoca Cart Demo (Gantry5)
+Phoca Cart Demo (Astroid)
+Joomla! Templates Directory
+News
+Blog
+Forum
+Phoca Extensions
+Powerful extensions for Joomla! CMS
+Cookie Policy
+IntroductionWe take your right to privacy seriously and want you to feel comfortable using our web site
+This Privacy Policy deals with personally identifiable information that may be collected by us on our site.Types of information we collectPersonal Data: This is data that identifies you or can be used to identify or contact you and may include your name, address, email address
+Such information is only collected from you if you voluntarily submit it to us.Non-Personal Data: Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website
+This Non-Personal Data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example, user IP addresses where they have been clipped or anonymized, browser types and other anonymous statistical data involving the use of our website.Use of dataNo information submitted by a you will be shared, sold, reused in lists, or be used for any other purpose than to complete a transaction or address a customer service concern.CookiesA cookie is a piece of data stored on the user’s computer tied to information about the user
+Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings but we have no access to or control over these cookies.
+Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement
+However, the companies serving the advertising do not have access to our cookies
+These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
+This site uses cookies from Google to deliver its services and to analyze traffic
+Your IP address and user-agent are shared with Google along with performance and security metrics to ensure quality of service, generate usage statistics, and to detect and address abuse
+Learn more.External linksWhen you click on a link on this web site that takes you to a web site operated by another company, you will be subjected to that company's web site privacy policies.
+See Privacy Policy (GDPR)
+Phoca Forum - Latest Topics
+Error after update Joomla 3.10.11 to 4.2.3 on 13 Nov 2022 00:25 by BennoCan't upload in the FE on 13 Nov 2022 00:24 by BennoPost-processing after update to Joomla!4 on 12 Nov 2022 22:53 by TzaIS[mod_phocagallery_image] Class "JRequest" not found on 12 Nov 2022 17:57 by BennoSuddenly filenames are overlaying category views on 12 Nov 2022 13:31 by SunnyWebD
+Latest News and Articles
+Phoca Gallery Finder Plugins (Smart Search Plugins Ready for Joomla 4) Released
+Phoca Gallery Version 4.5.2 (Joomla 4) Released
+Phoca Cart Console Plugin Version 4.0.0 Released
+Phoca Guestbook 4.0.2 Stable Released
+Phoca Download Version 4.0.4 Released
+100+ GitHub ProjectsArctic Code Vault Contributor12 Million+  Downloads70 000+  Answered Questions1 900+  Planted Trees
+Phoca News
+Phoca Latest Files
+Misc
+Joomla! Framework APIPhoca Cart APIPhoca Gallery APIPhoca Download APIColor Scheme GeneratorCSS FlagsFlag IconsWallpapersNewsletterSupportDevelopmentPhoca Team
+Documentation
+Documentation
+Phoca Gallery documentation
+Phoca Download documentation
+Phoca Cart documentation
+Phoca Restaurant Menu documentation
+Download
+Download site
+Phoca Gallery download
+Phoca Gallery themes download
+Phoca Download download
+Phoca Cart download
+Phoca templates download
+Demo
+Extension demo (Joomla! 3.5)
+Extension demo (Joomla! 2.5)
+Extension demo (Joomla! 1.5)
+E-commerce demo (Joomla! 3.5)
+Templates demo (Joomla! 1.5)
+Wallpapers demo
+Stock photo demo
+Restaurant Menu demo
+Subscribe to our newsletter
+©
+Phoca
+2022
+Powered by Phoca
+Phoca and this site is not affiliated with or endorsed by The Joomla! Project™
+Any products and services provided through this site are not supported or warrantied by The Joomla! Project or Open Source Matters, Inc
+Use of the Joomla!® name, symbol, logo and related trademarks is permitted under a limited license granted by Open Source Matters, Inc.
+PhocaDocumentationDownloadForumNewsCookie PolicyPrivacy Policy (GDPR)Contact
+Cookie Settings

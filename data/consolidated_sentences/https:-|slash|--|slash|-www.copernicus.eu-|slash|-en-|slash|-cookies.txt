@@ -1,0 +1,362 @@
+Cookies | Copernicus
+Skip to main content
+About Copernicus
+Copernicus Services
+Copernicus Services
+Opportunities
+Grants and Public Procurements
+Calls, competitions and prizes
+For public authorities
+Framework partnership Agreement
+Copernicus Relays
+For Start-ups
+For education
+Access to Data
+Copernicus services catalogue
+Conventional Data Access Hubs
+Data and Information Access Services
+Copyright and licenses
+Library
+Use cases
+Media
+Events
+Events
+Info sessions
+Live stream
+News
+Contact
+|
+Log in
+You must have JavaScript enabled to use this form.
+Support section will be available soon.
+Username
+Username is required.
+Password
+Password is required.
+Forgot your password?
+OK
+English
+Toggle language modal
+OK
+#EUSpace
+Media
+Events
+Events
+Info sessions
+Live stream
+News
+Contact
+|
+Log in
+You must have JavaScript enabled to use this form.
+Support section will be available soon.
+Username
+Username is required.
+Password
+Password is required.
+Forgot your password?
+OK
+English
+Toggle language modal
+Close
+Select your language
+EnglishEspañolFrançaisBulgarianCroatianCzechDanishDutchEstonianFinnishDeutschGreekHungarianIrishItalianoLatvianLithuanianPolishPortuguese, PortugalRomanianSlovakSlovenianSwedishMaltese
+OK
+About Copernicus
+Copernicus Services
+Copernicus Services
+Opportunities
+Grants and Public Procurements
+Calls, competitions and prizes
+For public authorities
+Framework partnership Agreement
+Copernicus Relays
+For Start-ups
+For education
+Access to Data
+Copernicus services catalogue
+Conventional Data Access Hubs
+Data and Information Access Services
+Copyright and licenses
+Library
+Use cases
+Hurricane Nicole hit FloridaLocation: USACredit:  European Union, Copernicus Sentinel-3  imageryMore info
+You are here:
+Home
+View image information & credits
+Cookies
+Cookies
+What are cookies?
+A cookie is a small text file that a website stores on your computer or mobile device when you visit the site.
+First party cookies are cookies set by the website you’re visiting
+Only that website can read them
+In addition, a website might potentially use external services, which also set their own cookies, known as third-party cookies.
+Persistent cookies are cookies saved on your computer and that are not deleted automatically when you quit your browser, unlike a session cookie, which is deleted when you quit your browser.
+Every time you visit the Copernicus website, you will be invited to accept or refuse cookies
+You also have the option to give your preferences regarding the use and type of cookies stored in your browser for a certain period of time
+That way you don’t have to re-enter them when browsing around the site during the same visit.
+Cookies can also be used to establish anonymised statistics about the browsing experience on our site.
+Some of our pages display content from external providers, e.g
+YouTube, Facebook, Instagram and Twitter
+To view this third-party content, you first have to accept their specific terms and conditions
+This includes their cookie policies, which we have no control over
+But if you do not view this content, no third-party cookies are installed on your device
+These third-party services are outside of the control of the Commission
+Providers may, at any time, change their terms of service, purpose and use of cookies, etc.
+In order to view such third-party content on our websites, a message will alert you that you need to accept those third parties’ specific terms and conditions, including their cookie policies, over which the Commission has no control
+In the event that one or more third party IT tools are occasionally unavailable, we accept no responsibility for lack of service due to their downtime.
+We recommend that users read the relevant privacy policies of Twitter, Instagram, YouTube and Facebook.
+How do we use cookies
+The 2 types of first-party cookie we use are to:
+store visitor preferences
+make our websites operational
+Strictly necessary (visitor preferences)
+These are set by us and only we can read them
+They remember:
+if you have agreed to (or refused) this site’s cookie policy.
+server access activities from clients for security and performance reasons.
+They are necessary for the website proper function and cannot be switched off in our system.
+Name
+Service
+Purpose
+Cookie type and duration
+cookie_agreed
+Drupal module EU Cookie Compliance
+Stores your cookie preferences (so you won’t be asked again)
+First-party session cookie deleted after you quit your browser
+Cookie-agreed-categories
+Drupal module EU Cookie Compliance
+Stores your cookie preferences (so you won’t be asked again)
+First-party session cookie deleted after you quit your browser
+JSESSIONID
+New Relic: Server monitoring tool
+Allows for monitoring access to the website for security reasons
+First-party session cookie deleted after you quit your browser
+Performance (Analytics cookie)
+We use these purely for internal research on how we can improve the service we provide for all our users.
+The cookies simply assess how you interact with our website – as an anonymous user (the data gathered does not identify you personally).
+Also, this data is not shared with any third parties or used for any other purpose
+The anonymised statistics are shared with the contractors working on the Copernicus project under contractual agreement with the Commission.
+However, you are free to refuse these types of cookies via the cookie banner you will see on the first page you visit.
+Name
+Service
+Purpose
+Cookie type and duration
+_pk_id*
+Matomo
+This cookie is installed by Matomo
+The cookie is used to store a unique user ID,  keep track of site usage for the site's analytics report
+The cookies store information anonymously and assigns a randomly generated number to identify unique visitors.
+First-party persistent cookie, 13 months
+_pk_ses*
+Matomo
+This cookie is installed by Matomo
+The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing
+The data collected including the number visitors, the source where they have come from, and the pages visited in an anonymous form.
+First-party session cookie, 30min
+Functional (Newsletter)
+Accepting functional cookies allows us to provide you with enhanced functionalities like Newsletter registration.
+Your personal data is stored on GETResponse servers, a European email marketing platform that fully complies with the European regulations (GDPR)
+See their Privacy policy here.
+However, you are free to refuse these types of cookies via the cookie banner you’ll see on the first page you visit.
+Name
+Service
+Purpose
+Cookie type and duration
+webformv2_opened_(ID)
+GET Response marketing platform
+information that form was displayed in that browser, to prevent subsequent counting - this gives us a counter of unique visits which is displayed in form statistics.
+Third-party persistent cookie, 3 months
+core
+GET Response marketing platform
+informs that this is a standard GetResponse account
+Third-party session cookie deleted after you quit your browser
+gr83p_59db3877322f17e6c0092c106bdf75dd
+GET Response marketing platform
+Uncategorised cookie
+Third-party persistent cookie, 1 months
+timeout
+GET Response marketing platform
+Length of the session
+Third-party persistent cookie, 12 hours
+Matomo analytics
+The use of a third-party IT tool does not in any way imply that the European Commission endorses them or their privacy policies
+In the event that one or more third party IT tools are occasionally unavailable, we accept no responsibility for lack of service due to their downtime.
+Copernicus website uses Matomo Analytics
+Matomo Analytics is a web analytics service self-hosted by the Copernicus website contractor
+Its purpose is to analyse the traffic on our website
+We use the collected data and information, inter alia, to evaluate the use of our website and to provide online reports, which show the activities on our websites.
+The IP addresses of visitors are anonymised by the Copernicus website prior to their storage in the Matomo self-hosted database
+this protects the anonymity of the visitors that have opted for the full website functionalities
+Consequently, such data is stored on the website’s contractor servers located in the European Union.
+The self-hosted version of Matomo Analytics has a retention control feature
+This feature provides website owners with the flexibility to define a retention period for the data stored within the database.
+Copernicus has opted for a retention period of 26 months
+any data beyond this period is deleted from Google servers.
+Do not track option
+Do Not Track is a technology that enables visitors to opt out from being tracked by websites for whatever purpose, including the use of analytics services, advertising networks and social platforms
+You can enable the 'Do not track' option directly in your web browser
+Google Analytics will not track users who have enabled this option in their web browsers.
+Third party cookies
+Third party cookies are envisaged to be applied when browsing the copernicus.eu website
+In particular, the implementation of the Zendesk Web Widget provided by Zendesk, Inc
+allows to improve the user-experience of the copernicus.eu website
+You can check Zendesk Inc
+privacy policy here.
+Nevertheless, it is worth to highlight that Zendesk in-product cookies are present
+Here below the list of in-product cookies foreseen with the implementation of such product.
+Name
+Service
+Purpose
+Cookie type and duration
+_pendo_meta.PENDO_API_KEY
+All products / Developer Portal
+Analytics information
+Analytics, 100 days
+_pendo_accountId.PENDO_API_KEY
+All products/ Developer Portal
+Analytics information
+Analytics, 100 days
+_pendo_visitorId.PENDO_API_KEY
+All products/ Developer Portal
+Analytics information
+Analytics, 100 days
+_pendo_launcher-closed.PENDO_API_KEY
+All products/
+Developer Portal
+Analytics information
+Analytics, 10 days
+_cf_bm
+All products
+This Cloudflare cookie helps manage incoming traffic that matches criteria associated with bots.
+Essential, 30 days
+_cfruid
+All products
+Cloudflare cookie used in cases where multiple users are hidden behind the same client IP address
+Each user will have a unique cookie to help prevent a case of rate limiting all users if one particular user hits the rate limit threshold.
+Essential, Session
+_cfduid
+All products
+Cloudflare cookie used for security restrictions.
+Essential, 30 days
+In addition to the above, the Web – widget in-product cookies are the following:
+Name
+Service
+Purpose
+Cookie type and duration
+ZD-referrerPolicy
+Web Widget
+Stores referrer tags.
+Essential, Forever (unless purged through normal browser activity)
+ZD-zE_oauth
+Web Widget
+Stores the authentication token once the user has been authenticated.
+Essential, 2 hour
+ZD-currentTime
+Web Widget
+Sets the time when page loads.
+Analytics, Forever
+ZD-settings
+Web Widget
+Stores a hash of settings so that we don't keep sending blips after the initial one
+Analytics, Forever
+ZD-suid
+Web Widget
+Session id for pathfinder.
+Analytics, 20 minutes
+ZD-buid
+Web Widget
+Collects Machine ID.
+Analytics, Forever
+ZD-store
+Web Widget
+Ensures consistent presentation of the Web Widget when an End-User navigates to a new web page.
+Functionality, Forever
+Moreover, together with the content present in the Copernicus.eu website, the web-widget leverages the Frequently Asked Questions hosted on Zendesk Guide: these represent the knowledge base from which the web widget provides information according to the user queries
+Hence, the following in-product cookies are envisaged:
+Name
+Service
+Purpose
+Cookie type and duration
+_help_center_session
+Guide
+Stores unique session key for Help Center product.
+Essential, Session
+_zendesk_authenticated
+Guide
+Stores a binary variable determining whether the user is authenticated.
+Essential, Session
+_zendesk_session
+Guide
+Stores unique session key for Zendesk Classic application.
+Essential, Session
+_zendesk_shared_session
+Guide
+Stores a unique session key for a session shared across Zendesk Products.
+Essential, 1 day
+_zendesk_cookie
+Guide
+Stores settings information for various features.
+Functionality, 20 years
+_embeddable_server_session
+Guide
+Unique session key for the Zendesk embeddable web widget.
+Essential, Session
+_theming_center_session
+Guide
+Stores unique session key for Theming Center's Guide functionality.
+Essential, Session
+hc-{user_identifier}-preview
+Guide
+Stores Help Center Theme preview data
+It is removed once preview mode is closed.
+Functionality, 1 day
+hc-{user_identifier}-nbmin
+Guide
+Stores if the agent navbar in help center is minimized.
+Functionality, 7 days
+hc-{user_identifier}-pbmin
+Guide
+Stores if the preview navbar in help center is minimized.
+Functionality, 7 days
+_ZD-automaticAnswers
+Guide
+Stores Zendesk account ID to allow for future Answer Bot interactions
+Functionality, 1 day
+More information on the exhaustive list of cookies related to all of the Zendesk products are available here.
+How can you manage cookies
+You can manage/delete cookies as you wish - for details, see www.aboutcookies.org .
+Removing cookies from your device: You can delete all cookies that are already on your device by clearing the browsing history of your browser
+This will remove all cookies from all websites you have visited.
+Be aware though that you may also lose some saved information (e.g., saved login details, site preferences).
+Managing site-specific cookies: For more detailed control over site-specific cookies, check the privacy and cookie settings in your preferred browser
+Blocking cookies: You can set most modern browsers to prevent any cookies being placed on your device, but you may then have to manually adjust some preferences every time you visit a site/page
+And some services and functionalities may not work properly at all (e.g., profile logging-in).
+On the www.copernicus.eu website, you can either accept all cookies or opt-out from performance cookies and functional cookies
+If you want to keep navigating on the website however, you will need to accept the strictly necessary cookies.
+Copernicus Services
+Atmosphere
+Marine
+Land
+Climate Change
+Security
+Emergency
+Connect with us:
+Copernicus
+Copernicus is the European Union's Earth Observation Programme, looking at our planet and its environment for the benefit of Europe’s citizens.
+Privacy Policy
+Cookies
+Privacy settings
+We use cookies on this site to enhance your user experience
+Strictly necessary
+Necessary for the website to properly function and cannot be switched off in our system
+Performance
+Allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+Functional
+Enable the website to provide enhanced functionality and personalisation
+Save preferences
+Accept all cookies
+Withdraw consent
+Close
+Select your language
+EnglishEspañolFrançaisBulgarianCroatianCzechDanishDutchEstonianFinnishDeutschGreekHungarianIrishItalianoLatvianLithuanianPolishPortuguese, PortugalRomanianSlovakSlovenianSwedishMaltese

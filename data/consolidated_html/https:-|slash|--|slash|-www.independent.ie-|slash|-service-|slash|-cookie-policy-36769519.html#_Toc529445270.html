@@ -1,0 +1,2436 @@
+<!DOCTYPE html><html lang="en" js="" r5s="" class=" chrome chrome" initial="" ready="" data-whatinput="initial" data-whatintent="initial" style="--vw:12.8px; --vh:7.2px;"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+        <meta name="google-signin-client_id" content="726696172496-90eva72em9kilt5siidtbppm234tq0sh.apps.googleusercontent.com">
+        
+    <style> .webpush-window-body { height: 100%; min-height: 100%; padding: 0; margin: 0;}#webpush-window { position: absolute; text-align: center; width: 100%; left: 0; top: 50%; opacity: 0;}#webpush-window-image { height: 128px; margin-bottom: 10px;}#webpush-window-title { font-size: 22px; padding: 0 5px;}#webpush-window-text { color: #333333; margin-top: 15px; padding: 0 5px; line-height: 22px;}#webpush-custom-prompt { position: fixed; z-index: 9999999; width: 320px; max-width: 100%; padding: 10px; top: 0; left: 50%; margin-left: -170px; background-color: rgb(231,232,233); box-shadow: 0px 0px 6px #888888; color: #000000; font-family: 'Trebuchet MS', Helvetica, sans-serif;}#webpush-custom-prompt-image { width: 64px; position: absolute; top: 15px; left: 15px;}#webpush-custom-prompt-title { margin-left: 90px; margin-top: 4px; font-size: 13px; font-weight: bold; line-height: 18px;}#webpush-custom-prompt-text { font-size: 10px; margin-left: 90px; margin-top: 5px; line-height: 15px;}#webpush-custom-prompt-buttons { padding-top: 10px; padding-right: 10px; padding-bottom: 10px; float: right;}#webpush-custom-prompt-button1 { background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6)); background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%); background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%); background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%); background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%); background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%); filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0); background-color:#ffffff; -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px; border:1px solid #dcdcdc; display:inline-block; color:#666666; font-size:12px; padding:4px 24px; margin-right: 6px; cursor: default;}#webpush-custom-prompt-button2 { background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #33bdef), color-stop(1, #019ad2)); background:-moz-linear-gradient(top, #33bdef 5%, #019ad2 100%); background:-webkit-linear-gradient(top, #33bdef 5%, #019ad2 100%); background:-o-linear-gradient(top, #33bdef 5%, #019ad2 100%); background:-ms-linear-gradient(top, #33bdef 5%, #019ad2 100%); background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%); filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#33bdef', endColorstr='#019ad2',GradientType=0); background-color:#33bdef; -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px; border:1px solid #057fd0; display:inline-block; color:#ffffff; font-size:12px; padding:4px 24px; cursor: default;}#webpush-notification-center-open.webpush-notification-center-position-left { left: 16px;}#webpush-notification-center-open.webpush-notification-center-position-right { right: 16px;}#webpush-notification-center { position: fixed; z-index: 9999999; font-family: 'Trebuchet MS', Helvetica, sans-serif; display: none; overflow-y: auto;}#webpush-notification-center.webpush-notification-center-layout-panel { top: 0; bottom: 0; width: 300px; max-width: 90%;}#webpush-notification-center.webpush-notification-center-layout-popup { top: 20px; height: 400px; width: 300px; max-width: 90%; margin-right: 20px; margin-left: 20px;}#webpush-notification-center.webpush-notification-center-position-left { left: 0;}#webpush-notification-center.webpush-notification-center-position-right { right: 0;}#webpush-notification-center.webpush-notification-center-color-light { background: #ffffff; box-shadow: 0px 0px 6px #888888; color: #666666;}#webpush-notification-center.webpush-notification-center-color-dark { background: #555555; box-shadow: 0px 0px 6px #888888; color: #ffffff;}#webpush-notification-center-header { height: 40px; border-bottom: 1px solid #d9d9d9; position: relative;}#webpush-notification-center-subscription { padding: 0 50px 0 8px;}#webpush-notification-center-subscription-switch-container { float: left; padding-top: 15px;}#webpush-notification-center-subscription-status { float: left; font-size: 12px; line-height: 40px; letter-spacing: 0.1em;}#webpush-notification-center-subscription .webpush-onoffswitch { display: inline-block; margin-right: 16px; margin-left: 8px;}#webpush-notification-center-icon { position: absolute; top: 10px; left: 10px; width: 20px; height: 20px; background-repeat: no-repeat; background-position: center center; background-size: 20px 20px;}#webpush-notification-center-title { font-size: 13px; line-height: 40px; letter-spacing: 0.1em; text-align: center;}#webpush-notification-center-close { position: absolute; top: 14px; right: 8px; height: 12px; width: 12px; font-size: 12px; background-repeat: no-repeat; background-position: center center; background-size: 12px 12px; cursor: pointer;}#webpush-notification-center-list { overflow-x: hidden; overflow-y: auto; position: absolute; top: 41px; left: 0; right: 0; bottom: 0;}.webpush-notification-center-item { padding: 8px 8px; position: relative; font-size: 12px; min-height: 48px; cursor: pointer;}.webpush-notification-center-color-light .webpush-notification-center-item { border-bottom: 1px solid #f3f3f3;}.webpush-notification-center-color-dark .webpush-notification-center-item { border-bottom: 1px solid #808080;}.webpush-notification-center-color-light .webpush-notification-center-item:hover { background-color: #f3f3f3;}.webpush-notification-center-color-dark .webpush-notification-center-item:hover { background-color: #808080;}.webpush-notification-center-item-image { width: 48px; height: 48px; float: left;}.webpush-notification-center-item-title { padding-left: 58px; font-weight: bold;}.webpush-notification-center-item-title p { margin: 0px;}.webpush-notification-center-item-text { padding-left: 58px; margin-top: 4px;}.webpush-notification-center-item-text p { margin: 0px;}.webpush-notification-center-item-date { padding-left: 58px; margin-top: 3px; font-size: 11px; color: #b7b7b7;}.webpush-notification-center-item-webinbox-card { padding: 0;}.webpush-notification-center-item-webinbox-card .webpush-notification-center-item-image { width: 100%; height: auto; float: none; margin: 0px; padding: 0px;}.webpush-notification-center-item-webinbox-card .webpush-notification-center-item-title { padding: 5px 7px; font-weight: bold;}.webpush-notification-center-item-webinbox-card .webpush-notification-center-item-text-container { padding: 0px 7px 5px 7px; margin: 0px;}.webpush-notification-center-item-webinbox-card .webpush-notification-center-item-text { padding: 5px 0px 0px 0px; margin-top: 0px;}.webpush-notification-center-item-webinbox-card .webpush-notification-center-item-date { display: none;}#webpush-notification-center-loader { text-align: center; padding: 8px; height: 15px;}#webpush-notification-center-title-loader { text-align: center; padding-top: 14px; height: 40px;}#webpush-notification-center-placeholder { font-size: 12px; line-height: 30px; padding: 5px 16px;}#webpush-notification-center-load-more { font-size: 12px; line-height: 30px; text-align: center; cursor: pointer;}.webpush-notification-center-color-light #webpush-notification-center-load-more { border-bottom: 1px solid #f3f3f3;}.webpush-notification-center-color-dark #webpush-notification-center-load-more { border-bottom: 1px solid #808080;}.webpush-notification-center-color-light #webpush-notification-center-load-more:hover { background-color: #f3f3f3;}.webpush-notification-center-color-dark #webpush-notification-center-load-more:hover { background-color: #808080;}#webpush-notification-center-open { position: fixed; z-index: 9999999; top: 20px; height: 60px; width: 60px; border-radius: 50%; cursor: pointer; text-align: center; line-height: 60px; background-size: 30px 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.16), 0 2px 4px rgba(0,0,0,0.2); transition: 0.7s ease;}#webpush-notification-center-open:hover { box-shadow: 0 7px 14px rgba(0,0,0,0.16), 0 5px 10px rgba(0,0,0,0.2); transition: 0.7s ease; transform-origin: center;}#webpush-notification-center-open[badge-count]:after { position: absolute; right: -3px; top: -3px; content: attr(badge-count); font-size: 12px; padding: 5px; border-radius: 50%; line-height: 12px; color: #ffffff; background: #ed1c25; text-align: center; min-width: 12px; font-weight: bold;}#webpush-notification-center-open.webpush-notification-center-color-light { background-color: #1d87c8;}#webpush-notification-center-open.webpush-notification-center-color-light:hover { background-color: #2298e1;}#webpush-notification-center-open.webpush-notification-center-color-dark { background-color: #555555;}#webpush-notification-center-open.webpush-notification-center-color-dark:hover { background-color: #5a606e;}#webpush-notification-center-open.webpush-notification-center-color-custom { background-color: #1d87c8;}#webpush-notification-center-open.webpush-notification-center-color-custom:hover { background-color: #2298e1;}#webpush-local-notification-stack { position: fixed; top: 20px; right: 20px; z-index: 9999999; margin-left: 20px;}.webpush-local-notification { background: #ffffff; max-width: 370px; width: 100%; min-width: 250px; box-shadow: 0px 0px 6px #888888; position: relative; -webkit-transition: opacity 0.2s ease-in-out; -moz-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; -o-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; font-family: 'Trebuchet MS', Helvetica, sans-serif; color: #666666; margin-bottom: 10px; min-height: 80px; cursor: default;}.webpush-local-notification-close { position: absolute; top: 8px; right: 8px; cursor: pointer;}.webpush-local-notification-image { width: 80px; height: 80px; float: left;}.webpush-local-notification-title { padding-left: 95px; padding-top: 10px; padding-right: 35px; font-size: 14px; line-height: 20px; color: #444444;}.webpush-local-notification-text { padding-left: 95px; padding-top: 8px; padding-right: 10px; padding-bottom: 10px; font-size: 13px; line-height: 18px;}.webpush-onoffswitch-container { line-height: 10px;}.webpush-onoffswitch { position: relative; width: 30px; -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;}.webpush-onoffswitch-checkbox { display: none;}.webpush-onoffswitch-label { display: block; overflow: hidden; cursor: pointer; height: 10px; padding: 0; line-height: 10px; border-radius: 16px; background-color: rgba(158,158,158,0.5);}.webpush-onoffswitch-label:before { content: ''; display: block; width: 16px; margin: -3px; background-color: rgb(158,158,158); position: absolute; top: 0; bottom: 0; right: 18px; border-radius: 16px;}.webpush-onoffswitch-checkbox:checked + .webpush-onoffswitch-label { background-color: rgba(47,169,214,0.5);}.webpush-onoffswitch-checkbox:checked + .webpush-onoffswitch-label .webpush-onoffswitch-inner { margin-left: 0;}.webpush-onoffswitch-checkbox:checked + .webpush-onoffswitch-label:before { right: 0; background-color: rgb(47,169,214); box-shadow: none;}.webpush-onoffswitch-tooltip { display: none; position: absolute; min-width: 50px; max-width: 200px; min-height: 16px; max-height: 200px; background: rgba(0, 0, 0, .8); color: #fff; padding: 8px; border-radius: 2px; z-index: 3000; line-height: 16px; font-size: 12px; opacity: 0.9; -webkit-transition: opacity 75ms linear; -moz-transition: opacity 75ms linear; -ms-transition: opacity 75ms linear; transition: opacity 75ms linear; top: 32px; left: 15px;}.webpush-reset { animation: none; animation-delay: 0s; animation-direction: normal; animation-duration: 0s; animation-fill-mode: none; animation-iteration-count: 1; animation-name: none; animation-play-state: running; animation-timing-function: ease; backface-visibility: visible; background: 0; background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position: 0 0; background-position-x: 0; background-position-y: 0; background-repeat: repeat; background-size: auto auto; border: 0; border-style: none; border-width: medium; border-color: inherit; border-bottom: 0; border-bottom-color: inherit; border-bottom-left-radius: 0; border-bottom-right-radius: 0; border-bottom-style: none; border-bottom-width: medium; border-collapse: separate; border-image: none; border-left: 0; border-left-color: inherit; border-left-style: none; border-left-width: medium; border-radius: 0; border-right: 0; border-right-color: inherit; border-right-style: none; border-right-width: medium; border-spacing: 0; border-top: 0; border-top-color: inherit; border-top-left-radius: 0; border-top-right-radius: 0; border-top-style: none; border-top-width: medium; bottom: auto; box-shadow: none; box-sizing: content-box; caption-side: top; clear: none; clip: auto; color: inherit; columns: auto; column-count: auto; column-fill: balance; column-gap: normal; column-rule: medium none currentColor; column-rule-color: currentColor; column-rule-style: none; column-rule-width: 0; column-span: 1; column-width: auto; content: normal; counter-increment: none; counter-reset: none; cursor: auto; direction: ltr; display: inline; empty-cells: show; float: none; /*font: normal;*/ font-family: inherit; font-size: medium; font-style: normal; font-variant: normal; font-weight: normal; height: auto; hyphens: none; left: auto; letter-spacing: normal; line-height: normal; list-style: none; list-style-image: none; list-style-position: outside; list-style-type: disc; margin: 0; margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; max-height: none; max-width: none; min-height: 0; min-width: 0; opacity: 1; orphans: 0; outline: 0; outline-color: invert; outline-style: none; outline-width: medium; overflow: visible; overflow-x: visible; overflow-y: visible; padding: 0; padding-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; page-break-after: auto; page-break-before: auto; page-break-inside: auto; perspective: none; perspective-origin: 50% 50%; position: static; right: auto; tab-size: 8; table-layout: auto; text-align: inherit; text-align-last: auto; text-decoration: none; text-decoration-line: none; text-decoration-style: solid; text-indent: 0; text-shadow: none; text-transform: none; top: auto; transform: none; transform-style: flat; transition: none; transition-delay: 0s; transition-duration: 0s; transition-property: none; transition-timing-function: ease; unicode-bidi: normal; vertical-align: baseline; visibility: visible; white-space: normal; widows: 0; width: auto; word-spacing: normal; z-index: auto;}.webpush-loader { display: inline-block; position: relative; vertical-align: middle; width: 48px; height: 16px;}.webpush-loader div { position: absolute; top: 3px; left: 21px; width: 4px; height: 4px; background-color: #666666; -webkit-border-radius: 2px; border-radius: 2px; background-clip: padding-box; -webkit-animation: growDot 1s linear .15s infinite; -moz-animation: growDot 1s linear .15s infinite; -ms-animation: growDot 1s linear .15s infinite; -o-animation: growDot 1s linear .15s infinite; animation: growDot 1s linear .15s infinite;}.webpush-loader div:before { content: ''; position: absolute; top: 0; left: -15px; width: 4px; height: 4px; background-color: #666666; -webkit-border-radius: 2px; border-radius: 2px; background-clip: padding-box; -webkit-animation: growDot 1s linear 0s infinite; -moz-animation: growDot 1s linear 0s infinite; -ms-animation: growDot 1s linear 0s infinite; -o-animation: growDot 1s linear 0s infinite; animation: growDot 1s linear 0s infinite;}.webpush-loader div:after { content: ''; position: absolute; top: 0; left: 15px; width: 4px; height: 4px; background-color: #666666; -webkit-border-radius: 2px; border-radius: 2px; background-clip: padding-box; -webkit-animation: growDot 1s linear .3s infinite; -moz-animation: growDot 1s linear .3s infinite; -ms-animation: growDot 1s linear .3s infinite; -o-animation: growDot 1s linear .3s infinite; animation: growDot 1s linear .3s infinite;}@-webkit-keyframes growDot { 0% {  -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=70)';  filter: alpha(opacity=70);  opacity: 0.7;  -webkit-box-shadow: 0px 0px 0px 0px #666666;  box-shadow: 0px 0px 0px 0px #666666; } 25% {  -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=100)';  filter: alpha(opacity=100);  opacity: 1;  -webkit-box-shadow: 0px 0px 0px 2px #666666;  box-shadow: 0px 0px 0px 2px #666666; } 50% {  -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=70)';  filter: alpha(opacity=70);  opacity: 0.7;  -webkit-box-shadow: 0px 0px 0px 0px #666666;  box-shadow: 0px 0px 0px 0px #666666; } 100% {  -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';  filter: alpha(opacity=60);  opacity: 0.6;  -webkit-box-shadow: 0px 0px 0px 0px #666666;  box-shadow: 0px 0px 0px 0px #666666; }}@keyframes growDot { 0% {  -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=70)';  filter: alpha(opacity=70);  opacity: 0.7;  -webkit-box-shadow: 0px 0px 0px 0px #666666;  box-shadow: 0px 0px 0px 0px #666666; } 25% {  -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=100)';  filter: alpha(opacity=100);  opacity: 1;  -webkit-box-shadow: 0px 0px 0px 2px #666666;  box-shadow: 0px 0px 0px 2px #666666; } 50% {  -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=70)';  filter: alpha(opacity=70);  opacity: 0.7;  -webkit-box-shadow: 0px 0px 0px 0px #666666;  box-shadow: 0px 0px 0px 0px #666666; } 100% {  -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';  filter: alpha(opacity=60);  opacity: 0.6;  -webkit-box-shadow: 0px 0px 0px 0px #666666;  box-shadow: 0px 0px 0px 0px #666666; }}.webpush-balloon { background-repeat: no-repeat; background-position: center center; background-size: 100% 100%;}.webpush-balloon-light, .webpush-balloon-dark, .webpush-balloon-custom { background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDE1MCAxNTAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxLjQxNDIxOyI+CiAgICA8ZyBpZD0iWE1MSURfNDZfIiB0cmFuc2Zvcm09Im1hdHJpeCgxLjEyOTEyLDAsMCwxLjEyOTEyLDQ3OS43ODgsLTI0Mi4yODIpIj4KICAgICAgICA8cGF0aCBkPSJNLTM1OCwzNDFDLTM1MSwzNDEgLTM0Ni4yLDMzNSAtMzQ2LjIsMzI4TC0zNzAuMywzMjhDLTM3MC4zLDMzNSAtMzY0LDM0MSAtMzU4LDM0MVoiIHN0eWxlPSJmaWxsOndoaXRlO2ZpbGwtcnVsZTpub256ZXJvOyIvPgogICAgPC9nPgogICAgPGcgaWQ9IlhNTElEXzQ3XyIgdHJhbnNmb3JtPSJtYXRyaXgoMS4xMjkxMiwwLDAsMS4xMjkxMiw0NzkuNzg4LC0yNDIuMjgyKSI+CiAgICAgICAgPHBhdGggZD0iTS0zMTguOSwzMDUuOEMtMzE4LjYsMzA1LjggLTMxOCwzMDUuNiAtMzE4LDMwNS4zTC0zMTgsMjczLjhDLTMxOCwyNTQuNyAtMzMyLDIzOC43IC0zNDksMjM0LjdMLTM0OSwyMjkuOEMtMzQ5LDIyNSAtMzUzLjEsMjIxIC0zNTgsMjIxQy0zNjIuOSwyMjEgLTM2NywyMjUgLTM2NywyMjkuOEwtMzY3LDIzNC42Qy0zODUsMjM4LjYgLTM5OCwyNTQuNiAtMzk4LDI3My43TC0zOTgsMzA1LjJDLTM5OCwzMDUuNSAtMzk3LjksMzA1LjcgLTM5Ny42LDMwNS43TC00MTAsMzE3TC00MTAsMzI0TC0zMDcsMzI0TC0zMDcsMzE3TC0zMTguOSwzMDUuOFoiIHN0eWxlPSJmaWxsOndoaXRlO2ZpbGwtcnVsZTpub256ZXJvOyIvPgogICAgPC9nPgo8L3N2Zz4K');}.webpush-clearfix { clear: both;}.webpush-swal2-title p { margin: 0;} </style><script async="" src="https://cdn.insurads.com/bootstrap/MPROLFUG.js"></script><script src="https://shared.mediahuis.be/ka-ching/inm/prebid.js?v=5.20.2"></script><script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script src="https://cdn.cxense.com/cx.js" async=""></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-L79YZR8253&amp;l=dataLayer&amp;cx=c"></script><script src="https://connect.facebook.net/signals/config/1144386333083000?v=2.9.89&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/477781536738240?v=2.9.89&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://src.webpu.sh/PEQKwVUPhGDdX8NaMA5W0ZU5kt3YBOJM/sdk.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://unpkg.com/web-vitals/dist/web-vitals.iife.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KJF4"></script><script id="spcloader" type="text/javascript" async="" src="https://sdk.privacy-center.org/11ef8ac9-6270-4d5e-8b99-8d6a5bd60059/loader.js?target=www.independent.ie" charset="utf-8"></script><script type="text/javascript">
+        window.didomiConfig = {user: {bots: {consentRequired: false}}};
+    </script>
+
+    <script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+    else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+    var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+    if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+    var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("11ef8ac9-6270-4d5e-8b99-8d6a5bd60059")})();</script>
+
+    <script type="text/javascript">
+        window.didomiOnReady = window.didomiOnReady || [];
+        window.didomiOnReady.push(function (Didomi) {
+            console.log('Didomi API is ready.');
+        });
+    </script>
+    
+            <link rel="dns-prefetch preconnect" href="//bidder.criteo.com"><link rel="dns-prefetch preconnect" href=""><link rel="dns-prefetch preconnect" href="https://tlx.3lift.com"><link rel="dns-prefetch preconnect" href="//ib.adnxs.com"><link rel="dns-prefetch preconnect" href="//independentirl-d.openx.net"><link rel="dns-prefetch preconnect" href="//ap.lijit.com/"><link rel="dns-prefetch preconnect" href="https://hbopenbid.pubmatic.com/"><link rel="dns-prefetch preconnect" href="//fastlane.rubiconproject.com"><link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+        <link rel="preconnect" href="https://www.google.ie">
+        <link rel="preconnect" href="https://www.google-analytics.com">
+        <link rel="preconnect" href="https://tpc.googlesyndication.com">
+        <link rel="preconnect" href="https://accounts.eu1.gigya.com">
+        <link rel="preconnect" href="https://www.googletagmanager.com">
+        <link rel="preconnect" href="https://www.google.com">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://gscounters.eu1.gigya.com">
+        <link rel="preconnect" href="https://tcheck.outbrainimg.com">
+        <link rel="preconnect" href="https://socialcallback.independent.ie">
+        <link rel="preconnect" href="https://api.xtremepush.com">
+        <link rel="preconnect" href="https://shared.mediahuis.be">
+  
+                                            <link rel="preload" href="/theme/_base/fonts/22f4a837b1b7d521250e714708ba85f6.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+                                                  <link rel="preload" href="/theme/_base/fonts/87f62b01529b9ff93325a4f2bc372b2b.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+                                                  <link rel="preload" href="/theme/_base/fonts/b7321f6c70dcb185c107f4b32750a0c3.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+                                                  <link rel="preload" href="/theme/_base/fonts/18f45edb7eb8cc5e2b380adaf9f80c09.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+                                                  <link rel="preload" href="/theme/_base/fonts/065a260c5c94e0ac964612b7f73ac62f.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+                                                  <link rel="preload" href="/theme/_base/fonts/4b6794ab394cf172aff836103c4ab2f2.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+                                                  <link rel="preload" href="/theme/_base/fonts/0a74d2c96a4c5ec4e5f57374e2803930.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+                                                  <link rel="preload" href="/theme/_base/fonts/78a721a39bf455e509607d22e97702ad.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+                                                  <link rel="preload" href="/theme/_base/fonts/555eeba9d3f84deb77b627372b9afc58.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+                                                  <link rel="preload" href="/theme/_base/fonts/8e285b3047d3f411a5a09d0ea3c1c252.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+            
+                                                                                                        
+                
+                <link rel="canonical" href="https://www.independent.ie/service/cookie-policy-36769519.html">
+                                <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.independent.ie/service/cookie-policy-36769519.html">
+            
+    <link rel="shortcut icon" href="/theme/_base/images/07d2193fd511344aa861e734cf912ad7.ico" type="image/x-icon">
+
+
+
+<title>Cookie policy - Independent.ie</title>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+        <meta property="fb:pages" content="96796398469">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+    <meta name="robots" content="max-image-preview:large">
+        
+
+    
+    
+        
+                    
+    <link rel="alternate" href="android-app://com.feedhenry.fhjjjn7In7fqJG2LHTv3LVLanX/http/www.independent.ie/service/cookie-policy-36769519.html">
+
+    <meta name="apple-itunes-app" content="app-id=335158729, app-argument=https://www.independent.ie/service/cookie-policy-36769519.html">
+        
+    <link rel="stylesheet" type="text/css" href="/theme/_base/styles/5dbf2548907804449a44a00882e10412.css" media="all">
+                
+                                                                                                                                                                                                    
+            <meta property="og:title" content="Cookie policy">
+                <meta property="og:site_name" content="independent">
+                    <meta property="og:url" content="https://www.independent.ie/service/cookie-policy-36769519.html">
+        <meta property="og:type" content="article">
+                    
+    
+    <meta property="fb:app_id" content="714861305308164">
+            
+  
+              
+        
+    <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@Independent_ie">
+              <meta name="twitter:url" content="https://www.independent.ie/service/cookie-policy-36769519.html">
+              <meta name="twitter:title" content="Cookie policy">
+                          <meta name="twitter:domain" content="Independent.ie">
+          
+
+    <script type="application/json" id="settings">
+        {"gigya.api.key":"4_CO8231Ix1RbYi2EmMbsrlw","gigya.screenset":"Default-RegistrationLogin","gigya.mobile.screenset":"Default-RegistrationLogin","gigya.authFlow.redirect":"true","gigya.check.enabled":"true","gigya.check.host":"gigya-check.independent.ie","competitions.submit.endpoint":"https:\/\/competitions-api.independent.ie\/entries","competitions.api.key":"0b15feaa-62b2-45a2-8244-723a9e80748e","subscriptionwall.cookie-domain":".independent.ie","subscriptionwall.metered.missing.fields":"data.occupation,data.phone,data.salutation,data.yearofbirth,profile.firstName,profile.lastName","subscriptionwall.welcome_url.home-delivery":"https:\/\/subscribe.independent.ie\/welcome\/home-delivery\/","subscriptionwall.welcome_url.premium-plus":"https:\/\/subscribe.independent.ie\/welcome\/premium-plus\/","subscriptionwall.welcome_url.premium":"https:\/\/subscribe.independent.ie\/welcome\/premium\/","kaching.enabled":"true","outbrain.kaching.enabled":"true","quantcast.enabled":"false","didomi.enabled":"true","social-embed-consent-wall.enabled":"true","homepage.regional.sections.mapping":"Cork:regionals\/corkman\/:corkman,Dublin:regionals\/dublin\/:dublin,Kerry:regionals\/kerryman\/:kerryman,Louth:regionals\/louth\/:louth,Sligo:regionals\/sligochampion\/:sligochampion,Wexford:regionals\/wexford\/:wexford,Wicklow:regionals\/wicklow\/:wicklow","active_cmp":"didomi"}
+    </script>
+                    
+                                                    
+    
+    <script type="application/json" class="gpt-config">
+        {"targeting":{"art_id":"36769519","article_id":"36769519","kw":["Cookie","policy"]}}
+    </script>
+    
+    
+                    
+        
+    
+                
+                                
+                            
+                
+                                
+                                                                                            
+                
+                                                            
+                                    
+        
+                                    
+                    
+        
+        
+                         
+
+                
+        
+        
+                <script type="application/json" class="kaching-config">
+            {"url":"https:\/\/shared.mediahuis.be\/ka-ching\/independent\/ka-ching.umd.js?20210830","adunit":"independent.ie\/Service","targeting":{"art_id":"36769519","article_id":"36769519","kw":["Cookie","policy"],"gs_channels":["gs_notprocessed"],"article_type":"standard"},"blockads":true,"platform":"WWW","pageType":"Article","lazyload":true}
+        </script>
+        
+    
+    
+
+    
+
+        
+    
+    
+        
+                
+    <script type="application/json" class="grapeshot-config">
+        "gs_notprocessed"
+    </script>
+            
+
+    
+                
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Cookie policy",
+    "inLanguage": "en",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Independent.ie",
+        "logo": {
+            "@type": "ImageObject",
+                            "url": "https://www.independent.ie/theme/_base/images/6eca9a8d6033d9d3a012c59b10040098.png"
+                    }
+        ,
+        "@id": "independent.ie"
+            },
+    "image": {
+        "@type": "ImageObject",
+            "url": "https://www.independent.ie/theme/_base/images/79b692dc0a3ba74a5f189b8186a1a976.jpg",
+            "height": "700",
+            "width": "1240"
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.independent.ie/"
+    },
+    "dateCreated": "2018-04-03T10:11:10.000Z",
+    "dateModified": "2020-02-06T09:52:21.000Z",
+    "datePublished": "2018-10-14T17:34:00Z",
+    "keywords": "",
+    "thumbnailUrl": "https://www.independent.ie/theme/_base/images/79b692dc0a3ba74a5f189b8186a1a976.jpg",
+    "author": {
+        "@type": "Person",
+        "name": ""
+            },
+    "description": ""
+    ,
+        "articleBody": ""
+                ,"isAccessibleForFree": "True"
+        ,
+        "isPartOf": {
+            "@type": ["CreativeWork", "Product"],
+            "name" : "Independent.ie",
+            "productID": "independent.ie:showcase"
+        }
+    }
+</script>
+
+        
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "BreadcrumbList",
+   "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1 ,
+        "name": "Independent.ie",
+        "item": "https://www.independent.ie/"
+    },{
+        "@type": "ListItem",
+        "position": 2 ,
+        "name": "Service",
+        "item": "https://www.independent.ie/service/"
+    }    ]}
+</script>
+
+
+<script>
+    const getCookie = key => {
+        const cookies = document.cookie.split('; ');
+        for (let i = 0, parts; (parts = cookies[i] && cookies[i].split('=')); i++) {
+            if (parts.shift() === key) {
+                let cookieValue = parts.join('=');
+                if (cookieValue) {
+                    cookieValue = decodeURIComponent(cookieValue);
+                }
+                return cookieValue;
+            }
+        }
+    };
+
+    const vars = JSON.parse('{"attributes":{"inmproduct":"website","virtualview":"false"},"category":{"pageType":"Article","primaryCategory":"Service","regionals":"","sectionId":"408","subCategory1":"n\/a","subCategory2":"n\/a","subCategory3":"n\/a","subCategory4":"n\/a"},"page":{"pageName":"In:Service:Cookie policy","pageTitle":"Cookie policy","publication":"Independent.ie"},"user":{"gigyaID":"","subscriptionStatus":"","subscriptionStartDate":"","subscriptionFinishDate":"","userID":""},"article":{"articleID":"36769519","articleType":"News","articleLayout":"standard","author":"","createdAt":"2018-04-03 10:11:10","modifiedAt":"2020-02-06 09:52:21","publishedAt":"2018-10-14 17:34:00","wallType":"none","wallVisible":"false","relatedContent":{"gallery":0,"news":0,"photos":0,"soundcloud":0,"videos":0},"source":"","tags":"","topics":""}}' || '{}');
+    const subscriberCookieName = 'subscriber';
+    const subscriberCookieStatus = getCookie(subscriberCookieName) || '{}';
+
+    if (subscriberCookieStatus === "undefined") {
+        const domain = '.independent.ie';
+        document.cookie = subscriberCookieName + "= ; path=/;domain=" + domain + ";expires = Thu, 01 Jan 1970 00:00:00 GMT";
+    }
+    const subscriberCookie = JSON.parse(getCookie(subscriberCookieName) || '{}');
+    const gigyaID = getCookie('guid');
+
+    if (vars.article) {
+        vars.article.wallVisible = 'false';
+        vars.article.userWall = 'none';
+
+        if (vars.article.wallType === 'registration') {
+            vars.article.wallVisible = !!gigyaID ? 'false' : 'true';
+            vars.article.userWall = !!gigyaID ? 'none' : 'registration'; 
+        }
+
+        if (vars.article.wallType === 'premium') {
+            vars.article.wallVisible = !!subscriberCookie.subscriptionStatus ? 'false' : 'true';
+        }
+    }
+
+    vars.user.gigyaID = gigyaID || '';
+    vars.user.subscriptionStatus = subscriberCookie.subscriptionStatus || '';
+    vars.user.subscriptionStartDate = subscriberCookie.subscriptionStartDate || '';
+    vars.user.subscriptionFinishDate = subscriberCookie.subscriptionFinishDate || '';
+    vars.user.userID = subscriberCookie.userID || '';
+
+    // Regionals Container
+    const selectedRegional = localStorage.getItem('selectedRegionals');
+    vars.category.regionals = selectedRegional || '';
+
+    // Check window.dataLayer object or create.
+    window.dataLayer = window.dataLayer || [];
+
+    // Push initial dataLayer values into object.
+    window.dataLayer.push(vars);
+
+</script>
+
+<!-- Google Tag Manager -->
+<script>
+    window.GTMLoaded = false;
+    window.loadGTM = function () {
+        if (window.GTMLoaded === true) {
+            return;
+        }
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KJF4');
+        window.GTMLoaded = true;
+    }
+
+                window.loadGTM();
+    </script>
+<!-- End Google Tag Manager -->
+        
+
+    <link rel="alternate" type="application/rss+xml" href="https://www.independent.ie/service/rss/">
+
+
+            <script>
+    const flipPayJsUrl = 'https://cdn.flip-pay.com/clients/inm/flip-pay.js';
+
+    const getBundleValue = function (purchase, purchaseType) {
+        var p = purchase['granted_by_' + purchaseType];
+        if (Object.keys(p.badge || {}).indexOf('print_monthly') > -1) {
+            return 'home-delivery';
+        } else if (Object.keys(p.badge || {}).indexOf('epaper-access') > -1) {
+            return 'epaper-access';
+        } else if (Object.keys(p.badge || {}).indexOf('print_annual') > -1) {
+            return 'home-delivery';
+        } else if (Object.keys(p.badge || {}).indexOf('premium-plus') > -1) {
+            return 'premium-plus';
+        } else if (Object.keys(p.badge || {}).indexOf('premium') > -1) {
+            return 'premium';
+        } 
+
+        return 'none';
+    };
+
+    let flipPayConfig = {
+        premium_content: false,
+        show_spinner: false,
+        enable_showcase: true,
+        item_group_code: "pfc_indo",
+    };
+
+    window.IMP = window.IMP || {};
+    window.dataLayer = window.dataLayer || [];
+    window.IMP.config = flipPayConfig;
+
+    (function () {
+        if (flipPayJsUrl) {
+            const script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.async = true;
+            script.src = flipPayJsUrl;
+
+            document.head.append(script);
+        }
+
+        const subscriberCookieName = 'subscriber';
+        let bodyAvailable = false;
+
+        const getSubscriptionStatus = function (purchase) {
+            const grantedBy = Object.keys(purchase).filter(function (key) {
+                return key.indexOf('granted_by_') > -1;
+            }).map(function (key) {
+                return key.split('granted_by_')[1];
+            });
+
+            const isGrantedBy = function (grant) {
+                return grantedBy.indexOf(grant) > -1
+            }
+
+            if (isGrantedBy('purchase')) {
+                const bundleValue = getBundleValue(purchase, 'purchase'); 
+                return {
+                    subscriptionStatus: purchase.granted_by_purchase.sku_code,
+                    userID: purchase.granted_by_purchase.user_id,
+                    subscriptionStartDate: purchase.granted_by_purchase.original_start_at,
+                    subscriptionFinishDate: purchase.granted_by_purchase.finish_at,
+                    meteredAccess: purchase.metered_paywall,
+                    bundle: bundleValue,
+                };
+            }
+
+            if (isGrantedBy('app_purchase')) {
+                const bundleValue = getBundleValue(purchase, 'app_purchase'); 
+                return {
+                    subscriptionStatus: purchase.granted_by_app_purchase.sku_code,
+                    userID: purchase.granted_by_app_purchase.user_id,
+                    subscriptionStartDate: purchase.granted_by_app_purchase.original_start_at,
+                    subscriptionFinishDate: purchase.granted_by_app_purchase.finish_at,
+                    meteredAccess: purchase.metered_paywall,
+                    bundle: bundleValue,
+                };
+            }
+
+            if (isGrantedBy('whitelist_rule')) {
+                return {
+                    subscriptionStatus: 'Whitelist',
+                    userID: purchase.granted_by_whitelist_rule.user_id,
+                    subscriptionStartDate: '0000-00-00T00:00:00Z',
+                    subscriptionFinishDate: '0000-00-00T00:00:00Z',
+                    meteredAccess: purchase.metered_paywall,
+                    bundle: 'premium-plus',
+                };
+            }
+
+            if (isGrantedBy('corporate_account')) {
+                const bundleValue = getBundleValue(purchase, 'corporate_account'); 
+                return {
+                    subscriptionStatus: 'Corporate',
+                    userID: purchase.granted_by_corporate_account.user_id,
+                    subscriptionStartDate: '1111-11-11T11:11:11Z',
+                    subscriptionFinishDate: '1111-11-11T11:11:11Z',
+                    meteredAccess: purchase.metered_paywall,
+                    bundle: bundleValue,
+                };
+            }
+
+            return {
+                subscriptionStatus: '',
+                userID: '',
+                subscriptionStartDate: '',
+                subscriptionFinishDate: '',
+                meteredAccess: purchase.metered_paywall,
+                bundle: 'none',
+            };
+        };
+
+        const listenForFlipPayEvents = function () {
+            document.body.addEventListener('fp_user_event', function (event) {
+                const eventType = event.detail.event_type;
+
+                // Stop listening for mutations once we know this listener has been registered.
+                observer.disconnect();
+
+                                if (eventType === 'access_resolved' || eventType === 'access_resolved ') {
+                    if (event.detail.object.access === true) {
+                        const cookieData = updateSubscriberCookie(event.detail.object);
+                        if (!! window.showSubscriberElements) {
+                            window.showSubscriberElements();
+                        } else {
+                            window.showSubscriberElements = true;
+                        }
+                    }
+                }
+            });
+        };
+
+        const updateSubscriberCookie = function (purchase) {
+                        const cookieExpiryInSeconds = 60 * 60 * 24 * 30;
+            const domain = '.independent.ie';
+            const cookieData = getSubscriptionStatus(purchase);
+            document.cookie = subscriberCookieName + "=" + JSON.stringify(cookieData) + ';path=/;domain=' + domain + ';max-age='+cookieExpiryInSeconds;
+
+            return cookieData;
+        };
+
+        const onMutation = function (mutations) {
+            mutations.forEach((mutation) => {
+                const element = mutation.target;
+
+                if (element.tagName === 'BODY' && ! bodyAvailable) {
+                    listenForFlipPayEvents();
+                    bodyAvailable = true;
+                    return;
+                }
+            });
+        };
+
+        const observer = new MutationObserver(onMutation);
+
+        try {
+            observer.observe(document, {
+                subtree: true,
+                childList: true,
+            });
+        } catch (e) {
+            console.log('observer.observe failed:', e);
+        }
+    })();
+</script><script type="text/javascript" async="" src="https://cdn.flip-pay.com/clients/inm/flip-pay.js"></script>
+        <script>['js','r5s'].forEach(function(attr){document.documentElement.setAttribute(attr,'')});</script>
+<script type="text/javascript" async="" src="https://sdk.privacy-center.org/sdk.1da7a8dfe4784f18c1d8746c6a51a0a66eb13072.js" charset="utf-8"></script><style type="text/css">.fp-spinner-wrapper { height: 35px; } .fp-spinner { position: absolute; background: url(https://cdns1.gigya.com/gs/i//accounts/bigLoader.gif) center center no-repeat; min-height: 32px; min-width: 32px; left: 0; right: 0; margin-left: auto; margin-right: auto; } .fp-orig-price {margin: -35px 0 0 0;}.fp-strikethrough {position: relative;font-size: 25px;}.fp-strikethrough:before {position: absolute;content: '';left: -5px;top: 50%;right: -5px;border-top: 2px solid;border-color: inherit;color: red;-webkit-transform:rotate(-7deg);-moz-transform:rotate(-7deg);-ms-transform:rotate(-7deg);-o-transform:rotate(-7deg);transform:rotate(-7deg);} .fp-pricing-org-price-currency {margin-right: -5px; font-size: 20px; line-height: 1.5; vertical-align: top;}</style><script async="" type="text/javascript" src="https://shared.mediahuis.be/ka-ching/independent/ka-ching.umd.js?20210830"></script><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion/959373248/?random=1668343417032&amp;cv=11&amp;fst=1668343417032&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=2wgb90&amp;u_w=1280&amp;u_h=720&amp;label=QzdnCKGBttYDEMC_u8kD&amp;hn=www.googleadservices.com&amp;frm=0&amp;url=https%3A%2F%2Fwww.independent.ie%2Fservice%2Fcookie-policy-36769519.html&amp;tiba=Cookie%20policy%20-%20Independent.ie&amp;value=0&amp;bttype=purchase&amp;auid=625987838.1668343417&amp;uaw=0&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/959373248/?random=1668343417040&amp;cv=11&amp;fst=1668343417040&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=2wgb90&amp;u_w=1280&amp;u_h=720&amp;hn=www.googleadservices.com&amp;frm=0&amp;url=https%3A%2F%2Fwww.independent.ie%2Fservice%2Fcookie-policy-36769519.html&amp;tiba=Cookie%20policy%20-%20Independent.ie&amp;auid=625987838.1668343417&amp;uaw=0&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" src="//prod-inm.mhtr.be/public/tr/tracker.min.js" async=""></script><script async="" src="https://shared.mediahuis.be/cxense/cxense.independent.min.js"></script><script type="text/javascript" async="" src="https://cdns.gigya.com/js/gigya.js?apiKey=4_CO8231Ix1RbYi2EmMbsrlw">{}</script><meta http-equiv="origin-trial" content="Az6AfRvI8mo7yiW5fLfj04W21t0ig6aMsGYpIqMTaX60H+b0DkO1uDr+7BrzMcimWzv/X7SXR8jI+uvbV0IJlwYAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A+USTya+tNvDPaxUgJooz+LaVk5hPoAxpLvSxjogX4Mk8awCTQ9iop6zJ9d5ldgU7WmHqBlnQB41LHHRFxoaBwoAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7FovoGr67TUBYbnY+Z0IKoJbbmRmB8fCyirUGHavNDtD91CiGyHHSA2hDG9r9T3NjUKFi6egL3RbgTwhhcVDwUAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022110801.js" async=""></script><script type="text/javascript" async="" defer="" src="https://services.insurads.com/init?appId=MPROLFUG&amp;h=https%3A%2F%2Fwww.independent.ie%2Fservice%2Fcookie-policy-36769519.html%23_Toc529445270&amp;tcfc=1&amp;t=1668343417526"></script><script type="text/javascript" async="" src="https://cdn.insurads.com/iat-realtime-6.0.2-skip-neg.js"></script><script type="text/javascript" async="" src="https://cdn.insurads.com/iat-1.6.31.js"></script><script type="text/javascript" async="" defer="" src="https://services.insurads.com/initcb?v=1.0.12&amp;appId=2025&amp;vId=A8E2752B09379684&amp;s=2401&amp;fpc=0&amp;nv=1&amp;h=https%3A%2F%2Fwww.independent.ie%2Fservice%2Fcookie-policy-36769519.html%23_Toc529445270&amp;tcfc=1&amp;lts=0&amp;ts=1668343417687&amp;iatId=ea782cc009e4df36197b564c1ad06d39&amp;iatIdB=a12d566b5f854a629468f65d58035b0b&amp;iatIdM=11001111&amp;iatIdV=1.0&amp;lIatId=0&amp;lIatIdB=0&amp;lIatIdM=0&amp;lIatIdV=0&amp;lch=MAAIJUJAOA"></script></head>
+                
+    <body><div id="didomi-host" data-nosnippet="true" aria-hidden="true"></div><iframe name="__tcfapiLocator" title="__tcfapiLocator" style="display: none;"></iframe>
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJF4"
+height="0" width="0"
+style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+        
+        <div class="n-root1 s-independent">
+                                            
+    
+
+    
+                
+        
+                
+        
+                
+        
+                
+        
+                
+        
+                
+        
+                
+        
+                
+        
+                
+        
+                
+        
+    
+        
+                
+    
+
+    
+                
+        
+    
+            
+                                                                                                                                                            
+                                                                                                                                                                    
+            
+                
+                        
+            
+                                                                                                                                                                                                    
+                                                                                                                                                                                                            
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+    
+        
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                                                        
+                                                        
+
+    
+                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+    
+        
+
+
+    
+                
+        
+    
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+    
+        
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                                                        
+                                                        
+
+    
+                                                                                                
+                                                                                                
+
+    
+        
+
+
+    
+                
+        
+    
+            
+                
+                        
+            
+                                                        
+                                                                
+            
+                
+                        
+            
+                                                        
+                                                                
+            
+                                                                                                                                                                                                    
+                                                                                                                                                                                                            
+            
+                                                                            
+                                                                                    
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+    
+        
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                                                        
+                                                        
+
+    
+                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+    
+        
+
+
+    
+                
+        
+    
+            
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                    
+            
+                                                                                                                                                                                                    
+                                                                                                                                                                                                            
+            
+                                                                                                                    
+                                                                                                                            
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                                                                                                
+                                                                                                        
+            
+                
+                        
+            
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                    
+            
+                
+                        
+    
+        
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                                                        
+                                                        
+
+    
+                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+    
+        
+
+
+    
+                
+        
+    
+            
+                                                                                                                                                            
+                                                                                                                                                                    
+            
+                                                                                                
+                                                                                                        
+            
+                                                                                                
+                                                                                                        
+            
+                
+                        
+            
+                                                                                                                    
+                                                                                                                            
+            
+                                                                                                
+                                                                                                        
+    
+        
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                                                        
+                                                        
+
+    
+                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+    
+        
+
+
+    
+                
+        
+    
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+    
+        
+                
+                
+
+    
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    
+
+    
+        
+
+
+    
+                
+        
+    
+            
+                                                        
+                                                                
+            
+                                                                            
+                                                                                    
+            
+                                                                            
+                                                                                    
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+    
+        
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                                                        
+                                                        
+
+    
+                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                        
+
+    
+        
+
+
+    
+                
+        
+    
+            
+                                                        
+                                                                
+            
+                                                        
+                                                                
+            
+                                                        
+                                                                
+            
+                
+                        
+            
+                                                        
+                                                                
+            
+                
+                        
+            
+                
+                        
+            
+                                    
+                                            
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+    
+        
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                                                        
+                                                        
+
+    
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+    
+        
+
+
+    
+                
+        
+    
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+    
+        
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                                                        
+                                                        
+
+    
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                            
+
+    
+        
+
+
+    
+                
+        
+    
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+    
+        
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                                                        
+                                                        
+
+    
+                                                                                                                    
+                                                                                                                    
+
+    
+        
+
+
+    
+    
+        
+    
+    
+        
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+                
+                
+
+    
+        
+
+
+    
+                
+        
+    
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+            
+                
+                        
+    
+        
+                
+                
+
+    
+                                                                                                
+                                                                                                
+
+    
+        
+
+
+
+
+<header class="c-top1" id="top">
+                    <p class="c-top1-logo">
+                                
+                <a class="icon1 -i:independentie" href="https://www.independent.ie/" aria-label="Independent.ie" data-vars-category="Header" data-vars-action="Logo"><span>Independentie</span></a>            </p>
+        
+    <nav class="skips1">
+    <ul>
+        <li><a href="#nav" accesskey="n">Skip to navigation [n]</a></li>
+        <li><a href="#content" accesskey="c">Skip to content [c]</a></li>
+        <li><a href="#footer" accesskey="f">Skip to footer [f]</a></li>
+    </ul>
+</nav>
+        <div class="c-bar1">
+    <div class="c-bar1-wrap -contain -xw:2">
+        <form action="/search/" method="GET" class="c-bar1-search" data-vars-form-name="Header">
+            <p class="fieldbox5">
+    <label for="header_search">Search</label>
+    <input type="text" name="q" id="header_search" value="" placeholder="Search" data-vars-form-name="Header">
+    <button type="submit" aria-label="Search"><i class="icon1 -i:search" aria-label="Search"><span>Search</span></i></button>
+</p>
+                    </form>
+        <p class="c-bar1-today"><time datetime="2022-11-13">Sunday, 13 November 2022</time> <small>|</small> 16.2°C <a href="/weather/">Dublin</a></p>
+                <ul class="c-bar1-actions">
+                            <li hide-if-subscribed="">
+                                                                                
+                                        
+                    <a href="https://subscribe.independent.ie/" class="button1 -small" data-vars-category="Header" data-vars-action="Subscribe" data-vars-label="Subscribe">
+                        <span>Subscribe</span>
+                    </a>
+                </li>
+                        <li id="c-bar1-actions-account" class="-account" style="visibility: visible;">
+                <button type="button" id="c-bar1-actions-account-button" class="account-login-button button1 -small -ghost" login="" data-vars-category="Header" data-vars-action="Gigya" data-vars-label="Log In"><span>Log In</span><i class="icon1 -i:user-filled" aria-label="User-filled"><span>User-filled</span></i></button>
+                <div id="c-bar1-actions-account-dropdown" class="c-dropdown1" hidden="">
+                    <ul>
+                                                                                <li><a href="https://member.independent.ie/" data-vars-category="Header" data-vars-action="My Account" data-vars-label="My Account">My Account</a></li>
+                                                <li><a href="./" id="c-bar1-actions-log-out-button" data-vars-category="Header" data-vars-action="Gigya" data-vars-label="Log Out">Log Out</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+            </div>
+</div>
+
+        
+        
+    
+    <nav class="c-nav1" id="nav">
+    <div class="c-nav1-wrap">
+        <div class="c-nav1-main">
+            <ul class="c-nav1-items">
+                                                                                                                                                
+                                                                <li class=" -c:news">
+                            <a href="https://www.independent.ie/news/" accesskey="1" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="News">
+                                <span>News</span>
+                            </a>
+                            <em> [1] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:opinion">
+                            <a href="https://www.independent.ie/opinion/" accesskey="2" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Opinion">
+                                <span>Opinion</span>
+                            </a>
+                            <em> [2] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:business">
+                            <a href="https://www.independent.ie/business/" accesskey="3" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Business">
+                                <span>Business</span>
+                            </a>
+                            <em> [3] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:sport">
+                            <a href="https://www.independent.ie/sport/" accesskey="4" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Sport">
+                                <span>Sport</span>
+                            </a>
+                            <em> [4] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:life">
+                            <a href="https://www.independent.ie/life/" accesskey="5" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Life">
+                                <span>Life</span>
+                            </a>
+                            <em> [5] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                                                                                                                                        
+                                                                <li class=" -c:style">
+                            <a href="https://www.independent.ie/style/" accesskey="7" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Style">
+                                <span>Style</span>
+                            </a>
+                            <em> [7] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:entertainment">
+                            <a href="https://www.independent.ie/entertainment/" accesskey="8" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Entertainment">
+                                <span>Entertainment</span>
+                            </a>
+                            <em> [8] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:travel">
+                            <a href="https://www.independent.ie/life/travel/" accesskey="9" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Travel">
+                                <span>Travel</span>
+                            </a>
+                            <em> [9] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                                                                        
+                                                                    </ul>
+                            <form action="/search/" method="GET" class="c-nav1-search" data-vars-form-name="Sub Navigation">
+                    <p class="fieldbox3">
+        <label for="section_search_621">Search</label>
+    <input type="text" name="q" id="section_search_621" value="" placeholder="Search" data-vars-form-name="Sub Navigation">
+    <button type="submit" aria-label="Search"><i class="icon1 -i:search" aria-label="Search"><span>Search</span></i></button>
+</p>
+                </form>
+                    </div>
+                    <p class="c-nav1-toggler">
+                <a href="#sections" aria-label="Sections" toggle="body/is-sections-active" data-vars-category="Navigation" data-vars-action="Sections" data-vars-label="Expand">
+                    <i class="icon1 -i:menu" aria-label="Menu"><span>Menu</span></i>                                            <span>Sections</span> 
+                                    </a>
+            </p>
+            </div>
+</nav>
+
+        <nav class="c-nav2" id="sections">
+    <div class="c-nav2-wrap -contain -xw:2">
+        <ul class="c-nav2-main">
+            
+                
+                                                                                                        
+                
+                                    <li class="-c:news">
+                                    <a href="https://www.independent.ie/news/" class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="News">News</a>
+                                                                <ul>
+                                                                                            <li><a href="https://www.independent.ie/irish-news/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="News|Irish News">Irish News</a></li>
+                                                                                            <li><a href="https://www.independent.ie/regionals/dublin/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="News|Dublin">Dublin</a></li>
+                                                                                            <li><a href="https://www.independent.ie/world-news/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="News|World News">World News</a></li>
+                                                                                            <li><a href="https://www.independent.ie/regionals/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="News|Local News">Local News</a></li>
+                                                                                            <li><a href="https://www.independent.ie/localnews/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="News|Local ePapers">Local ePapers</a></li>
+                                                                                            <li><a href="https://www.independent.ie/news/environment/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="News|Environment">Environment</a></li>
+                                                                                            <li><a href="https://www.independent.ie/weather/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="News|Weather">Weather</a></li>
+                                                                                            <li><a href="https://www.independent.ie/latest-news/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="News|Latest News">Latest News</a></li>
+                                                                                            <li><a href="https://www.independent.ie/videos/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="News|Video">Video</a></li>
+                                                                                            <li><a href="https://www.independent.ie/topics/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="News|Topics">Topics</a></li>
+                                                    </ul>
+                                    </li>
+            
+                
+                                                                                                        
+                
+                                    <li class="-c:opinion">
+                                    <a href="https://www.independent.ie/opinion/" class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Opinion">Opinion</a>
+                                                                <ul>
+                                                                                            <li><a href="https://www.independent.ie/opinion/letters/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Opinion|Letters">Letters</a></li>
+                                                                                            <li><a href="https://www.independent.ie/opinion/editorial/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Opinion|Editorial">Editorial</a></li>
+                                                                                            <li><a href="https://www.independent.ie/opinion/comment/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Opinion|Comment">Comment</a></li>
+                                                                                            <li><a href="https://www.independent.ie/opinion/independent-journalists/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Opinion|Journalists">Journalists</a></li>
+                                                    </ul>
+                                    </li>
+            
+                
+                                                                                                        
+                
+                                    <li class="-c:business">
+                                    <a href="https://www.independent.ie/business/" class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Business">Business</a>
+                                                                <ul>
+                                                                                            <li><a href="https://www.independent.ie/business/budget/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Business|Budget 2023">Budget 2023</a></li>
+                                                                                            <li><a href="https://www.independent.ie/business/irish/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Business|Irish">Irish</a></li>
+                                                                                            <li><a href="https://www.independent.ie/business/world/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Business|World">World</a></li>
+                                                                                            <li><a href="https://www.independent.ie/business/technology/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Business|Technology">Technology</a></li>
+                                                                                            <li><a href="https://www.independent.ie/business/personal-finance/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Business|Personal Finance">Personal Finance</a></li>
+                                                                                            <li><a href="https://www.independent.ie/business/small-business/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Business|Small Business">Small Business</a></li>
+                                                                                            <li><a href="https://www.independent.ie/business/farming/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Business|Farming">Farming</a></li>
+                                                                                            <li><a href="https://www.independent.ie/business/jobs/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Business|Jobs">Jobs</a></li>
+                                                                                            <li><a href="https://www.independent.ie/business/commercial-property/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Business|Commercial Property">Commercial Property</a></li>
+                                                                                            <li><a href="https://www.independent.ie/business/in-the-workplace/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Business|In The Workplace">In The Workplace</a></li>
+                                                    </ul>
+                                    </li>
+            
+                
+                                                                                                        
+                
+                                    <li class="-c:sport">
+                                    <a href="https://www.independent.ie/sport/" class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Sport">Sport</a>
+                                                                <ul>
+                                                                                            <li><a href="https://www.independent.ie/sport/rugby/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Sport|Rugby">Rugby</a></li>
+                                                                                            <li><a href="https://www.independent.ie/sport/gaelic-games/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Sport|GAA">GAA</a></li>
+                                                                                            <li><a href="https://www.independent.ie/sport/soccer/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Sport|Soccer">Soccer</a></li>
+                                                                                            <li><a href="https://www.independent.ie/sport/rugby/the-left-wing/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Sport|The Left Wing">The Left Wing</a></li>
+                                                                                            <li><a href="https://www.independent.ie/sport/gaelic-games/the-throw-in/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Sport|The Throw In">The Throw In</a></li>
+                                                                                            <li><a href="https://www.independent.ie/sport/womens-sport/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Sport|Women's Sport">Women's Sport</a></li>
+                                                                                            <li><a href="https://www.independent.ie/sport/golf/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Sport|Golf">Golf</a></li>
+                                                                                            <li><a href="https://www.independent.ie/sport/horse-racing/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Sport|Horse Racing">Horse Racing</a></li>
+                                                                                            <li><a href="https://www.independent.ie/sport/other-sports/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Sport|Other Sports">Other Sports</a></li>
+                                                                                            <li><a href="https://www.independent.ie/sport/other-sports/cycling/icycle/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Sport|ICycle">ICycle</a></li>
+                                                    </ul>
+                                    </li>
+            
+                
+                                                                                                        
+                
+                                    <li class="-c:life">
+                                    <a href="https://www.independent.ie/life/" class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Life">Life</a>
+                                                                <ul>
+                                                                                            <li><a href="https://www.independent.ie/life/health-wellbeing/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Life|Health &amp; Wellbeing">Health &amp; Wellbeing</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/home-garden/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Life|Home &amp; Garden">Home &amp; Garden</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/family/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Life|Family">Family</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/family/parenting/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Life|Parenting">Parenting</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/food-drink/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Life|Food &amp; Drink">Food &amp; Drink</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/motoring/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Life|Motoring">Motoring</a></li>
+                                                    </ul>
+                                    </li>
+            
+                
+                                                                                                        
+                
+                                    <li class="-partner">
+                                    <a class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Partners">Partners</a>
+                                                                <ul>
+                                                                                            <li><a href="https://www.independent.ie/storyplus/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Partners|StoryPlus">StoryPlus</a></li>
+                                                                                            <li><a href="https://www.carsireland.ie/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Partners|CarsIreland.ie">CarsIreland.ie</a></li>
+                                                                                            <li><a href="https://www.cartell.ie/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Partners|Cartell.ie">Cartell.ie</a></li>
+                                                                                            <li><a href="https://www.carzone.ie/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Partners|Carzone.ie">Carzone.ie</a></li>
+                                                                                            <li><a href="https://switcher.ie/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Partners|Switcher.ie">Switcher.ie</a></li>
+                                                                                            <li><a href="https://www.inotices.ie/death-notices/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Partners|Death Notices">Death Notices</a></li>
+                                                                                            <li><a href="https://discountcode.independent.ie/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Partners|DiscountCodes">DiscountCodes</a></li>
+                                                                                            <li><a href="https://shop.independent.ie" target="_blank" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Partners|IndependentShop">IndependentShop</a></li>
+                                                                                            <li><a href="https://www.reach-delpac.ie" target="_blank" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Partners|Reach Delpac">Reach Delpac</a></li>
+                                                    </ul>
+                                    </li>
+            
+                
+                                                                                                        
+                
+                                    <li class="-c:style">
+                                    <a href="https://www.independent.ie/style/" class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Style">Style</a>
+                                                                <ul>
+                                                                                            <li><a href="https://www.independent.ie/style/celebrity/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Style|Celebrity">Celebrity</a></li>
+                                                                                            <li><a href="https://www.independent.ie/style/fashion/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Style|Fashion">Fashion</a></li>
+                                                                                            <li><a href="https://www.independent.ie/style/beauty/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Style|Beauty">Beauty</a></li>
+                                                                                            <li><a href="https://www.independent.ie/style/sex-relationships/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Style|Sex &amp; Relationships">Sex &amp; Relationships</a></li>
+                                                                                            <li><a href="https://www.independent.ie/style/voices/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Style|Voices">Voices</a></li>
+                                                                                            <li><a href="https://www.independent.ie/style/galleries/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Style|Galleries">Galleries</a></li>
+                                                    </ul>
+                                    </li>
+            
+                
+                                                                                                        
+                
+                                    <li class="-c:entertainment">
+                                    <a href="https://www.independent.ie/entertainment/" class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment">Entertainment</a>
+                                                                <ul>
+                                                                                            <li><a href="https://www.independent.ie/entertainment/movies/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment|Movies">Movies</a></li>
+                                                                                            <li><a href="https://www.independent.ie/entertainment/television/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment|Television">Television</a></li>
+                                                                                            <li><a href="https://www.independent.ie/entertainment/music/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment|Music">Music</a></li>
+                                                                                            <li><a href="https://www.independent.ie/entertainment/radio/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment|Radio">Radio</a></li>
+                                                                                            <li><a href="https://www.independent.ie/entertainment/books/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment|Books">Books</a></li>
+                                                                                            <li><a href="https://www.independent.ie/entertainment/theatre-arts/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment|Theatre &amp; Arts">Theatre &amp; Arts</a></li>
+                                                                                            <li><a href="https://www.independent.ie/entertainment/games/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment|Games">Games</a></li>
+                                                                                            <li><a href="https://www.independent.ie/entertainment/festivals/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment|Festivals">Festivals</a></li>
+                                                                                            <li><a href="https://www.independent.ie/entertainment/crosswords-puzzles/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment|Puzzles">Puzzles</a></li>
+                                                                                            <li><a href="https://www.independent.ie/entertainment/horoscopes/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment|Horoscopes">Horoscopes</a></li>
+                                                                                            <li><a href="https://www.independent.ie/entertainment/competitions/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Entertainment|Competitions">Competitions</a></li>
+                                                    </ul>
+                                    </li>
+            
+                
+                                                                                                        
+                
+                                    <li class="-c:travel">
+                                    <a href="https://www.independent.ie/life/travel/" class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel">Travel</a>
+                                                                <ul>
+                                                                                            <li><a href="https://www.independent.ie/life/travel/awards/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel|Reader Travel Awards">Reader Travel Awards</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/travel/travel-news/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel|Travel News">Travel News</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/travel/staycations/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel|Staycations">Staycations</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/travel/ireland/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel|Ireland">Ireland</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/travel/reviews/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel|Reviews">Reviews</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/travel/walks/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel|Walks">Walks</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/travel/europe/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel|Europe">Europe</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/travel/world/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel|World/USA">World/USA</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/travel/travel-tv/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel|Travel TV">Travel TV</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/travel/cruise/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel|Cruise">Cruise</a></li>
+                                                                                            <li><a href="https://www.independent.ie/life/travel/ski/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Travel|Ski">Ski</a></li>
+                                                    </ul>
+                                    </li>
+            
+                
+                                                                                                        
+                
+                                    <li class="-c:podcasts">
+                                    <a href="https://www.independent.ie/podcasts/" class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Podcasts">Podcasts</a>
+                                                                <ul>
+                                                                                            <li><a href="https://www.independent.ie/podcasts/the-indo-daily/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Podcasts|The Indo Daily">The Indo Daily</a></li>
+                                                                                            <li><a href="https://www.independent.ie/podcasts/the-left-wing/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Podcasts|The Left Wing">The Left Wing</a></li>
+                                                                                            <li><a href="https://www.independent.ie/podcasts/the-big-tech-show/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Podcasts|The Big Tech Show">The Big Tech Show</a></li>
+                                                                                            <li><a href="https://www.independent.ie/podcasts/the-real-health-podcast/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Podcasts|Real Health Podcast">Real Health Podcast</a></li>
+                                                                                            <li><a href="https://www.independent.ie/podcasts/the-throw-in/" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Podcasts|The Throw In">The Throw In</a></li>
+                                                    </ul>
+                                    </li>
+            
+                
+                                                                    
+                
+                                    <li class="-c:">
+                                    <a href="https://member.independent.ie/newsletter" class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="Newsletters">Newsletters</a>
+                                                        </li>
+            
+                
+                                                                                                        
+                
+                                    <li class="-c:">
+                                    <a class="c-nav2-section" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="About Us">About Us</a>
+                                                                <ul>
+                                                                                            <li><a href="https://www.independent.ie/service/our-story-40128170.html" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="About Us|Our Story">Our Story</a></li>
+                                                                                            <li><a href="https://www.independent.ie/service/our-journalism-40235853.html" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="About Us|Our Journalism">Our Journalism</a></li>
+                                                                                            <li><a href="https://www.independent.ie/service/corporate-and-social-responsibility-40235613.html" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="About Us|Corporate &amp; Social Responsibility">Corporate &amp; Social Responsibility</a></li>
+                                                                                            <li><a href="https://www.independent.ie/service/contact-us-40236004.html" data-vars-category="Navigation" data-vars-action="Sub Navigation" data-vars-label="About Us|Contact Us">Contact Us</a></li>
+                                                    </ul>
+                                    </li>
+                    </ul>
+    </div>
+</nav>
+
+            <nav class="c-subnav1">
+        <ul class="-contain">
+                            <li class="-intro"><strong>In Focus:</strong></li>
+                                        <li><a href="https://www.independent.ie/life/travel/awards/" data-vars-category="Navigation" data-vars-action="Secondary Nav Bar" data-vars-label="Travel|Reader Travel Awards"><span>Reader Travel Awards</span></a></li>
+                            <li><a href="https://www.independent.ie/topics/ukraine-41371359/" data-vars-category="Navigation" data-vars-action="Secondary Nav Bar" data-vars-label="|Ukraine Crisis"><span>Ukraine Crisis</span></a></li>
+                            <li><a href="https://www.independent.ie/podcasts/" data-vars-category="Navigation" data-vars-action="Secondary Nav Bar" data-vars-label="Independent.ie|Podcasts"><span>Podcasts</span></a></li>
+                            <li><a href="https://www.independent.ie/videos/" data-vars-category="Navigation" data-vars-action="Secondary Nav Bar" data-vars-label="Independent.ie|Video"><span>Video</span></a></li>
+                            <li><a href="https://www.independent.ie/best-of-premium/" data-vars-category="Navigation" data-vars-action="Secondary Nav Bar" data-vars-label="Independent.ie|Subscriber Exclusives"><span>Subscriber Exclusives</span></a></li>
+                            <li><a href="https://independentnewsstand.e-pages.pub/titles" data-vars-category="Navigation" data-vars-action="Secondary Nav Bar" data-vars-label="|ePaper"><span>ePaper</span></a></li>
+                            <li><a href="https://member.independent.ie/newsletter" data-vars-category="Navigation" data-vars-action="Secondary Nav Bar" data-vars-label="|Newsletter Sign-up"><span>Newsletter Sign-up</span></a></li>
+                    </ul>
+    </nav>
+
+</header>
+<div class="stickywatch" style="overflow: hidden; visibility: hidden; height: 0; margin: 0;"></div><div class="c-persistent1" data-stickywatch="" stickywatch-initialized="">
+    <div class="c-persistent1-outer">
+        <div class="c-persistent1-wrap -contain -xw:1">
+                            <figure class="c-persistent1-logo">
+                    <a class="icon1 -i:independentie" href="https://www.independent.ie/" aria-label="Independent.ie" data-vars-category="Navigation" data-vars-action="Persistent Nav" data-vars-label="Logo"><span>Independentie</span></a>                </figure>
+                                                <nav class="c-nav1">
+    <div class="c-nav1-wrap">
+        <div class="c-nav1-main">
+            <ul class="c-nav1-items">
+                                                                                                                                                
+                                                                <li class=" -c:news">
+                            <a href="https://www.independent.ie/news/" accesskey="1" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="News">
+                                <span>News</span>
+                            </a>
+                            <em> [1] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:opinion">
+                            <a href="https://www.independent.ie/opinion/" accesskey="2" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Opinion">
+                                <span>Opinion</span>
+                            </a>
+                            <em> [2] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:business">
+                            <a href="https://www.independent.ie/business/" accesskey="3" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Business">
+                                <span>Business</span>
+                            </a>
+                            <em> [3] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:sport">
+                            <a href="https://www.independent.ie/sport/" accesskey="4" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Sport">
+                                <span>Sport</span>
+                            </a>
+                            <em> [4] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:life">
+                            <a href="https://www.independent.ie/life/" accesskey="5" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Life">
+                                <span>Life</span>
+                            </a>
+                            <em> [5] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                                                                                                                                        
+                                                                <li class=" -c:style">
+                            <a href="https://www.independent.ie/style/" accesskey="7" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Style">
+                                <span>Style</span>
+                            </a>
+                            <em> [7] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:entertainment">
+                            <a href="https://www.independent.ie/entertainment/" accesskey="8" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Entertainment">
+                                <span>Entertainment</span>
+                            </a>
+                            <em> [8] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                <li class=" -c:travel">
+                            <a href="https://www.independent.ie/life/travel/" accesskey="9" data-vars-category="Navigation" data-vars-action="Primary Nav Bar" data-vars-label="Travel">
+                                <span>Travel</span>
+                            </a>
+                            <em> [9] </em>
+                        </li>
+                                                                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                                                                        
+                                                                    </ul>
+                            <form action="/search/" method="GET" class="c-nav1-search" data-vars-form-name="Sub Navigation">
+                    <p class="fieldbox3">
+        <label for="section_search_988">Search</label>
+    <input type="text" name="q" id="section_search_988" value="" placeholder="Search" data-vars-form-name="Sub Navigation">
+    <button type="submit" aria-label="Search"><i class="icon1 -i:search" aria-label="Search"><span>Search</span></i></button>
+</p>
+                </form>
+                    </div>
+                    <p class="c-nav1-toggler">
+                <a href="#sections" aria-label="Sections" toggle="body/is-sections-active" data-vars-category="Navigation" data-vars-action="Sections" data-vars-label="Expand">
+                    <i class="icon1 -i:menu" aria-label="Menu"><span>Menu</span></i>                                            <span>Sections</span> 
+                                    </a>
+            </p>
+            </div>
+</nav>
+        </div>
+    </div>
+</div>                        <div class="n-content1">
+
+                    
+            
+        
+        
+        
+
+                    
+
+        
+                                                                                        
+                            
+                        
+        
+                
+        
+                    
+<div class="slot1 -d:n" data-ad-slot="">
+    <div class="slot1-wrap">
+        <div style="display: inline-block; width: 100%;  vertical-align: top;">
+            <div id="ad_outofpage-1" class="kaching-slot wrap"></div>
+        </div>
+    </div>
+</div>        
+                
+        
+        
+        
+
+                    
+
+        
+                                                                                        
+                            
+                        
+        
+                
+        
+                    
+<div class="slot1 -d:n" data-ad-slot="">
+    <div class="slot1-wrap">
+        <div style="display: inline-block; width: 100%;  vertical-align: top;">
+            <div id="ad_outofpage-2" class="kaching-slot wrap"></div>
+        </div>
+    </div>
+</div>        
+                
+        
+        
+        
+
+                    
+
+        
+                                                                                        
+                            
+                        
+        
+                
+        
+                    
+<div class="slot1 -d:n" data-ad-slot="">
+    <div class="slot1-wrap">
+        <div style="display: inline-block; width: 100%;  vertical-align: top;">
+            <div id="ad_outofpage-3" class="kaching-slot wrap"></div>
+        </div>
+    </div>
+</div>        
+                
+        
+        
+        
+
+        
+
+        
+                                                                                        
+                            
+                        
+        
+                
+        
+                    
+<div class="slot1 -d:n" data-ad-slot="">
+    <div class="slot1-wrap">
+        <div style="display: inline-block; width: 100%;  vertical-align: top;">
+            <div id="ad_outofpage-4" class="kaching-slot wrap"></div>
+        </div>
+    </div>
+</div>        
+                
+        
+        
+        
+
+        
+
+        
+                                                                                        
+                            
+                        
+        
+                
+        
+                    
+<div class="slot1 -d:n" data-ad-slot="">
+    <div class="slot1-wrap">
+        <div style="display: inline-block; width: 100%;  vertical-align: top;">
+            <div id="ad_outofpage-5" class="kaching-slot wrap"></div>
+        </div>
+    </div>
+</div>        
+                    <div class="n-content1-wrap -contain">
+                    <div class="browser1" data-warning="Your browser is outdated, it will not render this page properly, please upgrade."></div>
+
+                                        
+                                        <!-- c-modal1 -->
+<!-- c-modal1-wrap -->
+<!-- c-modal1-close -->
+<!-- welcome2 -->
+
+<div class="c-modal1 -active -still -dark" x-data="" style="display:none" id="welcome_popup_wrapper">
+    <div class="c-modal1-wrap -xw:3">
+        <a href="#" class="c-modal1-close icon1 -i:close" onclick="event.target.closest('.c-modal1').classList.remove('-active'); return false;"></a>
+        <div class="welcome2">
+            <h3 class="welcome2-title -t:1">
+                                    <i class="icon1 -i:harp"></i>
+                                <span>Welcome!</span>
+            </h3>
+            <p class="welcome2-lead">Premium subscribers enjoy unlimited access to all articles. But there's more: discover your full benefits now.</p>
+            <ul class="welcome2-actions">
+                <li><a href="#" id="discover_more_popup" class="button1 -mw2" target="_blank">Discover more</a></li>
+                <li><a href="#" class="button1 -ghost -mw2" onclick="event.target.closest('.c-modal1').classList.remove('-active'); return false;">Go back to the article</a></li>
+            </ul>
+        </div>
+    </div>
+</div>                    <!-- n-backdrop1 -->
+<!-- n-backdrop1-wrap -->
+<!-- welcome1 -->
+<!-- -py:1 -->
+<div class="n-backdrop1 -recontain -c:b1 -mb:2 -mt:-1 -py:0" style="display:none" id="welcome_banner_wrapper">
+    <div class="n-backdrop1-wrap">
+        <div class="welcome1 -py:1">
+            <h3 class="welcome1-title -t:2">
+                                    <i class="icon1 -i:harp"></i>
+                                <span>Welcome! Discover your full benefits as a Premium subscriber.</span>
+            </h3>
+            <ul class="welcome1-actions">
+                <li><a href="#" class="button1 -ghost" onclick="event.target.closest('.n-backdrop1').remove(); return false;" id="dismiss_welcome_banner">Dismiss</a></li>
+                <li><a href="#" id="discover_more_banner" class="button1" target="_blank">Discover more</a></li>
+            </ul>
+        </div>
+    </div>
+</div>                    
+                        
+                    
+
+
+
+
+<div class="title1">
+    <div class="title1-wrap">
+                        <h1 class="title1-main">
+         Cookie policy</h1>
+    </div>
+</div>
+<div class="summary1 -force">
+        
+
+    
+
+
+        
+    
+                            <p><span class="drop-cap fl header-font pr3 pb2"> </span><br></p>                                    
+    <div>
+        
+        
+                
+        
+    </div>
+</div>
+
+
+<div class="c-byline1">
+                            <div class="c-byline1-main">    </div>
+        <hr class="hr2"></div>
+
+<div class="n-body1">
+        
+
+    
+
+
+        
+                
+                                                <p></p><p> </p>                                                                                                
+        
+                                                <p></p><style rel="stylesheet" type="text/css">
+    .clearfix {
+        clear: both;
+    }
+
+    .privacy-navigation-container {
+        width: 33%;
+        float: left;
+    }
+    
+    #priv_updated {
+        margin-bottom: 15px;
+    }
+
+    #priv_body,
+    #priv_updated {
+        width: 66%;
+        float: right;
+    }
+
+    .privacy-navigation {
+        list-style: none;
+        padding: 0;
+    }
+
+    .navigation-item {
+        margin-bottom: 10px;
+        font-weight: 600;
+    }
+
+    .navigation-link {
+        text-decoration: none !important;
+        display: block !important;
+        padding-left: 15px !important;
+        color: inherit !important;
+        text-decoration: none !important;
+        text-transform: capitalize;
+        font-family: "Open Sans";
+    }
+
+    .navigation-link.active {
+        color: #5a8c46 !important;
+        box-shadow: inset 3px 0 !important;
+    }
+
+    .MsoTocHeading,
+    .MsoToc3,
+    .MsoToc2 {
+        display: none;
+    }
+
+    #priv_body h1,
+    #priv_updated {
+        display: none;
+    }
+
+    a[href="#privacy_top"] {
+        display: none;
+    }
+</style>
+<div class="privacy-navigation-container">
+    <ul class="privacy-navigation">
+        <li class="navigation-item">
+            <a class="navigation-link active" href="#_Toc529445270">About this Cookie Policy</a>
+        </li>
+        <li class="navigation-item">
+            <a class="navigation-link" href="#_Toc529445272">Changes to our Cookie Policy</a>
+        </li>
+        <li class="navigation-item">
+            <a class="navigation-link" href="#_Toc529445273">Types of Cookies</a>
+        </li>
+        <li class="navigation-item">
+            <a class="navigation-link" href="#_Toc529445280">Change cookie settings in your browser</a>
+        </li>
+        <li class="navigation-item">
+            <a class="navigation-link" href="#_Toc529445281">Limit tracking in mobile apps</a>
+        </li>
+    </ul>
+</div>
+<script>
+    links = document.getElementsByClassName("navigation-link");
+    Array.from(links).forEach(function (element) {
+        element.onclick = function(e) {
+            e.preventDefault();
+            active = document.getElementsByClassName("navigation-link active")[0];
+            active.classList.remove('active');
+            this.classList.add('active');
+            elementToScroll = document.getElementsByName(this.getAttribute('href').replace('#', ''))[0];
+            scrollTo(elementToScroll);
+            return;
+        };
+    });
+
+    function scrollTo(element) {
+        window.scroll({
+            behavior: 'smooth',
+            left: 0,
+            top: (element.offsetTop - 50)
+        });
+    }
+</script>
+<p><span id="priv_updated">Updated at: 2020-09-18 12:16:07</span></p>
+<section id="priv_body"><p><strong>Cookie Policy</strong></p>
+
+<p>Last Updated: March 2020</p>
+
+<p><strong>Table of Contents</strong></p>
+
+<p><strong><a href="#_Toc529445270">About this Cookie Policy</a></strong></p>
+
+<p><strong><a href="#_Toc529445272">Changes to our Cookie Policy</a></strong></p>
+
+<p><strong><a href="#_Toc529445273">Types of Cookies</a></strong></p>
+
+<p><strong><a href="#_Toc529445280">Change Cookie Settings in your browser</a></strong></p>
+
+<p><strong><a href="#_Toc529445281">Limit tracking in mobile apps</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p><a name="_Toc529445270"><strong>About this Cookie Policy</strong></a></p>
+
+<p>As Ireland’s largest media company, INM reaches millions of people each week across print and online. INM is a group of companies that has a number of online sites and services including <a href="https://m.independent.ie/" target="_parent">Independent.ie</a> and <a href="https://www.belfasttelegraph.co.uk/" target="_parent">BelfastTelegraph.co.uk</a>. Information about the companies in our group can be found <a href="https://www.inmplc.com/about-us/group-overview" target="_parent">here</a>.</p>
+
+<p>This Cookie Policy applies to:</p>
+
+<ul>
+	<li><a href="https://m.independent.ie" target="_parent">https://www.independent.ie</a>&nbsp;</li>
+</ul>
+
+<p>and all associated subdomains such as elections.independent.ie. It also covers all the regional publication sites such as The Argus which are listed at:&nbsp;</p>
+
+<ul>
+	<li><a href="https://m.independent.ie/regionals/" target="_parent">https://www.independent.ie/regionals/</a></li>
+</ul>
+
+<p>Other sites in the INM group such as <a href="https://www.belfasttelegraph.co.uk/" target="_parent">BelfastTelegraph.co.uk</a> have their own cookie policy.</p>
+
+<p>This Cookie Policy explains what cookies and trackers are and how we use them. You should read this policy so you can understand what type of cookies and trackers that we use, the information we collect using&nbsp;cookies and how that information is used. You can also manage your settings for these cookies and trackers. For further information on how we use, store and keep your personal data secure, see our Privacy Policy.</p>
+
+<p>INM uses&nbsp;cookies and trackers to help us remember details of your visits to our websites&nbsp;and our apps. This includes, but not limited to technical information about your visit e.g. traffic data, location data, browser language, your IP address, the previous website from which you reached us and the type of browser you use. Accordingly, our&nbsp;<a href="https://m.independent.ie/service/privacy-statement-26859902.html" target="_parent">Privacy Statement</a>&nbsp;will apply to our treatment of the information we obtain via our cookies and trackers.</p>
+
+<p>Please use the tools on this page to control how your data is processed on this website and around the web.</p>
+
+<p><strong>What are cookies and trackers?</strong></p>
+
+<p>A cookie is a small data file that is transferred to your device (e.g. your phone or your computer) which collects information, potentially including personal information about you. Trackers are the common name for a group of tools which do the same thing for sites and apps.</p>
+
+<p>They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of websites. For example, a cookie could allow the Site to recognise your browser/login details, while another could store your preferences and other information and let you navigate the Site effectively. Cookies can also help to ensure that adverts you see online are more relevant to you and your interests.</p>
+
+<p>Statistical and analytical information from cookies and trackers provides us with general information about the number of people who visit this Site; the number of people who return to this Site; the pages that they visit; where they were immediately before they came to this Site and the page in the Site at which they exited. This information helps us monitor traffic on our Site so that we can manage the Site's capacity and efficiency. It also helps us to understand which parts of this Site are most popular, and generally to assess user behaviour and characteristics in order to measure interest in and use of the various areas of the Site.</p>
+
+<p>We may partner with or receive services from third parties which you can visit from our Site. We may also embed external content and features from such third parties within our Site (e.g. social media networks such as LinkedIn, Facebook and Twitter). We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site.</p>
+
+<p>In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy statements and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.</p>
+
+<p><strong><a href="#privacy_top">Back to top</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p><a name="_Toc529445272"><strong>Changes to our Cookie Policy</strong></a></p>
+
+<p>We can change this Cookie Policy at any time. If we make material changes to this Cookie Policy, we will let you know either by posting the changed Cookie Policy on the Site or by sending you an email.</p>
+
+<p>It is important that you review the changed Cookie Policy. If you do not wish to agree to the changed Cookies Policy, then we cannot continue to provide the Site to you, and your only option is to stop accessing the Site.</p>
+
+<p><strong><a href="#privacy_top">Back to top</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p><a name="_Toc529445273"><strong>Types of Cookies</strong></a></p>
+
+<p>We may place our cookies and trackers on your device via our website and apps. Our&nbsp;<a href="https://m.independent.ie/service/privacy-statement-26859902.html" target="_parent">Privacy Statement</a>&nbsp;will apply to how we treat the information we collect through these tools. The following are the main types of cookies used on the Site, links to their privacy statements and tools for controlling them where appropriate.</p>
+
+<p><strong>Essential Cookies</strong></p>
+
+<p>These cookies are necessary for the Site to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in, filling in forms or serving contextual ads. The types of essential cookies used are:</p>
+
+<ul>
+	<li><strong>GDPR Consent: </strong>A simple cookie to track whether you have reviewed and consented to the latest version of our privacy policies.</li>
+</ul>
+
+<p>Cookies and Trackers used:</p>
+
+<ul>
+	<li><strong>Independent.ie GDPR Consent Cookie: </strong>Cookie expires one year after your last interaction with the site. The Privacy Statement for Independent.ie is available <a href="https://m.independent.ie/service/privacy-statement-26859902.html" target="_parent">here</a></li>
+	<li><strong>Registration cookies: </strong>When you register with our Site, we generate cookies that signal whether you are signed in or not. We use these cookies to work out which account you are signed in with, and if you are allowed access to a particular service. It also allows us to associate any comments you post with your username. While you are signed into this Site, we combine information from your registration cookies with analytics cookies, which we could use to identify which pages you have seen on our Site.</li>
+</ul>
+
+<p>Cookies and Trackers used:</p>
+
+<ul>
+	<li><strong>Gigya Socialise: </strong>These cookies are expired after a year or when the user logs out. Gigya Privacy Policy is available <a href="https://www.sap.com/corporate/en/legal/privacy.html" target="_parent">here</a></li>
+</ul>
+
+<p>To update your marketing and other registration preferences, please log in to your Independent.ie account and use the <strong>my account</strong> page. If you do not have an Independent.ie account:</p>
+
+<ul>
+	<li>Please use the unsubscribe link within any email that you receive from us.</li>
+	<li>If you receive a phone marketing call, please ask the caller to amend your marketing preferences.</li>
+</ul>
+
+<p><strong>Subscription Cookies</strong></p>
+
+<p>International Micro Payment Ventures Ltd, operating under the trademark Flip-Pay, provide Digital Edition subscription, payment, identity management and analytics services to us, for the purpose of content monetisation ( i.e. e-paper subscriptions ).</p>
+
+<p>The personal data it collects is to provide a seamless but secure purchasing environment. This data is not sold to third parties and Flip-Pay maintains the highest standards of security.</p>
+
+<p>The use of cookies is minimal and is only used for session management. FlipPay uses Stripe to process credit card information. This data is not shared or accessible to third parties and is encrypted.</p>
+
+<p>Cookies used are:</p>
+
+<ul>
+	<li><strong>FlipPay:&nbsp;</strong>These cookies are expired when the session is completed. The FlipPay Privacy Policy is available <a href="https://flip-pay.com/policies/privacy/" target="_parent">here</a></li>
+</ul>
+
+<p><strong>Site Functionality Cookies</strong></p>
+
+<p>We use Google Tag manager cookies to enable functionality that helps us provide the core website and services</p>
+
+<p>Cookies used are:</p>
+
+<ul>
+	<li><strong>Google Tag Manager<em>: </em></strong>These Cookies are expired when the session is completed. The Google Privacy Policy is available <a href="https://policies.google.com/privacy?hl=en" target="_parent">here</a></li>
+</ul>
+
+<p><strong>Analytics Cookies</strong></p>
+
+<p>These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.</p>
+
+<p>Every time a user visits our Site, web analytics software provided by a third party generates an anonymous analytics cookie. These cookies can tell us whether or not you have visited the Site before. Your browser will tell us if you have these cookies, and if you don't, we generate new ones. This allows us to track how many individual unique users we have, and how often they visit the Site. Unless you are signed in to our Site, these cookies cannot be used to identify individuals; they are used for statistical purposes only. If you are logged in, we will also know the details you gave to us for this, such as username and email address. This allows us to better tailor our site for our registered users.</p>
+
+<p>These analytics tools run on most sites across the web. If you wish to opt out of analytics tracking you must do so on these 3rd party sites or by changing your browser settings. Click on a link below to see the privacy policy and&nbsp;<strong>manage your consent across the web</strong>&nbsp;for each cookie type:</p>
+
+<ul>
+	<li><a href="https://chartbeat.com/privacy/" target="_parent">ChartBeat</a></li>
+	<li><a href="https://support.google.com/analytics/answer/181881" target="_parent">Google Analytics</a></li>
+	<li><a href="https://www.hotjar.com/legal/compliance/opt-out/">Hotjar</a></li>
+	<li><a href="https://policies.google.com/technologies/ads?hl=en-US">Google Advertising- Audience Pixel)</a></li>
+</ul>
+
+<p>These cookies typically persist for between one and three years to allow bulk comparisons of traffic from year to year.</p>
+
+<p><strong>Behavioural Advertising Cookies</strong></p>
+
+<p>We facilitate third parties to serve advertisements through our Site. Advertisers try to make these ads relevant to you by tracking the topics you are interested in and other ads that you like to engage with across the web.</p>
+
+<p><strong>Third Parties: </strong>These advertising cookies may be set through our site and other sites you visit around the web by third-party advertisers.</p>
+
+<p>They may be used by those third parties to build a profile of your interests and show you relevant adverts here and on other sites across the web. These profiles are based on identifying your IP address, browser or internet device.</p>
+
+<p><strong>INM: </strong>We also create anonymous audience segments based on interactions with our Site and apps which can be tied back to a single cookie or device ID. We use cookie technologies provided by Google DoubleClick for Publishers (DFP) and Oracle Bluekai Data Management Platform (DMP) to assist us in creating these audience segments. We have no possibility of linking any anonymous user of our Site who may be classified into an audience segment to an individual identifiable person.</p>
+
+<p>Cookies and Trackers used:</p>
+
+<p><strong>Interactive Advertising Bureau (IAB):&nbsp;</strong>Most third party advertisers participate in the Interactive Advertising Bureau (IAB) Transparency and Consent Framework, which means that you can, in one place, manage your privacy settings around behavioural advertising. We use the Quantcast Consent Management Platform, a industry standard, IAB approved systems to allow you to manage your own IAB settings.</p>
+
+<ul>
+	<li><a class="change-consent" href="https://m.independent.ie/service/settings/" target="_parent">Manage consent for advertisers participating in the Interactive Advertising Bureau (IAB) privacy framework</a></li>
+</ul>
+
+<p>The expiry date for the IAB Advertising Framework Cookie is 6 months.</p>
+
+<p><strong>Google DFP:</strong> Google DoubleClick for Publishers is our primary ad serving partner and Google provides its own mechanism for controlling how ads are personalised to you.</p>
+
+<ul>
+	<li><a href="https://adssettings.google.com/" target="_parent">Manage consent for advertising served through Google</a></li>
+</ul>
+
+<p>Google anonymize IP addresses in logs by removing part of the address after 9 months. After 18 months, they further anonymize log data by anonymizing or deleting cookie or advertising ID information in both logs and ad serving databases.</p>
+
+<p>User data tied to cookies and advertising IDs is also used to detect and prevent ad fraud and ensure that users don’t see ads that they’ve blocked in the past. In these cases, or in cases where Google stores this data on behalf of its customers (e.g. in Google Analytics), data may be stored for periods longer than those specified above.</p>
+
+<p><strong>Social Media Cookies</strong></p>
+
+<p>We enable these third party cookies on our site to&nbsp;<strong>facilitate social sharing</strong>&nbsp;of our content.</p>
+
+<p>Click on a link below to&nbsp;<strong>manage your privacy around the web</strong>&nbsp;with these social media providers:</p>
+
+<ul>
+	<li><a href="https://www.facebook.com/about/privacy" target="_parent">Facebook</a></li>
+	<li><a href="https://twitter.com/en/privacy" target="_parent">Twitter</a></li>
+</ul>
+
+<p>The expiry date for Twitter cookies is 30 days and 90 days for Facebook cookies.</p>
+
+<p><strong><a href="#privacy_top">Back to top</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p><a name="_Toc529445280"><strong>Change cookie settings in your browser</strong></a></p>
+
+<p>In addition most web browsers allow some control of cookies through the browser settings. Find out how to manage cookies on popular browsers:</p>
+
+<ul>
+	<li><a href="https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&amp;hl=en" target="_parent">Google Chrome</a></li>
+	<li><a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy" target="_parent">Microsoft Edge</a></li>
+	<li><a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_parent">Mozilla Firefox</a></li>
+	<li><a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies" target="_parent">Microsoft Internet Explorer</a></li>
+	<li><a href="https://www.opera.com/help/tutorials/security/privacy/" target="_parent">Opera</a></li>
+	<li><a href="https://support.apple.com/en-gb/guide/safari/sfri11471/mac" target="_parent">Apple Safari</a></li>
+	<li><a href="https://support.apple.com/en-ie/HT201265" target="_parent">Mobile Safari</a></li>
+	<li><a href="https://www.outbrain.com/legal/privacy#cookies" target="_parent">Outbrain</a></li>
+</ul>
+
+<p>To find information relating to other browsers, visit the browser developer's website.</p>
+
+<p><strong><a href="#privacy_top">Back to top</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p><a name="_Toc529445281"><strong>Limit tracking in mobile apps</strong></a></p>
+
+<p>We provide push notifications as a service that you can opt into. You must choose to opt in before you receive these notifications. No personal information is recorded as part of these services which are delivered to you by either Apple or Google themselves. To opt out of push notifications, please turn off notifications in the relevant app or through your phones system settings.</p>
+
+<p>To opt out of targeted ads in apps on your mobile device, follow the instructions below.</p>
+
+<p><strong>Android</strong></p>
+
+<p>Find Google Settings in one of these places (depending on your device):</p>
+
+<ul>
+	<li>Go to Settings</li>
+	<li>Select Google in the Accounts section</li>
+	<li>Select Ads in the Privacy section</li>
+	<li>Tick Opt out of interest based ads</li>
+</ul>
+
+<p>Visit the Google&nbsp;<a href="https://support.google.com/ads/answer/2662922?hl=en-GB" target="_parent">support page</a>&nbsp;for more information.</p>
+
+<p><strong>iOS</strong></p>
+
+<ul>
+	<li>Go to Settings &gt; Privacy &gt; Advertising.</li>
+	<li>Turn on Limit Ad Tracking.</li>
+	<li>To opt out of push notifications, please turn off notifications in the relevant app.</li>
+</ul>
+
+<p>Visit the Apple&nbsp;<a href="https://support.apple.com/en-gb/HT202074" target="_parent">support page</a>&nbsp;for more information.</p>
+
+<p><strong><a href="#privacy_top">Back to top</a></strong></p></section>
+<div class="clearfix"> </div>    
+<script>
+    var inmpriv = {
+        pub: "independent",
+        doc: "cookie-policy",
+        /*
+        /   Set those values for an extra title or extra containers.
+        /   title_id: "priv_title",
+        /   body_id: "priv_body",
+        /   updated_id: "priv_updated"
+        */
+    };
+</script>
+<script src="https://consent.inm.ie/privacy.js" type="text/javascript"></script>
+<p></p>                                                                                
+    <div>
+        
+                                                                                                                                                            
+                
+        
+    </div>
+
+        </div>
+
+
+                                                                                    
+                            
+        
+        
+        
+
+        
+
+        
+                                                                                                                                    
+                            
+                        
+        
+                                    
+        
+                    
+<div class="slot1 -decontain -my:2" data-ad-slot="">
+    <div class="slot1-wrap">
+        <div style="display: inline-block; width: 100%; max-width: 970px;  vertical-align: top;">
+            <div id="ad_leaderboard-1" class="kaching-slot wrap"></div>
+        </div>
+    </div>
+</div>        
+                    </div>
+            </div>
+
+                            <footer class="c-footer1" id="footer">
+    <div class="c-footer1-wrap -contain">
+        <!-- Top section -->
+<div class="c-footer1-header -recontain">
+            <p class="c-footer1-logo -as:1">
+            <!-- Logo -->
+            <a class="icon1 -i:independentie" href="https://www.independent.ie/" aria-label="Independentie"><span>Independentie</span></a>        </p>
+        <!-- Search -->
+    <form action="/search/" method="GET" class="c-footer1-search">
+        <p class="fieldbox4">
+    <label for="footer-search">Search</label>
+    <input type="text" name="q" id="footer-search" value="" placeholder="Search entire site" data-vars-form-name="Footer">
+    <button type="submit" aria-label="Search">
+        <i class="icon1 -i:search" aria-label="Search"><span>Search</span></i>    </button>
+</p>
+    </form>
+</div>
+
+<!-- Links section -->
+<nav class="c-footer1-main">
+    <ul class="c-footer1-primary">
+
+        
+                                                                                                            
+                                                <li class="-c:news">
+                                    <a href="https://www.independent.ie/news/" class="c-footer1-section">News</a>
+                    <ul>
+                                                    <li><a href="https://www.independent.ie/irish-news/">Irish News</a></li>
+                                                    <li><a href="https://www.independent.ie/regionals/dublin/">Dublin</a></li>
+                                                    <li><a href="https://www.independent.ie/world-news/">World News</a></li>
+                                                    <li><a href="https://www.independent.ie/regionals/">Local News</a></li>
+                                                    <li><a href="https://www.independent.ie/localnews/">Local ePapers</a></li>
+                                                    <li><a href="https://www.independent.ie/news/environment/">Environment</a></li>
+                                                    <li><a href="https://www.independent.ie/weather/">Weather</a></li>
+                                                    <li><a href="https://www.independent.ie/latest-news/">Latest News</a></li>
+                                                    <li><a href="https://www.independent.ie/videos/">Video</a></li>
+                                                    <li><a href="https://www.independent.ie/topics/">Topics</a></li>
+                                            </ul>
+                </li>
+                    
+                                                                                                            
+                                                <li class="-c:opinion">
+                                    <a href="https://www.independent.ie/opinion/" class="c-footer1-section">Opinion</a>
+                    <ul>
+                                                    <li><a href="https://www.independent.ie/opinion/letters/">Letters</a></li>
+                                                    <li><a href="https://www.independent.ie/opinion/editorial/">Editorial</a></li>
+                                                    <li><a href="https://www.independent.ie/opinion/comment/">Comment</a></li>
+                                                    <li><a href="https://www.independent.ie/opinion/independent-journalists/">Journalists</a></li>
+                                            </ul>
+                </li>
+                    
+                                                                                                            
+                                                <li class="-c:business">
+                                    <a href="https://www.independent.ie/business/" class="c-footer1-section">Business</a>
+                    <ul>
+                                                    <li><a href="https://www.independent.ie/business/budget/">Budget 2023</a></li>
+                                                    <li><a href="https://www.independent.ie/business/irish/">Irish</a></li>
+                                                    <li><a href="https://www.independent.ie/business/world/">World</a></li>
+                                                    <li><a href="https://www.independent.ie/business/technology/">Technology</a></li>
+                                                    <li><a href="https://www.independent.ie/business/personal-finance/">Personal Finance</a></li>
+                                                    <li><a href="https://www.independent.ie/business/small-business/">Small Business</a></li>
+                                                    <li><a href="https://www.independent.ie/business/farming/">Farming</a></li>
+                                                    <li><a href="https://www.independent.ie/business/jobs/">Jobs</a></li>
+                                                    <li><a href="https://www.independent.ie/business/commercial-property/">Commercial Property</a></li>
+                                                    <li><a href="https://www.independent.ie/business/in-the-workplace/">In The Workplace</a></li>
+                                            </ul>
+                </li>
+                    
+                                                                                                            
+                                                <li class="-c:sport">
+                                    <a href="https://www.independent.ie/sport/" class="c-footer1-section">Sport</a>
+                    <ul>
+                                                    <li><a href="https://www.independent.ie/sport/rugby/">Rugby</a></li>
+                                                    <li><a href="https://www.independent.ie/sport/gaelic-games/">GAA</a></li>
+                                                    <li><a href="https://www.independent.ie/sport/soccer/">Soccer</a></li>
+                                                    <li><a href="https://www.independent.ie/sport/rugby/the-left-wing/">The Left Wing</a></li>
+                                                    <li><a href="https://www.independent.ie/sport/gaelic-games/the-throw-in/">The Throw In</a></li>
+                                                    <li><a href="https://www.independent.ie/sport/womens-sport/">Women's Sport</a></li>
+                                                    <li><a href="https://www.independent.ie/sport/golf/">Golf</a></li>
+                                                    <li><a href="https://www.independent.ie/sport/horse-racing/">Horse Racing</a></li>
+                                                    <li><a href="https://www.independent.ie/sport/other-sports/">Other Sports</a></li>
+                                                    <li><a href="https://www.independent.ie/sport/other-sports/cycling/icycle/">ICycle</a></li>
+                                            </ul>
+                </li>
+                    
+                                                                                                            
+                                                <li class="-c:life">
+                                    <a href="https://www.independent.ie/life/" class="c-footer1-section">Life</a>
+                    <ul>
+                                                    <li><a href="https://www.independent.ie/life/health-wellbeing/">Health &amp; Wellbeing</a></li>
+                                                    <li><a href="https://www.independent.ie/life/home-garden/">Home &amp; Garden</a></li>
+                                                    <li><a href="https://www.independent.ie/life/family/">Family</a></li>
+                                                    <li><a href="https://www.independent.ie/life/family/parenting/">Parenting</a></li>
+                                                    <li><a href="https://www.independent.ie/life/food-drink/">Food &amp; Drink</a></li>
+                                                    <li><a href="https://www.independent.ie/life/motoring/">Motoring</a></li>
+                                            </ul>
+                </li>
+                    
+                                                                                                            
+                                                <li class="-c:style">
+                                    <a href="https://www.independent.ie/style/" class="c-footer1-section">Style</a>
+                    <ul>
+                                                    <li><a href="https://www.independent.ie/style/celebrity/">Celebrity</a></li>
+                                                    <li><a href="https://www.independent.ie/style/fashion/">Fashion</a></li>
+                                                    <li><a href="https://www.independent.ie/style/beauty/">Beauty</a></li>
+                                                    <li><a href="https://www.independent.ie/style/sex-relationships/">Sex &amp; Relationships</a></li>
+                                                    <li><a href="https://www.independent.ie/style/voices/">Voices</a></li>
+                                                    <li><a href="https://www.independent.ie/style/galleries/">Galleries</a></li>
+                                            </ul>
+                </li>
+                    
+                                                                                                            
+                                                <li class="-c:entertainment">
+                                    <a href="https://www.independent.ie/entertainment/" class="c-footer1-section">Entertainment</a>
+                    <ul>
+                                                    <li><a href="https://www.independent.ie/entertainment/movies/">Movies</a></li>
+                                                    <li><a href="https://www.independent.ie/entertainment/television/">Television</a></li>
+                                                    <li><a href="https://www.independent.ie/entertainment/music/">Music</a></li>
+                                                    <li><a href="https://www.independent.ie/entertainment/radio/">Radio</a></li>
+                                                    <li><a href="https://www.independent.ie/entertainment/books/">Books</a></li>
+                                                    <li><a href="https://www.independent.ie/entertainment/theatre-arts/">Theatre &amp; Arts</a></li>
+                                                    <li><a href="https://www.independent.ie/entertainment/games/">Games</a></li>
+                                                    <li><a href="https://www.independent.ie/entertainment/festivals/">Festivals</a></li>
+                                                    <li><a href="https://www.independent.ie/entertainment/crosswords-puzzles/">Puzzles</a></li>
+                                                    <li><a href="https://www.independent.ie/entertainment/horoscopes/">Horoscopes</a></li>
+                                                    <li><a href="https://www.independent.ie/entertainment/competitions/">Competitions</a></li>
+                                            </ul>
+                </li>
+                    
+                                                                                                            
+                                                <li class="-c:travel">
+                                    <a href="https://www.independent.ie/life/travel/" class="c-footer1-section">Travel</a>
+                    <ul>
+                                                    <li><a href="https://www.independent.ie/life/travel/awards/">Reader Travel Awards</a></li>
+                                                    <li><a href="https://www.independent.ie/life/travel/travel-news/">Travel News</a></li>
+                                                    <li><a href="https://www.independent.ie/life/travel/staycations/">Staycations</a></li>
+                                                    <li><a href="https://www.independent.ie/life/travel/ireland/">Ireland</a></li>
+                                                    <li><a href="https://www.independent.ie/life/travel/reviews/">Reviews</a></li>
+                                                    <li><a href="https://www.independent.ie/life/travel/walks/">Walks</a></li>
+                                                    <li><a href="https://www.independent.ie/life/travel/europe/">Europe</a></li>
+                                                    <li><a href="https://www.independent.ie/life/travel/world/">World/USA</a></li>
+                                                    <li><a href="https://www.independent.ie/life/travel/travel-tv/">Travel TV</a></li>
+                                                    <li><a href="https://www.independent.ie/life/travel/cruise/">Cruise</a></li>
+                                                    <li><a href="https://www.independent.ie/life/travel/ski/">Ski</a></li>
+                                            </ul>
+                </li>
+                    
+                                                                                                            
+                                                <li class="-c:podcasts">
+                                    <a href="https://www.independent.ie/podcasts/" class="c-footer1-section">Podcasts</a>
+                    <ul>
+                                                    <li><a href="https://www.independent.ie/podcasts/the-indo-daily/">The Indo Daily</a></li>
+                                                    <li><a href="https://www.independent.ie/podcasts/the-left-wing/">The Left Wing</a></li>
+                                                    <li><a href="https://www.independent.ie/podcasts/the-big-tech-show/">The Big Tech Show</a></li>
+                                                    <li><a href="https://www.independent.ie/podcasts/the-real-health-podcast/">Real Health Podcast</a></li>
+                                                    <li><a href="https://www.independent.ie/podcasts/the-throw-in/">The Throw In</a></li>
+                                            </ul>
+                </li>
+                    
+                                                                                
+                                                                <li>
+                        <ul>
+                                                                <li>
+                                <a href="https://www.independent.ie/service/our-story-40128170.html">About Us</a>
+                            </li>
+                                
+                    
+                                                                                
+                                                                        <li>
+                                <a href="https://www.independent.ie/videos/">Video</a>
+                            </li>
+                                
+                    
+                                                                                
+                                                                        <li>
+                                <a href="https://member.independent.ie/newsletter" target="_blank">Newsletter</a>
+                            </li>
+                                
+                    
+                                                                                
+                                                                        <li>
+                                <a href="https://www.carsireland.ie/">CarsIreland.ie</a>
+                            </li>
+                                
+                    
+                                                                                
+                                                                        <li>
+                                <a href="https://www.carzone.ie/">Carzone.ie</a>
+                            </li>
+                                
+                    
+                                                                                
+                                                                        <li>
+                                <a href="https://www.cartell.ie/">Cartell.ie</a>
+                            </li>
+                                
+                    
+                                                                                
+                                                                        <li>
+                                <a href="https://switcher.ie/">Switcher.ie</a>
+                            </li>
+                                
+                    
+                                                                                
+                                                                        <li>
+                                <a href="https://shop.independent.ie" target="_blank">IndependentShop</a>
+                            </li>
+                                
+                    
+                                                                                
+                                                                        <li>
+                                <a href="https://discountcode.independent.ie/" rel="sponsored nofollow">Discount Codes</a>
+                            </li>
+                                
+                    
+                                                                                
+                                                                        <li>
+                                <a href="https://www.reach-delpac.ie" target="_blank">Reach Delpac</a>
+                            </li>
+                                                                <!-- Socials -->
+                            <li>
+                                <span>Socials</span>
+                                <div class="c-socials1">
+                                    <ul>
+                                        <li>
+                                            <a href="https://www.facebook.com/Independent.ie" aria-label="Facebook" class="-c:section">
+                                                <i class="icon1 -i:facebook" aria-label="Facebook"><span>Facebook</span></i>                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://twitter.com/independent_ie" aria-label="Twitter" class="-c:section">
+                                                <i class="icon1 -i:twitter" aria-label="Twitter"><span>Twitter</span></i>                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="mailto:customerhelp@independent.ie?body=Independent.ie&amp;subject=Independent.ie" aria-label="Email" class="-c:section">
+                                                <i class="icon1 -i:email" aria-label="Email"><span>Email</span></i>                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>                    
+                        </ul>
+                    </li>
+                                
+                                    </ul>
+</nav>
+
+<!-- Affiliated links and policies section -->
+<div class="c-footer1-bottom -recontain">
+    
+    <ul class="c-footer1-secondary -as:1">
+        <li><a href="https://www.independent.ie/service/sitemap/">Sitemap</a></li>
+        <li><a href="/html-sitemap-article-index/">Archive</a></li>        <li><a href="https://www.independent.ie/service/contact-us-40236004.html">Contact Us</a></li>
+        <li><a href="https://www.mediahuis.ie/terms-and-conditions/">Terms &amp; Conditions</a></li>
+        <li><a href="https://www.mediahuis.ie/privacystatement/">Privacy Statement</a></li>
+        <li><a href="https://www.mediahuis.ie/cookiepolicy/">Cookie Policy</a></li>
+                <li><a href="https://www.independent.ie/service/group-websites/">Group Websites</a></li>
+        <li><a href="https://www.mediahuis.ie/advertising-solutions/">Advertise with Us</a></li>
+            </ul>
+    <p class="c-footer1-copys">
+        <a href="https://www.mediahuis.ie/" class="owner1">
+            A <i class="icon1 -i:mediahuis" aria-label="Mediahuis"><i><span>Mediahuis</span></i></i>  Website
+            © Independent.ie
+        </a>
+    </p>
+</div>    </div>
+</footer>
+                    </div><script type="text/javascript" id="">"undefined"==typeof gigya&&(gigya={isGigya:!0});gigya.defaultEventMaps||(gigya.defaultEventMaps=[]);
+(function(){var e=function(a){return function(b){return b.source?"Gigya "+b.source:"Gigya "+a+" API"}},f=function(a,b,d,c){window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"socialEvent",socialNetwork:a,socialAction:b,socialTarget:d,page:c})},g=function(a,b,d,c){window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"customEvent",eventCategory:a,eventAction:b,eventLabel:d,eventValue:c})},h=function(a,b,d){a=a.split(",");for(var c=0;c<a.length;c++)f(a[c],b,d)};gigya.defaultEventMaps.push({defaultMethod:g,
+eventMap:[{events:"sendDone",method:h,args:["$providers","Gigya $source - Share Published","$targetURL",document.location.href]},{events:"followClicked",method:f,args:["$button.provider","Gigya Follow - button clicked","$button.actionURL",document.location.href]},{events:"reactionClicked",args:["Gigya Reaction Bar","Button Clicked","$reaction.text"]},{events:"reactionUnclicked",args:["Gigya Reaction Bar","Button Unclicked","$reaction.text"]},{events:"commentSubmitted",args:[function(a){return"reviews"==
+a.mode?"Gigya Reviews":"Gigya Comments"},function(a){return"reviews"==a.mode?"Review Published":"Comment Published"},"$streamID"]},{events:"commentVoted",args:[function(a){return"reviews"==a.mode?"Gigya Reviews":"Gigya Comments"},function(a){return"reviews"==a.mode?"Review Voted":"Comment Voted"},"$streamID"]},{events:"login",args:[e("Login"),"Social Login","$provider"]},{events:"logout",args:[e("Logout"),"Logout"]},{events:"connectionAdded",args:[e("Add Connection"),"Social Connection Added","$provider"]},
+{events:"connectionRemoved",args:[e("Remove Connection"),"Social Connection Removed","$provider"]}]})})();</script>
+        <script>
+  document.documentElement.style.setProperty('--vw', document.documentElement.clientWidth * 0.01 + 'px');
+  document.documentElement.style.setProperty('--vh', window.innerHeight * 0.01 + 'px');
+</script>
+
+                          <script type="text/javascript" src="/theme/_base/scripts/runtime.d5076b0cb159e80d92a7.js" async=""></script>
+                                        <script type="text/javascript" src="/theme/_base/scripts/vendors.30649440317ec1312f89.js" async=""></script>
+                          <script type="text/javascript" src="/theme/_base/scripts/app.7bc77a65a8b29ad65c67.js" async=""></script>
+                                                                                                                                                                                                                                                                                                                                    
+<div class="s-independent">
+
+
+
+    <a onclick="event.preventDefault(); Didomi.preferences.show();" href="#" style="cursor: pointer; position: fixed; background: var(--c_brand); padding: 5px 15px; color: #ffffff; display: flex; align-items: center; max-height: 30px; z-index: 10999999; bottom: 0px; right: 0px; border-top-left-radius: 3px; border-top-right-radius: 3px;">
+    <span class="icon1 -i:cog"></span> <span style="margin-left: 5px;">Privacy</span>
+  </a>
+</div>
+    
+
+<script type="text/javascript" id="">var refSeq=google_tag_manager["GTM-KJF4"].macro(20),pageType=google_tag_manager["GTM-KJF4"].macro(24),accessLoginShown=google_tag_manager["GTM-KJF4"].macro(26),isProd=!0,date=new Date;date.setTime(date.getTime()+18E5);var expires="; expires\x3d"+date.toGMTString(),viewSeq=google_tag_manager["GTM-KJF4"].macro(27)&&google_tag_manager["GTM-KJF4"].macro(28)?parseInt(google_tag_manager["GTM-KJF4"].macro(29))+1:1;document.cookie="viewSq\x3d"+viewSeq+expires+"; path\x3d/";void 0==google_tag_manager["GTM-KJF4"].macro(30)&&(document.cookie="_mhtrdisableshortname\x3d1"+expires+"; path\x3d/");window._mhtracker=window._mhtracker||{};
+var tracker=window._mhtracker;tracker.initialized=tracker.initialized||{};tracker.config=tracker.config||{};tracker.config.heartbeatEnabled=!0;tracker.initialized=tracker.initialized||{};tracker.config.api=isProd?"//prod-inm.mhtr.be":"//preview-inm.mhtr.be";tracker.config.viewApi=isProd?"//prod-inm.mhtr.be":"//preview-inm.mhtr.be";tracker.config.heartbeatApi=isProd?"//prodh-inm.mhtr.be":"//previewh-inm.mhtr.be";var scriptUrl="//preview-inm.mhtr.be/public/tr/tracker.min.js";isProd&&(scriptUrl="//prod-inm.mhtr.be/public/tr/tracker.min.js");
+tracker.config.scriptUrl=scriptUrl;tracker.config.debug=!isProd;var head=document.getElementsByTagName("head")[0],script=document.createElement("script");script.type="text/javascript";script.src=scriptUrl;script.async=!0;
+script.addEventListener("load",function(){console.log("GLiTR loaded");window._mhtracker.logView({isnewdataformat:!0,brandcode:"indo",environment:"prod",identityaccountid:google_tag_manager["GTM-KJF4"].macro(32),pagetitle:google_tag_manager["GTM-KJF4"].macro(33),pageurl:google_tag_manager["GTM-KJF4"].macro(34),sessionid:google_tag_manager["GTM-KJF4"].macro(39),subscriptionstatus:google_tag_manager["GTM-KJF4"].macro(47),subscriptiontype:google_tag_manager["GTM-KJF4"].macro(53),viewsequence:viewSeq,application:google_tag_manager["GTM-KJF4"].macro(54),accesswalltype:google_tag_manager["GTM-KJF4"].macro(58),pagetype:pageType,pagesectionname:google_tag_manager["GTM-KJF4"].macro(65),
+pagesectiontrees:google_tag_manager["GTM-KJF4"].macro(73),articleauthor:google_tag_manager["GTM-KJF4"].macro(74),articlecontenttype:google_tag_manager["GTM-KJF4"].macro(75),articleid:google_tag_manager["GTM-KJF4"].macro(76),articlepublicationdateinutc:google_tag_manager["GTM-KJF4"].macro(77),articletitle:google_tag_manager["GTM-KJF4"].macro(80),articletype:null,articletaglist:google_tag_manager["GTM-KJF4"].macro(82),articlesource:google_tag_manager["GTM-KJF4"].macro(83),pageutmcampaign:google_tag_manager["GTM-KJF4"].macro(84),pageutmcontent:google_tag_manager["GTM-KJF4"].macro(85),pageutmmedium:google_tag_manager["GTM-KJF4"].macro(86),pageutmsource:google_tag_manager["GTM-KJF4"].macro(87),pageutmterm:google_tag_manager["GTM-KJF4"].macro(88),
+accessloginshown:accessLoginShown,referrer:refSeq,pagesecure:google_tag_manager["GTM-KJF4"].macro(90),consentcookies:google_tag_manager["GTM-KJF4"].macro(92),consentcreateadsprofile:google_tag_manager["GTM-KJF4"].macro(94),consentcreatecontentprofile:google_tag_manager["GTM-KJF4"].macro(96),consentimproveproducts:google_tag_manager["GTM-KJF4"].macro(98),consentmarketresearch:google_tag_manager["GTM-KJF4"].macro(100),consentmeasureadperformance:google_tag_manager["GTM-KJF4"].macro(102),consentmeasurecontentperformance:google_tag_manager["GTM-KJF4"].macro(104),consentselectbasicads:google_tag_manager["GTM-KJF4"].macro(106),consentselectpersonalizedads:google_tag_manager["GTM-KJF4"].macro(108),
+consentselectpersonalizedcontent:google_tag_manager["GTM-KJF4"].macro(110),consentsocialmedia:google_tag_manager["GTM-KJF4"].macro(112)});window._mhtracker.initView();window._mhtracker.startHeartbeat({brandcode:"indo",isnewdataformat:!0,application:google_tag_manager["GTM-KJF4"].macro(113)});window._mhtracker.initEvent()});head.appendChild(script);window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"GLiTR Loaded"});</script> 
+<script type="text/javascript" id="">(function(c,b,d){a=b.getElementsByTagName("head")[0];r=b.createElement("script");r.async=1;r.src=google_tag_manager["GTM-KJF4"].macro(114);a.appendChild(r)})(window,document);</script> <script type="text/javascript" id="">function setCookie(c,d,a){var b=new Date;b.setTime(b.getTime()+6E4*a);a="expires\x3d"+b.toUTCString();document.cookie=c+"\x3d"+d+";"+a+";path\x3d/"}var loggedIn=""!=google_tag_manager["GTM-KJF4"].macro(115)?"true":"false";void 0==google_tag_manager["GTM-KJF4"].macro(116)?window.dataLayer.push({event:"sessionStarted",stickyLogin:loggedIn,eventCategory:"Data Collection",eventAction:"Sticky Login",eventLabel:loggedIn,eventNonInteractive:!0}):window.dataLayer.push({event:"sessionActive"});setCookie("sessionActive","true",30);</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init",google_tag_manager["GTM-KJF4"].macro(117));fbq("init",google_tag_manager["GTM-KJF4"].macro(118));fbq("track","PageView");</script>
+<script type="text/javascript" id="">(function(){function d(a,b){window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"customEvent",eventCategory:"Video",eventAction:a,eventLabel:b.id+" - "+b.title,eventValue:0,eventNonInteractive:!0})}try{window.bluebillywig.players.forEach(function(a){var b=a.getClipData();a.previousProgress=0;a.on("loadeddata",function(c){d("Loaded",b)});a.on("adstarted",function(c){d("Ad Started",b)});a.on("adquartile1",function(c){d("Ad Progress 25%",b)});a.on("adquartile2",function(c){d("Ad Progress 50%",
+b)});a.on("adquartile3",function(c){d("Ad Progress 75%",b)});a.on("adfinished",function(c){d("Ad Finished",b)});a.on("phasechange",function(c){c=a.getPhase();"MAIN"===c&&d("Content Started",b)});a.on("timeupdate",function(c){c=a.getPhase();var e=a.getCurrentTime(),f=b.length;"MAIN"===c&&(progress=Math.floor(100/f*e),progress>a.previousProgress&&25===progress&&d("Content Progress 25%",b),progress>a.previousProgress&&50===progress&&d("Content Progress 50%",b),progress>a.previousProgress&&75===progress&&
+d("Content Progress 75%",b),a.previousProgress=progress)});a.on("ended",function(c){c=a.getPhase();"EXIT"===c&&d("Content Finished",b)});a.on("error",function(c){d("Error",b)})})}catch(a){}})();</script><img src="https://t.co/i/adsct?bci=3&amp;eci=2&amp;event_id=8c29ccef-1722-4a6e-8da0-5644321c0018&amp;events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&amp;integration=advertiser&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=4880df40-8e1d-406c-b53d-b9ea4b4647f8&amp;tw_document_href=https%3A%2F%2Fwww.independent.ie%2Fservice%2Fcookie-policy-36769519.html%23_Toc529445270&amp;tw_iframe_status=0&amp;tw_order_quantity=0&amp;tw_sale_amount=0&amp;txn_id=nw6fh&amp;type=javascript&amp;version=2.3.29" height="1" width="1" style="display: none;"><img src="https://analytics.twitter.com/i/adsct?bci=3&amp;eci=2&amp;event_id=8c29ccef-1722-4a6e-8da0-5644321c0018&amp;events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&amp;integration=advertiser&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=4880df40-8e1d-406c-b53d-b9ea4b4647f8&amp;tw_document_href=https%3A%2F%2Fwww.independent.ie%2Fservice%2Fcookie-policy-36769519.html%23_Toc529445270&amp;tw_iframe_status=0&amp;tw_order_quantity=0&amp;tw_sale_amount=0&amp;txn_id=nw6fh&amp;type=javascript&amp;version=2.3.29" height="1" width="1" style="display: none;"><iframe id="cx_rep_iframe_0.7801340959956318" name="cx_rep_iframe_0.7801340959956318" width="1" height="1" src="https://cdn.cxense.com/sp1.html#ver=2.8.6&amp;typ=pgv&amp;rnd=lafclfkos55w7sxl&amp;sid=1138567629737805587&amp;loc=https%3A%2F%2Fwww.independent.ie%2Fservice%2Fcookie-policy-36769519.html%23_Toc529445270&amp;new=1&amp;arf=0&amp;ltm=1668343417376&amp;ref=&amp;tzo=300&amp;wsz=1280x720&amp;res=1280x720&amp;dpr=1&amp;col=24&amp;bln=en-US&amp;chs=UTF-8&amp;cks=lafclfnnje3eoe7p&amp;ckp=lafclfko3nsy03k2&amp;glb=&amp;cp_userState=anon" scrolling="no" frameborder="0" style="display: none;"></iframe><div class="pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links" style="width: 1px !important; height: 1px !important; position: absolute !important; left: -10000px !important; top: -1000px !important;"></div></body></html>

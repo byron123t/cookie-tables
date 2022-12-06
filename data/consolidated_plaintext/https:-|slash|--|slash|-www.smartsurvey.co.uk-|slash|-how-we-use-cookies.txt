@@ -1,0 +1,639 @@
+
+
+ How we use cookies - SmartSurvey
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+ 
+ 
+
+
+ 
+ 
+  
+
+
+
+   
+      
+
+
+
+
+
+    Skip to content We’re hiring | Contact us | Login
+
+
+ 
+
+       
+
+Products
+Make Smarter decisions with real-time feedback.
+
+Our Plans
+
+Survey SoftwareHow to select your plan
+
+
+Basic: Our free survey makerFree forever and perfect for personal use, students and micro businesses
+
+
+ProfessionalOur essential paid plan for smaller businesses
+
+
+BusinessFor larger organisations with more complex survey requirements
+
+
+Enterprise Survey SoftwareAdvanced survey tools that drive enterprises
+
+
+
+Specialised Products
+
+Consumer PanelsInstantly collect the exact audience responses you need
+
+
+NPS® SurveyMeasure then increase your brand advocacy
+
+
+360 AssessmentsBoost staff performance with co-worker feedback
+
+
+Integrations & PluginsConnect with your favourite business tools
+
+
+Select your plan
+
+
+
+Uses
+How enterprise customers are using SmartSurvey.
+
+
+Customer ExperienceUnderstand customers and improve loyalty
+
+
+Employee ExperienceImprove employee experience to motivate and retain staff
+
+
+Patient ExperienceUnderstand patients and improve their experience
+
+
+Market ResearchGain insight to make the right business moves
+
+
+Want to discuss your requirements? Get in touch
+
+
+
+
+Surveys
+Optimised for every scenario plus ready-to-use templates to get you up and running quickly.
+
+Customer Surveys
+Customer Satisfaction Survey
+Customer Experience Survey
+Customer Service Survey
+
+
+Employee Surveys
+Employee Satisfaction Survey
+Employee Pulse Survey
+Coronavirus Surveys
+
+
+Events & Hospitality
+Event Surveys
+Hospitality Surveys
+
+
+Healthcare Surveys
+Patient Satisfaction Surveys
+NHS Friends & Family Test
+GP Patient Survey
+
+
+Market Research Surveys
+Brand Surveys
+Product Surveys
+Marketing Surveys
+
+
+Education Surveys
+School Surveys
+Dissertation Surveys
+Academic Surveys
+
+
+Non-profit Surveys
+Charity Surveys
+Not-for-profit Discount
+
+
+Public Sector
+Government Surveys
+
+
+Everyday Surveys
+Online Surveys
+Online Forms
+SMS Surveys
+
+Select your plan
+
+
+
+Features
+From question types to data security, we’ve got you covered.
+
+Create
+Ask Questions Your Way
+Create Engaging Surveys
+Personal Productivity
+Smart Surveys
+
+
+Collect
+Accessibility
+Embed Surveys
+Flexible Distribution
+Mobile First Surveys
+
+
+Analyse
+Real-Time Analysis
+Measure Key Metrics
+
+
+White Label
+Advanced Customisation
+White Label Surveys
+
+
+Automate
+API, Webhooks, Integrations
+External Alerts and Updates
+Response Management
+
+
+Collaborate
+Collaboration
+Data Management
+Survey Sharing
+
+
+Security
+Safety and Security
+
+
+Support
+Helping You Succeed
+
+View all features
+
+
+Pricing
+
+Resources
+Learn more about using SmartSurvey and why we’re different.
+
+Tools
+Calculators
+Survey Templates
+
+
+Know-how
+eBooks
+Webinars
+Choosing Survey Tools
+Types of Survey
+Survey Questions
+Survey Design
+Product Information
+Accessible Survey Guide
+
+
+Articles
+Calculating Sample Size
+Primary Research Methods
+GDPR Compliance
+Advantages of Online Surveys
+Conducting An Online Survey
+Employee Attitude Surveys
+Tips For Designing Surveys
+Customer Satisfaction
+Net Promoter Score®
+Survey Vs Questionnaire
+
+
+Company
+About Us
+Careers
+Blog
+Case Studies
+
+
+
+
+We’re hiringContact usSign upLogin
+
+
+ Sign up
+
+
+
+
+
+ 
+How we use cookies
+
+How we use cookies
+We use cookies on our websites. Cookies are bits of data we store on the device you use to access our websites and services so we can recognise repeat visitors.Each cookie expires after a certain period of time, depending on what we use it for. We use cookies for several reasons. Below we list and describe the various cookies used on SmartSurvey’s website.
+By using SmartSurvey’s website, you expressly consent to the use of cookies as described on this page and in our Privacy Policy.
+Third-party cookies
+
+
+Cookie
+Purpose
+Expiration
+
+
+Google
+Used to collect and analyse information about how visitors use our site. We use Google Analytics and the Google Tag Manager platforms to collect and compile reports that help us improve our services. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. A unique User ID number is assigned to users who sign up with SmartSurvey in order to better understand their use of our service while logged in, no personally identifiable information is collected by this process.Learn more about Google and privacy
+
+2 years
+
+
+VWO
+Used on www.smartsurvey.co.uk pages to display new optimised content to visitors and collect information on user’s interaction with features that appear on those pages. This helps us better understand and support our users with content more relevant to their interests.Learn more about VWO’s opt out policy
+
+100 days
+
+
+Facebook
+To provide us with reports about the kinds of people seeing our ads and how our ads are performing, to help us understand our audience. We also use it to determine effectiveness of our advertisement. Information includes: IP address that you connect from, which browser is used, where you are geographically located, how you came to the site, where on the site you clicked, information about your device type, websites you visited this site from, purchases you make on the site, the ads you saw and how you interacted with them – whether or not you have a Facebook account or are logged in to Facebook. Full cookie details can be found on here:Learn more about Facebook trackingYou can also opt out using the following links About Ads or Your Online Choices
+
+30 days
+
+
+Hubspot
+To track visitors, recognise you and your chat history with us, track visitor and visitor sessions, obtain information about your computer and your visits to our site, information includes: your IP address, geographical location, browser type, referral source, length of visit and pages viewed. Full cookie details can be found on here:Learn more about Hubspot tracking
+
+1 year
+
+
+Microsoft
+To provide us with reports about the kinds of people seeing our ads and how our ads are performing, to help us understand our audience. We also use it to determine effectiveness of our advertisement.Learn more about Microsofts opt out policy
+
+90 days
+
+
+Application Insights
+ai_session – Used to collect information about how the site is being used with regards to performance and any errors that might occur, including measuring and recording loading times and logging any errors that might occur.This uses data captured (such as browser type and IP address) as well as the contents of a local cookie: ‘ai_session’.ai_user – Contains an anonymous randomly generated user id that is used to track users across our sites and across separate sessions which we cannot link to SmartSurvey user data.
+1 year
+
+SmartSurvey app cookies
+
+
+Cookie
+Purpose
+Expiration
+
+
+ASP.NET_SessionId
+Session cookie to remember a user through a survey. This is anonymous.
+2 hours
+
+
+AuthToken
+Security cookie to prevent session hijacking
+2 hours
+
+
+SERVERID
+For browsers to identify a server when load balancing
+2 hours
+
+
+.AspNetCore.Cookies
+Authentication cookie that the app uses to know when you are logged in
+2 hours
+
+
+__cfduid
+The _cfduid cookie helps Cloudflare detect malicious visitors to our Customers’ websites and minimizes blocking legitimate users. It may be placed on the devices of our customers’ End Users to identify individual clients behind a shared IP address and apply security settings on a per-client basis. It is necessary for supporting Cloudflare’s security features.
+1 month
+
+
+__cflb
+This is load balancer cookie for sticky sessions on Cloudflare load balancer.
+23 hours
+
+SmartSurvey website cookies
+
+
+Cookie
+Purpose
+Expiration
+
+
+MUID
+Used by Microsoft as a unique identifier. The cookie is set by embedded Microsoft scripts. The purpose of this cookie is to synchronize the ID across many different Microsoft domains to enable user tracking.
+1 year 24 days
+
+
+ANONCHK
+This cookie is used for storing the session ID for a user. This cookie ensures that clicks from advertisement on the Bing search engine are verified and it is used for reporting purposes and for personalization.
+10 minutes
+
+
+MUID
+Used by Microsoft as a unique identifier. The cookie is set by embedded Microsoft scripts. The purpose of this cookie is to synchronize the ID across many different Microsoft domains to enable user tracking.
+1 year 24 days
+
+
+ai_user
+This cookie is set by Microsoft Application Insights software. This cookie is used for collecting satistical usage and telemetry informations for apps built on the Azure cloud platform.
+1 year
+
+
+_gcl_au
+This cookie is used by Google Analytics to understand user interaction with the website.
+3 months
+
+
+ai_session
+This cookie is set by Microsoft Application Insights software. This cookie is used for collecting satistical usage and telemetry informations for apps built on the Azure cloud platform. This is a unique anonymus session identifier cookie.
+30 minutes
+
+
+_ga
+This cookie is installed by Google Analytics. The cookie is used to calculate visitor, session, campaign data and keep track of site usage for the site’s analytics report. The cookies store information anonymously and assign a randomly generated number to identify unique visitors.
+2 years
+
+
+_gid
+This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected including the number visitors, the source where they have come from, and the pages visted in an anonymous form.
+1 day
+
+
+_gat_UA-377167-1
+This is a pattern type cookie set by Google Analytics, where the pattern element on the name contains the unique identity number of the account or website it relates to.
+1 minute
+
+
+_uetsid
+This cookies are used to collect analytical information about how visitors use the website. This information is used to compile report and improve site.
+1 day
+
+
+__cflb
+This cookie is used by Cloudflare for load balancing.
+23 hours
+
+
+CLID
+Used by Microsoft Clarity. The cookie is set by embedded Microsoft Clarity scripts. The purpose of this cookie is for heatmap and session recording.
+1 year
+
+
+SM
+This cookie is installed by Microsoft Clarity.
+session
+
+
+SRM_B
+This cookie is installed by Microsoft Bing
+1 year 24 days
+
+
+_clck
+Used by Microsoft Clarity. The cookie is set by embedded Microsoft Clarity scripts. The purpose of this cookie is for heatmap and session recording.
+1 year
+
+
+_uetvid
+This cookie is installed by Microsoft Bing.
+1 year 24 days
+
+
+_clsk
+This cookie is installed by Microsoft Clarity.
+1 day
+
+SmartSurvey generated survey cookies
+
+
+Cookie
+Purpose
+Expiration
+
+
+SX_X
+This keeps track of completed surveys to prevent multiple responses for a survey (if the feature is switched on).
+1 year
+
+
+__cfduid
+The _cfduid cookie helps Cloudflare detect malicious visitors to our Customers’ websites and minimizes blocking legitimate users. It may be placed on the devices of our customers’ End Users to identify individual clients behind a shared IP address and apply security settings on a per-client basis. It is necessary for supporting Cloudflare’s security features.
+1 month
+
+
+__cflb
+This is load balancer cookie for sticky sessions on Cloudflare load balancer.
+23 hours
+
+
+SERVERID
+This is a load balancer cookie for sticky sessions on UKFast load balancer – This will be used on ringfenced solutions (and __cf cookies won’t appear).
+Session cookie
+
+
+
+
+About us
+Careers
+Security
+G-Cloud
+API Documentation
+Terms of Use
+Sub-Processors
+Privacy Policy
+Anti-SPAM Policy
+API Terms
+Cookie Information
+Accessibility Statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SmartSurvey is a digital survey solution that helps anyone create surveys, build questionnaires and analyse the results.      
+
+
+
+
+Navigation
+Home
+Plans & Pricing
+Our Customers
+Careers
+Security
+System Status
+
+
+
+Recent Blog Posts
+
+Types Of Customer Feedback
+What Is a Longitudinal Study?
+How To Choose an Online Survey Provider
+How To Measure Customer Service
+Qualifying Questions: Use Cases and Examples
+
+
+
+
+Survey Uses
+
+Customer Surveys
+NPS® Survey
+Customer Effort Score
+Voice of the Customer
+
+
+
+HR Surveys
+Recruitment Surveys
+Training Surveys
+Exit Interview Surveys
+
+
+
+Market Research
+Consumer Audience Surveys
+Marketing Surveys
+Promotion Surveys
+
+
+
+Healthcare Surveys
+GP Patient Survey
+Coronavirus Surveys
+
+
+
+Other Sectors
+Non-profit & Charity
+Government
+Education Surveys
+Hospitality & Travel
+Event Surveys
+
+
+
+
+
+
+Solutions
+Customer Experience
+Employee Engagement
+Consumer Panels
+Managed Services
+360 Surveys
+
+
+Survey Distribution
+Online Surveys
+Offline Surveys
+Mobile Surveys
+Email Surveys
+
+
+Survey Templates
+Customer Survey Templates
+HR Survey Templates
+Hospitality & Event Survey Templates
+Healthcare Survey Templates
+Education Survey Templates
+Form Templates
+All Survey Templates
+
+
+Resources
+Case Studies
+Articles
+Survey Design
+API Documentation
+
+
+
+
+
+Comparisons
+SurveyMonkey
+Qualtrics
+Typeform
+SurveyGizmo
+Snap Surveys
+Google Forms
+QuestionPro
+
+
+Useful Links
+Free Online Surveys
+Free Poll Maker
+Questionnaire Design
+Questionnaire Templates
+Online Forms
+Online Questionnaires
+
+
+
+
+ Copyright © 2022 SmartSurvey™. All Rights Reserved.
+Sitemap
+Accessibility Statement
+Privacy Policy
+Terms of Use
+Contact Us
+
+
+
+
+       Close 
+ 
+  
+
+ 
+
+
+
+Sign Up for Free to use this Template
+
+ Use this template
+
+
+     
+    

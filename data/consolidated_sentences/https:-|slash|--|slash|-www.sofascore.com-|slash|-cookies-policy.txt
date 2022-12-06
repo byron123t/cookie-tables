@@ -1,0 +1,251 @@
+Football Live Score - SofascoreProfile Favourites Dropping odds Notification settingsEnglish (UK)DanskDeutschΕλληνικάEnglish (UK)English (US)EspañolFrançaisHindīHrvatskiMagyarBahasa IndonesiaItalianoNederlandsBokmålPolskiPortuguês (Brasil)RomânăPусскийSlovenščinaСрпскиSvenskaTürkçe漢語OddsDecimalFractionalAmericanMeasurement unitsMetricImperialSofascore App!DownloadDropping oddsFavourites225/2646Football14American Football2/272BasketballMoreSelect sportFootball225/2646American Football14Basketball2/272Baseball15Hockey1/63MotorsportTennis11/470Table Tennis6/334Esports3/32Handball67Volleyball105Cricket1/42Rugby2/11Darts16Snooker4Futsal23BadmintonAussie RulesBeach VolleyballWaterpoloFloorball1/4Bandy1/8FootballAmerican FootballBasketballBaseballHockeyMotorsportTennisTable TennisEsportsMoreHandball67Volleyball105Cricket1/42Rugby2/11Darts16Snooker4Futsal23BadmintonAussie RulesBeach VolleyballWaterpoloFloorball1/4Bandy1/8
+Cookie List
+A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information
+Those cookies are set by us and called first-party cookies
+We also use third-party cookies – which are cookies from a domain different than the domain of the website you are visiting – for our advertising and marketing efforts
+More specifically, we use cookies and other tracking technologies for the following purposes:
+Strictly Necessary Cookies
+These cookies are necessary for the website to function and cannot be switched off in our systems
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work
+These cookies do not store any personally identifiable information.
+Strictly Necessary Cookies
+Cookie Subgroup
+Cookies
+Cookies used
+Lifespan
+www.sofascore.com
+eupubconsent, OptanonConsent, G_ENABLED_IDPS, OptanonAlertBoxClosed
+First Party
+2914159 Days, 365 Days, A few seconds, 365 Days
+sofascore.com
+__cfduid
+First Party
+30 Days
+onetrust.com
+__cfduid
+Third Party
+30 Days
+Targeting Cookies
+These cookies may be set through our site by our advertising partners
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device
+If you do not allow these cookies, you will experience less targeted advertising.
+Targeting Cookies
+Cookie Subgroup
+Cookies
+Cookies used
+Lifespan
+www.sofascore.com
+GoogleAdServingTest
+First Party
+Session
+sofascore.com
+_schn, _scid, _fbp, __gads
+First Party
+Session, 395 Days, 90 Days, 730 Days
+cdn.syndication.twimg.com
+lang
+Third Party
+Session
+yandex.ru
+i, ymex, yandexuid
+Third Party
+3650 Days, 365 Days, 365 Days
+advertising.com
+APID
+Third Party
+366 Days
+bidswitch.net
+tuuid, tuuid_lu, bsw_origin_init, c, google_push
+Third Party
+365 Days, 365 Days, A few seconds, 365 Days, A few seconds
+quantserve.com
+d, mc
+Third Party
+90 Days, 396 Days
+yahoo.com
+APID, A1, A1S, A3, APIDTS, GUC, B
+Third Party
+163 Days, 365 Days, Session, 365 Days, 1 Day, 365 Days, 365 Days
+mathtag.com
+mt_mop, uuid
+Third Party
+30 Days, 393 Days
+smaato.net
+SCMg, SCM
+Third Party
+7 Days, 14 Days
+spotxchange.com
+audience
+Third Party
+365 Days
+targeting.unrulymedia.com
+_rxuuid
+Third Party
+365 Days
+pubmatic.com
+KTPCACOOKIE, KADUSERCOOKIE
+Third Party
+1 Day, 90 Days
+sitescout.com
+ssi, _ssuma
+Third Party
+365 Days, 30 Days
+doubleclick.net
+IDE, DSID, test_cookie
+Third Party
+390 Days, A few seconds, A few seconds
+pool.admedo.com
+tuuid_lu, c, tuuid
+Third Party
+365 Days, 365 Days, 365 Days
+atdmt.com
+ATN
+Third Party
+730 Days
+myvisualiq.net
+c
+Third Party
+730 Days
+de17a.com
+guid2, guid
+Third Party
+540 Days, 540 Days
+casalemedia.com
+CMPRO, CMID, CMST, CMPS, CMRUM3
+Third Party
+90 Days, 365 Days, 1 Day, 90 Days, 365 Days
+blismedia.com
+b
+Third Party
+365 Days
+turn.com
+uid, pf, fc, adImpCount, pxs
+Third Party
+180 Days, A few seconds, 180 Days, A few seconds, 180 Days
+twitter.com
+personalization_id
+Third Party
+730 Days
+lijit.com
+ljt_reader
+Third Party
+365 Days
+tidaltv.com
+sync-his, tidal_ttid
+Third Party
+365 Days, 365 Days
+ctnsnet.com
+cid_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX, cid
+Third Party
+365 Days, 365 Days
+openx.net
+i
+Third Party
+365 Days
+w55c.net
+matchgoogle, wfivefivec
+Third Party
+30 Days, 396 Days
+1rx.io
+_rxuuid
+Third Party
+365 Days
+smartadserver.com
+TestIfCookieP, pid, csync
+Third Party
+396 Days, 395 Days, 396 Days
+3lift.com
+tluid
+Third Party
+90 Days
+everesttech.net
+everest_g_v2
+Third Party
+365 Days
+simpli.fi
+suid_legacy, suid
+Third Party
+366 Days, 366 Days
+adnxs.com
+uuid2, anj
+Third Party
+90 Days, 90 Days
+www.facebook.com
+Third Party
+Session
+creative-serving.com
+tuuid_lu, c, tuuid
+Third Party
+390 Days, 390 Days, 390 Days
+analytics.yahoo.com
+IDSYNC
+Third Party
+366 Days
+google.com
+NID
+Third Party
+183 Days
+tribalfusion.com
+__cfduid, ANON_ID_old, ANON_ID
+Third Party
+30 Days, 90 Days, 90 Days
+facebook.com
+fr
+Third Party
+90 Days
+adform.net
+uid, C
+Third Party
+60 Days, 30 Days
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site
+They help us to know which pages are the most and least popular and see how visitors move around the site
+All information these cookies collect is aggregated and therefore anonymous
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+Performance Cookies
+Cookie Subgroup
+Cookies
+Cookies used
+Lifespan
+sofascore.com
+__utmc, _gat, _ga_HNQ9P9MGZR, _gat_UA-nnnnnnn-nn, _ga, _gid, __utmt_f, __utmt_e, __utma, __utmb, __utmz
+First Party
+Session, A few seconds, 730 Days, A few seconds, 730 Days, 1 Day, A few seconds, A few seconds, 730 Days, A few seconds, 183 Days
+statcounter.com
+__cfduid, is_unique, is_visitor_unique
+Third Party
+30 Days, 1825 Days, 730 Days
+mc.yandex.ru
+yabs-sid
+Third Party
+Session
+snapchat.com
+sc_at
+Third Party
+389 Days
+nr-data.net
+JSESSIONID
+Third Party
+Session
+Policy SettingsAboutLive scores service at Sofascore livescore offers sports live scores, results and tables
+Follow your favourite teams right here live! Live score on Sofascore.com livescore is automatically updated and you don't need to refresh it manually
+With adding games you want to follow in "My games" following your matches livescores, results and statistics will be even more simple.Top live scores and streamingManchester City - ChelseaManchester United - Aston VillaHellas Verona - JuventusBayern München - Werder BremenInter - BolognaBasilashvili N
+- Hoang A.Baindl K
+- Zidanšek T.Los Angeles Lakers @ Los Angeles ClippersEdmonton Oilers @ Tampa Bay LightningIndia - EnglandWhen the fun stops, STOPDownload SofascoreLivescore app10+MilVisit usVisit localized livescore version of Sofascore:Football ResultsNogomet RezultatiCalcio RisultatiFútbol ResultadosFutebol ResultadosFußball Live TickerFootball RésultatsPiłka nożna WynikiFoci EredményekFodbold ResultaterFutbol SonuçlarıФутбол РезультатыVoetbal UitslagenSepak Bola HasilΠοδόσφαιρο ΑποτελέσματαFotboll Resultater足球 比赛结果Фудбал РезултатиNogomet RezultatiFotbal RezultatiFotball Resultater Privacy & cookie policy Advertise ContactSofascore Livescore app© 2022 Sofascore – All Rights Reserved.Privacy Preference CenterYour PrivacyYour PrivacyWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies
+This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to
+The information does not usually directly identify you, but it can give you a more personalized web experience
+Because we respect your right to privacy, you can choose not to allow some types of cookies
+Click on the different category headings to find out more and change our default settings
+However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More informationStrictly Necessary CookiesStrictly Necessary CookiesAlways Active  Strictly Necessary CookiesThese cookies are necessary for the website to function and cannot be switched off in our systems
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work
+These cookies do not store any personally identifiable information.Cookies Details‎Targeting CookiesTargeting Cookies  Targeting CookiesThese cookies may be set through our site by our advertising partners
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device
+If you do not allow these cookies, you will experience less targeted advertising.Cookies Details‎Performance CookiesPerformance Cookies  Performance CookiesThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site
+They help us to know which pages are the most and least popular and see how visitors move around the site
+All information these cookies collect is aggregated and therefore anonymous
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Cookies Details‎Back ButtonAdvertising Cookies Filter ButtonConsent Leg.Interest Select All Vendors Select All Vendors Select All HostsSelect All REPLACE-WITH-DYANMIC-HOST-IDView Third Party CookiesNamecookie nameClear Filters Information storage and accessApplyConfirm My Choices Allow All

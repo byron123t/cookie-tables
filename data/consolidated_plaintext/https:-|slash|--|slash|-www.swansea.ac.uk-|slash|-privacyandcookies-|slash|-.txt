@@ -1,0 +1,713 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy & Cookies - Swansea University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by CookiebotConsentDetails[#IABV2SETTINGS#]AboutOur website uses cookiesWe use cookies to provide features, customisation and anonymous web metrics to allow us to analyse our traffic and improve the experience of our website. Consent SelectionNecessary Preferences Statistics Marketing Change Settings Necessary  34 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.9970.global.siteimproveanalytics.iopayments.blackbaud.com4AWSELB [x2]Used to distribute traffic to the website on several servers in order to optimise response times.Expiry: SessionType: HTTPAWSELBCORS [x2]Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.  Expiry: SessionType: HTTPAdmedo1Learn more about this providercUsed in order to detect spam and improve the website's security. Does not store  visitor specific data.Expiry: 1 yearType: HTTPArena.im1Learn more about this providerfirebase:host:#.firebaseio.comPendingExpiry: PersistentType: HTMLBlackbaud2Learn more about this providerASP.NET_SessionIdPreserves the visitor's session state across page requests.Expiry: SessionType: HTTPNSC_#Used to distribute traffic to the website on several servers in order to optimise response times.Expiry: SessionType: HTTPCookiebot1Learn more about this providerCookieConsentStores the user's cookie consent state for the current domainExpiry: 1 yearType: HTTPCornerStone2Learn more about this providerJSESSIONIDPreserves users states across page requests.Expiry: SessionType: HTTPtIdPreserves the visitor's session state across page requests.Expiry: 179 daysType: HTTPGoogle1Learn more about this providerLPSecureStorage#lpSSPreserves the visitor's session state across page requests.Expiry: PersistentType: IDBJotForm2Learn more about this providerJOTFORM_SESSIONPreserves users states across page requests.Expiry: 29 daysType: HTTPthemeDetermines the device used to access the website. This allows the website to be formatted accordingly. Expiry: 30 daysType: HTTPLinkedIn1Learn more about this providerli_gcStores the user's cookie consent state for the current domainExpiry: 2 yearsType: HTTPMarketo1Learn more about this providerBIGipServer#Used to distribute traffic to the website on several servers in order to optimise response times.Expiry: SessionType: HTTPMicrosoft5Learn more about this providerClientId [x2]Determines the device used to access the website. This allows the website to be formatted accordingly. Expiry: 1 yearType: HTTPOIDC [x2]Control cookie used in connection to the website’s Content Delivery Network (CDN).Expiry: 6 monthsType: HTTPAADNonceUsed to implement Microsoft-forms on the website. Expiry: SessionType: HTTPapp-sn01.marketo.comvimeo.com2__cf_bm [x2]This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: 1 dayType: HTTPchat-eu.libanswers.comemea3.recruitmentplatform.com4AWSALB [x2]Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.  Expiry: 7 daysType: HTTPAWSALBCORS [x2]Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.  Expiry: 6 daysType: HTTPjourney-service.tb.lumesse.comvideostream.swan.ac.ukvideostream.swansea.ac.uk3SESS# [x3]Preserves users states across page requests.Expiry: SessionType: HTTPlo.v.liveperson.net1LPSessionIDPreserves the visitor's session state across page requests.Expiry: SessionType: HTTPplay.google.comyoutube.com2CONSENT [x2]Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.  Expiry: 2 yearsType: HTTPtappage.theaccessplatform.com1pusherTransportTLSTechnical cookie that synchronizes the website and the CMS. This is used to update the website.Expiry: PersistentType: HTMLPreferences  8 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.LinkedIn2Learn more about this providerlang [x2]Remembers the user's selected language version of a websiteExpiry: SessionType: HTTPSpotify1Learn more about this providerloglevelMaintains settings and outputs when using the Developer Tools Console on current session.Expiry: PersistentType: HTMLVidyard1Learn more about this providervidyardSettingsUsed to determine the optimal video quality based on the visitor's device and network settings. Expiry: PersistentType: HTMLaccdn.lpsnmedia.netlptag.liveperson.net2lpTestCookie# [x2]Used to check if the user's browser supports cookies.Expiry: SessionType: HTTPlptag.liveperson.net1lpTabIdUsed by LivePerson real time messaging platform to identify the active message tab.Expiry: SessionType: HTMLswanseauniversity.cloud.panopto.eu1UserSettingsThis cookie is used to determine the preferred quality of video content, this is based on visitor settings. Expiry: 2 yearsType: HTTPStatistics  45 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.Adobe Inc.1Learn more about this providerp.gifKeeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data. Expiry: SessionType: PixelArena.im2Learn more about this providerfirebase:previous_websocket_failureThis cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.Expiry: PersistentType: HTMLreactions--chat-#PendingExpiry: SessionType: HTMLGoogle8Learn more about this providerSSets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: 1 dayType: HTTP__utm.gifGoogle Analytics Tracking Code that logs details about the visitor's browser and computer.Expiry: SessionType: PixelcollectUsed to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.Expiry: SessionType: Pixel__utmaCollects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.Expiry: 2 yearsType: HTTP__utmbRegisters a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.Expiry: 1 dayType: HTTP__utmcRegisters a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.Expiry: SessionType: HTTP__utmtUsed to throttle the speed of requests to the server.Expiry: 1 dayType: HTTP__utmzCollects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.Expiry: 6 monthsType: HTTPHotjar9Learn more about this provider_hjAbsoluteSessionInProgressThis cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.Expiry: 1 dayType: HTTP_hjFirstSeenThis cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.Expiry: 1 dayType: HTTP_hjIncludedInPageviewSampleDetermines if the user's navigation should be registered in a certain statistical place holder.Expiry: 1 dayType: HTTP_hjIncludedInSessionSampleRegisters data on visitors' website-behaviour. This is used for internal analysis and website optimization. Expiry: 1 dayType: HTTP_hjRecordingLastActivitySets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: SessionType: HTML_hjSession_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Expiry: 1 dayType: HTTP_hjSessionUser_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Expiry: 1 yearType: HTTP_hjTLDTestDetects the SEO-ranking for the current website. This service is part of a third-party statistics and analysis service. Expiry: SessionType: HTTPhjViewportIdSets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: SessionType: HTMLJotForm1Learn more about this providerguestRegisters data on visitors' website-behaviour. This is used for internal analysis and website optimization. Expiry: 30 daysType: HTTPLinkedIn1Learn more about this providerAnalyticsSyncHistoryUsed in connection with data-synchronization with third-party analysis service. Expiry: 29 daysType: HTTPSiteimprove3Learn more about this providerheat.aspxCollects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.Expiry: SessionType: Pixelimage.aspxRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Expiry: SessionType: PixelnmstatThis cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.Expiry: 999 daysType: HTTPVimeo1Learn more about this providervuidCollects data on the user's visits to the website, such as which pages have been read.Expiry: 2 yearsType: HTTParena.imgiphy.comwww.google-analytics.comtappage.theaccessplatform.com4_gat [x4]Used by Google Analytics to throttle request rateExpiry: 1 dayType: HTTPfbo-r.flippingbook.comwww.googletagmanager.com2_ga_# [x2]Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. Expiry: 2 yearsType: HTTPgiphy.comfbo-r.flippingbook.comwww.google-analytics.comtappage.theaccessplatform.com4_ga [x4]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 2 yearsType: HTTPgiphy.comwww.google-analytics.comtappage.theaccessplatform.com3_gid [x3]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 1 dayType: HTTPlo.v.liveperson.net3LPVisitorIDUsed by LivePerson real time messaging platform to recognize the visitor on returning visits.Expiry: 1 yearType: HTTPlpLastVisit-#Used by LivePerson real time messaging platform to store the timestamp of the user's last visit.Expiry: PersistentType: HTMLLPVIDUsed by LivePerson real time messaging platform to recognize the visitor on returning visits.Expiry: 1 yearType: HTTPr1.trackedweb.net1pagevisitRegisters statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Expiry: SessionType: Pixelwww.swansea.ac.uk2_dc_gtm_UA-#Used by Google Tag Manager to control the loading of a Google Analytics script tag.Expiry: 1 dayType: HTTPHistory.storeContains an visitor ID - This is used to track visitors' navigation and interaction on the website for internal website-optimization. Expiry: SessionType: HTMLMarketing  54 Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. Meta Platforms, Inc.1Learn more about this provider_fbpUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: 3 monthsType: HTTPAdmedo3Learn more about this providertuuidCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 1 yearType: HTTPtuuid_luContains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.  Expiry: 1 yearType: HTTPul_cb/pixelPendingExpiry: SessionType: PixelAppnexus2Learn more about this provideranjRegisters a unique ID that identifies a returning user's device. The ID is used for targeted ads.Expiry: 3 monthsType: HTTPuuid2Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.Expiry: 3 monthsType: HTTPGiphy Support1Learn more about this providergiphyPingbackIdPendingExpiry: SessionType: HTMLGoogle9Learn more about this providerCOMPASSPendingExpiry: 1 dayType: HTTPIDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.Expiry: 1 yearType: HTTPpagead/landing [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. Expiry: SessionType: Pixeltest_cookieUsed to check if the user's browser supports cookies.Expiry: 1 dayType: HTTPads/ga-audiencesUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.Expiry: SessionType: PixelNIDRegisters a unique ID that identifies a returning user's device. The ID is used for targeted ads.Expiry: 6 monthsType: HTTPpagead/1p-user-list/#Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.Expiry: SessionType: Pixel_gcl_auUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.   Expiry: 3 monthsType: HTTPHotjar1Learn more about this provider_hjRecordingEnabledThis cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.Expiry: SessionType: HTMLInstagram1Learn more about this providerwww-claim-v2Used for sharing content onto the social platform Instagram - This functionality is used for gathering information on visitor preferences for marketing purposes. Expiry: SessionType: HTMLJotForm1Learn more about this provideruserRefererDetermines how the user accessed the website. This information is used by the website operator in order to measure the efficiency of their marketing.    Expiry: 30 daysType: HTTPLinkedIn5Learn more about this providerbcookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 2 yearsType: HTTPbscookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 2 yearsType: HTTPli_sugrCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. Expiry: 3 monthsType: HTTPlidcUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Expiry: 1 dayType: HTTPUserMatchHistoryUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.  Expiry: 29 daysType: HTTPMeta Platforms, Inc.1Learn more about this providertrUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: SessionType: PixelSoundcloud1Learn more about this providerWIDGET::local::assignmentsUsed by audio-platform SoundCloud to implement, measure and improve their embedded content/service on the website - The collection of data also includes visitors’ interaction with embedded content/service. This can be used for statistics or marketing purposes.  Expiry: PersistentType: HTMLSpotify2Learn more about this providersp_landingUsed to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.  Expiry: 1 dayType: HTTPsp_tUsed to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.  Expiry: 1 yearType: HTTPTiktok2Learn more about this providertt_appInfoUsed by the social networking service, TikTok, for tracking the use of embedded services.Expiry: SessionType: HTMLtt_sessionIdUsed by the social networking service, TikTok, for tracking the use of embedded services.Expiry: SessionType: HTMLTwitter Inc.1Learn more about this provideri/jotSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. Expiry: SessionType: PixelUnibuddy1Learn more about this provider__mpq_#_#Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. Expiry: PersistentType: HTMLWisepops4Learn more about this providerwisepopsUsed in context with pop-up advertisement-content on the website. The cookie determines which ads the visitor should be shown, as well as ensuring that the same ads does not get shown more than intended.Expiry: 2 yearsType: HTTPwisepops_sessionUsed in context with pop-up advertisement-content on the website. The cookie determines which ads the visitor should be shown, as well as ensuring that the same ads does not get shown more than intended.Expiry: SessionType: HTTPwisepops_visitsUsed in context with pop-up advertisement-content on the website. The cookie determines which ads the visitor should be shown, as well as ensuring that the same ads does not get shown more than intended.Expiry: 2 yearsType: HTTP_.gifUsed in context with pop-up advertisement-content on the website. The cookie determines which ads the visitor should be shown, as well as ensuring that the same ads does not get shown more than intended.Expiry: SessionType: PixelYouTube12Learn more about this providerVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Expiry: 179 daysType: HTTPYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: SessionType: HTTPyt.innertube::nextIdRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: PersistentType: HTMLyt.innertube::requestsRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: PersistentType: HTMLytidb::LAST_RESULT_ENTRY_KEYStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-cast-availableStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-cast-installedStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-connected-devicesStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-device-idStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-fast-check-periodStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-appStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-nameStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLaccdn.lpsnmedia.net1cobrowse-storage_expiration-57489797PendingExpiry: SessionType: HTMLlpcdn.lpsnmedia.net2lpUnifiedWindow-storage_expiration-57489797PendingExpiry: PersistentType: HTMLunAuthMessaging-storage_expiration-57489797PendingExpiry: PersistentType: HTMLstatic.trackedweb.net3dmSessionIDCollects information on what products the visitor has viewed and the content of the shopping-cart. This is used to increase the website's conversion rate through targeted advertisement and product promotions through emails.   Expiry: 1 dayType: HTTPrecordIDCollects information on what products the visitor has viewed and the content of the shopping-cart. This is used to increase the website's conversion rate through targeted advertisement and product promotions through emails.   Expiry: 1 yearType: HTTPutm_mediumCollects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.Expiry: SessionType: HTTPUnclassified  39Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.Arena.im8Learn more about this provider_gaArenaPendingExpiry: 1 dayType: HTTP_gaArena_gidPendingExpiry: 1 dayType: HTTParena_hub_anonymous_idPendingExpiry: PersistentType: HTMLanonymousUserIdPendingExpiry: PersistentType: HTMLarena-cached-api-/chatroom/swansea-uni/h1xoPendingExpiry: PersistentType: HTMLarena-cached-api-/sites/swansea-uniPendingExpiry: PersistentType: HTMLarenaUserCountryPendingExpiry: 29 daysType: HTMLfirebaseLocalStorageDb#lpSSPendingExpiry: PersistentType: IDBCornerStone7Learn more about this providerJSESSIONID_FOSameSitePendingExpiry: SessionType: HTTPMTTRACEACTPendingExpiry: SessionType: HTTPSACCOUNTNAMEPendingExpiry: SessionType: HTTPSUSERLOGINPendingExpiry: SessionType: HTTPUSERLANGUAGEPendingExpiry: SessionType: HTTPtId-legacyPendingExpiry: 180 daysType: HTTPlumesseAnalyticsInformationPendingExpiry: SessionType: HTMLFlippingbook2Learn more about this providerFlippingBook.FBO.Infrastructure.RandomSeedPendingExpiry: PersistentType: HTMLpsid_#PendingExpiry: SessionType: HTMLMicrosoft1Learn more about this providerAuthSessPendingExpiry: SessionType: HTTPTiktok1Learn more about this providertt_pixel_session_indexPendingExpiry: SessionType: HTMLUnibuddy5Learn more about this providerub_campaignPendingExpiry: PersistentType: HTMLub_contentPendingExpiry: PersistentType: HTMLub_mediumPendingExpiry: PersistentType: HTMLub_sourcePendingExpiry: PersistentType: HTMLUB_UUIDPendingExpiry: PersistentType: HTMLVidyard1Learn more about this provider{"words":[#,#,#,#,#],"sigBytes":20}PendingExpiry: SessionType: HTMLWisepops1Learn more about this providerwisepops_activity_sessionPendingExpiry: SessionType: HTTPlo.v.liveperson.net1LPSID-57489797PendingExpiry: SessionType: HTTPtappage.theaccessplatform.com3parentRefPendingExpiry: SessionType: HTMLprevUniTapPendingExpiry: PersistentType: HTMLutmData_549PendingExpiry: PersistentType: HTMLvideostream.swan.ac.ukvideostream.swansea.ac.uk8Auth5 [x2]PendingExpiry: SessionType: HTTPAutoAuthExternal [x2]PendingExpiry: SessionType: HTTPManualLogin [x2]PendingExpiry: SessionType: HTTPuserdetails [x2]PendingExpiry: SessionType: HTTPwww.swansea.ac.uk1enhancedPendingExpiry: 3 monthsType: HTTPCross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#] [#BULK_CONSENT_TITLE#]List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]Cookie declaration last updated on 5/1/22 by Cookiebot[#IABV2_TITLE#][#IABV2_BODY_INTRO#][#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#][#IABV2_BODY_PREFERENCE_INTRO#][#IABV2_LABEL_PURPOSES#][#IABV2_BODY_PURPOSES_INTRO#][#IABV2_BODY_PURPOSES#][#IABV2_LABEL_FEATURES#][#IABV2_BODY_FEATURES_INTRO#][#IABV2_BODY_FEATURES#][#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PARTNERS_INTRO#][#IABV2_BODY_PARTNERS#]Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy. [#OOI_PERSONAL_INFORMATION#]Use necessary cookies only Allow selection Customize Allow all cookiesPowered by Cookiebot by Usercentrics
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+Search:
+
+
+Search
+
+
+
+
+Jobs
+
+
+Accessibility Tools
+
+
+Current Students
+
+
+Staff
+
+
+中文
+
+
+Cymraeg
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jobs
+
+
+Accessibility Tools
+
+
+Current Students
+
+
+Staff
+
+
+中文
+
+
+Cymraeg
+
+
+
+
+
+
+Home
+
+
+
+
+
+Privacy & Cookies
+
+
+
+
+
+
+
+
+
+Study
+
+
+
+
+Open Days at Swansea
+
+
+
+
+
+
+
+
+
+We can't wait to meet you!
+Visit us
+
+
+Undergraduate
+
+
+Courses
+
+
+Accommodation
+
+
+Clearing at Swansea
+
+
+Parents and Guardians Guide to University
+
+
+Open Days
+
+
+How to Apply
+
+
+Scholarships and Bursaries
+
+
+Make an Undergrad Enquiry
+
+
+Keep in Touch
+
+
+
+
+Postgraduate
+
+
+Taught Courses
+
+
+Research Programmes
+
+
+Open Days
+
+
+How to Apply
+
+
+Scholarships and Bursaries
+
+
+Your University
+
+
+Make a Postgrad Enquiry
+
+
+Keep in Touch
+
+
+
+
+International Students
+
+
+Courses
+
+
+How to Apply
+
+
+Scholarships and Bursaries
+
+
+Your Country Information
+
+
+Support for International Students
+
+
+Study Abroad & Exchange
+
+
+English Language Training Services
+
+
+International Pathways
+
+
+Ask Us a Question
+
+
+
+
+Student Life
+
+
+Study
+
+
+Why Swansea
+
+
+Our Student Stories
+
+
+Life on Campus
+
+
+Sport
+
+
+Sustainability - Get Involved
+
+
+Arts and Culture
+
+
+Swansea University Students' Union
+
+
+Virtual tours
+
+
+What is Freshers?
+
+
+
+
+Student Services
+
+
+Library
+
+
+CampusLife
+
+
+Swansea Employability Academy (SEA)
+
+
+Student Enterprise
+
+
+Centre for Academic Success
+
+
+Welsh on Campus
+
+
+Student Wellbeing
+
+
+
+
+
+
+
+International 
+
+
+Our Research
+
+
+
+
+Our Research
+
+
+
+
+
+
+
+
+
+Find out more about our world-changing research
+Read more
+
+
+Research with us
+
+
+Supporting your postgraduate research journey
+
+
+Find a postgraduate research programme
+
+
+How to apply for your Postgraduate Research programme
+
+
+Training and Development for Research Students and Supervisors
+
+
+
+
+Explore our research
+
+
+Research Highlights
+
+
+Research in the faculties
+
+
+Momentum Magazine
+
+
+Global Challenges Podcast Series
+
+
+
+
+Discover our expertise
+
+
+Find a Researcher
+
+
+Find a research publication
+
+
+Access our Research Expertise
+
+
+
+
+Research Environment
+
+
+Research Integrity: Ethics and Governance
+
+
+Research Impact
+
+
+Training and Development
+
+
+Morgan Advanced Studies Institute (MASI) 
+
+
+
+
+Our Civic Mission
+
+
+Swansea Science Festival
+
+
+Being Human Festival
+
+
+Oriel Science
+
+
+A World of Welsh Copper
+
+
+
+
+
+
+
+Business
+
+
+Alumni
+
+
+Your University
+
+
+
+
+Press Office
+
+
+
+
+
+
+
+
+
+Latest news and research
+Press Office
+
+
+Your University
+
+
+About us
+
+
+How to Find Us
+
+
+University Awards and Rankings
+
+
+Our Faculties
+
+
+Press Office
+
+
+Job Opportunities and Working At Swansea
+
+
+Sustainability at Swansea University
+
+
+Travel to and from Campus
+
+
+Contact Us
+
+
+
+
+Sport
+
+
+Get ACTIVE
+
+
+Social Leagues
+
+
+Club Sport
+
+
+Performance
+
+
+Facilities
+
+
+Sponsorship
+
+
+Scholarships
+
+
+News
+
+
+
+
+Life on Campus
+
+
+Accommodation
+
+
+Catering
+
+
+Arts and Culture
+
+
+The Great Hall
+
+
+Taliesin
+
+
+Taliesin Create
+
+
+Egypt Centre
+
+
+Our Grounds
+
+
+Musical Opportunities
+
+
+Virtual Tour
+
+
+
+
+Our Faculties
+
+
+Faculty of Humanities and Social Sciences
+
+
+Faculty of Medicine, Health and Life Science 
+
+
+Faculty of Science and Engineering
+
+
+The College
+
+
+
+
+Academies
+
+
+Health and Wellbeing Academy 
+
+
+Morgan Advanced Studies Institute (MASI) 
+
+
+Swansea Employability Academy (SEA)
+
+
+Academi Hywel Teifi
+
+
+Swansea Academy of Inclusivity
+
+
+SALT
+
+
+
+
+
+
+
+News and Events
+
+
+Support & Wellbeing
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Privacy & Cookies
+
+
+
+
+
+
+
+Privacy & Cookies
+
+
+
+
+        Related pages    
+
+
+The UniversityOur ResearchUndergraduatePostgraduateInternational AlumniBusinessPress Office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Our website uses cookies. We use cookies to provide features, customisation and anonymous web metrics to allow us to analyse our traffic and improve the experience of our website.  Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy. Your consent applies to the following domains: www.swansea.ac.uk Your current state: Deny. Your current state: Do Not Sell My Personal Information. Your current state: Allow selection (Necessary, Preferences, Statistics, Marketing). Your current state: Allow all. Your consent ID: 0Consent date: Change your consent  |  Withdraw your consentDo Not Sell My Personal InformationCookie declaration last updated on 01/05/2022 by Cookiebot:        Necessary (34)         Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.           Name Provider Purpose Expiry Type    __cf_bm          [x2]         MarketoVimeo This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. 1 day HTTP Cookie   AADNonce Microsoft Used to implement Microsoft-forms on the website.  Session HTTP Cookie   ASP.NET_SessionId Blackbaud Preserves the visitor's session state across page requests. Session HTTP Cookie   AWSALB          [x2]         chat-eu.libanswers.comCornerStone Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.   7 days HTTP Cookie   AWSALBCORS          [x2]         chat-eu.libanswers.comCornerStone Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.   6 days HTTP Cookie   AWSELB          [x2]         Siteimprovepayments.blackbaud.com Used to distribute traffic to the website on several servers in order to optimise response times. Session HTTP Cookie   AWSELBCORS          [x2]         Siteimprovepayments.blackbaud.com Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.   Session HTTP Cookie   BIGipServer# Marketo Used to distribute traffic to the website on several servers in order to optimise response times. Session HTTP Cookie   c Admedo Used in order to detect spam and improve the website's security. Does not store  visitor specific data. 1 year HTTP Cookie   ClientId          [x2]         Microsoft Determines the device used to access the website. This allows the website to be formatted accordingly.  1 year HTTP Cookie   CONSENT          [x2]         GoogleYouTube Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.   2 years HTTP Cookie   CookieConsent Cookiebot Stores the user's cookie consent state for the current domain 1 year HTTP Cookie   firebase:host:#.firebaseio.com Arena.im Pending Persistent HTML Local Storage   JOTFORM_SESSION JotForm Preserves users states across page requests. 29 days HTTP Cookie   JSESSIONID CornerStone Preserves users states across page requests. Session HTTP Cookie   li_gc LinkedIn Stores the user's cookie consent state for the current domain 2 years HTTP Cookie   LPSecureStorage#lpSS Google Preserves the visitor's session state across page requests. Persistent IndexedDB   LPSessionID lo.v.liveperson.net Preserves the visitor's session state across page requests. Session HTTP Cookie   NSC_# Blackbaud Used to distribute traffic to the website on several servers in order to optimise response times. Session HTTP Cookie   OIDC          [x2]         Microsoft Control cookie used in connection to the website’s Content Delivery Network (CDN). 6 months HTTP Cookie   pusherTransportTLS tappage.theaccessplatform.com Technical cookie that synchronizes the website and the CMS. This is used to update the website. Persistent HTML Local Storage   SESS#          [x3]         CornerStonevideostream.swan.ac.ukvideostream.swansea.ac.uk Preserves users states across page requests. Session HTTP Cookie   theme JotForm Determines the device used to access the website. This allows the website to be formatted accordingly.  30 days HTTP Cookie   tId CornerStone Preserves the visitor's session state across page requests. 179 days HTTP Cookie     Preferences (8)         Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.           Name Provider Purpose Expiry Type    lang          [x2]         LinkedIn Remembers the user's selected language version of a website Session HTTP Cookie   loglevel Spotify Maintains settings and outputs when using the Developer Tools Console on current session. Persistent HTML Local Storage   lpTabId lptag.liveperson.net Used by LivePerson real time messaging platform to identify the active message tab. Session HTML Local Storage   lpTestCookie#          [x2]         accdn.lpsnmedia.netlptag.liveperson.net Used to check if the user's browser supports cookies. Session HTTP Cookie   UserSettings swanseauniversity.cloud.panopto.eu This cookie is used to determine the preferred quality of video content, this is based on visitor settings.  2 years HTTP Cookie   vidyardSettings Vidyard Used to determine the optimal video quality based on the visitor's device and network settings.  Persistent HTML Local Storage     Statistics (45)         Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.           Name Provider Purpose Expiry Type    __utm.gif Google Google Analytics Tracking Code that logs details about the visitor's browser and computer. Session Pixel Tracker   __utma Google Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics. 2 years HTTP Cookie   __utmb Google Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit. 1 day HTTP Cookie   __utmc Google Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit. Session HTTP Cookie   __utmt Google Used to throttle the speed of requests to the server. 1 day HTTP Cookie   __utmz Google Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics. 6 months HTTP Cookie   _dc_gtm_UA-# www.swansea.ac.uk Used by Google Tag Manager to control the loading of a Google Analytics script tag. 1 day HTTP Cookie   _ga          [x4]         Giphy SupportFlippingbookGoogletappage.theaccessplatform.com Registers a unique ID that is used to generate statistical data on how the visitor uses the website. 2 years HTTP Cookie   _ga_#          [x2]         FlippingbookGoogle Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.  2 years HTTP Cookie   _gat          [x4]         Arena.imGiphy SupportGoogletappage.theaccessplatform.com Used by Google Analytics to throttle request rate 1 day HTTP Cookie   _gid          [x3]         Giphy SupportGoogletappage.theaccessplatform.com Registers a unique ID that is used to generate statistical data on how the visitor uses the website. 1 day HTTP Cookie   _hjAbsoluteSessionInProgress Hotjar This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. 1 day HTTP Cookie   _hjFirstSeen Hotjar This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website. 1 day HTTP Cookie   _hjIncludedInPageviewSample Hotjar Determines if the user's navigation should be registered in a certain statistical place holder. 1 day HTTP Cookie   _hjIncludedInSessionSample Hotjar Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.  1 day HTTP Cookie   _hjRecordingLastActivity Hotjar Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. Session HTML Local Storage   _hjSession_# Hotjar Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. 1 day HTTP Cookie   _hjSessionUser_# Hotjar Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. 1 year HTTP Cookie   _hjTLDTest Hotjar Detects the SEO-ranking for the current website. This service is part of a third-party statistics and analysis service.  Session HTTP Cookie   AnalyticsSyncHistory LinkedIn Used in connection with data-synchronization with third-party analysis service.  29 days HTTP Cookie   collect Google Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. Session Pixel Tracker   firebase:previous_websocket_failure Arena.im This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website. Persistent HTML Local Storage   guest JotForm Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.  30 days HTTP Cookie   heat.aspx Siteimprove Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. Session Pixel Tracker   History.store www.swansea.ac.uk Contains an visitor ID - This is used to track visitors' navigation and interaction on the website for internal website-optimization.  Session HTML Local Storage   hjViewportId Hotjar Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. Session HTML Local Storage   image.aspx Siteimprove Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.  Session Pixel Tracker   lpLastVisit-# lo.v.liveperson.net Used by LivePerson real time messaging platform to store the timestamp of the user's last visit. Persistent HTML Local Storage   LPVID lo.v.liveperson.net Used by LivePerson real time messaging platform to recognize the visitor on returning visits. 1 year HTTP Cookie   LPVisitorID lo.v.liveperson.net Used by LivePerson real time messaging platform to recognize the visitor on returning visits. 1 year HTTP Cookie   nmstat Siteimprove This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience. 999 days HTTP Cookie   p.gif Adobe Inc. Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.  Session Pixel Tracker   pagevisit r1.trackedweb.net Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.  Session Pixel Tracker   reactions--chat-# Arena.im Pending Session HTML Local Storage   S Google Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. 1 day HTTP Cookie   vuid Vimeo Collects data on the user's visits to the website, such as which pages have been read. 2 years HTTP Cookie     Marketing (54)         Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.           Name Provider Purpose Expiry Type    _.gif Wisepops Used in context with pop-up advertisement-content on the website. The cookie determines which ads the visitor should be shown, as well as ensuring that the same ads does not get shown more than intended. Session Pixel Tracker   __mpq_#_# Unibuddy Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.  Persistent HTML Local Storage   _fbp  Meta Platforms, Inc. Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. 3 months HTTP Cookie   _gcl_au Google Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.    3 months HTTP Cookie   _hjRecordingEnabled Hotjar This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange. Session HTML Local Storage   ads/ga-audiences Google Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites. Session Pixel Tracker   anj Appnexus Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. 3 months HTTP Cookie   bcookie LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services. 2 years HTTP Cookie   bscookie LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services. 2 years HTTP Cookie   cobrowse-storage_expiration-57489797 accdn.lpsnmedia.net Pending Session HTML Local Storage   COMPASS Google Pending 1 day HTTP Cookie   dmSessionID static.trackedweb.net Collects information on what products the visitor has viewed and the content of the shopping-cart. This is used to increase the website's conversion rate through targeted advertisement and product promotions through emails.    1 day HTTP Cookie   giphyPingbackId Giphy Support Pending Session HTML Local Storage   i/jot Twitter Inc. Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.  Session Pixel Tracker   IDE Google Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user. 1 year HTTP Cookie   li_sugr LinkedIn Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.  3 months HTTP Cookie   lidc LinkedIn Used by the social networking service, LinkedIn, for tracking the use of embedded services. 1 day HTTP Cookie   lpUnifiedWindow-storage_expiration-57489797 lpcdn.lpsnmedia.net Pending Persistent HTML Local Storage   NID Google Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. 6 months HTTP Cookie   pagead/1p-user-list/# Google Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. Session Pixel Tracker   pagead/landing          [x2]         Google Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.  Session Pixel Tracker   recordID static.trackedweb.net Collects information on what products the visitor has viewed and the content of the shopping-cart. This is used to increase the website's conversion rate through targeted advertisement and product promotions through emails.    1 year HTTP Cookie   sp_landing Spotify Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.   1 day HTTP Cookie   sp_t Spotify Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.   1 year HTTP Cookie   test_cookie Google Used to check if the user's browser supports cookies. 1 day HTTP Cookie   tr Meta Platforms, Inc. Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. Session Pixel Tracker   tt_appInfo Tiktok Used by the social networking service, TikTok, for tracking the use of embedded services. Session HTML Local Storage   tt_sessionId Tiktok Used by the social networking service, TikTok, for tracking the use of embedded services. Session HTML Local Storage   tuuid Admedo Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads. 1 year HTTP Cookie   tuuid_lu Admedo Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.   1 year HTTP Cookie   ul_cb/pixel Admedo Pending Session Pixel Tracker   unAuthMessaging-storage_expiration-57489797 lpcdn.lpsnmedia.net Pending Persistent HTML Local Storage   UserMatchHistory LinkedIn Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.   29 days HTTP Cookie   userReferer JotForm Determines how the user accessed the website. This information is used by the website operator in order to measure the efficiency of their marketing.     30 days HTTP Cookie   utm_medium static.trackedweb.net Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products. Session HTTP Cookie   uuid2 Appnexus Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. 3 months HTTP Cookie   VISITOR_INFO1_LIVE YouTube Tries to estimate the users' bandwidth on pages with integrated YouTube videos. 179 days HTTP Cookie   WIDGET::local::assignments Soundcloud Used by audio-platform SoundCloud to implement, measure and improve their embedded content/service on the website - The collection of data also includes visitors’ interaction with embedded content/service. This can be used for statistics or marketing purposes.   Persistent HTML Local Storage   wisepops Wisepops Used in context with pop-up advertisement-content on the website. The cookie determines which ads the visitor should be shown, as well as ensuring that the same ads does not get shown more than intended. 2 years HTTP Cookie   wisepops_session Wisepops Used in context with pop-up advertisement-content on the website. The cookie determines which ads the visitor should be shown, as well as ensuring that the same ads does not get shown more than intended. Session HTTP Cookie   wisepops_visits Wisepops Used in context with pop-up advertisement-content on the website. The cookie determines which ads the visitor should be shown, as well as ensuring that the same ads does not get shown more than intended. 2 years HTTP Cookie   www-claim-v2 Instagram Used for sharing content onto the social platform Instagram - This functionality is used for gathering information on visitor preferences for marketing purposes.  Session HTML Local Storage   YSC YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Session HTTP Cookie   yt.innertube::nextId YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Persistent HTML Local Storage   yt.innertube::requests YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Persistent HTML Local Storage   ytidb::LAST_RESULT_ENTRY_KEY YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-cast-available YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-cast-installed YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-connected-devices YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-device-id YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-fast-check-period YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-app YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-name YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage     Unclassified (39)         Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.           Name Provider Purpose Expiry Type    _gaArena Arena.im Pending 1 day HTTP Cookie   _gaArena_gid Arena.im Pending 1 day HTTP Cookie   {"words":[#,#,#,#,#],"sigBytes":20} Vidyard Pending Session HTML Local Storage   anonymousUserId Arena.im Pending Persistent HTML Local Storage   arena_hub_anonymous_id Arena.im Pending Persistent HTML Local Storage   arena-cached-api-/chatroom/swansea-uni/h1xo Arena.im Pending Persistent HTML Local Storage   arena-cached-api-/sites/swansea-uni Arena.im Pending Persistent HTML Local Storage   arenaUserCountry Arena.im Pending 29 days HTML Local Storage   Auth5          [x2]         videostream.swan.ac.ukvideostream.swansea.ac.uk Pending Session HTTP Cookie   AuthSess Microsoft Pending Session HTTP Cookie   AutoAuthExternal          [x2]         videostream.swan.ac.ukvideostream.swansea.ac.uk Pending Session HTTP Cookie   enhanced www.swansea.ac.uk Pending 3 months HTTP Cookie   firebaseLocalStorageDb#lpSS Arena.im Pending Persistent IndexedDB   FlippingBook.FBO.Infrastructure.RandomSeed Flippingbook Pending Persistent HTML Local Storage   JSESSIONID_FOSameSite CornerStone Pending Session HTTP Cookie   LPSID-57489797 lo.v.liveperson.net Pending Session HTTP Cookie   lumesseAnalyticsInformation CornerStone Pending Session HTML Local Storage   ManualLogin          [x2]         videostream.swan.ac.ukvideostream.swansea.ac.uk Pending Session HTTP Cookie   MTTRACEACT CornerStone Pending Session HTTP Cookie   parentRef tappage.theaccessplatform.com Pending Session HTML Local Storage   prevUniTap tappage.theaccessplatform.com Pending Persistent HTML Local Storage   psid_# Flippingbook Pending Session HTML Local Storage   SACCOUNTNAME CornerStone Pending Session HTTP Cookie   SUSERLOGIN CornerStone Pending Session HTTP Cookie   tId-legacy CornerStone Pending 180 days HTTP Cookie   tt_pixel_session_index Tiktok Pending Session HTML Local Storage   ub_campaign Unibuddy Pending Persistent HTML Local Storage   ub_content Unibuddy Pending Persistent HTML Local Storage   ub_medium Unibuddy Pending Persistent HTML Local Storage   ub_source Unibuddy Pending Persistent HTML Local Storage   UB_UUID Unibuddy Pending Persistent HTML Local Storage   userdetails          [x2]         videostream.swan.ac.ukvideostream.swansea.ac.uk Pending Session HTTP Cookie   USERLANGUAGE CornerStone Pending Session HTTP Cookie   utmData_549 tappage.theaccessplatform.com Pending Persistent HTML Local Storage   wisepops_activity_session Wisepops Pending Session HTTP Cookie   
+
+
+
+
+
+
+
+
+The UniversityOur ResearchUndergraduatePostgraduateInternational AlumniBusinessPress Office
+
+
+
+
+
+
+
+
+
+
+
+Contact UsJobsFacultiesPressHealth & SafetyDisclaimer & CopyrightSite MapPrivacy & CookiesModern Slavery StatementAccessibility Statement
+
+
+Swansea University is a registered charity, No. 1138342
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

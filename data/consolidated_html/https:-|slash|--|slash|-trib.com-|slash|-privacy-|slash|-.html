@@ -1,0 +1,1772 @@
+<!DOCTYPE html><html lang="en"><head><style><!----> .osano-cm-window{font-smooth:always;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothingz:auto;--fade-transition-time:700ms;display:block;font-family:Helvetica,Arial,Hiragino Sans GB,STXihei,Microsoft YaHei,WenQuanYi Micro Hei,Hind,MS Gothic,Apple SD Gothic Neo,NanumBarunGothic,sans-serif;font-size:16px;left:0;line-height:1;position:absolute;top:0;width:100%;z-index:2147483638}.osano-cm-window--context_amp{height:100%}.osano-visually-hidden{height:1px;left:-10000px;margin:-1px;opacity:0;overflow:hidden;position:absolute;width:1px}.osano-cm-button{border-radius:.25em;border-style:solid;border-width:thin;cursor:pointer;flex:1 1 auto;font-size:1em;font-weight:700;line-height:1;margin:.125em;min-width:6em;padding:.5em .75em;transition-duration:.2s;transition-property:background-color;transition-timing-function:ease-out}.osano-cm-button--type_icon{border-radius:50%;height:1em;line-height:0;min-width:1em;width:1em}.osano-cm-button:focus,.osano-cm-button:hover{outline:none}.osano-cm-close{stroke-width:1px;border-radius:50%;border-style:solid;border-width:2px;box-sizing:initial;cursor:pointer;height:20px;margin:.5em;min-height:20px;min-width:20px;order:0;outline:none;overflow:hidden;padding:0;text-decoration:none;transform:rotate(0deg);transition-duration:.2s;transition-property:transform,color,background-color,stroke,stroke-width;transition-timing-function:ease-out;width:20px;z-index:2}.osano-cm-close:focus,.osano-cm-close:hover{stroke-width:2px;transform:rotate(90deg)}.osano-cm-link{cursor:pointer;text-decoration:underline;transition-duration:.2s;transition-property:color;transition-timing-function:ease-out}.osano-cm-link:active,.osano-cm-link:hover{outline:none}.osano-cm-link:focus{font-weight:700;outline:none}.osano-cm-link--type_feature,.osano-cm-link--type_purpose,.osano-cm-link--type_specialFeature,.osano-cm-link--type_specialPurpose{cursor:help;display:block;-webkit-text-decoration:dashed;text-decoration:dashed}.osano-cm-link--type_denyAll{display:block;text-align:right}[dir=rtl] .osano-cm-link--type_denyAll{text-align:left}.osano-cm-link--type_vendor{display:block}.osano-cm-vendor-link{font-size:.75em}.osano-cm-list-item{margin:0}.osano-cm-list-item--type_term{border-top-style:solid;border-top-width:1px;font-size:.875rem;font-weight:400;margin-bottom:.25em;margin-top:.5em;padding:.5em .75rem 0;position:relative;top:-1px}.osano-cm-list-item--type_description{font-size:.75rem;font-weight:lighter;padding:0 .75rem}.osano-cm-list{list-style-position:outside;list-style-type:none;margin:0;padding:0}.osano-cm-list__list-item{text-indent:0}.osano-cm-list--type_description{margin:0 -1em}.osano-cm-list:first-of-type .osano-cm-list__list-item:first-of-type{border-top-width:0;margin-top:0;padding-top:0}.osano-cm-toggle{align-items:center;display:flex;flex-direction:row-reverse;justify-content:flex-start;margin:.25em 0;pointer-events:auto;position:relative}.osano-cm-toggle__label{margin:0 .5em 0 0}[dir=rtl] .osano-cm-toggle__label{margin:0 0 0 .5em}.osano-cm-toggle__switch{border-radius:14px;border-style:solid;border-width:2px;box-sizing:initial;color:transparent;display:block;flex-shrink:0;height:18px;line-height:0;margin:0;position:relative;text-indent:-9999px;transition-duration:.2s;transition-property:background-color;transition-timing-function:ease-out;width:40px}.osano-cm-toggle__switch:hover{cursor:pointer}.osano-cm-toggle__switch:after{border-radius:9px;border-width:0;height:18px;left:0;top:0;width:18px}.osano-cm-toggle__switch:before{border-radius:16px;border-width:2px;bottom:-6px;box-sizing:border-box;left:-6px;right:-6px;top:-6px}.osano-cm-toggle__switch:after,.osano-cm-toggle__switch:before{border-style:solid;content:"";margin:0;position:absolute;transform:translateX(0);transition-duration:.3s;transition-property:transform,left,border-color;transition-timing-function:ease-out}.osano-cm-toggle__switch:after:active,.osano-cm-toggle__switch:before:active{transition-duration:.1s}.osano-cm-toggle__switch:after:active{width:26px}.osano-cm-toggle__switch:before:active{width:34px}[dir=rtl] .osano-cm-toggle__switch:after{left:100%;transform:translateX(-100%)}.osano-cm-toggle__input{height:1px;left:-10000px;margin:-1px;opacity:0;overflow:hidden;position:absolute;width:1px}.osano-cm-toggle__input:disabled{cursor:default}.osano-cm-toggle--type_checkbox .osano-cm-toggle__switch{border-radius:4px;border-style:solid;border-width:1px;height:22px;width:22px}.osano-cm-toggle--type_checkbox .osano-cm-toggle__switch:after{background-color:transparent!important;border-bottom-width:2px;border-left-width:2px;border-radius:0;content:none;height:6px;left:3px;top:3px;transform:rotate(-45deg);transition-property:color;transition-timing-function:ease-out;width:12px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch{border-radius:4px;border-style:solid;border-width:1px;height:22px;width:22px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:after,.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:before{background-color:transparent!important;border-bottom-width:1px;border-radius:0;border-top-width:1px;content:none;height:0;left:-3px;top:7px;transition-property:color;transition-timing-function:ease-out;width:12px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:after{transform:translate(50%,50%) rotate(-45deg)}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:before{transform:translate(50%,50%) rotate(45deg)}.osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{left:100%;transform:translateX(-100%)}[dir=rtl] .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{left:0;transform:translateX(0)}.osano-cm-toggle__input:disabled+.osano-cm-toggle__switch{cursor:default}.osano-cm-toggle--type_checkbox .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{content:"";left:3px;top:3px;transform:rotate(-45deg)}.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after,.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:before{content:"";left:-3px;top:7px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{transform:translate(50%,50%) rotate(-45deg)}.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:before{transform:translate(50%,50%) rotate(45deg)}.osano-cm-toggle--type_checkbox .osano-cm-toggle__input:disabled+.osano-cm-toggle__switch,.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:disabled+.osano-cm-toggle__switch{opacity:.3}.osano-cm-widget{background:none;border:none;bottom:12px;cursor:pointer;height:40px;opacity:.9;outline:none;padding:0;position:fixed;transition:transform .1s linear 0s,opacity .4s linear 0ms,visibility 0ms linear 0ms;visibility:visible;width:40px;z-index:2147483636}.osano-cm-widget--position_right{right:12px}.osano-cm-widget--position_left{left:12px}.osano-cm-widget:focus{outline:solid;outline-offset:.2rem}.osano-cm-widget:focus,.osano-cm-widget:hover{opacity:1;transform:scale(1.1)}.osano-cm-widget--hidden{opacity:0;transition-delay:0ms,0ms,.4s;visibility:hidden}.osano-cm-widget--hidden:focus,.osano-cm-widget--hidden:hover{opacity:0;transform:scale(1)}:export{fadeTransitionTime:.7s}.osano-cm-dialog{align-items:center;box-sizing:border-box;font-size:1em;line-height:1.25;overflow:auto;padding:1.5em;position:fixed;transition-delay:0ms,0ms;transition-duration:.7s,0ms;transition-property:opacity,visibility;visibility:visible;z-index:2147483637}.osano-cm-dialog--hidden{opacity:0;transition-delay:0ms,.7s;visibility:hidden}.osano-cm-dialog--type_bar{box-sizing:border-box;display:flex;flex-direction:column;left:0;right:0}.osano-cm-dialog--type_bar .osano-cm-button{flex:none;margin:.125em auto;width:80%}@media screen and (min-width:768px){.osano-cm-dialog--type_bar{flex-direction:row}.osano-cm-dialog--type_bar .osano-cm-button{flex:1 1 100%;margin:.25em .5em;width:auto}}.osano-cm-dialog--type_box{flex-direction:column;max-height:calc(100vh - 2em);max-width:20em;width:calc(100vw - 2em)}.osano-cm-dialog__close{position:absolute;right:0;top:0}.osano-cm-dialog__list{margin:.5em 0 0;padding:0}.osano-cm-dialog__list .osano-cm-item{display:flex;margin-top:0}.osano-cm-dialog__list .osano-cm-item:last-child{margin-bottom:0}.osano-cm-dialog__list .osano-cm-toggle{flex-direction:row}[dir=rtl] .osano-cm-dialog__list .osano-cm-toggle{flex-direction:row-reverse}.osano-cm-dialog__list .osano-cm-label{white-space:nowrap}[dir=ltr] .osano-cm-dialog__list .osano-cm-label{margin-left:.375em}[dir=rtl] .osano-cm-dialog__list .osano-cm-label{margin-right:.375em}.osano-cm-dialog__buttons{display:flex;flex-wrap:wrap}.osano-cm-dialog--type_bar .osano-cm-dialog__content{flex:5;margin-bottom:.25em;width:100%}@media screen and (min-width:768px){.osano-cm-dialog--type_bar .osano-cm-dialog__content{max-height:30vh}}.osano-cm-dialog--type_box .osano-cm-dialog__content{display:flex;flex-direction:column;flex-grow:.0001;transition:flex-grow 1s linear}.osano-cm-dialog--type_bar .osano-cm-dialog__list{display:flex;flex-direction:column;flex-wrap:wrap;justify-content:flex-start;margin:.75em auto}@media screen and (min-width:376px){.osano-cm-dialog--type_bar .osano-cm-dialog__list{flex-direction:row}}@media screen and (min-width:768px){.osano-cm-dialog--type_bar .osano-cm-dialog__list{margin:.5em 0 0 auto}[dir=rtl] .osano-cm-dialog--type_bar .osano-cm-dialog__list{margin:.5em auto 0 0}}[dir=ltr] .osano-cm-dialog--type_bar .osano-cm-dialog__list .osano-cm-item{margin-right:.5em}[dir=rtl] .osano-cm-dialog--type_bar .osano-cm-dialog__list .osano-cm-item{margin-left:.5em}.osano-cm-dialog--type_bar .osano-cm-dialog__list .osano-cm-label{padding-top:0}.osano-cm-dialog--type_bar .osano-cm-dialog__buttons{flex:1;justify-content:flex-end;margin:0;width:100%}@media screen and (min-width:768px){.osano-cm-dialog--type_bar .osano-cm-dialog__buttons{margin:0 0 0 .5em;max-width:30vw;min-width:16em;position:-webkit-sticky;position:sticky;top:0;width:auto}[dir=rtl] .osano-cm-dialog--type_bar .osano-cm-dialog__buttons{margin:0 .5em 0 0}}.osano-cm-dialog--type_box .osano-cm-dialog__buttons{margin:.5em 0 0}.osano-cm-dialog--type_bar.osano-cm-dialog--position_top{top:0}.osano-cm-dialog--type_bar.osano-cm-dialog--position_bottom{bottom:0}.osano-cm-dialog--type_box.osano-cm-dialog--position_top-left{left:1em;top:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_top-right{right:1em;top:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_bottom-left{bottom:1em;left:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_bottom-right{bottom:1em;right:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_center{left:50%;top:50%;transform:translate(-50%,-50%)}.osano-cm-dialog--context_amp{height:100%;position:relative}.osano-cm-content__message{margin-bottom:1em;padding-bottom:1.5em;word-break:break-word}.osano-cm-drawer-links{margin:.5em 0 0}.osano-cm-drawer-links__link{display:block}.osano-cm-storage-policy{display:inline-block}.osano-cm-usage-list__list{list-style-position:inside;list-style-type:disc}.osano-cm-info-dialog{height:100vh;left:0;position:fixed;top:0;transition-delay:0ms,0ms;transition-duration:.2s,0ms;transition-property:opacity,visibility;visibility:visible;width:100vw;z-index:2147483638}.osano-cm-info-dialog--hidden{opacity:0;transition-delay:0ms,.2s;visibility:hidden}.osano-cm-info{-webkit-animation:delay-overflow .4s;animation:delay-overflow .4s;bottom:0;box-shadow:0 0 2px 2px #ccc;box-sizing:border-box;max-width:20em;overflow-x:visible;overflow-y:visible;position:fixed;top:0;transition-duration:.4s;transition-property:transform;width:100%}.osano-cm-info--position_left{left:0;transform:translate(-100%)}.osano-cm-info--position_right{right:0;transform:translate(100%)}.osano-cm-info--open{-webkit-animation:none;animation:none;overflow-x:hidden;overflow-y:auto;transform:translate(0)}.osano-cm-info-views{align-items:flex-start;display:flex;flex-direction:row;flex-wrap:nowrap;height:100%;transition-duration:.4s;transition-property:transform;width:100%}[dir=rtl] .osano-cm-info-views{flex-direction:row-reverse}.osano-cm-info-views__view{box-sizing:border-box;flex-shrink:0;width:100%}.osano-cm-info-views--position_0>:not(:first-of-type),.osano-cm-info-views--position_1>:not(:nth-of-type(2)),.osano-cm-info-views--position_2>:not(:nth-of-type(3)){max-height:100%;overflow:hidden}.osano-cm-view{height:0;padding:0 .75em 1em;transition-delay:.4s;transition-duration:0ms;transition-property:height,visibility;visibility:hidden;width:100%}.osano-cm-view__button{font-size:.875em;margin:1em 0 0;width:100%}.osano-cm-view--active{height:auto;transition-delay:0ms;visibility:visible}.osano-cm-header{margin:0 0 -1em;padding:1em 0;position:-webkit-sticky;position:sticky;top:0;z-index:1}.osano-cm-description{font-size:.75em;font-weight:300;line-height:1.375;margin:1em 0 0}.osano-cm-description:first-child{margin:0}.osano-cm-description:last-of-type{margin-bottom:1em}.osano-cm-drawer-toggle .osano-cm-label{font-size:.875em;margin:0 auto 0 0}[dir=rtl] .osano-cm-drawer-toggle .osano-cm-label{margin:0 0 0 auto}.osano-cm-info-dialog-header{align-items:center;display:flex;flex-direction:row-reverse;left:auto;min-height:3.25em;position:-webkit-sticky;position:sticky;top:0;width:100%;z-index:1}[dir=rtl] .osano-cm-info-dialog-header{flex-direction:row}.osano-cm-info-dialog-header__header{align-items:center;display:flex;flex:1 1 auto;font-size:1em;justify-content:flex-start;margin:0;order:1;padding:1em .75em}.osano-cm-info-dialog-header__description{font-size:.75em;line-height:1.375}.osano-cm-back,.osano-cm-info-dialog-header__close{position:relative}.osano-cm-back{flex:0 1 auto;margin:0 0 0 .5em;min-width:0;order:2;width:auto;z-index:2}[dir=rtl] .osano-cm-back{margin:0 .5em 0 0}.osano-cm-powered-by{align-items:center;display:flex;flex-direction:column;font-weight:700;justify-content:center;margin:1em 0}.osano-cm-powered-by__link{font-size:.625em;outline:none;text-decoration:none}.osano-cm-powered-by__link:focus,.osano-cm-powered-by__link:hover{text-decoration:underline}@-webkit-keyframes delay-overflow{0%{overflow-x:hidden;overflow-y:auto}}@keyframes delay-overflow{0%{overflow-x:hidden;overflow-y:auto}}.osano-cm-expansion-panel{border-bottom:1px solid rgba(0,0,0,.1);display:block;font-size:.75em;margin:0 -1.5em 1em;padding:1.5em 1.5em 0}.osano-cm-expansion-panel--expanded{border-bottom:none}.osano-cm-expansion-panel--empty,.osano-cm-expansion-panel--empty:not([open]){border-bottom:1px solid rgba(0,0,0,.1);padding-bottom:0}.osano-cm-expansion-panel__body{background-color:rgba(0,0,0,.1);line-height:1.25;list-style:none;margin:0 -1.5em;max-height:0;overflow:hidden;padding:0 1.5em;transition-delay:0ms,0ms,0ms,.3s;transition-duration:.3s,.3s,.3s,0s;transition-property:max-height,padding-top,padding-bottom,visibility;transition-timing-function:ease-out;visibility:hidden}.osano-cm-expansion-panel__toggle{cursor:pointer;display:block;line-height:1.25;margin:0 auto 1em 0;outline:none;position:relative}.osano-cm-expansion-panel__toggle:active,.osano-cm-expansion-panel__toggle:focus,.osano-cm-expansion-panel__toggle:hover{outline:none}[dir=rtl] .osano-cm-expansion-panel__toggle{margin:0 0 1em auto}.osano-cm-expansion-panel--expanded .osano-cm-expansion-panel__body{padding:1.25em 1.5em 1em;transition-delay:0ms,0ms,0ms,0ms;visibility:visible}.osano-cm-cookie-disclosure__title,.osano-cm-script-disclosure__title{border:0;clear:both;display:block;flex:0 1 30%;font-size:1em;font-weight:700;line-height:1.375;margin:0 0 .5em;padding:0}.osano-cm-cookie-disclosure__description,.osano-cm-script-disclosure__description{flex:0 1 70%;font-size:1em;line-height:1.375;margin:0 0 .5em;padding:0}.osano-cm-disclosure{border-bottom:none;display:block;font-size:.75em;margin:0 -1.5em 1em;padding:1.5em 1.5em 0}.osano-cm-disclosure--collapse{border-bottom:1px solid rgba(0,0,0,.1);padding-bottom:1em}.osano-cm-disclosure--empty,.osano-cm-disclosure--empty:not([open]){border-bottom:1px solid rgba(0,0,0,.1);padding-bottom:0}.osano-cm-disclosure__list{background-color:rgba(0,0,0,.1);line-height:1.25;list-style:none;margin:0 -1.5em;padding:1.25em 1.5em 1em}.osano-cm-disclosure__list:empty{border:none;padding:0 1.5em}.osano-cm-disclosure__list:first-of-type{margin-top:1em;padding:1.25em 1.5em 1em}.osano-cm-disclosure__list:first-of-type:empty{padding:1.75em 1.5em .75em}.osano-cm-disclosure__list:not(:first-of-type):not(:empty){border-top:1px solid rgba(0,0,0,.1)}.osano-cm-disclosure__list:empty+.osano-cm-disclosure__list:not(:empty){border:none;padding:0 1.5em}.osano-cm-disclosure__list:not(:empty)~.osano-cm-disclosure__list:empty+.osano-cm-disclosure__list:not(:empty){border-top:1px solid rgba(0,0,0,.1)}.osano-cm-disclosure__list>.osano-cm-list-item{line-height:1.25}.osano-cm-disclosure__list>.osano-cm-list-item:not(:first-of-type){border-top:1px solid rgba(0,0,0,.1);margin:1em -1.25em 0;padding:1em 1.25em 0}.osano-cm-disclosure__toggle{cursor:pointer;display:block;font-weight:700;line-height:1.25;margin:0 auto 0 0;outline:none;position:relative}.osano-cm-disclosure__toggle:focus,.osano-cm-disclosure__toggle:hover{text-decoration:underline}[dir=rtl] .osano-cm-disclosure__toggle{margin:0 0 0 auto}.osano-cm-disclosure--loading .osano-cm-disclosure__list{height:0;line-height:0;max-height:0}.osano-cm-disclosure--loading .osano-cm-disclosure__list>*{display:none}.osano-cm-disclosure--loading .osano-cm-disclosure__list:after{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;-webkit-animation-name:osano-load-scale;animation-name:osano-load-scale;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out;border-radius:100%;content:"";display:block;height:1em;position:relative;top:-.125em;transform:translateY(-50%);width:1em}.osano-cm-disclosure--collapse .osano-cm-disclosure__list{display:none}.osano-cm-disclosure--collapse .osano-cm-disclosure__list:after{content:none}.osano-cm-cookie-disclosure,.osano-cm-script-disclosure{display:flex;flex-wrap:wrap;margin:0}.osano-cm-cookie-disclosure__description:last-of-type,.osano-cm-cookie-disclosure__title:last-of-type,.osano-cm-script-disclosure__description:last-of-type,.osano-cm-script-disclosure__title:last-of-type{margin-bottom:0}@-webkit-keyframes osano-load-scale{0%{transform:translateY(-50%) scale(0)}to{opacity:0;transform:translateY(-50%) scale(1)}}@keyframes osano-load-scale{0%{transform:translateY(-50%) scale(0)}to{opacity:0;transform:translateY(-50%) scale(1)}} .osano-cm-window { direction: ltr; text-align: left; } .osano-cm-dialog { background: #efefef; color: #404040; } .osano-cm-dialog__close { color: #404040; stroke: #404040; } .osano-cm-dialog__close:focus { background-color: #404040; border-color: #404040; stroke: #efefef; } .osano-cm-dialog__close:hover { stroke: #545454; } .osano-cm-dialog__close:focus:hover { stroke: #dbdbdb; } .osano-cm-info-dialog { background: rgba(0,0,0,0.45); } .osano-cm-header, .osano-cm-info-dialog-header { background: #fff; background: linear-gradient( 180deg, #fff 2.5em, rgba(255,255,255,0) 100% ); } .osano-cm-info { background: #fff; color: #000; } .osano-cm-close { background-color: transparent; border-color: transparent; } .osano-cm-info-dialog-header__close { color: #000; stroke: #000; } .osano-cm-info-dialog-header__close:focus { background-color: #000; border-color: #000; stroke: #fff; } .osano-cm-info-dialog-header__close:hover { stroke: #141414; } .osano-cm-info-dialog-header__close:focus:hover { stroke: #ebebeb; } .osano-cm-disclosure__list:first-of-type::after { background-color: #29246a; } .osano-cm-disclosure__toggle, .osano-cm-expansion-panel__toggle { color: #29246a; } .osano-cm-disclosure__toggle:hover, .osano-cm-disclosure__toggle:active, .osano-cm-expansion-panel__toggle:hover, .osano-cm-expansion-panel__toggle:active { color: #29246a; } .osano-cm-disclosure__toggle:focus, .osano-cm-expansion-panel__toggle:focus { color: #3d387e; } .osano-cm-button { background-color: #8ec760; border-color: #ffffff; color: #ffffff; } .osano-cm-button--type_deny { background-color: #989; border-color: #fff; color: #fff; } .osano-cm-button:focus, .osano-cm-button:hover { background-color: #7ab34c; } .osano-cm-button--type_deny:focus, .osano-cm-button--type_deny:hover { background-color: #857485; } .osano-cm-link { color: #29246a; } .osano-cm-link:hover, .osano-cm-link:active { color: #29246a; } .osano-cm-link:focus { color: #3d387e; } .osano-cm-toggle__switch { background-color: #d2cfff; } .osano-cm-toggle__switch::after { background-color: #ffffff; border-color: #ffffff; } .osano-cm-toggle__switch::before { border-color: transparent; } .osano-cm-toggle__input:checked + .osano-cm-toggle__switch { background-color: #37cd8f; border-color: #37cd8f; } .osano-cm-toggle__input:checked + .osano-cm-toggle__switch::after { background-color: #f4f4f4; border-color: #f4f4f4; } .osano-cm-toggle__input:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:hover + .osano-cm-toggle__switch { background-color: #bebbeb; border-color: #bebbeb; } .osano-cm-toggle__input:focus + .osano-cm-toggle__switch::before { border-color: #bebbeb; } .osano-cm-toggle__input:checked:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:checked:hover + .osano-cm-toggle__switch { background-color: #23b97b; border-color: #23b97b; } .osano-cm-toggle__input:checked:focus + .osano-cm-toggle__switch::before { border-color: #23b97b; } .osano-cm-toggle__input:disabled + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:hover + .osano-cm-toggle__switch { background-color: #928fbf; border-color: #928fbf; } .osano-cm-toggle__input:disabled + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:focus + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:hover + .osano-cm-toggle__switch::after { background-color: #bfbfbf; border-color: #bfbfbf; } .osano-cm-toggle__input:disabled + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:focus + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:hover + .osano-cm-toggle__switch::before { border-color: transparent; } .osano-cm-toggle__input:disabled:checked + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:checked:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:checked:hover + .osano-cm-toggle__switch { background-color: #008d4f; border-color: #008d4f; } .osano-cm-toggle__input:disabled:checked + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:checked:focus + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:checked:hover + .osano-cm-toggle__switch::after { background-color: #b4b4b4; border-color: #b4b4b4; } .osano-cm-toggle__input:disabled:checked + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:checked:focus + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:checked:hover + .osano-cm-toggle__switch::before { border-color: transparent; } <!----></style><script async="" type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-4T2EB147B8&amp;l=dataLayer&amp;cx=c"></script><script async="" type="text/javascript" src="https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js"></script><script async="" type="text/javascript" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script async="" type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-097FWBDZCK&amp;l=dataLayer&amp;cx=c"></script><script async="" type="text/javascript" src="https://www.googletagmanager.com/gtm.js?id=GTM-WXMV2VZ&amp;l=dataLayer"></script><script async="" type="text/javascript" src="https://www.googletagmanager.com/gtm.js?id=GTM-5MTD44X&amp;l=dataLayer"></script><script async="" type="text/javascript" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-F8FFLLVDEZ&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="_mljs" defer="" async="" type="text/javascript" src="https://js.matheranalytics.com/s/ma1527/725149311/lee/ml.js?cb=1609" data-mather_state="event complete"></script><script src="https://connect.facebook.net/signals/config/961211893969940?v=2.9.89&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/plugins/identity.js?v=2.9.89" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.google-analytics.com/analytics.js"></script><script src="https://tagan.adlightning.com/leeenterprises/bl-ec62c49-55ea229a.js" type="text/javascript" defer=""></script><script src="https://tagan.adlightning.com/leeenterprises/b-8db6969-b1d44f2c.js" type="text/javascript" defer=""></script><script type="text/javascript"></script>
+<base href="https://trib.com/content/tncms/live/">
+<meta name="tncms-access-version" content="2022-10-26 13:55:38">
+<meta name="keywords" content="casper star-tribune online">
+<meta name="description" content="">
+<meta name="author" content="Casper Star-Tribune Online">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-itunes-app" content="app-id=372749515">
+<meta name="google-play-app" content="app-id=com.trib.news">
+<meta name="google-site-verification" content="OtwoVFigmTVZWpoJIaOSzOV0dIHLDYpxyt1rsmyY_6k">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://trib.com/privacy/">
+<meta property="og:image" content="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/custom/image/ab2de8bc-c54d-11ea-8d39-afce744a6371.jpg?resize=600%2C315">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="315">
+<meta property="og:title" content="Privacy">
+<meta property="og:site_name" content="Casper Star-Tribune Online">
+<meta property="og:section" content="Casper Star-Tribune">
+<meta property="fb:app_id" content="740531712953650">
+<meta property="article:publisher" content="https://www.facebook.com/CASTribune">
+<meta name="twitter:image" content="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/custom/image/ab2de8bc-c54d-11ea-8d39-afce744a6371.jpg?resize=600%2C315">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@cstribune">
+<meta property="fb:pages" content="68318712784, 98944122295">
+<style type="text/css">svg:not(:root).tnt-svg{overflow:visible}.tnt-svg{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.tnt-svg.tnt-lg{vertical-align:-.225em}.tnt-svg.tnt-w-1{width:.0625em}.tnt-svg.tnt-w-2{width:.125em}.tnt-svg.tnt-w-3{width:.1875em}.tnt-svg.tnt-w-4{width:.25em}.tnt-svg.tnt-w-5{width:.3125em}.tnt-svg.tnt-w-6{width:.375em}.tnt-svg.tnt-w-7{width:.4375em}.tnt-svg.tnt-w-8{width:.5em}.tnt-svg.tnt-w-9{width:.5625em}.tnt-svg.tnt-w-10{width:.625em}.tnt-svg.tnt-w-11{width:.6875em}.tnt-svg.tnt-w-12{width:.75em}.tnt-svg.tnt-w-13{width:.8125em}.tnt-svg.tnt-w-14{width:.875em}.tnt-svg.tnt-w-15{width:.9375em}.tnt-svg.tnt-w-16{width:1em}.tnt-svg.tnt-w-17{width:1.0625em}.tnt-svg.tnt-w-18{width:1.125em}.tnt-svg.tnt-w-19{width:1.1875em}.tnt-svg.tnt-w-20{width:1.25em}.tnt-svg.tnt-pull-left{margin-right:.3em;width:auto}.tnt-svg.tnt-pull-right{margin-left:.3em;width:auto}.tnt-svg.tnt-border{height:1.5em}.tnt-svg.tnt-li{width:2em}.tnt-svg.tnt-fw{width:1.25em}.tnt-layers svg.tnt-svg{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.tnt-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.tnt-layers svg.tnt-svg{-webkit-transform-origin:center center;transform-origin:center center}.tnt-layers-counter,.tnt-layers-text{display:inline-block;position:absolute;text-align:center}.tnt-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.tnt-layers-counter{background-color:#ff253a;border-radius:1em;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.tnt-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.tnt-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.tnt-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.tnt-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.tnt-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}.tnt-xs{font-size:.75em}.tnt-sm{font-size:.875em}.tnt-1x{font-size:1em}.tnt-2x{font-size:2em}.tnt-3x{font-size:3em}.tnt-4x{font-size:4em}.tnt-5x{font-size:5em}.tnt-6x{font-size:6em}.tnt-7x{font-size:7em}.tnt-8x{font-size:8em}.tnt-9x{font-size:9em}.tnt-10x{font-size:10em}.tnt-fw{text-align:center;width:1.25em}.tnt-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.tnt-ul>li{position:relative}.tnt-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.tnt-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.tnt-pull-left{float:left}.tnt-pull-right{float:right}.fa.tnt-pull-left,.fab.tnt-pull-left,.fal.tnt-pull-left,.far.tnt-pull-left,.fas.tnt-pull-left{margin-right:.3em}.fa.tnt-pull-right,.fab.tnt-pull-right,.fal.tnt-pull-right,.far.tnt-pull-right,.fas.tnt-pull-right{margin-left:.3em}.tnt-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.tnt-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.tnt-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.tnt-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.tnt-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.tnt-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.tnt-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.tnt-flip-horizontal.tnt-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .tnt-flip-horizontal,:root .tnt-flip-vertical,:root .tnt-rotate-180,:root .tnt-rotate-270,:root .tnt-rotate-90{-webkit-filter:none;filter:none}.tnt-stack{display:inline-block;height:2em;position:relative;width:2em}.tnt-stack-1x,.tnt-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.tnt-svg.tnt-stack-1x{height:1em;width:1em}.tnt-svg.tnt-stack-2x{height:2em;width:2em}.tnt-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}</style><link rel="manifest" href="/tncms/messaging/manifest/">
+<link rel="stylesheet preload" as="style" href="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/bootstrap/resources/styles/bootstrap.min.c58a1beaa3640fa94c3db09673c4d95c.css">
+<link rel="stylesheet preload" as="style" href="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/template/resources/styles/layout.1c52af6b9bc35f467ffe99508ecf766a.css">
+<link rel="stylesheet preload" as="style" href="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/live/libraries/flex/components/lee_ds_v3/resources/styles/lee.ds.css?_dc=1667980910">
+<link rel="stylesheet preload" as="style" href="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/block/resources/styles/flex-notification-controls.e115619c5ab5d4eb38fbd29cc0d2ea9b.css">
+<style>/*<![CDATA[*/ .follow-links-2074932 li { margin-right: 1px; padding: 0; } .follow-links-2074932 li a, .follow-links-2074932 li a:focus, .follow-links-2074932 li a:active { ; font-size: 18px; margin-right: 10px; padding:0; box-shadow: none; } .follow-links-2074932 li a:hover { text-decoration: none; } .follow-links-2074932 li a.fb,.follow-links-2074932 li a.fb:hover { color: #3A59A5; } .follow-links-2074932 li a.tw,.follow-links-2074932 li a.tw:hover { color: #46C8F9; } .follow-links-2074932 li a.yt,.follow-links-2074932 li a.yt:hover { color: #CE2B29; } #block-2074947 .block-title.dark > .block-title-inner > *, #block-2074947.block.dark .card .content-overlay * { color: rgba(0,0,0,1); } #block-2074947 .block-title.light > .block-title-inner > *, #block-2074947.block.light .card .content-overlay * { color: rgba(255,255,255,1); } .follow-links-2074896 li { margin-right: 1px; padding: 0; } .follow-links-2074896 li a, .follow-links-2074896 li a:focus, .follow-links-2074896 li a:active { ; font-size: 18px; margin-right: 10px; padding:0; box-shadow: none; } .follow-links-2074896 li a:hover { text-decoration: none; } .follow-links-2074896 li a.fb,.follow-links-2074896 li a.fb:hover { color: #3A59A5; } .follow-links-2074896 li a.tw,.follow-links-2074896 li a.tw:hover { color: #46C8F9; } .follow-links-2074896 li a.yt,.follow-links-2074896 li a.yt:hover { color: #CE2B29; } /*]]>*/</style>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TDWDC2"></script><script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PDQV3N"></script><script type="text/javascript">(function(){var tnsrc=window.location.hash.match(/[&#]tncms-source=([^&]+)/);var dl = window.dataLayer = window.dataLayer || [];dl.push({"townnews":{"product":{"software":"BLOX","version":"1.64.3"},"crm":{"group_id":"35"}},"tncms":{"asset":[],"page":{"app":"editorial","skin":"flex-editorial","theme":"flex","http_status":200},"client":{"is_bot":"yes","noscript":false,"is_gdpr":"no"},"system":{"render_time":273}}});if (tnsrc && tnsrc[1]) {dl.push({'tncms.campaign.internal_source': tnsrc[1]});}window.addEventListener("DOMContentLoaded", function(oEvent) {var oTest = document.createElement('div');oTest.innerHTML = '&nbsp;';oTest.className = 'adsbox';document.body.appendChild(oTest);var nTimeoutID = window.setTimeout(function() {if (oTest.offsetHeight === 0) {dl.push({'event': 'tncms.ad.blocked'});}document.body.removeChild(oTest);window.clearTimeout(nTimeoutID);}, 100);});var nWidth=Math.max(document.documentElement.clientWidth, window.innerWidth || 0),aBPs=[[300,"Extra small: Most smartphones."],[768,"Small: Tablet devices."],[992,"Medium: Laptops & landscape tablets."],[1200,"Large: Desktop computers."]],i,c,aThisBP,aBP;for(i=0,c=aBPs.length;i<c;i++){aThisBP=aBPs[i];if(aBP===undefined||aThisBP[0]<=nWidth){aBP=aThisBP;}}if(aBP!==undefined){dl.push({'tncms.client.breakpoint':aBP[1]});}(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'tncms.start':new Date().getTime(),event:'tncms.start'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PDQV3N');})();</script>
+<script src="https://tags.crwdcntrl.net/c/6894/cc.js?ns=_cc6894" id="LOTCC_6894"></script>
+<script>
+	if(document.cookie.indexOf('tncms-dmp-id') != -1) {
+		_cc6894.add('tp', 'TNNW');
+		_cc6894.add('act', ' User Login');
+		_cc6894.add('tpid', document.cookie.split( ';' ).map( function( x ) { return x.trim().split( '=' ); } ).reduce(function( a, b ) { a[ b[ 0 ] ] = b[ 1 ]; return a; }, {} )[ "tncms-dmp-id"]);
+		document.cookie = 'tncms-dmp-id=;expires=Thu, 01 Jan 1970 00:00:01 GMT';
+		sessionStorage.removeItem('tncms.behaviors');
+		sessionStorage.removeItem('tncms.dmp.audiences');
+	}
+	_cc6894.bcp();
+</script>
+
+<script>/*<![CDATA[*/ window.tncms_access_control_sync = true; /*]]>*/</script>
+<script type="module" async="async" src="/shared-content/art/tncms/api/access.js"></script>
+<script src="/shared-content/art/tncms/api/access-legacy.js" defer="defer" nomodule="nomodule"></script>
+<script>/*<![CDATA[*/ window.LEE_DS_V3 = true; /*]]>*/</script>
+<script src="https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/jquery/resources/scripts/jquery.min.d6d18fcf88750a16d256e72626e676a6.js"></script>
+<script src="/shared-content/art/tncms/user/user.js"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/bootstrap/resources/scripts/bootstrap.min.d457560d3dfbf1d56a225eb99d7b0702.js"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/plugins/resources/scripts/common.08a61544f369cc43bf02e71b2d10d49f.js"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/template/resources/scripts/tnt.7b5fd2a1aa906214ae39b25cd6ec9283.js"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/template/resources/scripts/application.ef1ae2cf9d9803199a19b009dc464018.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=default,fetch,IntersectionObserver,NodeList.prototype.@@iterator,Element.prototype.classList|gated" nomodule="nomodule"></script>
+<script>/*<![CDATA[*/ var __tnt = __tnt || {};
+    __tnt.ads = __tnt.ads || {};
+    __tnt.ads.dfp = __tnt.ads.dfp || {};
+    __tnt.ads.dfp.slots = __tnt.ads.dfp.slots || {};
+    __tnt.ads.dfp.targeting = __tnt.ads.dfp.targeting || {};
+    __tnt.ads.dfp.targeting.k = ["casper star-tribune online"];
+
+    __tnt.ads.dfp.refresh = true;
+    __tnt.ads.dfp.targeting.sub = (__tnt.user.loggedIn && __tnt.user.services) ? 'yes' : 'no';
+    
+    __tnt.ads.dfp.targeting.page=["index","app-editorial"];
+    if( typeof window.I10C != 'undefined' && typeof window.I10C.Morph != 'undefined' ){
+        __tnt.ads.dfp.targeting.page.push('recover');
+    }
+    
+    __tnt.docWidth = window.innerWidth;
+    if( __tnt.docWidth > 1899 ){ 
+        __tnt.docWidthBreakPoint = 'xl_screen';
+    } else if ( __tnt.docWidth > 1619 ){
+        __tnt.docWidthBreakPoint = 'lg_screen';
+    } else if ( __tnt.docWidth > 991 ){
+        __tnt.docWidthBreakPoint = 'md_screen';
+    } else if ( __tnt.docWidth > 767 ){
+        __tnt.docWidthBreakPoint = 'sm_screen';
+    } else {
+        __tnt.docWidthBreakPoint = 'xs_screen';
+    }
+    __tnt.ads.dfp.targeting.page.push(__tnt.docWidthBreakPoint);
+
+    __tnt.ads.dfp.targeting.browser = __tnt.client.browser.name;
+    
+    window.googletag = window.googletag || {};
+    window.googletag.cmd = window.googletag.cmd || [];
+    window.PBJS_dfp_ads = [];
+    
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//securepubads.g.doubleclick.net/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })(); /*]]>*/</script>
+<script src="https://c.amazon-adsystem.com/aax2/apstag.js"></script>
+<script>/*<![CDATA[*/ window.APS_dfp_ads = [];
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},dpa:function(){q("di",arguments)},rpa:function(){q("ri",arguments)},upa:function(){q("ui",arguments)},_Q:[]};}("apstag",window);
+    apstag.init({
+        pubID: '3266',
+        adServer: 'googletag',
+        params: {
+            sections: 'privacy'
+        }
+    });
+    if(TNCMS.User && TNCMS.User.isLoggedIn()){
+        var amzHash = TNCMS.User.getClaim('user', 'eml').sha256;
+        if(amzHash){
+            var amzToken = {
+                'hashedRecords': [{
+                    'type': 'email',
+                    'record': amzHash
+                }]
+            };
+            apstag.rpa(amzToken, function(){
+                __tnt.log('Set A9 hash');
+            });
+        }
+    } /*]]>*/</script>
+<script>/*<![CDATA[*/ window.MSInputMethodContext && document.documentMode && document.write('<script src="https://cdn.jsdelivr.net/npm/css-vars-ponyfill@2"><\/script>');
+    window.MSInputMethodContext && document.documentMode && window.addEventListener('load', function() { cssVars({ include:'style,link[href*="lee.ds.css"]' })}); /*]]>*/</script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/template/resources/scripts/tnt.navigation.accessibility.7a9170240d21440159b9bd59db72933b.js"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/leetemplates.com/content/tncms/live/global/resources/scripts/falcon/trib.com.js?_dc=11132"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/template/resources/scripts/tnt.notify.a814fe612f2dcba9061edc229aeaf90b.js" async="async"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/template/resources/scripts/tnt.notify.panel.bacbeac9a1ca6ee75b79b21a0e2e99f2.js" async="async"></script>
+<script src="https://www.gstatic.com/firebasejs/6.6.2/firebase-app.js" defer="defer"></script>
+<script src="https://www.gstatic.com/firebasejs/6.6.2/firebase-messaging.js" defer="defer"></script>
+<script src="/shared-content/art/tncms/api/messaging.js" defer="defer"></script>
+<script>/*<![CDATA[*/ document.addEventListener('DOMContentLoaded', function() {TNCMS.Messaging.init({messagingSenderId: '936212196292'});TNCMS.Messaging.onMessage(messagingCallback);}); /*]]>*/</script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/ads/resources/scripts/tnt.ads.adverts.66a3812a7b5c12fde8cd998fd691ad7d.js"></script>
+<script src="/shared-content/art/tncms/tracking.js"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1667372513"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/live/libraries/flex/components/lee_ds_v3/resources/scripts/lee.common.js?_dc=1667980910"></script>
+
+            
+            <title>Privacy | trib.com</title><link rel="dns-prefetch" href="https://bloximages.chicago2.vip.townnews.com"><link rel="dns-prefetch" href="//33across-d.openx.net"><link rel="dns-prefetch" href="//a.wishabi.com"><link rel="dns-prefetch" href="//aax.amazon-adsystem.com"><link rel="dns-prefetch" href="//ads.pubmatic.com"><link rel="dns-prefetch" href="//amazon-tam-match.dotomi.com"><link rel="dns-prefetch" href="//ap.lijit.com"><link rel="dns-prefetch" href="//api.circularhub.com"><link rel="dns-prefetch" href="//b.scorecardresearch.com"><link rel="dns-prefetch" href="//b.wishabi.com"><link rel="dns-prefetch" href="//bh.contextweb.com"><link rel="dns-prefetch" href="//c.amazon-adsystem.com"><link rel="dns-prefetch" href="//casper.iloveadeal.com"><link rel="dns-prefetch" href="//cdn-sic.33across.com"><link rel="dns-prefetch" href="//cdn.ampproject.org"><link rel="dns-prefetch" href="//cdn.blueconic.net"><link rel="dns-prefetch" href="//cdn.districtm.io"><link rel="dns-prefetch" href="//cdn.tynt.com"><link rel="dns-prefetch" href="//cdnjs.cloudflare.com"><link rel="dns-prefetch" href="//cm.g.doubleclick.net"><link rel="dns-prefetch" href="//cms-xch.33across.com"><link rel="dns-prefetch" href="//connect.facebook.net"><link rel="dns-prefetch" href="//contributor.google.com"><link rel="dns-prefetch" href="//cookie.brealtime.com"><link rel="dns-prefetch" href="//d1z2jf7jlzjs58.cloudfront.net"><link rel="dns-prefetch" href="//dealperform-images.s3.amazonaws.com"><link rel="dns-prefetch" href="//dsum.casalemedia.com"><link rel="dns-prefetch" href="//eb2.3lift.com"><link rel="dns-prefetch" href="//f.wishabi.net"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="dns-prefetch" href="//fonts.gstatic.com"><link rel="dns-prefetch" href="//fundingchoicesmessages.google.com"><link rel="dns-prefetch" href="//ib.adnxs.com"><link rel="dns-prefetch" href="//idsync.rlcdn.com"><link rel="dns-prefetch" href="//image2.pubmatic.com"><link rel="dns-prefetch" href="//images.wishabi.net"><link rel="dns-prefetch" href="//lee.blueconic.net"><link rel="dns-prefetch" href="//match.adsrvr.org"><link rel="dns-prefetch" href="//pixel.advertising.com"><link rel="dns-prefetch" href="//pixel.rubiconproject.com"><link rel="dns-prefetch" href="//pubads.g.doubleclick.net"><link rel="dns-prefetch" href="//rtb-csync.smartadserver.com"><link rel="dns-prefetch" href="//s.amazon-adsystem.com"><link rel="dns-prefetch" href="//sb.scorecardresearch.com"><link rel="dns-prefetch" href="//secure-assets.rubiconproject.com"><link rel="dns-prefetch" href="//secure.adnxs.com"><link rel="dns-prefetch" href="//sic.33across.com"><link rel="dns-prefetch" href="//ssc-cms.33across.com"><link rel="dns-prefetch" href="//ssc.33across.com"><link rel="dns-prefetch" href="//staticxx.facebook.com"><link rel="dns-prefetch" href="//survey.g.doubleclick.net"><link rel="dns-prefetch" href="//sync.search.spotxchange.com"><link rel="dns-prefetch" href="//t.myvisualiq.net"><link rel="dns-prefetch" href="//tags.bluekai.com"><link rel="dns-prefetch" href="//tapestry.tapad.com"><link rel="dns-prefetch" href="//us-u.openx.net"><link rel="dns-prefetch" href="//www.facebook.com"><link rel="dns-prefetch" href="//www.flipp.com"><link rel="dns-prefetch" href="//www.googletagservices.com">
+            
+    <style>:root { --lee-blox-link-color: #2a5caa; --lee-blox-link-color-light: #89ABE1; --lee-blox-accent-color: #2E589B; --lee-blox-accent-color-secondary: #21314A; --lee-blox-masthead-color: #090E15; --lee-blox-nav-color: #000000; } .osano-cm-widget { display: none; } </style>
+    
+        <link rel="shortcut icon" type="image/x-icon" href="https://trib.com/content/tncms/site/icon.ico">
+    
+        <link rel="preconnect" href="//www.google.com">
+    
+        <link rel="preconnect" href="//adservice.google.com">
+    
+        <link rel="preconnect" href="//securepubads.g.doubleclick.net">
+    
+        <link rel="preconnect" href="//stats.g.doubleclick.net">
+    
+        <link rel="preconnect" href="//tpc.googlesyndication.com">
+    
+        <link rel="preconnect" href="//pagead2.googlesyndication.com">
+    
+        <link rel="preconnect" href="//www.googletagmanager.com">
+    
+        <link rel="preconnect" href="//www.google-analytics.com">
+    
+        <link rel="preconnect" href="//bcp.crwdcntrl.net">
+    
+        <link rel="preconnect" href="//tags.crwdcntrl.net">
+    <link rel="alternate" type="application/rss+xml" title="Privacy | trib.com" href="http://trib.com/search/?f=rss&amp;t=article&amp;c=privacy&amp;l=50&amp;s=start_time&amp;sd=desc">
+    <link rel="canonical" href="https://trib.com/privacy/">
+            <script defer="" src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/plugins/resources/scripts/fontawesome.a7c71fa5a63ad1158170fb2c085be042.js"></script>
+            
+        <script type="osano/blocked"></script><meta http-equiv="origin-trial" content="Az6AfRvI8mo7yiW5fLfj04W21t0ig6aMsGYpIqMTaX60H+b0DkO1uDr+7BrzMcimWzv/X7SXR8jI+uvbV0IJlwYAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A+USTya+tNvDPaxUgJooz+LaVk5hPoAxpLvSxjogX4Mk8awCTQ9iop6zJ9d5ldgU7WmHqBlnQB41LHHRFxoaBwoAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7FovoGr67TUBYbnY+Z0IKoJbbmRmB8fCyirUGHavNDtD91CiGyHHSA2hDG9r9T3NjUKFi6egL3RbgTwhhcVDwUAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022110801.js" async=""></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=trib.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=trib.com"></script><script async="" type="text/javascript" src="https://b-code.liadm.com/sync-container.js"></script></head>
+        <body class="fixed-scroll-nav app-editorial grid-simple section-privacy no-service" data-path="/privacy"><div data-nosnippet="" class="osano-cm-window" dir="ltr"><!----> <div hidden="" class="osano-visually-hidden"> <span id="osano-cm-aria.newWindow"><!---->Opens in a new window<!----></span> <span id="osano-cm-aria.external"><!---->Opens an external website<!----></span> <span id="osano-cm-aria.externalNewWindow"><!---->Opens an external website in a new window<!----></span> </div>  <div role="dialog" id="ae8e3051-14dd-457a-920c-fb36b34e187f" aria-describedby="ae8e3051-14dd-457a-920c-fb36b34e187f__label" class="osano-cm-window__dialog osano-cm-dialog osano-cm-dialog--position_bottom osano-cm-dialog--type_bar">  <button class="osano-cm-dialog__close osano-cm-close"> <svg width="20px" height="20px" viewBox="0 0 20 20" role="img" aria-labelledby="80a6cf45-551f-491d-87e7-3730e453bdb3"> <title id="80a6cf45-551f-491d-87e7-3730e453bdb3"><!---->Close this dialog<!----></title> <line role="presentation" x1="2" y1="2" x2="18" y2="18"></line> <line role="presentation" x1="2" y1="18" x2="18" y2="2"></line> </svg> </button>  <div class="osano-cm-dialog__content osano-cm-content">  <span id="ae8e3051-14dd-457a-920c-fb36b34e187f__label" class="osano-cm-content__message osano-cm-message"> This website stores data such as cookies to enable essential site functionality, as well as marketing, personalization, and analytics. By remaining on this website you indicate your consent.  </span>   <!----><a rel="noopener" tabindex="0" href="/privacy" target="_blank" class="osano-cm-storage-policy osano-cm-content__link osano-cm-link" aria-describedby="osano-cm-aria.newWindow"><!---->Privacy Policy<!----></a><!---->   </div>  </div>   <button id="77109a81-7931-474a-8443-05ce7e3f6de5" class="osano-cm-window__widget osano-cm-widget osano-cm-widget--hidden osano-cm-widget--position_right" title="Cookie Preferences" aria-label="Cookie Preferences"> <svg width="40" height="40" viewBox="0 0 71.85 72.23" xmlns="http://www.w3.org/2000/svg"> <path d="m67.6 36.73a6.26 6.26 0 0 1 -3.2-2.8 5.86 5.86 0 0 0 -5.2-3.1h-.3a11 11 0 0 1 -11.4-9.5 6 6 0 0 1 -.1-1.4 9.2 9.2 0 0 1 .4-2.9 8.65 8.65 0 0 0 .2-1.6 5.38 5.38 0 0 0 -1.9-4.3 7.3 7.3 0 0 1 -2.5-5.5 3.91 3.91 0 0 0 -3.5-3.9 36.46 36.46 0 0 0 -15 1.5 33.14 33.14 0 0 0 -22.1 22.7 35.62 35.62 0 0 0 -1.5 10.2 34.07 34.07 0 0 0 4.8 17.6.75.75 0 0 0 .07.12c.11.17 1.22 1.39 2.68 3-.36.47 5.18 6.16 5.65 6.52a34.62 34.62 0 0 0 55.6-21.9 4.38 4.38 0 0 0 -2.7-4.74z" stroke-width="3" style="fill: rgb(255, 255, 255); stroke: rgb(41, 36, 106);"></path> <path d="m68 41.13a32.37 32.37 0 0 1 -52 20.5l-2-1.56c-2.5-3.28-5.62-7.15-5.81-7.44a32 32 0 0 1 -4.5-16.5 34.3 34.3 0 0 1 1.4-9.6 30.56 30.56 0 0 1 20.61-21.13 33.51 33.51 0 0 1 14.1-1.4 1.83 1.83 0 0 1 1.6 1.8 9.38 9.38 0 0 0 3.3 7.1 3.36 3.36 0 0 1 1.2 2.6 3.37 3.37 0 0 1 -.1 1 12.66 12.66 0 0 0 -.5 3.4 9.65 9.65 0 0 0 .1 1.7 13 13 0 0 0 10.5 11.2 16.05 16.05 0 0 0 3.1.2 3.84 3.84 0 0 1 3.5 2 10 10 0 0 0 4.1 3.83 2 2 0 0 1 1.4 2z" stroke-width="3" style="fill: rgb(255, 255, 255); stroke: rgb(41, 36, 106);"></path> <g style="fill: rgb(55, 205, 143);"> <path d="m26.6 31.43a5.4 5.4 0 1 1 5.4-5.43 5.38 5.38 0 0 1 -5.33 5.43z"></path> <path d="m25.2 53.13a5.4 5.4 0 1 1 5.4-5.4 5.44 5.44 0 0 1 -5.4 5.4z"></path> <path d="m47.9 52.33a5.4 5.4 0 1 1 5.4-5.4 5.32 5.32 0 0 1 -5.24 5.4z"></path> </g> </svg> </button>  <div role="dialog" aria-modal="true" id="6cc98f86-5ef8-4ba1-af58-b64e9c396295" aria-labelledby="6cc98f86-5ef8-4ba1-af58-b64e9c396295__label" aria-hidden="true" class="osano-cm-window__info-dialog osano-cm-info-dialog osano-cm-info-dialog--hidden"> <!----><span tabindex="0" aria-hidden="true" role="first"></span><!----> <div role="presentation" class="osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_right"> <div role="presentation" class="osano-cm-info__info-dialog-header osano-cm-info-dialog-header"> <p role="heading" aria-level="1" id="6cc98f86-5ef8-4ba1-af58-b64e9c396295__label" class="osano-cm-info-dialog-header__header osano-cm-header">  </p> <button class="osano-cm-info-dialog-header__close osano-cm-close"> <svg width="20px" height="20px" viewBox="0 0 20 20" role="img" aria-labelledby="e98b63be-f5c5-49a8-a4b9-fa2d9a0489f7"> <title id="e98b63be-f5c5-49a8-a4b9-fa2d9a0489f7"><!---->Close Cookie Preferences<!----></title> <line role="presentation" x1="2" y1="2" x2="18" y2="18"></line> <line role="presentation" x1="2" y1="18" x2="18" y2="2"></line> </svg> </button>  </div> <div role="presentation" class="osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0" style="transform: translateX(0%);">  </div> </div> <!----><span tabindex="0" aria-hidden="true" role="last"></span><!----> </div> <!----></div>
+	<script type="text/javascript" src="/shared-content/art/stats/common/tracker.js"></script>
+	<script type="text/javascript">
+	<!--
+	if (typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('trib.com'); TNTracker.trackPageView(); }
+	// -->
+	</script>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDQV3N&amp;townnews.product.software=BLOX&amp;townnews.product.version=1.64.3&amp;townnews.crm.group_id=35&amp;tncms.page.app=editorial&amp;tncms.page.skin=flex-editorial&amp;tncms.page.theme=flex&amp;tncms.page.http_status=200&amp;tncms.client.is_bot=yes&amp;tncms.client.noscript=yes&amp;tncms.client.is_gdpr=no&amp;tncms.system.render_time=273" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <a href="#main-page-container" class="sr-only" onclick="document.getElementById('main-page-container').scrollIntoView(); return false">Skip to main content</a><a href="https://trib.com/privacy/#main-page-container" class="sr-only sr-only-focusable">Skip to main content</a><div id="fb-root"></div>
+        
+        
+        <!-- Google Tag Manager -->
+    <script>
+        var dataLayer = window.dataLayer || [];
+        dataLayer.push({"ga_ua":"UA-54716522-2","chartbeat":"true","gravity":"8e869b3a021a8bf8e030fa6bc6ebd3d6","taxonomy_1":"privacy","taxonomy_2":null,"taxonomy_3":null,"taxonomy_4":null,"taxonomy_5":null,"blox_platform":"desktop","blox_page_type":"index","blox_domain":"trib.com","blox_skin":"flex-editorial","blox_application":"editorial","blox_template_version":"dsv3","groups":{"content":"1","advertising":"2","utility":"3"},"content_group":"1","content_group_id":"privacy","blox_sections":"privacy","weather_temp":37,"weather_conditions":"Partly Cloudy","subscription_max_views":3});
+
+        
+        var sUserUUID = false;
+        var sUserPPID = false;
+        if(window.sessionStorage){ var sUserUUID = window.sessionStorage.getItem('lee_uuid'); }
+        if(window.localStorage){ var sUserPPID = window.localStorage.getItem('_us_master_id'); }
+        dataLayer.push(
+            {'user_id': __tnt.user.screenName},
+            {'user_state': __tnt.user.loggedIn ? 'logged in' : 'anonymous'},
+            {'user_subscription': __tnt.user.services ? 'Yes' : 'No'},
+            {'user_uuid': sUserUUID},
+            {'user_ppid': sUserPPID},
+            {'utm_label': __tnt.urlHash('utm_label')}
+        );
+        
+        
+        if(__tnt.user.services){
+            var falcon_sub_name = Cookies.get('leefalcon_membership');
+            dataLayer.push({
+                'tncms': {
+                    'subscription': {
+                        'falcon_service': falcon_sub_name ? falcon_sub_name : '',
+                        'user_service_ids': __tnt.user.services
+                    }
+                }
+            });
+            
+            var lee_clus = Cookies.get('lee-clus');
+            if(!lee_clus){
+                if(typeof Storage !== 'undefined'){
+                    var lee_ulli = new Date().toLocaleString('en-us', {year: 'numeric', month: '2-digit', day: '2-digit'}).replace(/(\d+)\/(\d+)\/(\d+)/, '$3$1$2');
+                    window.localStorage.setItem('lee_ulld', lee_ulli);
+                    var lee_ulld_iso8601 = new Date().toISOString();
+                    window.localStorage.setItem('lee_ulld_iso8601', lee_ulld_iso8601);
+                }
+                var lee_clus = Cookies.set('lee-clus', 'true', {path:'/'});
+            }
+        }
+        
+        if(typeof Storage !== 'undefined'){
+            var lee_glus = window.localStorage.getItem('lee_ulld');
+            if(lee_glus){
+                // IE hack
+                if(lee_glus.match('/')){
+                    var lee_glusIE = lee_glus.split('/');
+                    lee_glus = lee_glusIE[2]+lee_glusIE[0]+lee_glusIE[1];
+                }
+                dataLayer.push({'sub_last_login': lee_glus});
+            }
+            var sub_last_login_iso8601 = window.localStorage.getItem('lee_ulld_iso8601');
+            if(sub_last_login_iso8601){
+                dataLayer.push({'sub_last_login_iso8601': sub_last_login_iso8601});
+            }
+        }
+    </script>
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TDWDC2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TDWDC2');
+    </script>
+
+    <script>
+        __tnt.googleEvent = function(obj) {
+            dataLayer.push({
+                'event': 'gaTriggerEvent',
+                'gaEventCategory': obj.category,
+                'gaEventAction': obj.action,
+                'gaEventLabel': obj.label,
+                'gaEventValue': obj.value
+            });
+        }
+        __tnt.googleSocial = function(obj) {
+            dataLayer.push({
+                'event': 'socialEvent',
+                'socialNetwork': obj.network,
+                'socialAction': obj.socialAction,
+                'socialTarget': obj.url
+            });
+        }
+        __tnt.googlePageView = function(obj) {
+            var sURL = obj.url.replace(/^.*\/\/[^\/]+/, '');
+            dataLayer.push({
+                'event': 'VirtualPageview',
+                'virtualPageURL': sURL,
+                'virtualPageTitle': obj.title
+            });
+        }
+    </script>
+    <!-- End Google Tag Manager -->
+        
+        <div class="tnt-ads-container text-center hidden-print "><div style="min-height: 1px; min-width: 1px; margin: 0px !important;" class="tnt-ads dfp-ad dfp-ad-lite dfp-unit-requested" data-dfp-adunit="/8438/trib.com/privacy" data-dfp-custom-pos="fixed-impact-top, atf" id="fixed-impact-top" data-dfp-size="[2,1]" data-subscriber="true" data-google-query-id="CLi274Waq_sCFYOiAAAdq3EPVw"><div id="google_ads_iframe_/8438/trib.com/privacy_0__container__" style="border: 0pt none;"></div></div></div>
+    
+        <div id="site-container"><div id="tncms-region-global-above-header" class="tncms-region full-region"><div id="tncms-block-2252974" class="tncms-block"></div></div><form method="post" action="https://trib.com/users/logout/" id="user-logout-form"><input type="hidden" name="referer_url" value="https://trib.com/privacy/"><input type="submit" name="logout" value="Logout" class="hide">
+    </form>
+    
+    <aside class="hidden-print offcanvas-drawer offcanvas-drawer-left" tabindex="-1" aria-expanded="false" aria-label="Left Main Menu">
+        <div class="offcanvas-menu-inner">
+            <button aria-label="Close Main Menu" role="button" class="offcanvas-close-btn in-drawer">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" stroke="currentColor" stroke-width="1" stroke-linecap="round" width="24" height="24">
+        <line x1="11" y1="1" x2="1" y2="11"></line>
+        <line x1="1" y1="1" x2="11" y2="11"></line>
+    </svg>
+            </button>
+            <div class="in-drawer-logo">
+                <a href="/"><img class="img-responsive" alt="Casper Star-Tribune Online" src="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/custom/image/403f0a3e-3038-11ec-9219-fbdc15c56230.png"></a>
+            </div><div class="mobile-weather">
+                <a href="/weather/?weather_zip=82601">
+                    <span class="icon pull-left">
+                        <svg class="tnt-svg tnt-wi-night-clear tnt-w-16" aria-hidden="true" data-prefix="fas" data-icon="wi-night-clear" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M128.54 256q0-25.864 10.143-49.531 10.143-23.667 27.217-40.825 17.074-17.158 40.825-27.386 23.751-10.227 49.615-10.227h20.793q4.2262 1.1834 4.2262 5.0714l0.67619 15.89q1.0143 34.317 24.765 58.49 23.751 24.174 57.561 25.526l14.876 1.1833q4.2262 0 4.2262 4.2262v17.581q0.16905 34.655-16.82 64.153-16.989 29.499-46.319 46.657-29.33 17.158-63.984 17.158-26.371 0-50.038-10.143-23.667-10.143-40.74-27.301-17.074-17.158-27.048-40.825-9.9738-23.667-9.9738-49.7zm32.964 0q0 27.386 13.862 49.784 13.862 22.399 35.5 34.401 21.638 12.002 45.474 12.002 15.721 0 31.696-6.1702 15.975-6.1702 29.752-17.243 13.777-11.073 23.667-28.315 9.8893-17.243 12.763-37.698-44.121-9.1286-70.746-37.782-26.625-28.654-30.682-67.365-25.526 1.3524-46.742 15.721-21.215 14.369-32.88 36.43-11.664 22.061-11.664 46.234z"></path></svg>
+                    </span>
+                    <span class="pull-left">
+                        <span class="temp">37°</span>
+                    </span>
+                    <span class="clearfix"></span>
+                </a>
+            </div><div class="hamburger-user-controls visible-sm visible-xs">
+                <div class="user-controls show-onload clearfix" style="display: block;"><div class="not-logged-in" style="display: block;">
+                            <ul class="list-inline">
+                                <li>
+                                    <a href="https://trib.com/users/login/?referer_url=https%3A%2F%2Ftrib.com%2Fprivacy%2F" class="btn btn-link btn-sm user-control-link" rel="nofollow">
+                                        <span class="user-avatar pull-left"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <circle cx="12" cy="8" r="5"></circle>
+        <path d="M3,21 h18 C 21,12 3,12 3,21"></path>
+    </svg></span> Log In
+                                    </a>
+                                </li><li><a href="https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=trib.com&amp;SubscriberLevel=DOP&amp;Return=https%3A%2F%2Ftrib.com%2Fprivacy%2F#tracking-source=header&amp;ir=true" class="btn btn-primary btn-sm login-btn user-control-link lee-featured-subscription-head has-falcon-package" rel="nofollow"><span>Subscribe</span> <span class="term">$1 for 6 months</span></a></li></ul>
+                        </div>
+                        <div class="logged-in" style="display: none;">
+                            <ul class="list-inline">
+                                <li>
+                                    <a href="https://trib.com/users/admin/" class="btn btn-primary btn-sm login-btn user-control-link">
+                                        <span class="pull-left user-avatar"><img class="lee-user-avatar" src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png" height="24" width="24" alt="user icon"></span>
+                                        <span class="tn-user-screenname">Guest</span>
+                                    </a>
+                                </li>
+                                <li><a class="btn btn-link btn-sm user-control-link" onclick="document.getElementById('user-logout-form').submit(); return false;" rel="nofollow">Logout</a></li>
+                            </ul>
+                            <div class="service-controls has-service"><div><a class="btn btn-primary btn-sm eedition-btn" href="/eedition/">Read Today's E-edition</a></div></div>
+                        </div></div>
+            </div>
+    
+            <div id="tncms-region-mobile-nav-top-left-region" class="tncms-region "></div>
+            <div id="tncms-region-nav-mobile-nav-left" class="tncms-region-nav"><ul id="mobile-nav-left_menu" class="nav navbar-nav nav-level-top" aria-label="navigation"><li>
+                <a class="nav-linktnt-section-news" href="https://trib.com/news/#tracking-source=menu-nav">
+                    
+                        <span class=""></span>
+                    <span class="nav-label">News</span>
+                </a><ul class="nav navbar-nav nav-level-sub"><li>
+                                <a class="nav-linktnt-section-local" href="https://trib.com/news/local#tracking-source=menu-nav">
+                                    <span class="nav-label">Local</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-wildfires" href="https://trib.com/resources/wildfires/#tracking-source=menu-nav">
+                                    <span class="nav-label">Wildfires</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-covid-19" href="https://trib.com/resources#tracking-source=menu-nav">
+                                    <span class="nav-label">COVID-19</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-crime" href="https://trib.com/news/local/crime-and-courts#tracking-source=menu-nav">
+                                    <span class="nav-label">Crime</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-state-regional" href="https://trib.com/news/state-and-regional/#tracking-source=menu-nav">
+                                    <span class="nav-label">State &amp; Regional</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-education" href="https://trib.com/news/local/education/#tracking-source=menu-nav">
+                                    <span class="nav-label">Education</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-307-politics" href="https://trib.com/news/state-and-regional/govt-and-politics#tracking-source=menu-nav">
+                                    <span class="nav-label">307 Politics</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-outdoors" href="https://trib.com/outdoors/#tracking-source=menu-nav">
+                                    <span class="nav-label">Outdoors</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-national" href="https://trib.com/news/national/#tracking-source=menu-nav">
+                                    <span class="nav-label">National</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-world" href="https://trib.com/news/world/#tracking-source=menu-nav">
+                                    <span class="nav-label">World</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-multimedia" href="https://trib.com/multimedia/#tracking-source=menu-nav">
+                                    <span class="nav-label">Multimedia</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-news-tip" href="https://trib.com/news-tip/#tracking-source=menu-nav">
+                                    <span class="nav-label">News Tip</span>
+                                </a>
+                            </li></ul></li><li>
+                <a class="nav-linktnt-section-obituaries" href="https://trib.com/obituaries#tracking-source=menu-nav">
+                    
+                        <span class=""></span>
+                    <span class="nav-label">Obituaries</span>
+                </a><ul class="nav navbar-nav nav-level-sub"><li>
+                                <a class="nav-linktnt-section-share-a-story" href="https://trib.com/place_an_ad/obituaries#tracking-source=menu-nav">
+                                    <span class="nav-label">Share a Story</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-recent-obituaries" href="https://trib.com/obituaries#tracking-source=menu-nav">
+                                    <span class="nav-label">Recent Obituaries</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-find-an-obituary" href="https://trib.com/obituaries/search/?c=lifestyles/announcements/obituaries*&amp;t=article,collection#tracking-source=menu-nav">
+                                    <span class="nav-label">Find an Obituary</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-archives" href="https://trib.com/archives/#tracking-source=menu-nav">
+                                    <span class="nav-label">Archives</span>
+                                </a>
+                            </li></ul></li><li>
+                <a class="nav-linktnt-section-opinion" href="https://trib.com/opinion/#tracking-source=menu-nav">
+                    
+                        <span class=""></span>
+                    <span class="nav-label">Opinion</span>
+                </a><ul class="nav navbar-nav nav-level-sub"><li>
+                                <a class="nav-linktnt-section-submit-a-letter" href="https://trib.com/forms/contact/letter_to_the_editor/#tracking-source=menu-nav">
+                                    <span class="nav-label">Submit a Letter</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-letters" href="https://trib.com/opinion/letters/#tracking-source=menu-nav">
+                                    <span class="nav-label">Letters</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-editorial" href="https://trib.com/opinion/editorial/#tracking-source=menu-nav">
+                                    <span class="nav-label">Editorial</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-guestscolumnnists" href="https://trib.com/opinion/columns#tracking-source=menu-nav">
+                                    <span class="nav-label">Guests/Columnnists</span>
+                                </a>
+                            </li></ul></li><li>
+                <a class="nav-linktnt-section-sports" href="https://trib.com/sports/#tracking-source=menu-nav">
+                    
+                        <span class=""></span>
+                    <span class="nav-label">Sports</span>
+                </a><ul class="nav navbar-nav nav-level-sub"><li>
+                                <a class="nav-linktnt-section-high-school" href="https://trib.com/sports/high-school/#tracking-source=menu-nav">
+                                    <span class="nav-label">High School </span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-university-of-wyoming" href="https://trib.com/sports/college/wyoming/#tracking-source=menu-nav">
+                                    <span class="nav-label">University of Wyoming</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-casper-college" href="https://trib.com/sports/college/casper-college/#tracking-source=menu-nav">
+                                    <span class="nav-label">Casper College</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-rodeo" href="https://trib.com/sports/rodeo/#tracking-source=menu-nav">
+                                    <span class="nav-label">Rodeo</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-professional" href="https://trib.com/sports/professional/#tracking-source=menu-nav">
+                                    <span class="nav-label">Professional</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-betting" href="https://trib.com/sports/betting/#tracking-source=menu-nav">
+                                    <span class="nav-label">Betting</span>
+                                </a>
+                            </li></ul></li><li>
+                <a class="nav-linktnt-section-entertainment" href="https://trib.com/entertainment/#tracking-source=menu-nav">
+                    
+                        <span class=""></span>
+                    <span class="nav-label">Entertainment</span>
+                </a><ul class="nav navbar-nav nav-level-sub"><li>
+                                <a class="nav-linktnt-section-event-calendar" href="https://trib.com/events#tracking-source=menu-nav">
+                                    <span class="nav-label">Event Calendar</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-arts-theatre" href="https://trib.com/entertainment/arts-and-theatre#tracking-source=menu-nav">
+                                    <span class="nav-label">Arts &amp; theatre</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-music" href="https://trib.com/entertainment/music/#tracking-source=menu-nav">
+                                    <span class="nav-label">Music</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-movies" href="https://trib.com/entertainment/movies/#tracking-source=menu-nav">
+                                    <span class="nav-label">Movies</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-television" href="https://trib.com/entertainment/television/#tracking-source=menu-nav">
+                                    <span class="nav-label">Television</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-comics" href="https://trib.com/members-only/enjoy-these-comics-exclusively-for-subscribers/html_1794212f-f894-56f3-924e-c8e10639cda2.html" target="_blank" rel="noopener">
+                                    <span class="nav-label">Comics</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-games-puzzles" href="https://trib.com/members-only/try-these-games-and-puzzles-exclusively-for-subscribers/html_58250a34-045b-569d-9ab9-fdea0874aff6.html" target="_blank" rel="noopener">
+                                    <span class="nav-label">Games &amp; Puzzles</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-columns" href="https://trib.com/members-only/read-the-latest-columns-exclusively-for-subscribers/html_9646f657-5b7d-555e-9b29-1efb7ddbe25d.html" target="_blank" rel="noopener">
+                                    <span class="nav-label">Columns</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-contests" href="https://trib.com/contests/#tracking-source=menu-nav">
+                                    <span class="nav-label">Contests</span>
+                                </a>
+                            </li></ul></li><li>
+                <a class="nav-linktnt-section-energy-journal" href="https://trib.com/business/energy#tracking-source=menu-nav">
+                    <span class="nav-label">Energy Journal</span>
+                </a></li><li>
+                <a class="nav-linktnt-section-lifestyles" href="https://trib.com/lifestyles/#tracking-source=menu-nav">
+                    
+                        <span class=""></span>
+                    <span class="nav-label">Lifestyles</span>
+                </a><ul class="nav navbar-nav nav-level-sub"><li>
+                                <a class="nav-linktnt-section-announcements" href="https://trib.com/announcements/#tracking-source=menu-nav">
+                                    <span class="nav-label">Announcements</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-food-cooking" href="https://trib.com/lifestyles/food-and-cooking/#tracking-source=menu-nav">
+                                    <span class="nav-label">Food &amp; Cooking</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-home-garden" href="https://trib.com/lifestyles/home-and-garden/#tracking-source=menu-nav">
+                                    <span class="nav-label">Home &amp; Garden</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-health" href="https://trib.com/lifestyles/health-med-fit/#tracking-source=menu-nav">
+                                    <span class="nav-label">Health</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-people" href="https://trib.com/people/#tracking-source=menu-nav">
+                                    <span class="nav-label">People</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-pets" href="https://trib.com/lifestyles/pets/#tracking-source=menu-nav">
+                                    <span class="nav-label">Pets</span>
+                                </a>
+                            </li></ul></li><li>
+                <a class="nav-linktnt-section-feast-and-field" href="https://trib.com/lifestyles/food-and-cooking/feast-and-field/#tracking-source=menu-nav">
+                    
+                        <span class=""></span>
+                    <span class="nav-label">Feast and Field</span>
+                </a><ul class="nav navbar-nav nav-level-sub"><li>
+                                <a class="nav-linktnt-section-partners" href="https://trib.com/lifestyles/food-and-cooking/feast-and-field/partners/#tracking-source=menu-nav">
+                                    <span class="nav-label">Partners</span>
+                                </a>
+                            </li></ul></li><li>
+                <a class="nav-linktnt-section-brand-ave-studios" href="https://trib.com/brandavestudios/#tracking-source=menu-nav">
+                    <span class="nav-label">Brand Ave. Studios</span>
+                </a></li></ul></div>
+            <div id="tncms-region-nav-mobile-nav-left-below" class="tncms-region-nav"><ul id="mobile-nav-left-below_menu" class="nav navbar-nav nav-level-top" aria-label="navigation"><li>
+                <a class="nav-linktnt-section-print-edition" href="https://trib.com/eedition#tracking-source=menu-nav">
+                    
+                        <span class=""></span>
+                    <span class="nav-label">Print Edition</span>
+                </a><ul class="nav navbar-nav nav-level-sub"><li>
+                                <a class="nav-linktnt-section-e-edition" href="https://trib.com/eedition#tracking-source=menu-nav">
+                                    <span class="nav-label">E-Edition</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-e-edition-archives" href="https://trib.com/news/archives/#tracking-source=menu-nav">
+                                    <span class="nav-label">E-Edition Archives</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-special-sections" href="https://trib.com/eedition/special-section/#tracking-source=menu-nav">
+                                    <span class="nav-label">Special Sections</span>
+                                </a>
+                            </li></ul></li><li>
+                <a class="nav-linktnt-section-buy-sell" href="https://trib.com/ads#tracking-source=menu-nav">
+                    
+                        <span class=""></span>
+                    <span class="nav-label">Buy &amp; Sell</span>
+                </a><ul class="nav navbar-nav nav-level-sub"><li>
+                                <a class="nav-linktnt-section-place-an-ad" href="https://trib.com/place_an_ad#tracking-source=menu-nav">
+                                    <span class="nav-label">Place an Ad</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-jobs" href="https://trib.com/jobs#tracking-source=menu-nav">
+                                    <span class="nav-label">Jobs</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-homes" href="https://trib.com/homes#tracking-source=menu-nav">
+                                    <span class="nav-label">Homes</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-cars" href="https://autos.trib.com/" target="_blank" rel="noopener">
+                                    <span class="nav-label">Cars</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-marketplace" href="https://trib.com/ads#tracking-source=menu-nav">
+                                    <span class="nav-label">Marketplace</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-public-notices" href="https://trib.com/ads/community/announcements/legal/?l=25#tracking-source=menu-nav">
+                                    <span class="nav-label">Public Notices</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-shop-local" href="https://trib.com/places#tracking-source=menu-nav">
+                                    <span class="nav-label">Shop Local</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-i-love-a-deal" href="https://trib.com/deals/#tracking-source=menu-nav">
+                                    <span class="nav-label">I Love A Deal</span>
+                                </a>
+                            </li></ul></li><li>
+                <a class="nav-linktnt-section-customer-service">
+                    
+                        <span class=""></span>
+                    <span class="nav-label">Customer Service</span>
+                </a><ul class="nav navbar-nav nav-level-sub"><li>
+                                <a class="nav-linktnt-section-manage-subscription" href="https://trib.com/services#tracking-source=menu-nav">
+                                    <span class="nav-label">Manage Subscription</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-activate-digital-subscription" href="https://trib.com/activate/#tracking-source=menu-nav">
+                                    <span class="nav-label">Activate Digital Subscription</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-newsletter-sign-up" href="https://trib.com/newsletters#tracking-source=menu-nav">
+                                    <span class="nav-label">Newsletter sign-up</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-become-a-member" href="https://trib.com/members/join/#tracking-source=menu-nav">
+                                    <span class="nav-label">Become a Member</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-contact-us" href="https://trib.com/contact#tracking-source=menu-nav">
+                                    <span class="nav-label">Contact Us</span>
+                                </a>
+                            </li><li>
+                                <a class="nav-linktnt-section-help-center" href="https://trib.com/helpcenter/#tracking-source=menu-nav">
+                                    <span class="nav-label">Help Center</span>
+                                </a>
+                            </li></ul></li><li>
+                <a class="nav-linktnt-section-mobile-apps" href="https://trib.com/apps/#tracking-source=menu-nav">
+                    <span class="nav-label">Mobile Apps</span>
+                </a></li><li>
+                <a class="nav-linktnt-section-weather-live-radar" href="https://trib.com/weather/?mode=radar&amp;weather_zip=82601" target="_blank" rel="noopener">
+                    <span class="nav-label">Weather: Live Radar</span>
+                </a></li></ul></div>
+            <div id="tncms-region-mobile-nav-bottom-left-region" class="tncms-region "><div id="tncms-block-2074932" class="tncms-block lee-follow-us branding-links"><div class="follow-links-2074932 follow-links default">
+    
+    <section id="block-2074932" class="block emphasis-h3   "><ul class="list-inline">
+        
+            <li>
+                <a href="/facebook" title="Facebook" target="_blank" rel="noopener" class="btn btn-xs btn-link fb">
+                    <svg class="tnt-svg tnt-facebook-f tnt-w-9" aria-hidden="true" data-prefix="fab" data-icon="facebook-f" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 264 512" data-fa-i2svg=""><path fill="currentColor" d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"></path></svg>
+                    <span class="sr-only">Facebook</span>
+                </a>
+            </li>
+        
+        
+            <li>
+                <a href="/twitter" title="Twitter" target="_blank" rel="noopener" class="btn btn-xs btn-link tw">
+                    <svg class="tnt-svg tnt-twitter tnt-w-16" aria-hidden="true" data-prefix="fab" data-icon="twitter" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+                    <span class="sr-only">Twitter</span>
+                </a>
+            </li>
+        
+        
+        
+            <li>
+                <a href="/youtube" title="Youtube" target="_blank" rel="noopener" class="btn btn-xs btn-link yt">
+                    <svg class="tnt-svg tnt-youtube tnt-w-18" aria-hidden="true" data-prefix="fab" data-icon="youtube" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>
+                    <span class="sr-only">YouTube</span>
+                </a>
+            </li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </ul>
+    </section>
+</div>
+<script type="application/ld+json">
+{ "@context" : "https://schema.org",
+  "@type" : "Organization",
+  "url" : "http://trib.com",
+  "sameAs" : ["/facebook","/twitter","/youtube"]
+}
+</script>
+<div class="clearfix"></div></div></div>
+            
+            <div class="mobile-nav-copyright">
+                <div class="lee-copy">© 2022 Lee Enterprises</div>
+                <div><a href="/terms">Terms of Service</a> <span class="text-muted">|</span> <a href="/privacy">Privacy Policy</a></div>
+            </div>
+        </div>
+    </aside>
+
+    <div id="mobile-search" class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" stroke="currentColor" stroke-width="1" stroke-linecap="round" width="24" height="24">
+        <line x1="11" y1="1" x2="1" y2="11"></line>
+        <line x1="1" y1="1" x2="11" y2="11"></line>
+    </svg></span>
+                    </button>
+                </div>
+            <div class="modal-body">
+                <form action="/search/" method="GET">
+                    <input type="hidden" name="sd" value="desc">
+                    <input type="hidden" name="l" value="25">
+                    <input type="hidden" name="s" value="start_time">
+                    <input type="hidden" name="f" value="html">
+                    <input type="hidden" name="t" value="article,video,youtube,collection">
+                    <input type="hidden" name="app" value="editorial">
+                    <input type="hidden" name="nsa" value="eedition">
+                    <div class="input-group input-group-lg">
+                        <input id="mobile-search-q" name="q" title="Site Search" type="text" placeholder="Search..." class="form-control search-term" autocomplete="off">
+                            <span class="input-group-btn">
+                                <button class="btn btn-link" aria-label="Submit Site Search" type="submit">
+                                    <svg xmlns="http://www.w3.org/2000/svg" iewbox="0 0 19.9 19.7" stroke-width="1.5" width="24" height="24">
+        <g fill="none" stroke="currentColor">
+            <path stroke-linecap="round" d="M18.5 18.3l-5.4-5.4"></path>
+            <circle cx="8" cy="8" r="7"></circle>
+        </g>
+    </svg>
+                                </button>
+                            </span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div><div id="offcanvas-container" class="offcanvas-inner">
+        <div class="offcanvas-close-btn"></div><div id="site-navbar-container" class="hidden-print sticky">
+        <div class="masthead hidden-sm hidden-xs container-fluid">
+                <div class="row">
+                    <div class="head-left col-md-8">
+                        <div class="logo-search-grid">
+                            <div class="logo"><a href="/"><img alt="Casper Star-Tribune Online" src="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/custom/image/403f0a3e-3038-11ec-9219-fbdc15c56230.png"></a>
+                            </div>
+                            <div class="search">
+                                <form action="/search/" method="GET">
+                                    <input type="hidden" name="sd" value="desc">
+                                    <input type="hidden" name="l" value="25">
+                                    <input type="hidden" name="s" value="start_time">
+                                    <input type="hidden" name="f" value="html">
+                                    <input type="hidden" name="t" value="article,video,youtube,collection">
+                                    <input type="hidden" name="app" value="editorial">
+                                    <input type="hidden" name="nsa" value="eedition">
+                                    <div class="input-group">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-link" aria-label="Submit Site Search" type="submit">
+                                                <svg xmlns="http://www.w3.org/2000/svg" iewbox="0 0 19.9 19.7" stroke-width="1.5" width="24" height="24">
+        <g fill="none" stroke="currentColor">
+            <path stroke-linecap="round" d="M18.5 18.3l-5.4-5.4"></path>
+            <circle cx="8" cy="8" r="7"></circle>
+        </g>
+    </svg>
+                                            </button>
+                                        </span>
+                                        <input name="q" title="Site Search" type="text" placeholder="Search Casper Star-Tribune" class="form-control search-term" autocomplete="off">
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="head-right col-md-4">
+                        <div class="no-service"><a href="https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=trib.com&amp;SubscriberLevel=DOP&amp;Return=https%3A%2F%2Ftrib.com%2Fprivacy%2F#tracking-source=header&amp;ir=true" class="btn btn-primary btn-lg lee-featured-subscription-head has-falcon-package"><span>Subscribe</span> <span class="term">$1 for 6 months</span></a><script>
+            jQuery(document).ready(function($){
+                if(!__tnt.user.services && window.leeMembershipPackages && !window.oFeaturedPackage){
+                    try {
+                        var oFeaturedPackage = false;
+                        $.each(window.leeMembershipPackages, function(i, oService){
+                            if(parseInt(oService.WebFeatureFG) != 2 && oService.WebStartPrice != ''){
+                                if(oService.WebStartPrice.match('"featured":"true"')){
+                                    window.oFeaturedPackage = oService;
+                                    return false;
+                                }
+                            }
+                        });
+
+                        if(window.oFeaturedPackage) {
+                            function lee_formatPackagePriceBtn(sPrice){
+                                var p = sPrice.split('.');
+                                if( p[1] && p[1] === '00' ) return { cost: p[0], format_dollars: '$'};
+                                if( p[0] && p[0] === '0' ) return { cost: p[1], format_cents: '&cent;'};
+                                return { cost: sPrice, format_dollars: '$'};
+                            }
+                                
+                            var oPackageCustom = JSON.parse(window.oFeaturedPackage.WebStartPrice);
+                            
+                            if(oPackageCustom.promotional_price && oPackageCustom.promotional_price != ''){ 
+                                var sPrice = lee_formatPackagePriceBtn(oPackageCustom.promotional_price);
+                            } else {
+                                var sPrice = lee_formatPackagePriceBtn(oPackageCustom.start_price);
+                            }
+                            
+                            if( !oPackageCustom.term ) oPackageCustom.term = 'per month';
+                            
+                            var sButtonHref = 'https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=trib.com&SubscriberLevel={{level}}&Return=https%3A%2F%2Ftrib.com%2Fprivacy%2F'.replace('{{level}}',window.oFeaturedPackage.HomeMembership);
+                            var sButtonText = '<span>Subscribe</span> <span class="term">'+(sPrice.format_dollars ? sPrice.format_dollars : '')+sPrice.cost+(sPrice.format_cents ? sPrice.format_cents : '' + ' '+ oPackageCustom.term +'</span>');
+                            if( $('.lee-featured-subscription-head').length > 0){
+                                $('.lee-featured-subscription-head').each(function(){
+                                    $(this).addClass('has-falcon-package');
+                                    $(this).html(sButtonText).attr('href', sButtonHref+'#tracking-source=header&ir=true');
+                                });
+                            }
+                            if($('#join-btn-mobile-link').length > 0){
+                                $('#join-btn-mobile-link').attr('href', sButtonHref+'#tracking-source=header&ir=true');
+                            }
+                        }
+                    } catch (e) {
+                        if(window.console) console.warn(e);
+                    }
+                }
+            });
+        </script></div><div class="has-service">
+                                <a class="btn btn-primary btn-lg" href="/eedition/">Read Today's E-Edition</a>
+                            </div></div>
+                </div>
+            </div><nav id="main-navigation" class="navbar" role="navigation">
+                <div class="navbar-header"><button id="lee-main-menu-btn" aria-label="Main Menu" aria-expanded="false" type="button" class="hamburger-desktop navbar-toggle pull-left" data-toggle="offcanvas_lee" data-target="left">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="24" height="24">
+        <rect x="1" y="4" rx="0.5" fill="currentColor" width="14" height="1.5"></rect>
+        <rect x="1" y="9" rx="0.5" fill="currentColor" width="10" height="1.5"></rect>
+        <rect x="1" y="14" rx="0.5" fill="currentColor" width="14" height="1.5"></rect>
+    </svg>
+                        </button><div class="navbar-brand pos_left">
+                        <div class="site-logo-container"><a href="/"><img class="img-responsive" alt="Casper Star-Tribune Online" src="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/custom/image/403f0a3e-3038-11ec-9219-fbdc15c56230.png"></a>
+                        </div>
+                    </div><div class="pull-right visible-sm visible-xs subscribe-btn">
+                            <div class="join-btn-mobile pull-left">
+                                
+                                    <a id="join-btn-mobile-link" href="https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=trib.com&amp;SubscriberLevel=DOP&amp;Return=https%3A%2F%2Ftrib.com%2Fprivacy%2F#tracking-source=header&amp;ir=true" class="no-service btn btn-primary">Join</a>
+                                
+                            </div>
+                            <div class="search-mobile pull-left">
+                                <a class="btn btn-link" aria-label="Site Search" data-toggle="modal" data-target="#mobile-search">
+                                    <svg xmlns="http://www.w3.org/2000/svg" iewbox="0 0 19.9 19.7" stroke-width="1.5" width="24" height="24">
+        <g fill="none" stroke="currentColor">
+            <path stroke-linecap="round" d="M18.5 18.3l-5.4-5.4"></path>
+            <circle cx="8" cy="8" r="7"></circle>
+        </g>
+    </svg>
+                                </a>
+                            </div>
+                        </div></div>
+                
+                <div id="navbar-collapse" class="navbar-collapse collapse"><div class="lee-nav-right-region pull-right">
+                            <div class="user-controls show-onload clearfix pull-left" style="display: block;"><div class="notification-button pull-left" data-control="notification" style="display: block;">
+                                        <span class="badge-dot tnt-bg-accent"></span>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+        <path d="M8 16a2 2 0 0 0 2-2H6a2 2 0 0 0 2 2zM8 1.918l-.797.161A4.002 4.002 0 0 0 4 6c0 .628-.134 2.197-.459 3.742-.16.767-.376 1.566-.663 2.258h10.244c-.287-.692-.502-1.49-.663-2.258C12.134 8.197 12 6.628 12 6a4.002 4.002 0 0 0-3.203-3.92L8 1.917zM14.22 12c.223.447.481.801.78 1H1c.299-.199.557-.553.78-1C2.68 10.2 3 6.88 3 6c0-2.42 1.72-4.44 4.005-4.901a1 1 0 1 1 1.99 0A5.002 5.002 0 0 1 13 6c0 .88.32 4.2 1.22 6z"></path>
+    </svg>
+                                    </div><div class="not-logged-in pull-left" style="display: block;">
+                                        <ul class="list-inline">
+                                            <li>
+                                                <a href="https://trib.com/users/login/?referer_url=https%3A%2F%2Ftrib.com%2Fprivacy%2F" class="btn btn-link btn-sm user-control-link" rel="nofollow">
+                                                    <span class="user-avatar">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <circle cx="12" cy="8" r="5"></circle>
+        <path d="M3,21 h18 C 21,12 3,12 3,21"></path>
+    </svg>
+                                                    </span>
+                                                    Log In
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="logged-in pull-left" style="display: none;">
+                                        <ul class="hide-offcanvas list-inline">
+                                            <li class="dropdown pull-right">
+                                                <div class="dropdown-toggle btn btn-link btn-sm user-dropdown" data-toggle="dropdown">
+                                                    <div class="user-avatar pull-right"><img class="lee-user-avatar" src="https://bloximages.chicago2.vip.townnews.com/trib.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png" height="24" width="24" alt="user icon"></div>
+                                                    <div class="user-welcome pull-left">Welcome, <span class="tn-user-screenname">Guest</span></div>
+                                                </div>
+                                                <ul class="lee-membership-container dropdown-menu dropdown-menu-right" role="menu"><li class="lee-membership-item">
+                                                                <div class="user-level"><span class="level lee-membership-package"></span> Member</div>
+                                                                <div class="user-link"><a href="https://subscriberservices.lee.net/subscriberservices/Content/AccountStatus.aspx?Domain=trib.com">My Subscription</a></div>
+                                                                <!--<div class="user-link"><a href="/members/">See Benefits</a></div>
+                                                                <div class="user-link"><a href="/members/exclusives/">Members Only</a></div>-->
+                                                                <div class="user-link"><a href="/helpcenter/">Help Center</a></div>
+                                                            </li><li role="presentation" class="dropdown-header">My Account</li>
+                                                        <li role="menuitem"><a href="https://trib.com/users/admin/" rel="nofollow"><svg class="tnt-svg tnt-tachometer-alt tnt-w-18 tnt-fw" aria-hidden="true" data-prefix="fas" data-icon="tachometer-alt" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M75.694 480a48.02 48.02 0 0 1-42.448-25.571C12.023 414.3 0 368.556 0 320 0 160.942 128.942 32 288 32s288 128.942 288 288c0 48.556-12.023 94.3-33.246 134.429A48.018 48.018 0 0 1 500.306 480H75.694zM512 288c-17.673 0-32 14.327-32 32 0 17.673 14.327 32 32 32s32-14.327 32-32c0-17.673-14.327-32-32-32zM288 128c17.673 0 32-14.327 32-32 0-17.673-14.327-32-32-32s-32 14.327-32 32c0 17.673 14.327 32 32 32zM64 288c-17.673 0-32 14.327-32 32 0 17.673 14.327 32 32 32s32-14.327 32-32c0-17.673-14.327-32-32-32zm65.608-158.392c-17.673 0-32 14.327-32 32 0 17.673 14.327 32 32 32s32-14.327 32-32c0-17.673-14.327-32-32-32zm316.784 0c-17.673 0-32 14.327-32 32 0 17.673 14.327 32 32 32s32-14.327 32-32c0-17.673-14.327-32-32-32zm-87.078 31.534c-12.627-4.04-26.133 2.92-30.173 15.544l-45.923 143.511C250.108 322.645 224 350.264 224 384c0 35.346 28.654 64 64 64 35.346 0 64-28.654 64-64 0-19.773-8.971-37.447-23.061-49.187l45.919-143.498c4.039-12.625-2.92-26.133-15.544-30.173z"></path></svg> Dashboard</a></li>
+                                                        <li role="menuitem"><a class="tn-user-profile-url" href="" data-app="https://trib.com/users/"><svg class="tnt-svg tnt-user tnt-w-16 tnt-fw" aria-hidden="true" data-prefix="fas" data-icon="user" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 0c88.366 0 160 71.634 160 160s-71.634 160-160 160S96 248.366 96 160 167.634 0 256 0zm183.283 333.821l-71.313-17.828c-74.923 53.89-165.738 41.864-223.94 0l-71.313 17.828C29.981 344.505 0 382.903 0 426.955V464c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48v-37.045c0-44.052-29.981-82.45-72.717-93.134z"></path></svg> Profile</a></li>
+                                                        <li role="menuitem"><a href="https://trib.com/users/admin/list/" rel="nofollow"><svg class="tnt-svg tnt-bookmark tnt-w-12 tnt-fw" aria-hidden="true" data-prefix="fas" data-icon="bookmark" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M0 512V48C0 21.49 21.49 0 48 0h288c26.51 0 48 21.49 48 48v464L192 400 0 512z"></path></svg> Saved items</a></li>
+                                                        <li role="separator" class="divider"></li>
+                                                        <li role="menuitem"><a class="logout-btn" onclick="document.getElementById('user-logout-form').submit(); return false;" rel="nofollow"><svg class="tnt-svg tnt-power-off tnt-w-16 tnt-fw" aria-hidden="true" data-prefix="fas" data-icon="power-off" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M400 54.1c63 45 104 118.6 104 201.9 0 136.8-110.8 247.7-247.5 248C120 504.3 8.2 393 8 256.4 7.9 173.1 48.9 99.3 111.8 54.2c11.7-8.3 28-4.8 35 7.7L162.6 90c5.9 10.5 3.1 23.8-6.6 31-41.5 30.8-68 79.6-68 134.9-.1 92.3 74.5 168.1 168 168.1 91.6 0 168.6-74.2 168-169.1-.3-51.8-24.7-101.8-68.1-134-9.7-7.2-12.4-20.5-6.5-30.9l15.8-28.1c7-12.4 23.2-16.1 34.8-7.8zM296 264V24c0-13.3-10.7-24-24-24h-32c-13.3 0-24 10.7-24 24v240c0 13.3 10.7 24 24 24h32c13.3 0 24-10.7 24-24z"></path></svg> Logout</a></li></ul>
+                                            </li>
+                                        </ul>
+                                    </div><div class="clearfix"></div>
+                            </div>
+                        </div><div class="navbar-left">
+                        <div class="nav-menu pull-left">
+                            <div id="tncms-region-nav-main-nav" class="tncms-region-nav"><ul id="main-nav_menu" class="nav navbar-nav" aria-label="navigation"><li>
+                <a class="nav-link  tnt-section-e-edition" href="https://trib.com/eedition/#tracking-source=main-nav"><span class="nav-label">E-Edition</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-news" href="https://trib.com/news/#tracking-source=main-nav"><span class="nav-label">News</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-obituaries" href="https://trib.com/lifestyles/announcements/obituaries/#tracking-source=main-nav"><span class="nav-label">Obituaries</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-opinion" href="https://trib.com/opinion/#tracking-source=main-nav"><span class="nav-label">Opinion</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-sports" href="https://trib.com/sports/#tracking-source=main-nav"><span class="nav-label">Sports</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-entertainment" href="https://trib.com/entertainment/#tracking-source=main-nav"><span class="nav-label">Entertainment</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-lifestyles" href="https://trib.com/lifestyles/#tracking-source=main-nav"><span class="nav-label">Lifestyles</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-jobs" href="https://trib.com/jobs/#tracking-source=main-nav"><span class="nav-label">Jobs</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-wildfires" href="https://trib.com/resources/wildfires/#tracking-source=main-nav"><span class="nav-label">Wildfires</span>
+                    
+                </a></li></ul></div><div class="nav-weather">
+                                    <ul class="nav navbar-nav">
+                                        <li class="current-conditions">
+                                            <a href="/weather/?weather_zip=82601">
+                                                <span class="icon pull-left">
+                                                    
+                                                    <svg class="tnt-svg tnt-wi-night-clear tnt-w-16" aria-hidden="true" data-prefix="fas" data-icon="wi-night-clear" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M128.54 256q0-25.864 10.143-49.531 10.143-23.667 27.217-40.825 17.074-17.158 40.825-27.386 23.751-10.227 49.615-10.227h20.793q4.2262 1.1834 4.2262 5.0714l0.67619 15.89q1.0143 34.317 24.765 58.49 23.751 24.174 57.561 25.526l14.876 1.1833q4.2262 0 4.2262 4.2262v17.581q0.16905 34.655-16.82 64.153-16.989 29.499-46.319 46.657-29.33 17.158-63.984 17.158-26.371 0-50.038-10.143-23.667-10.143-40.74-27.301-17.074-17.158-27.048-40.825-9.9738-23.667-9.9738-49.7zm32.964 0q0 27.386 13.862 49.784 13.862 22.399 35.5 34.401 21.638 12.002 45.474 12.002 15.721 0 31.696-6.1702 15.975-6.1702 29.752-17.243 13.777-11.073 23.667-28.315 9.8893-17.243 12.763-37.698-44.121-9.1286-70.746-37.782-26.625-28.654-30.682-67.365-25.526 1.3524-46.742 15.721-21.215 14.369-32.88 36.43-11.664 22.061-11.664 46.234z"></path></svg>
+                                                </span>
+                                                <span class="pull-left">
+                                                    <span class="temp">37°</span>
+                                                    <span class="cond">Partly Cloudy</span>
+                                                </span>
+                                                <span class="clearfix"></span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div></div>
+                    </div>
+                </div>  
+            </nav></div>
+    
+    <div id="main-body-container"><div id="tncms-region-global-below-header" class="tncms-region "></div>
+    <section aria-label="Main Content" id="main-page-container" class="container" tabindex="-1"><div id="tncms-region-global-container-top" class="tncms-region "></div><div id="grid-featured-top-container">
+        <section id="grid-featured-top">
+            <div class="row"><div id="tncms-region-index-featured-top" class="tncms-region col-md-12"></div></div>
+        </section>
+    </div><section id="grid-full-top">
+        <div class="row"><div id="tncms-region-index-full-top" class="tncms-region col-md-12"><div id="tncms-block-2074947" class="tncms-block style-title container-breakout-lg bg-fill-100"><section id="block-2074947" class="block emphasis-h1   "><div class="heading card">
+    
+    
+    <div class="clearfix">
+    
+    <div class="block-title title-2074947 ">
+        <div class="block-title-inner">
+            <h1>
+                
+                    <a href="/privacy">
+                
+                Privacy
+                
+                    </a>
+                
+            </h1>
+        </div>
+    </div></div>
+    
+</div></section></div></div></div>
+    </section>
+    <section id="grid-primary-container">
+        <div class="row"><div id="tncms-region-index-primary" class="tncms-region col-md-12"><div id="tncms-block-2075316" class="tncms-block newsletters-row margin-top"><style>
+    #privacy-index { max-width: 1100px; margin: 0 auto; }
+    #privacy-index .privacy-anchor{ display: block; padding-bottom: 40px; }
+    #privacy-index .table>thead>tr>th{ background-color: #222; color: #fff; vertical-align: middle; }
+    #privacy-index h2 { border-bottom: 3px double #666; margin-bottom: 20px; padding-bottom: 15px; }
+    #privacy-index .privacy-nav { margin-top: 40px; }
+    #privacy-index ul>li { margin-bottom: 10px; }
+</style>
+
+<div id="privacy-index">
+
+
+<p>Lee Enterprises, Incorporated and its affiliates, successors and assigns (“Lee Enterprises Inc.”, “us”, “our” or “we”) want you to be familiar with our privacy practices because we understand you are concerned about your privacy, and we want to maintain your trust. This privacy policy discloses how we collect, use, disclose, and safeguard information from and about you, including when you visit our websites, whether accessed through a computer, tablet, smartphone or other device, mobile sites, mobile applications, and other applications (collectively, "Sites"), and to any services that display this notice.</p>
+<p><strong>This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at <a href="mailto:privacy@lee.net">privacy@lee.net</a>.</strong></p>
+<p>Please read this privacy policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using this Site, you agree to this privacy policy. This privacy policy may change from time to time (see Changes To This Privacy Policy). Your continued use of this website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.</p>
+
+<ul class="h4 privacy-nav">
+    <li><a href="/privacy/#infocollect">Types Of Information We Collect</a></li>
+    <li><a href="/privacy/#processing">Use And Processing Of Information</a></li>
+    <li><a href="/privacy/#sharing">Sharing Of Information</a></li>
+    <li><a href="/privacy/#choices">Your Choices</a></li>
+    <li><a href="/privacy/#protect">How We Protect Personal Information</a></li>
+    <li><a href="/privacy/#ccpa">Information for California Residents 
+    </a></li><li><a href="/privacy/#transmission">Transmission Of Information To Other Countries
+    </a></li><li><a href="/privacy/#thirdparty">Third Party Applications/Websites
+    </a></li><li><a href="/privacy/#changes">Changes To This Privacy Policy
+    </a></li><li><a href="/privacy/#cookies">Cookie Policy</a></li>
+    <li><a href="/privacy/#contact">Contact Information</a></li>
+</ul>
+
+
+
+<!-- ********************************************* -->
+<a name="infocollect" class="privacy-anchor"></a>
+<h2>Types Of Information We Collect</h2>
+
+<p><strong>Information Automatically Gathered About All Visitors:</strong> We collect aggregate and user-specific information on which pages consumers access or visit. This information is used to generate reports that help us assess the value of an interest in the various Sites and services we provide. We use the information we collect to improve the content of our Sites and services. We can build better Sites and provide better services if we know which pages our users are visiting, how often they visit and how long they stay on a page. The following provides examples of the type of information that we collect from you and how we use that information.</p>
+
+<div class="table-responsive">
+    <table class="table table-hover table-bordered margin-top" cellspacing="0" cellpadding="0">
+        <thead>
+            <tr>
+                <th style="min-width: 175px;">Context</th>
+                <th style="min-width: 175px;">Types of Information</th>
+                <th>Primary Purpose for Collection and Use of Information</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Cookies and first party tracking</td>
+                <td>We use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a web site is viewed. See our <a href="/privacy/#cookies">Cookie Policy</a> for more information.</td>
+                <td>We have a legitimate interest in making our Site operate efficiently.</td>
+            </tr>
+            <tr>
+                <td>Cookies and Third Party Tracking</td>
+                <td>We participate in behavior-based advertising, this means that a third party uses technology (e.g., a cookie) to collect information about your use of our Site so that they can provide advertising about products and services tailored to your interests on our Site, or on other websites.</td>
+                <td>See our <a href="/privacy/#cookies">Cookie Policy</a> for more information. We have a legitimate interest in engaging in behavior-based advertising.</td>
+            </tr>
+            <tr>
+                <td>Distance Information</td>
+                <td>When you use one of our Mobile Apps we collect your location from the GPS, Wi-Fi, and/or cellular technology in your device to determine your location and your distance from a store that sells our products.</td>
+                <td>We have a legitimate interest in understanding our users and providing tailored services. In some contexts our use is also based upon your consent to provide us with geo location information.</td>
+            </tr>
+            <tr>
+                <td>Email Interconnectivity</td>
+                <td>If you receive email from us, we use certain tools to capture data related to when you open our message, click on any links or banners it.</td>
+                <td>We have a legitimate interest in understanding how you interact with our communications to you.</td>
+            </tr>
+            <tr>
+                <td>Website interactions</td>
+                <td>We use technology, including electronic files called web beacons, to monitor how you interact with our Site. This includes which pages you visit, which links you click on, or information that you type into our online forms.</td>
+                <td>We have a legitimate interest in understanding how you interact with our Site to better improve it, and to understand your preferences and interests in order to select offerings that you might find most useful.</td>
+            </tr>
+            <tr>
+                <td>Web logs</td>
+                <td>We collect information, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to a computer when the Internet is used), domain name, click-activity, referring website, and/or a date/time stamp for visitors.</td>
+                <td>We have a legitimate interest in monitoring our networks and the visitors to our Site. Among other things, it helps us understand which of our services is the most popular.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><strong>Information Gathered by Voluntary Submission:</strong> To make use of certain features on our Sites (such as contests, story comments, letters to the editor, personalized web pages and other interactive forums and blogs) visitors need to register and to provide certain information as part of the registration or participation process. The information you supply will help us offer you more personalized features, to tailor our services to your interests and make them more useful to you. Supplying such information is entirely voluntary. But if you do not supply the information we need, we may be unable to provide you with services and content we make available to other visitors to our Sites. The following provides examples of the type of information that we collect from you and how we use that information.</p>
+
+<div class="table-responsive">
+    <table class="table table-hover table-bordered margin-top" cellspacing="0" cellpadding="0">
+        <thead>
+            <tr>
+                <th style="min-width: 175px;">Context</th>
+                <th style="min-width: 175px;">Types of Information</th>
+                <th>Primary Purpose for Collection and Use of Information</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Account Registration</td>
+                <td>We collect your name and contact information when you create an account. We also collect information relating to the actions that you perform while logged into your account.</td>
+                <td>We have a legitimate interest in providing account relating functionalities to our users. Accounts can be used to save your preferences and transaction history.</td>
+            </tr>
+            <tr>
+                <td>Automated Account Services</td>
+                <td>We collect your name and contact information, including e-mail address, if you sign up for any of our automated account services.</td>
+                <td>We have a legitimate interest in providing transactional e-mails regarding the status of your account, including confirmations, notices of expiration and renewal and other related electronic correspondence.</td>
+            </tr>
+            <tr>
+                <td>Demographic Information</td>
+                <td>We collect personal information, such as your age or location.</td>
+                <td>We have a legitimate interest in understanding our users and providing tailored services.<p></p>
+                </td>
+            </tr>
+            <tr>
+                <td>Employment</td>
+                <td>If you apply for a job posting, or become an employee, we collect information necessary to process your application or to retain you as an employee. This may include, among other things, your Social Security Number. Providing this information is required for employment.</td>
+                <td>We use information about current employees to perform our contract of employment, or the anticipation of a contract of employment with you. In some contexts, we are also required by law to collect information about our employees. We also have a legitimate interest in using your information to have efficient staffing and work force operations.</td>
+            </tr>
+            <tr>
+                <td>Feedback/Support</td>
+                <td>If you provide us feedback or contact us for support we will collect your name and e-mail address, as well as any other content that you send to us, in order to reply.</td>
+                <td>We have a legitimate interest in receiving, and acting upon, your feedback or issues.</td>
+            </tr>
+            <tr>
+                <td>Mailing List</td>
+                <td>When you sign up for one of our mailing lists we collect your email address or postal address.</td>
+                <td>We have a legitimate interest in sharing information about our products or services.</td>
+            </tr>
+            <tr>
+                <td>Partner Promotion</td>
+                <td>We collect information that you provide as part of a co-branded promotion with another company.</td>
+                <td>We have a legitimate interest in fulfilling our promotions.</td>
+            </tr>
+            <tr>
+                <td>Subscription Purchase</td>
+                <td>We collect your name, billing address, shipping address, e-mail address, phone number, and credit card number when you purchase a subscription.</td>
+                <td>We use your information to perform our contract to provide you with products or services.</td>
+            </tr>
+            <tr>
+                <td>Surveys</td>
+                <td>When you participate in a survey we collect information that you provide through the survey. If the survey is provided by a third party service provider, the third party’s privacy policy applies to the collection, use, and disclosure of your information.</td>
+                <td>We have a legitimate interest in understanding your opinions, and collecting information relevant to our organization.</td>
+            </tr>
+            <tr>
+                <td>Sweepstakes or contests</td>
+                <td>When you participate in a sweepstakes or contest we collect information about you which includes contact information to notify you if you are selected.</td>
+                <td>We have a legitimate interest in operating the sweepstakes. In some contexts we are also required by law to collect information about those that enter into our sweepstakes, and we have a legitimate interest in complying with those laws.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p>In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources. For example, if you submit a job application, or become an employee, we may conduct a background check.</p>
+
+
+
+<!-- ********************************************* -->
+<a name="processing" class="privacy-anchor"></a>
+<h2>Use And Processing Of Information</h2>
+
+<p>In addition to the purposes and uses described above, we use information in the following ways:</p>
+
+<ul>
+    <li>To identify you when you visit our Sites.</li>
+    <li>To provide products and services.</li>
+    <li>To improve our Sites, services, and product offerings.</li>
+    <li>To conduct statistical, marketing and demographic analyses of our delivery subscribers and their subscription patterns.</li>
+    <li>To respond to inquiries related to support, employment opportunities, or other requests.</li>
+    <li>To send marketing and promotional materials, including information relating to our products, services, sales, or promotions.</li>
+    <li>For internal administrative purposes, as well as to manage our relationships.</li>
+</ul>
+
+<p>Although the sections above describe our primary purpose in collecting your information, in many situations we have more than one purpose. For example, if you purchase a subscription we collect your information to perform our contract with you, but we also collect your information as we have a legitimate interest in maintaining your information after your transaction is complete so that we can quickly and easily respond to any questions about your subscription. As a result, our collection and processing of your information is based in different contexts upon your consent, our need to perform a contract, our obligations under law, and/or our legitimate interest in conducting our business.</p>
+
+
+
+<!-- ********************************************* -->
+<a name="sharing" class="privacy-anchor"></a>
+<h2>Sharing Of Information</h2>
+
+<p>In addition to the specific situations discussed elsewhere in this policy, we disclose information in the following situations:</p>
+
+<ul>
+    <li><strong>Affiliates and Acquisitions.</strong> We may share information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control). If another company acquires our company, business, or our assets, we will also share information with that company, including at the negotiation stage.</li>
+    <li><strong>Other Disclosures with Your Consent.</strong> We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.</li>
+    <li><strong>Other Disclosures without Your Consent.</strong> We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third party intermediary.</li>
+    <li><strong>Public.</strong> Some of our Sites may provide the opportunity to post comments, letters to the editor, or reviews, in a public forum or blog. If you decide to submit information on these pages, that information may be publically available.</li>
+    <li><strong>Partner Promotion.</strong> We may offer contests, sweepstakes, or other promotions with third party partners. If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner the information that you provide will be shared with us and with them. Their use of your information is not governed by this privacy policy.</li>
+    <li><strong>Service Providers.</strong> We share your information with service providers. Among other things service providers help us to process payments, and assist in the fulfillment of orders, e-mail distribution, list processing and analytics or promotions management.</li>
+    <li><strong>Social-Media Platforms.</strong> Account registration can be done by linking your Facebook or Google accounts. If you choose to link your social-media account or account relating to other third-party services, you may be asking third parties to send us certain information from those social media accounts or services accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy.</li>
+</ul>
+
+
+
+<!-- ********************************************* -->
+<a name="choices" class="privacy-anchor"></a>
+<h2>Your Choices</h2>
+
+<p>You can make the following choices regarding your personal information:</p>
+
+<ul>
+    <li><strong>Promotional Emails.</strong> You may choose to provide us with your email address for the purpose of allowing us to send free newsletters, surveys, offers, and other promotional materials to you, as well as targeted offers from third parties. You can stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive. If you decide not to receive promotional emails, we may still send you service related communications.</li>
+    <li><strong>Promotional Mailings.</strong> If at any time you do not want to receive offers and/or circulars from us you can remove yourself from our mailing lists by emailing us (our contact information is below) with "NO SNAIL MAIL" in the subject line along with your name, address and zip code. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed.</li>
+    <li><strong>Promotional Text Messages.</strong> If you receive a text message from us that contains promotional information you can opt-out of receiving future text messages by replying “STOP.”</li>
+    <li><strong>Access To Your Personal Information.</strong> If required by law, upon request, we will grant you reasonable access to the personal information that we have about you. You may request access to your personal information by contacting us at the address described below.</li>
+    <li><strong>Changes To Your Personal Information.</strong> We rely on you to update and correct your personal information. Most of our Sites allow you to modify or delete your account profile. Note that we may keep historical information in our backup files as permitted by law. If our Site does not permit you to update or correct certain information contact us at the address described below.</li>
+    <li><strong>Deletion Of Your Personal Information.</strong> Typically we retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law. You may, however, request information about how long we keep a specific type of information, or request that we delete your personal information by contacting us at the address described below. In addition, we may keep your personal information as needed to comply with our legal obligations, resolve disputes, and/or enforce any of our agreements.</li>
+    <li><strong>Objection to Processing or Revocation Of Consent.</strong> In certain circumstances, you may object to processing of your personal information. If you revoke your consent for the processing of personal information then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity. You may revoke consent to processing (where such processing is based upon consent) by contacting us at the address described below.</li>
+    <li><strong>Online Tracking.</strong> Some browsers or other tools include “Do Not Track” (DNT) features which, when turned on, send a signal to websites you visit indicating that you do not wish to be tracked across websites over time. The Worldwide Web Consortium (W3C) has been working with industry groups and regulators to develop a DNT browser technology standard to provide a common understanding as to how to interpret the DNT signals, but to date no standard has been adopted. Since there is no standard at this time, we do not currently respond to DNT signals. We will follow the progress of the W3C in developing the standard. If and when a final standard is established and accepted, we will reassess how to respond to these signals.</li>
+</ul>
+
+<p><strong>California Residents.</strong> California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes; however, California residents may direct such requests to <a href="mailto:privacy@lee.net">privacy@lee.net</a>. California residents who are registered users of the Services and are under the age of 18 are entitled, in accordance with California law, to request and obtain removal of content and information that they themselves post on the Services. You may request such removal by emailing us at <a href="mailto:privacy@lee.net">privacy@lee.net</a>. In your request, please provide a description of the material that you want removed and information reasonably sufficient to permit us to locate the material, and include your name, email address and/or website user name, year of birth, mailing address (including city, state, and zip code), and the subject line “California Removal Request” so that we can process your request. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party</p>
+
+
+
+<!-- ********************************************* -->
+<a name="protect" class="privacy-anchor"></a>
+<h2>How We Protect Personal Information</h2>
+
+<p>No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information.</p>
+<p>Some of our Sites permit you to create an account. When you do you will be prompted to create a password. You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you. You should notify us of any unauthorized use of your password or account.</p>
+
+
+
+<!-- ********************************************* -->
+<a name="ccpa" class="privacy-anchor"></a>
+<h2>Information for California Residents</h2>
+
+<ul>
+    <li>California law indicates that organizations should disclose whether certain categories of personal information are collected, “sold,” or disclosed for an organization’s “business purpose” (as those terms are defined under California law). You can find a list of the categories of information that we collect and share <a href="/privacy/?ccpa=true" target="_blank"><strong>here</strong></a>. Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself.</li>
+    <li>California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes; however, California residents may direct such requests to <a href="mailto:privacy@lee.net">privacy@lee.net</a>. California residents who are registered users of the Sites and are under the age of 18 are entitled, in accordance with California law, to request and obtain removal of content and information that they themselves post on the Sites. You may request such removal by emailing us at <a href="mailto:privacy@lee.net">privacy@lee.net</a>. In your request, please provide a description of the material that you want removed and information reasonably sufficient to permit us to locate the material, and include your name, email address and/or website user name, year of birth, mailing address (including city, state, and zip code), and the subject line “California Removal Request” so that we can process your request. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party.</li>
+    <li>We do not discriminate against California residents who exercise any of their rights described in this privacy policy.</li>
+</ul><button class="btn btn-primary" onclick="window.Osano.cm.showDrawer('osano-cm-dom-info-dialog-open')">Cookie Preferences</button><!-- ********************************************* -->
+<a name="transmission" class="privacy-anchor"></a>
+<h2>Transmission Of Information To Other Countries</h2>
+
+<p>We are established in the United States. By submitting your personal information to us you agree to the transfer, storage and processing of your information in a country other than your country of residence including, but not necessarily limited to, the United States. If you would like more information concerning our attempts to apply the privacy principles applicable in one jurisdiction to data when it goes to another jurisdiction you can contact us using the <a href="/privacy/#contact">contact information</a> below.</p>
+
+
+
+<!-- ********************************************* -->
+<a name="thirdparty" class="privacy-anchor"></a>
+<h2>Third Party Applications/Websites</h2>
+
+<p>Our Sites contain numerous links to third parties. We have no control over the privacy practices of websites or applications that we do not own. You should refer to each of those third party websites to obtain information on their privacy policies</p>
+
+
+
+<!-- ********************************************* -->
+<a name="changes" class="privacy-anchor"></a>
+<h2>Changes To This Privacy Policy </h2>
+<p>We may change our privacy policy and practices over time. To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information unless we receive your consent to the new privacy policy.When we post changes to this privacy policy, we will indicate the effective date with the "Last Updated" date at the bottom of this page.</p>
+
+
+
+<!-- ********************************************* -->
+<a name="cookies" class="privacy-anchor"></a>
+<h2>Cookie Policy</h2>
+<p>This Cookie Policy describes how and when we use different types of cookies when you visit our Sites, whether accessed through a computer, tablet, smartphone or other device, and our mobile applications.</p>
+
+<h4>What Are Cookies?</h4>
+<p>A cookie is a small text file that is sent to your internet browser from the websites you visit and stored on your computer's hard drive or tablet or mobile device. In a similar way to many other websites, we use cookies to help us tailor our services to your needs so we can deliver a better and more personalized service. It is a cookie, for example, that allows us to deliver to you any personalized information each time you visit our Sites.</p>
+
+<h4>What Types of Cookies Do We Use?</h4>
+<p>We place and access cookies on your computer; these cookies are known as “first-party cookies.” Cookies may also be placed and accessed by some of our third-party vendors, which are known as “third-party cookies” and are described below. Some cookies are "session cookies," which means that they are temporary cookies that are only stored on your device while you are visiting our Site. Other cookies are "persistent cookies," which means that they are stored on your device for a period of time after you leave our Site.</p>
+<p>The following describes the different types of cookies that we use:</p>
+
+<div class="table-responsive">
+    <table class="table table-hover table-bordered margin-top">
+        <thead>
+            <tr>
+                <th style="min-width: 175px;">Cookie Type</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Advertising Cookies</td>
+                <td>
+                    <p>We may use third-party advertising companies to serve ads when you visit our Sites. A list of these ad serving companies is available here. These companies may employ cookies to measure advertising effectiveness. We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the <a href="http://www.networkadvertising.org/">Network Advertising Initiative's</a> consumer website.</p>
+                    <p>Google Doubleclick for Publishers (DFP) is an ad network partner that displays ads on our Sites. <a href="https://www.google.com/policies/technologies/ads/">Click here</a> to learn more about Google DFP's ad practices, including how to opt out of using anonymous information to select which ads to show you.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>Analytics Cookies</td>
+                <td>Analytics cookies collect information about your use of the website that allow us to study, and then improve, how customers interact with the website. This is known as website analytics. Analytics cookies allow us to understand more about how many visitors we have to our Sites, how many times they visit us and how many times a user viewed specific web pages within our Site. Although analytics cookies allow us to gather specific information about the pages that you visit and whether you have visited our Site multiple times, we cannot use them to find out details such as your name or address. Examples of analytical tools that we use are: Google Analytics and Adobe Analytics.</td>
+            </tr>
+            <tr>
+                <td>Essential Cookies</td>
+                <td>These are cookies that our Site needs in order to function, and that enable you to move around and use its services and features. Without these necessary cookies, the Site will not perform as smoothly for you as we would like it to and we may not be able to provide the Site or certain services or features you request. Examples of where these cookies are used include: [to anonymously determine when you are signed in; to determine when a user’s account has been inactive; and for other security purposes].</td>
+            </tr>
+            <tr>
+                <td>Third-Party Cookies</td>
+                <td>These are cookies set by third parties (someone other than the owner of the website). Aside from setting cookies ourselves, we also allow third parties to set cookies during your visit to our Site. These organizations provide us with information on how you use our Site. They may also use cookies to promote our newest products and latest offers to you on other websites based on your activity on our Site, or your activity on other websites that use the same cookies. For example, you may see products that you viewed on our Site presented on other websites as you move around the internet. Some of our partners will use your location to provide more relevant messaging. We have no control over third-party cookies.</td>
+            </tr>
+            <tr>
+                <td>Social Media Cookies</td>
+                <td>Social media cookies are used to enable you to share pages and content you find interesting on our Site through third-party social networking and other websites. These cookies may also be used for advertising purposes.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<h4>How Can I Manage My Cookies?</h4>
+<p>If you wish to manage or opt-out of cookies utilized by our Sites and third party advertisers, you can take the following steps:</p>
+
+<ul>
+    <li>You may be able to download an opt-out cookie from the third party advertiser’s website allowing you to opt-out of cookies. Please visit the third party advertiser’s websites for more information.</li>
+    <li>Your web browser may allow you to manage what cookies are accepted or declined. These settings can usually be found in the preferences or options menus of your web browser.</li>
+    <li>Your web browser may also allow you to manually view cookies and delete the cookies you don’t want or need. Check your web browser’s settings for more information.</li>
+    <li>Websites that require registration may allow you to opt-out of cookies. Check the account settings or preferences section of the website for more information.</li>
+</ul>
+<p>For more information about opting out of interest based advertising, you can visit: <a href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a>.</p>
+<p>If you choose not to accept cookies while on our Sites, please be aware that our Sites may no longer function as intended, and you may be unable to access certain pages. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Sites.</p>
+
+
+
+<!-- ********************************************* -->
+<a name="contact" class="privacy-anchor"></a>
+<h2>Contact Information</h2>
+
+<p>If you have any questions, comments, or complaints concerning our privacy practices, please contact us at the appropriate address below. We will attempt to respond to your requests and to provide you with additional privacy-related information.</p>
+<p>Email: <a href="mailto:privacy@lee.net">privacy@lee.net</a></p><address>
+    4600 E 53rd St<br>
+    Davenport, IA 52807<br>
+    <a href="tel:+15633832200">(563) 383-2200</a><br>
+    <a href="tel:+18669816397">(866) 981-6397</a>
+</address>
+
+<p>If you are not satisfied with our response, and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.</p>
+
+
+
+<!-- ********************************************* -->
+<p><strong>Last Revised: 12/31/2019</strong></p>
+
+
+
+
+</div></div></div></div>
+    </section><section id="grid-full-middle">
+        <div class="row"><div id="tncms-region-index-full-middle" class="tncms-region col-md-12"></div></div>
+    </section>
+    <section id="grid-secondary-container">
+        <div class="row"><div id="tncms-region-index-secondary" class="tncms-region col-md-12"></div></div>
+    </section>
+    <section id="grid-full-bottom">
+        <div class="row"><div id="tncms-region-index-full-bottom" class="tncms-region col-md-12"></div></div></section>
+    <section id="grid-featured-bottom">
+        <div class="row"><div id="tncms-region-index-featured-bottom" class="tncms-region col-md-12"></div></div>
+    </section><div class="row">
+                <div class="col-md-12"><div id="tncms-region-index-container-bottom" class="tncms-region "></div></div>
+                <div class="col-md-12"><div id="tncms-region-front-index-container-bottom" class="tncms-region "></div></div>
+            </div><div class="row">
+            <div class="col-md-12"><div id="tncms-region-global-container-bottom" class="tncms-region "></div></div>
+        </div></section>
+    <section id="main-bottom-container" class="container-fullscreen-region container-fluid">
+        <div class="fullscreen-region"><div id="tncms-region-global-container-bottom-fullscreen" class="tncms-region "></div></div>
+    </section><!-- / main-body-container -->
+    </div>
+    
+    <div id="global-modal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                </div>
+                <div id="global-modal-body" class="modal-body"></div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="site-footer-container" class="hidden-print">
+        <footer id="site-footer" class="container">
+            
+            <div class="row">
+                <div id="footer-col-one" class="col-md-4 col-sm-4">
+                    <div class="logo">
+                        <a href="/"><img alt="Casper Star-Tribune Online" src="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/custom/image/403f0a3e-3038-11ec-9219-fbdc15c56230.png"></a>
+                    </div><div id="tncms-region-footer-col-one" class="tncms-region "><div id="tncms-block-2074896" class="tncms-block site-follow-us branding-links"><div class="follow-links-2074896 follow-links default">
+    
+    <section id="block-2074896" class="block emphasis-h3   "><ul class="list-inline">
+        
+            <li>
+                <a href="/facebook" title="Facebook" target="_blank" rel="noopener" class="btn btn-xs btn-link fb">
+                    <svg class="tnt-svg tnt-facebook-f tnt-w-9" aria-hidden="true" data-prefix="fab" data-icon="facebook-f" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 264 512" data-fa-i2svg=""><path fill="currentColor" d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"></path></svg>
+                    <span class="sr-only">Facebook</span>
+                </a>
+            </li>
+        
+        
+            <li>
+                <a href="/twitter" title="Twitter" target="_blank" rel="noopener" class="btn btn-xs btn-link tw">
+                    <svg class="tnt-svg tnt-twitter tnt-w-16" aria-hidden="true" data-prefix="fab" data-icon="twitter" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+                    <span class="sr-only">Twitter</span>
+                </a>
+            </li>
+        
+        
+        
+            <li>
+                <a href="/youtube" title="Youtube" target="_blank" rel="noopener" class="btn btn-xs btn-link yt">
+                    <svg class="tnt-svg tnt-youtube tnt-w-18" aria-hidden="true" data-prefix="fab" data-icon="youtube" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>
+                    <span class="sr-only">YouTube</span>
+                </a>
+            </li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </ul>
+    </section>
+</div>
+<script type="application/ld+json">
+{ "@context" : "https://schema.org",
+  "@type" : "Organization",
+  "url" : "http://trib.com",
+  "sameAs" : ["/facebook","/twitter","/youtube"]
+}
+</script>
+<div class="clearfix"></div></div></div><div id="tncms-region-nav-footer-col-one-nav" class="tncms-region-nav"><ul id="footer-col-one-nav_menu" class="bullet-nav nav-list" aria-label="navigation"><li>
+                <a class="nav-link  tnt-section-wyovarsity" href="/sports/high-school/"><span class="nav-label">WyoVarsity</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-pokes-authority" href="/sports/college/wyoming/"><span class="nav-label">Pokes Authority</span>
+                    
+                </a></li></ul></div></div><div id="footer-col-two" class="col-md-4 col-sm-4">
+                    <div class="block-title">
+                        <div class="block-title-inner">
+                            <h4>Sites &amp; Partners</h4>
+                        </div>
+                    </div><div id="tncms-region-nav-footer-col-two-nav" class="tncms-region-nav"><ul id="footer-col-two-nav_menu" class="bullet-nav nav-list" aria-label="navigation"><li>
+                <a class="nav-link  tnt-section-e-edition" href="http://trib.com/eedition/" target="_blank" rel="noopener"><span class="nav-label">E-Edition</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-obituaries" href="/obituaries/"><span class="nav-label">Obituaries</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-weather" href="/weather/"><span class="nav-label">Weather</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-comics" href="/comics/"><span class="nav-label">Comics</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-puzzles-and-horoscopes" href="/puzzles/"><span class="nav-label">Puzzles and Horoscopes</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-town-crier" href="/lifestyles/announcements/community/"><span class="nav-label">Town Crier</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-online-features" href="/online_features/"><span class="nav-label">Online Features</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-work-at-wyoming" href="/jobs/"><span class="nav-label">Work At Wyoming</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-special-sections" href="/eedition/special-section/"><span class="nav-label">Special Sections</span>
+                    
+                </a></li></ul></div></div>
+                <div id="footer-col-three" class="col-md-4 col-sm-4">
+                    <div class="block-title">
+                        <div class="block-title-inner">
+                            <h4>Services</h4>
+                        </div>
+                    </div><div id="tncms-region-nav-footer-col-three-nav" class="tncms-region-nav"><ul id="footer-col-three-nav_menu" class="bullet-nav nav-list" aria-label="navigation"><li>
+                <a class="nav-link  tnt-section-contact-us" href="/contact/"><span class="nav-label">Contact Us</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-customer-service" href="/customer-service/"><span class="nav-label">Customer Service</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-become-a-member" href="/members/join/"><span class="nav-label">Become a Member</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-activate-your-subscription" href="/activate/"><span class="nav-label">Activate Your Subscription</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-email-updates" href="/newsletters/"><span class="nav-label">Email Updates</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-jobs" href="/jobs/"><span class="nav-label">Jobs</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-real-estate" href="/homes/"><span class="nav-label">Real Estate</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-auto" href="/auto/"><span class="nav-label">Auto</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-legals" href="/ads/community/announcements/legal/"><span class="nav-label">Legals</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-dealer-services" href="https://trib.com/forms/subscribe__dealer_services/" target="_blank" rel="noopener"><span class="nav-label">Dealer Services</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-other-classifieds" href="/ads/"><span class="nav-label">Other Classifieds</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-advertise" href="/advertise/"><span class="nav-label">Advertise </span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-work-here" href="http://lee.net/careers/opportunities/?utm_source=newspaper&amp;utm_medium=blox&amp;utm_campaign=workhere" target="_blank" rel="noopener"><span class="nav-label">Work here</span>
+                    
+                </a></li><li>
+                <a class="nav-link  tnt-section-become-a-carrier" href="/forms/routes/"><span class="nav-label">Become a Carrier</span>
+                    
+                </a></li></ul></div></div></div>
+            
+        </footer>
+
+        <div id="site-copyright-container" class="container">
+            <div id="site-copyright" class="row">
+                <div class="col-md-7 copyright-left">
+                    <span class="text">
+                        © Copyright 2022 
+                        <a href="/">Casper Star-Tribune</a>, 100 N. Ash St. Casper, WY 82601
+                    </span>
+                    <span class="links">
+                        <span class="sep">|</span>
+                        <a href="/terms/">Terms of Use</a>
+                        <span class="sep">|</span>
+                        <a href="/privacy/">Privacy Policy</a>
+                        <span class="sep">|</span>
+                        <a href="/privacy/#ccpa">Do Not Sell My Info</a>
+                        <span class="sep">|</span>
+                            <a onclick="window.Osano.cm.showDrawer('osano-cm-dom-info-dialog-open');" style="cursor:pointer">Cookie Preferences</a>
+                        </span>
+                </div>
+                <div class="col-md-5 copyright-right">
+                    <span class="text">
+                        Powered by <a href="https://bloxcms.com" title="BLOX Content Management System" target="_blank" rel="noopener">BLOX Content Management System</a> from <a href="https://townnews.com/" title="TownNews.com BLOX Newspaper Content Management" target="_blank" rel="noopener">TownNews.com</a>.
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    </div><!-- / offcanvas close  -->
+    <div id="notification-panel" class="notify-panel notify-panel-from-right">
+            <template>
+                <div class="notification-item">
+                    <a href="{{url}}" target="_blank"></a>
+                    <div class="notification-item-card">
+                        <div class="notification-item-image"><img src="{{image}}"></div>
+                        <div class="notification-item-content">
+                            <div class="notification-item-header">{{title}}</div>
+                            <div class="notification-item-summary">{{summary}}</div>
+                        </div>
+                    </div>
+                    <div class="notification-item-dismiss">
+                        <i class="fas tnt-times tnt-fw"></i>
+                    </div>
+                </div>
+            </template>
+            <div class="notify-panel-container">
+                <div class="notify-panel-header">
+                    <div class="notify-panel-close"><svg class="tnt-svg tnt-times tnt-w-12 tnt-fw" aria-hidden="true" data-prefix="fas" data-icon="times" role="presentation" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M323.1 441l53.9-53.9c9.4-9.4 9.4-24.5 0-33.9L279.8 256l97.2-97.2c9.4-9.4 9.4-24.5 0-33.9L323.1 71c-9.4-9.4-24.5-9.4-33.9 0L192 168.2 94.8 71c-9.4-9.4-24.5-9.4-33.9 0L7 124.9c-9.4 9.4-9.4 24.5 0 33.9l97.2 97.2L7 353.2c-9.4 9.4-9.4 24.5 0 33.9L60.9 441c9.4 9.4 24.5 9.4 33.9 0l97.2-97.2 97.2 97.2c9.3 9.3 24.5 9.3 33.9 0z"></path></svg></div>
+                    <div class="notify-panel-nav" role="tablist">
+                        <ul>
+                            <li class="active" role="presentation"><a href="#notify-panel-content" role="tab" data-toggle="tab">Notifications</a></li>
+                            <li role="presentation"><a href="#notify-panel-settings" role="tab" data-toggle="tab">Settings</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="tab-content">
+                    <div id="notify-panel-content" class="tab-pane active" role="tabpanel">
+                        <div class="notify-panel-content-items"></div>
+                        <div class="notify-panel-content-no-items" style="display: block;">You don't have any notifications.</div>
+                    </div>
+                    <div id="notify-panel-settings" class="tab-pane" role="tabpanel">
+                        <div class="notify-panel-settings-promo">
+                            <p>Get up-to-the-minute news sent straight to your device.</p>
+                        </div>
+                        
+                        <h5>Topics</h5>
+                        
+                            <div class="topic-container" data-name="alert">
+                                <h4>News Alerts</h4>
+                                <label class="switch-label">
+                                    <span class="sr-only">Subscribe</span>
+                                    <input id="topic-alert" class="switch-input" title="topic-alert" name="topic-alert" data-topic="alert" type="checkbox">
+                                    <div class="switch-track"></div>
+                                    <div class="switch-thumb"></div>
+                                </label>
+                            </div>
+                        
+                            <div class="topic-container" data-name="breaking">
+                                <h4>Breaking News</h4>
+                                <label class="switch-label">
+                                    <span class="sr-only">Subscribe</span>
+                                    <input id="topic-breaking" class="switch-input" title="topic-breaking" name="topic-breaking" data-topic="breaking" type="checkbox">
+                                    <div class="switch-track"></div>
+                                    <div class="switch-thumb"></div>
+                                </label>
+                            </div>
+                        
+                        
+                        <div class="notify-panel-settings-error alert alert-danger" style="display:none; opacity:0;"></div>
+                        <div class="notify-panel-settings-success alert alert-success" style="display:none; opacity:0;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    <!-- / site-container close -->
+    </div><iframe name="__uspapiLocator" style="display: none;"></iframe><iframe name="__tcfapiLocator" style="display: none;"></iframe>
+    
+    
+    
+    <script>
+        window.__tnt = window.__tnt || {};
+        __tnt.compatibility = __tnt.compatibility || {};
+
+        __tnt.compatibility.status = '';
+        __tnt.compatibility.check = function() {
+            if (typeof __tnt.advertisements == 'undefined') {
+                __tnt.compatibility.status = 'FAIL: object 0 undefined';
+                return false;
+            }
+            return true;
+        };
+        __tnt.compatibility.notification = function() {
+            };
+        (function() {
+            function compatibilityCheck() {
+                if (!__tnt.compatibility.check()) {
+                    __tnt.trackEvent({
+                        'category':'subscription',
+                        'action':'adblock',
+                        'label':'adblock detected',
+                        'value':'1'
+                    });
+                    __tnt.compatibility.notification();
+                }
+            }
+
+            if (document.readyState != 'loading') {
+                compatibilityCheck();
+            } else {
+                document.addEventListener('DOMContentLoaded', compatibilityCheck);
+            }
+        })();
+    </script>
+    
+    
+    <script>
+        jQuery(function() {
+            if(typeof TNCMS.Tracking != 'undefined'){
+                jQuery(TNCMS.Tracking.trackDeclarativeEvents);
+            }});
+    </script>
+
+    <script>
+        __tnt.trackEvent = function(obj) {
+            if (typeof obj === 'object') {
+                    if (obj.category && obj.action) {
+                        __tnt.googleEvent(obj);
+                    } else if (obj.network && obj.socialAction) {
+                        __tnt.googleSocial(obj);
+                    } else if (obj.url) {
+                        __tnt.googlePageView(obj);
+                    }
+                    if (typeof TNCMS.Tracking != 'undefined' && obj.metric) {
+                        TNCMS.Tracking.addEvent({
+                            app: obj.app,
+                            metric: obj.metric,
+                            id: obj.uuid
+                        });
+                    }
+            }
+        };
+
+        if (__tnt.trackEventLater.length > 0) {
+            __tnt.trackEventLater.forEach(function(obj) {
+                __tnt.trackEvent(obj);
+            });
+        }
+
+        Array.from(document.querySelectorAll('body [data-track]')).forEach(function(el) {
+            el.addEventListener(__tnt.client.clickEvent, function() {
+                __tnt.trackEvent(JSON.parse(el.dataset.track));
+            });
+        });
+        Array.from(document.querySelectorAll('body [data-tncms-track-event]')).forEach(function(el) {
+            el.addEventListener(__tnt.client.clickEvent, function() {
+                __tnt.trackEvent(JSON.parse(el.dataset.tncmsTrackEvent));
+            });
+        });
+        
+        Array.from(document.querySelectorAll('body [data-tncms-track-dmp]')).forEach(function(el) {
+            el.addEventListener(__tnt.client.clickEvent, function() {
+                var dmpData = el.dataset.tncmsTrackDmp;
+                _cc6894.add('act', dmpData);_cc6894.bcp();
+            });
+        });
+    
+    </script>
+    
+    <div class="tnt-ads-container text-center hidden-print "><div style="min-height: 1px; min-width: 1px; margin: 0px !important;" class="tnt-ads dfp-ad dfp-unit-requested" data-dfp-adunit="/8438/trib.com/privacy" data-dfp-custom-pos="members-impact, atf" id="members-impact" data-dfp-size="[5,1]" data-google-query-id="CIK_74Waq_sCFRKSAAAdhREKNw"><div id="google_ads_iframe_/8438/trib.com/privacy_1__container__" style="border: 0pt none;"></div></div></div>
+    
+<script>/*<![CDATA[*/ 
+        jQuery(document).ready(function($){
+            $('body').on('click', '.card.tnt-asset-type-video a', function(e) {
+                e.preventDefault();
+                $('#global-modal-body').html('<div class="video-iframe-container"><iframe id="lee-video-frame" src="'+$(this).attr('href').replace('.html','.html?modal_doc=true')+'" frameborder="0" scrolling="no"></iframe></div>');
+                $('#global-modal').modal({
+                    show: true,
+                    backdrop: 'static'
+                });
+                return false;
+            });
+            $('#global-modal').on('hidden.bs.modal', function(e){
+                $('#global-modal-body').html('');
+            });
+        }); /*]]>*/</script>
+<script src="https://tagan.adlightning.com/leeenterprises/op.js"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/live/libraries/flex/components/lee_ds_v3/resources/scripts/userstitch.load.js?_dc=1667980910"></script>
+<script>/*<![CDATA[*/ (function(){
+        try {
+            var oStitch = UserStitch.getManager({
+                debugLog: console.debug,
+                minimumVisits: 2,
+                apiKey: '39b4d123-57cc-4da6-a0c0-443bfdedc249',
+                });
+              
+            if (TNCMS.User && TNCMS.User.isLoggedIn()) {
+                oStitch.profile.addIdentifier(
+                    'eh256', TNCMS.User.getClaim('user', 'eml').sha256
+                );
+            }
+              
+            oStitch.profile.addIdentifierByLocalStorage('mpid', 'mparticle.mpid');
+            window.UserStitchID = oStitch.profile.masterId;
+
+            if(window.UserStitchID && window.localStorage){
+                window.localStorage.setItem('_us_master_id', window.UserStitchID);
+                __tnt.log('UserStitch ID: ' + window.UserStitchID);
+            }
+        } catch(oError) {
+            __tnt.log('UserStitch warning: ' + oError);
+        }
+    })(); /*]]>*/</script>
+<script>/*<![CDATA[*/ function messagingCallback(oPayload) {
+                __tnt.notify({
+                    title: oPayload.title,
+                    message: oPayload.body,
+                    url: oPayload.url,
+                    image: oPayload.icon,
+                    duration: 6000,
+                    utm: {
+                        'utm_source':'BLOX Broadcast',
+                        'utm_campaign':'Push Notification',
+                        'utm_medium':'referral',
+                        'utm_content':'in-page notification'
+                    }
+                }).showNotification();
+            } /*]]>*/</script>
+<script>/*<![CDATA[*/ 
+            jQuery(document).ready(function($){
+                var iqLogin = Cookies.get('tnt-iq-login') || false;
+                if (__tnt.user.loggedIn && iqLogin == false) {
+                    if (__tnt.user.services) {
+                        var userServices = __tnt.user.services.split(',');
+                        for (i = 0; i < userServices.length; i++) { 
+                            var serviceData = 'has_subservice: ' + userServices[i];
+                            _cc6894.add('act', serviceData);_cc6894.bcp();
+                        }
+                    }
+                    Cookies.set('tnt-iq-login', 1);
+                }
+            });
+         /*]]>*/</script>
+<script src="https://bloximages.chicago2.vip.townnews.com/leetemplates.com/content/tncms/live/global/resources/scripts/dfp.floor.js?_dc=11132"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/pb-config/trib.com.js?_dc=1667372513"></script>
+<script src="https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1667372513"></script>
+<script type="text/javascript" id="">(function(g,p,w,t,A,z,h){w[g]||(h=function(){z=t.createElement(A);r=p+"#"+g;w[g][A]=z;z.src=r;t.head.appendChild(z)},w[g]=function(c){w[g].cmds=w[g].cmds||[];w[g].cmds.push(c);w[g][A]||h()})})("__LEE","//cdn.leetemplates.com/__LEE/js/main.js",window,document,"script");
+(function(g,p,w,t,A,z,h,c){c=p[g];h=c.user=c.user||{};h.is_logged_in=!1;c.isTrue=function(a){"string"===typeof a&&(a=a.trim().toLowerCase());switch(a){case !0:case "true":case 1:case "1":case "on":case "yes":case "y":return!0;default:return!1}};c.cookies={getItem:function(a){return a?decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(a).replace(/[\-\.\+\*]/g,"\\$\x26")+"\\s*\\\x3d\\s*([^;]*).*$)|^.*$"),"$1"))||null:null},setItem:function(a,e,k,m,b,l){var u=
+"";if(!a||/^(?:expires|max\-age|path|domain|secure)$/i.test(a))return!1;if(k)switch(k.constructor){case Number:u=Infinity===k?"; expires\x3dFri, 31 Dec 9999 23:59:59 GMT":"; max-age\x3d"+k;break;case String:u="; expires\x3d"+k;break;case Date:u="; expires\x3d"+k.toUTCString()}document.cookie=encodeURIComponent(a)+"\x3d"+encodeURIComponent(e)+u+(b?"; domain\x3d"+b:"")+(m?"; path\x3d"+m:"")+(l?"; secure":"");return!0},removeItem:function(a,e,k){if(!this.hasItem(a))return!1;document.cookie=encodeURIComponent(a)+
+"\x3d; expires\x3dThu, 01 Jan 1970 00:00:00 GMT"+(k?"; domain\x3d"+k:"")+(e?"; path\x3d"+e:"");return!0},hasItem:function(a){return a?(new RegExp("(?:^|;\\s*)"+encodeURIComponent(a).replace(/[\-\.\+\*]/g,"\\$\x26")+"\\s*\\\x3d")).test(document.cookie):!1},keys:function(){var a,e=document.cookie.replace(/((?:^|\s*;)[^=]+)(?=;|$)|^\s*|\s*(?:=[^;]*)?(?:\1|$)/g,"").split(/\s*(?:=[^;]*)?;\s*/);var k=e.length;for(a=0;a<k;a++)e[a]=decodeURIComponent(e[a]);return e}};c.cid="GTM-TDWDC2";c.gtm=window.google_tag_manager[c.cid];
+c.sid=function(){var a=p.sessionStorage.getItem("__LEE_SID");if(a)return a;a=""+(new Date).getTime()+"."+Math.floor(2147483647*Math.random());p.sessionStorage.setItem("__LEE_SID",a);return a};c.eid=function(){var a=1*p.sessionStorage.getItem("__LEE_EIC");eid=__LEE.sid()+"."+ ++a;p.sessionStorage.setItem("__LEE_EIC",a);return eid};c.getURLParameter=function(a){return decodeURIComponent(((new RegExp("[?|\x26]"+a+"\x3d([^\x26;]+?)(\x26|#|;|$)")).exec(window.location.search)||[null,""])[1].replace(/\+/g,
+"%20"))||null};c.decodeJWT=function(a){a=a.split(".")[1];a=a.replace(/-/g,"+").replace(/_/g,"/");a=decodeURIComponent(atob(a).split("").map(function(e){return"%"+("00"+e.charCodeAt(0).toString(16)).slice(-2)}).join(""));return JSON.parse(a)};c.sgi=p.sessionStorage.getItem.bind(p.sessionStorage);c.ssi=p.sessionStorage.setItem.bind(p.sessionStorage);c.sha256=function(){return function k(e){function m(C,D){return C>>>D|C<<32-D}var b;var l=Math.pow;for(var u=l(2,32),E="",q=[],x=8*e.length,f=k.h=k.h||
+[],B=k.k=k.k||[],v=B.length,y={},n=2;64>v;n++)if(!y[n]){for(b=0;313>b;b+=n)y[b]=n;f[v]=l(n,.5)*u|0;B[v++]=l(n,1/3)*u|0}for(e+="\u0080";e.length%64-56;)e+="\x00";for(b=0;b<e.length;b++){if((l=e.charCodeAt(b))>>8)return;q[b>>2]|=l<<(3-b)%4*8}q[q.length]=x/u|0;q[q.length]=x;for(l=0;l<q.length;){e=q.slice(l,l+=16);u=f;f=f.slice(0,8);for(b=0;64>b;b++)v=e[b-15],y=e[b-2],x=f[0],n=f[4],v=f[7]+(m(n,6)^m(n,11)^m(n,25))+(n&f[5]^~n&f[6])+B[b]+(e[b]=16>b?e[b]:e[b-16]+(m(v,7)^m(v,18)^v>>>3)+e[b-7]+(m(y,17)^m(y,
+19)^y>>>10)|0),(f=[v+((m(x,2)^m(x,13)^m(x,22))+(x&f[1]^x&f[2]^f[1]&f[2]))|0].concat(f))[4]=f[4]+v|0;for(b=0;8>b;b++)f[b]=f[b]+u[b]|0}for(b=0;8>b;b++)for(l=3;l+1;l--)q=f[b]>>8*l&255,E+=(16>q?0:"")+q.toString(16);return E}}();(t=c.cookies.getItem("tncms-user"))?(h.is_logged_in=!0,t=c.decodeJWT(t),h.uuid=t.sub,h.sha256=t.app.user.eml.sha256,h.sha1=t.app.user.eml.sha1,h.username=t.app.user.scr):(h.is_logged_in=!1,h.uuid="",h.sha256="",h.sha1="",h.username="anonymous");c.gtm.dataLayer.set("lee",{sid:c.sid(),
+user:h});c.ssi("__LEE_USER",JSON.stringify(h));c.fbq=window.fbq||null;if(d=(new URLSearchParams(document.location.search)).get(g+"_debug"))c.isTrue(d)?c.cookies.setItem(g+"_debug","1"):c.cookies.removeItem(g+"_debug");c.debug=c.cookies.hasItem(g+"_debug");c.say=c.say||function(){var a=new Date;a=a.toISOString?a.toISOString():a.toString();var e=Array.from(arguments);c.debug&&(e.unshift(g+"("+a+"):"),console.log.apply(null,e))};c.say("Debugging enabled, use query parameter "+g+"_debug to toggle.");
+c.carp=function(){var a=new Date;a=a.toISOString?a.toISOString():a.toString();var e=Array.from(arguments);e.unshift(g+"("+a+"):");console.error.apply(null,e)}})("__LEE",window,document);__LEE.say("__LEE support loaded.");window.google_tag_manager[google_tag_manager["GTM-TDWDC2"].macro(2)].onHtmlSuccess(3);</script><script type="text/javascript" id="">!function(g,i,z,m,o,e,s){z.fbq_already_loaded=!!g.fbq;z.say("FB/Pixel: ",z.fbq_already_loaded?"already on the page.":"loaded by GTM.");window.google_tag_manager[google_tag_manager["GTM-TDWDC2"].macro(17)].dataLayer.set("fb_already_loaded",z.fbq_already_loaded);z.say("__LEE.user: ",z.user)}(window,document,__LEE);</script>
+
+<script type="text/javascript" id="">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version="2.0";n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");var pl;try{pl={"em":google_tag_manager["GTM-TDWDC2"].macro(18)}}catch(e){pl={}}fbq("init","961211893969940",pl);
+if(!!"")fbq("init","",pl);if(!!"")fbq("init","",pl);fbq("track","PageView");fbq("trackCustom","Domain",{custom_param:"trib.com"});</script>
+<script type="text/javascript" id="">(function(e,f,c,g){var a=document.createElement("script"),d=document.getElementsByTagName("script")[0]||document.head,b;try{if(!(b=localStorage._matherVer))throw!1;}catch(h){b=Math.round(new Date/10368E5)}a.type="text/javascript";a.async=!0;a.defer=!0;a.id="_mljs";a.src=("https:"==window.location.protocol?"https":"http")+"://"+(g||"js.matheranalytics.com/s")+"/"+e+"/"+f+"/"+(c?c+"/":"")+"ml.js?cb\x3d"+b;d.parentNode.insertBefore(a,d)})("ma1527","725149311","lee");</script>
+<script type="text/javascript" id="">var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"10345586"});(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src=("https:"==document.location.protocol?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";b.parentNode.insertBefore(a,b)})();</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=10345586&amp;cv=2.0&amp;cj=1"></noscript>
+<script charset="utf-8" id="" type="text/javascript" src="//b-code.liadm.com/a-012n.min.js"></script><iframe width="0" height="0" name="Trade Desk Tracking - Remarketing" frameborder="0" scrolling="no" src="https://insight.adsrvr.org/tags/nebsjkp/21usqg2/iframe"></iframe>
+<script id="" type="text/javascript" src="https://tag.simpli.fi/sifitag/5b5dc540-ca6c-013a-51e3-0cc47a8ffaac"></script><iframe src="https://8428cb31d310d34689a5f3e3383c3502.safeframe.googlesyndication.com/safeframe/1-0-39/html/container.html" style="visibility: hidden; display: none;"></iframe><script type="text/javascript" id="">!function(){var a=window.analytics=window.analytics||[];if(!a.initialize)if(a.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{a.invoked=!0;a.methods="trackSubmit trackClick trackLink trackForm pageview identify reset group track ready alias debug page once off on addSourceMiddleware addIntegrationMiddleware setAnonymousId addDestinationMiddleware".split(" ");a.factory=function(b){return function(){var c=Array.prototype.slice.call(arguments);c.unshift(b);
+a.push(c);return a}};for(var e=0;e<a.methods.length;e++){var f=a.methods[e];a[f]=a.factory(f)}a.load=function(b,c){var d=document.createElement("script");d.type="text/javascript";d.async=!0;d.src="https://cdn.segment.com/analytics.js/v1/"+b+"/analytics.min.js";b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(d,b);a._loadOptions=c};a._writeKey="YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6";a.SNIPPET_VERSION="4.15.3";a.debug(google_tag_manager["GTM-WXMV2VZ"].macro(52));a.load("YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6");a.ready(function(){var b=
+new CustomEvent("TownnewsSegmentLoaded",{detail:{analytics:a}});window.document.dispatchEvent(b)})}}();</script>
+<iframe src="https://i.liadm.com/s/c/a-012n?s=&amp;cim=&amp;ps=true&amp;ls=true&amp;duid=07947149c997--01ghrgx4fvtgnp2yewrdds4tfp&amp;ppid=0&amp;euns=0&amp;ci=0&amp;version=sc-v0.2.0&amp;nosync=false&amp;monitorExternalSyncs=false&amp;us_privacy=1YNY&amp;" style="display: none; width: 0px; height: 0px; border: 0px;"></iframe><iframe id="LOTCCFrame_1668344092182" src="https://bcp.crwdcntrl.net/5/c=6894/rand=803416072/pv=y/int=%23OpR%2363948%23Lee%20Enterprises%20%3A%20Total%20Site%20Traffic/int=%23OpR%2363949%23Lee%20Enterprises%20%3A%20trib%20%3A%20Total%20Site%20Traffic/int=%23OpR%2372332%23Site%20Section%20%3A%20privacy/med=%23OpR%2372333%23Keyword%20%3A%20casper%20star-tribune%20online/rb=%7B%22meta_tag%22%3A%22casper%20star-tribune%20online%22%7D/rt=ifr" title="empty" tabindex="-1" role="presentation" aria-hidden="true" style="border: 0px; width: 0px; height: 0px; display: block;"></iframe><iframe src="https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html" width="0" height="0" style="display: none;"></iframe><iframe src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe></body></html>

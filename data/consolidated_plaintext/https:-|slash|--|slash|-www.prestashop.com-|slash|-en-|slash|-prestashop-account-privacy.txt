@@ -1,0 +1,1475 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+PERSONAL DATA PROTECTION POLICY - PrestaShop Account | PrestaShop FR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                Products                                            
+
+
+
+                                                Resources                                            
+
+
+
+                                                About                                            
+
+
+
+                                                Addons Marketplace                                                
+
+
+
+
+
+
+
+
+Create my store
+
+
+
+
+
+
+
+                EN                
+
+English
+Français
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+play_arrow
+
+
+
+Solutions
+
+
+
+
+
+
+arrow_downward
+
+                                                                PrestaShop                                                            
+
+                                                                Start selling and grow quickly with our e-commerce platform                                                            
+
+
+
+
+group_work
+
+                                                                PrestaShop Experts                                                            
+
+                                                                Find the trusted agency to create & scale your business                                                            
+
+
+
+
+
+
+
+Services
+
+
+
+
+
+PrestaShop EssentialsNewThe modules for your growth
+
+PrestaShop PlatformA hosting and fully managed solution
+
+PrestaShop Starter PackDiscover our offer to help you get started
+
+PrestaShop Professional ServicesBoost the growth of your ecommerce
+
+ 
+
+
+
+
+
+
+
+play_arrow
+
+
+
+Merchants
+ Find useful resources to manage and scale your business
+
+Store demo
+Features
+Business Name Generator 
+Store examples
+Forum
+Blog
+Trainings
+Help center
+
+
+
+
+Developers
+ Get involved in the PrestaShop open source project 
+
+Developers blog
+Developer documentation
+GitHub
+Slack
+Contributors
+Trainings
+
+
+
+
+Partners
+ Find out more about our partner community, or join them to increase your notoriety
+
+Become a partner
+Our partners
+
+
+
+
+
+
+play_arrow
+
+
+
+About us
+Get to know PrestaShop
+
+Our mission
+Careers
+
+
+
+
+
+Meet us
+Come and connect with us
+
+
+
+
+
+event
+
+                                                                PrestaShop Events                                                            
+
+                                                                Meet and share with our community                                                             
+
+
+
+
+room
+
+                                                                Meetups                                                            
+
+                                                                Keep up with the latest news & improvements                                                            
+
+
+
+
+
+
+
+
+play_arrow
+
+
+
+Addons
+Increase your store potential
+
+
+
+
+
+
+palette
+
+                                                                Templates                                                            
+
+                                                                Customize your store look & feel                                                            
+
+
+
+
+extension
+
+                                                                Modules                                                            
+
+                                                                Add relevant e-commerce features to your store                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+
+
+
+                EN                
+
+English
+Français
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+                                            Solutions                                        
+
+
+
+
+
+                                                                                                PrestaShop Download                                                
+
+
+
+                                                    PrestaShop Experts                                                
+
+
+
+
+
+
+
+                                            Services                                        
+
+
+PrestaShop EssentialsNewThe modules for your growth
+
+PrestaShop PlatformA hosting and fully managed solution
+
+PrestaShop Starter PackDiscover our offer to help you get started
+
+PrestaShop Professional ServicesBoost the growth of your ecommerce
+
+
+
+
+
+
+
+                                            Marketplace                                        
+
+
+
+
+
+                                                    Modules                                                
+
+
+
+                                                    Templates                                                
+
+
+
+
+
+
+
+
+Demo
+Features
+Business Name Generator
+Forum
+Store examples
+Guides and documentation
+Help center
+Blog
+PrestaShop events
+Our partners
+Become a partner
+Careers
+About PrestaShop 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PERSONAL DATA PROTECTION POLICY OF PRESTASHOP ACCOUNT AND PRESTASHOP SERVICES
+Including Cookie policy
+May 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+It is normal to place special emphasis on how your data is obtained, used and shared.
+ 
+That is why this personal data protection policy (the “Policy”) has been created to help you understand the practices and conditions in which PrestaShop S.A. (a public limited company entered on the Paris company and trade register under no. 497 916 635, having its offices at 4, rue Jules Lefebvre, 75009, Paris collect and process your personal data (the “Data”) in connection with the creation of your PrestaShop Account and the subscription to additional services (defined below).
+ 
+Due to the constant evolution of technology and data protection laws and regulations, the Policy may be updated regularly. If you are a User of the Services made available by PrestaShop Account, we invite you to consult this page regularly. In addition, you will be notified of substantial changes by email. Substantial changes are considered to be changes to the main characteristics of the processing of personal data (addition of new purposes, etc.).
+ 
+If any of the clauses in this Policy should be declared null and void or contrary to regulations, that clause will be deemed nugatory, but will not result in any other clauses in this Policy becoming null and void.
+ 
+This Policy does not apply to information collected by any third party or through websites managed by the latter, including via applications and content redirecting users to the Services.
+ 
+The objective of the Policy is to inform Users about our processing of Data, how we use, share and protect that Data, and what rights you have with respect to your Data.
+ 
+Please read the Policy carefully so that you clearly understand our practices regarding the processing of your Data, and be advised that viewing and using our Services is subject to this Policy. If you do not agree with this Policy, please do not use our Services.
+ 
+It is your responsibility to ensure that the Data provided to PrestaShop is complete and up-to-date.
+ 
+1. DEFINITIONS
+ 
+The User is hereby informed that the following terms or expressions shall, whenever they begin with a capital letter in the Policy (including its submissions and preamble), whether used in the singular or plural, masculine or feminine, have the meanings attributed to them below:
+ 
+"Controller" means the natural or legal person, public authority, department or other body which, alone or jointly with others, determines the purposes and means of the processing as defined in Article 4.7 of the RGPD.
+ 
+"Data" means any information relating to an identified or identifiable natural person within the meaning of Article 4.1 GDPR.
+ 
+"DPA and/or Data Processing Agreement" means a Data Processing Agreement framing the contractual relationship between the Controller and its Processors. 
+ 
+"GDPR" means the General Data Protection Regulation 2016/679 dated 27 April 2016.
+ 
+“Partner” refers to a business partner that worked with PrestaShop to develop the Connectors and Modules which are made available to Users who have subscribed to a PrestaShop Service.
+ 
+"PrestaShop (and/or) the Company" means the company PrestaShop S.A. - Société Anonyme registered in the Paris Trade and Companies Register under the number 497 916 635 and whose offices are located at 4, rue Jules Lefebvre 75009 Paris.
+ 
+"PrestaShop Essentials Services" means one (or all) of the Connector(s) developed and distributed by PrestaShop and one (or more) Partner(s). The User can subscribe and download it (them) from his PrestaShop Account in order to install a new service on his e-commerce website and/or access to the third party Services of the Partner(s) from his back-office.
+ 
+It is specified that each of the services defined above will be accessible through a connector (hereinafter the "Connector"). 
+ 
+"Processor(s)" means the natural or legal person, public authority, department or other body that processes personal data on behalf of the Controller as defined in Article 4.8 of the GDPR.
+ 
+“RBM Module(s)” refers to the downloadable software in the PrestaShop Account space which adds one or more features to those offered in the Solution’s out of the box version, whose use may give rise to a recurring charge.
+ 
+"SCC and/or Standard Contractual Clauses" means the standard contractual clauses adopted by the European Commission to enable transfers of personal data by data controllers to recipients located outside the Union.
+ 
+"Services" (and/or "PrestaShop Service(s)" ) means any (or all) of the additional services that the User may sign up for from his PrestaShop Account.  These Services are composed of PrestaShop Essentials Services and RBM Modules.
+ 
+“Support” refers to specific support services the User receives by subscribing to one of the Services.
+ 
+“Terms and Conditions” and “T&Cs” refer to the General Terms and Conditions of use for PrestaShop Account and PrestaShop Services.
+ 
+"Third Party Service" means the service developed by a Partner accessible via a PrestaShop Essential Connector. Access to such Third Party Service may require additional fees and be subject to its own terms and conditions of use.
+ 
+“User” refers to any physical person or legal entity acting on a professional basis, from the time they register in a PrestaShop Account. 
+ 
+2. FOR WHAT PURPOSES AND ON WHAT BASIS DO WE COLLECT YOUR DATA?
+ 
+PrestaShop may collect your Data for the following purposes:
+ 
+
+
+
+
+ 
+Purposes
+ 
+
+
+Legal basis
+
+
+
+
+ 
+Allow you to create a PrestaShop Account
+ 
+
+
+Contractual agreement ( T&Cs)
+
+
+
+
+ 
+Allow you to use our Services
+ 
+
+
+Contractual agreement ( T&Cs)
+
+
+
+
+ 
+Provide you with our Support services
+ 
+
+
+Contractual agreement ( T&Cs)
+
+
+
+
+Analysis and improvement of our services
+
+
+ 
+Legitimate interest 
+ 
+Improvement of services
+ 
+
+
+
+
+To send you commercial prospecting
+
+
+ 
+Legitimate interest 
+ 
+In accordance with the recommendations of the CNIL in terms of B2B commercial prospecting, you are likely to receive commercial communications for similar products or services. You may object to this processing at any time, from the collection form or directly in the emails received.
+ 
+
+
+
+
+ 
+Responding to requests from authorities, respecting laws and regulations
+ 
+
+
+Legal obligation 
+
+
+
+
+ 
+Respond to requests to exercise the rights mentioned in Article 6 of this Policy
+ 
+
+
+Legal obligation 
+
+
+
+
+ 
+Management of disputes
+ 
+
+
+Contractual agreement ( T&Cs)
+
+
+
+
+ 
+Management of invoices
+ 
+
+
+Contractual agreement ( T&Cs)
+
+
+
+
+ 
+3. WHO PROCESSES MY DATA?
+ 
+3.1. Processing of your Data by PrestaShop employees
+ 
+Your Data may be processed by PrestaShop employees.
+ 
+Your Data may also be sent to any buyer or successor in the event of the merger, transfer, restructuring, reorganisation, dissolution or other sale or transfer of some or all of PrestaShop’s assets due to uncertainties, bankruptcy, liquidation or other processes in which the Data of Users of PrestaShop’s various websites is listed among the transferred assets.
+ 
+3.2. Processing of your Data by our Partners whose RBM Module or Connector you are downloading
+ 
+Your Data will be provided to our Partners so (i) we can track the partnership concluded with PrestaShop (ii), we can allow you to register for the Service, and (iii) allow them to provide you with personalized commercial offers unless you object. 
+ 
+The latter are bound by contractual obligations to maintain the confidentiality of the Data and to use it solely for the purposes for which we provide them.
+ 
+
+
+
+
+ 
+Service concerned
+ 
+
+
+ 
+Partners to whom your Data may be transferred
+ 
+
+
+ 
+Details
+ 
+
+
+
+
+ 
+PrestaShop Checkout
+ 
+
+
+ 
+Paypal Inc. 
+(USA)
+ 
+
+
+ 
+This transfer is done if and only if you wish to use the Service and you finalize the registration with Paypal. This transfer is necessary in order for you to benefit from the PrestaShop Checkout Service.
+ 
+
+
+
+
+ 
+PrestaShop Paylater
+ 
+
+
+ 
+Oney (France)
+Payplug (France)
+ 
+
+
+ 
+This transfer is done if and only if you want to use the Service and you complete the registration with Payplug. This transfer is necessary in order for you to benefit from the PrestaShop Paylater Service.
+ 
+
+
+
+
+ 
+PrestaShop Metrics
+ 
+
+
+ 
+Google Inc.
+(USA)
+ 
+
+
+ 
+This transfer is made if and only if you wish to use the Service and is necessary in order for you to benefit from the PrestaShop Metrics Service.
+ 
+
+
+
+
+ 
+PrestaShop Facebook
+ 
+
+
+ 
+Facebook
+(USA)
+ 
+
+
+ 
+This transfer is made if and only if you wish to use the Service and is necessary in order for you to benefit from the PrestaShop Facebook Service.
+ 
+
+
+
+
+ 
+PrestaShop Marketing with Google
+ 
+
+
+ 
+Google Inc.
+(USA)
+ 
+
+
+This transfer is done if and only if you wish to use the Service and is necessary to allow you to benefit from the PrestaShop Marketing with Google Service.
+
+
+
+
+ 
+RBM Modules 
+ 
+
+
+ 
+Partners developing the modules
+ 
+
+
+ 
+You may be redirected to the sites of the Partner whose RBM Module you have subscribed to. These sites are managed on third party servers, by people or organizations over which PrestaShop has no control. Therefore, we cannot be held responsible for the way your Data will be stored or used on these servers. We recommend that you review the applicable data protection policies of the Partners to understand your rights and obligations and how your Data will be used.     
+ 
+
+
+
+
+ 
+ 
+3.3. External processing of your Data 
+ 
+For the purposes of our business, and for external processing purposes, your Data may be communicated to service providers. 
+ 
+Thus, in the context of our level 1 support service, your Data may be processed by our subcontractor Active Contact (Tunisia).
+ 
+As part of our level 2 support service, your Data may be processed by our subcontractor Sifast (Tunisia) and Invertus (Lithuania).
+ 
+These are bound by a Data Processing Agreement to respect the confidentiality of the Data and to use it only for the purposes for which we transfer it to them. In addition, transfers of Data outside the Union are subject to the signing of Standard Contractual Clauses with them.
+ 
+
+
+
+ 
+
+ 
+PrestaShop Account
+ 
+
+
+PrestaShop Checkout
+
+
+PrestaShop Metrics
+
+
+PrestaShop Facebook
+
+
+PrestaShop Marketing with Google
+
+
+PrestaShop Paylater
+
+
+RBM Modules 
+
+
+
+
+ 
+Google (USA)
+ 
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+ 
+
+
+
+ 
+HubSpot (USA)
+ 
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+
+
+ 
+Zendesk Inc. (USA)
+ 
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+
+
+ 
+Jira (Australia)
+ 
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+
+
+ 
+Mixpanel Inc. (USA)
+ 
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+
+
+ 
+Functional Software, Inc. dba Sentry (USA)
+ 
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+
+
+ 
+Segment.io, Inc. (USA)
+ 
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+✔
+
+
+
+
+ 
+Chargebee Inc. (USA)
+ 
+
+ 
+ 
+
+✔
+
+ 
+ 
+ 
+
+✔
+
+
+
+
+ 
+ 
+3.4. Transfer of your Data to the authorities to comply with our legal obligations
+ 
+Lastly, we may also disclose your Data :
+ 
+
+To comply with legal mandates, laws and legal procedures, including governmental and regulatory requests.
+If we deem that disclosure is required or appropriate within the scope of protecting the rights, ownership or security of PrestaShop, our clients and other stakeholders. This disclosure includes exchanging information with other companies and organisations for the purpose of protecting against fraud and counterfeiting.
+
+ 
+3.5. Links to third party sites
+ 
+The Site may contain links to various social networking platforms maintained on third party servers, by persons or organizations over which PrestaShop has no control.
+ 
+Therefore, we cannot be held responsible for the way your Data will be stored or used on the servers of these third parties.
+ 
+We recommend that you review the applicable data protection policy of each third party website you access through our Site to understand how your Data will be used.
+ 
+4. HOW LONG IS MY DATA STORED FOR ?
+ 
+PrestaShop only stores your Data for as long as necessary. This retention period is not the same depending on the Data in question, the nature and purpose of the collection being likely to vary this period. Similarly, certain legal obligations impose a specific retention period.
+ 
+The User's IP address collected after registration to the PrestaShop Account service is kept for thirty (30) days and then deleted.
+ 
+The Data collected through cookies and other tracers are kept for a period of thirteen (13) months from their collection.
+ 
+Finally, we retain some of your Data for a longer period if necessary for legitimate business purposes or if required by law (whether for security purposes, financial records, or fraud and abuse prevention).
+ 
+When you delete or request the deletion of your Data, we will ensure that it is effectively deleted or retained in anonymised form.
+ 
+ 
+5. HOW IS MY DATA PROTECTED?
+ 
+Your Data is stored on secure servers protected by firewalls and antivirus software.
+ 
+We have implemented technical and organisational measures intended to protect the security and confidentiality of your Data against any accidental loss and any unauthorised access, use, modification or disclosure.
+ 
+Given the inherent characteristics of the internet, we cannot guarantee the optimal security of information exchanged over this network.
+ 
+We strive to protect your Data , but cannot guarantee the absolute security of information sent to the Services. You agree that you provide your Data at your own risk. 
+ 
+We cannot be held liable for any failure to comply with privacy settings and security measures implemented on our Services.                                                                                        
+ 
+As such, you agree that the security of your information is equally your responsibility. For instance, you are responsible for keeping your Merchant Website back-office password confidential.
+ 
+Never provide it to any third parties. Similarly, be careful when you share information in the public sections of the Website as they can be viewed by all Website users.
+ 
+6. WHAT ARE MY RIGHTS?
+ 
+You can choose how the Data you provide is used :
+ 
+
+You can decide not to provide your email address in the PrestaShop Account form. However, please be aware that you cannot use PrestaShop Account and Services in this case.
+You can decide to no longer receive personalised offers from our Partners. In this case, you will be able to oppose their solicitation by all means made available by them.
+You can decide to no longer receive personalised offers from PrestaShop. You can unsubscribe through a link provided in the email.
+
+ 
+In accordance with the provisions of the applicable regulations regarding the GDPR you have the right to access and correct your Data. You also have the right to stipulate directives relating to the fate of your Data in the event of your death.
+ 
+Furthermore, subject to the conditions of the aforementioned regulation for exercising your rights, you have :
+ 
+
+ The right to erasure of your Data.
+The right to limit processing of your Data.
+The right to object to the processing of your Data on legitimate grounds, in accordance with article 21 of the GDPR.
+ The right to portability for the Data you have provided.
+The right to withdraw consent, when it has been asked.
+
+ 
+However, in accordance with Article 12.6 of the GDPR, when you exercise these rights, PrestaShop, as the controller, reserves the right to require proof of your identity. Please be aware that the data required to prove your identity will be deleted once we have responded to your request. 
+ 
+You can exercise your rights by sending an email in French, English or Spanish to privacy@prestashop.com or writing to:
+ 
+PrestaShop S.A – Service Réclamation
+Données Personnelles
+4, rue Jules Lefebvre, 75009 Paris, France.
+ 
+We are required to reply within one (1) month to all requests regarding the exercising of these rights. This timeframe may be extended to two (2) months for complex requests and large request volumes.
+ 
+Lastly, you also have the right to lodge a complaint with CNIL (the French National Commission for Information Technology and Civil Liberties), namely via its website at www.cnil.fr.
+ 
+7. DOES PRESTASHOP TRANSFER MY DATA OUTSIDE THE EUROPEAN UNION? 
+ 
+In accordance with Article 3 above, Data may be transmitted to our partners and/or Processors located outside the European Union. In this case, PrestaShop makes every effort to ensure the security of the Data which transits outside the Union. 
+ 
+
+
+
+
+ 
+Transfers concerned 
+ 
+
+
+ 
+Control of the transfers
+ 
+
+
+
+
+ 
+Our Partners whose Connector you download
+ 
+
+
+ 
+Acceptance by the User of the general conditions of the Partners
+ 
+
+
+
+
+ 
+Signing of the Standard Contractual Clauses between PrestaShop and our Partners
+ 
+
+
+
+
+ 
+Our Processors
+ 
+
+
+ 
+Signing of the Standard Contractual Clauses between PrestaShop and our Processors established outside the Union
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+COOKIE POLICY PRESTASHOP ACCOUNT AND PRESTASHOP SERVICES
+ 
+ 
+When you visit or use the Websites, PrestaShop and our partner service providers may use cookies and any other tracing/tracking/automatic Data collection technologies to store information that can be used to offer you an improved, faster, more secure experience.
+The purpose of this Cookie policy is to help you better understand these technologies and how we use them.
+ 
+1. WHAT IS A COOKIE?
+ 
+Cookies are small text files (normally comprising letters and numbers) stored in the memory of your browser or device when you visit a Website or view a message. 
+ 
+They enable a Website to recognise the browser or device. Like most Websites, PrestaShop mostly uses technologies through little Data files stored on your device which enable us to save certain information when you visit or use our Website.
+ 
+There are several types of cookies: 
+
+Session cookies: these expire when you close your browser and enable us to link your actions during this specific session.
+Persistent cookies: these are stored on your device between browser sessions and enable us to remember your preferences and actions on several websites.
+Proprietary cookies: these are issued by the website you are visiting.
+Third-party cookies: these are issued by a third party website separate from the website you are visiting.
+
+ 
+2. WHAT TYPES OF COOKIES DOES PRESTASHOP USE?
+ 
+Our cookies have various purposes. They may: 
+
+Be required for our services to operate; 
+Help us improve our performance;
+Offer you extra features; 
+Help us offer you relevant, targeted advertising.
+
+
+We use cookies and other similar tracking technology stored on your device only while your browser is open (session cookies), and cookies and other similar technology stored on your device for a longer period (persistent cookies).
+For more information on the cookies used, please consult the following pages :
+- Privacy Policy of Google services ;
+- Privacy Policy of Hotjar ;
+ 
+
+
+
+
+ 
+Cookie set by 
+ 
+
+
+Cookie name
+
+
+Category
+
+
+Purpose of the cookie
+
+
+Lifetime of the cookie
+
+
+
+
+Hotjar
+
+
+_hjSessionUser
+
+
+Analytical
+
+
+This cookie keeps the Hotjar user ID, unique to this site, on the browser. This ensures that behavior on subsequent visits to the same site is attributed to the same user ID.
+
+
+1 year 
+
+
+
+
+_hjSession
+
+
+Analytical
+
+
+This cookie contains the Data of the current session. This means that subsequent requests in the session window will be attributed to the same Hotjar session.
+
+
+30 minutes 
+
+
+
+
+Google Analytics
+
+
+_ga
+
+
+Analytical
+
+
+This cookie is used to display our advertisements on the Google network.
+
+
+13 months
+
+
+
+
+_gat_UA
+
+
+Analytical
+
+
+This cookie assigns an identifier to each visitor to distinguish them.
+
+
+Session Cookie
+
+
+
+
+_gid
+
+
+Analytical
+
+
+This cookie is used to display our advertisements on the Google network.
+
+
+24 hours
+
+
+
+
+ 
+3. HOW DO I MANAGE COOKIE STORAGE AND CONSULTATION?
+ 
+Certain Website features, services, applications and tools are provided to you solely through these cookies and tracers.
+You can block, delete and deactivate these technologies if your browser or device allows.
+ 
+However, doing so may result in certain Website features, services, applications and tools becoming unavailable. It may also result in you being asked to enter your password more often during your browsing session if the Website requires a user account to be created.
+For more information on blocking, deleting and deactivating these technologies, refer to your browser or device settings.
+ 
+Cookies and tracers may be deactivated and deleted using tools available on most browsers. As each browser offers different features and options, you will need to configure your preferences for each separate browser you use.
+Below is a guide to managing and blocking cookies and tracers:
+ 
+1/ If you use Internet Explorer™
+
+In Internet Explorer, click on Tools, then Internet Options. Click on the Privacy tab and Advanced to display the Advanced Privacy Settings window.
+Next, select Ignore Automatic Cookie Management and also select Block in the Third Party Cookies column.
+
+ 
+2/ If you use Firefox™
+
+Go to the browser’s Tools tab and select the Options menu.
+In the window that appears, select the Privacy tab and configure the Storage Rules menu by selecting Use Custom Settings for History.
+In the menu, you can choose to deselect Accept Cookies or select Never in the drop-down menu named Accept Third-Party Cookies.
+You can also click on Display Cookies to view files that contain the name PrestaShop, select them and delete them.
+
+ 
+3/ If you use Safari™
+
+In your browser, select the Safari menu, then Preferences.
+Click on Privacy.
+Click on Display Cookies.
+Select the cookies containing the name PrestaShop and click on Delete or Delete All.
+After deleting the cookies, click on Finished.
+
+ 
+4/ If you use Google Chrome™
+
+Click on the Settings menu then click on Display Advanced Settings (bottom of the page).
+Next, click on Content Settings and select Block Third Party Data and Cookies, then click OK to confirm your selection.
+You can also click on Display All Website Data and Cookies, then search for PrestaShop in the search bar at top right. You can then select the cookies you want to delete or click on Delete All.
+
+5/ If you use Opera™
+Open the Tools or Settings menu and select Delete Private Data. Click on the Detailed Options tab, then select the options you want or follow this link: http://help.opera.com/windows/10.20/fr/cookies.html
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Get StartedGet StartedToggle Footer menu : Get Startedexpand_moreGet startedCreate online storeDropshippingEcommerce platformPrestaShop 1.7.8All versionsSystem requirementsResourcesResourcesToggle Footer menu : Resourcesexpand_moreVideos TutorialsTranslationsMagento to PrestaShop migrationEcommerce calendarDeveloper versionsHelpHelpToggle Footer menu : Helpexpand_moreSupportFAQE-learningContactSitemapAccount privacyPartnersPartnersToggle Footer menu : Partnersexpand_moreFind an agencyBecome Agency PartnerFind a Hosting ProviderGet ecommerce funding Technology PartnersBecome Technology PartnerDeveloper PartnersBecome Developer PartnerAmbassadors ProgramPrestaShop EssentialsPrestaShop EssentialsToggle Footer menu : PrestaShop Essentialsexpand_morePrestaShop FacebookPrestaShop MetricsPrestaShop CheckoutPrestaShop MarketingPrestashop Paylater 
+
+
+
+Newsletter
+
+          Subscribe today to get the latest ecommerce trends and tips.      
+
+
+LanguageBy submitting this form, I agree to the data entered being used by PrestaShop S.A for sending newsletters and promotional offers. You can unsubscribe at any time by using the link in the emails sent to you. Learn more about managing your data and rights.
+
+
+
+ 
+
+
+    © Copyright 2007-2022 PrestaShop. All rights reserved.  
+
+Legal NoticeTerms of UsePersonal Data Protection Policy 
+
+
+
+
+
+
+
+
+
+
+arrow_upward
+Get back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+Axeptio consent

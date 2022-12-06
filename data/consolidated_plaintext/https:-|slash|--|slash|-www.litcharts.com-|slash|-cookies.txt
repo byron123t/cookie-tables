@@ -1,0 +1,620 @@
+
+
+LitCharts | Cookie Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upgrade to LitCharts A+
+
+
+
+
+
+
+
+
+Instant downloads of all 1658 LitChart PDFs.
+
+
+
+
+
+
+
+
+
+
+
+
+LitCharts Teacher Editions. Teach your students to analyze literature like LitCharts does.
+
+
+
+
+
+
+
+
+
+
+
+Detailed explanations, analysis, and citation info for every important quote on LitCharts.
+
+
+
+
+
+
+
+
+
+
+
+The original text plus a side-by-side modern translation of every Shakespeare play.
+
+
+
+
+
+Sign Up
+
+
+Already have an account?
+Sign in
+
+
+
+
+
+
+
+
+
+
+From the creators of SparkNotes, something better.
+
+
+Literature
+
+Guides
+Poetry
+
+Guides
+Literary
+
+Terms
+Shakespeare
+
+Translations
+Citation
+
+Generator
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign InSign up for A+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Literature
+Poetry
+Lit Terms
+Shakescleare
+
+
+
+
+
+
+
+
+Cookie Policy
+Effective date: November 1, 2022
+
+    We are LitCharts, a Course Hero Company. This Cookie Policy describes the types of cookies and other tracking technologies we use, our purposes and basis for using them, and your choices regarding them. If you
+    have questions about this Cookie Policy, please see the
+    
+      Contact Us
+    
+    section of our Privacy Policy.
+  
+For purposes of this Cookie Policy: 
+
+
+“Course Hero Companies”,
+      “we” and “us” means Course
+      Hero, Inc. and its subsidiaries, including LitCharts (for a full list of
+      subsidiaries, please see our
+      Privacy Policy).
+    
+
+“Services” means the services offered by us,
+      as that term is defined in our Terms of Use.
+    
+
+“First party cookies” is defined as cookies
+      served directly by us to your computer or device.
+    
+
+“Third-party cookies” is defined as cookies
+      served by a third party on our behalf.
+    
+
+      Cookies can be “persistent” or
+      “session” based. Persistent cookies remain on
+      your device after your browser is closed. Session cookies are
+      deleted automatically once your browser is closed.
+    
+
+Table of Contents
+
+
+
+        Background
+      
+
+
+
+        Types of Cookies
+      
+
+
+
+        Information About Interest-Based Advertisements
+      
+
+
+
+        How to Manage Cookies
+      
+
+
+
+            Browser Settings
+          
+
+
+
+            Opting Out of Certain Analytics and Interest-Based
+            Advertising
+          
+
+
+
+            EEA, UK and Canada Residents
+          
+
+
+
+
+
+        Do Not Track Signals
+      
+
+
+
+        Changes to this Cookie Policy
+      
+
+
+
+        List of Cookies, Purpose, and Storage Periods
+      
+
+
+Background
+
+    Course Hero Companies and our third-party providers, including
+    those who provide website statistics on the use of our Services
+    and those who provide interest-based advertising services, use
+    cookies and similar technologies such as pixel tags, web
+    beacons, clear GIFs and JavaScript (collectively,
+    “Cookies”) for a variety of purposes. For
+    example, we use Cookies to enable our servers to recognize your
+    web browser, tell us how and when you visit and use our Services
+    or open an email from us, analyze trends, learn about our user
+    base and operate and improve our Services. Cookies are small
+    pieces of data – usually text files – placed on your computer,
+    tablet, phone or similar device when you use that device to
+    access our Services. We may also supplement the information we
+    collect from you with information received from third parties,
+    including third parties that have placed their own Cookies on
+    your device(s).
+  
+Types of Cookies
+
+    Our Services use the following Cookies:
+  
+
+
+
+Essential Cookies.
+      
+      Essential Cookies are required for providing you with features
+      or services that you have requested. For example, certain
+      Cookies enable you to log into secure areas of our Services.
+    
+
+
+Functional Cookies.
+      
+      Functional Cookies are used to record your choices and
+      settings regarding our Services, maintain your preferences
+      over time and recognize you when you return to our
+      Services. These Cookies help us to personalize our content
+      for you, greet you by name and remember your preferences
+      (for example, your choice of language or region).
+    
+
+
+Analytics Cookies.
+      
+      Analytics Cookies allow us to understand how visitors use
+      our Services. They do this by collecting information about
+      the number of visitors to the Services, what pages
+      visitors view on our Services and how long visitors are
+      viewing pages on the Services. Analytics Cookies also help
+      us measure the performance of our advertising campaigns in
+      order to help us improve our campaigns and the Services’
+      content for those who engage with our advertising.
+    
+
+
+Advertising Cookies.
+      
+      Advertising Cookies collect data about your online
+      activity and identify your interests so that we can
+      provide advertising that we believe is relevant to you.
+      Advertising Cookies may include retargeting Cookies. For
+      more information about targeted advertising, please see
+      the
+      
+Information About Interest-based Advertisements
+
+      section below.
+    
+
+
+    Information About Interest-Based Advertisements
+  
+
+    Course Hero Companies may serve advertisements, and also allow
+    third-party ad networks, including third-party ad servers, ad
+    agencies, ad technology vendors and research firms, to serve
+    third party advertisements through the Services and/or
+    proprietary advertisements on unaffiliated properties. These
+    advertisements may be targeted to users who fit certain general
+    profile categories or display certain preferences or behaviors
+    (“Interest-Based Ads”). Information for Interest-Based Ads
+    (including personal information) may be provided to us by you,
+    or derived from the usage patterns of particular users on the
+    Services and/or services of third parties. Such information may
+    be gathered through tracking users’ activities across time and
+    unaffiliated properties, including when you leave the Services.
+    To accomplish this, we or our service providers may deliver
+    Cookies, including a file (known as a “web beacon”) from an ad
+    network to you through the Services. Web beacons allow ad
+    networks to provide anonymized, aggregated auditing, research
+    and reporting for us and for advertisers. Web beacons also
+    enable ad networks to serve targeted advertisements to you when
+    you visit other websites. Web beacons allow ad networks to view,
+    edit or set their own Cookies on your browser, just as if you
+    had requested a web page from their site.
+  
+How to Manage Cookies
+
+    Browser Settings
+  
+
+    You can decide whether or not to accept Cookies through your
+    internet browser’s settings. Most browsers have an option for
+    turning off the Cookie feature, which will prevent your browser
+    from accepting new Cookies, as well as (depending on the
+    sophistication of your browser software) allow you to decide on
+    acceptance of each new Cookie in a variety of ways. You can also
+    delete all Cookies that are already on your device. If you do
+    this, however, you may have to manually adjust some preferences
+    every time you visit our website and some of the Services and
+    functionalities may not work.
+  
+
+    To explore what Cookie settings are available to you, look in
+    the “preferences” or “options” section of your browser’s menu.
+    To find out more information about Cookies, including
+    information about how to manage and delete Cookies, please visit
+    
+      http://www.allaboutcookies.org/
+    
+    or
+    
+      https://ico.org.uk/for-the-public/online/cookies/
+    
+    if you are located in the UK.
+  
+
+    Opting Out of Certain Analytics and Interest-Based Advertising
+  
+
+    Some Course Hero Companies use Google Analytics. Google Inc.
+    (“Google") uses Cookies in connection with its Google Analytics
+    services. To confirm if we use Google Analytics on our Services,
+    please see the
+    
+List of Cookies, Purpose, and Storage Periods
+
+    section. For information about how Google Analytics collects and
+    processes data, please see "How Google uses data when you use
+    our partners' sites or apps", located at
+    
+      www.google.com/policies/privacy/partners/
+    . To opt-out of Google Analytics, visit Google’s
+    
+      “How you can control the information collected by Google on
+      these sites and apps”
+    
+    article available at
+    
+      https://policies.google.com/technologies/partner-sites
+    or the Google Analytics Opt-out Browser Add-on at
+    https://tools.google.com/dlpage/gaoptout.
+  
+
+    Similarly, some Course Hero Companies use
+    
+      Google AdSense
+    
+    to serve contextual, placement or interest-based advertisements
+    to you. To confirm if we use Google Analytics on our Services,
+    please see the
+    
+List of Cookies, Purpose, and Storage Periods
+
+    section. Google’s use of advertising Cookies in connection with
+    Google AdSense enables it to serve ads to our users based on
+    their visit to our site and/or other sites on the Internet.
+    Users may opt out of personalized advertising by visiting
+    Ads Settings.
+    Alternatively, you can opt out of Google’s use of Cookies for
+    personalized advertising by visiting 
+      www.aboutads.info.
+  
+
+    Lastly, Course Hero Companies may work with third-party
+    advertising partners to show you ads that we think may interest
+    you. To confirm if we use advertising Cookies on our Services,
+    please see the
+    
+List of Cookies, Purpose, and Storage Periods
+
+    section. Some of our advertising partners may be members of the
+    Network Advertising Initiative (http://optout.networkadvertising.org/?c=1#!/) or the Digital Advertising Alliance (http://optout.aboutads.info/?c=2&lang=EN) or the Digital Advertising Alliance of Canada’s Consumer Choice page at www.youradchoices.ca/choices. If you do not wish to receive personalized ads, please visit
+    their opt-out pages to learn about how you may opt out of
+    receiving web-based personalized ads from member companies. You
+    can access any settings offered by your mobile operating system
+    to limit ad tracking, or you can install the AppChoices mobile
+    app to learn more about how you may opt out of personalized ads
+    in mobile apps.
+  
+
+    Please note that even if you opt-out of interest-based
+    advertising by a third party, these tracking technologies may
+    still collect data for other purposes including analytics and
+    you will still see ads from us, but the ads will not be targeted
+    based on behavioral information about you and may therefore be
+    less relevant to you and your interests.
+  
+
+    To successfully opt out, you must have Cookies enabled in your
+    web browser (see your browser’s instructions for information on
+    Cookies and how to enable them). Your opt-out only applies to
+    the web browser you use so you must opt-out of each web browser
+    on each computer you use. Once you opt out, if you delete your
+    browser’s saved Cookies, you will need to opt-out again.
+  
+
+    EEA, UK and Canada Residents
+  
+
+    If you do not wish to accept non-Essential Cookies in connection with your use of the Services or wish to withdraw your consent, you can opt out by clicking on
+    Cookie Preferences.
+  
+Do Not Track Signals
+
+    Your browser may offer you a “Do Not Track” option, which allows
+    you to signal to operators of websites and web applications and
+    services that you do not wish such operators to track certain of
+    your online activities over time and across different websites.
+    Because of our use of Cookies, our Services do not support Do
+    Not Track requests at this time. To find out more about “Do Not
+    Track,” you can visit
+    www.allaboutdnt.com.
+  
+
+    Changes to this Cookie Policy
+  
+
+    We may change this Cookie Policy from time to time by posting
+    the updated version of the policy on the Services. Any changes
+    will take effect on the “Effective” date posted at the top of
+    this Cookie Policy. We encourage you to visit frequently to stay
+    informed about how we use Cookies.
+  
+
+    List of Cookies, Purpose, and Storage Periods
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+About Us
+Our Story
+Jobs
+
+
+Support
+Help Center
+Contact Us
+Citation Generator
+
+
+Connect
+Blog
+Facebook
+Twitter
+
+
+Legal
+Terms of Service
+Privacy Policy
+GDPR
+
+
+
+
+
+
+
+
+Home
+About
+Blog
+Contact
+Help
+
+
+
+
+Copyright © 2022 All Rights Reserved
+
+
+Terms
+Privacy
+GDPR
+
+
+Help us help you! Are you a...StudentTeacher or EducatorParentGeneral-Interest Reader
+
+
+
+
+
+
+
+
+
+
+
+

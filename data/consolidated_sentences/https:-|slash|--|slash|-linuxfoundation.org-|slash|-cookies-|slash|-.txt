@@ -1,0 +1,271 @@
+Cookies Policies | Linux Foundation
+Opens in a new window Opens an external website Opens an external website in a new window     Close this dialog       This website stores data such as cookies to enable essential site functionality, as well as marketing, personalization, and analytics
+By remaining on this website you indicate your consent
+Cookie Policy                      Close Cookie Preferences
+Join us at ONE Summit, the top open source networking event
+Register today.
+English
+Japan
+China
+Europe
+Sign In
+Search
+Join
+ABOUT
+About the LF
+Corporate Members
+Leadership
+Diversity & Inclusivity
+Careers
+Brand Guidelines
+Contact Us
+PROJECTS
+View All Projects
+Host Your Project
+RESOURCES
+Blog
+Publications
+Open Source Guides
+Webinars
+Case Studies
+NEWSROOM
+Press Releases
+LF RESEARCH
+Latest Research
+Leadership & Advisory Board
+LF TRAINING
+Training Home
+Course Catalog
+Training Resources
+EVENTS
+Upcoming Events
+Sponsor
+Submit a Talk
+Code of conduct
+LFX PLATFORM
+LFX Home
+LFX Tools
+LFX Community Forum
+Create an LFX Account
+Join
+Follow Us
+My Account
+Log In
+English |
+Japan |
+China |
+Europe
+Policies
+Cookies
+Last updated: April 15, 2020The websites of The Linux Foundation and its open source projects (collectively, the “Sites”) use cookies, in combination with pixels, local storage objects, and similar devices (collectively, “cookies” unless otherwise noted) to distinguish you from other users of the Sites
+This helps us provide you with a good experience, improve our service, and personalize ads and content that may be delivered to you while you use the Sites.
+This cookie policy (“Cookie Policy”) describes the types of the cookies we use on the Sites and our purposes for using them.
+If you have questions about this Cookie Policy, please contact us at privacy@linuxfoundation.org
+For a more complete description and a list of third party cookies that we currently use on the Sites, please see below
+For more information about our privacy practices, please review our Privacy Policy
+We may update this Cookie Policy from time to time, so please check back periodically.
+Please read this Cookie Policy carefully for details about why we use cookies and the information they collect from and about you.
+Reject Cookies at Any Time
+If you do not wish to accept cookies in connection with your use of the Sites, you will need to delete, and block or disable cookies via your browser settings
+see below for more information on how to do this
+Please note that disabling cookies will affect the functionality of the Sites, and may prevent you from being able to access certain features on the Sites.
+What Is a Cookie?
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer
+Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit the Sites.
+Key Concepts
+First and third-party cookies: whether a cookie is ‘first’ or ‘third’ party refers to the domain placing the cookie.
+First-party cookies are those set by a website that is being visited by the user at the time (e.g., cookies placed by linuxfoundation.org).
+Third-party cookies are cookies that are set by a domain other than that of the website being visited by the user
+If a user visits a website and another entity sets a cookie through that website, this would be a third-party cookie.
+Persistent cookies: these cookies remain on a user’s device for the period of time specified in the cookie
+They are activated each time that the user visits the website that created that particular cookie.
+Session cookies: these cookies allow website operators to link the actions of a user during a browser session
+A browser session starts when a user opens the browser window and finishes when they close the browser window
+Session cookies are created temporarily
+Once you close the browser, all session cookies are deleted.
+How to Delete and Block our Cookies
+Most web browsers allow some control of most cookies through the browser settings
+However, if you use your browser settings to block all cookies (including essential cookies), you may not be able to access all or parts of the Sites and some Site features will not function properly
+Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit the Sites.
+Changing your Cookie Settings
+The browser  settings for changing your cookies settings are usually found in the ‘options’ or ‘preferences’ menu of your internet browser
+In order to understand these settings, the following links may be helpful
+Otherwise you should use the ‘Help’ option in your internet browser for more details.
+Cookie settings in Firefox
+Cookie settings in Chrome
+Cookie settings in Safari
+Cookie settings in Microsoft Edge
+Cookie settings in Internet Explorer
+More information
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit https://www.aboutcookies.org/ or http://www.allaboutcookies.org/.
+What Cookies Do We Use and Why?
+Generally the Sites use cookies to distinguish you from other users of the Sites
+This helps us to provide you with a good experience when you browse the Sites and also allows us to improve them.
+The cookies we may use on the Sites may be categorized as follows:
+Strictly necessary
+Performance
+Functionality
+Targeting
+Some cookies may fulfill more than one of these purposes.
+‘Strictly Necessary’ cookies let you move around the Sites and use essential features like secure areas
+Without these cookies, we cannot provide the requested services.
+We use these Strictly Necessary cookies to:
+Identify you as being logged in to the Sites and to authenticate you
+Make sure you connect to the right service on our Sites when we make any changes to the way it works
+For security purposes
+Accepting these cookies is a condition of using certain functionality of the Sites, so if you prevent these cookies we can’t guarantee how the Sites or the security on the Sites will perform during your visit.
+‘Performance’ cookies collect information about how you use the Sites, e.g
+which pages you visit, and if you experience any errors
+These cookies do not collect any information that could identify you and are only used to help us improve how the Sites work, understand what interests our users and measure the effectiveness of our advertising.
+We use performance cookies to:
+Carry out web analytics: Provide statistics on how the Sites are used
+Perform partner and affiliate program tracking: Provide feedback to partners and affiliate program third parties that one of our visitors also visited their site
+Obtain data on the number of users of the Sites that have viewed a part of the Sites
+Help us improve the Sites by measuring any errors that occur
+Test different designs for the Sites
+Some of our performance cookies are managed for us by third parties.
+‘Functionality’ cookies are used to provide services or to remember settings to improve your visit.
+We use ‘Functionality’ cookies for such purposes as:
+Remember settings you’ve applied such as layout, text size, preferences and colors
+Remember if we’ve already asked you if you want to fill in a survey
+Remember if you have engaged with a particular component or list on the Sites so that it won’t repeat
+Show you when you’re logged in to the Sites
+To provide and show embedded video content
+Some of our functionality cookies are managed for us by third parties.
+‘Targeting’ cookies are used to track your visit to the Sites, as well other websites, apps and online services, including the pages you have visited and the links you have followed, which allows us to display targeted ads to you on the Sites.
+We may use targeting cookies to:
+Display targeted ads within the Sites, including those displaying our training, certification and event opportunities.
+Limit how many times you see an ad.
+Improve how we deliver personalized ads and content, and to measure the success of ad campaigns on the Sites.
+Additional Information About Third Party Analytics in use on the Sites
+Facebook
+For more information about what Facebook collects when you use Facebook buttons on the Sites or visit pages on the Sites that include these buttons, please see: https://www.facebook.com/about/privacy/.
+Twitter
+For more information about what Twitter collects when you use Twitter buttons on the Sites or visit pages on the Sites that include these buttons, please see: https://twitter.com/en/privacy.
+LinkedIn
+For more information about what LinkedIn collects when you use LinkedIn buttons on the Sites or visit pages on the Sites that include these buttons, please see: https://www.linkedin.com/legal/privacy-policy.
+YouTube
+For more information about what YouTube collects when you use YouTube buttons on the Sites or visit pages on the Sites that include these buttons, please see: https://www.youtube.com/static?template=privacy_guidelines.
+Google+
+For more information about what Google collects when you use Google+ buttons on the Sites or visit pages on the Sites that include these buttons, please see: https://policies.google.com/privacy.
+Pardot
+For more information about what Salesforce collects when you visit certain of the Sites, please see: https://help.salesforce.com/articleView?id=pardot_basics_cookies.htm.
+New Relic
+For more information about what New Relic collects to assist with performance monitoring for certain of the Sites, please see: https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/new-relic-cookies-used-browser.
+Feathr
+For more information about what Feathr collects when you visit certain of the Sites, please see: https://www.feathr.com/privacy-policy and https://privacy.feathr.co/.
+Google Analytics
+Google Analytics is a web analytics service provided by Google, Inc
+(“Google”)
+For more information about Google Analytics cookies, please see Google’s help pages and privacy policy:
+Google’s Privacy Policy
+Google Analytics Help pages
+Google has developed the Google Analytics opt-out browser add-on
+if you want to opt out of Google Analytics, you can download and install the add-on for your web browser here.
+Google uses cookies to help us analyze how users use the Sites
+The information generated by the cookie about your use of the Sites (including your IP address) will be transmitted to and stored by Google on servers in the United States
+In case of activation of the IP anonymization, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area
+Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA
+On behalf of the Sites, Google will use this information for the purpose of evaluating your use of the Sites, compiling reports on your activity for us and third parties who help operate and provide services related to the Sites
+Google will not associate your IP address with any other data held by Google
+You may refuse the use of these cookies by selecting the appropriate settings on your browser as discussed in this notice
+However, please note that if you do this, you may not be able to use the full functionality of the Sites
+Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available at https://tools.google.com/dlpage/gaoptout.
+Further information concerning the terms and conditions of use and data privacy can be found at https://www.google.com/analytics/terms/ or at https://policies.google.com/.
+More Information About Cookies
+Internet Advertising Bureau
+A guide to behavioral advertising and online privacy that has been produced by the internet advertising industry can be found at http://www.youronlinechoices.eu/.
+International Chamber of Commerce United Kingdom
+Information on the ICC (UK) UK cookie guide can be found on the ICC website section at http://www.international-chamber.co.uk/our-expertise/digitaleconomy.
+THIRD PARTY COOKIE LIST
+Domain
+Technical Name
+Purpose
+feathr.co
+feathr_session_id, f_id
+This information is used to enhance the users experience while visiting our Site, to measure the effectiveness of promotional placements, and tailoring the Site (including the ads and offers a user receives) to better match a user’s interests and preferences.
+Facebook.com
+fbq(‘track’, ‘InitiateCheckout’)
+and fbq(‘track’, ‘ViewContent’);
+This information is used to extend marketing reach and to tailor ad placements to those who made a specific action on our site such as starting a registration or visiting a certain page on the Site.
+go.pardot.compi.pardot.com
+www2.thelinuxfoundation.org
+pardot
+Pardot sets cookies for tracking purposes, and sets third-party cookies for redundancy
+Using first-party and third-party cookies together is standard in the marketing automation industry
+Pardot cookies do not store personally identifying information, they store only a unique identifier
+Pardot tracks visitor and prospect activities on this website and on Pardot landing pages by setting cookies
+These cookies are set in order to remember preferences (like form field values) when a visitor returns to this site.
+.pardot.comgo.pardot.com
+www2.thelinuxfoundation.org
+visitor_id6342
+.pardot.comgo.pardot.com
+www2.thelinuxfoundation.org
+visitor_id6342-hash
+.nr-data.net
+JSESSIONID
+Set by New Relic to assist with performance monitoring.
+.twitter.com
+_twitter_sessct0
+external_referer
+gt
+tfw_exp
+These cookies, provided by Twitter, are used in conjunction with social media plugins in order to allow following our Twitter accounts easily, share content via Twitter, and to display the latest tweet
+Twitter makes use of cookies to improve its own service, to personalize content and enable additional features for logged-in Twitter users, and to target Twitter ads.
+.twitter.com
+guest_id
+Used to identify you to Twitter
+If you do not have a Twitter account or never accessed the Twitter.com website directly then Twitter will assign you a unique code to track your visit to the Twitter feed.
+.twitter.com
+personalization_id
+Used by Twitter if you are logged in to Twitter to associate your device with your Twitter account
+Twitter may also use this cookie for personalization across devices whether or not you are logged in to Twitter.
+.twitter.com
+syndication_guest_id
+Used by Twitter to collect information about users’ browsing behavior for marketing purposes, including digital display and social media advertising.
+Stay Connected with the Linux Foundation
+First nameLast nameEmail*
+ABOUT THE LINUX FOUNDATION
+The Linux Foundation provides a neutral, trusted hub for developers to code, manage, and scale open technology projects.
+About the LF
+Leadership
+Careers
+Corporate Members
+Diversity & Inclusivity
+Brand Guidelines
+Contact Us
+Store
+PROJECTS
+View All Projects
+Host Your Project
+NEWSROOM
+Press Releases
+LF RESEARCH
+Latest Research
+Leadership & Advisory Board
+LFX PLATFORM
+LFX Home
+LFX Tools
+LFX Community Forum
+Create an LFX Account
+RESOURCES
+Blog
+Publications
+Open Source Guides
+Webinars
+Case Studies
+EVENTS
+Upcoming Events
+Sponsor an Event
+Submit a Talk
+Code of Conduct
+LF TRAINING
+Training Home
+Course Catalog
+Training Resources
+Copyright © 2022 The Linux Foundation®
+All rights reserved
+The Linux Foundation has registered trademarks and uses trademarks
+For a list of trademarks of The Linux Foundation, please see our Trademark Usage page
+Linux is a registered trademark of Linus Torvalds
+Terms of Use | Privacy Policy | Bylaws | Antitrust Policy | Good Standing Policy

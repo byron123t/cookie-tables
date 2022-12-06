@@ -1,0 +1,533 @@
+Cookie Notice | Merkle
+Skip to main content
+We use cookies
+You have options
+Cookies help us keep the site running smoothly and inform some of our advertising, but if you’d like to make adjustments, you can visit our Cookie Notice page for more information.
+We’d like to use cookies on your device
+Cookies help us keep the site running smoothly and inform some of our advertising, but how we use them is entirely up to you
+Accept our recommended settings or customise them to your wishes.
+OK
+Accept
+Learn More
+Settings
+×
+Or, you can reject All Cookies, and continue browsing
+Merkle ranks #2 on LinkedIn's list of top companies for marketing and advertising
+US / Global
+Our Companies
+Cardinal Path
+4Cite
+DigitalPi
+Extentia
+Pexlify
+B2B International
+Davanti
+Media Storm
+Ugam
+Happy Marketer
+Careers
+News
+Events
+Contact Us
+Submit
+Search
+Our Work
+Blog
+What We Think
+All Thought Leadership
+Customer Experience Imperatives
+Customer Engagement Report
+Performance Media Report
+Webinars
+Reports & Whitepapers
+Articles
+Podcasts
+What We Do
+Solutions & Services
+Industry Expertise
+Products & Platforms
+Strategic Partnerships
+Featured Products
+Merkury
+M1
+ARCHIE
+Data Accelerator
+Who We Are
+US / Global
+Our Companies
+Cardinal Path
+4Cite
+DigitalPi
+Extentia
+Pexlify
+B2B International
+Davanti
+Media Storm
+Ugam
+Happy Marketer
+Careers
+News
+Events
+Contact Us
+Our Work
+Blog
+All Thought Leadership
+Customer Experience Imperatives
+Customer Engagement Report
+Performance Media Report
+Webinars
+Reports & Whitepapers
+Articles
+Podcasts
+What We Think
+Solutions & Services
+Industry Expertise
+Products & Platforms
+Strategic Partnerships
+Featured Products
+Merkury
+M1
+ARCHIE
+Data Accelerator
+What We Do
+Who We Are
+Cookie Notice
+Home
+Cookie Notice
+How We Use Cookies
+A cookie is a small file which may be downloaded to and stored on your computer, phone, tablet or other device when you visit a website
+For more general information about cookies, please visit: www.aboutcookies.org.
+When you first visit our website, you will see a banner at the top of the page prompting you to either accept cookies or to learn more about how to control cookie settings
+Should you wish to decline out of any or all of the cookies we set, please refer to the Controlling Cookies Through Browser Settings section of this page.
+If you agree to our using cookies when you visit our websites, various cookies may be loaded to your computer to help us analyse web traffic, better target and tailor our advertising, deliver relevant content based on your interests and behavior, let us know when you revisit a site, assist in the correct operation of the site or store information about your preferences and interests.
+Cookies allow web applications to respond to you as an individual
+The web application can tailor its operations to your needs, likes and dislikes by being able to remember your choices and preferences
+We use traffic log cookies to identify which pages on our websites are being visited
+This helps us analyse data about web page traffic and improve our website’s reliability and to tailor it to customer needs.
+Overall, cookies help us deliver a better website experience, by enabling us to monitor which pages you find useful and which you do not and provide relevant content based on your interests
+A cookie in no way gives us access to your computer or any information about you on your computer, other than the data you choose to share with us.
+Types of Cookies
+Cookies placed on your device when you visit our site are set either by us directly or by our business partners, including Doubleclick, Facebook, Google Analytics, Google Adwords, Google Optimize 360, Acquia, LinkedIn, Salesforce Pardot, Twitter, and YouTube
+As referenced later on this page:
+First-party cookies: are set directly by our website
+Third-party cookies: are set by our partners
+Whether set by us or our business partners, our cookies fall in to a few broad categories of purpose:
+Necessary cookies: ensure the basic performance and user friendliness of the website
+examples include serving you content specific to your location and monitoring site uptime
+Marketing cookies: informs the delivery of relevant content and messaging, on our site and elsewhere on the Internet, based on your behavior on our site and information you have voluntarily provided to us through lead-capture and contact forms on our site
+examples include Salesforce Pardot (on our site) and Doubleclick (on other websites)
+Analytics cookies: allow us to evaluate and report on the way visitors are using our site, allowing us to make continuous improvements to the user’s experience
+examples include analytics and reporting services provided by Google, and others
+A detailed overview of our first- and third-party cookies and their purpose(s) follows.
+First-Party Cookies
+Adobe Analytics / Adobe Target
+Adobe Analytics is a web analytics service provided by Adobe
+Adobe Analytics sets cookies in order to allow us to evaluate and report on the use of our website
+It is widely used across the web and all data is anonymized meaning the cookies carry no personally identifiable information
+These cookies help us to understand our visitor's behavior and allow us to make improvements to better our user's experience.
+Adobe Target is a website A/B testing and personalization tool, provided by Adobe
+Adobe sets the cookies to determine a user's inclusion in a website experiment and the expiry of experiments a user has been included in
+We perform these experiments to improve the performance and usability of our website
+Purpose(s): Targeting and Tracking
+Cookie Name (Duration):at_check (End of session)
+mbox (2 years)
+s_cc (End of session)
+s_fid (1 year)
+s_sq (End of session)
+Bing Ads
+Microsoft Bing Ads allows us to target advertising in Bing search results and in display advertising on other websites.
+Purpose(s): Targeting
+Cookie Name (Duration):_uetsid (30 minutes)
+Cloudflare
+Cloudflare, with its worldwide network of proxy servers, also known as a Content Delivery Network, helps us ensure that our website loads quickly for users around the world
+This cookie is set for security purposes and helps Cloudflare identify trusted web traffic when our site is being accessed.
+Purpose(s): Necessary / functional
+Cookie Name (Duration):_cfduid (1 month)
+Google Analytics
+Google Analytics is a web analytics service provided by Google, Inc
+Google Analytics sets cookies in order to allow us to evaluate and report on the use of our website
+It is widely used across the web and all data is anonymized meaning the cookies carry no personally identifiable information
+These cookies help us to understand our visitor's behaviour and allow us to make improvements to better our user's experience
+It's a win-win relationship.
+Purpose(s): Tracking
+Cookie Name (Duration):_ga (2 years)
+_gid (1 day)
+gsScrollPos-XXXX (End of session)
+_gaexp (Typically 90 days, but variable based on experiment length)
+Merkle
+We set a few cookies at the site level to monitor the accessibility and uptime of the site and to store decisions you have made about content, including the default geographic region and cookie and popup notifications
+No personal information is stored in these cookies.
+Purpose(s): Necessary / functional and Tracking
+Cookie Name (Duration):LastMRH_Session (2 years)
+MRHSession (2 years)
+PF2 (2 years)
+global_toggle (4 months)
+Drupal.visitor.manuallySetRegion (2 years)
+security_accept (1 year)
+JSESSIONID (End of visit)
+Salesforce Pardot
+Salesforce Pardot is a marketing automation tool that is used to collect personal information voluntarily provided to us through forms on our website
+The information collected is stored securely in our Salesforce database and used to inform the nature of subsequent communications with users, including those delivered via email
+Once we have your information in Pardot, we will typically streamline components of the site experience for you, including pre-populating information or simply asking for less information in forms on return visits to the site.
+Blocking or disabling cookies from Pardot may make it impossible for you to access select pieces of content on the site that is stored behind a form.
+Purpose(s): All
+Cookie Name (Duration):visitor_idXXXXX (10 years)
+visitor_idXXXXX-hash (10 years)
+Third-Party Cookies
+In addition to the cookies listed above, the following partners may set their own cookies while you browse our site:
+4Cite
+4Cite is a company owned by Merkle that tracks United States-based users across different sites and shows targeted messaging.
+Purpose(s): Targeting and Tracking
+Cookie Name (Duration):sv_sid (3 years)
+sv_sid_src (3 years)
+Adobe Analytics / Adobe Target
+Adobe Analytics is a web analytics service provided by Adobe
+Adobe Analytics sets cookies in order to allow us to evaluate and report on the use of our website
+It is widely used across the web and all data is anonymized meaning the cookies carry no personally identifiable information
+These cookies help us to understand our visitor's behavior and allow us to make improvements to better our user's experience.
+Adobe Target is a website A/B testing and personalization tool, provided by Adobe
+Adobe sets the cookies to determine a user's inclusion in a website experiment and the expiry of experiments a user has been included in
+We perform these experiments to improve the performance and usability of our website
+Purpose(s): Targeting and Tracking
+Cookie Name (Duration):s_vi (2 years)
+Bing Ads
+Microsoft Bing Ads allows us to target advertising in Bing search results and in display advertising on other websites.
+Purpose(s): Targeting and Tracking
+Bing Privacy Policy
+Cookie Name (Duration):MUID (390 days)
+MUIDB (390 days)
+MR (1 week)
+Demandbase
+We use Disqus to allow site visitors to comment on blog posts on our site by using existing social media accounts rather than having to create an account with us
+This cookie allows us to use Disqus to authenticate visitors when they wish to make a comment.
+Purpose(s):Tracking
+Cookie Name (Duration):_biz_flagsA, _biz_nA, _biz_pendingA, _biz_uid (1 year)
+_fbp (90 days)
+_ga (2 years)
+_gcl_au (90 days)
+_hjid (1 year)
+_hjTLDTest (End of session)
+_mkto_trk (2 years)
+s_cc (End of session)
+s_fid (5 years)
+tuuid / tuuid_lu (2 years)
+Disqus
+We use Disqus to allow site visitors to comment on blog posts on our site by using existing social media accounts rather than having to create an account with us
+This cookie allows us to use Disqus to authenticate visitors when they wish to make a comment.
+Purpose(s): Necessary / functional
+Disqus Privacy Policy
+Cookie Name (Duration):disqusauth (1 year)
+vglnk.Agent.p (230 days)
+Doubleclick
+We use Google's doubleclick.net cookie for conversion tracking purposes, to track the performance of our own AdWords and display advertising campaigns
+If you visit certain pages on our website, Google (and Merkle) will be able to tell that your visit was a result of a click on one of these ads.
+Purpose(s): Targeting and Tracking
+Doubleclick Privacy Policy
+Cookie Name (Duration):IDE (730 days)
+Facebook
+We regularly advertise our products and services on Facebook
+Cookies are generally only set by Facebook if you are signed in to (or have been signed in to) a matching account and and are generally linked to the use of the Social Media 'like' buttons embedded on our site and many others throughout the web
+Facebook’s cookies help us measure conversion tracking and performance of our campaigns.
+Purpose(s): Targeting and Tracking
+The following links have more information on Facebook's interest-based advertising and how to opt out:
+Information on Facebook's interest-based advertising
+Opt out of interest-based advertising on Facebook
+Cookie Name (Duration):datr (730 days)
+fr (90 days)
+wd, xs (7 days)
+_atuvc (395 days)
+_atuvs (30 minutes)
+Google (YouTube and Maps)
+We embed videos from YouTube and maps from Google Maps on pages of our website
+Google will set cookies as part of those embeds to measure performance and optimize appearance and functionality depending on your browser, device, and Internet connection.
+Purpose(s): Necessary / functional
+YouTube Privacy Policy
+Maps Privacy Policy
+Cookie Name (Duration):1P_JAR (30 days)
+NID (183 days)
+APISID (730 days)
+HSID (730 days)
+SAPISID (730 days)
+SID (730 days)
+SSID (730 days)
+VISITOR_INFO1_LIVE (180 days)
+YSC (At end of session)
+GPS (30 minutes after end of session)
+LinkedIn
+We regularly advertise our products and services on LinkedIn
+Cookies are generally only set by LinkedIn if you are signed in to (or have been signed in to) a matching account and and are generally linked to the use of the Social Media 'like' buttons embedded on our site and many others throughout the web
+LinkedIn’s cookies help us measure conversion tracking and performance of our campaigns.
+Purpose(s): Targeting and Tracking
+LinkedIn Ads Privacy Policy
+Cookie Name (Duration):lang (End of session)
+_ga (730 days)
+bcookie (730 days)
+lidc (1 day)
+UserMatchHistory (30 days)
+Salesforce Pardot
+Salesforce Pardot is a marketing automation tool that is used to collect personal information voluntarily provided to us through forms on our website
+The information collected is stored securely in our Salesforce database and used to inform the nature of subsequent communications with users, including those delivered via email
+Once we have your information in Pardot, we will typically streamline components of the site experience for you, including pre-populating information or simply asking for less information in forms on return visits to the site.
+Blocking or disabling cookies from Pardot may make it impossible for you to access select pieces of content on the site that is stored behind a form.
+Purpose(s): All
+Salesforce Privacy Policy
+Cookie Name (Duration):pardot (End of session)
+visitor_idXXXXX (10 years)
+visitor_idXXXXX-hash (10 years)
+lpvXXXXX (30 minutes after session ends)
+Twitter
+We occasionally advertise our products and services on Twitter
+Cookies are generally only set by Twitter if you are signed in to (or have been signed in to) a matching account and and are generally linked to the use of the Social Media 'like' buttons embedded on our site and many others throughout the web
+Twitter’s cookies help us measure conversion tracking and performance of our campaigns.
+Purpose(s): Tracking and Targeting
+Twitter Privacy Policy
+Cookie Name (Duration):_ga (730 days)
+lang (End of session)
+personalization_id (730 days)
+Vimeo
+Vimeo is a video-hosting service that allows us to embed videos on pages of our website
+The cookies set allow us to report and analyze the viewing habits of users when a video is played.
+Purpose(s): Necessary / functional and Tracking
+Vimeo Privacy Policy
+Cookie Name (Duration):vuid (2 years)
+Controlling Cookies Through Browser Settings
+Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer
+However, this may prevent you from taking full advantage of the website as some cookies may be required for full and correct operation of our sites.
+The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether
+Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the website of its manufacturer.
+Whilst we would encourage you to keep our first party cookies enabled (so that we can make your on-site experience better), the following links provide guidance on how to manage cookie permissions through your browsers settings
+This includes instructions on how to delete existing cookies and block them from being set in the future:
+Firefox: Enable and disable cookies that websites use to track your preferences
+Safari: Managing Cookies
+Google Chrome: Manage cookies
+Opera: Security & Privacy in Opera
+Internet Explorer: How to manage cookies in Internet Explorer 9, How to delete cookie files in Internet Explorer
+iOS instructions: here
+Android instructions: here
+Follow Us
+LinkedIn
+Twitter
+Facebook
+RSS
+Youtube
+Flickr
+Instagram
+Contact Us
+1.443.542.4000
+marketing@merkleinc.com
+Quick Links
+Quick Links
+Our Work
+What We Think
+Blog
+What We Do
+Who We Are
+News
+Events
+Locations Around the Globe
+Locations Around the Globe
+Americas
+Columbia, MD (HQ)
+Austin, TX
+Boston
+Charlottesville, VA
+Chicago
+Denver
+Detroit
+Hagerstown, MD
+Little Rock
+Minneapolis
+Montréal
+New York City
+Philadelphia
+Pittsburgh
+Salt Lake City
+San Francisco
+Toronto
+Vancouver
+EMEA
+Aarhus
+Aberdeen, UK
+Amsterdam
+Barcelona
+Basel
+Belgrade
+Bristol
+Brno
+Brussels
+Copenhagen
+Derby
+Dubai
+Edinburgh
+Frankfurt
+Geneva
+Gijon
+Gothenburg
+Guarda
+Hamburg
+Helsinki
+Lausanne
+Leiria
+Lisbon
+London
+Madrid
+Munich
+Oslo
+Prague
+Rotterdam
+St
+Gallen, Sui.
+Stockholm
+Vienna
+Zurich
+Asia Pacific
+Auckland
+Beijing
+Bengaluru
+Canberra
+Coimbatore
+Hanoi
+Ho Chi Minh
+Hong Kong
+Jakarta
+Melbourne
+Mumbai
+Nanjing
+Pune, India
+Shanghai
+Singapore
+Sydney
+Taipei
+Tokyo
+Wellington
+Americas
+EMEA
+Asia Pacific
+Columbia, MD (HQ)
+Austin, TX
+Boston
+Charlottesville, VA
+Chicago
+Denver
+Detroit
+Hagerstown, MD
+Little Rock
+Minneapolis
+Montréal
+New York City
+Philadelphia
+Pittsburgh
+Salt Lake City
+San Francisco
+Toronto
+Vancouver
+Aarhus
+Aberdeen, UK
+Amsterdam
+Barcelona
+Basel
+Belgrade
+Bristol
+Brno
+Brussels
+Copenhagen
+Derby
+Dubai
+Edinburgh
+Frankfurt
+Geneva
+Gijon
+Gothenburg
+Guarda
+Hamburg
+Helsinki
+Lausanne
+Leiria
+Lisbon
+London
+Madrid
+Munich
+Oslo
+Prague
+Rotterdam
+St
+Gallen, Sui.
+Stockholm
+Vienna
+Zurich
+Auckland
+Beijing
+Bengaluru
+Canberra
+Coimbatore
+Hanoi
+Ho Chi Minh
+Hong Kong
+Jakarta
+Melbourne
+Mumbai
+Nanjing
+Pune, India
+Shanghai
+Singapore
+Sydney
+Taipei
+Tokyo
+Wellington
+Follow Us
+LinkedIn
+Twitter
+Facebook
+RSS
+Youtube
+Flickr
+Instagram
+Contact Us
+1.443.542.4000
+marketing@merkleinc.com
+In Our Company
+© 2022 Merkle Inc.
+Legal
+| Privacy
+| Cookie Notice
+| Email Preferences
+| Consumer Information & Transparency
+| Do Not Sell My Information
+| Responsible Disclosure
+| Sitemap
+| AdChoices
+Looking for Ralph Merkle? Click here.
+Cookie Control Close
+Icon
+Cookie Control Close
+Icon
+::SITENAME:: is now part of Merkle
+You can still find all of our innovative products, services, and ideas on the Merkle website.
+Continue to Site
+Close Icon
+Created with Sketch.
+US / Global
+Canada
+UK / EMEA
+Germany, Austria & Switzerland
+Netherlands
+Nordics
+Spain
+Español
+|
+English
+Middle East & North Africa
+APAC
+Singapore
+China
+India
+Australia
+Close Icon
+Created with Sketch.
+Thanks for stopping by
+We're glad you're here
+Based on where you appear to be visiting from, there might be an even more
+relevant part of the Merkle website for you
+Check out all of
+our location and language options now,
+or close this window to keep browsing.

@@ -1,0 +1,468 @@
+Privacy Policy | Chocolate
+Skip to content
+Chocolate
+Programmatic Video Advertising
+Premium
+Solutions
+For Advertiser
+For Publisher
+About Us
+Team
+Events
+Careers
+Press & News
+Resources
+Blog
+Insights
+GDPR
+CCPA
+login
+Sign Up
+Privacy Policy
+Vdopia Inc (DBA Chocolate) PRIVACY POLICY
+Updated and effective as of: January 7, 2019
+This Privacy Policy explains how Vdopia Inc
+and its subsidiaries, including, as of the date of this Privacy Policy, Vdopia Media and Software Solutions Pvt
+Ltd., Vdopia Media and Software Solutions Pte
+Ltd
+and Vdopia Media and Software Solutions Pty
+Ltd
+(“Chocolate”, “we”, “us”, “our”) collect, use, and share information and the options available to you
+If you have any questions, you may contact us
+See the “Contacting Us” section below
+We may change this Privacy Policy from time to time
+Please consult this Privacy Policy regularly for updates
+See “Changes to this Privacy Policy” below for more information.
+Consent: You acknowledge that you accept the practices described in this Privacy Policy by visiting and/or using our Services.
+Chocolate provides an advertising platform that enables website and mobile website and application publishers and advertising partners to market, purchase and sell digital and mobile advertising and advertising inventory.
+California Employees, Job Applicants, and other Vdopia Resources: see additional disclosures under “Privacy Notice for California Vdopia Resources” below.
+WHAT DOES THIS PRIVACY POLICY COVER?
+This Privacy Policy covers the information that we may collect or receive through all digital formats, including the Internet and mobile: (1) from users who: use our software applications, use our social media pages such as LinkedIn and Twitter, receive email messages from us, and visit www.chocolateplatform.com and other websites owned and operated by us, including our career pages and our client and user interfaces (collectively, the “Chocolate Pages”)
+and (2) through our technology and platform used by our clients and third parties (collectively with the Chocolate Pages, the “Services”).
+This Privacy Policy does not cover, and we are not responsible for, the privacy, data or other practices of any third parties (except as required by applicable law), such as our publisher clients, our advertising clients such as demand side platforms, any third party data management providers, any third party ad servers, and any service providers
+See “Third Parties” below for more information.
+Choice and Opting Out: see “Choices” below for information about your choices regarding opting out of email marketing communications, opting out of interest-based advertising from cookies and in mobile applications, opting out of cross-device targeting, and opting out of use of precise location.
+Access and Rights: see “Access and Rights regarding Personal Information” below for information about how to review, correct, update, suppress, or delete the personal information that Chocolate maintains about you.
+California Residents: see “Rights of Certain California Residents” below for additional rights provided to California residents.
+COLLECTION OF INFORMATION
+We have collected the following categories of information within the last 12 months:
+Identifiers, including name, email address, phone number, IP address, mobile device identifiers, and cookie identifiers,
+Protected classification information, such as age and gender,
+Commercial information, including purchasing or consuming tendencies,
+Internet or other similar network activity, such as browsing history, information on your interaction with our Website, browser type, referring site, date and time on the Service and when an ad was served, clicks on ads, apps and URLs visited,
+Location data, and
+Inference data, including information about a user’s interests based on activating on our Services.
+Categories of Sources
+We obtain the information above from the following categories of sources:
+Directly from you from the Chocolate Pages (for example, when you request information about our Services, you sign up to use the Services through our client log-in and user interfaces, you request access to our resources, or you apply for a job)
+This information is optional, however, if you do not provide this information, you may not be able to access the information you requested.
+From our service providers through your browser or device
+your mobile device identifier
+your use of our applications
+the use of pixel tags and other similar technologies
+your IP address
+the aggregation of information
+and cookies (see Cookies and Similar Technologiesbelow).
+From our publisher clients who may choose to pass to us information either directly or through our Services
+The information such publisher clients may share includes network type of a user’s device, year of birth, ethnicity (where permitted by law), gender, and precise geo location (where permitted by law).
+Collection of Job Applicant Data
+We may collect the following information from you in connection with your job application:
+name, address, telephone number, e-mail address, and other contact information;
+username and password;
+work authorization status;
+CV, résumé, cover letter, previous work experience and education information;
+skills;
+professional and other work-related licenses, permits and certifications held;
+information relating to references;
+background information through background checks
+and
+any other information you elect to provide to us (e.g., employment preferences, willingness to relocate, current salary, desired salary, awards or professional memberships).
+We ask that you avoid submitting the following sensitive information, except where such information is legally required: race, color, sex, gender identity, sexual orientation, nationality, national origin, ethnic origin, religion, beliefs or creed, age, disability, marital status, veteran status, genetic information, or trade union membership information.
+To the extent the personal information you provide contains details of your: racial or ethnic origin
+political opinions or beliefs
+religious beliefs
+membership in a trade union or political party
+physical or mental health or condition
+sexual orientation
+commission (or alleged commission) of an offence or related proceedings
+job evaluations or educational records, you expressly authorize Chocolate to handle such details for the purposes of your job application.
+Any information you submit through the career pages of the Chocolate Pages (including any pages hosted by a third party service provider) must be true, complete and not misleading
+Submitting inaccurate, incomplete, or misleading information may lead to a rejection of your application during the application process or disciplinary action including immediate termination of employment
+In addition, it is your responsibility to ensure that information you submit does not violate any third party’s rights.
+If you provide us with personal information of a reference or any other individual as part of your application, it is your responsibility to obtain consent from that individual prior to providing the information to us.
+We may also obtain information about you from your references or from a background check report in connection with your application, as permitted by applicable law.
+USE OF INFORMATION
+We and our third-party service providers may use your information:
+to respond to your inquiries and fulfill your requests,
+to send administrative information to you,
+to send you communications that we believe may be of interest to you, including any communications for marketing purposes related to the Services,
+for our business purposes, such as operating and managing the Service, data analysis, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services and the design and functionality of the Services, identifying usage trends, and determining the effectiveness of and reporting on our campaigns,
+for advertising purposes, such as using an identifier for ad delivery and reporting across websites, online services, and apps over time, including optimization of location of ad placement, ad performance, reach and frequency metrics, fraud prevention, ad effectiveness measurements, and logging the number and type of ads served on a particular day on a device,
+to supplement your other information with additional information we receive from third parties such as advertising segments to allow us to target ads to you that may be of interest to you,
+to provide you with personalized location-based services and content through the use of your device’s physical location (where permitted by law),
+to diagnose server problems and administer the Services via your IP Address (a number automatically assigned to the computer or device that you are using by your internet service provider),
+with respect to job applicants: to process your employment application
+to assess your capabilities and qualifications for a job
+to conduct reference checks
+to respond to your inquiries and communicate with you about your application, and to send you information regarding the career pages and changes to our terms and policies
+to comply with or monitor compliance with any applicable law or regulation
+and to conduct background checks if we offer you a position, as permitted by applicable law, and
+as we believe to be necessary or appropriate: (a) under applicable law
+(b) to comply with legal process and our legal obligations
+(c) to respond to requests or requirements from public, law and government authorities (including national security and law enforcement requirements) and private parties
+(d) to enforce our terms and conditions
+(e) to protect our operations
+(f) to protect our rights, privacy, safety or property, and/or that of you or others
+(g) to allow us to pursue available remedies or limit the damages that we may sustain
+and (h) to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
+We may partner with certain third parties to collect other information to engage in analysis, research, and reporting, as well as to deliver advertising that we believe may interest you based on your activity on our website and other websites over time
+These third parties may set and access cookies on your computer or other devices and may also use web logs or web beacons
+See “Cookies and Similar Technologies.”
+In some instances, we may combine information from the Services that is linked or reasonably linked to a particular computer or device with personal information
+If we combine such information with personal information, the combined information will be treated by us as personal information as long as it is combined.
+COOKIES AND SIMILAR TECHNOLOGIES
+We use cookies in connection with our Services
+A cookie is a small data file that we store on your computer’s or mobile device’s memory
+Cookies help us better understand the effectiveness of an ad (for example, by tracking the way in which you respond to, select and interact with an Ad or any content provided therein, or the location and context in which you view an Ad, and for managing the frequency in which you see particular ads)
+Some cookies help you navigate our Services, including setting a cookie to remember your login details
+Other cookies collect information about how you use our Services, which highlights areas we can improve, including navigation
+If you submit an inquiry through our website and provide your name and email and similar information, that personal information will not be tied back to you for interest-based advertising purposes across websites and applications, however, you may receive email marketing communications from us
+To opt out of marketing communications, see “Choices.”
+We may also use “pixel tags,” “web beacons”, “clear GIFs” or similar means (individually or collectively “Pixel Tags”) to analyze usage patterns of consumers
+A Pixel Tag is an electronic image, often a single pixel, which is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a webpage or in a mobile application and may be associated with cookies on your hard drive
+Some Pixel Tags are used to drop cookies on users’ devices
+Pixel Tags allow us to count users who have visited certain websites and applications of our publishers, and pages within such websites and applications, and to help determine the effectiveness of promotional or advertising campaigns.
+Cookies and Pixel Tags also help us operate and improve our Services, including to verify legitimacy of traffic, and to help us send you personalized, targeted Ads that you see because of information collected through such Pixel Tags and stored within your cookie embedded on your device(s)
+To opt out of interest-based advertising see “Choices.”
+Third parties may also use cookies or similar technologies on visitors of our websites to serve  interest-based advertisements to such visitors when they visit other websites and mobile applications, including advertisements promoting our Services.
+Publishers, advertisers and advertising partners that participate in the Services may also utilize cookies or similar technologies to deliver ads and monitor the performance of such ads
+The collection of information through cookies or similar technologies by such third parties will be governed by their own privacy policies and principles, which Chocolate does not control.
+Your browser may offer tools to enable or disable cookies by modifying the settings in your browser
+However, please note that certain features of the Chocolate Pages may not work if you delete or disable cookies
+Moreover, if you delete cookies after previously opting out of Chocolate’s platform practices, you may need to renew your opt-out choice
+We do not honor browser Do Not Track (DNT) signals at this time.
+To read more about cookies and your choices with regard to Chocolate’s and third parties’ uses of cookies in our Services, please see “Choices.”
+ADVERTISING COOKIES
+Third parties may also use cookies or similar technologies on visitors of our websites to serve  interest-based advertisements to such visitors when they visit other websites and mobile applications, including advertisements promoting our Services.
+These cookies help to make advertising more effective and used to deliver advertisements that are more relevant to you and your interests.
+Cookie Names
+Purpose
+Google
+This is a cookie associated with Google
+When you visit a page or see an ad that uses one of these products, either on Google services or on other sites and apps, various cookies may be sent to your browser
+To learn more about Google’s practices, please visit : https://policies.google.com/technologies/ads?hl=en
+ANALYTICS COOKIES
+Cookies used for analytics help collect data that allows services to understand how users interact with a particular service
+These insights allow services both to improve content and to build better features that improve the user’s experience.
+Cookie Names
+Purpose
+Google Analytics[analytics.js]
+The analytics.js library (also known as “the Google Analytics tag”) is a JavaScript library for measuring how users interact with your website
+To learn more about Google’s practices, please visit http://www.google.com/policies/privacy/partners/, https://developers.google.com/analytics/devguides/collection/analyticsjs
+INFORMATION SHARING
+In the preceding 12 months, we have disclosed the following categories of personal information for a business purpose:
+Identifiers,
+Protected classification information,
+Commercial information,
+Internet or other similar network activity,
+Location data, and
+Inference data.
+We share personal information for a business purpose with various categories of third parties.
+Your personal information (such as name, phone number and email address) collected from the Chocolate Pages may be shared:
+among our affiliates for the purposes described in this Privacy Policy (Vdopia Inc
+is the party responsible for the management of the information jointly used by it and its affiliates),
+with our third-party service providers who provide services such as email management, event management, campaign measurement, and marketing analytics and other services,
+with our third-party service providers who provide services relating to our career pages, recruiting, background check processing and similar services,
+directly by you on profile pages and blogs and other services to which you are able to post information and materials yourself (including, without limitation, our social media pages),
+with a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), and
+as we believe to be necessary or appropriate: (a) under applicable law
+(b) to comply with legal process and our legal obligations
+(c) to respond to requests or requirements from public, law and government authorities (including national security and law enforcement requirements) and private parties
+(d) to enforce our terms and conditions
+(e) to protect our operations
+(f) to protect our rights, privacy, safety or property, and/or that of you or others
+(g) to allow us to pursue available remedies or limit the damages that we may sustain
+and (h) to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
+Sale of Personal Information of California Residents
+With regard to personal information of California residents that an individual provides on the Chocolate Pages only, in the preceding 12 months, we have not sold that personal information.
+With respect to personal information of California residents that we receive from our publisher clients via our Service, we ask that you review those companies’ privacy policies and links to “Do not sell my personal information” for information on how your information is sold and how to opt out of those practices
+See “Rights of Certain California Residents” for more information regarding your opt out rights relating to publisher clients.
+We and our third party service providers may share other information from the Services that is linked or reasonably linked to a particular computer or device:
+among our affiliates for the purposes described in this Privacy Policy (Vdopia Inc
+is the party responsible for the management of the information jointly used by it and its affiliates),
+with our publisher clients to allow them to analyze the effectiveness and performance of our Services,
+with our advertising clients to allow them to make decisions regarding buying advertising inventory on our publisher clients’ websites, other websites, and applications, and to analyze the effectiveness and performance of their advertising campaigns via our Services, including sharing your device’s physical information to enable our clients to provide you with more personalized advertising content and to study the effectiveness of advertising campaigns,
+with our third-party service providers who provide services that enhance our Services, including ad and content analytics vendors, vendors providing viewability, fraud-free, and brand-safe ad services, data management services, and cloud storage vendors,
+with a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), and
+as we believe to be necessary or appropriate: (a) under applicable law
+(b) to comply with legal process and our legal obligations
+(c) to respond to requests or requirements from public, law and government authorities (including national security and law enforcement requirements) and private parties
+(d) to enforce our terms and conditions
+(e) to protect our operations
+(f) to protect our rights, privacy, safety or property, and/or that of you or others
+(g) to allow us to pursue available remedies or limit the damages that we may sustain
+and (h) to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
+We may also share and disclose other information that we collect, including aggregate information, as we consider necessary to develop and provide our Services, including in the ways described above in this section “Information Sharing.”
+We ask our service providers to confirm that their privacy and security practices are consistent with ours, we provide our service providers with only the information necessary for them to perform the services we request, and we ask our service providers not to use such information for any purpose other than as specified by Chocolate.
+Chocolate may offer online resources that facilitate communications among the Chocolate client community and others
+Whenever you voluntarily post information to any public forum offered by Chocolate, such information along with your user name can be accessed by other users of the forum, including members of the public if the forum is open to the public.
+LEGAL BASIS RELIED ON FOR PROCESSING PERSONAL INFORMATION OF EUROPEAN ECONOMIC AREA INDIVIDUALS
+Chocolate is a data processor with respect to personal data collected or received by us when we receive such information from our publisher clients (the data controllers) that make their data available for use via our Services
+Where we operate as a data processor, we are processing the data on behalf of our clients (the data controller(s) of the data) based on their instructions, and it is the responsibility of the data controller to establish an appropriate legal basis for the processing of the data
+For example, we may process data when the individual has consented to such processing
+On certain occasions we may rely on legitimate interest as a basis for processing, when it is in our clients’ and our legitimate interests to do so and when these interests are not overridden by the individual’s data protection rights
+Those legitimate interests include performing our obligations with respect to providing the Services and improving our Services.
+Chocolate is a data controller with respect to any personal data collected or received by us when we receive personal information (such as name, phone number, SKYPE name, and email address) through our Chocolate Pages
+In this case, the data controller is Vdopia Inc
+Where Chocolate operates as a data controller, we rely on legitimate interests to process personal data to provide our Services
+On certain occasions, we may also rely on the consent of the individual to process personal information (for example, in some jurisdictions, when the user inputs personal information into the Chocolate Pages and consents to receive marketing communications)
+On other occasions, we may process personal information when we need to do this to fulfill a contract or where we are required to do so by law.
+RETENTION
+We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law, or an individual requests deletion in accordance with applicable law
+See “Access and Rights regarding Personal Information.”
+CHOICES
+Commitment to Industry Self-Regulation:  Chocolate adheres to the Digital Advertising Alliance’s (DAA) Self-Regulatory Principles in the US.
+Opting Out of Marketing
+We give you choices regarding our use and disclosure of your personal information for marketing purposes.
+You may opt-out from receiving electronic communications from us (or opt in, if required by applicable law)
+If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing related emails by contacting us at privacy@chocolateplatform.com or by clicking on the opt-out link within the email message that you receive from us.
+Please also note that if you do opt-out of receiving marketing-related emails from us, we may still be required to send you administrative messages relating to the Services from time to time.
+Opting Out of Chocolate’s cookies
+You may disable cookies, including Chocolate’s cookies, by modifying the settings in your browser
+However, please note that certain features of the Chocolate Pages may not work if you delete or disable cookies
+Moreover, if you delete cookies after previously opting out of Chocolate’s platform practices, you may need to renew your opt-out choice.
+For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit www.allaboutcookies.org and www.youronlinechoices.eu.
+Opting Out of Interest-Based Advertising from Cookies
+To opt out of receiving interest-based advertising (including retargeting) from Chocolate’s services through the use of cookies in your current browser and for more information on what it means to opt-out, please go to https://chocolateplatform.com/opt-out/
+When you opt out of receiving interest-based advertising from Chocolate, note that the opt out only applies to the applicable browser in which you set it
+Note that the Chocolate opt out tool is cookie-based
+This means that, if you have cookies blocked, you will not be able to use it
+Note also that if you delete cookies entirely then you will need to opt out again
+Finally, note that once the opt-out has been completed, you will still receive advertisements, but such advertisements will not be interest-based ads targeted by Chocolate.
+Some of our publisher clients and advertising partners have their own opt-out mechanisms that are linked from their websites or their online-posted privacy policies
+You should review the privacy policies of those companies for these opt-out links if you no longer wish to receive targeted advertising from a particular company, or multiple companies.
+Some third parties who use cookies when you visit our websites, also have opt out mechanisms either directly from their website or through an industry-developed web page
+If you go to https://preferences-mgr.truste.com, you can learn how to exercise choice regarding the collection of information about your online activities over time and across multiple third-party websites, online services, devices, and applications for interest-based advertising purposes.
+For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit www.allaboutcookies.org and www.youronlinechoices.eu.
+Opting Out of Interest-Based Advertising in Mobile Applications
+To opt out of Vdopia’s interest-based advertising that takes place through mobile applications, please see the following instructions on utilizing your mobile device operating system’s opt-out settings.
+For iPhone/iOS users: For instructions on how to “Limit Ad Tracking” on the iOS, please visit this link or see the instructions below:
+Go to “Settings” > “Privacy” > “Advertising.”
+Turn on “Limit Ad Tracking.”
+For Android users: For instructions on how to opt out of interest-based ads in the Android OS, please visit this link or see the instructions below:
+Open Google settings on your device (may be an app called Google Settings or an entry in your phone’s Settings menu, depending on your device)
+Tap “Ads”
+Switch on “Opt out of interest-based ads” or “Opt out of Ads Personalization.”
+Opting Out of Cross-Device Targeting
+We and our publisher clients, ad partners and third parties may combine and use information from websites or applications on your current browser or device with information from your other browsers or devices for advertising purposes
+To opt out of such practices, please follow the instructions above for opting out on each of your browsers and on each of your mobile devices, including: “Opting Out of Interest-Based Advertising from Cookies” and “Opting Out of Interest-Based Advertising in Mobile Applications.”
+Please note that you will need to opt out separately on (1) each of your browsers and (2) each of your mobile devices to ensure that information collected on a particular browser or device is not used on another browser or device.
+Opting Out of Use of Precise Location
+To disable the collection of precise location information from your mobile device through mobile applications, you can access your mobile device settings and choose to limit that collection.
+Android: For Android 6.0 and above: you can modify privacy settings in Settings > Applications > App Permissions > Location and tap the on/off toggle switch next to Location for each app which has permission to use your location data
+For earlier versions of Android: you can modify privacy settings in Settings > More > Permission and tap the on/off toggle switch next to Location to turn location functions off for your device
+Alternatively, you may uninstall the relevant program(s).
+iOS:   In iOS you can modify privacy settings in Settings > Privacy
+You can select location data from this list to see which apps have asked for permission to use your location data.
+ACCESS AND RIGHTS REGARDING PERSONAL INFORMATION
+If you would like to review, correct, update, suppress, or delete the personal information that Chocolate maintains about you, or you would like to request a copy of your personal information held by us, you may contact us at privacy@chocolateplatform.com.
+If you are a resident of the European Economic Area, including Switzerland, you have the right to access the personal information that Chocolate maintains about you, and you may be able to review, correct, update, suppress, or delete that information or the processing of that information
+To exercise these rights as a resident of the European Economic Area, including Switzerland, email privacy@chocolateplatform.com.
+To opt out of receiving marketing communications from us, please see “Choices.”
+To opt out of interest-based advertising from cookies, see “Choices.”
+To opt out of interest-based advertising in mobile applications, see “Choices.”
+To opt out of cross-device targeting, see “Choices.”
+To opt out of the use of precise location, see “Choices.”
+Rights of Certain California Residents
+Effective as of January 1, 2020
+The California Consumer Privacy Act (CCPA) provides certain California residents with the additional rights listed below
+The CCPA temporarily exempts from these CCPA rights certain personal information reflecting a written or verbal business-to-business communication or transaction as well as data about Chocolate’s employees, job applicants, contractors, controlling owners, directors, officers and medical staff (if any) in their capacities as such individuals at Chocolate.
+Access Right
+You have the right to request that we disclose certain information to you about our collection and use of your personal information over the past 12 months
+After we receive and confirm your verifiable consumer request, we will disclose to you the following:
+The categories of personal information we collected about you,
+The categories of sources of that personal information,
+Our business or commercial purpose(s) for collecting that information,
+The categories of third parties who received the information from us, and
+The specific pieces of personal information we collected about you (the above also allows you to exercise your data portability right).
+Data Portability Right
+You have the right request that we provide you with access to the information above (under Right to Access) in a readily useable format that allows you to transmit (i.e., port) the information to another entity
+When you make a right to access request, you will receive access to your information in a readily useable format.
+Delete Right
+You have the right to request that we delete any of your personal information that we collected and retained from you, with some exceptions
+After we receive and confirm your verifiable consumer request, we will delete (and instruct our service providers to delete) your personal information from our records, unless there is an exception that is applicable
+You should contact the applicable publisher clients directly to delete your information that they have in their systems.
+We may choose not to delete some of your information or deny your deletion request, if keeping the information is necessary for us (or our service providers) to:
+Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of the ongoing business relationship with you, or otherwise perform a contract with you.
+Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for that type of activity.
+Debug products to identify and repair errors that impair existing intended functionality.
+Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
+Comply with the California Electronic Communications Privacy Act (Cal
+Penal Code § 1546 et
+seq.).
+Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest.
+Enable internal uses that are reasonably aligned with consumer expectations.
+Comply with a legal obligation.
+Make other internal and lawful uses of that information that are compatible with the context of collection.
+Exercising Your Rights
+To exercise your rights, please contact us via email or our web form as follows:
+Email us at ccpa@chocolateplatform.com and provide the following information:
+Full name and email address associated with your use of our Service, and
+Your specific request (e.g., right to access, right to portability, or right to delete).
+Submit your request via our web form on our Contact Us page (located at https://chocolateplatform.com/contact-us/) and provide the following information:
+Full name and email address associated with your use of our Service, and
+Your specific request in the message field of the web form (e.g., right to access, right to portability, or right to delete).
+Our goal is to respond to a consumer request for access or deletion within 45 days of receiving that request
+If we require more time, we will inform you of the reason and extension period in writing.
+Only you, or someone authorized to act on your behalf, may make a verifiable consumer request related to your personal information.
+You may only make a verifiable consumer request for access or data portability twice within a 12-month period.
+Opting out of the Sale of Your Personal Information via our Publisher Clients
+With regard to your personal information that we receive from our publisher clients via our Service (excluding the Chocolate Pages), you may exercise your right to opt out of the sale of your personal information directly from our publisher clients (see the “Do not Sell My Personal Information” link on the websites of our publisher clients)
+Our publisher clients operate as a “business” under the California Consumer Privacy Act and we operate as a “service provider” for our publisher clients
+When we receive an opt-out request from a publisher client relating to an individual, we cease sharing that individual’s information with our media buyers for advertisements that are displayed to that individual when he/she visits properties of our other publisher clients.
+Non-Discrimination
+We will not discriminate against you for exercising any of your rights under the CCPA
+Unless permitted by the CCPA, we will not:
+Deny you goods or services,
+Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties,
+Provide you a different level or quality of goods or services, or
+Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+However, we may offer you certain financial incentives permitted by the CCPA that can result in different prices, rates, or quality levels
+Any CCPA-permitted financial incentive we offer will reasonably relate to your personal information’s value to Chocolate and contain written terms that describe the program’s material aspects
+Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time
+We currently do not provide any financial incentives.
+THIRD PARTIES
+This Privacy Policy does not cover, and we are not responsible for, the privacy, data or other practices of any third parties (except as required by applicable law), including any third parties operating any site or service to which our Services link
+The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates
+These third parties are bound by their own privacy policies.
+We are also not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of our publisher clients, our advertising clients such as demand side platforms, data management platforms, app developers, app providers, ad servers, social media platform providers, operating system providers, wireless service providers or device manufacturers (except as required by applicable law), including any Personal Information you disclose to other organizations through or in connection with the Services.
+SENSITIVE INFORMATION
+We ask that you not send us, and you not disclose to us, any sensitive information (e.g., social security numbers or other government identifiers, information related to racial or ethnic origin, political opinions, religion or other beliefs, medical or health conditions, criminal background, trade union membership, or sexual orientation) on or through the Services or otherwise to us, except where such information is legally required.
+SECURITY
+Information that we collect is stored using procedures and practices reasonably designed to help protect from accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal information transmitted, stored or otherwise processed by us.
+USE OF SERVICES BY MINORS
+Our Services are not intended for, nor directed to, individuals under the age of 18, and we request that these individuals, and any other individual considered a minor under applicable law, do not provide personal information through any of the Services.
+INTERNATIONAL INFORMATION TRANSFERS
+Please be aware that the information we collect, may be transferred to and maintained on servers or databases located outside your state, province, country, or other jurisdiction, where the privacy laws may not be as protective as those in your location
+Please be advised that we process and store information in any country where we have facilities and/or employees, including the United States and India, or in which we engage service providers
+Your consent to this Privacy Policy or your use of any of the Services or your submission of your information to us or any of our publisher clients, represents your consent to such transfer, storage and processing outside of your country of residence, including the United States and India, which may have different data protection rules than those of your country of residence.
+EU-U.S
+PRIVACY SHIELD AND SWISS-U.S
+PRIVACY SHIELD COMPLIANCE AND STATUS
+If we transfer personal information from the European Economic Area (including Switzerland) to the United States, Vdopia Inc
+complies with the EU-U.S
+Privacy Shield Framework and the Swiss-U.S
+Privacy Shield Framework, as applicable, as set forth by the U.S
+Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Economic Area (including Switzerland) to the United States
+Vdopia Inc
+has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability
+If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern
+To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
+Vdopia Inc
+is accountable for information that it receives under the Privacy Shield and subsequently transfers to a third party
+Vdopia Inc
+may transfer personal information collected from the Chocolate Pages as described above in this Privacy Policy
+Vdopia Inc
+may also transfer other information which meet the definition of “personal data” in the Privacy Shield Framework to service providers and to its clients such as publishers, ad partners, and ad agencies including for interest-based advertising as described above
+If we share personal data of European Economic Area individuals (including Switzerland) with a third-party service provider that processes the data solely on Vdopia Inc.’s behalf, then Vdopia Inc
+will be liable for that third party’s processing of such data in violation of the Privacy Shield Principles, unless Vdopia Inc
+can prove that it is not responsible for the event giving rise to the damage.
+In compliance with the Privacy Shield Principles, Vdopia Inc
+commits to resolve complaints about our collection or use of your personal information of European Economic Area individuals (including Switzerland)
+Such individuals who have inquiries or complaints under the Privacy Shield Frameworks should first contact Vdopia Inc
+at privacy@chocolateplatform.com or:
+Vdopia Inc., c/o Chocolate Platform
+Attention: Privacy
+442 Post Street
+San Francisco, CA 94102
+USA
+Vdopia Inc
+has further committed to refer unresolved Privacy Shield complaints to the ICDR (the international division of the American Arbitration Association), an international alternative dispute resolution provider
+If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact the ICDR or visit http://go.adr.org/privacyshield.html for more information or to file a complaint
+The services of the ICDR are provided at no cost to you.
+Under certain conditions, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+See  https://www.privacyshield.gov/article?id=ANNEX-I-introduction for more information.
+The Federal Trade Commission has jurisdiction over Vdopia Inc.’s compliance with the Privacy Shield Framework.
+CHANGES TO THIS PRIVACY POLICY
+We reserve the right to make changes to our Privacy Policy
+Please look at the date at the top of this page to see when this Privacy Policy was last revised
+Where required by law, we will obtain your consent to make these changes or provide you with notice.
+CONTACTING US
+For any questions about this Privacy Policy or Chocolate’s privacy practices, please contact us by email at privacy@chocolateplatform.com, or by mail at:
+Vdopia Inc., c/o Chocolate Platform
+Attention: Privacy
+2443 Fillmore Street, #380-7980
+San Francisco, CA 94115
+USA
+To exercise your rights as a California resident, see Rights of Certain California Residents above.
+Privacy Notice for California Vdopia Resources
+Effective as of January 1, 2020
+This Privacy Notice for California Vdopia Resources (“California Resources Notice”) applies solely to Vdopia Inc.’s employees, job applicants, controlling owners, directors, officers, independent contractors, and medical staff, if any, who reside in California (“you” or a “Vdopia Resource”).
+We have adopted this California Resources Notice to comply with the California Consumer Privacy Act of 2018 (CCPA) with respect to certain data of Vdopia Resources
+Any terms defined in the CCPA have the same meaning when used in this California Resources Notice.
+Information We Collect from Vdopia Resources
+Within the last 12 months, we have collected the following categories of personal information from our Vdopia Resources:
+Category
+Examples
+Collected
+A
+Identifiers.
+A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security number, driver’s license number, passport number, or other similar identifiers.
+YES
+B
+Personal information categories listed in the California Customer Records statute (Cal
+Civ
+Code § 1798.80(e)).
+A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.
+Some personal information included in this category may overlap with other categories.
+YES
+C
+Protected classification characteristics under California or federal law.
+Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).
+YES
+G
+Geolocation data.
+Physical location or movements.
+YES
+I
+Professional or employment-related information.
+Current or past job history or performance evaluations.
+YES
+J
+Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C
+Section 1232g, 34 C.F.R
+Part 99)).
+YES
+K
+Inferences drawn from other personal information.
+Profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+YES
+The following information is not treated as personal information under CCPA:
+Deidentified or aggregated consumer information.
+Publicly available information from government records.
+Health or medical information covered by the Health Insurance Portability and Accountability Act of 1996.
+Data under the California Confidentiality of Medical Information Act.
+Data covered by the Fair Credit Reporting Act, the Gramm-Leach-Bliley Act, California Financial Information Privacy Act, and the Driver’s Privacy Protection Act of 1994.
+Use of Personal Information of Vdopia Resources
+We may use the personal information of Vdopia Resources for one or more of the following purposes:
+We may use your information as allowed under CCPA or as described to you when collecting your personal information.
+Contact Us
+Vdopia Resources should direct their questions or concerns about this California Resources Notice to their manager or the human resources department.
+Tweets by @@Video_Chocolate
+Quick LinksPremium | Video SSP
+Blog
+About Us
+Careers
+Contact Us
+Follow Us
+Twitter
+LinkedIn
+Facebook
+Copyright 2022 Vdopia, Inc
+DBA Chocolate All Right Reserved.
+Marketplace Agreement
+Privacy Policy
+Ad Choices
+Opt Out
+This site uses cookies for various purposes
+By continuing, you consent to our Privacy Policy

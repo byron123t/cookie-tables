@@ -1,0 +1,79 @@
+Cookie Declaration
+This site uses cookies to personalize content and analyze traffic
+Learn more about how we use cookies and how to control settingsOK
+Sign In
+Features & Pricing
+Blog
+Support
+Sign In
+Get Started
+Cookie Declaration
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic
+We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services
+You consent to our cookies if you continue to use our website
+Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site
+For all other types of cookies we need your permission.This site uses different types of cookies
+Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the Cookie Declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy
+Your consent applies to the following domains: simplecast.com Your current state: Deny
+Your current state: Do Not Sell My Personal Information
+Your current state: Allow selection (Necessary, Preferences, Statistics, Marketing)
+Your current state: Allow all
+Your consent ID: 0Consent date: Change your consent  |  Withdraw your consentDo Not Sell My Personal InformationCookie declaration last updated on 30/10/2022 by Cookiebot:        Necessary (6) Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website
+The website cannot function properly without these cookies
+Name Provider Purpose Expiry Type    __cf_bm           [x2]                 hubspot.comsimplecast.com This cookie is used to distinguish between humans and bots
+This is beneficial for the website, in order to make valid reports on the use of their website
+1 day HTTP Cookie   __cfruid simplecast.com This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators
+Session HTTP Cookie   access_token simplecast.com Used for user login to the dashboard application 7 days HTTP Cookie   CookieConsent simplecast.com Stores the user's cookie consent state for the current domain 1 year HTTP Cookie   refresh_token simplecast.com Used for user login to the dashboard application 28 days HTTP Cookie     Preferences (1) Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in
+Name Provider Purpose Expiry Type    CookieConsentBulkSetting-# consentcdn.cookiebot.com Enables cookie consent across multiple websites Persistent HTML Local Storage     Statistics (11) Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously
+Name Provider Purpose Expiry Type    __hssc simplecast.com Identifies if the cookie data needs to be updated in the visitor's browser
+1 day HTTP Cookie   __hssrc simplecast.com Used to recognise the visitor's browser upon reentry on the website
+Session HTTP Cookie   __hstc simplecast.com Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes
+179 days HTTP Cookie   _ga simplecast.com Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+2 years HTTP Cookie   _gat simplecast.com Used by Google Analytics to throttle request rate 1 day HTTP Cookie   _gid simplecast.com Registers a unique ID that is used to generate statistical data on how the visitor uses the website
+1 day HTTP Cookie   _sp_id simplecast.com Registers a unique ID that is used to generate statistical data on how the visitor uses the webplayer
+2 years HTTP Cookie   _sp_ses simplecast.com Used to identify if the user is in an active session on a site or if this is a new session for a user (i.e
+cookie doesn’t exist or has expired)
+When using anonymousTracking: { withSessionTracking: true } (2.15.0+) this key will contain a salt value which is used to stitch page views into a session
+The value is never sent to the collector
+1 day HTTP Cookie   collect google-analytics.com Used to send data to Google Analytics about the visitor's device and behavior
+Tracks the visitor across devices and marketing channels
+Session Pixel Tracker   hubspotutk simplecast.com Sets a unique ID for the session
+This allows the website to obtain data on visitor behaviour for statistical purposes
+179 days HTTP Cookie   snowplowOutQueue_snowplow_cf_get simplecast.com Used to store a cache of unsent events
+This is used to reduce the chance of events to be lost due to page navigation and events not being set to the collector before the navigation event occurs
+Where GET requests are used, this key will end in _get rather than _post2
+Persistent HTML Local Storage     Marketing (9) Marketing cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers
+Name Provider Purpose Expiry Type    __ptq.gif hubspot.com Sends data to the marketing platform Hubspot about the visitor's device and behaviour
+Tracks the visitor across devices and marketing channels
+Session Pixel Tracker   _fbp simplecast.com Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers
+3 months HTTP Cookie   _gcl_au simplecast.com Used by Google AdSense for experimenting with advertisement efficiency across websites using their services
+3 months HTTP Cookie   ads/ga-audiences google.com Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites
+Session Pixel Tracker   IDE doubleclick.net Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user
+1 year HTTP Cookie   pagead/1p-user-list/# google.com Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites
+Session Pixel Tracker   pagead/landing           [x2]                 doubleclick.netgoogle.com Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement
+Session Pixel Tracker   test_cookie doubleclick.net Used to check if the user's browser supports cookies
+1 day HTTP Cookie
+All plans come with a 14-day free trial and you can cancel anytime.
+Start your free 14-day trial
+PRODUCT
+Features & Pricing
+Blog
+Support
+Sign In
+Get Started
+COMPANY
+Careers
+Terms
+Privacy
+DMCA
+DPA
+SOCIAL
+Newsletter
+Facebook
+Twitter
+Instagram
+Copyright © 2013-2022 Audios Ventures Inc, all rights reserved.

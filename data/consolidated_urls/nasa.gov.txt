@@ -1,0 +1,2 @@
+https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage
+https://en.wikipedia.org/wiki/HTTP_cookie

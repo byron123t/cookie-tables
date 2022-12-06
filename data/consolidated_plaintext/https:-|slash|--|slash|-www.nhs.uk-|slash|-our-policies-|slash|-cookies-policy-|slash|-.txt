@@ -1,0 +1,392 @@
+
+
+
+
+
+
+Cookies on the NHS website - NHS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the NHS website
+When autocomplete results are available use up and down arrows to review and enter to select.  Touch device users, explore by touch or with swipe gestures.
+
+
+
+
+Search
+
+
+
+
+
+
+    My account
+
+
+
+
+
+
+
+
+
+
+
+                Health A-Z
+                
+
+
+
+
+
+
+                NHS services
+                
+
+
+
+
+
+
+                Live Well
+                
+
+
+
+
+
+
+                Mental health
+                
+
+
+
+
+
+
+                Care and support
+                
+
+
+
+
+
+
+                Pregnancy
+                
+
+
+
+
+
+
+                Home
+                
+
+
+
+
+
+
+                NHS services
+                
+
+
+
+
+
+
+Browse
+                More
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Our policies
+
+
+
+
+Back to 
+            Our policies
+          
+
+
+
+
+
+
+
+Cookies on the NHS website
+
+
+
+
+
+
+
+What are cookies?Cookies are files saved on your phone, tablet or computer when you visit a website.They store information about how you use the website, such as the pages you visit.Cookies are not viruses or computer programs. They are very small so do not take up much space.How we use cookiesWe use cookies to:make our website work, for example by keeping it secureremember which pop-ups you've seenmeasure how you use our website, such as which links you click on (analytics cookies)help show you relevant health campaigns on social media
+
+
+
+Information: 
+When you log in to the NHS website, you are logging in to your NHS account. The NHS account cookies policy will apply while you are using services within your NHS account.
+
+
+
+
+
+
+    List of cookies that make our website work
+    
+
+
+
+Cookies needed for the NHS website work
+
+
+Name
+Purpose
+Expires
+
+
+
+
+.AspNetCore.Antiforgery.9TtSrW0hzOs
+Helps keep the site secure by preventing cross-site request forgery (CSRF) attacks
+When you close the browser
+
+
+.ASPXANONYMOUS
+Remembers your activity across multiple pages to improve your experience
+69 days
+
+
+_smokefree_session
+Remembers your pages input and states across multiple pages to improve your experience
+When you close the browser
+
+
+_tobacco_session
+Remembers your pages input and states across multiple pages to improve your experience
+When you close the browser
+
+
+akavpau_waitingroom
+Makes sure you are not sent back to wait for coronavirus tests to become available once you have been let through to apply for one
+Up to 10 minutes after you’ve finished using the ask for a coronavirus test service
+
+
+akavpwr_waitingroom
+Makes sure you cannot ask for a coronavirus test when there are none available and that you cannot 'game' the system by clicking refresh multiple times
+Up to 30 seconds after you’ve left the page where you wait to ask for a coronavirus test
+
+
+ARRAffinity
+Helps stop our site crashing by spreading traffic across web servers
+When you close the browser
+
+
+ASP.NET_SessionId
+Remembers your pages input and states across multiple pages to improve your experience
+When you close the browser
+
+
+CAM
+Helps stop our site crashing by spreading traffic across web servers
+When you close the browser
+
+
+CookieConsent
+Remembers your cookies settings on our website
+1 year
+
+
+csrftoken
+Helps keep the site secure by preventing cross-site request forgery (CSRF) attacks
+1 year
+
+
+mobile.display
+Determines if you should see the mobile version of our site
+When you close the browser
+
+
+mobile.nodisplay
+Determines if you should see the desktop version of our site
+When you close the browser
+
+
+nhsuk-cookie-consent
+Remembers if you used our cookies banner
+When you close the browser (if you do not use the banner) or 1 year (if you use the banner)
+
+
+test
+Used to tell us if you have accepted cookies to help with health campaigns
+When you close the browser
+
+
+WFE
+Keeps you connected to a web server when you use our website
+When you close the browser
+
+
+
+
+
+
+
+
+Change your cookie settingsSome cookies, like those used to measure how you use our website, are not needed for our website to work.These cookies can help us make our website better, but we'll only use them if you say it's OK.
+
+
+
+
+
+
+
+
+Choose which cookies we use
+
+
+
+
+How we use the information we collectTo find out how we collect, store and use information about you or your visit, see the NHS website privacy policy.
+
+
+
+
+        Page last reviewed: 1 April 2019
+        Next review due: 1 April 2022
+      
+
+
+
+
+
+Our policies
+
+Governance of the NHS website
+Content policy
+Linking from the NHS website
+Terms and conditions
+Your privacy on the NHS website
+Cookies on the NHS website
+Reviews policy
+Requests for research support
+
+
+
+
+
+
+
+
+
+
+
+Support links
+
+
+Home
+Health A to Z
+Live Well
+Mental health
+Care and support
+Pregnancy
+NHS services
+Coronavirus (COVID-19)
+
+
+NHS App
+Find my NHS number
+Your health records
+About the NHS
+Healthcare abroad
+
+
+Contact us
+Other NHS websites
+Profile editor login
+
+
+About us
+Accessibility statement
+Our policies
+Cookies
+
+
+
+© Crown copyright
+
+
+
+
+

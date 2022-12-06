@@ -1,0 +1,617 @@
+
+
+
+Cookies policy | National Gallery, London
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by CookiebotConsentDetails[#IABV2SETTINGS#]AboutCookies on the National Gallery websiteWe use some essential cookies to make this website work. We'd like to set other cookies to remember your settings, measure website use and inform our marketing. We also use content from other sites in our pages, and those sites may also set cookies. More information can be found in our cookies policy.Consent SelectionNecessary Preferences Analytics Marketing Show detailsNecessary  30 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.Cookiebot2Learn more about this providerCookieConsent [x2]Stores the user's cookie consent state for the current domainExpiry: 1 yearType: HTTPFlippingbook1Learn more about this providerdebugThis cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.Expiry: PersistentType: HTMLGoogle2Learn more about this providerrc::aThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Expiry: PersistentType: HTMLrc::cThis cookie is used to distinguish between humans and bots. Expiry: SessionType: HTMLTwitter Inc.1Learn more about this providerlocal_storage_support_testThe cookie is used in context with the local-storage function in the browser. This function allows the website to load faster by pre-loading certain procedures. Expiry: PersistentType: HTMLmy.nationalgallery.org.uk12.ASPXFORMSAUTHUsed by TNEW to indicate a user’s site permissions including access to the TNEW Administration Site. This supports the security of the service.Expiry: SessionType: HTTPAWSALBRegisters which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.  Expiry: 6 daysType: HTTPAWSALBCORSRegisters which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.  Expiry: 6 daysType: HTTPQueueITAccepted-SDFrts345E-V3_generalsaleUsed by Queue-it version 2.5 to authenticate a user when a virtual waiting room is enabled. For more information, visit https://queue-it.com/.Expiry: 1 dayType: HTTPreese84This cookie is used to distinguish between humans and bots. Expiry: 29 daysType: HTMLFGTServerEnsures that all your requests to our website are sent to the same web server.Expiry: 1 dayType: HTTPincap_ses_#This is used to filter out malicious request.Expiry: SessionType: HTTPnlbi_#Incapsula DDoS Protection and Web Application Firewall: Load balancing cookie. Ensures requests by a client are sent to the same origin server.Expiry: SessionType: HTTPTNEWUsed by TNEW to store encrypted session information for LIVE sites. The cookie is used to manage and retain what actions a user has conducted during the session.Expiry: SessionType: HTTPvisid_incap_#The cookie enhances website performance and security. It remembers visitors across the virtual firewall/CDN.Expiry: 1 yearType: HTTPQueue-itUsed by all Queue-it versions when a virtual waiting room is enabled. For more information, visit https://queue-it.com/.Expiry: 1 yearType: HTTPQueue-it-tokenUsed by all Queue-it versions when a virtual waiting room is enabled. For more information, visit https://queue-it.com/.Expiry: 1 dayType: HTTPmy.nationalgallery.org.ukwww.nationalgallery.org.uk4__RequestVerificationToken [x2]Helps prevent Cross-Site Request Forgery (CSRF) attacks.Expiry: SessionType: HTTPASP.NET_SessionId [x2]Preserves the visitor's session state across page requests.Expiry: SessionType: HTTPplay.google.comwww.youtube.com2CONSENT [x2]Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.  Expiry: 2 yearsType: HTTPwww.nationalgallery.org.uk6ngInfoRemembers the most recently chosen exhibition, event or other product during the current session.Expiry: SessionType: HTTPngSessBasketThis holds the number of items in your basket, if you are signed in to our ticketing website. It is used to adjust the appearance of the page header.Expiry: SessionType: HTTPngSessMemberThis holds your membership status, if you are signed in to our ticketing website.Expiry: SessionType: HTTPngSessOnThis holds the value Y or N to indicate if you are signed in to on our ticketing website. It is used to adjust the appearance of the page header.Expiry: SessionType: HTTPngSessUidThis holds your customer number, if you are signed in to our ticketing website.Expiry: SessionType: HTTPngSessUserThis holds your initials, if you are signed in to our ticketing website. It is used to adjust the appearance of the page header.Expiry: SessionType: HTTPPreferences  6 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.Cookiebot1Learn more about this providerCookieConsentBulkSetting-#Enables cookie consent across multiple websitesExpiry: PersistentType: HTMLwww.nationalgallery.org.uk5AdvancedThis remembers your choice of basic or advanced search in the archive search so that you don't have to choose again next time.Expiry: 3 monthsType: HTTPCollectionPageRemembers how many paintings you have loaded on the search the collection page, so your list can be restored when you go back to the page. Only saved during your current browsing session.Expiry: SessionType: HTMLPageSizeThis remembers your choice of page size in the archive search so that you don't have to choose again next time.Expiry: 3 monthsType: HTTPRelatedPaintingsRemembers how many paintings you have loaded on each page, so your list can be restored when you go back to the page. Only saved during your current browsing session.Expiry: SessionType: HTMLSortFieldsThis remembers your choice of sort fields in the archive search so that you don't have to choose again next time.Expiry: 3 monthsType: HTTPAnalytics  16 Analytics cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.Appnexus1Learn more about this providerbounceDetermines if a user leaves the website straight away. This information is used for internal statistics and analytics by the website operator.  Expiry: SessionType: PixelGoogle6Learn more about this providercollectUsed to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.Expiry: SessionType: Pixel_dc_gtm_UA-# [x2]Used by Google Tag Manager to control the loading of a Google Analytics script tag.Expiry: 1 dayType: HTTP_gat [x2]Used by Google Analytics to throttle request rateExpiry: 1 dayType: HTTP_ga_#Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. Expiry: 2 yearsType: HTTPQuantcast5Learn more about this providerqcSes [x2]Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.Expiry: SessionType: HTML__qcaCollects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.Expiry: 1 yearType: HTTP_dltSets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.Expiry: 1 dayType: HTTPdCollects anonymous data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.Expiry: 3 monthsType: HTTPmy.nationalgallery.org.ukwww.googletagmanager.com2_ga [x2]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 2 yearsType: HTTPwww.google-analytics.commy.nationalgallery.org.uk2_gid [x2]Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Expiry: 1 dayType: HTTPMarketing  33 Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. Meta Platforms, Inc.1Learn more about this provider_fbpUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Expiry: 3 monthsType: HTTPAppnexus2Learn more about this provideranjRegisters a unique ID that identifies a returning user's device. The ID is used for targeted ads.Expiry: 3 monthsType: HTTPuuid2Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.Expiry: 3 monthsType: HTTPFlippingbook1Learn more about this providerclientIdUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Expiry: PersistentType: HTMLGoogle6Learn more about this providerIDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.Expiry: 1 yearType: HTTPpagead/landing [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. Expiry: SessionType: Pixeltest_cookieUsed to check if the user's browser supports cookies.Expiry: 1 dayType: HTTPads/ga-audiencesUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.Expiry: SessionType: Pixel_gcl_auUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.  Expiry: 3 monthsType: HTTPQuantcast1Learn more about this providermcCollects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.Expiry: 13 monthsType: HTTPSizmek7Learn more about this providerSZMKSessionId [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. Expiry: PersistentType: HTMLSZMKUin [x2]Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.Expiry: PersistentType: HTMLOT_1073745577PendingExpiry: SessionType: HTTPOT2Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.Expiry: 3 monthsType: HTTPu2Collects data related to the user's navigation visits to webpages in order to assess the efficacy of ads that are displayed on the website.Expiry: 3 monthsType: HTTPTwitter Inc.2Learn more about this provider__widgetsettingsThis cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile. Expiry: PersistentType: HTMLi/jot/embedsSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.Expiry: SessionType: PixelYouTube12Learn more about this providerVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Expiry: 179 daysType: HTTPYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: SessionType: HTTPyt.innertube::nextIdRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: PersistentType: HTMLyt.innertube::requestsRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Expiry: PersistentType: HTMLytidb::LAST_RESULT_ENTRY_KEYStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-cast-availableStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-cast-installedStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-connected-devicesStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-device-idStores the user's video player preferences using embedded YouTube videoExpiry: PersistentType: HTMLyt-remote-fast-check-periodStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-appStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLyt-remote-session-nameStores the user's video player preferences using embedded YouTube videoExpiry: SessionType: HTMLmy.nationalgallery.org.uk1___utmvcCollects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.Expiry: 1 dayType: HTTPUnclassified  6Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.my.nationalgallery.org.uk6nlbi_2286311_2147483392PendingExpiry: SessionType: HTTPQueue-it-14a4d925-c99e-4fcb-a803-ca1816613b88PendingExpiry: 1 dayType: HTTPQueue-it-20608429-0049-4b7b-8af6-a49e3477f99bPendingExpiry: 1 dayType: HTTPQueue-it-708e919f-1e0a-4e76-be2c-278feecb7c0fPendingExpiry: 1 dayType: HTTPQueue-it-930de3b7-0605-45a2-aae0-6edae7fe28e6PendingExpiry: 1 dayType: HTTPQueue-it-9d92bd32-d31b-461a-81d0-80b071c38722PendingExpiry: 1 dayType: HTTPCross-domain consent2 Your consent applies to the following domains:List of domains your consent applies to: my.nationalgallery.org.uk www.nationalgallery.org.ukCookie declaration last updated on 10/17/22 by Cookiebot[#IABV2_TITLE#][#IABV2_BODY_INTRO#][#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#][#IABV2_BODY_PREFERENCE_INTRO#][#IABV2_LABEL_PURPOSES#][#IABV2_BODY_PURPOSES_INTRO#][#IABV2_BODY_PURPOSES#][#IABV2_LABEL_FEATURES#][#IABV2_BODY_FEATURES_INTRO#][#IABV2_BODY_FEATURES#][#IABV2_LABEL_PARTNERS#][#IABV2_BODY_PARTNERS_INTRO#][#IABV2_BODY_PARTNERS#]Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the cookie declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our privacy notice.Please state your consent ID and date when you contact us regarding your consent. [#OOI_PERSONAL_INFORMATION#]Save preferences Save preferences Set preferences Accept all cookiesPowered by Cookiebot by Usercentrics
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My basket
+                                
+
+
+Sign in
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My basket
+                                
+My account
+
+Sign out
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Visit us
+
+
+Exhibitions and events
+
+
+Art and artists
+
+
+Learning
+
+
+Research
+
+
+Membership
+
+
+Support us
+
+
+Shop
+
+
+
+
+
+
+
+
+
+                            Visit us
+                        
+
+
+Plan your visit
+
+
+Across the UK
+
+
+Virtual tours
+
+
+Floorplans
+
+
+Access
+
+
+Families
+
+
+
+
+
+
+
+                            Exhibitions and events
+                        
+
+
+What's on now
+
+
+Exhibitions
+
+
+Events
+
+
+
+
+
+
+
+                            Art and artists
+                        
+
+
+Search the collection
+
+
+Highlights from the collection
+
+
+Latest arrivals
+
+
+Picture of the month
+
+
+Contemporary residencies
+
+
+Latest stories
+
+
+
+
+
+
+
+                            Learning
+                        
+
+
+Primary schools
+
+
+Secondary schools
+
+
+Take One Picture
+
+
+Articulation
+
+
+
+
+
+
+
+                            Research
+                        
+
+
+About research
+
+
+Research Centre
+
+
+Research resources
+
+
+Research partnerships
+
+
+Subject Specialist Network
+
+
+
+
+
+
+
+                            Support us
+                        
+
+
+Support us
+
+
+Donate today
+
+
+Leave a legacy
+
+
+Join the Patrons
+
+
+Individuals, Trusts and Foundations
+
+
+Corporate support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+Area to search
+
+
+
+
+                Entire website
+            
+
+
+
+
+
+
+                Paintings
+            
+
+
+
+
+
+
+                Artists
+            
+
+
+
+
+
+
+                Events
+            
+
+
+
+Enter your search text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Cookies policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookies policy
+
+
+
+
+
+
+
+
+
+
+
+
+This policy should be read in conjunction with our privacy notice.
+Manage your cookie preferences
+ 
+ Cookies are small text files that can be used by websites to make a user's experience more efficient.The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.You can at any time change or withdraw your consent from the cookie declaration on our website.Learn more about who we are, how you can contact us and how we process personal data in our privacy notice.Please state your consent ID and date when you contact us regarding your consent. Your consent applies to the following domains: my.nationalgallery.org.uk, www.nationalgallery.org.uk Your current state: Deny. Your current state: Do Not Sell My Personal Information. Your current state: Allow selection (Necessary, Preferences, Analytics, Marketing). Your current state: Allow all. Your consent ID: 0Consent date: Change your consent  |  Withdraw your consentDo Not Sell My Personal InformationCookie declaration last updated on 17/10/2022 by Cookiebot:        Necessary (30)         Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.           Name Provider Purpose Expiry Type    .ASPXFORMSAUTH my.nationalgallery.org.uk Used by TNEW to indicate a user’s site permissions including access to the TNEW Administration Site. This supports the security of the service. Session HTTP Cookie   __RequestVerificationToken          [x2]         my.nationalgallery.org.ukwww.nationalgallery.org.uk Helps prevent Cross-Site Request Forgery (CSRF) attacks. Session HTTP Cookie   ASP.NET_SessionId          [x2]         my.nationalgallery.org.ukwww.nationalgallery.org.uk Preserves the visitor's session state across page requests. Session HTTP Cookie   AWSALB my.nationalgallery.org.uk Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.   6 days HTTP Cookie   AWSALBCORS my.nationalgallery.org.uk Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.   6 days HTTP Cookie   CONSENT          [x2]         GoogleYouTube Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.   2 years HTTP Cookie   CookieConsent          [x2]         Cookiebot Stores the user's cookie consent state for the current domain 1 year HTTP Cookie   debug Flippingbook This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website. Persistent HTML Local Storage   FGTServer my.nationalgallery.org.uk Ensures that all your requests to our website are sent to the same web server. 1 day HTTP Cookie   incap_ses_# my.nationalgallery.org.uk This is used to filter out malicious request. Session HTTP Cookie   local_storage_support_test Twitter Inc. The cookie is used in context with the local-storage function in the browser. This function allows the website to load faster by pre-loading certain procedures.  Persistent HTML Local Storage   ngInfo www.nationalgallery.org.uk Remembers the most recently chosen exhibition, event or other product during the current session. Session HTTP Cookie   ngSessBasket www.nationalgallery.org.uk This holds the number of items in your basket, if you are signed in to our ticketing website. It is used to adjust the appearance of the page header. Session HTTP Cookie   ngSessMember www.nationalgallery.org.uk This holds your membership status, if you are signed in to our ticketing website. Session HTTP Cookie   ngSessOn www.nationalgallery.org.uk This holds the value Y or N to indicate if you are signed in to on our ticketing website. It is used to adjust the appearance of the page header. Session HTTP Cookie   ngSessUid www.nationalgallery.org.uk This holds your customer number, if you are signed in to our ticketing website. Session HTTP Cookie   ngSessUser www.nationalgallery.org.uk This holds your initials, if you are signed in to our ticketing website. It is used to adjust the appearance of the page header. Session HTTP Cookie   nlbi_# my.nationalgallery.org.uk Incapsula DDoS Protection and Web Application Firewall: Load balancing cookie. Ensures requests by a client are sent to the same origin server. Session HTTP Cookie   Queue-it my.nationalgallery.org.uk Used by all Queue-it versions when a virtual waiting room is enabled. For more information, visit https://queue-it.com/. 1 year HTTP Cookie   QueueITAccepted-SDFrts345E-V3_generalsale my.nationalgallery.org.uk Used by Queue-it version 2.5 to authenticate a user when a virtual waiting room is enabled. For more information, visit https://queue-it.com/. 1 day HTTP Cookie   Queue-it-token my.nationalgallery.org.uk Used by all Queue-it versions when a virtual waiting room is enabled. For more information, visit https://queue-it.com/. 1 day HTTP Cookie   rc::a Google This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Persistent HTML Local Storage   rc::c Google This cookie is used to distinguish between humans and bots.  Session HTML Local Storage   reese84 my.nationalgallery.org.uk This cookie is used to distinguish between humans and bots.  29 days HTML Local Storage   TNEW my.nationalgallery.org.uk Used by TNEW to store encrypted session information for LIVE sites. The cookie is used to manage and retain what actions a user has conducted during the session. Session HTTP Cookie   visid_incap_# my.nationalgallery.org.uk The cookie enhances website performance and security. It remembers visitors across the virtual firewall/CDN. 1 year HTTP Cookie     Preferences (6)         Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.           Name Provider Purpose Expiry Type    Advanced www.nationalgallery.org.uk This remembers your choice of basic or advanced search in the archive search so that you don't have to choose again next time. 3 months HTTP Cookie   CollectionPage www.nationalgallery.org.uk Remembers how many paintings you have loaded on the search the collection page, so your list can be restored when you go back to the page. Only saved during your current browsing session. Session HTML Local Storage   CookieConsentBulkSetting-# Cookiebot Enables cookie consent across multiple websites Persistent HTML Local Storage   PageSize www.nationalgallery.org.uk This remembers your choice of page size in the archive search so that you don't have to choose again next time. 3 months HTTP Cookie   RelatedPaintings www.nationalgallery.org.uk Remembers how many paintings you have loaded on each page, so your list can be restored when you go back to the page. Only saved during your current browsing session. Session HTML Local Storage   SortFields www.nationalgallery.org.uk This remembers your choice of sort fields in the archive search so that you don't have to choose again next time. 3 months HTTP Cookie     Analytics (16)         Analytics cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.           Name Provider Purpose Expiry Type    __qca Quantcast Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content. 1 year HTTP Cookie   _dc_gtm_UA-#          [x2]         Google Used by Google Tag Manager to control the loading of a Google Analytics script tag. 1 day HTTP Cookie   _dlt Quantcast Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. 1 day HTTP Cookie   _ga          [x2]         my.nationalgallery.org.ukGoogle Registers a unique ID that is used to generate statistical data on how the visitor uses the website. 2 years HTTP Cookie   _ga_# Google Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.  2 years HTTP Cookie   _gat          [x2]         Google Used by Google Analytics to throttle request rate 1 day HTTP Cookie   _gid          [x2]         Googlemy.nationalgallery.org.uk Registers a unique ID that is used to generate statistical data on how the visitor uses the website. 1 day HTTP Cookie   bounce Appnexus Determines if a user leaves the website straight away. This information is used for internal statistics and analytics by the website operator.   Session Pixel Tracker   collect Google Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. Session Pixel Tracker   d Quantcast Collects anonymous data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content. 3 months HTTP Cookie   qcSes          [x2]         Quantcast Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content. Session HTML Local Storage     Marketing (33)         Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.           Name Provider Purpose Expiry Type    ___utmvc my.nationalgallery.org.uk Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website. 1 day HTTP Cookie   __widgetsettings Twitter Inc. This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.  Persistent HTML Local Storage   _fbp  Meta Platforms, Inc. Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. 3 months HTTP Cookie   _gcl_au Google Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.   3 months HTTP Cookie   ads/ga-audiences Google Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites. Session Pixel Tracker   anj Appnexus Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. 3 months HTTP Cookie   clientId Flippingbook Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.  Persistent HTML Local Storage   i/jot/embeds Twitter Inc. Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. Session Pixel Tracker   IDE Google Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user. 1 year HTTP Cookie   mc Quantcast Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads. 13 months HTTP Cookie   OT_1073745577 Sizmek Pending Session HTTP Cookie   OT2 Sizmek Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads. 3 months HTTP Cookie   pagead/landing          [x2]         Google Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.  Session Pixel Tracker   SZMKSessionId          [x2]         Sizmek Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.  Persistent HTML Local Storage   SZMKUin          [x2]         Sizmek Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. Persistent HTML Local Storage   test_cookie Google Used to check if the user's browser supports cookies. 1 day HTTP Cookie   u2 Sizmek Collects data related to the user's navigation visits to webpages in order to assess the efficacy of ads that are displayed on the website. 3 months HTTP Cookie   uuid2 Appnexus Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. 3 months HTTP Cookie   VISITOR_INFO1_LIVE YouTube Tries to estimate the users' bandwidth on pages with integrated YouTube videos. 179 days HTTP Cookie   YSC YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Session HTTP Cookie   yt.innertube::nextId YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Persistent HTML Local Storage   yt.innertube::requests YouTube Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Persistent HTML Local Storage   ytidb::LAST_RESULT_ENTRY_KEY YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-cast-available YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-cast-installed YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-connected-devices YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-device-id YouTube Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage   yt-remote-fast-check-period YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-app YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage   yt-remote-session-name YouTube Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage     Unclassified (6)         Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.           Name Provider Purpose Expiry Type    nlbi_2286311_2147483392 my.nationalgallery.org.uk Pending Session HTTP Cookie   Queue-it-14a4d925-c99e-4fcb-a803-ca1816613b88 my.nationalgallery.org.uk Pending 1 day HTTP Cookie   Queue-it-20608429-0049-4b7b-8af6-a49e3477f99b my.nationalgallery.org.uk Pending 1 day HTTP Cookie   Queue-it-708e919f-1e0a-4e76-be2c-278feecb7c0f my.nationalgallery.org.uk Pending 1 day HTTP Cookie   Queue-it-930de3b7-0605-45a2-aae0-6edae7fe28e6 my.nationalgallery.org.uk Pending 1 day HTTP Cookie   Queue-it-9d92bd32-d31b-461a-81d0-80b071c38722 my.nationalgallery.org.uk Pending 1 day HTTP Cookie   
+
+
+
+
+
+
+
+
+
+
+
+
+                            What are cookies and how do they work?
+                        
+
+
+Cookies are small text files, which contain small amounts of information, that are placed on your device. Your internet browser sends these cookies back to the website every time you visit the site, so the website can recognise your device.
+A cookie will not access any information other than the information you provide to us when you visit the website.
+There are two main types of cookies:
+
+First-party cookies – these are set by the website you are visiting.
+Third-party cookies – these are set by other sites or applications.
+
+For more information about cookies, please visit www.allaboutcookies.org [external link] or www.knowcookies.com [external link].
+
+
+
+
+
+
+                            Why do we use cookies?
+                        
+
+
+Cookies are required to provide some of the services and experiences on our website. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+We use cookies to tailor what you see on the screen when you visit our website. We also use cookies with our marketing partners to provide you with tailored information and advertising about the Gallery as you browse other sites on the internet.
+We also use cookies for web analytics purpose, both in-house and with analytics partners (for example Google Analytics), to give us an idea of how you use our website – which pages or functionality you use – so that we can continually improve our website and your user experience.
+ 
+
+
+
+
+
+
+                            What types of cookies do we use on our website?
+                        
+
+
+Essential/strictly necessary cookies
+Some cookies are essential so that you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remember where you've been on the internet.
+Examples of essential cookies:
+
+When you add something to an online shopping basket, cookies make sure it's still there when you get to the checkout.
+Cookies keep you logged in during your visit; without cookies you might have to log in on every page you go to.
+Some are session cookies, which make it possible to navigate through the website smoothly. However, these are automatically deleted after you close your web browser.
+
+Functional cookies
+Other cookies are non-essential but important to improving your experience on our website.
+Examples of functional cookies:
+
+Remembering a previous search term, so you don’t have to type it in again.
+Remembering if you've filled in a survey, so you're not asked to do it again.
+Enabling social media components, like Facebook or Twitter.
+
+Performance cookies (for analytics)
+To help us keep our website content relevant and up to date, we like to keep track of which pages and links are not only popular and performing well, but also those that aren’t, so we can make improvements. It's also very useful to be able to identify trends of how people find their way through our site.
+Analytics cookies are used to gather this information. The information collected is anonymous and is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works.
+
+
+
+
+
+
+                            Other analytics and metrics tools
+                        
+
+
+Our marketing emails make use of a “Clear Image” (gif) to track, in aggregate, the results of an email campaign. If you wish to turn off this tracking, you can do so by turning off the images in the email itself.
+We also may use tools to monitor, in aggregate, the effectiveness of our communications with subscribers to our updates, including email tracking, which records when an email update from the Gallery is opened and/or how many links are clicked within the message. 
+
+
+
+
+
+
+                            First-party cookies on nationalgallery.org.uk 
+                        
+
+
+We set first party cookies to enable us to run our website and tailor what you see on the screen when you visit the website.
+
+
+
+
+
+
+                            Third-party cookies on nationalgallery.org.uk
+                        
+
+
+We embed content and scripts and make use of applications from a number of third-party websites, such as YouTube. As a result, when you visit a page of the Gallery’s website containing this embedded content you may be presented with cookies from these websites.
+We do not control the dissemination of these cookies. However, if you wish to restrict or block them you can do so through the Manage your cookie preferences button at the top of this page or through your browser settings. The help function within your browser should tell you how. If you would like more information about the cookies used by these third-party websites, as well as information on how to restrict or block them, please see their individual privacy policies.
+We also work with marketing partners who place cookies on our site to deliver Gallery advertising and content relevant to you when you visit other websites. If you don’t want to be shown such targeted advertising messages from the National Gallery on those third party sites, some sites allow you to request not to see such messages
+Third-party websites that send cookies to you as a result of visiting our pages may include: doubleclick.net, facebook.com, google.co.uk, google.com, quantserve.com, trackedweb.net, and youtube.com. This is not meant to be an exhaustive list.
+
+
+
+
+
+
+                            How to control and delete cookies
+                        
+
+
+If you wish to restrict or block the cookies which are set by our website please select the Manage your cookie preferences button at the top of this page. You can also do this through your browser settings. The help function within your browser should tell you how.
+Alternatively, you may wish to visit www.allaboutcookies.org [external link] or www.knowcookies.com [external link] which provide information on how to do this on a variety of browsers. On these sites you will also find details about how to delete cookies from your computer as well as more general information about cookies.
+For information on how to block or delete cookies on the browser of your mobile phone you may need to refer to your handset manual.  Please note, however, that it is not possible to restrict or block essential or strictly necessary cookies.
+Please be aware that restricting cookies may impact on the functionality of our website and your user experience. We recommend you leave them turned on.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join the conversation
+
+
+
+
+
+
+
+
+
+The world's greatest paintings to your inbox
+
+Sign up for emails
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+Go back to the top of the page
+
+
+
+
+
+
+
+
+
+
+
+                                Trafalgar Square
+                                London
+                                WC2N 5DN
+                            
+
+information@nationalgallery.org.uk
+
+
+
+                            Copyright © 2016–2022 The National Gallery
+
+
+
+
+About us
+
+NG200
+Contact us
+Organisation
+Press
+Feedback
+
+
+
+Commercial
+
+Shop
+Venue hire
+Groups and travel trade
+Picture library
+
+
+
+Work with us
+
+National Partnerships
+Borrowing from the Gallery
+Jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accessibility
+
+
+Privacy notice
+
+
+Cookies
+
+
+Website terms of use
+
+
+
+
+
+
+
+

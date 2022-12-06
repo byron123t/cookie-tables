@@ -1,0 +1,82 @@
+Fit Analytics | Privacy PolicyOur SolutionsA Trusted PartnerInnovative TechnologyAbout UsLet’s TalkOur SolutionsFit FinderFit Finder Platform SolutionA Trusted PartnerPartnersCase StudiesResourcesInnovative TechnologyOur TechnologiesHow to IntegrateAbout UsWho We AreCareersBlogPress Corporate Privacy NoticeInformation We ShareInformation We ShareAbout usInformation We CollectHow We Use InformationHow We Share InformationHow Long We Retain InformationCookiesAdditional Information and Contact DetailsAbout usFit Analytics GmbHUpdated: June 1, 2022Welcome to Fit Analytics GmbH! We are a German software company based in Berlin supporting partners across the globe to deliver sizing and style recommendations and advertising improvements to millions of shoppers worldwide by using the power of machine learning
+We are an affiliate of Snap Inc.Fit Analytics GmbH (which we refer to as “Fit Analytics”, “us”, “we” or “our”), located at Frankfurter Allee 77, 10247 Berlin, Germany, is the operator of the Fit Analytics corporate website https://www.fitanalytics.com (which we refer to as “our website”)
+This corporate privacy notice explains how your personal data is processed when you visit our website and in connection with our corporate marketing activities
+It does not apply to use of our Size and Style Solutions (such as Fit Finder, 2D Try On and Style Finder) as a consumer
+This service is controlled by our affiliate Snap Inc
+and is explained in its Size and Style Solution Privacy Notice.Information We CollectWhen you use our website or get in contact with us by using our contact form, we may collect the following categories of personal data:1
+Website InformationWhen you visit our website, our systems may collect technical information about your device and browser, such as:IP address of the requesting computer (shortened/hashed);Date and time of access;Name and URL of retrieved file;Website from which the access originated;Operating system of your computer and your browser;Name of your Internet access providerBrowser type and -version,Operating system,Referrer URL (previously visited page),Host name of the accessing computer, andTime of server requestAdditional information may also be collected about how you use our website (for example which pages you browse and what content you interact with)
+This information is stored against numeric identifiers (e.g
+cookie ids or hashed IP address) which does not directly identify you
+Where required by law, we seek permission to store/access non-essential cookies and other data on your device - see Cookies below for more information.2
+Marketing InformationWhen you or your company completes one of our contact forms on our website, social media or other partner platforms (e.g
+LinkedIn), respond to our adverts or interact with us at corporate marketing events, we may collect information about you:Personal identification and employment information (first name, last name, job title, country, company, phone number, work email, website)Correspondence message / communicationMarketing preference for Snap and Fit Analytics product and service updates 3
+Product Admin and Support ToolsContact Name, Contact Email Address, Contact Title, Contact Phone Number, Client Platform (Shopify, PrestaShop, etc.)Snap account detailsClient support information (Nature and description of the issue the client is facing, Previous issues reported, resolutions, and resolution metrics) Analytics (Information about interactions with our product admin tools, including mouse movements, records of products or services purchased)How We Use InformationWe use the personal information collected to:Provide our website and product admin toolsSupport and respond to client queries and manage our potential and existing customer relationshipsUnderstand how the website and product admin tools perform and how you interact them, to maintain and improve these servicesTo provide you with Snap and Fit Analytics products and service updates where  requested, permitted or agreed.To target advertising based on your and others use of our website and product admin toolsHow We Share InformationThe following table outlines the categories of service providers that are used by Fit Analytics:Service Provider CategoryWhat do we use them for?Cloud ProvidersCloud Computing
+Data hostingAnalyticsWeb analytics
+Data hostingSocial Media platformsWeb analytics
+Advertising
+Social plug-in
+Prospecting Potential Clients
+Customer relationshipsCRM software providersProspecting Potential Clients
+Managing customer relationshipsSupport software providersService and SalesIn addition to this, personal data might be shared with Snap Inc
+and other Snap affiliates for their use as explained in accordance with this privacy notice (for example, our Fit Analytics sales team may share client contact information with our Snap sales teams to contact that client about other Snap services that may be of interest to that client).We may also share personal data for business/asset acquisition/disposal, legal, safety, and security reasons
+This will only take place if we reasonably believe that disclosing the information is needed to comply with any valid legal process, governmental request, or applicable law, rule, or regulation.How Long We Retain InformationWe will retain information about you as follows:Website information - We may keep website information for as long as we need it for the purposes set out in this privacy notice
+We hash IP addresses promptly and your information collected in association with cookies will be anonymised when the cookie expires or is deleted.Marketing information - We may keep any contact information you or your company provides us for as long as we believe you represent a client or prospective client, unless you ask us to delete it soon in accordance with your privacy rights.Product admin and service tools - We may keep your account information for as long as your company informs us that you require it
+The analysis and service query information we collect when you use our admin and support tools may be retained for as long as needed for our record keeping and product improvement purposes.Keep in mind that there may be legal requirements to store your data and we may need to keep data for longer if needed for legal, account or other legitimate corporate business purposes
+Finally, we may also retain certain information in backup for a limited period of time or as required by law.CookiesCookies simplify a variety of processes, one of which is to make your visit to the website easier, more pleasant, and more meaningful
+Cookies are alphanumeric information files that are automatically stored by your browser on the hard drive of your computer when visiting our internet page or our blog
+If you would like to opt out of the cookies we use on any of our websites you may do so by changing your preferences here or by blocking, deleting, or disabling them as your browser or device permits.Cookies will neither damage your computer's hard drive nor forward personal data to us when enabling them
+For example, we will use cookies to be able to identify you as a customer without making it necessary for you to log in again
+For purposes of need-based design and continuous optimization of our pages, we collect and use two types of cookies: essential and analytics cookies
+You can choose which kind of cookies you want to accept on your device upon entering our website for the first time, and you are free to change your cookie settings at any time.Essential cookies are needed for you to browse the website and use its features, so they can not be turned off
+These cookies are set out based on our legitimate interest (Art
+6 I lit
+(f) GDPR) to own and run a fully functional website
+On the other hand, analytics cookies are optional cookies
+They are needed to continuously improve our services
+These cookies are provided by web analysis services ("Google Analytics" and "Hubspot")
+If you consent to these cookies, they are placed on your device based on this consent (Art
+6 I lit
+(a) GDPR).You may prevent installation of all cookies by making the corresponding settings in the browser software
+however, we expressly point out that this will prevent comprehensive use of all functions of this website
+Alternatively, you can use the cookie consent banner on our website to choose whether to consent to use of optional cookies
+You may also choose not to allow Google Analytics cookies on our and others websites by installing the Google Analytics Opt-out Browser Add-on.The following cookies are used on our website and blog:WebsiteNameProviderDomainPurposeDurationESSENTIAL_cfuidCloudflarecloudflare.comServer Protection, Intrusion Detection and Performance Optimization1 monthPreference_gidGooglegoogle.comThis cookie is installed by Google Analytics, and it is used to store information of how visitors use a website1 daycookielawinfo-checkbox-necessary
+blog: store the user consent for the cookies in the category "Necessary"11 monthviewed_cookie_policy
+blog: used to store whether or not a user has consented to the use of cookies1 hourPerformance_gat_UA-87259869-1Googlegoogle.comThis cookie is installed by Google Universal Analytics to throttle the request rate to limit the collection of data on high traffic sites.1 minutecookielawinfo-checkbox-performance
+blog: store the user consent for the cookies in the category "Performance"MarketingIDEGooglegoogle.comShow Google ads on non-Google sites.13 months in the EEA, Switzerland, and the UK and 24 months everywhere elsehubspotutkHubspothubspot.comThis cookie keeps track of a visitor's identity
+It is passed to HubSpot on form submission and used when deduplicating contacts.13 months_hssrcHubspothubspot.comWhenever HubSpot changes the session cookie, this cookie is also set to determine if the visitor has restarted their browser.End of session_hstcHubspothubspot.comThese cookies are used to store information about how visitors use the site and to gather requests from the forms on the website.13 months_hsscHubspothubspot.comThese cookies are used to store information about sessions of visitors in the site.30 minutesFit Analytics / Sizefox BlogOur Blog is one way to keep you updated about the latest developments in the market, our contribution or our technology
+To create the Blog we are using WordPress
+In addition to cookies set on our website, additional cookies may be placed by WordPress
+Please refer to WordPress’s privacy notice in this regard.Additional Information and Contact Details1
+Data TransferWe may collect your personal information from, transfer it to and store and process it in the United States and other countries outside of where you live
+Whenever we share information outside of where you live, when we are legally required to do so, we make sure an adequate transfer mechanism is in place (for example, the European Commission’s Standard Contractual Clauses).2
+Lawful basis of processing (Users in the European Union​, United Kingdom, Brazil and countries with similar laws)As a user in the European Union or the United Kingdom we are only allowed to use your personal data on the basis of the legal framework set by GDPR,  the UK GDPR and the LGPD
+Fit Analytics typically relies on one or more of the following bases for this:Contract: We are using your information because you, or a company you represent, contacted us about entering, or entered, into an agreement with us.Consent: In some cases we’ll ask for consent to use your information for specific purposes (e.g
+direct marketing).Legal obligation: We might be required by law to use your information to comply with legal obligations, for example when we need to respond to valid legal requests.Legitimate Interest: We are using some information collected on our website and product analytics tools to target marketing on partner websites and social media platforms
+You can control this use via your cookie and tracking settings on our and their websites and platforms.3
+Marketing Opt-outAt any time, you can opt-out of receiving offerings-related, promotions-related and inquiry response-related messages from Fit Analytics by using the unsubscribe options in the communication or by contacting us at using the details in the Contact section
+Please note that it may take a little time for all of our systems to register your opt-out request and you may still receive marketing communications during this time.4
+Do Not TrackDo Not Track (“DNT”) is a privacy preference that users can set in certain web browsers
+DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services
+Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.5
+ChildrenPlease note that our website and blog are not intended for users under the age of 18
+We do not knowingly collect personal information from anyone under this age.6
+Privacy RightsPrivacy laws around the world, including in the UK, EU, and California, give users the right to control the handling of your personal information
+These may include:Information
+The right to be told how your personal information is being usedAccess
+The right to receive a copy of your personal informationCorrection
+The right to correct inaccurate personal information we hold about you
+Deletion
+The right to have your personal information deleted.Object
+The right to object to use of your personal information, including for direct marketing.Non-discrimination
+We will not hold it against you when you exercise your rights.For more information or to contact us if you have questions or wish to exercise your rights, please contact us via the details in the Contact section.7
+ContactFor any questions about this Privacy Policy or your privacy rights please contact Fit Analytics using the information below:Data Protection Officer
+Fit Analytics GmbH
+Frankfurter Allee 77, 10247 Berlin, Germany
+privacy@fitanalytics.com Discover a New World of E-Commerce TechnologyGet in touch to learn how Fit Analytics can support your business needs with size and personalization technologies.Let’s TalkOur SolutionsFit FinderFit Finder Platform SolutionA Trusted PartnerPartnersCase StudiesResourcesInnovative TechnologyOur TechnologiesHow to IntegrateAbout UsWho We AreCareersBlogPressPrivacyImprint© 2022 Fit AnalyticsWe use cookies to improve your online experience and to analyze site traffic
+For more information, please see the "Cookies" section of our Privacy Policy
+By clicking "Accept All Cookies" you are consenting to our use of cookies
+You can change your cookie settings or withdraw your consent any time by clicking on "Cookie Settings" below.Cookie SettingsAccept All CookiesCookie settingsCookies are small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing
+Your browser stores each message in a small file, called cookie
+When you request another page from the server, your browser sends the cookie back to the server
+Cookies were designed to be a reliable mechanism for websites to remember information or to record the user's browsing activity.×Essential CookiesEssential CookiesThese cookies are essential for you to browse the website and use its features so they can't be turned off.Affected solutions:CloudflarePreference CookiesOffOnPreference CookiesThese cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.Performance CookiesOffOnPerformance CookiesThese cookies help us understand how visitors interact with our website by collecting and reporting information anonymously.Affected solutions:Google AnalyticsGoogle Universal AnalyticsMarketing CookiesOffOnMarketing CookiesThese cookies are used to track visitors across websites
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.Affected solutions:HubspotSave current settingsAccept all cookies and close

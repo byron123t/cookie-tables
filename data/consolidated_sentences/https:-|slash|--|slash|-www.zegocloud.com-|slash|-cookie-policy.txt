@@ -1,0 +1,282 @@
+ZEGOCLOUD - Cookie Policy
+Products
+COMMUNICATION
+Video Call
+Voice Call
+In-app Chat
+LIVE STREAMING
+Live Streaming
+ADD-ON PRODUCTS
+ADD-ON PRODUCTS
+Avatar  AI Effects  Super Board  Cloud Recording  On-Premises Recording
+ANALYTICS
+Analytics Dashboard
+LOW-CODE SOLUTION
+UIKits Solutions   Social Education Telehealth Shopping Fitness Live Audio RoomDevelopers  Developer Hub Start building easily with quick start tutorials, code samples, key resources and more.
+Get Started
+Documentation UIKits SDK Downloads Tutorials Support
+Resources
+Demo Apps Blog FAQ
+Github
+Discord
+Pricing   Product Pricing Support PlansCompany   About Blog Partners Contact us  Log in  Sign up Talk to us  Talk to us
+Privacy Policy
+Terms of Service
+Cookie Policy
+Cookie Notice ZEGOCLOUD uses cookies to improve your browsing experience and to better tailor its websites to your needs and preferences
+This cookie notice provides more information on the cookies that are used on this website and on how you can change your cookie settings.As indicated in the banner on the homepage, you consent to the use of cookies in accordance with this cookie statement by continuing browsing the website (i.e
+by clicking on a link, image or other content on the homepage)
+You can always withdraw your consent by changing your cookie preferences (Change your cookie settings)
+1
+About cookie Cookies are small text files that websites store on your computer or mobile device
+Below you can find more information about the different types of cookies
+For a full list of the cookies used on this website, see the following section "List of cookies used on this website"
+2
+List of cookies The full list of cookies used on this website is presented below:    Necessary cookies These cookies enable core functionality such as security, network management, and accessibility
+You may disable these by changing your browser settings, but this may affect how the website functions.
+Cookies
+Cookie Subgroups
+Purpose
+_csrf
+.zegocloud.com
+ZEGOCLOUD Login status authentication
+_identity
+.zegocloud.com
+ZEGOCLOUD Login status authentication
+CONSOLE_SID
+.zegocloud.com
+ZEGOCLOUD Login status authentication
+_ga
+.google.com
+ZEGOCLOUD Login status authentication
+Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation
+They may be set by us or by third party providers whose services we have added to our pages
+If you do not allow these cookies, then some or all of these services may not function properly.
+Cookies
+Cookie Subgroups
+Purpose
+CONSOLE_SID
+.zegocloud.com
+Personalise our content fo you, and remember your preferences.
+Advertising cookies These cookies may be set through our site by our advertising partners
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites
+They do not store directly personal information but are based on uniquely identifying your browser and internet device
+If you do not allow these cookies, you will experience less targeted advertising.
+Cookies
+Cookie Subgroups
+Purpose
+_uetvid
+.zegocloud.com
+Presentation of advertisement or social media campaigns
+_uetsid
+.zegocloud.com
+Presentation of advertisement or social media campaigns
+_fbp
+.facebook.com
+Presentation of advertisement or social media campaigns
+fr
+.facebook.com
+Presentation of advertisement or social media campaigns
+xs
+.facebook.com
+Presentation of advertisement or social media campaigns
+datr
+.facebook.com
+Presentation of advertisement or social media campaigns
+wd
+.facebook.com
+Presentation of advertisement or social media campaigns
+locale
+.facebook.com
+Presentation of advertisement or social media campaigns
+c_user
+.facebook.com
+Presentation of advertisement or social media campaigns
+sb
+.facebook.com
+Presentation of advertisement or social media campaigns
+AnalyticsSyncHistory
+.linkedin.com
+Presentation of advertisement or social media campaigns
+UserMatchHistory
+.linkedin.com
+Presentation of advertisement or social media campaigns
+bcookie
+.linkedin.com
+Presentation of advertisement or social media campaigns
+lang
+.linkedin.com
+Presentation of advertisement or social media campaigns
+li_sugr
+.linkedin.com
+Presentation of advertisement or social media campaigns
+lidc
+.linkedin.com
+Presentation of advertisement or social media campaigns
+lang
+ads.linkedin.com
+Presentation of advertisement or social media campaigns
+U
+.adsymptotic.com
+Presentation of advertisement or social media campaigns
+IDE
+.doubleclick.net
+Presentation of advertisement or social media campaigns
+Analytics cookies These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site
+They help us know which pages are the most and least popular and see how visitors move around the site
+All information these cookies collect is aggregated and therefore anonymous
+If you do not allow these cookies, we will not know when you have visited our site.
+Cookies
+Cookie Subgroups
+Purpose
+sensorsdata2015jssdkcross
+.zegocloud.com
+Collect information about how visitors use our website
+sajssdk_2015_cross_new_user
+.zegocloud.com
+Collect information about how visitors use our website
+test_version
+.zegocloud.com
+Collect information about how visitors use our website
+_ga
+.google.com
+Collect information about how visitors use our website
+_gid
+.google.com
+Collect information about how visitors use our website
+_gcl_au
+.google.com
+Collect information about how visitors use our website
+_gat_gtag_UA_144922806_1
+.google.com
+Collect information about how visitors use our website
+__hssc
+.hubspot.com
+Collect information about how visitors use our website
+__hssrc
+.hubspot.com
+Collect information about how visitors use our website
+__hstc
+.hubspot.com
+Collect information about how visitors use our website
+_clck
+.hubspot.com
+Collect information about how visitors use our website
+_clsk
+.hubspot.com
+Collect information about how visitors use our website
+hubspotutk
+.hubspot.com
+Collect information about how visitors use our website
+messagesUtk
+.hubspot.com
+Collect information about how visitors use our website
+__cf_bm
+.hubspot.com
+Collect information about how visitors use our website
+__cfruid
+.hubspot.com
+Collect information about how visitors use our website
+csrf.app
+.hubspot.com
+Collect information about how visitors use our website
+hubspotapi
+.hubspot.com
+Collect information about how visitors use our website
+hubspotapi-csrf
+.hubspot.com
+Collect information about how visitors use our website
+hubspotapi-prefs
+.hubspot.com
+Collect information about how visitors use our website
+CLID
+www.clarity.ms
+Collect information about how visitors use our website
+MUID
+.clarity.ms
+Collect information about how visitors use our website
+3
+Change your cookie settings Via your browser settings   Your browser settings allow you to view and delete cookies from your computer and disable or block the installation of cookies on your computer
+Below you can find relevant instructions for the different browsers:   Cookies in Mozilla FirefoxCookies in Google ChromeCookies in Internet ExplorerCookies in SafariIf you use a mobile device, please see your handset manual for more information
+Please note that you have to separately adapt the settings for each device and browser you use
+If you block the installation of cookies on your computer, we cannot guarantee the proper functioning of our website or some of its components
+4
+Future changes We might have to adapt this statement from time to time, due to changes to the website or in the applicable regulation
+You can always consult the latest version of our cookie statement via the website
+To build a connected world by powering real-time engagement
+Products
+Video Call Video CallVoice Call Voice CallLive Streaming Live StreamingIn-app Chat In-app ChatVirtual Avatar Virtual AvatarAI Effects AI EffectsSuper Board Super BoardCloud Recording Cloud RecordingUIKits UIKits Video Call Video CallVoice Call Voice CallLive Streaming Live StreamingIn-app Chat In-app ChatVirtual Avatar Virtual AvatarAI Effects AI EffectsSuper Board Super BoardCloud Recording Cloud RecordingUIKits UIKits
+Solutions
+Social SocialEducation EducationTelehealth TelehealthShopping ShoppingFitness FitnessLive Audio Room Live Audio Room Social SocialEducation EducationTelehealth TelehealthShopping ShoppingFitness FitnessLive Audio Room Live Audio Room
+Developers
+Developer Hub Developer HubDocumentation DocumentationUIKits UIKitsSDKs SDKsSupport SupportFAQ FAQPricing PricingSupport Plans Support Plans Developer Hub Developer HubDocumentation DocumentationUIKits UIKitsSDKs SDKsSupport SupportFAQ FAQPricing PricingSupport Plans Support Plans
+Company
+About AboutBlog BlogPartners PartnersPolicy PolicyContact Us Contact UsSign Up Sign UpLog In Log In About AboutBlog BlogPartners PartnersPolicy PolicyContact Us Contact UsSign Up Sign UpLog In Log In Copyright @2021-2022 ZEGOCLOUD
+All Rights Reserved
+Privacy policy  Cookies policy  Terms of service   Your cookies preferences
+Cookies usage instructions
+Strictly necessary cookies
+Functional cookies
+Targeting and advertising cookies
+Statistical analysis cookies
+Cookies usage instructions
+When you visit our website, we will use cookies to make sure you get the best experience on our website.
+These cookies might be about you, your preferences or your device
+The information does not usually
+directly identify you, but it can give you a more personalised web experience
+Because we respect your
+right to privacy, you can choose not to allow some types of cookies
+Click on the different category
+headings to find out more and change our default settings
+However, blocking some types of cookies may
+impact your experience of the site and the services we are able to offer.
+We will need to use a cookie to remember the choices that you have made within our cookie privacy
+manager
+This will have a couple of consequences:
+If you delete all your cookies you will have to update your preferences again.
+If you use a different device or browser you will have to tell us your preferences again.
+Necessary cookies Actived
+These cookies enable core functionality such as security, network management, and accessibility
+You may
+disable these by changing your browser settings, but this may affect how the website functions.
+Cookies used： .zegocloud.com _csrf,_identity,CONSOLE_SID  .google.com
+_ga
+Functional Cookies Actived
+These cookies enable the website to provide enhanced functionality and personalisation
+They may be set by
+us or by third party providers whose services we have added to our pages
+If you do not allow these
+cookies, then some or all of these services may not function properly.
+Cookies used： .zegocloud.com CONSOLE_SID Advertising cookies Actived
+These cookies may be set through our site by our advertising partners
+They may be used by those companies
+to build a profile of your interests and show you relevant adverts on other sites
+They do not store
+directly personal information but are based on uniquely identifying your browser and internet device
+If
+you do not allow these cookies, you will experience less targeted advertising.
+Cookies used： .zegocloud.com
+_uetvid,_uetsid
+.facebook.com _fbp,fr,xs,datr,wd,locale,c_user,sb  .linkedin.com AnalyticsSyncHistory, UserMatchHistory, bcookie, lang, li_sugr, lidc  ads.linkedin.com lang,U  .doubleclick.net IDE Analytics cookies Actived
+These cookies allow us to count visits and traffic sources, so we can measure and improve the performance
+of our site
+They help us know which pages are the most and least popular and see how visitors move around
+the site
+All information these cookies collect is aggregated and therefore anonymous
+If you do not allow
+these cookies, we will not know when you have visited our site.
+Cookies used： .zegocloud.com sensorsdata2015jssdkcross,sajssdk_2015_cross_new_user,test_version  .google.com _ga,_gid,_gcl_au,_gat_gtag_UA_144922806_1  .hubspot.com
+__hssc, __hssrc, __hstc, _clck, _clsk, hubspotutk, messagesUtk, __cf_bm, __cfruid, csrf.app, hubspotapi,
+hubspotapi-csrf, hubspotapi-prefs
+www.clarity.ms
+CLID
+.clarity.ms
+MUID
+Cookies Policy Privacy Policy Save and close    Hi there, we are here to help you find your way
+You can ask us anything via:  WhatsApp
+Wechat
+Book a Meeting
+Submit a Request
+global@zegocloud.com
+发送邮件
+Scan the QR code with your WhatsApp
